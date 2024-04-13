@@ -6538,14 +6538,6 @@ msgctxt "#14078"
 msgid "Colours"
 msgstr "Kleure"
 
-msgctxt "#14079"
-msgid "Timezone country"
-msgstr "Tydsone land"
-
-msgctxt "#14080"
-msgid "Timezone"
-msgstr "Tydsone"
-
 msgctxt "#14081"
 msgid "File lists"
 msgstr "Lêer lyste"
@@ -15489,16 +15481,6 @@ msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
 msgstr "Kies watter karakter stel gebruik word om teks in die gebruikers koppelvlak te vertoon. Hierdie verander nie die karakter stel gebruik vir onderskrifte, gaan na Speler > Taal daarvoor."
 
-#. Description of setting with label #14079 "Timezone country"
-msgctxt "#36117"
-msgid "Select country location."
-msgstr "Kies land ligging."
-
-#. Description of setting with label #14080 "Timezone"
-msgctxt "#36118"
-msgid "Select your current timezone."
-msgstr "Kies jou huidige tydsone."
-
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
 msgid "Defaults to the selected audio language if more than one language is available."
@@ -17991,7 +17973,7 @@ msgstr "Lees Faktor"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
-msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
+msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
 msgstr ""
 
 #. Description of setting "Chunk Size"
@@ -18031,7 +18013,7 @@ msgstr ""
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
-msgid "Adaptative"
+msgid "Adaptive"
 msgstr ""
 
 # empty strings from id 37116 to 37119
@@ -19354,11 +19336,6 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "Geen soortgelyke flieks in die biblioteek gevind nie."
 
-#. Addition of new version: a movie with multiple versions cannot be turned into a version of another movie.
-msgctxt "#40033"
-msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
-msgstr ""
-
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19609,6 +19586,22 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#14079"
+#~ msgid "Timezone country"
+#~ msgstr "Tydsone land"
+
+#~ msgctxt "#14080"
+#~ msgid "Timezone"
+#~ msgstr "Tydsone"
+
+#~ msgctxt "#36117"
+#~ msgid "Select country location."
+#~ msgstr "Kies land ligging."
+
+#~ msgctxt "#36118"
+#~ msgid "Select your current timezone."
+#~ msgstr "Kies jou huidige tydsone."
 
 #~ msgctxt "#40427"
 #~ msgid "DVD"

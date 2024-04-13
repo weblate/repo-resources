@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-27 02:40+0000\n"
+"PO-Revision-Date: 2024-03-31 18:13+0000\n"
 "Last-Translator: psp2111-ADSLGATE <psp100000@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ar_sa/>\n"
 "Language: ar_sa\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -433,7 +433,7 @@ msgstr "هل ترغب بنقل الملف / الملفات المختارة؟"
 
 msgctxt "#125"
 msgid "Would you like to delete the selected file(s)?[CR]Warning - this action can't be undone!"
-msgstr "هل ترغب بحذف الملف / الملفات المختارة؟ تحذير،هذه العملية لا يمكن التراجع عنها!"
+msgstr "هل ترغب بحذف الملف / الملفات المختارة؟[CR]تحذير،هذه العملية لا يمكن التراجع عنها!"
 
 msgctxt "#126"
 msgid "Status"
@@ -1470,12 +1470,12 @@ msgstr "خفيفة"
 #. Weather token
 msgctxt "#378"
 msgid "AM"
-msgstr "صباحا"
+msgstr "صباحًا"
 
 #. Weather token
 msgctxt "#379"
 msgid "PM"
-msgstr "مساءاً"
+msgstr "مساءً"
 
 #. Weather token
 msgctxt "#380"
@@ -1699,7 +1699,7 @@ msgstr "إزالة الفيلم من المكتبة"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "هل تريد فعلاً إزالة '{0:s}' من المكتبة؟"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -4665,12 +4665,12 @@ msgstr "القائمة"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "فلتر الفيديو"
 
 #. Title of the in-game video stretch mode selection dialog
 msgctxt "#10824"
 msgid "Stretch Mode"
-msgstr ""
+msgstr "وضع التمدد"
 
 #. Title of the in-game volume dialog
 msgctxt "#10825"
@@ -4680,12 +4680,12 @@ msgstr "مقدار الصوت"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "الإعدادات المتقدمة"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "تدوير الفيديو"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
@@ -4695,17 +4695,17 @@ msgstr "إعداد المنفذ"
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
 msgid "Select Savestate"
-msgstr ""
+msgstr "اختيار حالة حفظ"
 
 #. Title of the out-of-game dialog to select a savestate for the current game
 msgctxt "#10830"
 msgid "Select Savestate"
-msgstr ""
+msgstr "اختيار حالة حفظ"
 
 #. Name of window for viewing and configuring players while playing a game
 msgctxt "#10831"
 msgid "Players"
-msgstr ""
+msgstr "اللاعبين"
 
 # empty strings from id 10825 to 11999
 msgctxt "#12000"
@@ -4763,11 +4763,11 @@ msgstr "آخر تحديث"
 
 msgctxt "#12015"
 msgid "Select video version"
-msgstr ""
+msgstr "اختيار إصدار الفيديو"
 
 msgctxt "#12016"
 msgid "Select video extra"
-msgstr ""
+msgstr "اختيار مقطع اكسترا او خلف الكواليس"
 
 # empty strings from id 12015 to 12020
 #. Label of various controls for starting playback from the beginning
@@ -5688,7 +5688,7 @@ msgstr "معلومات الفيلم"
 #. Label for 'queue item' (adds an item to a playlist), used at several places
 msgctxt "#13347"
 msgid "Queue item"
-msgstr "عنصر قائمة الانتظار"
+msgstr "قائمة الانتظار"
 
 msgctxt "#13348"
 msgid "Search IMDb..."
@@ -5814,7 +5814,7 @@ msgstr "لا توجد إعدادات مسبقة متاحة لهذه المؤثر
 
 msgctxt "#13390"
 msgid "There are no settings available[CR]for this visualisation"
-msgstr "لا توجد إعدادات متاحة [CR] لهذا المؤثر البصري"
+msgstr "لا توجد إعدادات متاحة[CR]لهذا المؤثر البصري"
 
 msgctxt "#13391"
 msgid "Eject / Load"
@@ -5920,12 +5920,12 @@ msgstr "اكتشاف تلقائي"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
-msgstr ""
+msgstr "السماح باستخدام تقنية DXVA Video Super Resolution لرفع الجودة"
 
 #. Setting Player / Video
 msgctxt "#13418"
 msgid "Use high precision processing"
-msgstr ""
+msgstr "استخدام معالجة عالية الدقة"
 
 msgctxt "#13419"
 msgid "Software"
@@ -5995,7 +5995,7 @@ msgstr "قم بتمكين مقاييس HQ للقياس أعلاه"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "ضبط وضع HDR للشاشة"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6583,14 +6583,6 @@ msgstr "إزالة من المفضلة"
 msgctxt "#14078"
 msgid "Colours"
 msgstr "الألوان"
-
-msgctxt "#14079"
-msgid "Timezone country"
-msgstr "دولة المنطقة الزمنية"
-
-msgctxt "#14080"
-msgid "Timezone"
-msgstr "المنطقة الزمنية"
 
 msgctxt "#14081"
 msgid "File lists"
@@ -9381,7 +9373,7 @@ msgstr "تفضيلات المستخدم"
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr ""
+msgstr "استخدام ترتيب المجموعات للقنوات من المشغل"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
@@ -9391,17 +9383,17 @@ msgstr ""
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "تشغيل البرنامج التالي تلقائياً"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "تشغيل البرامج من هنا"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr ""
+msgstr "تشغيل هذا البرنامج فقط"
 
 # empty strings from id 19334 to 19498
 #. label for epg genre value
@@ -12493,12 +12485,12 @@ msgstr "تنسيق الأحرف"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr ""
+msgstr "طريقة الاستئناف الافتراضية"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "اسأل"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -14944,12 +14936,12 @@ msgstr "الماوس"
 #. Name of window for configuring players while playing a game
 msgctxt "#35172"
 msgid "Players"
-msgstr ""
+msgstr "اللاعبين"
 
 #. Notification shown when no controllers are connected in the in-game dialog that lets users configure player assignment
 msgctxt "#35173"
 msgid "No controllers connected"
-msgstr ""
+msgstr "لا يوجد أداة تحكم متصلة"
 
 # empty strings from id 35172 to 35199
 #. This string is an early meme from the late 1990's that made fun of the poor translation in the 16-bit game Zero Wing from the late 1980's. DO NOT TRANSLATE!
@@ -15158,7 +15150,7 @@ msgstr "احفظ اللعبة تلقائيًا أثناء اللعب ، إذا �
 #. Label for showing which emulator the game was saved with
 msgctxt "#35255"
 msgid "Saved with:"
-msgstr ""
+msgstr "تم الحفظ بواسطة:"
 
 # empty string with id 35255
 #. Error message when a game client fails to install when a game is being launched
@@ -15483,13 +15475,13 @@ msgstr "جهاز التشغيل"
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36053"
 msgid "Tuner Device"
-msgstr ""
+msgstr "جهاز الدش"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
 msgid "Use system HDR/SDR brightness balance"
-msgstr ""
+msgstr "استخدم موازنة إضاءة HDR/SDR للنظام"
 
 # empty strings from id 36054 to 36096
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
@@ -15592,16 +15584,6 @@ msgstr "حدد تنسيقات درجة الحرارة والوقت والتار�
 msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
 msgstr "اختر تنسيق الأحرف المستخدمة لعرض النص في واجهة المستخدم. هذا لا يغير تنسيق الأحرف المستخدمة في الترجمة ، لتغيير تنسيق الأحرف للترجمة انتقل إلى \"مشغل الوسائط\" ثم \"الترجمات\"."
-
-#. Description of setting with label #14079 "Timezone country"
-msgctxt "#36117"
-msgid "Select country location."
-msgstr "حدد موقع الدولة."
-
-#. Description of setting with label #14080 "Timezone"
-msgctxt "#36118"
-msgid "Select your current timezone."
-msgstr "حدد منطقتك الزمنية الحالية."
 
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
@@ -15888,7 +15870,7 @@ msgstr "تحتوي هذه الفئة على الإعدادات الخاصة بك
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "بدل بين [اختر], [تشغيل] (الافتراضي), [استئنتاف], [عرض المعلومات] و [قائمة الانتظار].[CR][اختر] سوف يفتح لك قائمة السياق\\الخيارات للعنصر المحدد.[CR][تشغيل] سوف يقوم بتشغيل الفيديوهات من البداية او يسألك في حال توفر نقطة استئناف للتكملة او البدء من جديد.[CR][استئنتاف] سوف يقوم باستئناف الفيديو تلقائياً من اخر نقطة حفظ.[CR][عرض المعلومات] سوف يفتح لك نافذة المعلومات للفيديو[CR][قائمة الانتظار] سوف يتم إدارج الفيديو في قائمة التشغيل."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16015,7 +15997,7 @@ msgstr "لتمكين ميزات \"مسجل الفيديو الشخصي\" (PVR). 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr ""
+msgstr "للتبديل بين [اسأل] (الافتراضي) و [استئناف].[CR][اسأل] سوف يسألك هل تريد الاستئناف او البدء من جديد (في حال توفر نقظة استئناف).[CR][استئناف] سوف يستأنف الفيديو من اخر نقطة استئناف تم تسجيلها.[CR] في حال عدم توفر نقطة استئناف, سوف يتم تشغيل الفيديو من البداية بشكل تلقائي."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16441,7 +16423,7 @@ msgstr "في حالة التمكين ، سيتم جدولة تسجيل البر�
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "السماح للشاشة بتغيير وضع الـHDR لأفضل تطابق مع الوسائط.[CR]في حال التعطيل، Kodi راح يقوم بتطبيق التغييرات او tonemapping عند الحاجة (وإذا كان مدعومًا من جهازك) لتكييف الوسائط مع وضع HDR الحالي للشاشة."
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
@@ -17103,7 +17085,7 @@ msgstr "في حالة التمكين ، قم بالتبديل إلى القنا�
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr ""
+msgstr "يقوم بترتيب مجموعات القنوات على حسب الترتيب المقدم من مشغل القنوات. في حال التفعيل، فإن المجموعات لا يمكن إعادة ترتيبها من مدير المجموعة."
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -18114,7 +18096,7 @@ msgstr ""
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
-msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
+msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
 msgstr ""
 
 #. Description of setting "Chunk Size"
@@ -18154,7 +18136,7 @@ msgstr ""
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
-msgid "Adaptative"
+msgid "Adaptive"
 msgstr ""
 
 # empty strings from id 37116 to 37119
@@ -19489,11 +19471,6 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr ""
 
-#. Addition of new version: a movie with multiple versions cannot be turned into a version of another movie.
-msgctxt "#40033"
-msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
-msgstr ""
-
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19744,6 +19721,22 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#14079"
+#~ msgid "Timezone country"
+#~ msgstr "دولة المنطقة الزمنية"
+
+#~ msgctxt "#14080"
+#~ msgid "Timezone"
+#~ msgstr "المنطقة الزمنية"
+
+#~ msgctxt "#36117"
+#~ msgid "Select country location."
+#~ msgstr "حدد موقع الدولة."
+
+#~ msgctxt "#36118"
+#~ msgid "Select your current timezone."
+#~ msgstr "حدد منطقتك الزمنية الحالية."
 
 #~ msgctxt "#40427"
 #~ msgid "DVD"

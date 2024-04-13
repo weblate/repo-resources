@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-11 23:43+0000\n"
+"PO-Revision-Date: 2024-03-26 08:33+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -6536,14 +6536,6 @@ msgctxt "#14078"
 msgid "Colours"
 msgstr "Colori"
 
-msgctxt "#14079"
-msgid "Timezone country"
-msgstr "Paese fuso orario"
-
-msgctxt "#14080"
-msgid "Timezone"
-msgstr "Fuso orario"
-
 msgctxt "#14081"
 msgid "File lists"
 msgstr "Elenchi file"
@@ -11013,7 +11005,7 @@ msgstr "Episodi aggiunti di recente"
 
 msgctxt "#20388"
 msgid "Studios"
-msgstr "Studio"
+msgstr "Studios"
 
 msgctxt "#20389"
 msgid "Music videos"
@@ -15482,16 +15474,6 @@ msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
 msgstr "Seleziona il set di caratteri da usare per il testo dell'interfaccia utente. Questo non cambia il set di caratteri usato per i sottotitoli, per questo vai in Lettore > Lingua."
 
-#. Description of setting with label #14079 "Timezone country"
-msgctxt "#36117"
-msgid "Select country location."
-msgstr "Seleziona paese."
-
-#. Description of setting with label #14080 "Timezone"
-msgctxt "#36118"
-msgid "Select your current timezone."
-msgstr "Seleziona fuso orario."
-
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
 msgid "Defaults to the selected audio language if more than one language is available."
@@ -17984,8 +17966,8 @@ msgstr "Fattore di lettura"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
-msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
-msgstr "Determina il tasso di riempimento della cache in termini di valore medio. bitrate del flusso x Fattore di lettura. Aumentando questo multiplo, la cache si riempirà più velocemente. Multipli di grandi dimensioni possono causare picchi di CPU su alcuni dispositivi, saturare la connessione e peggiorare le prestazioni.[CR][Adattivo] Usa il fattore di lettura calcolato dinamicamente in base al livello della cache."
+msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
+msgstr "Determina il tasso di riempimento della cache in termini di valore medio bitrate del flusso x fattore di lettura. Aumentando questo multiplo, la cache si riempirà più velocemente. Multipli di grandi dimensioni possono causare picchi di CPU su alcuni dispositivi, saturare la connessione e peggiorare le prestazioni.[CR][Adattivo] Utilizza il fattore di lettura calcolato dinamicamente in base al livello della cache."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
@@ -18024,7 +18006,7 @@ msgstr "Cache dell'intero file sul disco"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
-msgid "Adaptative"
+msgid "Adaptive"
 msgstr "Adattivo"
 
 # empty strings from id 37116 to 37119
@@ -19345,11 +19327,6 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "Nessun film simile è stato trovato nella libreria."
 
-#. Addition of new version: a movie with multiple versions cannot be turned into a version of another movie.
-msgctxt "#40033"
-msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
-msgstr "La versione predefinita di un film con più versioni non può essere aggiunta come versione a un altro film. Aggiungi prima le sue versioni aggiuntive."
-
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19600,6 +19577,34 @@ msgstr "Edizione del 40° anniversario"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "Edizione del 50° anniversario"
+
+#~ msgctxt "#14079"
+#~ msgid "Timezone country"
+#~ msgstr "Paese fuso orario"
+
+#~ msgctxt "#14080"
+#~ msgid "Timezone"
+#~ msgstr "Fuso orario"
+
+#~ msgctxt "#36117"
+#~ msgid "Select country location."
+#~ msgstr "Seleziona paese."
+
+#~ msgctxt "#36118"
+#~ msgid "Select your current timezone."
+#~ msgstr "Seleziona fuso orario."
+
+#~ msgctxt "#40033"
+#~ msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
+#~ msgstr "La versione predefinita di un film con più versioni non può essere aggiunta come versione a un altro film. Aggiungi prima le sue versioni aggiuntive."
+
+#~ msgctxt "#37108"
+#~ msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
+#~ msgstr "Determina il tasso di riempimento della cache in termini di valore medio. bitrate del flusso x Fattore di lettura. Aumentando questo multiplo, la cache si riempirà più velocemente. Multipli di grandi dimensioni possono causare picchi di CPU su alcuni dispositivi, saturare la connessione e peggiorare le prestazioni.[CR][Adattivo] Usa il fattore di lettura calcolato dinamicamente in base al livello della cache."
+
+#~ msgctxt "#37116"
+#~ msgid "Adaptative"
+#~ msgstr "Adattivo"
 
 #~ msgctxt "#40405"
 #~ msgid "4K"

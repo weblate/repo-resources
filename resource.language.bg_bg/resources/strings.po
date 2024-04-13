@@ -6536,14 +6536,6 @@ msgctxt "#14078"
 msgid "Colours"
 msgstr "Цветове"
 
-msgctxt "#14079"
-msgid "Timezone country"
-msgstr "Часови пояс на държава"
-
-msgctxt "#14080"
-msgid "Timezone"
-msgstr "Часови пояс"
-
 msgctxt "#14081"
 msgid "File lists"
 msgstr "Списъци с файлове"
@@ -15482,16 +15474,6 @@ msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
 msgstr "Изберете кой набор от знаци да се ползва за изобразяване на текста в потребителския интерфейс. Наборът от знаци за субтитрите се определя от Плейър > Език."
 
-#. Description of setting with label #14079 "Timezone country"
-msgctxt "#36117"
-msgid "Select country location."
-msgstr "Изберете местоположението на страната, в която се намирате."
-
-#. Description of setting with label #14080 "Timezone"
-msgctxt "#36118"
-msgid "Select your current timezone."
-msgstr "Изберете часовия пояс, в който се намирате."
-
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
 msgid "Defaults to the selected audio language if more than one language is available."
@@ -17984,7 +17966,7 @@ msgstr ""
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
-msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
+msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
 msgstr ""
 
 #. Description of setting "Chunk Size"
@@ -18024,7 +18006,7 @@ msgstr ""
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
-msgid "Adaptative"
+msgid "Adaptive"
 msgstr ""
 
 # empty strings from id 37116 to 37119
@@ -19345,11 +19327,6 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr ""
 
-#. Addition of new version: a movie with multiple versions cannot be turned into a version of another movie.
-msgctxt "#40033"
-msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
-msgstr ""
-
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19600,6 +19577,22 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#14079"
+#~ msgid "Timezone country"
+#~ msgstr "Часови пояс на държава"
+
+#~ msgctxt "#14080"
+#~ msgid "Timezone"
+#~ msgstr "Часови пояс"
+
+#~ msgctxt "#36117"
+#~ msgid "Select country location."
+#~ msgstr "Изберете местоположението на страната, в която се намирате."
+
+#~ msgctxt "#36118"
+#~ msgid "Select your current timezone."
+#~ msgstr "Изберете часовия пояс, в който се намирате."
 
 #~ msgctxt "#40427"
 #~ msgid "DVD"

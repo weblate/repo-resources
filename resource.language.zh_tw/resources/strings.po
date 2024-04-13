@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-16 02:56+0000\n"
+"PO-Revision-Date: 2024-04-05 04:45+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Taiwan) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_tw/>\n"
 "Language: zh_tw\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1699,7 +1699,7 @@ msgstr "從資料庫中移除影片"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "你確定要從資料庫移除 '{0:s}' 嗎？"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -6538,14 +6538,6 @@ msgctxt "#14078"
 msgid "Colours"
 msgstr "色彩"
 
-msgctxt "#14079"
-msgid "Timezone country"
-msgstr "時區國家"
-
-msgctxt "#14080"
-msgid "Timezone"
-msgstr "時區"
-
 msgctxt "#14081"
 msgid "File lists"
 msgstr "檔案列表"
@@ -9327,22 +9319,22 @@ msgstr "使用來自後端的頻道群組順序"
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "補追 / 隨選視訊"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "自動播放下一個已排程的內容"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "從這裡開始播放排程內容"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr ""
+msgstr "只播放本排程內容"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -15489,16 +15481,6 @@ msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
 msgstr "選擇在操作介面中顯示文字內容用的字元集。這不會影響字幕使用的字元集，若需要更改請至 播放器 > 語言。"
 
-#. Description of setting with label #14079 "Timezone country"
-msgctxt "#36117"
-msgid "Select country location."
-msgstr "選擇國家位置。"
-
-#. Description of setting with label #14080 "Timezone"
-msgctxt "#36118"
-msgid "Select your current timezone."
-msgstr "選擇目前所在時區。"
-
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
 msgid "Defaults to the selected audio language if more than one language is available."
@@ -17021,7 +17003,7 @@ msgstr "任何元件庫"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "播放過去的節目(補追)或隨選視訊 (VOD) 頻道時自動播放下一個節目。請注意，重播和 VOD 僅在頻道提供者支援的情況下才有效。"
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17931,129 +17913,129 @@ msgstr "建立NFS連線時要使用的NFS 通訊協定版本"
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "資料塊大小"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "NFS資料塊大小"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "NFS 連線時使用的資料塊大小"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "SMB資料塊大小"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "SMB 連線時使用的資料塊大小"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "快取"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "本區塊包含本機與區網檔案，以及網路串流之快取相關設定。"
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "緩衝模式"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "設定要先行緩衝的媒體內容。"
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "記憶體大小"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "記憶體緩衝區的大小（以 MB 為單位）。設定零 (0) 會強制緩衝到磁碟，但在快閃記憶體裝置（eMMC、SD 卡、SSD）上不建議這樣做。"
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "讀取係數"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
-msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptative] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
+msgstr "根據串流位元率 x 讀取係數的平均值決定快取填充率。 增加此倍數，則快取填充得更快。 較大的倍數可能會導致某些裝置上的 CPU 效能滿載、連接飽和並降低效能。[CR][自適應] 使用基於快取等級動態計算出的讀取係數。"
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "當檔案系統或協定不指定數值時所使用的資料區塊大小，例如 NFS 將用它自己的值覆蓋此數值。"
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "無緩存"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "只為真實網路串流進行緩存：如HTTP, HTTPS等。"
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "緩存所有網路檔案系統，包括：FTP、WebDEV等。"
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "緩存所有網路檔案系統，包括：SMB、NFS等。"
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "緩存所有網路檔案系統，包括本機檔案"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "快取磁碟中的所有檔案"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
-msgid "Adaptative"
-msgstr ""
+msgid "Adaptive"
+msgstr "自適應"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} 位元組"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KB"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MB"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} GB"
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -19152,7 +19134,7 @@ msgstr "播放音樂時，螢幕保護程式不會啟動"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr ""
+msgstr "使用NVIDIA“RTX 視訊超解析度”或“Intel 視訊超解析度”啟用進階DXVA 升頻器。[CR]當視訊來源為1920x1080 或更低且來源解析度低於顯示解析度時使用。[CR]僅適用特定硬體：NVIDIA RTX 20xx、30xx、40xx 及以上、Intel Arc A770、A750。"
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19162,32 +19144,32 @@ msgstr "開啟此選項可得到最好的畫質。在低效能設備上可關閉
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "杜比視界相容模式"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "啟用後，杜比視界設定檔 7 將轉換為更受大部分裝置支援的設定檔 8.1。 如果您的裝置支援杜比視界，但某些影片有問題，請啟用。"
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "已允許的 HDR 動態元資料格式"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "變更視訊位元流以移除動態 HDR 元資料。 選擇您的裝置和顯示器支援的 HDR 格式。"
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "杜比視界"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19198,12 +19180,12 @@ msgstr "版本"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "版本管理"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "視為版本加至..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19213,122 +19195,122 @@ msgstr "版本"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "選擇類型"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "不支援的操作"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "所選電影有多個版本，因此無法轉換為另一部電影。 請刪除該影片版本資訊，重新掃描資料庫並單獨轉換它們。"
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "此 \"{0:s}\" 版本已存在！"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "找到不同版本的電影"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "找到電影\"{0:s}\"的不同版本：{1:s}。 您想將其轉換為原始版本的附加版本嗎？"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "影片版本"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "影片版本"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "影片版本"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "影片版本"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "增加版本"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "增加額外內容"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "所選擇的影片已經是該電影的 \"{0:s}\" 版本。"
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "所選影片是電影“{1:s}”的“{0:s}”版本。 您想將此版本移至這部電影嗎？"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "移除影片版本資訊"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "無法移除影片的預設版本資訊。請設定不同的預設版本並重試。"
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "您確定要移除版本\"{0:s}\"？"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "您確定要從資料庫中刪除“{0:s}”及其所有版本嗎？"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "管理{0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "設為預設"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "版本管理：{0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "管理額外內容：{0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "所選影片已經是電影“{0:s}”的額外內容。"
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "所選影片是電影“{1:s}”的“{0:s}”額外內容。 您想將此額外內容移至這部電影嗎？"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19338,26 +19320,21 @@ msgstr "瀏覽檔案"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "瀏覽資料庫"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "選擇電影以加入成為版本"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "資料庫中沒有找到其他電影。"
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
-
-#. Addition of new version: a movie with multiple versions cannot be turned into a version of another movie.
-msgctxt "#40033"
-msgid "The default version of a movie with multiple versions cannot be added as a version to another movie. Please add its additional versions first."
 msgstr ""
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
@@ -19610,6 +19587,22 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#14079"
+#~ msgid "Timezone country"
+#~ msgstr "時區國家"
+
+#~ msgctxt "#14080"
+#~ msgid "Timezone"
+#~ msgstr "時區"
+
+#~ msgctxt "#36117"
+#~ msgid "Select country location."
+#~ msgstr "選擇國家位置。"
+
+#~ msgctxt "#36118"
+#~ msgid "Select your current timezone."
+#~ msgstr "選擇目前所在時區。"
 
 #~ msgctxt "#40427"
 #~ msgid "DVD"
