@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-19 13:57+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2024-09-04 16:26+0000\n"
+"Last-Translator: Daniel <danny3@tutanota.com>\n"
 "Language-Team: Romanian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ro_ro/>\n"
 "Language: ro_ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.7.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -52,7 +52,7 @@ msgstr "Meteo"
 
 msgctxt "#9"
 msgid "Kodi media center"
-msgstr "Centru media Kodi"
+msgstr "Centrul media Kodi"
 
 #. Weather token
 msgctxt "#11"
@@ -644,7 +644,7 @@ msgstr "{0:s} a pornit cu succes"
 #. <application name> has been successfully started.
 msgctxt "#178"
 msgid "{0:s} has been successfully started."
-msgstr "{0:s} a fost pornită cu succes."
+msgstr "{0:s} a pornit cu succes."
 
 msgctxt "#179"
 msgid "Song"
@@ -718,7 +718,7 @@ msgstr "Nicio informație găsită!"
 
 msgctxt "#196"
 msgid "Select movie:"
-msgstr "Selectați filmul:"
+msgstr "Selectați filmul artistic:"
 
 msgctxt "#197"
 msgid "Querying {0:s} information"
@@ -726,7 +726,7 @@ msgstr "Se cer {0:s} informații"
 
 msgctxt "#198"
 msgid "Loading movie details"
-msgstr "Încărcare informații film"
+msgstr "Încărcare informații film artistic"
 
 msgctxt "#199"
 msgid "Web interface"
@@ -941,7 +941,7 @@ msgstr "Selectați dosarul destinație"
 
 msgctxt "#252"
 msgid "Stereo upmix"
-msgstr "Extinde sunetul stereo"
+msgstr "Convertire sunet stereo în canale mai multe"
 
 msgctxt "#253"
 msgid "Number of channels"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Obținere informații CD"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Eroare"
@@ -1377,7 +1378,7 @@ msgstr "Mod protector de ecran"
 
 msgctxt "#357"
 msgid "Shutdown function timer"
-msgstr "Timp de așteptare pentru închidere"
+msgstr "Cronometru oprire sistem"
 
 msgctxt "#358"
 msgid "All albums"
@@ -1603,7 +1604,7 @@ msgstr "Umiditate"
 
 msgctxt "#407"
 msgid "Hardware keyboard layouts"
-msgstr ""
+msgstr "Aranjamente tastatură fizică"
 
 msgctxt "#409"
 msgid "Defaults"
@@ -1695,11 +1696,11 @@ msgstr "Fără stocare în avans"
 
 msgctxt "#432"
 msgid "Remove movie from library"
-msgstr "Eliminare film din mediatecă"
+msgstr "Eliminare film artistic din mediatecă"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "Sigur doriți să eliminați „{0:s}” din mediatecă?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[activ]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Subtitlu"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2125,7 +2126,7 @@ msgstr "Nu există biografie pentru acest artist."
 
 msgctxt "#548"
 msgid "Downmix multichannel audio to stereo"
-msgstr "Micșorează numărul de canale audio la stereo"
+msgstr "Micșorează sunetul multicanal în stereo"
 
 #. generic "number" label used in different places
 msgctxt "#549"
@@ -2613,31 +2614,61 @@ msgstr "Jurnalizare detaliată pentru componenta [B]Video[/B]"
 
 msgctxt "#681"
 msgid "Verbose logging for the [B]Webserver[/B] component"
-msgstr "Jurnalizare detaliată pentru componenta [B]Server web[/B]"
+msgstr "Jurnalizare detaliată pentru componenta [B]Servitor web[/B]"
 
 msgctxt "#682"
 msgid "Verbose logging for the [B]Database[/B] component"
-msgstr "Jurnalul verbal pentru componenta [B]Baza de date[/B]"
+msgstr "Jurnalizare detaliată pentru componenta [B]Bază de date[/B]"
 
 msgctxt "#683"
 msgid "Verbose logging of [B]audio/video timing information[/B]"
-msgstr "Jurnalul verbal al informațiilor despre sincronizarea audio / video"
+msgstr "Jurnalizare detaliată pentru [B]Informațiile de timp audio/video[/B]"
 
 msgctxt "#684"
 msgid "Verbose logging of [B]Windowing[/B] component"
-msgstr "Jurnalul verbal al componentei [B]Window[/B]"
+msgstr "Jurnalizare detaliată pentru componenta [B]Gestionare de ferestre[/B]"
 
 msgctxt "#685"
 msgid "Verbose logging of [B]PVR[/B] component"
-msgstr "Jurnalul verbal al componentei [B]PVR[/B]"
+msgstr "Jurnalizare detaliată pentru componenta [B]PVR[/B]"
 
 msgctxt "#686"
 msgid "Verbose logging of [B]EPG[/B] component"
-msgstr "Jurnalul verbal al componentei [B]EPG[/B]"
+msgstr "Jurnalizare detaliată pentru componenta [B]EPG[/B]"
 
 msgctxt "#687"
 msgid "From metadata"
 msgstr "Din metadate"
+
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Stabilire dimensiune margine."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Stabilire culoare margine."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Stabilire încețoșare."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Stabilire culoare umbră."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Stabilire opacitate umbră."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Stabilire dimensiune umbră."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -2653,7 +2684,7 @@ msgstr "Această cale a mai fost scanată"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr ""
+msgstr "Mediateca nu poate fi curățată în timp ce se rulează sarcini pe fundal"
 
 msgctxt "#705"
 msgid "Network"
@@ -3193,6 +3224,77 @@ msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Interval valid de porturi este 1024-65535"
 
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Orice canal de la clientul „{0:s}”"
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Orice canal de la oricare client"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Canale adăugate recent"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+#, fuzzy
+msgctxt "#856"
+msgid "Client"
+msgstr "Client"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Sistem"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Utilizator"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Toate canalele]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Șterge după privire"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Configurați dacă înregistrările ar trebui să fie șterse după ce au fost vizionate."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Nu"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Întreabă"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Da"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Doriți să ștergeți această înregistrare?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Înregistrare ștearsă: „{0:s}”"
+
 msgctxt "#997"
 msgid "Add pictures..."
 msgstr "Adăugare imagini..."
@@ -3417,9 +3519,10 @@ msgctxt "#1185"
 msgid "SOCKS5 with remote DNS resolving"
 msgstr "SOCKS5 cu rezolvare DNS la distanță"
 
+#, fuzzy
 msgctxt "#1186"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 msgctxt "#1200"
 msgid "SMB client"
@@ -3427,7 +3530,7 @@ msgstr "Client SMB"
 
 msgctxt "#1201"
 msgid "NFS Client"
-msgstr ""
+msgstr "Client NFS"
 
 msgctxt "#1202"
 msgid "Workgroup"
@@ -4016,11 +4119,11 @@ msgstr "Verificați jurnalul pentru mai multe informații."
 # empty strings from id 2105 to 2202
 msgctxt "#2203"
 msgid "Use DTS Core"
-msgstr ""
+msgstr "Folosește DTS Core"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr ""
+msgstr "Selectați această opțiune dacă doriți să activați trecerea nemodificată a formatelor DTS-HD ca DTS, altfel, Formatele DTS-HD vor fi redate prin PCM"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4062,12 +4165,12 @@ msgstr "Redă următorul"
 #. Header label for add-on configuration removal dialog
 msgctxt "#10009"
 msgid "Confirm add-on configuration removal"
-msgstr ""
+msgstr "Confirmați eliminarea configurației suplimentului"
 
 #. Header label for add-on configuration removal selection dialog
 msgctxt "#10010"
 msgid "Select add-on configuration to remove"
-msgstr ""
+msgstr "Selectați configurația suplimentului de eliminat"
 
 msgctxt "#10011"
 msgid "Settings - Videos - Screen calibration"
@@ -4076,22 +4179,22 @@ msgstr "Setări - Video - Calibrare ecran"
 #. Header label for add-on configuration selection dialog
 msgctxt "#10012"
 msgid "Add-on configurations and settings"
-msgstr ""
+msgstr "Setări și configurații supliment"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10013"
 msgid "Edit add-on settings"
-msgstr ""
+msgstr "Editare setări supliment"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10014"
 msgid "Add add-on configuration"
-msgstr ""
+msgstr "Adaugă configurație supliment"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10015"
 msgid "Remove add-on configuration"
-msgstr ""
+msgstr "Elimină configurație supliment"
 
 msgctxt "#10016"
 msgid "Settings - System"
@@ -4100,7 +4203,7 @@ msgstr "Setări - Sistem"
 #. Settings group label
 msgctxt "#10017"
 msgid "Add-on configuration"
-msgstr ""
+msgstr "Configurație supliment"
 
 msgctxt "#10018"
 msgid "Settings - Service"
@@ -4109,12 +4212,12 @@ msgstr "Setări - Service"
 #. Item label for add-on configuration removal dialog
 msgctxt "#10019"
 msgid "Do you want to remove the add-on configuration \"{0:s}\"?"
-msgstr ""
+msgstr "Doriți să eliminați configurația suplimentului „{0:s}”?"
 
 #. Item label used in add-on setup selection dialog
 msgctxt "#10020"
 msgid "Edit \"{0:s}\" [{1:s}]"
-msgstr ""
+msgstr "Editare „{0:s}” [{1:s}]"
 
 msgctxt "#10021"
 msgid "Settings - TV"
@@ -4295,7 +4398,7 @@ msgstr "Intrare manetă"
 
 msgctxt "#10111"
 msgid "Shutdown menu"
-msgstr "Meniu de închidere"
+msgstr "Meniu oprire sistem"
 
 msgctxt "#10114"
 msgid "Player controls"
@@ -4504,7 +4607,7 @@ msgstr "Informații albume"
 
 msgctxt "#10524"
 msgid "Movie information"
-msgstr "Informații filme"
+msgstr "Informații film artistic"
 
 msgctxt "#10550"
 msgid "Teletext"
@@ -4524,11 +4627,11 @@ msgstr "Setare temporizator PVR"
 
 msgctxt "#10603"
 msgid "PVR group manager"
-msgstr "Manager de grup PVR"
+msgstr "Gestionar de grup PVR"
 
 msgctxt "#10604"
 msgid "PVR channel manager"
-msgstr "Manager de canal PVR"
+msgstr "Gestionar de canale PVR"
 
 msgctxt "#10605"
 msgid "PVR guide search"
@@ -4608,7 +4711,7 @@ msgstr "Reguli cronometru Radio"
 
 msgctxt "#10800"
 msgid "Fullscreen live TV"
-msgstr "Ecran TV live"
+msgstr "Ecran televiziune în direct"
 
 msgctxt "#10801"
 msgid "Fullscreen radio"
@@ -4633,12 +4736,12 @@ msgstr "Meniu"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "Filtru video"
 
 #. Title of the in-game video stretch mode selection dialog
 msgctxt "#10824"
 msgid "Stretch Mode"
-msgstr ""
+msgstr "Mod de întindere"
 
 #. Title of the in-game volume dialog
 msgctxt "#10825"
@@ -4648,32 +4751,32 @@ msgstr "Volum"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Setări avansate"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "Rotație video"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr ""
+msgstr "Configurare port"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Selectați Starea de salvare"
 
 #. Title of the out-of-game dialog to select a savestate for the current game
 msgctxt "#10830"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Selectare stare salvare"
 
 #. Name of window for viewing and configuring players while playing a game
 msgctxt "#10831"
 msgid "Players"
-msgstr ""
+msgstr "Jucători"
 
 msgctxt "#12000"
 msgid "Select dialog"
@@ -4730,11 +4833,11 @@ msgstr "Ultima actualizare"
 
 msgctxt "#12015"
 msgid "Select video version"
-msgstr ""
+msgstr "Selectare versiune video"
 
 msgctxt "#12016"
 msgid "Select video extra"
-msgstr ""
+msgstr "Selectare extra video"
 
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
@@ -4750,12 +4853,12 @@ msgstr "Reia de la {0:s}"
 #. Label of the show password button in the keyboard dialog
 msgctxt "#12308"
 msgid "Show password"
-msgstr ""
+msgstr "Arată parola"
 
 #. Label of the hide password button in the keyboard dialog
 msgctxt "#12309"
 msgid "Hide password"
-msgstr ""
+msgstr "Ascunde parola"
 
 msgctxt "#12310"
 msgid "0"
@@ -5044,7 +5147,7 @@ msgstr "- Durată minimă fișier"
 
 msgctxt "#13005"
 msgid "Shutdown"
-msgstr "Închide sistemul"
+msgstr "Oprește sistemul"
 
 msgctxt "#13006"
 msgid "Add picture source"
@@ -5088,7 +5191,7 @@ msgstr "Acțiune buton de pornire (power)"
 
 msgctxt "#13016"
 msgid "Power off system"
-msgstr "Închide sistemul"
+msgstr "Oprește sistemul"
 
 msgctxt "#13017"
 msgid "Inhibit idle shutdown"
@@ -5313,7 +5416,7 @@ msgstr "Dată instalare HDD:"
 #. unused?
 msgctxt "#13174"
 msgid "HDD power cycle count:"
-msgstr "Număr de porniri HDD:"
+msgstr "Număr de porniri stocare cu discuri dure:"
 
 msgctxt "#13200"
 msgid "Profiles"
@@ -5472,7 +5575,7 @@ msgstr "Neconectat. Verificați setările rețelei."
 #. Label of the button used to disconnect a game controller from the emulated game port
 msgctxt "#13298"
 msgid "Disconnected"
-msgstr ""
+msgstr "Deconectat"
 
 msgctxt "#13299"
 msgid "Target temperature"
@@ -5552,7 +5655,7 @@ msgstr "Diaporamă recursivă"
 
 msgctxt "#13319"
 msgid "Randomise"
-msgstr "Amestecate"
+msgstr "Amestecă"
 
 msgctxt "#13320"
 msgid "Stereo"
@@ -5640,7 +5743,7 @@ msgstr "Oprește LED-ul la redare"
 
 msgctxt "#13346"
 msgid "Movie information"
-msgstr "Informații film"
+msgstr "Informații film artistic"
 
 #. Label for 'queue item' (adds an item to a playlist), used at several places
 msgctxt "#13347"
@@ -5693,7 +5796,7 @@ msgstr "Redă element"
 
 msgctxt "#13359"
 msgid "Set artist thumb"
-msgstr "Setare poză artist"
+msgstr "Setare miniatură artist"
 
 msgctxt "#13360"
 msgid "Automatically generate thumbnails"
@@ -5706,7 +5809,7 @@ msgstr "Activează voce"
 #. label for resume context menu item for video folders (like a TV show or a single season of a TV show)
 msgctxt "#13362"
 msgid "Continue watching"
-msgstr ""
+msgstr "Continuă vizionarea"
 
 msgctxt "#13375"
 msgid "Enable device"
@@ -5763,7 +5866,7 @@ msgstr "Model de numire pistă - dreapta"
 
 msgctxt "#13388"
 msgid "Preset"
-msgstr "Presetare"
+msgstr "Prestabilire"
 
 msgctxt "#13389"
 msgid "There are no presets available for this visualisation"
@@ -5827,7 +5930,7 @@ msgstr "Reia"
 
 msgctxt "#13405"
 msgid "Get thumb"
-msgstr "Obține afiș"
+msgstr "Obține miniatură"
 
 msgctxt "#13406"
 msgid "Picture information"
@@ -5877,12 +5980,12 @@ msgstr "Detectare automată"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
-msgstr ""
+msgstr "Permite utilizarea Supra Rezoluției video DXVA"
 
 #. Setting Player / Video
 msgctxt "#13418"
 msgid "Use high precision processing"
-msgstr ""
+msgstr "Folosește procesarea de preciziei ridicată"
 
 msgctxt "#13419"
 msgid "Software"
@@ -5903,6 +6006,12 @@ msgstr "Pornește diaporama de aici"
 msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Memorează pentru această cale"
+
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Alegeți lista de redare"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -5951,7 +6060,7 @@ msgstr "Activează scalatori de înaltă calitate pentru scalări peste"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Ajustare mod HDR al ecranului"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6092,6 +6201,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Activează această opțiune pentru a utiliza accelerația hardware pentru codecul AV1. Dacă este dezactivat, CPU va fi utilizat în schimb."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Folosește VAAPI pentru AVC"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Activați această opțiune pentru a utiliza accelerarea fizică pentru codecul AVC. Dacă este dezactivată, atunci procesorul va fi folosit în schimb."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "Format intermediar pentru scalator în sus de înaltă calitate"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Stabilește precizia tamponului de scalare intermediară folosit în calea de randare a plăcii video. Precizia pe 16 biți cel mai probabil necesită mai multă performanță. Dacă componentele fizice nu pot susține formatul selectat, Kodi va reveni la următorul cel mai bun format."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 biți per canal"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 biți per canal"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 biți per canal"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Calitate reeșantionare"
@@ -6139,15 +6281,15 @@ msgstr "Nicio imagine"
 #. Button to add a new type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13516"
 msgid "Add art type"
-msgstr "Adăugați un tip de artă"
+msgstr "Adăugare tip de artă"
 
 msgctxt "#13517"
 msgid "Threshold for pitch correction"
 msgstr "Prag pentru corectarea intensității"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Când schimbarea vitezei de redare depășește acest prag, va fi aplicat un filtru de corecție al tonului. Acesta evită \"vocile de veveriță\", un rezultat normal al accelerării unui video"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Când viteza depășește acest prag, un filtru de corectare a tonurilor va fi aplicat. Acesta elimină „vocile de veveriță” care rezultă în mod normal la mărirea vitezei de redare a unui fișier video"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6222,7 +6364,7 @@ msgstr "Telecomandă Apple"
 
 msgctxt "#13601"
 msgid "Apple TV"
-msgstr ""
+msgstr "Televizor Apple"
 
 msgctxt "#13602"
 msgid "Allow start of Kodi using the remote"
@@ -6318,7 +6460,7 @@ msgstr "Cel puțin un fișier și o miniatură"
 
 msgctxt "#14017"
 msgid "Percentage of thumbs"
-msgstr "Percentaj miniaturi"
+msgstr "Procentaj miniaturi"
 
 msgctxt "#14018"
 msgid "View options"
@@ -6406,7 +6548,7 @@ msgstr "Limitare bandă conexiune Internet"
 
 msgctxt "#14043"
 msgid "- Shutdown while playing"
-msgstr "- Oprire în timpul redării"
+msgstr "- Oprire sistem în timpul redării"
 
 msgctxt "#14044"
 msgid "{0:d} min"
@@ -6617,12 +6759,12 @@ msgstr "Procesare"
 #. Name of a setting for Blu-ray playback mode
 msgctxt "#14102"
 msgid "Blu-ray playback mode"
-msgstr "Mod de redare Blu-ray"
+msgstr "Mod de redare disc Blu-ray"
 
 #. Playback mode option for Blu-ray
 msgctxt "#14103"
 msgid "Play main movie"
-msgstr "Redă filmul principal"
+msgstr "Redă filmul artistic principal"
 
 #. Playback mode option for Blu-ray
 msgctxt "#14104"
@@ -6705,7 +6847,7 @@ msgstr "Arată nivelurile superioare"
 #. Name of a setting for Blu-ray region codes
 msgctxt "#14121"
 msgid "Blu-ray region Code"
-msgstr "Cod regiune Blu-ray"
+msgstr "Cod regiune disc Blu-ray"
 
 #. Region Code option for Blu-ray
 msgctxt "#14122"
@@ -6739,13 +6881,22 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Permiteți rate duble de reîmprospătare"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Avansate"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Cozile audio/video ale redatorului"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Redator"
 
 msgctxt "#14201"
 msgid "Player settings"
-msgstr "Setări player"
+msgstr "Setări redator"
 
 msgctxt "#14202"
 msgid "Library"
@@ -6925,7 +7076,7 @@ msgstr "Traversare audio"
 
 msgctxt "#14255"
 msgid "Sleep / Shutdown"
-msgstr "Suspendare / Oprire"
+msgstr "Suspendare / Oprire sistem"
 
 msgctxt "#14256"
 msgid "Wake"
@@ -6958,6 +7109,19 @@ msgstr "Permite controlul de la distanță de către programele de pe acest sist
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Permite controlul de la distanță de către programele de pe alte sisteme"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Întreținere"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Curăță depozitul de imagini"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Elimină imediat imaginile nefolosite din depozit - imaginile neasociate cu un element în mediatecă nici văzute recent. Kodi face asta de-a lungul timpului pe fundal."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7114,37 +7278,37 @@ msgstr "Redă în mod petrecere"
 #. Label for actions associated with favourites
 msgctxt "#15217"
 msgid "Action"
-msgstr ""
+msgstr "Acțiune"
 
 #. Label for an action associated with a favourite.
 msgctxt "#15218"
 msgid "Play media"
-msgstr ""
+msgstr "Redă media"
 
 #. Label for an action associated with a favourite
 msgctxt "#15219"
 msgid "Show picture"
-msgstr ""
+msgstr "Arată imaginea"
 
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
 msgid "Show content in \"{}\""
-msgstr ""
+msgstr "Arată conținutul în „{}”"
 
 #. Label for an action associated with a favourite
 msgctxt "#15221"
 msgid "Execute script"
-msgstr ""
+msgstr "Execută scriptul"
 
 #. Label for an action associated with a favourite
 msgctxt "#15222"
 msgid "Execute Android app"
-msgstr ""
+msgstr "Execută aplicația de Android"
 
 #. Label for an action associated with a favourite
 msgctxt "#15223"
 msgid "Execute add-on"
-msgstr ""
+msgstr "Execută suplimentul"
 
 #. Label for an action associated with a favourite
 msgctxt "#15224"
@@ -7183,12 +7347,12 @@ msgstr "Cale:"
 #. Game settings category name
 msgctxt "#15312"
 msgid "Achievements"
-msgstr ""
+msgstr "Realizări"
 
 #. Group label for Achievements category in game settings
 msgctxt "#15313"
 msgid "Login to RetroAchievements"
-msgstr ""
+msgstr "Autentificați-vă în  RetroAchievements"
 
 #. Label for button which creates a new savestate in the in-game savestate manager
 msgctxt "#15314"
@@ -7198,12 +7362,12 @@ msgstr "Salvează"
 #. Caption for "Save" button in the in-game savestate manager
 msgctxt "#15315"
 msgid "Save progress to a new save file"
-msgstr ""
+msgstr "Salvați progresul într-un fișier nou de salvare"
 
 #. Label for savestates created automatically by "Autosave" function
 msgctxt "#15316"
 msgid "Autosave"
-msgstr ""
+msgstr "Salvare automată"
 
 msgctxt "#16000"
 msgid "General"
@@ -7215,7 +7379,7 @@ msgstr "Căutare Internet"
 
 msgctxt "#16003"
 msgid "Player"
-msgstr "Player"
+msgstr "Redator"
 
 msgctxt "#16004"
 msgid "Play media from disc"
@@ -7227,7 +7391,7 @@ msgstr "Introduceți nume nou"
 
 msgctxt "#16009"
 msgid "Enter the movie name"
-msgstr "Introduceți nume film"
+msgstr "Introduceți numele filmului artistic"
 
 msgctxt "#16010"
 msgid "Enter the profile name"
@@ -7305,7 +7469,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Introduceți valoare"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Verificați jurnalul pentru mai multe informații despre acest mesaj."
@@ -7677,7 +7841,7 @@ msgstr "Criptare"
 #. unused?
 msgctxt "#19016"
 msgid "PVR backend {0:d} - {1:s}"
-msgstr "PVR backend {0:d} - {1:s}"
+msgstr "Furnizor din spate pentru PVR {0:d} - {1:s}"
 
 #. generic label for pvr recordings used in different places
 msgctxt "#19017"
@@ -7771,13 +7935,12 @@ msgstr "Este seta deja un cronometru pentru acest eveniment"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0: s} nu poate fi redat. Verificați log-ul pentru mai multe informații despre acest mesaj."
+msgid "{0:s} can't be played."
+msgstr "{0:s} nu poate fi redat."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Această înregistrare nu poate fi redată. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "This recording can't be played."
+msgstr "Această înregistrare nu poate fi redată."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7801,12 +7964,12 @@ msgstr "Cronometre"
 #. Label for button to refresh the channel logos
 msgctxt "#19041"
 msgid "Refresh channel logos"
-msgstr ""
+msgstr "Reîmprospătează siglele canalelor"
 
 #. label for PVR backend number of channel groups in system information's PVR section
 msgctxt "#19042"
 msgid "Channel Groups"
-msgstr ""
+msgstr "Grupuri de canale"
 
 #. pvr settings "recording" category label
 msgctxt "#19043"
@@ -7814,12 +7977,12 @@ msgid "Recording"
 msgstr "Înregistrare"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Vă rugăm să verificați configurarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "Please check your configuration."
+msgstr "Vă rugăm să verificați configurația."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Deocamdată nu a fost pornit niciun client PVR. Așteptați să pornească clienții PVR. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "Deocamdată nu a fost pornit niiciun client PVR. Așteptați ca clienții PVR să pornească."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -7834,7 +7997,7 @@ msgstr "Informații program"
 #. Label for a context menu entry to open the pvr channel group manager dialog
 msgctxt "#19048"
 msgid "Group manager"
-msgstr "Gestionar grupuri"
+msgstr "Gestionar de grupuri"
 
 msgctxt "#19049"
 msgid "Show channel"
@@ -7939,7 +8102,7 @@ msgstr "Ghid"
 #. Label for epg grid window "jump to now" (current programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19070"
 msgid "Current programme"
-msgstr "Programul curent"
+msgstr "Programul actual"
 
 #. pvr settings "epg update interval" setting label
 msgctxt "#19071"
@@ -8095,7 +8258,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Furnizor"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Vă rugăm schimbați pe alt canal."
@@ -8132,18 +8294,18 @@ msgstr "Rată de cadre de rezervă"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Nu s-a putut salva cronometrul. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "Could not save the timer."
+msgstr "Temporizatorul nu a putut fi salvat."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Nu s-a putut șterge cronometrul. Verificați log-ul pentru mai multe informații despre acest mesaj."
+msgid "Could not delete the timer."
+msgstr "Temporizatorul nu a putut fi șters."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "Eroare furnizor din spatele PVR. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "PVR backend error."
+msgstr "Eroare furnizor PVR."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8183,7 +8345,7 @@ msgstr "Funcțiile PVR nu pot fi folosite în timpul căutării."
 #. channel scan backend selection dialog text
 msgctxt "#19119"
 msgid "On which backend do you want to search?"
-msgstr "Pe ce backend doriți să căutați?"
+msgstr "Pe care furnizor din spate doriți să căutați?"
 
 #. label for PVR client number in system information's PVR section
 msgctxt "#19120"
@@ -8392,8 +8554,8 @@ msgstr "Înregistrări"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Nu s-a putut începe înregistrarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "Could not start recording."
+msgstr "Înregistrarea nu a putut fi pornită."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8584,8 @@ msgstr "Ascunde fereastra cu informații video"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Nu s-a putut opri înregistrarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "Could not stop recording."
+msgstr "Înregistrarea nu a putut fi oprită."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8505,22 +8667,22 @@ msgstr "Elimină datele"
 #. message box text for pvr data reset confirmation
 msgctxt "#19186"
 msgid "All selected data will be cleared. Some information cannot be restored from the clients afterwards. Proceed anyway?"
-msgstr ""
+msgstr "Toate datele selectate vor fi șterse. Unele informații nu pot fi restaurate de la clienți după aceea. Continuați oricum?"
 
 #. progress dialog text shown while purging pvr data
 msgctxt "#19187"
 msgid "Clearing data."
-msgstr ""
+msgstr "Se șterg datele."
 
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
 msgid "All guide data will be cleared. Are you sure?"
-msgstr ""
+msgstr "Toate datele ghidului vor fi șterse. Sigur doriți să continuați?"
 
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
 msgid "The PVR backend does not allow to record this event."
-msgstr "Backendul PVR nu permite înregistrarea acestui eveniment."
+msgstr "Furnizorul din spatele PVR nu permite înregistrarea acestui eveniment."
 
 #. generic "play program" label used in different places
 msgctxt "#19190"
@@ -8534,12 +8696,12 @@ msgstr "Serviciu PVR"
 #. info message box text stating that none of the available pvr clients does support channel scanning
 msgctxt "#19192"
 msgid "None of the connected PVR backends supports scanning for channels."
-msgstr "Niciunul dintre furnizorii din spatele PVR conectate nu sprijină căutarea de canale."
+msgstr "Niciunul dintre furnizorii din spatele PVR conectați nu sprijină căutarea de canale."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Canalul nu poate fi pornit. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+msgid "The channel scan can't be started."
+msgstr "Acest canal nu poate fi pornit."
 
 #. unused?
 msgctxt "#19194"
@@ -8569,7 +8731,7 @@ msgstr "Înregistrarea s-a sfarsit la: {0: s}"
 #. pvr settings "channel manager" action button label
 msgctxt "#19199"
 msgid "Channel manager"
-msgstr "Gestionar canale"
+msgstr "Gestionar de canale"
 
 msgctxt "#19200"
 msgid "Guide source:"
@@ -8758,7 +8920,7 @@ msgstr "Se încarcă înregistrări de la clienți"
 #. label for PVR client creation progress control
 msgctxt "#19239"
 msgid "Creating PVR clients"
-msgstr ""
+msgstr "Se creează clienții PVR"
 
 #. label for pvr settings client priorities control and client priorities dialog heading.
 msgctxt "#19240"
@@ -8877,8 +9039,8 @@ msgstr "Control parental. Introduceți PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Nu s-a putut actualiza cronometrul. Verificați log-ul pentru mai multe informații despre acest mesaj."
+msgid "Could not update the timer."
+msgstr "Temporizatorul nu poate fi actualizat."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8922,7 +9084,7 @@ msgstr "Nu a putut fi găsit niciun supliment PVR"
 #. label for 'pvr configuration incomplete' information dialog text
 msgctxt "#19272"
 msgid "To use PVR you need to install, enable and configure a PVR add-on. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr ""
+msgstr "Pentru a folosi PVR trebuie să instalați, activați și configurați un supiment PVR. Vă rugăm să vizitați http://kodi.wiki/view/PVR pentru a învăța mai multe."
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
@@ -8979,7 +9141,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Nicio pictogramă"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Alegere pictogramă"
@@ -8994,7 +9156,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Căutare pictograme canale"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Toate canalele"
@@ -9212,94 +9374,94 @@ msgstr "Permiteți numerele de canale backend cu mai mult de un addon PVR"
 #. pvr settings "switch to channel on reminder auto-close" setting label
 msgctxt "#19330"
 msgid "Switch to channel when auto-closing the reminder popup"
-msgstr ""
+msgstr "Comută pe canal când se închide automat fereastra de reamintire din prim-plan"
 
 #. additional text for reminder announcement dialog, used if a recording can be scheduled
 msgctxt "#19331"
 msgid "(Auto-close of this reminder will switch to channel...)"
-msgstr ""
+msgstr "Închiderea automată a acestui amintitor va comuta pe canalul...)"
 
 #. text for event log entry for logging auto channel switch for auto-closed reminders
 msgctxt "#19332"
 msgid "Switched to channel for auto-closed PVR reminder for '{0:s}' on channel '{1:s}' at '{2:s}'"
-msgstr ""
+msgstr "S-a comutat pe canal pe închiderea automată a amintitorului PVR pentru „{0:s}” pe canalul „{1:s}” la „{2:s}”"
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
-msgstr ""
+msgstr "S-a comutat pe canal pentru amintitorul PVR închis automat pentru canalul „{0:s}” at „{1:s}”"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
-msgstr ""
+msgstr "Furnizori"
 
 #. label for special PVR search window list item
 msgctxt "#19335"
 msgid "New search..."
-msgstr ""
+msgstr "Căutare nouă..."
 
 #. label for special PVR search window list item
 msgctxt "#19336"
 msgid "Edit search..."
-msgstr ""
+msgstr "Editare căutare..."
 
 #. label for special PVR search window list item
 msgctxt "#19337"
 msgid "Saved searches"
-msgstr ""
+msgstr "Căutări salvate"
 
 #. delete saved search confirmation message box text
 msgctxt "#19338"
 msgid "Delete this saved search?"
-msgstr ""
+msgstr "Ștergeți această căutare salvată?"
 
 #. PVR guide search dialog label
 msgctxt "#19339"
 msgid "Ignore finished broadcasts"
-msgstr ""
+msgstr "Ignoră difuzările terminate"
 
 #. PVR guide search dialog label
 msgctxt "#19340"
 msgid "Ignore future broadcasts"
-msgstr ""
+msgstr "Ignoră difuzările viitoare"
 
 #. label to ask user to save an EPG search
 msgctxt "#19341"
 msgid "Save the current search?"
-msgstr ""
+msgstr "Salvați căutarea actuală?"
 
 #. "search not saved" label, used in PVR search window breadcrumb
 msgctxt "#19342"
 msgid "[not saved]"
-msgstr ""
+msgstr "[nesalvată]"
 
 #. "search saved" label, used in PVR search window breadcrumb
 msgctxt "#19343"
 msgid "[saved]"
-msgstr ""
+msgstr "[salvată]"
 
 #. text for yes no dialog shown when user selects a future programme in the guide window and default select action is 'smart select'
 msgctxt "#19344"
 msgid "Do you want to set a reminder for the selected programme or to switch to the current programme?"
-msgstr ""
+msgstr "Doriți să puneți un amintitor pentru programul selectat sau să comutați la programul actual?"
 
 #. settings label to open add-ons manager window with available PVR client add-ons
 msgctxt "#19345"
 msgid "PVR client add-ons"
-msgstr ""
+msgstr "Suplimente de tip client PVR"
 
 #. help text for setting to open add-ons manager window with available PVR client add-ons
 msgctxt "#19346"
 msgid "Display and manage available PVR client add-ons."
-msgstr ""
+msgstr "Arată și gestionează suplimentele de tip client PVR."
 
 #. info message box text stating that none of the available pvr clients does provide client-specific settings
 msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
-msgstr ""
+msgstr "Niciunul dintre clienții de tip PVR activi nu oferă setări specifice clientului."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Furnizor"
@@ -9307,31 +9469,41 @@ msgstr "Furnizor"
 #. label for 'by user preference' sort method
 msgctxt "#19349"
 msgid "User preference"
-msgstr ""
+msgstr "Preferință utilizator"
 
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr ""
+msgstr "Folosește ordonarea grupurilor de canale de la furnizor(ii) din spate"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "Ajunge din urmă / Video la Cerere"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "Redă următorul program automat"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "Redă programele de aici"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
+msgstr "Redă doar acest program"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr ""
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
 msgstr ""
 
 #. label for epg genre value
@@ -9540,9 +9712,10 @@ msgid "Folk / Traditional music"
 msgstr "Folclor / Muzică tradițională"
 
 #. label for "music/ballet/dance" epg subgenre value
+#, fuzzy
 msgctxt "#19584"
 msgid "Jazz"
-msgstr ""
+msgstr "Jazz"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19585"
@@ -9787,12 +9960,14 @@ msgstr "Adult"
 #. Title for shutdown confirmation dialog
 msgctxt "#19685"
 msgid "Confirm shutdown"
-msgstr "Confirmare închidere"
+msgstr "Confirmare oprire sistem"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Ghid canal"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Redă înregistrare"
@@ -9801,7 +9976,7 @@ msgstr "Redă înregistrare"
 #. Text for shutdown confirmation dialog
 msgctxt "#19690"
 msgid "PVR has scheduled a reminder for '{0:s}' on channel '{1:s}' in {2:s}."
-msgstr ""
+msgstr "Funcția PVR a planificat un amintitor pentru „{0:s}” pe canalul „{1:s}” în {2:s}."
 
 #. Text for shutdown confirmation dialog.
 msgctxt "#19691"
@@ -9831,7 +10006,7 @@ msgstr "cam un minut"
 #. Yes button label for shutdown confirmation dialog
 msgctxt "#19696"
 msgid "Shutdown anyway"
-msgstr "Închide oricum"
+msgstr "Oprește sistemul oricum"
 
 msgctxt "#20000"
 msgid "Saved music folder"
@@ -9839,7 +10014,7 @@ msgstr "Dosar muzică salvată"
 
 msgctxt "#20001"
 msgid "Use external DVD player"
-msgstr "Folosește DVD player-ul extern"
+msgstr "Folosește redatorul DVD extern"
 
 msgctxt "#20002"
 msgid "External DVD player"
@@ -9887,19 +10062,19 @@ msgstr "Sortare după: Listă de redare"
 
 msgctxt "#20015"
 msgid "Remote thumb"
-msgstr "Imagine la distanță"
+msgstr "Miniatură la distanță"
 
 msgctxt "#20016"
 msgid "Current thumb"
-msgstr "Imagine actuală"
+msgstr "Miniatură actuală"
 
 msgctxt "#20017"
 msgid "Local thumb"
-msgstr "Imagine locală"
+msgstr "Miniatură locală"
 
 msgctxt "#20018"
 msgid "No thumb"
-msgstr "Nicio imagine"
+msgstr "Nicio miniatură"
 
 msgctxt "#20019"
 msgid "Choose thumbnail"
@@ -10343,35 +10518,35 @@ msgstr "Introduceți parola pentru"
 
 msgctxt "#20144"
 msgid "Shutdown timer"
-msgstr "Planificare închidere"
+msgstr "Planificator oprire sistem"
 
 msgctxt "#20145"
 msgid "Shutdown interval (in minutes)"
-msgstr "Planificare închidere (în minute)"
+msgstr "Planificare oprire sistem (în minute)"
 
 msgctxt "#20146"
 msgid "Started, shutdown in {0:d}m"
-msgstr "Inchiderea se face în {0: d} m"
+msgstr "Începută, se oprește sistemul în {0:d}m"
 
 msgctxt "#20147"
 msgid "Shutdown in 30 minutes"
-msgstr "Închidere în 30 de minute"
+msgstr "Oprire sistem în 30 de minute"
 
 msgctxt "#20148"
 msgid "Shutdown in 60 minutes"
-msgstr "Închidere în 60 de minute"
+msgstr "Oprire sistem în 60 de minute"
 
 msgctxt "#20149"
 msgid "Shutdown in 120 minutes"
-msgstr "Închidere în 120 de minute"
+msgstr "Oprire sistem în 120 de minute"
 
 msgctxt "#20150"
 msgid "Custom shutdown timer"
-msgstr "Planificare închidere"
+msgstr "Planificator oprire sistem personalizat"
 
 msgctxt "#20151"
 msgid "Cancel shutdown timer"
-msgstr "Anulează planificare închidere"
+msgstr "Anulează planificatorul de oprire sistem"
 
 msgctxt "#20152"
 msgid "Lock preferences for {0:s}"
@@ -10590,7 +10765,7 @@ msgstr "Acolo unde nu există copertă de album locală, se va folosi artă onli
 
 msgctxt "#20226"
 msgid "Movie set information folder"
-msgstr "Dosar informații colecție de filme"
+msgstr "Dosar informații colecție de filme artistice"
 
 msgctxt "#20228"
 msgid "Use artist sortname when sorting by artist"
@@ -10742,7 +10917,7 @@ msgstr "Opțiuni scanare conținut"
 
 msgctxt "#20323"
 msgid "Movie plot"
-msgstr "Intrigă film"
+msgstr "Intrigă film artistic"
 
 #. Label for context menu entry to start playback of a part of a video stack
 msgctxt "#20324"
@@ -10757,12 +10932,12 @@ msgstr "Restabilire calibrare"
 #. Window screen calibration: ask to reset calibration settings
 msgctxt "#20326"
 msgid "Do you want reset the calibration to their defaults for \"{0:s}\" resolution?"
-msgstr ""
+msgstr "Doriți să restabiliți calibrarea la valorile implicite pentru rezoluția „{0:s}”?"
 
 #. Window screen calibration: the current calibration value
 msgctxt "#20327"
 msgid "Current value: {}"
-msgstr ""
+msgstr "Valoarea actuală: {}"
 
 msgctxt "#20328"
 msgid "Browse for destination"
@@ -10770,7 +10945,7 @@ msgstr "Răsfoire după destinație"
 
 msgctxt "#20329"
 msgid "Movies are in separate folders that match the movie title"
-msgstr "Filmele sunt în dosare separate care se potrivesc cu numele filmului"
+msgstr "Filmele artistice sunt în dosare separate care se potrivesc cu numele filmului"
 
 msgctxt "#20330"
 msgid "Use folder names for lookups"
@@ -10806,7 +10981,7 @@ msgstr "Actor"
 
 msgctxt "#20338"
 msgid "Movie"
-msgstr "Film"
+msgstr "Film artistic"
 
 msgctxt "#20339"
 msgid "Director"
@@ -10818,7 +10993,7 @@ msgstr "Doriți să eliminați toate elementele din interiorul acestei căi din 
 
 msgctxt "#20342"
 msgid "Movies"
-msgstr "Filme"
+msgstr "Filme artistice"
 
 msgctxt "#20343"
 msgid "TV shows"
@@ -10948,7 +11123,7 @@ msgstr "Sezon"
 
 msgctxt "#20374"
 msgid "Downloading movie information"
-msgstr "Descărcare informații filme"
+msgstr "Descărcare informații filme artistice"
 
 msgctxt "#20375"
 msgid "Unassign content"
@@ -11062,11 +11237,11 @@ msgstr "Redă videoclip"
 
 msgctxt "#20402"
 msgid "Download actor thumbnails"
-msgstr "Descarcă imagini actori"
+msgstr "Descarcă miniaturi actori"
 
 msgctxt "#20403"
 msgid "Set actor thumb"
-msgstr "Setare fotografie actor"
+msgstr "Setare miniatură actor"
 
 msgctxt "#20404"
 msgid "Remove bookmark"
@@ -11150,7 +11325,7 @@ msgstr "Întotdeauna"
 
 msgctxt "#20423"
 msgid "Has trailer"
-msgstr "Are trailer"
+msgstr "Are secvențe (trailer)"
 
 msgctxt "#20424"
 msgid "False"
@@ -11294,11 +11469,11 @@ msgstr "Netezește ierarhia"
 
 msgctxt "#20457"
 msgid "Movie set"
-msgstr "Colecție de filme"
+msgstr "Colecție de filme artistice"
 
 msgctxt "#20458"
 msgid "Show movie sets"
-msgstr "Arată colecții de filme"
+msgstr "Arată colecțiile de filme artistice"
 
 msgctxt "#20459"
 msgid "Tags"
@@ -11330,7 +11505,7 @@ msgstr "Gestionare colecție de filme"
 
 msgctxt "#20466"
 msgid "Select movie set"
-msgstr "Selectați colecție de filme"
+msgstr "Selectați colecție de filme artistice"
 
 msgctxt "#20467"
 msgid "No set (remove from {0:s})"
@@ -11358,12 +11533,12 @@ msgstr "Arată toți cântăreții din videoclipurile muzicale"
 
 msgctxt "#20473"
 msgid "Premiered"
-msgstr ""
+msgstr "Premierat"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20474"
 msgid "HDR type"
-msgstr ""
+msgstr "Tip HDR"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11420,11 +11595,11 @@ msgstr "Momentan nu sunt disponibile alte versiuni pentru acest supliment"
 
 msgctxt "#21343"
 msgid "Use video tags"
-msgstr "Foloseste tag-uri video"
+msgstr "Folosește etichetele video"
 
 msgctxt "#21344"
 msgid "Enable to use embedded tags in mp4 or mkv files for library metadata. Will prevent scrapers from operating correctly."
-msgstr ""
+msgstr "Activați-o pentru a folosi etichetele integrate în fișierele mp4 sau mkv pentru metadatele mediatecii. Va prevenii cataloagele de filme să funcționeze corect."
 
 #. Used in AutoPlayNextItem dialogs for not categorized listItem directories
 msgctxt "#21345"
@@ -11434,12 +11609,12 @@ msgstr "Necategorisite"
 #. Used to give heading list entry for an file extension description, e.g. to show as 'Extension: ".mp3"'
 msgctxt "#21346"
 msgid "Extension: \"{0:s}\""
-msgstr ""
+msgstr "Extensie: „{0:s}”"
 
 #. Used to give heading list entry for an mimetype description, e.g. to show as 'MIME type: "audio/mpeg3"'
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
-msgstr ""
+msgstr "Tip MIME: „{0:s}”"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -11483,7 +11658,7 @@ msgstr "Director de film și subtitluri alternativ"
 
 msgctxt "#21368"
 msgid "Override subtitles fonts"
-msgstr ""
+msgstr "Înlocuiește fonturile subtitlurilor"
 
 msgctxt "#21369"
 msgid "Enable mouse and touch screen support"
@@ -11660,7 +11835,7 @@ msgstr "Furnizori de informații"
 
 msgctxt "#21413"
 msgid "Default provider for movie information"
-msgstr "Furnizor implicit de informații filme"
+msgstr "Furnizor implicit de informați pentru filmele artistice"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
@@ -11845,12 +12020,12 @@ msgstr "Grupează după"
 
 msgctxt "#21459"
 msgid "mixed"
-msgstr "mixt"
+msgstr "amestecat"
 
 #. Subtitle position on screen setting list
 msgctxt "#21460"
 msgid "Position on screen"
-msgstr ""
+msgstr "Poziția pe ecran"
 
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21461"
@@ -11865,7 +12040,7 @@ msgstr "Jos pe video"
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21463"
 msgid "Bottom of screen"
-msgstr ""
+msgstr "În partea de jos a ecranului"
 
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21464"
@@ -11875,7 +12050,7 @@ msgstr "Sus pe video"
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21465"
 msgid "Top of screen"
-msgstr ""
+msgstr "În partea de sus a ecranului"
 
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
@@ -11964,12 +12139,12 @@ msgstr "Vizualizează"
 #. Button label to show list of supported types, e.g. supported file extensions
 msgctxt "#21484"
 msgid "Show support"
-msgstr ""
+msgstr "Arată asistența"
 
 #. Dialog header label to show list of supported types, e.g. supported file extensions
 msgctxt "#21485"
 msgid "Supported file extensions and media types"
-msgstr ""
+msgstr "Tipurile media ale extensiilor de fișiere sprijinite"
 
 msgctxt "#21602"
 msgid "(External)"
@@ -12030,10 +12205,6 @@ msgstr "Model aparat"
 msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "Comentariu EXIF"
-
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Microcod"
 
 msgctxt "#21826"
 msgid "Aperture"
@@ -12404,12 +12575,12 @@ msgstr "Set de caractere"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr ""
+msgstr "Acțiune de redare implicită"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "Întreabă dacă este reluabil"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -12441,7 +12612,7 @@ msgstr "Redă toate"
 
 msgctxt "#23049"
 msgid "Teletext not available"
-msgstr "Teletextul nu este disponibil!"
+msgstr "Teletextul nu este disponibil"
 
 msgctxt "#23050"
 msgid "Activate teletext"
@@ -12512,7 +12683,7 @@ msgstr "Sunete interfață"
 
 msgctxt "#24007"
 msgid "Movie information"
-msgstr "Informații filme"
+msgstr "Informații filme artistice"
 
 msgctxt "#24008"
 msgid "Screensaver"
@@ -12765,7 +12936,7 @@ msgstr "Renunțați la descărcarea suplimentului?"
 
 msgctxt "#24067"
 msgid "Currently downloading add-ons"
-msgstr "Suplimente în descărcare"
+msgstr "Suplimente momentan în descărcare"
 
 msgctxt "#24068"
 msgid "Update available"
@@ -12986,7 +13157,7 @@ msgstr "Selectați care va fi serviciul folosit implicit pentru căutarea subtit
 
 msgctxt "#24118"
 msgid "Default movie service"
-msgstr "Serviciu implicit pentru filme"
+msgstr "Serviciu implicit pentru filmele artistice"
 
 #. Description of setting with label #24118 "Default Movie Service"
 msgctxt "#24119"
@@ -13137,15 +13308,15 @@ msgstr "Suplimentul nu este compatibil cu această versiune a lui Kodi."
 
 msgctxt "#24153"
 msgid "Enable to make the Siri remote match the normal Apple tvOS behavior"
-msgstr ""
+msgstr "Activați-o ca să faceți telecomanda Siri să se potrivească cu comportamentul sistemului de operare pentru televizoare ( tvOS) de la Apple."
 
 msgctxt "#24154"
 msgid "Consider Siri remote in idle state after N seconds"
-msgstr ""
+msgstr "Consideră telecomanda Siri că e în starea de inactivitate după N secunde"
 
 msgctxt "#24155"
 msgid "Time to wait before considering the Siri remote in idle state"
-msgstr ""
+msgstr "Durata de timp de așteptare înainte de a considera telecomanda Siri că e în starea de inactivitate."
 
 msgctxt "#24156"
 msgid "30 Seconds"
@@ -13165,11 +13336,11 @@ msgstr "120 secunde"
 
 msgctxt "#24160"
 msgid "Ignore first tap/swipe/pan of the Siri remote after a period of inactivity"
-msgstr ""
+msgstr "Ignoră prima atingere/glisare/mărire a telecomenzii Siri după o perioadă de inactivitate"
 
 msgctxt "#24161"
 msgid "This prevents you from accidental tap/swipe/pan action when you grab the remote in your hand"
-msgstr ""
+msgstr "Aceasta previne o acțiune de atingere/glisare/mărere accidentală când luați telecomanda în mână."
 
 msgctxt "#24162"
 msgid "Use Kodi virtual keyboard"
@@ -13177,7 +13348,7 @@ msgstr "Utilizați tastatura virtuală Kodi"
 
 msgctxt "#24163"
 msgid "The higher the value, the more sensitive the pan gesture"
-msgstr ""
+msgstr "Cu cât e mai mare valoarea, cu atât e mai sensibil gestul de mărire."
 
 # empty string with id 24163
 #. Header text for yes/no dialog about enable of broken add-on
@@ -13188,7 +13359,7 @@ msgstr "Addon „{0:s}” este stricat"
 #. Yes/no dialog text with add-on broken string value and to ask for use
 msgctxt "#24165"
 msgid "Add-on marked as broken with following note:[CR][B][I]{0:s}[/I][/B][CR][CR]Do you want to enable?"
-msgstr ""
+msgstr "Suplimentul a fost marcat ca defect cu următoarea notiță:[CR][B][I]{0:s}[/I][/B][CR][CR]Sigur doriți să-l activați?"
 
 #. Header text for yes/no dialog about enable of deprecated add-on
 msgctxt "#24166"
@@ -13226,36 +13397,36 @@ msgstr "Defect"
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24180"
 msgid "Minimum: {0:s}{3:s}"
-msgstr ""
+msgstr "Minim: {0:s}{3:s}"
 
 #. The minimum version, plus the version going to be installed
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24181"
 msgid "Minimum: {0:s} => Install: {2:s}{3:s}"
-msgstr ""
+msgstr "Minim: {0:s} => Instalare: {2:s}{3:s}"
 
 #. The minimum version, plus the currently installed version
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24182"
 msgid "Minimum: {0:s} / Installed: {1:s}{3:s}"
-msgstr ""
+msgstr "Minim: {0:s} / Instalat: {1:s}{3:s}"
 
 #. The minimum version, the currently installed, plus the updated version we're going to install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24183"
 msgid "Minimum: {0:s} / Installed: {1:s} => Update to: {2:s}{3:s}"
-msgstr ""
+msgstr "Minim: {0:s} / Instalat: {1:s} => Actualizat la: {2:s}{3:s}"
 
 #. used in #24180 - #24183 as {3:s}
 msgctxt "#24184"
 msgid " (optional)"
-msgstr "(opțional)"
+msgstr " (opțional)"
 
 #. The minimum version, only lower versions are available for install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
-msgstr ""
+msgstr "Minim: {0:s} / Nedisponibil{3:s}"
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13312,7 +13483,7 @@ msgstr "Selectați din toate numele ..."
 #. A Blu-ray playback mode and a option in the simplified Blu-ray menu
 msgctxt "#25003"
 msgid "Show Blu-ray menu"
-msgstr "Arată meniul Blu-ray"
+msgstr "Arată meniul discului Blu-ray"
 
 msgctxt "#25004"
 msgid "Play main title: {0:d}"
@@ -13332,11 +13503,11 @@ msgstr "Capitole: {0:d} - durată: {1:s}"
 
 msgctxt "#25008"
 msgid "Playback of Blu-ray failed"
-msgstr "Redare Blu-ray eșuată"
+msgstr "Redare disc Blu-ray eșuată"
 
 msgctxt "#25009"
 msgid "The menu of this Blu-ray is not supported"
-msgstr "Meniul acestui Blu-ray nu este sprijinit"
+msgstr "Meniul acestui disc Blu-ray nu este sprijinit (compatibil)"
 
 msgctxt "#25010"
 msgid "Chapter {0:d}"
@@ -13817,7 +13988,7 @@ msgstr "Roluri"
 #. Label for multi-disc movies, including movie title (param 0) and disc number (param 1).
 msgctxt "#29995"
 msgid "{0:s} (Disc {1:s})"
-msgstr ""
+msgstr "{0:s} (Discul {1:s})"
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -13873,7 +14044,7 @@ msgstr "Lung"
 
 msgctxt "#33014"
 msgid "Use DVD player instead of regular player"
-msgstr "Folosește DVD player-ul în locul player-ului normal"
+msgstr "Folosește redatorul DVD în locul redatorului normal"
 
 msgctxt "#33015"
 msgid "Ask for download before playing video"
@@ -14118,7 +14289,7 @@ msgstr "Server comunicare la distanță"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr ""
+msgstr "Ați activat anterior interfața web fără a stabili o parolă. Servitorul web a fost dezactivat până ce o să permiteți asta în mod explicit sau configurați autentificarea. Vă rugăm să revizuiți configurările."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14158,15 +14329,15 @@ msgstr "Windows media audio 2 (FFmpeg wmav2)"
 
 msgctxt "#34008"
 msgid "When you need to enter some text, Kodi virtual keyboard will show up instead of the built-in tvOS keyboard"
-msgstr ""
+msgstr "Când trebuie să introduceți un text, tastatura virtuală din Kodi va apărea în locul celei integrate în sistemul de operare al televizorului"
 
 msgctxt "#34009"
 msgid "Siri remote pan gesture horizontal sensitivity"
-msgstr ""
+msgstr "Sensibilitatea orizontală a gestului de măriree a telecomenzii Siri"
 
 msgctxt "#34010"
 msgid "Siri remote pan gesture vertical sensitivity"
-msgstr ""
+msgstr "Sensibilitatea verticală a gestului de măriree a telecomenzii Siri"
 
 msgctxt "#34100"
 msgid "Number of channels"
@@ -14235,7 +14406,34 @@ msgstr "Trimite zgomot redus"
 #. Description of setting with label #34112 "Send low volume noise"
 msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
-msgstr "Pentru a menține active unele AVR-uri trimitem un semnal de zgomot inaudibil aleator. Puteți dezactiva această setare dacă folosiți căști sau un dispozitiv analogic."
+msgstr "Pentru a menține active unele receptoare audio video (stații), trimitem un semnal de zgomot inaudibil aleator. Puteți dezactiva această setare dacă folosiți căști sau un dispozitiv analogic."
+
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Include efectele de frecvență joasă (pentru subwoofer) când este scăzut numărul de canale"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Dacă o activați, această opțiune va include canalul de sunete de frecvență joasă (LFE), pentru subwoofer, în amestec când nu există niciun canal dedicat de ieșire pentru act tip de sunete de frecvență joasă (lipsește subwooferul). Aceasta are logică doar pentru difuzoare care pot redat tot intervalul de sunete."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Oprită"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+#, fuzzy
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+#, fuzzy
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -14328,7 +14526,7 @@ msgstr "Serviciul Bonjour de la Apple este instalat? Verificați jurnalul pentru
 
 msgctxt "#34302"
 msgid "Failed to start AirPlay as it requires Zeroconf to be enabled."
-msgstr "Failed to start AirPlay nu a putut fi pornit deoarece necesită ca Zeroconf să fie activat."
+msgstr "AirPlay nu a putut fi pornit deoarece necesită ca Zeroconf să fie activat."
 
 msgctxt "#34303"
 msgid "Unable to stop Zeroconf. AirPlay and AirTunes depend on Zeroconf running."
@@ -14352,7 +14550,7 @@ msgstr "Verificați setările audio"
 
 msgctxt "#34404"
 msgid "Use gestures for navigation:"
-msgstr "Utilizează gesturi pentru navigare"
+msgstr "Folosește gesturi pentru navigare:"
 
 msgctxt "#34405"
 msgid "One finger swipe left,right,up,down for cursors"
@@ -14701,27 +14899,28 @@ msgstr "Tastatură"
 #. Label for the button that opens the port setup dialog
 msgctxt "#35110"
 msgid "Ports"
-msgstr ""
+msgstr "Porturi"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#35111"
 msgid "Port Setup"
-msgstr ""
+msgstr "Configurare porturi"
 
 #. Label of a port with a numeric identifier. {0:s} is the port ID, e.g. "1" for "Port 1"
+#, fuzzy
 msgctxt "#35112"
 msgid "Port {0:s}"
-msgstr ""
+msgstr "Port {0:s}"
 
 #. Title of the dialog for selecting a game controller
 msgctxt "#35113"
 msgid "Select a Controller"
-msgstr ""
+msgstr "Selectați un controlator (manetă)"
 
 #. Title of the error dialog when changing a controller port fails
 msgctxt "#35114"
 msgid "Failed to change controller"
-msgstr ""
+msgstr "Eșuarea la schimbarea controlatorului (manetei)"
 
 #. Name of keyboard category in the settings category window
 msgctxt "#35150"
@@ -14760,42 +14959,42 @@ msgstr "{0:d}"
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35157"
 msgid "Configure keyboard player 1"
-msgstr "Configurați tastatura pentru player-ul 1"
+msgstr "Configurați tastatura pentru jucătorul 1"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35158"
 msgid "Configure keyboard player 2"
-msgstr "Configurați tastatura pentru player-ul 2"
+msgstr "Configurați tastatura pentru jucătorul 2"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35159"
 msgid "Configure keyboard player 3"
-msgstr "Configurați tastatura pentru player-ul 3"
+msgstr "Configurați tastatura pentru jucătorul 3"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35160"
 msgid "Configure keyboard player 4"
-msgstr "Configurați tastatura pentru player-ul 4"
+msgstr "Configurați tastatura pentru jucătorul 4"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35161"
 msgid "Configure keyboard player 5"
-msgstr "Configurați tastatura pentru player-ul 5"
+msgstr "Configurați tastatura pentru jucătorul 5"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35162"
 msgid "Configure keyboard player 6"
-msgstr "Configurați tastatura pentru player-ul 6"
+msgstr "Configurați tastatura pentru jucătorul 6"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35163"
 msgid "Configure keyboard player 7"
-msgstr "Configurați tastatura pentru player-ul 7"
+msgstr "Configurați tastatura pentru jucătorul 7"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35164"
 msgid "Configure keyboard player 8"
-msgstr "Configurați tastatura pentru player-ul 8"
+msgstr "Configurați tastatura pentru jucătorul 8"
 
 #. Name of the keyboard-emulated controller in the list of peripherals
 msgctxt "#35165"
@@ -14835,12 +15034,12 @@ msgstr "Maus"
 #. Name of window for configuring players while playing a game
 msgctxt "#35172"
 msgid "Players"
-msgstr ""
+msgstr "Jucători"
 
 #. Notification shown when no controllers are connected in the in-game dialog that lets users configure player assignment
 msgctxt "#35173"
 msgid "No controllers connected"
-msgstr ""
+msgstr "Niciun controlator (manetă) conectat"
 
 #. This string is an early meme from the late 1990's that made fun of the poor translation in the 16-bit game Zero Wing from the late 1980's. DO NOT TRANSLATE!
 msgctxt "#35200"
@@ -14855,7 +15054,7 @@ msgstr "Modul de joc"
 # empty string with id 35202
 msgctxt "#35203"
 msgid "Enable rewind (if supported)"
-msgstr ""
+msgstr "Activează derularea înapoi (dacă e sprijinită)"
 
 msgctxt "#35204"
 msgid "Enable real-time rewinding during game play, if supported. Press rewind or manually seek backwards using the seek bar."
@@ -15022,7 +15221,7 @@ msgstr "În această versiune, doar controlerele pot fi folosite pentru a juca j
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
 msgid "Save / Load"
-msgstr ""
+msgstr "Salvează / Încarcă"
 
 msgctxt "#35250"
 msgid "Add games..."
@@ -15038,7 +15237,7 @@ msgstr "Editare sursă joc"
 
 msgctxt "#35253"
 msgid "Enable autosave (if supported)"
-msgstr ""
+msgstr "Activează salvarea automată (dacă e sprijinită)"
 
 msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
@@ -15047,7 +15246,7 @@ msgstr "Salvați automat jocul în timpul jocului, dacă este acceptat. Reluați
 #. Label for showing which emulator the game was saved with
 msgctxt "#35255"
 msgid "Saved with:"
-msgstr ""
+msgstr "Salvat cu:"
 
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
@@ -15072,7 +15271,7 @@ msgstr "Salvat"
 #. Title of the dialog to select a savestate for the current game
 msgctxt "#35260"
 msgid "Select savestate"
-msgstr ""
+msgstr "Selectare stare salvare"
 
 #. Button for creating a new save state from the select savestate dialog
 msgctxt "#35261"
@@ -15082,49 +15281,49 @@ msgstr "Nou"
 #. Help text for RetroAchievements username input setting
 msgctxt "#35262"
 msgid "Enter your RetroAchievements account username"
-msgstr ""
+msgstr "Introduceți numele de utilizator al contului dumneavoastră de pe RetroAchievements"
 
 #. Help text for RetroAchievements password input setting
 msgctxt "#35263"
 msgid "Enter your RetroAchievements account password"
-msgstr ""
+msgstr "Introduceți parola contului dumneavoastră de pe RetroAchievements"
 
 #. Label for notification events regarding RetroAchievements login
 msgctxt "#35264"
 msgid "RetroAchievements"
-msgstr ""
+msgstr "RetroAchievements (realizări pentru jocurile retro)"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35265"
 msgid "Incorrect User/Password!"
-msgstr ""
+msgstr "Numele de utilizator/parola nu este corectă!"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35266"
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Eșuare la contactarea servitorului"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35267"
 msgid "Invalid response from server"
-msgstr ""
+msgstr "Răspun nevalid de la servitor"
 
 #. Setting to show if the user is logged in to RetroAchievements
 #. Settings -> Games -> Achievements -> Logged in
 msgctxt "#35268"
 msgid "Logged in"
-msgstr ""
+msgstr "Autentificat(ă)"
 
 #. Help text for the setting that shows if the user is logged in to RetroAchievements
 #. Settings -> Games -> Achievements -> Logged in
 msgctxt "#35269"
 msgid "Toggle this setting to log in or out of RetroAchievements."
-msgstr ""
+msgstr "Comutați această opțiune pentru a vă atentifica / dezautentifica din contrul dumneavoastră de pe RetroAchievements."
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
-msgstr ""
+msgstr "Contul dumneavoastră nu este verificat. Verificați-vă poșta electronică pentru a vă finaliza înregistrarea."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15185,7 +15384,7 @@ msgstr "Dispozitive de aprins la pornire"
 
 msgctxt "#36008"
 msgid "Devices to power off during shutdown"
-msgstr "Dispozitive de oprit la închidere"
+msgstr "Dispozitive de stins la oprirea sistemului"
 
 msgctxt "#36009"
 msgid "Put devices in standby mode when activating the screensaver"
@@ -15206,7 +15405,7 @@ msgstr "Adaptorul CEC nu a putut fi inițializat. Vă rugăm să verificați set
 #. CEC adapter setting to set the type of device that libCEC reports to the TV (Recording, Playback or Tuner Device)
 msgctxt "#36013"
 msgid "CEC client device mode"
-msgstr ""
+msgstr "Mod dispozitiv client CEC"
 
 msgctxt "#36015"
 msgid "HDMI port number"
@@ -15247,7 +15446,7 @@ msgstr "Noua configurație nu a putut fi inițializată. Vă rugăm verificați 
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
-msgstr "Trimite comanda „Sursă inactivă” la închidere"
+msgstr "Trimite comanda „Sursă inactivă” la oprirea sistemului"
 
 msgctxt "#36026"
 msgid "Devices to also put in standby mode"
@@ -15359,35 +15558,35 @@ msgstr "La început"
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36051"
 msgid "Recording Device"
-msgstr ""
+msgstr "Dispozitiv de înregistrare"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36052"
 msgid "Playback Device"
-msgstr ""
+msgstr "Dispozitiv de redare"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36053"
 msgid "Tuner Device"
-msgstr ""
+msgstr "Dispozitiv de prindere"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
 msgid "Use system HDR/SDR brightness balance"
-msgstr ""
+msgstr "Folosește echilibrarea HDR/SDR a sistemului"
 
 # empty strings from id 36054 to 36096
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36097"
 msgid "GUI peak luminance in HDR PQ mode"
-msgstr ""
+msgstr "Luminanța maximă a interfeței grafice în modul HDR PQ"
 
 # empty strings from id 36051 to 36097
 #. Label of setting "System / Display / Use 10 bit for SDR"
 msgctxt "#36098"
 msgid "Use 10 bit for SDR"
-msgstr ""
+msgstr "Folosește 10 biți pentru SDR"
 
 msgctxt "#36099"
 msgid "Dithering"
@@ -15582,7 +15781,7 @@ msgstr "Alegeți care unitate să fie folosită pentru afișarea temperaturilor 
 #. Description of setting with label #20369 "Show information for unwatched items"
 msgctxt "#36141"
 msgid "Show information for unwatched media in the video library or hide them if not selected to prevent spoilers. Available options are 'Movie plot', 'Episode plot' and 'Episode thumb'."
-msgstr "Afișați informații pentru suporturile neobservate din biblioteca video sau ascundeți-le dacă nu sunt selectate pentru a preveni spoilerele. Opțiunile disponibile sunt „Movie plot”, „Episode plot” și „thumb Episode”."
+msgstr "Arată informații pentru fișierele media nevăzute din mediateca video sau le ascunde dacă nu sunt selectate pentru a preveni stricătoarele de chef (spoilers). Opțiunile disponibile sunt „Intrigă film artistic”, „Intrigă episod” și „Miniatură episod”."
 
 #. Description of setting with label #14106 "Speed unit"
 msgctxt "#36142"
@@ -15602,7 +15801,7 @@ msgstr "Selectați în care cazuri doriți să ascundeți noduri sezoane pentru 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
 msgid "When enabled, movies belonging to a \"Movie set\" are grouped together under one entry for the set in the movie library, this entry can then be opened to display the individual movies. When disabled, each movie will have its own entry in the movie library even if it belongs to a set."
-msgstr "Când este activat, filmele aparținând unui „set de filme” sunt grupate sub o intrare pentru setul din biblioteca de filme, această intrare poate fi apoi deschisă pentru a afișa filmele individuale. Când este dezactivat, fiecare film va avea propria intrare în biblioteca de filme, chiar dacă aparține unui set."
+msgstr "Când este activat, filmele artistice aparținând unei „colecții de filme artistice” sunt grupate sub o intrare pentru setul din mediateca de filme, această intrare poate fi apoi deschisă pentru a afișa filmele individuale. Când este dezactivat, fiecare film va avea propria intrare în biblioteca de filme, chiar dacă aparține unei colecții."
 
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36146"
@@ -15762,7 +15961,7 @@ msgstr "Această categorie conține setările pentru gestionarea listelor de fi�
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Comutați între [Alegere], [Redă] (implicit), [Reia], [Arată informații] și [Adaugă elementul la coadă].[CR][Alegere] va deschide un meniul contextual pentru a alege un element, de ex. Arată informații.[CR][Redă] va reda automat fișierele video de la început sau dacă un punct de reluare este prezent, vă va întreba dacă doriți să redați de la început sau să reluați de unde ați rămas.[CR][Reia] Va relua automat fișierele video de la ultima poziție la care ați rămas când le-ați vizionat.[CR][Arată informații] va deschide pagina de informații pentru acel fișier video.[CR][Adaugă elementul la coadă] va adăuga fișierul video la sfârșitul listei de redare video."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -15786,7 +15985,7 @@ msgstr "Deocamdată nu este disponibilă nicio informație."
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
 msgid "Combines multi-part video files, DVD folders or movie folders, down to a single item in non-library views."
-msgstr "Combină fișiere video din mai multe părți, dosare DVD, dosare filme într-un singur element când vizualizarea nu se face în mod mediatecă."
+msgstr "Combină fișiere video din mai multe părți, dosare DVD, dosare filme artistice într-un singur element când vizualizarea nu se face în mod mediatecă."
 
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
@@ -15801,7 +16000,7 @@ msgstr "Această categorie conține setări pentru gestionarea subtitlurilor."
 #. Description of setting with label #14089 "Font"
 msgctxt "#36185"
 msgid "Set the font type to be used for subtitles."
-msgstr ""
+msgstr "Stabiliți tipul fontului folosit pentru subtitluri."
 
 #. Description of setting with label #289 "Size"
 msgctxt "#36186"
@@ -15826,7 +16025,7 @@ msgstr "Alegeți setul de caractere al fontului folosit pentru subtitluri."
 #. Description of setting with label #21368 "Override subtitles fonts"
 msgctxt "#36190"
 msgid "Override subtitles fonts in subtitle formats such as ASS / SSA."
-msgstr ""
+msgstr "Suprascrie fonturile subtitlurilor în formate ca ASS / SSA."
 
 #. Description of setting with label #21366 "Custom subtitle folder"
 msgctxt "#36191"
@@ -15836,12 +16035,12 @@ msgstr "Alegeți un dosar pentru subtitlurile dvs. Poate fi și o partajare de f
 #. Description of setting with label #21460 "Subtitle location on screen"
 msgctxt "#36192"
 msgid "Location of subtitles on the screen. [Bottom of video] / [Top of video] When possible the subtitles will be positioned within the video area (depends on video encoding). Please note that some forced positions in the subtitles cannot be changed."
-msgstr ""
+msgstr "Locația subtitlurilor pe ecran. [Jos pe video] / [Sus pe video] Când e posibil, subtitlurile vor fi poziționate înăuntrul zonei video (depinde de codarea video). Țineți minte totuși că unele poziționări forțate din subtitluri nu pot fi schimbate."
 
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr "Această categorie conține setări pentru gestionarea discurilor DVD, Blu-ray și CD."
+msgstr "Această categorie conține setări pentru cum sunt manevrate discurile Blu-ray, DVD și CD."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 msgctxt "#36194"
@@ -15893,11 +16092,11 @@ msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
-msgstr ""
+msgstr "Sortează canalele după numărul canalului de la furnizorul din spate, dar folosește numerotarea locală a canalelor."
 
 msgctxt "#36206"
 msgid "Use the channel numbering from the backend."
-msgstr ""
+msgstr "Folosește numerotarea canalelor de la furnizorul din spate."
 
 msgctxt "#36207"
 msgid "Open the channel manager, which allows modifying the channel order, channel name, icon, etc."
@@ -15925,7 +16124,7 @@ msgstr "Afișează informațiile programului când se schimbă canalele, cum ar 
 
 msgctxt "#36213"
 msgid "Open the group manager, which allows modification of groups and their respective channels"
-msgstr "Deschide gestionarul de canale, care pemite modificarea grupurilor și a canalelor respective."
+msgstr "Deschide gestionarul de canale, care permite modificarea grupurilor și a canalelor respective."
 
 msgctxt "#36214"
 msgid "Preselect the playing channel in windows and dialogs containing channel lists. If enabled and there is a playing channel, the playing channel will be selected when opening a window or dialog containing a channel list. If disabled, the channel previously selected in a window or dialog will be selected when opening a window containing a channel list. "
@@ -15996,12 +16195,12 @@ msgstr "Arată calitatea semnalului în fereastra de informații codec (dacă es
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Setați opacitatea fundalului de subtitrare."
+msgid "Set the subtitle background opacity."
+msgstr "Stabiliți opacitatea fundalului pentru subtitluri."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
-msgstr "Când treceți prin canale folosind butoanele de sus / jos ale canalului, comutatoarele de canale trebuie confirmate cu ajutorul butonului OK."
+msgstr "Când treceți prin canale folosind butoanele de sus / jos ale canalului, comutatoarele de canale trebuie confirmate cu ajutorul butonului „Bine”."
 
 msgctxt "#36232"
 msgid "When pressing channel up or down, the actual channel switch is delayed, allowing the user to flip to a channel number without waiting for each channel switch."
@@ -16158,7 +16357,7 @@ msgstr "Când cântecele sunt selectate, ele sunt puse în coada de redare în l
 #. Description of setting with label #638 "Volume adjustments"
 msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
-msgstr "Citește informațiile ReplayGain information codate în fișierele audio files de un program program cum este MP3Gain și normalizează nivelele sunetului corespunzător."
+msgstr "Citește informațiile ReplayGain codate în fișierele audio files de un program cum este MP3Gain și normalizează nivelele sunetului corespunzător."
 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
@@ -16193,7 +16392,7 @@ msgstr "Alegeți vizualizarea care va fi afișată când se ascultă muzică"
 #. Description of setting with label #39125 "Enable tag reading in file view"
 msgctxt "#36274"
 msgid "When browsing music files in file view read the tags of those not in the music library as you go. This can make large directories slow to display, especially over a network."
-msgstr ""
+msgstr "Când se răsfoiesc fișiere muzicale în vizualizarea de fișiere citește etichetele acelora care nu se află în mediateca audio în timp ce se trece peste ele. Acest lucru poate face ca dosarele mare să dureze mai mult până ce sunt afișate, în special peste rețea."
 
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
@@ -16273,7 +16472,7 @@ msgstr "Alegeți ce rată de biți să fie folosită de codorul audio pentru com
 #. Description of setting with label #665 "Compression level"
 msgctxt "#36290"
 msgid "For FLAC define compression level, default 5."
-msgstr "Pentru FLAC alegeți nivelul de comprimare, implicit 5."
+msgstr "Pentru FLAC alegeți nivelul de comprimare, implicit e 5."
 
 #. Description of setting with label #14099 "Eject disc when CD ripping is complete"
 msgctxt "#36291"
@@ -16288,7 +16487,7 @@ msgstr "Această categorie conține setări de pornire."
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Selectați folderul în care ar trebui salvate informațiile artistului (fișiere nfo și imagini)."
+msgstr "Selectați dosarul în care ar trebui salvate informațiile artiștilor (fișiere nfo și imagini)."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
@@ -16297,8 +16496,8 @@ msgstr "Când sortați articole de muzică după artist, folosiți nume de sorta
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr ""
+msgid "Set the subtitle opacity."
+msgstr "Stabiliți opacitatea subtitlurilor."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16320,7 +16519,7 @@ msgstr ""
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
 msgid "Select the folder where movie set information (images) are saved locally."
-msgstr ""
+msgstr "Alegeți dosarul unde informațiile colecției de filme (imaginile) vor fi salvate local."
 
 msgctxt "#36301"
 msgid "No 'Movie set information folder' is configured to store movie set images so they will not be exported. Do you want to proceed?"
@@ -16346,7 +16545,7 @@ msgstr "Această categorie conține setările pentru gestionarea listelor de ima
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr ""
+msgstr "Dacă nu sunt folosite numerele canalelor de la furnizorul din spate atunci  pornește numerele canalelor pentru toate grupurile de la 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -16466,12 +16665,12 @@ msgstr "Definiți portul pentru server-ul web."
 #. Description of setting with label #1048 "Username"
 msgctxt "#36330"
 msgid "Define the web server username. Must be set when authentication is enabled."
-msgstr ""
+msgstr "Definiți numele de utilizator pentru servitorul web. Trebuie să fie stabilit când autentificarea este activată."
 
 #. Description of setting with label #1048 "Password"
 msgctxt "#36331"
 msgid "Define the web server password. Must be set when authentication is enabled."
-msgstr ""
+msgstr "Definiți parola pentru servitorul web. Trebuie să fie stabilită când autentificarea este activată."
 
 #. Description of setting with label #199 "Web interface"
 msgctxt "#36332"
@@ -16763,7 +16962,7 @@ msgstr "Stabiliți timpul cât trebuie să se aștepte pentru ca orice activitat
 #. Description of setting with label #13008 "Shutdown function"
 msgctxt "#36390"
 msgid "Define what action to perform when the shutdown function timer lapsed."
-msgstr "Definiți ce acțiune să fie luată când cronometrul planificatorului de închidere a ajuns la final."
+msgstr "Definiți ce acțiune să fie luată când cronometrul planificatorului de oprire sistem a ajuns la final."
 
 #. Description of settings category with label #14092 "Logging"
 msgctxt "#36391"
@@ -16984,12 +17183,12 @@ msgstr ""
 #. Select the layout of a physically attached keyboard
 msgctxt "#36436"
 msgid "Select hardware keyboard layout."
-msgstr ""
+msgstr "Selectați aranjamentul tastaturii fizice."
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36437"
 msgid "Official repositories only (default)"
-msgstr ""
+msgstr "Doar depozitele oficiale (implicit)"
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36438"
@@ -17114,7 +17313,7 @@ msgstr "Mod preferat"
 #. label for a preferred stereoscopic 3D playback mode
 msgctxt "#36525"
 msgid "Same as movie (autodetect)"
-msgstr "La fel ca filmul (detectare automată)"
+msgstr "La fel ca filmul artistic (detectare automată)"
 
 #. label of a setting to turn of stereoscopic 3D mode if video playback ended
 msgctxt "#36526"
@@ -17139,7 +17338,7 @@ msgstr "Selectare mod alternativ..."
 #. option label of a setting/dialog asking for the desired stereoscopic playback mode
 msgctxt "#36532"
 msgid "Same as movie"
-msgstr "La fel ca filmul"
+msgstr "La fel ca filmul artistic"
 
 #. Description of setting with label #346 "Normalize levels on downmix"
 msgctxt "#36533"
@@ -17344,7 +17543,7 @@ msgstr "Specificați rezoluția pentru tabelul de căutare 3D lookup table. Folo
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr ""
+msgstr "Îmbunătățește calitatea video folosind suprafețe video pe 10-biți video surfaces pentru fișierele vide în intervalul dinamic standard (SDR).[CR][Detectare automată] Activează 10-biți pentru SDR doar dacă ecranul conectat sprijină (are) HDR.[CR][Întotdeauna] Activează 10-biți pentru SDR chiar dacă ecranul conectat nu sprijină (are) HDR.[CR][Niciodată] Nu se folosesc 10-biți pentru SDR.[CR]Modul Traversare HDR folosește întotdeauna 10-biți indiferent de valoarea acestei opțiuni."
 
 #. primaries labels
 msgctxt "#36579"
@@ -17610,37 +17809,37 @@ msgstr ""
 #. Text in error dialog when trying to enter an invalid web server configuration
 msgctxt "#36635"
 msgid "If web server authentication is enabled, a password must be entered as well."
-msgstr ""
+msgstr "Dacă autentificarea servitorului web este activată, trebuie de asemenea introdusă și o parolă."
 
 #. Text in error dialog when trying to enter an invalid web server configuration by enabling authentication without a password set
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
-msgstr ""
+msgstr "Trebuie să introduceți o parolă înainte ca autentificarea servitorului web să fie activată."
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
 msgid "Remove all orphaned add-ons"
-msgstr ""
+msgstr "Elimină toate suplimentele orfanate"
 
 #. Description of setting with label #36638 "Remove all orphaned dependencies"
 msgctxt "#36639"
 msgid "Remove all modules and support libraries that have been automatically installed and are in an orphaned state."
-msgstr ""
+msgstr "Elimină toate modulele și librăriile de sprijin care au fost instalate automat și care acum sunt într-o stare orfanată (nu mai depinde nimic de ele)."
 
 #. Dialog caption
 msgctxt "#36640"
 msgid "Orphaned add-ons"
-msgstr ""
+msgstr "Suplimente orfanate"
 
 #. Dialog text if orphaned add-ons were found and removed
 msgctxt "#36641"
 msgid "The following orphaned add-ons were removed from your system: {0:s}."
-msgstr ""
+msgstr "Următoarele suplimente orfanate au fost eliminate de pe sistemul dumneavoastră: {0:s}."
 
 #. Dialog text if no more orphaned add-ons left on the system
 msgctxt "#36642"
 msgid "No orphaned add-ons to remove."
-msgstr ""
+msgstr "Niciun supliment orfanat de eliminat."
 
 # empty strings from id 36643 to 36898
 #. Description of setting with label #729 "Enable SSL"
@@ -17650,11 +17849,11 @@ msgstr "Activează criptarea SSL în webserver. Special certificate: //userdata/
 
 msgctxt "#36900"
 msgid "movie"
-msgstr "film"
+msgstr "film artistic"
 
 msgctxt "#36901"
 msgid "movies"
-msgstr "filme"
+msgstr "filme artistice"
 
 msgctxt "#36902"
 msgid "TV show"
@@ -17811,7 +18010,7 @@ msgstr "Accesibilitate"
 #. Description of category #287 Subtitles
 msgctxt "#37033"
 msgid "This category contains the settings for subtitles"
-msgstr ""
+msgstr "Această categorie conține configurări pentru subtitluri"
 
 #. Setting #37034 Accessibility
 msgctxt "#37034"
@@ -17877,29 +18076,30 @@ msgctxt "#37046"
 msgid "1080"
 msgstr "1080"
 
+#, fuzzy
 msgctxt "#37047"
 msgid "WS-Discovery"
-msgstr ""
+msgstr "WS-Discovery"
 
 #. Setting #37048 Enable WS-Discovery Service"
 msgctxt "#37048"
 msgid "Enable WS-Discovery Service"
-msgstr ""
+msgstr "Activează serviciul WS-Discovery"
 
 #. Description of setting #37048 Enable WS-Discovery Service"
 msgctxt "#37049"
 msgid "Enable service to search for SMB services using the WS-Discovery protocol"
-msgstr ""
+msgstr "Activați serviciul pentru a căuta servicii SMB folosind protocolul WS-Discovery"
 
 #. Label for component level debug logging setting
 msgctxt "#37050"
 msgid "Verbose logging for the [B]WS-Discovery[/B] component"
-msgstr ""
+msgstr "Jurnalizare detaliată pentru componenta [B]WS-Discovery[/B]"
 
 #. Setting #37051 NFS Protocol Version"
 msgctxt "#37051"
 msgid "NFS Protocol Version"
-msgstr ""
+msgstr "Versiune protocol NFS"
 
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
@@ -17909,33 +18109,33 @@ msgstr ""
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "Dimensiune bucată"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "Dimensiune bucată NFS"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "Dimensiune bucată (chunk) de date folosită în conexiunile NFS"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "Dimensiune bucată SMB"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "Dimensiune bucată (chunk) de date folosită în conexiunile SMB"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "Prestocare"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
@@ -17945,7 +18145,7 @@ msgstr ""
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "Mod tampon"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
@@ -17955,7 +18155,7 @@ msgstr ""
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "Dimensiune memorie"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
@@ -17965,7 +18165,7 @@ msgstr ""
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "Factor de citire"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
@@ -17980,7 +18180,7 @@ msgstr ""
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "Niciun tampon"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
@@ -18000,37 +18200,68 @@ msgstr ""
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "Creează memorie tampon pentru toate sistemele de fișiere, inclusiv pentru fișierele locale"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Prestochează tot fișierul pe stocarea de pe disc"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Adaptiv"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} Octet"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KO"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MO"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
+msgstr "{0:d} GO"
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} secundă"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} secunde"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr ""
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr ""
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr ""
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
 msgstr ""
 
 #. Setting #38011 "Show All Items entry"
@@ -18281,12 +18512,12 @@ msgstr "Stare lansare"
 #. Displayed in a toast notification when music items are added to a playlist
 msgctxt "#38082"
 msgid "Added to end of playlist"
-msgstr ""
+msgstr "Adăugat la sfârșitul listei de redare"
 
 #. Displayed in a toast notification when music items are added to a playlist to play next
 msgctxt "#38083"
 msgid "Added to playlist to play next"
-msgstr ""
+msgstr "Adăugat la lista de redare pentru a fi următorul redat"
 
 #. Description of section #14200 "Player""
 msgctxt "#38100"
@@ -18353,6 +18584,11 @@ msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr ""
 
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Această categorie conține setări avansate pentru redarea video"
+
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
 msgstr "Extrage miniaturi din fișierele video"
@@ -18375,7 +18611,7 @@ msgstr "Restabilește poziția de reluare"
 #. Dialog header for settings for how to export specific music library data
 msgctxt "#38300"
 msgid "Export Music Library"
-msgstr "Export bibliotecă muzicală"
+msgstr "Exportă mediateca muzicală"
 
 #. Kind of export output, see #38304
 msgctxt "#38301"
@@ -18409,7 +18645,7 @@ msgstr "Elemente de exportat"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr ""
+msgstr "Include lucrări de artă cum sunt miniaturile și decorurile"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
@@ -18441,12 +18677,12 @@ msgstr "Alți artiști"
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr "Imposibil de exportat în dosarele bibliotecii, deoarece setarea folderului cu informații despre artistul de sistem este goală"
+msgstr "Imposibil de exportat în dosarele mediatecii, deoarece setarea dosarului de sistem cu informații despre artiști este goală"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
 msgid "Unable to export data as the destination folder does not exist"
-msgstr "Imposibil de exportat date deoarece folderul destinație nu există"
+msgstr "Imposibil de exportat date deoarece dosarul de destinație nu există"
 
 #. Button text to start export
 msgctxt "#38319"
@@ -18466,7 +18702,7 @@ msgstr "Doar foldere artist"
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr "Artiștii exportați în Folderul pentru informații despre artiști și albume în dosarele muzicale"
+msgstr "Artiștii exportați în dosarul pentru informații despre artiști și albumele în dosarele muzicale"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 msgctxt "#38323"
@@ -18481,7 +18717,7 @@ msgstr "Artiști exportați în Folder Information Artist"
 #. Explanation of what export artist folders only means see #38304
 msgctxt "#38325"
 msgid "Artist subfolders created in Artist Information Folder"
-msgstr "Subfoldere de artiști create în folderul de informații pentru artiști"
+msgstr "Sub-dosarele de artiști create în dosarul de informații pentru artiști"
 
 #. Dialog heading when editing default settings for fetching additional music information
 msgctxt "#38330"
@@ -18673,7 +18909,7 @@ msgstr ""
 #. Text for yes/no dialog to indicate that an add-on was manually installed
 msgctxt "#39029"
 msgid "Manually installed"
-msgstr ""
+msgstr "Instalat manual"
 
 #. Media source, a filter and smart playlist rule option
 msgctxt "#39030"
@@ -18743,7 +18979,7 @@ msgstr "original"
 #. Used for a setting which allows centre channel (voice/speech) volume to be adjusted when downmixing.
 msgctxt "#39112"
 msgid "Downmix: Center Mix Level"
-msgstr "Downmix: Nivel sonor central"
+msgstr "Convertire sunet în canale mai puține: Nivel sonor central"
 
 #. Help text for 39112
 msgctxt "#39113"
@@ -18753,7 +18989,7 @@ msgstr "Nivel sonor central in decibeli in metadata sau implicit (-3 dB)"
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39114"
 msgid "Episode thumb"
-msgstr "Imagine episod"
+msgstr "Miniatură episod"
 
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39115"
@@ -18768,12 +19004,12 @@ msgstr "Intrigă episod"
 #. Label for component level debug logging setting
 msgctxt "#39117"
 msgid "Verbose logging for the [B]Announcer[/B] component"
-msgstr ""
+msgstr "Jurnalizare detaliată pentru componenta [B]Anunțator[/B]"
 
 #. Label for action to present native iOS sharing sheet
 msgctxt "#39118"
 msgid "Share debug log"
-msgstr ""
+msgstr "Partajează jurnalul de depanare"
 
 msgctxt "#39119"
 msgid "Last modified"
@@ -18781,17 +19017,17 @@ msgstr "Ultima modificare"
 
 msgctxt "#39120"
 msgid "Skip filename matching for external audio tracks"
-msgstr ""
+msgstr "Omite potrivirea numelui de fișier pentru pistele audio externe"
 
 #. Label for section of settings controling what is shown on the library windows
 msgctxt "#39121"
 msgid "Library Display and Navigation"
-msgstr ""
+msgstr "Navigare și afișare mediatecă"
 
 #. Label for section of settings controling how library is populated
 msgctxt "#39122"
 msgid "Library Information Sources"
-msgstr ""
+msgstr "Surse de informații mediatecă"
 
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
@@ -18801,17 +19037,17 @@ msgstr "Creație artistică"
 #. Label for component level debug logging setting
 msgctxt "#39124"
 msgid "Verbose logging for the [B]Add-ons[/B] component"
-msgstr ""
+msgstr "Jurnalizare detaliată pentru componenta [B]Suplimente[/B]"
 
 # empty string with id 39124
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
-msgstr ""
+msgstr "Activează citirea etichetelor în vizualizarea de fișiere"
 
 # empty string with id 39126
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
-msgstr ""
+msgstr "Folosește toate fișierele de imagini locale ca artă"
 
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
@@ -18820,7 +19056,7 @@ msgstr ""
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
-msgstr ""
+msgstr "Folosește toate lucrurile de artă de la distanță obținute de cataloage"
 
 #. Description of setting with label #39129 "Use all remote artwork fetched by scrapers"
 msgctxt "#39130"
@@ -18847,7 +19083,7 @@ msgstr ""
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
-msgstr ""
+msgstr "Fișiere de imagini miniatură"
 
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
@@ -18917,31 +19153,31 @@ msgstr ""
 #. Display Hardware scaling filter setting toggle
 msgctxt "#39151"
 msgid "Display hardware scaling filter"
-msgstr ""
+msgstr "Filtru fizic de scalare a afișajului"
 
 #. Description
 msgctxt "#39152"
 msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr ""
+msgstr "Scalarea întregilor (IS) este o tehnică de scalare în sus a celui mai apropiat vecin(NN) folosind motorul de afișare"
 
 msgctxt "#39153"
 msgid "Windowing system:"
-msgstr ""
+msgstr "Sistem gestionare ferestre:"
 
 #. Override subtitles styles setting list
 msgctxt "#39154"
 msgid "Override subtitles styles"
-msgstr ""
+msgstr "Suprascrie stilurile subtitlurilor"
 
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr ""
+msgstr "Unele formate de subtitluri, cum ar fi SSA / ASS / WebVTT pot include metadate ca stil font, culori, dimensiune, alinieri, poziționări, etc. Puteți trece peste (ignora) acele stiluri cu personalizările dumneavoastră (tuși luați la cunoștință că în unele cazuri pot apărea efecte secundare)."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
 msgid "Positions"
-msgstr ""
+msgstr "Poziționări"
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39157"
@@ -18951,22 +19187,22 @@ msgstr "Stiluri"
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39158"
 msgid "Styles and positions"
-msgstr ""
+msgstr "Stiluri și poziționări"
 
 #. Subtitle border size setting toggle
 msgctxt "#39159"
 msgid "Border size"
-msgstr ""
+msgstr "Dimensiunea marginilor"
 
 #. Subtitle border colour setting
 msgctxt "#39160"
 msgid "Border colour"
-msgstr ""
+msgstr "Culoarea marginilor"
 
 #. CC Subtitles text alignment setting list
 msgctxt "#39161"
 msgid "Text alignment"
-msgstr ""
+msgstr "Alinierea textului"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39162"
@@ -18976,7 +19212,7 @@ msgstr "Stânga"
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39163"
 msgid "Center"
-msgstr ""
+msgstr "Centrat"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39164"
@@ -18986,92 +19222,92 @@ msgstr "Dreapta"
 #. Type of background for displaying the subtitles
 msgctxt "#39165"
 msgid "Background type"
-msgstr ""
+msgstr "Tipul fundalului"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39166"
 msgid "Shadow"
-msgstr ""
+msgstr "Umbră"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39167"
 msgid "Box"
-msgstr ""
+msgstr "Cutie"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39168"
 msgid "Square box"
-msgstr ""
+msgstr "Cutie pătrată"
 
 #. Description of setting with label #39166 "Background type"
 msgctxt "#39169"
 msgid "Type of background to apply to subtitles."
-msgstr ""
+msgstr "Tipul de fundal aplicat subtitlurilor."
 
 #. Subtitle shadow size setting
 msgctxt "#39170"
 msgid "Shadow size"
-msgstr ""
+msgstr "Dimensiunea umbrei"
 
 #. Subtitle shadow colour setting
 msgctxt "#39171"
 msgid "Shadow colour"
-msgstr ""
+msgstr "Culoarea umbrei"
 
 #. Subtitle shadow opacity setting
 msgctxt "#39172"
 msgid "Shadow opacity"
-msgstr ""
+msgstr "Opacitatea umbrei"
 
 #. Subtitle blur setting
 msgctxt "#39173"
 msgid "Blur"
-msgstr ""
+msgstr "Încețoșare"
 
 #. SystemInfo string for the display's supported HDR types
 msgctxt "#39174"
 msgid "Display supported HDR types"
-msgstr ""
+msgstr "Afișează tipurile de HDR sprijinite"
 
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
 msgid "Building font cache in progress - please wait"
-msgstr ""
+msgstr "Se contruiește prestocarea fonturilor - vă rugăm așteptați"
 
 #. Helper text for gui sound volume setting
 msgctxt "#39176"
 msgid "Relative volume for gui sounds"
-msgstr ""
+msgstr "Volumul relativ pentru sunetele interfeței grafice"
 
 #. Dialog caption related to the speech to text process
 msgctxt "#39177"
 msgid "Speech to text"
-msgstr ""
+msgstr "Vorbire către text"
 
 #. Dialog text to notify that the speech service is not available
 msgctxt "#39178"
 msgid "Speech recognition service not available"
-msgstr ""
+msgstr "Niciun serviciu de recunoaștere a vorbirii disponibil"
 
 #. Dialog text to notify that microphone is listening
 msgctxt "#39179"
 msgid "Listening..."
-msgstr ""
+msgstr "Se ascultă..."
 
 #. Dialog text to notify that there has been no matching recognition result
 msgctxt "#39180"
 msgid "No recognition result matched"
-msgstr ""
+msgstr "Nu s-a potrivit niciun rezultat de recunoaștere a vorbirii"
 
 #. Dialog text to notify that there has been a speech recognition error
 msgctxt "#39181"
 msgid "Speech recognition error"
-msgstr ""
+msgstr "Eroare la recunoșterea vorbirii"
 
 #. Subtitle vertical margin setting
 msgctxt "#39182"
 msgid "Vertical margin"
-msgstr ""
+msgstr "Margine verticală"
 
 #. Help text for setting "Vertical margin" of label #39182
 msgctxt "#39183"
@@ -19081,17 +19317,17 @@ msgstr ""
 #. Window screen calibration: the current subtitle calibration value with vertical margin
 msgctxt "#39184"
 msgid "Current value: {0:d} (with vertical margin: {1:d})"
-msgstr ""
+msgstr "Valoarea actuală: {0:d} (cu marginea verticală: {1:d})"
 
 #. Dialog text to notify that there are insufficient permissions for speech recognition
 msgctxt "#39185"
 msgid "Insufficient permissions for speech recognition"
-msgstr ""
+msgstr "Permisiuni insuficiente pentru recunoașterea vorbirii"
 
 #. Title of group menu subtitles
 msgctxt "#39186"
 msgid "Styles for text based subtitles"
-msgstr ""
+msgstr "Stiluri pentru subtitlurile bazate pe text"
 
 #. Title of group menu subtitles
 msgctxt "#39187"
@@ -19101,12 +19337,12 @@ msgstr ""
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39188"
 msgid "No background"
-msgstr ""
+msgstr "Niciun fundal"
 
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr ""
+msgstr "Disponibilă doar cu poziționarea manuală a subtitlurilor"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
@@ -19116,16 +19352,16 @@ msgstr ""
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
 msgid "HDR"
-msgstr ""
+msgstr "HDR (Interval ridicat de luminozitate dinamică)"
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "Dezactivează protectorul de ecran când sunt redate fișiere audio"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "Dacă se redă muzică, protectorul de ecran nu va fi activat."
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
@@ -19135,36 +19371,48 @@ msgstr ""
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Activați această opțiune pentru cea mai bună calitate a imaginii. Dezactivarea ei reduce încărcarea pe sistemele cu resurse limitate."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "Mod compatibilitate cu Dolby Vision"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "Dacă este activată, Dolby Vision profilul 7 va fi convertit în profilul 8.1, care este în general mai compatibil cu dispozitivele. Activați-o dacă dispozitivul dumneavoastră sprijină Dolby Vision, dar s-ar putea să aibă probleme cu unele fișiere video."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Formate de metadate dinamice pentru HDR permise"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "Modifică fluxul de biți video pentru a elimina metadatele dinamice pentru HDR. Selectați formatele de HDR pe care dispozitivul și ecranul dumneavoastră le sprijină."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
+#, fuzzy
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
+#, fuzzy
 msgctxt "#39201"
 msgid "HDR10+"
+msgstr "HDR10+"
+
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
@@ -19176,12 +19424,12 @@ msgstr "Versiuni"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "Gestionare versiuni"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "Adaugă ca versiune la..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19191,112 +19439,112 @@ msgstr "Versiune"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Alegeți tipul"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "Operațiunea nu este sprijinită"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "Filmul artistic selectat are versiuni multiple, prevenind convertirea lui într-o versiune a altui film artistic. Eliminați versiunile de la filmul artistic, rescanați mediateca și convertiți-le individual."
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "Versiunea „{0:s}” deja există!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "A fost găsită o versiune a filmului artistic diferită"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "A fost găsită o versiune diferită a filmului artistic „{0:s}”: {1:s}. Doriți să o convertiți într-o versiune adițională a originalului?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "Versiunea video"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "Versiunile video"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "Versiunea video"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "Versiunile video"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "Adăugare versiune"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "Adăugare extra"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Fișierul video selectat deja există în versiunea „{0:s}” a filmului artistic."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Fișierul video selectat este versiunea „{0:s}” a filmului artistic „{1:s}”. Doriți să mutați versiunea către acest film artistic?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "Elimină versiunea video"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Versiunea implicită a unui film artistic nu poate fi eliminată. Stabiliți o versiune implicită diferită și încercați din nou."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "Sigur doriți să eliminați versiunea „{0:s}”?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Sigur doriți să eliminați din mediatecă „{0:s}” și toate versiunile lui?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "Gestionare {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "Stabilește ca implicit"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Gestionarul de versiuni: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Gestionarul de bonusuri: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
@@ -19316,22 +19564,22 @@ msgstr "Răsfoire fișiere"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "Răsfoire mediatecă"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "Selectați un film artistic ca să fie adăugat ca o versiune"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "Nu a fost găsit niciun alt film artistic în mediatecă."
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "Nu a fost găsit niciun alt film artistic similar în mediatecă."
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19361,17 +19609,17 @@ msgstr ""
 #. Select default video version setting
 msgctxt "#40200"
 msgid "Select default video version"
-msgstr ""
+msgstr "Selectați versiunea video implicită"
 
 #. Help for select default video version setting
 msgctxt "#40201"
 msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr ""
+msgstr "Definiți cum să fie mânuite selectarea fișierelor video cu versiuni multiple.[CR][Activată] Se va selecta automat versiunea video implicită fără să se întrebe.[CR][Dezactivată] Afișează un dialogue pentru a selecta versiunea vișierului video."
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ignoră versiunile video diferite la scanare"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
@@ -19436,17 +19684,17 @@ msgstr ""
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Alegeți tipul versiunii"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Tip nou..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Tip nou versiune"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
@@ -19456,7 +19704,7 @@ msgstr ""
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Nume nou..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
@@ -19466,123 +19714,183 @@ msgstr ""
 #. Choose video version context menu item label
 msgctxt "#40221"
 msgid "Choose version"
-msgstr ""
+msgstr "Alegeți versiunea"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Ediția Standard"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Ediția Extinsă"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Versiunea Neclasificată"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Versiunea Netăiată"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Versiunea Remasterizată"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Tăietura Cinematografică"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Tăietura Regizorului"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Ediția Specială"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Ediția Limitată"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Ediția Completă"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Ultima tăietură"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Tăietura Super Duper"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Ediția pentru colecționari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Ediția Pentru Colecționari Supremă"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Ediția Colecția Criterion"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Editarea fanilor"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Ediția în alb-negru"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 10-a Aniversare"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 20-a Aniversare"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 25-a Aniversare"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 30-a Aniversare"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 40-a Aniversare"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "Ediția A 50-a Aniversare"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Subtitlu"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0: s} nu poate fi redat. Verificați log-ul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Această înregistrare nu poate fi redată. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Vă rugăm să verificați configurarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Deocamdată nu a fost pornit niciun client PVR. Așteptați să pornească clienții PVR. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Nu s-a putut salva cronometrul. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Nu s-a putut șterge cronometrul. Verificați log-ul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "Eroare furnizor din spatele PVR. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Nu s-a putut începe înregistrarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Nu s-a putut opri înregistrarea. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Canalul nu poate fi pornit. Verificați jurnalul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Nu s-a putut actualiza cronometrul. Verificați log-ul pentru mai multe informații despre acest mesaj."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Microcod"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Setați opacitatea fundalului de subtitrare."
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Când schimbarea vitezei de redare depășește acest prag, va fi aplicat un filtru de corecție al tonului. Acesta evită \"vocile de veveriță\", un rezultat normal al accelerării unui video"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

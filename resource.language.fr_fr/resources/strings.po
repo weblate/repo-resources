@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-16 21:56+0000\n"
+"PO-Revision-Date: 2024-09-18 16:53+0000\n"
 "Last-Translator: skypichat <skypichat@hotmail.fr>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Récupération des informations du CD"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Erreur"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[actif]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Sous-titres"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Selon les métadonnées"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Définir la taille de la bordure."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Définir la couleur de la bordure."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Régler le flou."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Définir la couleur de l'ombre."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Définir l'opacité de l'ombre."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Définir la taille de l'ombre."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Nettoyage de la médiathèque"
@@ -3192,6 +3223,76 @@ msgstr "Port autorisé compris entre 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Port autorisé compris entre 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "N'importe quel canal du client \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "N’importe quel canal de n’importe quel client"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Chaînes récemment ajoutées"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Client"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Système"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Utilisateur"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Toutes les chaînes]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Supprimer après avoir regardé"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Configurer si les enregistrements doivent être supprimés après être vus."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Non"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Demander"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Oui"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Voulez-vous supprimer cet enregistrement ?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Enregistrement supprimé : '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -5904,6 +6005,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Mémoriser pour ce chemin"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Choisir une playlist"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Autoriser l'accélération matérielle - VDPAU"
@@ -6092,6 +6199,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Activer cette option afin d'utiliser l'accélération matérielle pour le codec AV1. Si désactivé, le processeur sera utilisé."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Utiliser AVC VAAPI"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Activer cette option pour utiliser l'accélération matérielle pour le codec AVC. S'il est désactivé, le processeur sera utilisé à la place."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "Format intermédiaire HQ upscaler"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Définit la précision du tampon de mise à l'échelle intermédiaire utilisé dans le chemin de rendu GPU. La précision de 16 bits exige probablement plus de performances. Si le matériel n'est pas en mesure de prendre en charge le format sélectionné, Kodi reviendra au meilleur format suivant."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 bits par canal"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 bits par canal"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 bits par canal"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Qualité du rééchantillonnage"
@@ -6146,8 +6286,8 @@ msgid "Threshold for pitch correction"
 msgstr "Seuil de correction de hauteur de son (Pitch)"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Quand la vitesse est modifiée et dépasse ce seuil, un filtre de correction de hauteur de son (Pitch) sera appliqué. Ceci évite les déformations des voix qui résultent de l'augmentation de la vitesse de lecture vidéo"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Lorsque le changement de vitesse dépasse ce seuil, un filtre de correction de hauteur sera appliqué. Cela évite les « voix de Chipmunk » qui résultent normalement de l'accélération d'une vidéo"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6739,6 +6879,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Autoriser des taux de rafraîchissement doublés"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Avancé"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Files d'attente audio/vidéo du lecteur"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Lecteur"
@@ -6958,6 +7107,19 @@ msgstr "Autoriser le contrôle à distance par des programmes sur ce système"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Autoriser le contrôle à distance par des programmes sur d'autres systèmes"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Nettoyer le cache d'images"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Supprimer immédiatement les images inutilisées du cache - les images non associées à un élément de la bibliothèque multimédia ou non consultées récemment. Kodi le fait au fil du temps en arrière-plan."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7305,7 +7467,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Saisir une valeur"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Consulter le journal pour plus d'informations sur ce message."
@@ -7771,13 +7933,12 @@ msgstr "Il existe déjà une programmation pour cet évènement"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} ne peut pas être lu. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "{0:s} can't be played."
+msgstr "{0:s} ne peut pas être lu."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Impossible de lire cet enregistrement. Consulter le journal pour plus d'informations sur ce message."
+msgid "This recording can't be played."
+msgstr "Cet enregistrement ne peut pas être lu."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7814,12 +7975,12 @@ msgid "Recording"
 msgstr "Enregistrement"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Merci de vérifier la configuration. Consulter le journal pour plus d'informations sur ce message."
+msgid "Please check your configuration."
+msgstr "Veuillez vérifier votre configuration."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Aucun client d'enregistrement vidéo n'a démarré. Attendre le démarrage de clients d'enregistrement. Consulter le journal pour plus d'informations sur ce message."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "Aucun client PVR n'a encore été démarré. Attendez que les clients PVR démarrent."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8095,7 +8256,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Fournisseur"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Merci de changer de chaîne."
@@ -8132,18 +8292,18 @@ msgstr "Fréquence de trames de secours"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Impossible d'enregistrer la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "Could not save the timer."
+msgstr "Impossible d'enregistrer le minuteur."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Impossible de supprimer la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "Could not delete the timer."
+msgstr "Impossible de supprimer le minuteur."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "Erreur du serveur de l'enregistreur vidéo. Consulter le journal pour plus d'informations sur ce message."
+msgid "PVR backend error."
+msgstr "Erreur du PVR en arrière plan."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8392,8 +8552,8 @@ msgstr "Enregistrements"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Impossible de démarrer l'enregistrement. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "Could not start recording."
+msgstr "Impossible de démarrer l'enregistrement."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8582,8 @@ msgstr "Masquer la boîte d'informations vidéo"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Impossible d'arrêter l'enregistrement. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "Could not stop recording."
+msgstr "Impossible d'arrêter l'enregistrement."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8538,8 +8698,8 @@ msgstr "Aucun des enregistreurs vidéos connectés ne prend en charge la recherc
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "La recherche des chaînes ne peut pas être lancée. Consulter le journal pour plus d'informations sur ce message."
+msgid "The channel scan can't be started."
+msgstr "La recherche des chaînes ne peut pas démarrer."
 
 #. unused?
 msgctxt "#19194"
@@ -8877,8 +9037,8 @@ msgstr "Contrôle parental. Saisir le code PIN :"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Impossible de mettre à jour la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+msgid "Could not update the timer."
+msgstr "Impossible de mettre à jour le minuteur."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8979,7 +9139,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Pas d'icône"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Choisir une icône"
@@ -8994,7 +9154,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Recherche des logos des chaînes"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Toutes les chaînes"
@@ -9229,7 +9389,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Affichage de la chaîne pour le rappel PVR à fermeture automatique pour la chaîne « {0:s} » à « {1:s} »"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Fournisseurs"
@@ -9299,7 +9459,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Aucun des clients PVR actifs ne gère de paramètres spécifiques."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Fournisseur"
@@ -9333,6 +9493,16 @@ msgstr "Lire les programmes de ce point"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Lire uniquement ce programme"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr ""
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr ""
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9789,10 +9959,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Confirmer l'arrêt"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Guide des chaînes"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Lire l'enregistrement"
@@ -12030,10 +12202,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "Données EXIF"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Micrologiciel"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Ouverture"
@@ -14234,6 +14402,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Pour garder certains amplis allumés, un signal aléatoire à très faible volume leur est envoyé. Ce paramètre peut être désactivé avec une sortie casque ou audio analogique."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Inclure LFE lors du sous-mixage"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Si activé, ce paramètre inclura le canal LFE dans le mixage lorsqu'aucun canal de sortie LFE dédié n'est disponible. Cela n’a de sens que pour les enceintes large bande."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Non"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Émettre les sons de l'interface utilisateur"
@@ -15993,8 +16186,8 @@ msgstr "Affiche la qualité du signal dans la fenêtre des informations des code
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Définit l'opacité de l'arrière-plan des sous-titres."
+msgid "Set the subtitle background opacity."
+msgstr "Définir l'opacité de l'arrière-plan des sous-titres."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16294,8 +16487,8 @@ msgstr "Pour trier les éléments musicaux par artiste, le nom d'artiste sera ut
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Définit l'opacité des sous-titres."
+msgid "Set the subtitle opacity."
+msgstr "Définir l'opacité des sous-titres."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -17967,7 +18160,7 @@ msgstr "Facteur de lecture"
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "Détermine le taux de remplissage du cache en termes de moyenne. Débit binaire du flux x Facteur de lecture. En augmentant ce multiple, le cache se remplit plus rapidement. Des multiples importants peuvent provoquer des pics de CPU sur certains appareils, saturer la connexion et dégrader les performances.[CR][Adaptatif] Utilise un facteur de lecture calculé dynamiquement en fonction du niveau de cache."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
@@ -18007,7 +18200,7 @@ msgstr "Mise en cache de l'ensemble des fichiers sur le disque"
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Adaptatif"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
@@ -18029,6 +18222,37 @@ msgstr "{0:d} MO"
 msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GO"
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} seconde"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} secondes"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Temps d'attente audio/vidéo"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Durée en secondes des files d'attente audio/vidéo. La durée détermine la quantité de données stockées en mémoire."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Taille maximale de la file d'attente vidéo"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Limite l'utilisation maximale de la mémoire pour la file d'attente vidéo. La quantité de mémoire utilisée dépend du débit vidéo et de la longueur de la file d'attente. Si la limite de mémoire est atteinte, le temps d'attente est réduit si nécessaire."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18349,6 +18573,11 @@ msgstr "Cette catégorie contient d'autres paramètres relatifs à l'interface u
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Va automatiquement à la fenêtre de visualisation quand la lecture audio débute"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Cette catégorie contient les paramètres avancés pour la lecture vidéo"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19161,6 +19390,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19577,6 +19816,70 @@ msgstr "Édition du 40e anniversaire"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "Édition du 50e anniversaire"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Sous-titres"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} ne peut pas être lu. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Impossible de lire cet enregistrement. Consulter le journal pour plus d'informations sur ce message."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Merci de vérifier la configuration. Consulter le journal pour plus d'informations sur ce message."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Aucun client d'enregistrement vidéo n'a démarré. Attendre le démarrage de clients d'enregistrement. Consulter le journal pour plus d'informations sur ce message."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Impossible d'enregistrer la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Impossible de supprimer la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "Erreur du serveur de l'enregistreur vidéo. Consulter le journal pour plus d'informations sur ce message."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Impossible de démarrer l'enregistrement. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Impossible d'arrêter l'enregistrement. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "La recherche des chaînes ne peut pas être lancée. Consulter le journal pour plus d'informations sur ce message."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Impossible de mettre à jour la programmation. Vérifier le journal pour plus d'informations à propos de ce message."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Micrologiciel"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Définit l'opacité de l'arrière-plan des sous-titres."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Définit l'opacité des sous-titres."
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Quand la vitesse est modifiée et dépasse ce seuil, un filtre de correction de hauteur de son (Pitch) sera appliqué. Ceci évite les déformations des voix qui résultent de l'augmentation de la vitesse de lecture vidéo"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

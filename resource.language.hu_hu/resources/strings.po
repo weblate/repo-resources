@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-28 14:13+0000\n"
+"PO-Revision-Date: 2024-10-10 04:28+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -764,7 +764,7 @@ msgstr "Szereposztás"
 
 msgctxt "#207"
 msgid "Plot"
-msgstr "Tartalom"
+msgstr "Rövid tartalom"
 
 #. generic "play" (some sort of media) label used in different places
 msgctxt "#208"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "CD információ letöltése"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Hiba"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[aktív]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Felirat"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "A metaadatokból"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Körvonal méretének beállítása."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Körvonal színének beállítása."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Elmosás beállítása."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Árnyék beállítása."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Árnyék áttetszősége."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Árnyék mérete."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Médiatár tisztítása"
@@ -3192,6 +3223,76 @@ msgstr "Érvényes porttartomány: 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Érvényes porttartomány: 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Bármely csatorna a \"{0:s}\" klienstől"
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Bármilyen csatorna bármely klienstől"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Nemrég hozzáadott csatornák"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Ügyfél"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Rendszer"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Felhasználó"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Minden csatorna]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Megtekintés után törölje"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Konfigurálja, hogy a felvételek törlésre kerüljenek-e a megtekintés után."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Nem"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Kérdez"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Igen"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Törlöd ezt a felvételt?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Felvétel törölve: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4660,7 +4761,7 @@ msgstr "Videó forgatása"
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr "Port beállítások"
+msgstr "Portbeállítások"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
@@ -4953,7 +5054,7 @@ msgstr "Pásztázás és nagyítás (pan and zoom) effektek használata"
 
 msgctxt "#12381"
 msgid "Switch to visualisation on playback"
-msgstr "Kapcsoló vizualizációra lejátszás"
+msgstr "Teljes képernyős zenelejátszásra kapcsol"
 
 #. time format with meridiem (xx) e.g. "HH:mm:ss xx"
 msgctxt "#12382"
@@ -5401,7 +5502,7 @@ msgstr "Hardver:"
 
 msgctxt "#13271"
 msgid "System CPU usage:"
-msgstr "Rendszer CPU használat:"
+msgstr "CPU használat:"
 
 msgctxt "#13274"
 msgid "Connected, but no DNS is available."
@@ -5906,6 +6007,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Megjegyzés ennél a helynél"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Válassz lejátszási listát"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Hardveres gyorsítás engedélyezése - VDPAU"
@@ -6094,6 +6201,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Az AV1 kodek hardveres gyorsításának bekapcsolása. Tiltás esetén a CPU dekódol."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "AVC VAAPI használata"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Engedélyezd ezt a lehetőséget, ha hardveres gyorsítást szeretnél használni az AVC kodekhez. Ha le van tiltva, akkor helyette a CPU-t fogja használni."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "HQ upscaler köztes formátum"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Beállítja a GPU megjelenítési útvonalában használt köztes skálázási puffer pontosságát. A 16 bites pontosság valószínűleg nagyobb teljesítményt igényel. Ha a hardver nem tudja támogatni a kiválasztott formátumot, a Kodi visszaáll a következő legjobb formátumra."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 bit csatornánként"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 bit csatornánként"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 bit csatornánként"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Újramintavételezés minősége"
@@ -6148,8 +6288,8 @@ msgid "Threshold for pitch correction"
 msgstr "Hangmagasság korrekciós küszöb"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "A küszöb elérésekor a hangmagasság korrekciós szűrő bekapcsol. Ez megelőzi a felgyorsított videóknál a hangmagasság emelkedését."
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Ha a sebességváltozás meghaladja ezt a küszöbértéket, a rendszer egy hangmagasság-korrekciós szűrőt alkalmaz. Ezzel elkerülhetőek a \"mókushangok\", amelyek általában a videó felgyorsításából származnak"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6741,6 +6881,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Dupla képfrissítési gyakoriság engedélyezése"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Lejátszó audio/video várólisták"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Lejátszó"
@@ -6960,6 +7109,19 @@ msgstr "Távirányítás engedélyezése ezen a rendszeren"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Távirányítás engedélyezése más rendszereken"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Tisztítsd meg a kép gyorsítótárat"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Távolítsa el a fel nem használt képeket a gyorsítótárból – azokat a képeket, amelyek nincsenek a médiakönyvtár elemeihez társítva, és amelyeket régebben tekintettek meg. A Kodi idővel ezt teszi a háttérben."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7307,7 +7469,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Érték"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "További információk az üzenetről a hibanaplóban"
@@ -7346,7 +7508,7 @@ msgstr "Videó váltottsorosság mentesítése"
 
 msgctxt "#16038"
 msgid "Deinterlace method"
-msgstr "A mentesítés módja"
+msgstr "Váltottsorosság mentesítés"
 
 msgctxt "#16039"
 msgid "Off"
@@ -7773,13 +7935,12 @@ msgstr "Ehhez már van időzítő beállítva"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "A(z) {0:s} nem játszható le. További információk erről az üzenetről a hibanaplóban."
+msgid "{0:s} can't be played."
+msgstr "{0:s} nem játszható le."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Ezt a felvételt nem lehetett lejátszani. Kérem ellenőrizze a naplófájlokban az üzenet részleteit."
+msgid "This recording can't be played."
+msgstr "A felvétel nem játszható le."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7816,12 +7977,12 @@ msgid "Recording"
 msgstr "Felvétel"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Kérem ellenőrizze a beállításait. További információk erről az üzenetről a hibanaplóban."
+msgid "Please check your configuration."
+msgstr "Kérjük, ellenőrizd a konfigurációt."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Nincs PVR ügyfél elindítva. Várjon ameddig elindul egy. További információk erről az üzenetről a hibanaplóban."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "Még nem indult el a PVR kliens. Várd meg, amíg a PVR kliensek elindulnak."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8097,7 +8258,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Szolgáltató"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Kérem váltson át egy másik csatornára."
@@ -8134,18 +8294,18 @@ msgstr "Visszacsökkentett képsebesség"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Időzítő mentése sikertelen. További információk erről az üzenetről a hibanaplóban."
+msgid "Could not save the timer."
+msgstr "Nem sikerült menteni az időzítőt."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Időzítő törlése sikertelen. További információk erről az üzenetről a hibanaplóban."
+msgid "Could not delete the timer."
+msgstr "Nem sikerült törölni az időzítőt."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR háttérkiszolgáló hiba. Kérem ellenőrizze a naplófájlokban az üzenet részleteit."
+msgid "PVR backend error."
+msgstr "PVR háttérhiba."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8394,8 +8554,8 @@ msgstr "Felvételek"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Felvétel indítása sikertelen. További információk erről az üzenetről a hibanaplóban."
+msgid "Could not start recording."
+msgstr "Nem sikerült elindítani a felvételt."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8424,8 +8584,8 @@ msgstr "A videó információs doboz elrejtése"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Felvétel leállítása sikertelen. További információk erről az üzenetről a hibanaplóban."
+msgid "Could not stop recording."
+msgstr "Nem sikerült leállítani a felvételt."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8540,8 +8700,8 @@ msgstr "Egyik csatlakoztatott PVR háttérkiszolgáló sem támogatja a csatorna
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "A csatornák keresése nem indítható el. Ellenőrizze a naplófájlt a további információkért."
+msgid "The channel scan can't be started."
+msgstr "A csatornakeresés nem indítható el."
 
 #. unused?
 msgctxt "#19194"
@@ -8879,8 +9039,8 @@ msgstr "Szülői felügyelet. Add meg a PIN kódot:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Időzítő frissítése sikertelen. További információk erről az üzenetről a hibanaplóban."
+msgid "Could not update the timer."
+msgstr "Nem sikerült frissíteni az időzítőt."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8981,7 +9141,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Nincs ikon"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Ikon választás"
@@ -8996,7 +9156,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Csatornaikonok keresése"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Minden csatorna"
@@ -9231,7 +9391,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Csatornára váltott az automatikusan lezárt PVR emlékeztető a(z) „{0:s}” csatornához a(z) „{1:s}”"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Szolgáltatók"
@@ -9301,7 +9461,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Az aktív PVR kliensek egyike sem biztosít felhasználó specifikus beállításokat."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Szolgáltató"
@@ -9335,6 +9495,16 @@ msgstr "Programok lejátszása innen"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Csak ennek a programnak a lejátszása"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "Másolat"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "'{0:s}' másolata"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9791,10 +9961,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Leállítás jóváhagyása"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Csatorna műsorújság"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Rögzítés lejátszása"
@@ -12032,10 +12204,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF adat"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Firmware"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Rekesz"
@@ -14236,6 +14404,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Az AVR egység aktívan tartása random nem hallható zaj jelekkel történik. Analóg kimenet vagy fejhallgató használata esetén ezt le lehet tiltani."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Lekeveréskor vegye bele az LFE-t"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Ha engedélyezve van, ez a beállítás lfe csatornát fog tartalmazni a keverésben, ha nem áll rendelkezésre dedikált LFE kimeneti csatorna. Ennek csak a teljes sávú hangsugárzók esetében van értelme."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Ki"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Felület hangjainak lejátszása"
@@ -15997,8 +16190,8 @@ msgstr "Jelminőség kijelzése a kodek informácós ablakban (ha a kiegészít�
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Állítsa be a felirat hátterének átlátszóságát."
+msgid "Set the subtitle background opacity."
+msgstr "Állítsd be a felirat hátterének áttetszőségét."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16298,8 +16491,8 @@ msgstr "Amikor a zeneszámokat előadó szerint rendezi, használja a vezetékne
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "A felirat átlátszóságát beállítani"
+msgid "Set the subtitle opacity."
+msgstr "Állítsd be a felirat áttetszőségét."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -18034,6 +18227,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} másodperc"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} másodpercek"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Audio/video várakozási idő"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Az audio/video sorok időtartama másodpercekben. Az időtartam határozza meg a memóriában tárolt adatok mennyiségét."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Videósor maximális mérete"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Korlátozza a videósor maximális memóriahasználatát. A felhasznált memória mennyisége a videó bitrátájától és a sor hosszától függ. Ha eléri a memóriakorlátot, a várakozási idő szükség szerint csökken."
+
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
@@ -18353,6 +18577,11 @@ msgstr "Ez a kategória a felhasználói felülettel kapcsolatos beállításoka
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "A lejátszás elindításakor automatikusan a vizualizáció ablakba lép"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Ez a kategória a videolejátszás speciális beállításait tartalmazza"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19165,6 +19394,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19581,6 +19820,70 @@ msgstr "40. évfordulós kiadás"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "50. évfordulós kiadás"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Felirat"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "A(z) {0:s} nem játszható le. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Ezt a felvételt nem lehetett lejátszani. Kérem ellenőrizze a naplófájlokban az üzenet részleteit."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Kérem ellenőrizze a beállításait. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Nincs PVR ügyfél elindítva. Várjon ameddig elindul egy. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Időzítő mentése sikertelen. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Időzítő törlése sikertelen. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR háttérkiszolgáló hiba. Kérem ellenőrizze a naplófájlokban az üzenet részleteit."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Felvétel indítása sikertelen. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Felvétel leállítása sikertelen. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "A csatornák keresése nem indítható el. Ellenőrizze a naplófájlt a további információkért."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Időzítő frissítése sikertelen. További információk erről az üzenetről a hibanaplóban."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Firmware"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Állítsa be a felirat hátterének átlátszóságát."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "A felirat átlátszóságát beállítani"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "A küszöb elérésekor a hangmagasság korrekciós szűrő bekapcsol. Ez megelőzi a felgyorsított videóknál a hangmagasság emelkedését."
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

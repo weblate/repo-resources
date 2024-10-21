@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-19 13:57+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2024-06-17 16:06+0000\n"
+"Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/af_za/>\n"
 "Language: af_za\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.5.5\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Haal CD inligting"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Fout"
@@ -1699,7 +1700,7 @@ msgstr "Verwyder fliek uit biblioteek"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "Wil jy regtig '{0:s}' van die biblioteek verwyder?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[aktief]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Onderskrif"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Vanaf metadata"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr ""
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr ""
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr ""
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr ""
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr ""
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr ""
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Maak biblioteek skoon"
@@ -3192,6 +3223,76 @@ msgstr "Geldige poort bereik is 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Geldige poort bereik is 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Enige kanaal van kliënt \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Enige kanaal van enige kliënt"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr ""
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr ""
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr ""
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr ""
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr ""
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr ""
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr ""
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr ""
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr ""
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -5906,6 +6007,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Onthou vir hierdie pad"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Kies speellys"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Laat hardeware versnelling toe - VDPAU"
@@ -6094,6 +6201,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Stel hierdie opsie in staat om hardeware versnelling vir die AV1 kodek te gebruik. As nie in staat gestel is sal die CPU in plaas gebruik word."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr ""
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr ""
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr ""
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr ""
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Hermonster kwaliteit"
@@ -6148,8 +6288,8 @@ msgid "Threshold for pitch correction"
 msgstr "Drumpel vir toon korreksie"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Wanneer die spoed verandering hierdie drumpel oorskry, sal 'n toon-korreksie filter toegepas word. Dit voorkom die \"chipmonk stemme\" wat gewoonlik volg op die versnel van 'n video"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Wanneer die spoed verandering hierdie drempel oorskry, sal 'n toonhoogte-korreksie filter toegepas word. Dit vermy die \"chipmunk stemme\" wat gewoonlik resulteer van 'n video vinniger speel."
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6741,6 +6881,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Laat dubbel verfris tempo's toe"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr ""
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Speler"
@@ -6960,6 +7109,19 @@ msgstr "Laat afstand beheer vanaf programme op hierdie stelsel toe"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Laat afstand beheer vanaf programme op ander stelsels toe"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr ""
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr ""
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7307,7 +7469,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Tik waarde in"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Gaan die log na vir meer inligting oor hierdie boodskap"
@@ -7773,13 +7935,12 @@ msgstr "Daar is reeds 'n tydhouer gestel vir hierdie gebeurtenis"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} kan nie gespeel word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "{0:s} can't be played."
+msgstr ""
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Hierdie opname kan nie gespeel word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "This recording can't be played."
+msgstr ""
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7816,12 +7977,12 @@ msgid "Recording"
 msgstr "Opname"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Gaan asb jou konfigurasie na. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Please check your configuration."
+msgstr ""
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Nog geen PVR kliënte is begin nie. Wag vir die PVR kliënte om te begin. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr ""
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8097,7 +8258,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Verskaffer"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Skakel asb oor na 'n ander kanaal."
@@ -8134,18 +8294,18 @@ msgstr "Terugval raamtempo"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Kon nie tydhouer stoor nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Could not save the timer."
+msgstr ""
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Kon nie tydhouer uit wis nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Could not delete the timer."
+msgstr ""
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR agterkant fout. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "PVR backend error."
+msgstr ""
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8394,8 +8554,8 @@ msgstr "Opnames"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Kon nie begin opneem nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Could not start recording."
+msgstr ""
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8424,8 +8584,8 @@ msgstr "Steek video inligting boks weg"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Kon nie opname stop nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Could not stop recording."
+msgstr ""
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8540,8 +8700,8 @@ msgstr "Nie een van die gekonnekteerde PVR agterkante ondersteun soek vir kanale
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "The kanaal soektog kan nie begin word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "The channel scan can't be started."
+msgstr ""
 
 #. unused?
 msgctxt "#19194"
@@ -8879,8 +9039,8 @@ msgstr "Ouerlike beheer. Tik PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Kon nie tydhouer opdateer nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+msgid "Could not update the timer."
+msgstr ""
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8981,7 +9141,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Geen ikoon"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Kies ikoon"
@@ -8996,7 +9156,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Soek vir kanaal ikone"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Alle kanale"
@@ -9231,7 +9391,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Het oorgeskakel na kanaal vir outo-toegemaakte PVR herinnering vir kanaal '{0:s}' om '{1:s}'"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Verskaffers"
@@ -9301,7 +9461,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Geen van die aktiewe PVR kliënte verskaf kliënt-spesifieke verstellings nie."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Verskaffer"
@@ -9319,21 +9479,31 @@ msgstr "Gebruik kanaal groep volgorde vanaf agterkant(e)"
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "Opvang / Video op Aandrang"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "Speel volgende program outomaties"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "Speel programme van hier"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
+msgstr "Speel slegs hierdie program"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr ""
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
 msgstr ""
 
 #. label for epg genre value
@@ -9791,10 +9961,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Bevestig afskakel"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Kanaal gids"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Speel opname"
@@ -12032,10 +12204,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF kommentaar"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Fermatuur"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Opening"
@@ -14238,6 +14406,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Om sekere AVRs aan te hou stuur ons 'n onhoorbare lukraak geraas sein. Jy kan hierdie verstelling deaktiveer as jy oorfone of analoog uittree gebruik."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr ""
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Speel GUI klanke"
@@ -16000,8 +16193,8 @@ msgstr "Vertoon sein kwaliteit inligting in die kodek inligting venster (as onde
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Stel die onderskrif agtergrond ondeursigtigheid."
+msgid "Set the subtitle background opacity."
+msgstr ""
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16301,8 +16494,8 @@ msgstr "Wanneer musiek items sorteer volgens kunstenaar, gebruik sorteer naam bv
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Stel die subtitel ondeursigtigheid."
+msgid "Set the subtitle opacity."
+msgstr ""
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -18009,12 +18202,12 @@ msgstr "Buffer alle lêerstelsels, insluitend lokale lêers"
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Cache hele lêer op skyf berging"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Aanpasbaar"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
@@ -18036,6 +18229,37 @@ msgstr "{0:d} MB"
 msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr ""
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr ""
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr ""
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr ""
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr ""
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr ""
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18356,6 +18580,11 @@ msgstr "Hierdie kategorie bevat die ander verstellings vir die GUI koppelvlak"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Gaan outomaties na die visualiserings venster wanneer oudio terugspeel begin"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr ""
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19039,7 +19268,7 @@ msgstr "Vertoon ondersteunde HDR tipes"
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
 msgid "Building font cache in progress - please wait"
-msgstr ""
+msgstr "Besig met bou van skrif cache - wag asseblief"
 
 #. Helper text for gui sound volume setting
 msgctxt "#39176"
@@ -19138,7 +19367,7 @@ msgstr ""
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Stel hierdie opsie in staat vir die beste beeld kwaliteit. Deaktivering verminder die las op hulpbron-beperkte stelsels."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
@@ -19153,7 +19382,7 @@ msgstr ""
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Toegelate HDR dinamiese metadata formate"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
@@ -19163,11 +19392,21 @@ msgstr ""
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
+msgstr "HDR10+"
+
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
@@ -19194,7 +19433,7 @@ msgstr "Weergawe"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Kies tipe"
 
 #. Warning dialog title
 msgctxt "#40005"
@@ -19219,7 +19458,7 @@ msgstr "Verskillende fliek weergawe gevind"
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "Het 'n verskillende weergawe van die fliek \"{0:s}\": {1:s} gevind. Wil jy dit omskakel na 'n addisionele weergawe van die oorspronklike?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
@@ -19254,12 +19493,12 @@ msgstr "Voeg ekstra by"
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Die geselekteerde video is reeds die \"{0:s}\" weergawe van die fliek."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Die geselekteerde video is die \"{0:s}\" weergawe van die fliek \"{1:s}\". Wil jy die weergawe na hierdie fliek skuif?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
@@ -19294,12 +19533,12 @@ msgstr "Stel as verstek"
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Weergawe Bestuurder: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Ekstras Bestuurder: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
@@ -19404,7 +19643,7 @@ msgstr ""
 #. Choose video version dialog title
 msgctxt "#40208"
 msgid "Choose version: {}"
-msgstr ""
+msgstr "Kies weergawe: {}"
 
 #. First choose video version and then select a player and play context menu item label
 msgctxt "#40209"
@@ -19434,53 +19673,53 @@ msgstr ""
 #. Dialog title for the selection of the video extra
 msgctxt "#40214"
 msgid "Choose extra: {}"
-msgstr ""
+msgstr "Kies ekstra: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Kies weergawe tipe"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Nuwe tipe..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Nuwe weergawe tipe"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Kies ekstra naam"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Nuwe naam..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "Nuwe ekstra naam"
 
 #. Choose video version context menu item label
 msgctxt "#40221"
 msgid "Choose version"
-msgstr ""
+msgstr "Kies weergawe"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Standaard Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Uitgebreide Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
@@ -19490,7 +19729,7 @@ msgstr ""
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Ongesnyde Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
@@ -19500,47 +19739,47 @@ msgstr ""
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Teatrale Snit"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Direkteur se Snit"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Spesiale Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Beperkte Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Volledige Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Die Finale Snit"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Super Duper Snit"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Versamelaar se Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Uiterste Versamelaar se Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
@@ -19550,12 +19789,12 @@ msgstr ""
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Ondersteuner Redigering"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Swart en Wit Uitgawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
@@ -19586,6 +19825,90 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Onderskrif"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} kan nie gespeel word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Hierdie opname kan nie gespeel word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Gaan asb jou konfigurasie na. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Nog geen PVR kliënte is begin nie. Wag vir die PVR kliënte om te begin. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Kon nie tydhouer stoor nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Kon nie tydhouer uit wis nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR agterkant fout. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Kon nie begin opneem nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Kon nie opname stop nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "The kanaal soektog kan nie begin word nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Kon nie tydhouer opdateer nie. Gaan die log na vir meer inligting oor hierdie boodskap."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Fermatuur"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Stel die onderskrif agtergrond ondeursigtigheid."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Stel die subtitel ondeursigtigheid."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "HQ opskaleerder tussen formaat"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "Stel die presisie van die tussen skalering buffer gebruik in die GPU teken pad. 16 bis presisie vereis waarskynlik meer werkverrigting. Indien die hardeware nie in staat is om die geselekteerde formaat te ondersteun nie, sal Kodi na die naas beste formaat terugval."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "8 bis per kanaal"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "10 bis per kanaal"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "16 bis per kanaal"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Wanneer die spoed verandering hierdie drumpel oorskry, sal 'n toon-korreksie filter toegepas word. Dit voorkom die \"chipmonk stemme\" wat gewoonlik volg op die versnel van 'n video"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

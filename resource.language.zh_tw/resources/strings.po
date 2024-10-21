@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-04-05 04:45+0000\n"
+"PO-Revision-Date: 2024-09-24 08:26+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Taiwan) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_tw/>\n"
 "Language: zh_tw\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "獲取 CD 資訊"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "錯誤"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[啟用]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "字幕"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "來自詮釋資料"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "設定邊框尺寸。"
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "設定邊框顏色。"
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "設定模糊程度。"
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "設定陰影顏色。"
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "設定陰影濃度。"
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "設定陰影面積。"
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "整理資料庫"
@@ -3192,6 +3223,76 @@ msgstr "合法的連接埠範圍是 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "合法的連接埠範圍是 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "任何來自客戶端\"{0:s}\"的頻道"
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "任意用戶端的任意頻道"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "最近新增的頻道"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "用戶端"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "系統"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "用戶"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [所有頻道]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "看完後刪除"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "決定是否要在看完後刪除錄製內容。"
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "否"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "詢問"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "是"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "您要刪除這個錄製內容嗎？"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "已刪除錄製內容: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4620,7 +4721,7 @@ msgstr "全螢幕廣播"
 #. Title of controller configuration window
 msgctxt "#10820"
 msgid "Controller Configuration"
-msgstr "控制器設定"
+msgstr "控制器設置"
 
 #. Title of the "My Games" window
 msgctxt "#10821"
@@ -4660,7 +4761,7 @@ msgstr "視訊旋轉"
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr "通訊埠設定"
+msgstr "連接埠設定"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
@@ -5906,6 +6007,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "記住此路徑"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "選擇播放列表"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "允許硬體加速 - VDPAU"
@@ -6094,6 +6201,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "開啟此選項以針對AV1編碼器使用硬體加速。若關閉則會改用CPU進行處理。"
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "使用AVC VAAPI"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "開啟此選項以針對AVC編碼器使用硬體加速。若關閉則會改用CPU進行處理。"
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "高畫質放大器中階格式"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "設定 GPU 渲染路徑中使用的中階縮放緩衝區的精確度。 16 位元精度可能需要更高的效能。如果硬體無法支援所選格式，Kodi 將回退到下一個最佳格式。"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "每頻道8位元"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "每頻道10位元"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "每頻道16位元"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "重取樣品質"
@@ -6148,8 +6288,8 @@ msgid "Threshold for pitch correction"
 msgstr "音準校正臨界值"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "當播放速度的變化超過此值時，將會啟動音準校正濾波器。可以避免加速播放影片時常聽到的\"花栗鼠音調\""
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "當播放速度超過這個臨界值，音高修正器會開始介入。這樣可以避免在調快影片速度時聽到\"花栗鼠語音\""
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6741,9 +6881,18 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "允許雙倍刷新率"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "進階"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "播放器 音訊/影像 佇列"
+
 msgctxt "#14200"
 msgid "Player"
-msgstr "播放設定"
+msgstr "播放器"
 
 msgctxt "#14201"
 msgid "Player settings"
@@ -6751,7 +6900,7 @@ msgstr "播放器設定"
 
 msgctxt "#14202"
 msgid "Library"
-msgstr "瀏覽"
+msgstr "資料庫"
 
 msgctxt "#14203"
 msgid "Library settings"
@@ -6960,6 +7109,19 @@ msgstr "允許本裝置的其他程式遙控Kodi"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "允許非本機的應用程式遠端遙控"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "維護"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "清除影像快取"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "立即從快取中刪除未使用的圖像 - 與媒體庫中的項目無關或近期未被檢視的圖片。Kodi 會在背景不定時執行此操作。"
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7307,7 +7469,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "輸入資料"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "更多關於這個錯誤的資訊請查看日誌。"
@@ -7773,13 +7935,12 @@ msgstr "已為此事件設定定時器"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s}無法播放，相關資料請參閱log檔。"
+msgid "{0:s} can't be played."
+msgstr "{0:s} 無法播放。"
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "本錄影檔無法播放，相關資料請參閱log檔。"
+msgid "This recording can't be played."
+msgstr "此錄製內容無法播放。"
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7816,12 +7977,12 @@ msgid "Recording"
 msgstr "錄影"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "請檢查您的設定，相關資料請參閱log檔。"
+msgid "Please check your configuration."
+msgstr "請檢查您的設定值。"
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "PVR 用戶端尚未啟動，等待啟動中，相關資料請參閱log檔。"
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "尚未啟動任何 PVR 用戶端。等待 PVR 用戶端啟動。"
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8097,7 +8258,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "提供者"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "請切換到另一個頻道。"
@@ -8134,18 +8294,18 @@ msgstr "掉禎"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "無法儲存定時器。詳細資訊請檢視記錄檔。"
+msgid "Could not save the timer."
+msgstr "無法儲存定時器。"
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "無法刪除定時器。詳細資訊請檢視記錄檔。"
+msgid "Could not delete the timer."
+msgstr "無法刪除定時器。"
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR 後端錯誤。更多關於這個錯誤的資訊請查看日誌。"
+msgid "PVR backend error."
+msgstr "PVR後台錯誤。"
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8394,8 +8554,8 @@ msgstr "錄影"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "無法開始錄製動作。詳細資訊請檢視記錄檔。"
+msgid "Could not start recording."
+msgstr "無法開始錄製。"
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8424,8 +8584,8 @@ msgstr "隱藏影片資訊顯示區"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "無法停止錄製動作。詳細資訊請檢視記錄檔。"
+msgid "Could not stop recording."
+msgstr "無法停止錄製。"
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8540,8 +8700,8 @@ msgstr "連接的 PVR 後端不支援頻道掃描。"
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "頻道掃描無法起始。相關資料請參閱log檔。"
+msgid "The channel scan can't be started."
+msgstr "無法開始頻道掃描。"
 
 #. unused?
 msgctxt "#19194"
@@ -8879,8 +9039,8 @@ msgstr "家長控制，輸入PIN碼："
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "無法更新定時器。詳細資訊請檢視記錄檔。"
+msgid "Could not update the timer."
+msgstr "無法更新定時器。"
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8981,7 +9141,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "無圖示"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "選擇圖示"
@@ -8996,7 +9156,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "搜尋頻道圖示"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "所有頻道"
@@ -9231,7 +9391,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "已依自動關閉式PVR提示，切換至定時於'{1:s}'於'{0:s}'頻道"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "提供者"
@@ -9301,7 +9461,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "所有運作中的PVR用戶端均未提供用戶相關的設定項目。"
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "提供者"
@@ -9335,6 +9495,16 @@ msgstr "從這裡開始播放排程內容"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "只播放本排程內容"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "複製"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "'{0:s}' 的副本"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9791,10 +9961,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "確認關機"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "頻道指南"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "播放錄影"
@@ -12032,10 +12204,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "註解"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "韌體"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "光圈值"
@@ -14238,6 +14406,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "我們會傳送聽不到的隨機噪音訊號來防止某些AVR自動關機，如果您使用耳機或是類比式輸出，可以關掉這個選項。"
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "降混時包括重低音"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "如果啟用，當沒有專用重低音輸出通道可用時，會將重低音訊號包含到混音中。這要搭配全音域揚聲器才聽得出效果。"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "關閉"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "播放使用者介面音效"
@@ -16000,8 +16193,8 @@ msgstr "在編碼格式資料視窗中顯示訊號品質資訊(前提是附加�
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "設定字幕背景色的透明度。"
+msgid "Set the subtitle background opacity."
+msgstr "設定字幕背景透明度。"
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16301,7 +16494,7 @@ msgstr "以藝人名為音樂檔案排序時，使用姓氏，而不是名，如
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
+msgid "Set the subtitle opacity."
 msgstr "設定字幕透明度。"
 
 msgctxt "#36296"
@@ -18037,6 +18230,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} 秒"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} 秒"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "音訊/影像 佇列時間"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "音訊/視訊佇列的累積時間（以秒為單位）。此數據決定了記憶體中儲存的資料量。"
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "影像佇列量最大值"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "限制視訊佇列的最大記憶體使用量。使用的記憶體量取決於視訊位元率和佇列長度。如果達到記憶體限制，則會視需要減少佇列時間。"
+
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
@@ -18356,6 +18580,11 @@ msgstr "此分類包含使用者介面的相關設定"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "開始播放時自動切換至音訊視覺化視窗"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "此類別包含視訊播放的進階設定"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19171,6 +19400,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19335,82 +19574,82 @@ msgstr "資料庫中沒有找到其他電影。"
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "在資料庫中找不到類似的電影。"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "具有多個版本的電影的預設版本不能作為額外內容添加到另一部電影中。請先移動或刪除其他版本。"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "您即將將額外內容轉換為電影版本。你確定嗎？"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "您即將將電影版本轉換為額外內容。 你確定嗎？"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "要新增的電影有多個版本。[CR]將在下一個對話方塊中選擇預設版本的類型。 其他版本將保留其目前類型。[CR]您要繼續嗎？"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "具有多個版本的電影的預設版本無法添加到另一部電影中。 請先移動或刪除其他版本。"
 
 #. Select default video version setting
 msgctxt "#40200"
 msgid "Select default video version"
-msgstr ""
+msgstr "選擇設影片版本"
 
 #. Help for select default video version setting
 msgctxt "#40201"
 msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr ""
+msgstr "定義處理多版本視訊的選擇方式。 [CR][Enabled] 自動選擇預設視訊版本，無需提示。 [CR][Disabled]顯示一個對話框以選擇視訊版本。"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "掃描時忽略不同影片版本"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "為不同的視訊版本選擇掃描動作。 [CR][Enabled]將不同的影片版本分別加入資料庫中，無需確認。 [CR][Disabled]提示將不同的視訊版本轉換為原始版本的附加版本。"
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "掃描時忽略影片花絮"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "為「花絮」資料夾中的影片花絮選擇掃描動作。 [CR][Enabled]比照一般影片掃描影片花絮。 [CR][Disabled]將影片花絮加入相關影片的資料庫中。"
 
 #. Show video versions as folder settting
 msgctxt "#40206"
 msgid "Show videos with multiple versions as folder"
-msgstr ""
+msgstr "以資料夾形式顯示多版本的影片"
 
 #. Help for show video versions as folder settting
 msgctxt "#40207"
 msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr ""
+msgstr "啟用後，具有多個版本的影片將以資料夾形式顯示在影片資料庫中。 然後可以打開該資料夾以顯示各個視訊版本。 停用後，將套用配置的選擇動作。"
 
 #. Choose video version dialog title
 msgctxt "#40208"
 msgid "Choose version: {}"
-msgstr ""
+msgstr "選擇版本: {}"
 
 #. First choose video version and then select a player and play context menu item label
 msgctxt "#40209"
 msgid "Play version using..."
-msgstr ""
+msgstr "用以播放此版本的播放器..."
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19420,173 +19659,237 @@ msgstr "版本"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "花絮"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "將音量值同步到遠端 UPnP 播放器"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "如果選用，遠端播放器音量將與此應用程式的音量同步。 [CR]警告：系統音量可能與應用程式音量不同 - 它們是獨立控制的。 [CR]如果應用程式音量開到 100% 但系統音量被調低，這可能會導致遠端播放器音量也被開到 100% 。"
 
 #. Dialog title for the selection of the video extra
 msgctxt "#40214"
 msgid "Choose extra: {}"
-msgstr ""
+msgstr "選擇花絮: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "選擇版本類型"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "新類型..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "新版本類型"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "選擇花絮名稱"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "新名稱..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "新花絮名稱"
 
 #. Choose video version context menu item label
 msgctxt "#40221"
 msgid "Choose version"
-msgstr ""
+msgstr "選擇版本"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "標準版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "加長版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "未分級版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "未刪減版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "重製版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "劇院版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "導演版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "特別版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "限量版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "完整版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "最終剪輯版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "超激版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "珍藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "終極珍藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "標準收藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "粉絲編輯版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "黑白版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "10週年版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "20週年版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "25週年版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "30週年版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "40週年版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "50週年版"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "字幕"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s}無法播放，相關資料請參閱log檔。"
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "本錄影檔無法播放，相關資料請參閱log檔。"
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "請檢查您的設定，相關資料請參閱log檔。"
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "PVR 用戶端尚未啟動，等待啟動中，相關資料請參閱log檔。"
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "無法儲存定時器。詳細資訊請檢視記錄檔。"
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "無法刪除定時器。詳細資訊請檢視記錄檔。"
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR 後端錯誤。更多關於這個錯誤的資訊請查看日誌。"
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "無法開始錄製動作。詳細資訊請檢視記錄檔。"
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "無法停止錄製動作。詳細資訊請檢視記錄檔。"
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "頻道掃描無法起始。相關資料請參閱log檔。"
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "無法更新定時器。詳細資訊請檢視記錄檔。"
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "韌體"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "設定字幕背景色的透明度。"
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "設定字幕透明度。"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "當播放速度的變化超過此值時，將會啟動音準校正濾波器。可以避免加速播放影片時常聽到的\"花栗鼠音調\""
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-10-29 12:07+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2024-06-25 12:32+0000\n"
+"Last-Translator: Antikruk <zmicerturok@gmail.com>\n"
 "Language-Team: Belarusian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/be_by/>\n"
 "Language: be_by\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.1\n"
+"X-Generator: Weblate 5.6\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Атрыманне інфармацыі пра CD"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Памылка"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[актыўна]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Субцітры"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "З метаданых"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr ""
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr ""
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr ""
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr ""
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr ""
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr ""
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Ачысціць бібліятэку"
@@ -3192,6 +3223,76 @@ msgstr "Правільны нумар павінен быць ад 1 да 65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Правільны нумар павінен быць ад 1024 да 65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr ""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr ""
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr ""
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr ""
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr ""
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr ""
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr ""
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr ""
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr ""
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr ""
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr ""
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4620,7 +4721,7 @@ msgstr "Поўнаэкраннае радыё"
 #. Title of controller configuration window
 msgctxt "#10820"
 msgid "Controller Configuration"
-msgstr ""
+msgstr "Канфігурацыя кантролера"
 
 #. Title of the "My Games" window
 msgctxt "#10821"
@@ -4630,7 +4731,7 @@ msgstr "Гульні"
 #. Title of the in-game OSD menu
 msgctxt "#10822"
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
@@ -4645,7 +4746,7 @@ msgstr ""
 #. Title of the in-game volume dialog
 msgctxt "#10825"
 msgid "Volume"
-msgstr ""
+msgstr "Гучнасць"
 
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
@@ -4660,7 +4761,7 @@ msgstr ""
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr ""
+msgstr "Наладжванне порта"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
@@ -5906,6 +6007,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Запомніць гэты шлях"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr ""
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Уключыць апаратнае паскарэнне - VDPAU"
@@ -6094,6 +6201,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Уключыце гэты параметр, каб выкарыстоўваць апаратнае паскарэнне для кодака AV1. Калі адключана, будзе выкарыстоўвацца CPU."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr ""
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr ""
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr ""
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr ""
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Якасць пераўтварэння"
@@ -6148,8 +6288,8 @@ msgid "Threshold for pitch correction"
 msgstr "Парог карэкцыі тону"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Калі хуткасць перасягае вызначаны парог, ужываецца карэкцыя тону. Яна прыбірае эфект \"смешных галасоў\", што звычайна з’яўляюцца пры паскарэнні відэа"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr ""
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6741,6 +6881,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Дазволіць падвойную частату абнаўлення"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr ""
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Прайгравальнік"
@@ -6960,6 +7109,19 @@ msgstr "Дазволіць адлеглае кіраванне праграма�
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Дазволіць адлеглае кіраванне праграмамі з іншых сістэм"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr ""
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr ""
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7307,7 +7469,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Увядзіце значэнне"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Праверце журнал, каб даведацца больш пра гэтае паведамленне."
@@ -7773,13 +7935,12 @@ msgstr "Для гэтай падзеі ўжо прызначаны таймер"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "Не ўдалося прайграць {0:s}. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "{0:s} can't be played."
+msgstr ""
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Не ўдалося прайграць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "This recording can't be played."
+msgstr ""
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7816,12 +7977,12 @@ msgid "Recording"
 msgstr "Запіс"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Калі ласка, праверце вашу канфігурацыю. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "Please check your configuration."
+msgstr ""
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Актыўныя кліенты PVR адсутнічаюць. Дачакайцеся запуску кліента PVR. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr ""
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8097,7 +8258,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Пастаўшчык"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Калі ласка, пераключыцеся на іншы канал."
@@ -8134,18 +8294,18 @@ msgstr "Рэзервовая частата кадраў"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Не ўдалося захаваць таймер. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "Could not save the timer."
+msgstr ""
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Не ўдалося выдаліць таймер. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "Could not delete the timer."
+msgstr ""
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "Памылка сервера PVR. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "PVR backend error."
+msgstr ""
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8394,8 +8554,8 @@ msgstr "Запісы"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Не ўдалося пачаць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "Could not start recording."
+msgstr ""
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8424,8 +8584,8 @@ msgstr "Хаваць акно інфармацыі пра відэа"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Не ўдалося спыніць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "Could not stop recording."
+msgstr ""
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8540,8 +8700,8 @@ msgstr "Ніводны з падлучаных сервераў PVR не пад�
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Не ўдалося распачаць сканаванне каналаў. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+msgid "The channel scan can't be started."
+msgstr ""
 
 #. unused?
 msgctxt "#19194"
@@ -8790,7 +8950,7 @@ msgstr "Час прастою"
 #. label for PVR settings wakeup command control. if not empty, kodi will execute the given command upon waking up from suspend.
 msgctxt "#19245"
 msgid "Wakeup command"
-msgstr "Загад абуджэння"
+msgstr "Каманда абуджэння"
 
 #. label for PVR settings wakeup before recording control. if checked, the box where kodi is installed on will be automatically turned on before a recording starts.
 msgctxt "#19246"
@@ -8879,8 +9039,8 @@ msgstr "Бацькоўскі кантроль. Увядзіце PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Не ўдалося абнавіць таймер. Праверце налады альбо зазірніце ў журнал, каб даведацца больш."
+msgid "Could not update the timer."
+msgstr ""
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8981,7 +9141,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Значок адсутнічае"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Абраць значок"
@@ -8996,7 +9156,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Пошук значкоў каналаў"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Усе каналы"
@@ -9231,7 +9391,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Пераключэнне на канал пры аўтаматычным закрыцці напаміну PVR для канала '{0:s}' а '{1:s}'"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Правайдары"
@@ -9301,7 +9461,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Ні адзін з актыўных кліентаў тэлебачання (PVR) не падае налад для канкрэтнага кліента."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Правайдар"
@@ -9334,6 +9494,16 @@ msgstr ""
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
+msgstr ""
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr ""
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
 msgstr ""
 
 #. label for epg genre value
@@ -9791,10 +9961,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Пацвердзіць выключэнне"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Каналы"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Прайграць запіс"
@@ -12032,10 +12204,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "Каментар EXIF"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Прашыўка"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Дыяфрагма"
@@ -12890,7 +13058,7 @@ msgstr "Дапаўненне адключана, бо ў рэпазіторыі 
 
 msgctxt "#24095"
 msgid "Local package cache"
-msgstr "Лакальны кэш пакункаў"
+msgstr "Лакальны кэш пакетаў"
 
 #. To show addon as broken over icon
 msgctxt "#24096"
@@ -14238,6 +14406,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Для прадухілення аўтаматычнага выключэння пэўных тыпаў рэсівераў адпраўляецца кволы шум. Пры выкарыстанні навушнікаў альбо аналагавага выхаду гэты параметр можна выключыць."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr ""
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Прайграваць гукі інтэрфейсу"
@@ -15165,11 +15358,11 @@ msgstr "Pulse-Eight Nyxboard"
 
 msgctxt "#36002"
 msgid "Switch to keyboard side command"
-msgstr "Уключыць дадатковыя загады клавіятуры"
+msgstr "Уключыць дадатковыя каманды клавіятуры"
 
 msgctxt "#36003"
 msgid "Switch to remote side command"
-msgstr "Уключыць дадатковыя загады пульта"
+msgstr "Уключыць дадатковыя каманды пульта"
 
 msgctxt "#36004"
 msgid "Press \"user\" button command"
@@ -15177,7 +15370,7 @@ msgstr "Націсніце наладжвальную кнопку \"user\""
 
 msgctxt "#36005"
 msgid "Enable switch side commands"
-msgstr "Уключыць дадатковыя загады"
+msgstr "Уключыць дадатковыя каманды"
 
 msgctxt "#36006"
 msgid "Couldn't open the adapter"
@@ -15251,7 +15444,7 @@ msgstr "Не ўдалося прызначыць новую канфігурац
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
-msgstr "Пры выключэнні адпраўляць загад \"Неактыўная крыніца\""
+msgstr "Пры выключэнні адпраўляць каманду \"Неактыўная крыніца\""
 
 msgctxt "#36026"
 msgid "Devices to also put in standby mode"
@@ -16000,8 +16193,8 @@ msgstr "Паказваць інфармацыю пра якасць сігнал
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Прызначыць непразрыстасць фону субцітраў."
+msgid "Set the subtitle background opacity."
+msgstr ""
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16045,15 +16238,15 @@ msgstr "Катэгорыя змяшчае налады кіравання сіл
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
-msgstr "Запускаць пададзены ніжэй загад абуджэння падчас выхаду з праграмы альбо пераходу ў рэжым сну. Час наступнага запланаванага запісу падаецца як параметр."
+msgstr "Запускаць пададзеную ніжэй каманду абуджэння падчас выхаду з праграмы альбо пераходу ў рэжым сну. Час наступнага запланаванага запісу падаецца як параметр."
 
 msgctxt "#36242"
 msgid "The command will not be executed when a recording will be started within this timeout."
-msgstr "Падчас запуску запісу загад будзе выкананы праз вызначаны інтэрвал часу."
+msgstr "Падчас запуску запісу каманда будзе выкананая праз вызначаны інтэрвал часу."
 
 msgctxt "#36243"
 msgid "The command to execute (cmd [timestamp])."
-msgstr "Загад для запуску(cmd [timestamp])."
+msgstr "Каманда для запуску(cmd [timestamp])."
 
 msgctxt "#36244"
 msgid "Time to subtract from the start time of the next scheduled recording."
@@ -16061,11 +16254,11 @@ msgstr "Час, што аднімаецца ад часу пачатку нас�
 
 msgctxt "#36245"
 msgid "Execute the wakeup command every day at the given time."
-msgstr "Запускаць загад абуджэння штодня ў вызначаны час."
+msgstr "Запускаць каманду абуджэння штодня ў вызначаны час."
 
 msgctxt "#36246"
 msgid "When to execute the daily wakeup command."
-msgstr "Калі запускаць загад абуджэння."
+msgstr "Калі запускаць каманду абуджэння."
 
 msgctxt "#36247"
 msgid "This category contains the parental control settings, if the PVR backend server supports parental controls."
@@ -16301,8 +16494,8 @@ msgstr "Пры сартаванні музычных элементаў спач
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Прызначыць непразрыстасць субцітраў."
+msgid "Set the subtitle opacity."
+msgstr ""
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -18037,6 +18230,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr ""
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr ""
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr ""
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr ""
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr ""
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr ""
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr ""
+
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
@@ -18356,6 +18580,11 @@ msgstr "Катэгорыя змяшчае дадатковыя налады ін
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Аўтаматычна пераходзіць у акно візуалізацыі падчас запуску прайгравання аўдыё"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr ""
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19171,11 +19400,21 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr ""
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
 msgid "Versions"
-msgstr ""
+msgstr "Версіі"
 
 #. Manage video versions context menu item
 msgctxt "#40001"
@@ -19190,7 +19429,7 @@ msgstr ""
 #. Generic video version label (singular)
 msgctxt "#40003"
 msgid "Version"
-msgstr ""
+msgstr "Версія"
 
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
@@ -19315,7 +19554,7 @@ msgstr ""
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
 msgid "Browse files"
-msgstr ""
+msgstr "Агляд файлаў"
 
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
@@ -19415,7 +19654,7 @@ msgstr ""
 #. Button label for video versions
 msgctxt "#40210"
 msgid "Versions"
-msgstr ""
+msgstr "Версіі"
 
 #. Button label for video extras
 msgctxt "#40211"
@@ -19587,6 +19826,70 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Субцітры"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "Не ўдалося прайграць {0:s}. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Не ўдалося прайграць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Калі ласка, праверце вашу канфігурацыю. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Актыўныя кліенты PVR адсутнічаюць. Дачакайцеся запуску кліента PVR. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Не ўдалося захаваць таймер. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Не ўдалося выдаліць таймер. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "Памылка сервера PVR. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Не ўдалося пачаць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Не ўдалося спыніць запіс. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Не ўдалося распачаць сканаванне каналаў. Праверце журнал, каб даведацца больш пра гэтае паведамленне."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Не ўдалося абнавіць таймер. Праверце налады альбо зазірніце ў журнал, каб даведацца больш."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Прашыўка"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Прызначыць непразрыстасць фону субцітраў."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Прызначыць непразрыстасць субцітраў."
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Калі хуткасць перасягае вызначаны парог, ужываецца карэкцыя тону. Яна прыбірае эфект \"смешных галасоў\", што звычайна з’яўляюцца пры паскарэнні відэа"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

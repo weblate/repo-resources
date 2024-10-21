@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-03-06 21:52+0000\n"
+"PO-Revision-Date: 2024-10-21 14:48+0000\n"
 "Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Memuat informasi CD"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Kesalahan"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[aktif]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Takarir"
+msgid "Subtitle stream"
+msgstr "Saluran takarir"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2641,6 +2642,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Dari metadata"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Menetapkan ukuran garis luar."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Menetapkan warna garis luar."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Menetapkan keburaman."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Menetapkan warna bayangan."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Menetapkan opasitas bayangan."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Menetapkan ukuran jendela."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Bersihkan Pustaka"
@@ -3194,6 +3225,76 @@ msgstr "Tingkat port yang valid adalah 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Tingkat port yang valid adalah 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Saluran apa pun dari klien \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Saluran apa pun dari klien mana pun"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Saluran yang baru saja ditambahkan"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Klien"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Sistem"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Pengguna"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Semua saluran]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Hapus setelah menonton"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Atur apakah rekaman dihapus setelah menonton."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Tidak"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Tanya"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Ya"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Apakah Anda ingin menghapus rekaman ini?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Rekaman dihapus: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -5922,6 +6023,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Ingat path ini"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Pilih daftar putar"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Perbolehkan akselerasi perangkat keras - VDPAU"
@@ -6111,6 +6218,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "Aktifkan opsi ini untuk mengunakan akselerasi perangkat keras untuk kodek AV1. Apabila dinon-aktifkan, maka akan menggunakan CPU."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Gunakan AVC VAAPI"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Aktifkan opsi ini untuk menggunakan akselerasi perangkat keras untuk kodek AVC. Jika dinonaktifkan, maka CPU akan digunakan."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "Format perantara perbesaran HQ"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Menetapkan presisi buffer perbesaran perantara digunakan dalam jalur perenderan GPU. Presisi 16 bit dapat memerlukan lebih banyak performa. Jika perangkat keras tidak dapat mendukung format yang dipilih, Kodi akan memilih format terbaik berikutnya."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 bit per saluran"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 bit per saluran"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 bit per saluran"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Kualitas resample"
@@ -6165,8 +6305,8 @@ msgid "Threshold for pitch correction"
 msgstr "Ambang untuk koreksi nada"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Ketika perubahan kecepatan melebihi ambang batas ini, filter koreksi nada akan diterapkan. Ini menghindari \"suara tupai\" yang biasanya dihasilkan dari mempercepat video"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Ketika perubahan kecepatan melebihi ambang ini, filter koreksi nada akan diterapkan. Ini menghindari \"suara tupai\" yang ada dari percepatan video"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6759,6 +6899,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Izinkan tingkat penyegaran ganda"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Lanjutan"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Antrean pemutar audio/video"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Pemutar"
@@ -6841,7 +6990,7 @@ msgstr "Audio"
 
 msgctxt "#14222"
 msgid "Regional"
-msgstr "WIlayah"
+msgstr "Wilayah"
 
 msgctxt "#14223"
 msgid "Control"
@@ -6979,6 +7128,19 @@ msgstr "Izinkan pengendali jarak jauh dari aplikasi pada sistem ini"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Izinkan pengendali jarak jauh dari aplikasi pada sistem lain"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Pemeliharaan"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Bersihkan tembolok gambar"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Menghapus gambar yang tidak digunakan dari tembolok dengan segera - gambar yang tidak berkaitan dengan item dalam pustaka media atau tidak dilihat secara terkini. Kodi melakukan ini secara berkala di latar belakang."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7328,7 +7490,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Masukkan nilai"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Periksa log untuk informasi lebih lanjut mengenai pesan ini."
@@ -7797,13 +7959,12 @@ msgstr "Sudah ada pengatur waktu yang disetel untuk acara ini"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} tidak dapat diputar. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "{0:s} can't be played."
+msgstr "{0:s} tidak dapat diputar."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Rekaman ini tidak dapat dimainkan. Periksa log untuk informasi mengenai pesan ini."
+msgid "This recording can't be played."
+msgstr "Rekaman ini tidak dapat diputar."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7840,12 +8001,12 @@ msgid "Recording"
 msgstr "Merekam"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Mohon periksa pengaturan Anda. Periksa log untuk informasi mengenai pesan ini."
+msgid "Please check your configuration."
+msgstr "Silakan periksa konfigurasi Anda."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Tidak ada klien PVR yang dimulai. Tunggu agar klien PVR memulai atau periksa log untuk detail."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "Tidak ada klien PVR yang sudah dimulai. Tunggu sampai klien PVR dimulai."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8121,7 +8282,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Penyedia"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Silakan berpindah ke saluran lain."
@@ -8158,18 +8318,18 @@ msgstr "Framerate alternatif"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Tidak dapat menyimpan pewaktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "Could not save the timer."
+msgstr "Tidak dapat menyimpan pewaktu."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Tidak dapat menghapus pewaktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "Could not delete the timer."
+msgstr "Tidak dapat menghapus pewaktu."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "Backend PVR mengalami kesalahan. Periksa log untuk informasi lebih lanjut mengenai pesan ini."
+msgid "PVR backend error."
+msgstr "Terjadi kesalahan backend PVR."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8418,8 +8578,8 @@ msgstr "Perekaman"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Tidak dapat mulai merekam. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "Could not start recording."
+msgstr "Tidak dapat memulai merekam."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8448,8 +8608,8 @@ msgstr "Sembunyikan kotak informasi video"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Tidak dapat berhenti merekam. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "Could not stop recording."
+msgstr "Tidak dapat menghentikan rekaman."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8564,8 +8724,8 @@ msgstr "Tidak ada backend PVR yang tersambung yang mendukung pemindaian saluran.
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Kanal tidak dapat dimulai. Periksa log untuk informasi mengenai pesan ini."
+msgid "The channel scan can't be started."
+msgstr "Pemindaian saluran tidak dapat dimulai."
 
 #. unused?
 msgctxt "#19194"
@@ -8903,8 +9063,8 @@ msgstr "Kontrol orang tua. Masukkan PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Tidak dapat memperbarui pengatur waktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+msgid "Could not update the timer."
+msgstr "Tidak dapat memperbarui pewaktu."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9005,7 +9165,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Tidak ada ikon"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Pilih ikon"
@@ -9020,7 +9180,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Mencari ikon kanal"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Semua kanal"
@@ -9255,7 +9415,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Beralih ke saluran untuk pengingat PVR yang ditutup otomatis untuk saluran '{0:s}' di '{1:s}'"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Penyedia"
@@ -9325,7 +9485,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Tak satu pun dari klien PVR aktif menyediakan pengaturan khusus klien."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Penyedia"
@@ -9359,6 +9519,16 @@ msgstr "Putar program dari sini"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Putar program ini saja"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "Salinan dari '{0:s}'"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9815,10 +9985,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Konfirmasi penghentian"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Panduan saluran"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Mainkan rekaman"
@@ -12064,10 +12236,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "Komentar EXIF"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Firmware"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Bukaan"
@@ -14275,6 +14443,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Untuk menjaga daya AVR tertentu, kami mengirim sinyal noise acak yang tidak terdengar. Anda dapat menonaktifkan pengaturan ini jika Anda menggunakan headphone atau output analog."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Serta kan LFE saat downmixing"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Jika diaktifkan, pengaturan ini akan menyertakan saluran LFE ke dalam pencampuran ketika tidak ada saluran LFE khusus yang tersedia. Ini hanya diperlukan untuk pengeras suara jangkauan penuh."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Mati"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Mainkan suara GUI"
@@ -16048,8 +16241,8 @@ msgstr "Tampilkan informasi kualitas sinyal di jendela informasi codec (jika did
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Atur opasitas latar belakang takarir."
+msgid "Set the subtitle background opacity."
+msgstr "Menetapkan opasitas latar belakang takarir."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16349,8 +16542,8 @@ msgstr "Saat menyortir item musik berdasarkan artis, gunakan sortname mis. Parto
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Atur opasitas takarir."
+msgid "Set the subtitle opacity."
+msgstr "Menetapkan opasitas takarir."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -18094,6 +18287,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} detik"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} detik"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Waktu antrean audio/video"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Durasi antrean audio/video dalam detik. Durasi menentukan jumlah data yang disimpan dalam memori."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Ukuran maksimum antrean video"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Membatasi penggunaan memori maksimum untuk antrean video. Jumlah memori yang digunakan tergantung pada kecepatan bit video dan panjang antrean. Jika batas memori tercapai, waktu antrean akan dikurangi seperlunya."
+
 # empty strings from id 37047 to 38010
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18418,6 +18642,11 @@ msgstr "Kategori ini berisi pengaturan lain untuk antarmuka GUI"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Secara otomatis membuka jendela visualisasi saat pemutaran audio dimulai"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Kategori ini berisi pengaturan tingkat lanjut untuk pemutaran video"
 
 # empty strings from id 38113 to 38189
 msgctxt "#38190"
@@ -19239,6 +19468,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19383,7 +19622,7 @@ msgstr "Video yang dipilih adalah ekstra \"{0:s}\" dari film \"{1:s}\". Apakah A
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
 msgid "Browse files"
-msgstr "Telusuri berkas"
+msgstr "Jelajah berkas"
 
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
@@ -19655,6 +19894,90 @@ msgstr "Edisi Ulang Tahun ke-40"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "Edisi Ulang Tahun ke-50"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Takarir"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} tidak dapat diputar. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Rekaman ini tidak dapat dimainkan. Periksa log untuk informasi mengenai pesan ini."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Mohon periksa pengaturan Anda. Periksa log untuk informasi mengenai pesan ini."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Tidak ada klien PVR yang dimulai. Tunggu agar klien PVR memulai atau periksa log untuk detail."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Tidak dapat menyimpan pewaktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Tidak dapat menghapus pewaktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "Backend PVR mengalami kesalahan. Periksa log untuk informasi lebih lanjut mengenai pesan ini."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Tidak dapat mulai merekam. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Tidak dapat berhenti merekam. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Kanal tidak dapat dimulai. Periksa log untuk informasi mengenai pesan ini."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Tidak dapat memperbarui pengatur waktu. Periksa log untuk informasi lebih lanjut tentang pesan ini."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Firmware"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Atur opasitas latar belakang takarir."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Atur opasitas takarir."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "Format perantara peningkat HQ"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "Menetapkan presisi buffer skala perantara digunakan dalam jejak perenderan GPU. Presisi 16 bit dapat memerlukan lebih banyak performa. Jika perangkat keras tidak dapat mendukung format yang dipilih, Kodi akan menggunakan format terbaik berikutnya."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "8 bit per saluran"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "10 bit per saluran"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "16 bit per saluran"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Ketika perubahan kecepatan melebihi ambang batas ini, filter koreksi nada akan diterapkan. Ini menghindari \"suara tupai\" yang biasanya dihasilkan dari mempercepat video"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-03-31 18:13+0000\n"
+"PO-Revision-Date: 2024-10-10 04:28+0000\n"
 "Last-Translator: psp2111-ADSLGATE <psp100000@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ar_sa/>\n"
 "Language: ar_sa\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "استخراج معلومات القرص المضغوط"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "خطأ"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[نشط]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "الترجمة"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2282,7 +2283,7 @@ msgstr "تحرير قائمة التشغيل"
 
 msgctxt "#587"
 msgid "Filter"
-msgstr "تصفية"
+msgstr "الفلترة"
 
 msgctxt "#588"
 msgid "Cancel party mode"
@@ -2641,6 +2642,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "من البيانات الوصفية"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr ""
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr ""
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr ""
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr ""
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr ""
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr ""
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "جارٍ تنظيف المكتبة"
@@ -2768,7 +2799,7 @@ msgstr "الشكل"
 
 msgctxt "#737"
 msgid "Colour"
-msgstr "الألوان"
+msgstr "ملون"
 
 msgctxt "#738"
 msgid "Normal"
@@ -2898,7 +2929,7 @@ msgstr "الصوت"
 
 msgctxt "#773"
 msgid "Seeking"
-msgstr "تغيير الوقت بمقدار:"
+msgstr "الإنتقال:"
 
 msgctxt "#774"
 msgid "Slideshow folder"
@@ -3198,6 +3229,76 @@ msgstr "نطاق المنفذ الصالح هو 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "نطاق المنفذ السليم هو 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr ""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr ""
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr ""
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "عميل"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "النظام"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr ""
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr ""
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr ""
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "لا"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr ""
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "نعم"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr ""
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr ""
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3591,7 +3692,7 @@ msgstr "AirTunes"
 #. Filter movies/tvshows/music/episodes/artists/musicvideos/albums/songs
 msgctxt "#1275"
 msgid "Filter {0:s}"
-msgstr "تصفية {0:s}"
+msgstr "فلترة {0:s}"
 
 msgctxt "#1300"
 msgid "Custom audio device"
@@ -5663,15 +5764,15 @@ msgstr "دون تغيير"
 
 msgctxt "#13341"
 msgid "Green"
-msgstr "الخضراء"
+msgstr "أخضر"
 
 msgctxt "#13342"
 msgid "Orange"
-msgstr "البرتقالي"
+msgstr "برتقالي"
 
 msgctxt "#13343"
 msgid "Red"
-msgstr "الحمراء"
+msgstr "أحمر"
 
 msgctxt "#13344"
 msgid "Cycle"
@@ -5947,6 +6048,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "تذكر هذا المسار"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr ""
+
 # empty string with id 13424
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6137,6 +6244,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "قم بتمكين هذا الخيار لاستخدام تسريع الأجهزة لبرنامج ترميز AV1. إذا تم تعطيله ، فسيتم استخدام وحدة المعالجة المركزية بدلاً من ذلك."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr ""
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr ""
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr ""
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr ""
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr ""
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "جودة إعادة التشكيل"
@@ -6191,8 +6331,8 @@ msgid "Threshold for pitch correction"
 msgstr "حدود تصحيح درجة الصوت"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "عندما يتجاوز تغيير السرعة هذا الحد ، سيتم تطبيق مرشح تصحيح درجة الصوت. هذا يتجنب \"أصوات chipmonk \" التي تنتج عادة من تسريع الفيديو"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr ""
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6200,7 +6340,7 @@ msgstr "صورة العرض المضمنة"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
-msgstr "fanart المضمن"
+msgstr "خلفية مدمجة"
 
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
@@ -6729,7 +6869,7 @@ msgstr "أساسي"
 #. Label for the "Information" event level
 msgctxt "#14116"
 msgid "Information"
-msgstr "معلومة"
+msgstr "المعلومات"
 
 #. Label for the "Warning" event level
 msgctxt "#14117"
@@ -6787,6 +6927,15 @@ msgstr "السماح بمعدلات تحديث منسدلة بنسبة 3:2"
 msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "السماح بتدبيل معدل التحديث"
+
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "متقدم"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr ""
 
 msgctxt "#14200"
 msgid "Player"
@@ -7013,6 +7162,19 @@ msgstr "السماح بالتحكم عن بعد من التطبيقات المو
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "السماح بالتحكم عن بعد من التطبيقات الموجودة على الأنظمة الأخرى"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr ""
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr ""
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7363,7 +7525,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "أدخل القيمة"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
@@ -7832,13 +7994,12 @@ msgstr "هناك بالفعل مؤقت معين لهذا الحدث"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} غير قادر على التشغيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "{0:s} can't be played."
+msgstr ""
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "لا يمكن تشغيل هذا التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "This recording can't be played."
+msgstr ""
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7875,12 +8036,12 @@ msgid "Recording"
 msgstr "تسجيل"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "يرجى التحقق من الإعدادات الخاص بك. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Please check your configuration."
+msgstr ""
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "لم يتم بدء تشغيل أي عملاء PVR حتى الآن. انتظر حتى يبدأ عملاء PVR بالعمل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr ""
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8156,7 +8317,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "المزود"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "يرجى التبديل إلى قناة أخرى."
@@ -8193,18 +8353,18 @@ msgstr "تراجع معدل الإطار"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "تعذر حفظ المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Could not save the timer."
+msgstr ""
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "تعذر حذف المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Could not delete the timer."
+msgstr ""
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "خطأ في مشغل القنوات. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "PVR backend error."
+msgstr ""
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8453,8 +8613,8 @@ msgstr "التسجيلات"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "تعذر بدء التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Could not start recording."
+msgstr ""
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8483,8 +8643,8 @@ msgstr "إخفاء مربع معلومات الفيديو"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "تعذر إيقاف التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Could not stop recording."
+msgstr ""
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8599,8 +8759,8 @@ msgstr "لا يدعم أي من مشغلين القنوات المتصلين ا�
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "لا يمكن بدء البحث عن القنوات. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "The channel scan can't be started."
+msgstr ""
 
 #. unused?
 msgctxt "#19194"
@@ -8869,7 +9029,7 @@ msgstr "وقت الاستيقاظ اليومي (HH:MM:SS)"
 #. unused?
 msgctxt "#19249"
 msgid "Filter channels"
-msgstr "تصفية القنوات"
+msgstr "فلترة القنوات"
 
 #. Settings -> PVR -> Playback -> Switch to fullscreen value
 msgctxt "#19250"
@@ -8938,8 +9098,8 @@ msgstr "الرقابة الأبوية. ادخل رمز PIN الخاص بك:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "تعذر تحديث المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+msgid "Could not update the timer."
+msgstr ""
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9040,7 +9200,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "بدون ايقونة"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "اختر أيقونة"
@@ -9055,7 +9215,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "جارٍ البحث عن أيقونات القنوات"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "جميع القنوات"
@@ -9290,7 +9450,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "تم التبديل إلى قناة أثناء الاغلاق التلقائي للتذكير PVR للقناة '{0:s}' في'{1:s}'"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "موفر الخدمة"
@@ -9360,7 +9520,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "لا يوفر أي من عملاء PVR النشطين إعدادات خاصة بالعميل."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "المزود"
@@ -9378,7 +9538,7 @@ msgstr "استخدام ترتيب المجموعات للقنوات من الم�
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "الـCatch-up \\ الفيديو حسب الطلب (VOD)"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
@@ -9394,6 +9554,16 @@ msgstr "تشغيل البرامج من هنا"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "تشغيل هذا البرنامج فقط"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr ""
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr ""
 
 # empty strings from id 19334 to 19498
 #. label for epg genre value
@@ -9860,10 +10030,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "تأكيد إيقاف التشغيل"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "دليل القناة"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "تشغيل التسجيل"
@@ -9979,12 +10151,12 @@ msgstr "اختر صورة العرض المصغرة"
 #. Name of an artwork type
 msgctxt "#20020"
 msgid "Banner"
-msgstr "لافتة"
+msgstr "شريط"
 
 #. Name of an artwork type
 msgctxt "#20021"
 msgid "Poster"
-msgstr "ملصق"
+msgstr "بوستر"
 
 msgctxt "#20023"
 msgid "Conflict"
@@ -10578,7 +10750,7 @@ msgstr "إعادة تحميل المظهر"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "استخدام أنماط عرض الملصقات للبرامج التلفزيونية"
+msgstr "استخدام البوسترات كطريقة عرض للمسلسلات"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -11183,11 +11355,11 @@ msgstr "تسطيح مواسم المسلسلات التلفزيونية"
 
 msgctxt "#20413"
 msgid "Get fanart"
-msgstr "الحصول على fanart"
+msgstr "الحصول على خلفيات"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
-msgstr "عرض fanart في مكتبات الفيديو والموسيقى"
+msgstr "عرض خلفية في مكتبات الفيديو والموسيقى"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
@@ -11235,7 +11407,7 @@ msgstr "خاطئ"
 
 msgctxt "#20425"
 msgid "Fanart slideshow"
-msgstr "عرض شرائح Fanart"
+msgstr "عرض الشرائح (خلفيات)"
 
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20426"
@@ -11259,7 +11431,7 @@ msgstr "تفريق"
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20430"
 msgid "Export thumbnails and fanart?"
-msgstr "تصدير صور العرض المصغرة و fanart؟"
+msgstr "تصدير صور العرض المصغرة و والخلفيات؟"
 
 msgctxt "#20431"
 msgid "Overwrite old files?"
@@ -11288,23 +11460,23 @@ msgstr "تصدير صور عرض الفنانين؟"
 
 msgctxt "#20437"
 msgid "Choose fanart"
-msgstr "اختر fanart"
+msgstr "اختر خلفية"
 
 msgctxt "#20438"
 msgid "Local fanart"
-msgstr "fanart محلي"
+msgstr "خلفية محلية"
 
 msgctxt "#20439"
 msgid "No fanart"
-msgstr "بدون fanart"
+msgstr "بدون خلفية"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "fanart الحالي"
+msgstr "الخلفية الحالية"
 
 msgctxt "#20441"
 msgid "Remote fanart"
-msgstr "fanart عن بعد"
+msgstr "خلفيات عن بعد"
 
 msgctxt "#20442"
 msgid "Change content"
@@ -11321,7 +11493,7 @@ msgstr "أضف إلى مكتبة"
 #. Name of an artwork type
 msgctxt "#20445"
 msgid "Fanart"
-msgstr "Fanart"
+msgstr "خلفيات"
 
 #. Ask user when refreshing music or video info if they want to use data from NFO file
 msgctxt "#20446"
@@ -11626,7 +11798,7 @@ msgstr "تفعيل أشرطة التمرير"
 
 msgctxt "#21384"
 msgid "Make watched filtering a toggle in video library"
-msgstr "اجعل \"تصفية شاهدت\" عبارة عن زر تبديل في مكتبة الفيديو"
+msgstr "اجعل فلترة \"تم مشاهدتها\" عبارة عن زر تبديل في المكتبة"
 
 msgctxt "#21385"
 msgid "Open"
@@ -12111,10 +12283,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF تعليق"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Firmware"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "فتحة العدسة"
@@ -12367,7 +12535,7 @@ msgstr "سنوات النشاط"
 
 msgctxt "#21899"
 msgid "Label"
-msgstr "الملصق"
+msgstr "التسمية"
 
 msgctxt "#21900"
 msgid "Born / Formed"
@@ -14327,6 +14495,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "للحفاظ على بعض AVRs قيد التشغيل ، سوف نرسل إشارة صوتية عشوائية غير مسموعة. يمكنك تعطيل هذا الإعداد إذا كنت تستخدم سماعة رأس أو جهاز اخراج analog."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "تعطيل"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr ""
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr ""
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "تشغيل أصوات واجهة المستخدم الرسومية"
@@ -15181,7 +15374,7 @@ msgstr "اختر savestate"
 #. Button for creating a new save state from the select savestate dialog
 msgctxt "#35261"
 msgid "New"
-msgstr "حفظ جديد"
+msgstr "جديد"
 
 #. Help text for RetroAchievements username input setting
 msgctxt "#35262"
@@ -15487,7 +15680,7 @@ msgstr "استخدم موازنة إضاءة HDR/SDR للنظام"
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36097"
 msgid "GUI peak luminance in HDR PQ mode"
-msgstr "نسبة سطوع الواجهة \"GUI\" في وضع HDR PQ"
+msgstr "نسبة سطوع الواجهة GUI في وضع الـHDR"
 
 # empty strings from id 36051 to 36097
 #. Label of setting "System / Display / Use 10 bit for SDR"
@@ -16104,8 +16297,8 @@ msgstr "اعرض معلومات جودة الإشارة في نافذة معلو
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "اضبط تعتيم خلفية الترجمة."
+msgid "Set the subtitle background opacity."
+msgstr ""
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16405,8 +16598,8 @@ msgstr "عند فرز عناصر الموسيقى حسب الفنان ، است�
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "اضبط تعتيم الترجمة."
+msgid "Set the subtitle opacity."
+msgstr ""
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16719,7 +16912,7 @@ msgstr "السماح باستخدام ترقيم القنوات من مشغلي�
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
 msgid "Use limited colour range (16-235) instead of full colour range (0-255). Limited range should be used if your display is a regular HDMI TV and doesn't have a PC or other mode to display full range colour, however if your display is a PC monitor then leave this disabled to get proper blacks."
-msgstr "استخدم نطاق ألوان محدود (16-235) بدلاً من نطاق الألوان الكامل (0-255). يجب استخدام النطاق المحدود إذا كانت شاشتك عبارة عن تلفزيون HDMI عادي ولا تحتوي على وضع الـ PC أو وضع آخر لعرض ألوان النطاق الكامل ، ولكن إذا كانت الشاشة عبارة عن شاشة كمبيوتر شخصي ، فاترك هذا الخيار معطلاً للحصول على اللون الأسود المناسب."
+msgstr "استخدم نطاق ألوان محدود (16-235) بدلاً من نطاق الألوان الكامل (0-255). يجب استخدام النطاق المحدود إذا كانت شاشتك عبارة عن تلفزيون عادي ولا يحتوي على وضع الـPC أو وضع آخر لعرض ألوان النطاق الكامل ، ولكن إذا كانت الشاشة عبارة عن شاشة كمبيوتر شخصي ، فاترك هذا الخيار معطلاً للحصول على اللون الأسود المناسب."
 
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
@@ -17108,7 +17301,7 @@ msgstr "من أي مستودع"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "تفعيل التشغيل التلقائي للبرنامج التالي عند مشاهدة برامج عرضت سابقاً (Catch-up) أو عند مشاهدة قنوات الفيديو حسب الطلب (VOD). مهم! محتوى (VOD) و (Catch-up) يجب ان يكون مدعوماً أيضا من موفر الخدمة لكي يعمل."
 
 # empty strings from id 36439 to 36441
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
@@ -18036,108 +18229,108 @@ msgstr "إصدار بروتوكول NFS لاستخدامه عند إنشاء ا�
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "حجم الحُزم"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "حجم الحُزم لـNFS"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "حجم حُزم البيانات المستخدمة في اتصالات الـNFS"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "حجم الحُزم الـSMB"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "حجم حُزم البيانات المستخدمة في اتصالات الـSMB"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "التخزين المؤقت"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "تحتوي هذه الفئة على إعدادات تكوين التخزين المؤقت للملفات المحلية وملفات الشبكة وتدفقات الإنترنت."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "وضع التخزين المؤقت"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "اختيار نوع الوسائط للتخزين المؤقت."
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "حجم التخزين المؤقت"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "حجم ذاكرة التخزين المؤقت بـ الميغا بايت. ملاحظة: لا ينصح باستخدام ذواكر الفلاش مثل: eMMC و SD cards و SSD عند إجبار التخزين المؤقت على الذاكرة الداخلية بدلاً من الرام."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "معامل القراءة"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "حدد سرعة ملئ الذاكرة المؤقتة حسب المعادلة الرياضية: متوسط bitrate للبث × معامل القراءة. اختيار ارقام عالية من معامل القراءة قد يسبب ارتفاع حاد في استخدام الـCPU او استخدام كامل سرعة الانترنت.[CR][متكيف] يستخدم عامل قراءة متغير ديناميكيًا استنادًا على مستوى ذاكرة التخزين المؤقت."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "حجم حزم البيانات المطلوب استخدامها عندما لا يفرض نظام الملفات أو البروتوكول القيمة."
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "تعطيل التخزين المؤقت"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "التخزين المؤقت لملفات الانترنت الحقيقية فقط مثل: HTTP و HTTPS و الخ..."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "التخزين المؤقت لجميع أنظمة ملفات الإنترنت، بما في ذلك: FTP و WebDAV و الخ..."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "التخزين المؤقت لجميع أنظمة ملفات الشبكة الداخلية والخارجية، بما في ذلك: SMB، NFS، إلخ..."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "التخزين المؤقت لجميع أنظمة الملفات، بما في ذلك ملفات المكتبة المحلية"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "تخزين الملف بأكمله مؤقتًا على الذاكرة الداخلية"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "متكيف"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
@@ -18158,6 +18351,37 @@ msgstr ""
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
+msgstr ""
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr ""
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr ""
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr ""
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr ""
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr ""
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
 msgstr ""
 
 # empty strings from id 37047 to 38010
@@ -18485,6 +18709,11 @@ msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "انتقل تلقائيًا إلى نافذة المؤثرات البصرية عند بدء تشغيل الأغنية"
 
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr ""
+
 # empty strings from id 38113 to 38189
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -18543,7 +18772,7 @@ msgstr "العناصر المراد تصديرها"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr "قم بتضمين العمل الفني مثل صور العرض المصغرة و fanart"
+msgstr "قم بتضمين العمل الفني مثل صور العرض المصغرة و الخلفيات"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
@@ -19249,7 +19478,7 @@ msgstr "متوفر فقط عند تفعيل تغيير مكان الترجمة �
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr ""
+msgstr "‎[مفعل] سوف يتم استخدام اعدادات النظام لسطوع الواجهة GUI في وضع الـHDR. هذا سوف يؤثر على جميع مكونات الواجهة بما في ذلك الترجمة و التصاميم التي هي بالاساس مبنية على الـSDR.[CR][معطل] يمكن تخصيص السطوع يدويًا."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
@@ -19258,42 +19487,42 @@ msgstr ""
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "تعطيل شاشة التوقف عند تشغيل ملفات الصوت"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "في حال تشغيل الموسيقى فإن شاشة التوقف لن تتفعل أبدًا"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr ""
+msgstr "تفعيل تقنية رفع الجودة المتقدمة والمستخدمة في كروت NVIDIA \"RTX Video Super Resolution\" أو \"Intel Video Super Resolution\".[CR]يتم استخدامها عندما وضوح الفيديو 1920x1080 أو أقل أو عندما يكون وضوع الفيديو أقل من وضوح الشاشة.[CR] متوفر فقط على كروت: NVIDIA RTX 20xx, 30xx, 40xx وأعلى, و Intel Arc A770, A750."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "فعل هذا الخيار لأفضل جودة صورة ممكنة. تعطيله سوف يقلل من الحمل على الأجهزة بمواصفات محدودة."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "وضع التوافق لـDolby Vision"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "إذا تم تمكينه، فسيتم تحويل دولبي فيجين profile 7 إلى profile 8.1، وهو الوضع الأكثر شيوعًا الذي تدعمه الأجهزة. قم بتمكين هذا الاعداد إذا كان جهازك يدعم Dolby Vision، ولكنه قد يسبب مشاكل مع بعض مقاطع الفيديو."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "تنسيقات البيانات التعريفية الديناميكية المسموح بها لـHDR"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "يقوم بتغيير تدفق البت للفيديو لإزالة بيانات تعريف الـHDR الديناميكية. حدد تنسيقات HDR التي يدعمها جهازك وشاشتك."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
@@ -19303,6 +19532,16 @@ msgstr ""
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
+msgstr ""
+
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
@@ -19721,6 +19960,70 @@ msgstr ""
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr ""
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "الترجمة"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} غير قادر على التشغيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "لا يمكن تشغيل هذا التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "يرجى التحقق من الإعدادات الخاص بك. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "لم يتم بدء تشغيل أي عملاء PVR حتى الآن. انتظر حتى يبدأ عملاء PVR بالعمل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "تعذر حفظ المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "تعذر حذف المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "خطأ في مشغل القنوات. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "تعذر بدء التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "تعذر إيقاف التسجيل. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "لا يمكن بدء البحث عن القنوات. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "تعذر تحديث المؤقت. تحقق من السجل لمزيد من المعلومات حول هذه الرسالة."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Firmware"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "اضبط تعتيم خلفية الترجمة."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "اضبط تعتيم الترجمة."
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "عندما يتجاوز تغيير السرعة هذا الحد ، سيتم تطبيق مرشح تصحيح درجة الصوت. هذا يتجنب \"أصوات chipmonk \" التي تنتج عادة من تسريع الفيديو"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-28 14:13+0000\n"
+"PO-Revision-Date: 2024-10-21 14:48+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "CD andmete hankimine"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Viga"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[aktiivne]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Subtiiter"
+msgid "Subtitle stream"
+msgstr "Subtiitrite voog"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2565,7 +2566,7 @@ msgstr "Luba komponendipõhine logimine"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Luba Dolby Digital'i (AC3) transkodeerimine"
+msgstr "Luba Dolby Digital (AC3) transkodeerimine"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Metaandmetest"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Määra äärise suurus."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Määra äärise värv."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Määra hägusus."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Määra varju värv."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Määra varju läbipaistmatus."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Määra varju suurus."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Meediakogu puhastamine"
@@ -2677,7 +2708,7 @@ msgstr "Määratud on vigane port. Pordi väärtused on vahemikus 1 kuni 65535."
 
 msgctxt "#713"
 msgid "HTTP proxy"
-msgstr "HTTP proksi"
+msgstr "HTTP puhverserver"
 
 msgctxt "#715"
 msgid "Assignment"
@@ -3192,6 +3223,76 @@ msgstr "Pordid on vahemikus 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Pordid on vahemikus 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Mis tahes kanal kliendilt \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Mis tahes kanal mis tahes kliendilt"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Hiljuti lisatud kanalid"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Klient"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Süsteem"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Kasutaja"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Kõik kanalid]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Kustuta pärast vaatamist"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Seadista, kas salvestised tuleks pärast vaatamist kustutada."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Ei"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Küsi"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Jah"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Kas soovid selle salvestise kustutada?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Salvestis kustutati: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4815,7 +4916,7 @@ msgstr "Lukustatud! Sisesta kood..."
 
 msgctxt "#12326"
 msgid "Enter password"
-msgstr "Sisesta salasõna"
+msgstr "Sisesta parool"
 
 msgctxt "#12327"
 msgid "Enter master code"
@@ -4855,7 +4956,7 @@ msgstr "Eemalda lukk"
 
 msgctxt "#12337"
 msgid "Numeric password"
-msgstr "Numbriline salasõna"
+msgstr "Numbriline parool"
 
 msgctxt "#12338"
 msgid "Gamepad button combo"
@@ -4863,19 +4964,19 @@ msgstr "Mängupuldi nuppude kombinatsioon"
 
 msgctxt "#12339"
 msgid "Full-text password"
-msgstr "Tekstiline salasõna"
+msgstr "Tekstiline parool"
 
 msgctxt "#12340"
 msgid "Enter new password"
-msgstr "Sisesta uus salasõna"
+msgstr "Sisesta uus parool"
 
 msgctxt "#12341"
 msgid "Re-enter new password"
-msgstr "Sisesta uus salasõna uuesti"
+msgstr "Sisesta uus parool uuesti"
 
 msgctxt "#12342"
 msgid "Incorrect password,"
-msgstr "Vale salasõna,"
+msgstr "Vale parool,"
 
 msgctxt "#12343"
 msgid "retries left"
@@ -4883,7 +4984,7 @@ msgstr "järelejäänud katseid"
 
 msgctxt "#12344"
 msgid "Passwords entered did not match."
-msgstr "Sisestatud salasõnad ei kattu."
+msgstr "Sisestatud paroolid ei kattu."
 
 msgctxt "#12345"
 msgid "Access denied"
@@ -4891,7 +4992,7 @@ msgstr "Juurdepääs keelatud"
 
 msgctxt "#12346"
 msgid "Password retry limit exceeded."
-msgstr "Salasõnade proovimise limiit on ületatud."
+msgstr "Paroolide proovimise limiit on ületatud."
 
 msgctxt "#12347"
 msgid "The system will now power down."
@@ -4915,7 +5016,7 @@ msgstr "Allika lukk"
 
 msgctxt "#12358"
 msgid "Password entry was blank. Try again."
-msgstr "Sisestati tühi salasõna. Proovi uuesti."
+msgstr "Sisestati tühi parool. Proovi uuesti."
 
 msgctxt "#12360"
 msgid "Master lock"
@@ -5904,6 +6005,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Jäta selle raja jaoks meelde"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Vali esitusloend"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Luba riistvaraline kiirendus - VDPAU"
@@ -6092,6 +6199,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "AV1 koodeki riistvaraliseks kiirenduseks luba see suvand. Vastasel korral kasutatakse protsessorit."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Kasuta AVC VAAPI"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Luba see suvand, et kasutada AVC koodeki jaoks riistvaralist kiirendust. Kui see on keelatud, kasutatakse selle asemel CPU-d."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "HQ ülesskaleerimise vahevorming"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Määrab GPU renderdusteel kasutatava vahepealse skaleerimispuhvri täpsuse. 16-bitine täpsus nõuab tõenäoliselt suuremat jõudlust. Kui riistvara ei toeta valitud vormingut, kasutab Kodi kvaliteedilt järgmist vormingut."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 bitti kanali kohta"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 bitti kanali kohta"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 bitti kanali kohta"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "Ümbersämplimise kvaliteet"
@@ -6146,8 +6286,8 @@ msgid "Threshold for pitch correction"
 msgstr "Helikõrguse lävi"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Kui kiiruse muutus ületab seda läve, siis rakendatakse helikõrguse filtrit. See väldib \"peenikest häält\" mis tekib video kiirendamisest"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Kui kiiruse muutus ületab selle läve, rakendatakse helikõrguse korrigeerimise filter. See väldib video kiirendamisest tulenevaid helimoonutisi"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6739,6 +6879,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Luba kahekordsed värskendussagedused"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Edasijõudnud"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Pleieri heli/video järjekorrad"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Pleier"
@@ -6959,6 +7108,19 @@ msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Luba kaughaldus rakendustega teistes süsteemides"
 
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Hooldus"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Puhasta pildi vahemälu"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Eemalda vahemälust kasutamata pildid kohe – pildid, mida pole meediakogui üksusega seostatud ega hiljuti vaadatud. Kodi teeb taustal seda aja jooksul."
+
 #. pvr "channels" settings group label
 msgctxt "#14301"
 msgid "Channels"
@@ -7019,7 +7181,7 @@ msgstr "Aktiivsed režiimid"
 
 msgctxt "#15052"
 msgid "Password"
-msgstr "Salasõna"
+msgstr "Parool"
 
 #. Button to disable all enabled modes on current selected type
 msgctxt "#15066"
@@ -7305,7 +7467,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Sisesta arv"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Rohkem teavet selle sõnumi kohta saab logifailist."
@@ -7771,13 +7933,12 @@ msgstr "Sellele sündmusele on juba taimer määratud"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} ei saa esitada. Rohkem infot selle sõnumi kohta saab logifailist."
+msgid "{0:s} can't be played."
+msgstr "{0:s} ei saa esitada."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Salvestist ei saa esitada. Rohkem teavet selle sõnumi kohta saab logifailist."
+msgid "This recording can't be played."
+msgstr "Seda salvestist ei saa esitada."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7814,12 +7975,12 @@ msgid "Recording"
 msgstr "Salvestamine"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Palun kontrolli seadistust. Rohkem teavet selle sõnumi kohta saab logifailist."
+msgid "Please check your configuration."
+msgstr "Kontrolli oma seadistust."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "PVR kliendid ei ole veel käivitunud. Oota kuni PVR kliendid käivituvad. Rohkem teavet selle sõnumi kohta saab logifailist."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "PVR kliendid pole veel käivitunud. Oota nende käivitumist."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8095,7 +8256,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Teenusepakkuja"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Palun vaheta kanalit."
@@ -8132,18 +8292,18 @@ msgstr "Vaikimisi kaadrisagedus"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Taimeri salvestamine ebaõnnestus. Lisateavet saab logifailist."
+msgid "Could not save the timer."
+msgstr "Taimeri salvestamine nurjus."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Taimeri kustutamine ebaõnnestus. Rohkem infot saab logifailist."
+msgid "Could not delete the timer."
+msgstr "Taimeri kustutamine nurjus."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR vastuvõtja viga. Lisateavet selle sõnumi kohta leiab logist."
+msgid "PVR backend error."
+msgstr "PVR taustaprogrammi viga."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8392,8 +8552,8 @@ msgstr "Salvestused"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Salvestamist ei saanud alustada. Lisateavet saab logifailist."
+msgid "Could not start recording."
+msgstr "Salvestamist ei saanud alustada."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8582,8 @@ msgstr "Peida video andmed"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Salvestamist ei saanud peatada. Lisateavet saab logifailist."
+msgid "Could not stop recording."
+msgstr "Salvestamist ei saanud peatada."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8538,8 +8698,8 @@ msgstr "Ükski ühendatud videosalvestaja põhi ei toeta kanalite skaneerimist."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Kanalite skaneerimist ei saa alustada. Lisateavet selle sõnumi kohta saab logifailist."
+msgid "The channel scan can't be started."
+msgstr "Kanaliotsingut ei saa alustada."
 
 #. unused?
 msgctxt "#19194"
@@ -8877,8 +9037,8 @@ msgstr "Lapselukk. Sisesta PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Taimeri uuendamine ebaõnnestus. Rohkem infot saab logifailist."
+msgid "Could not update the timer."
+msgstr "Taimerit ei saanud värskendada."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8979,7 +9139,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Ikoon puudub"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Vali ikoon"
@@ -8994,7 +9154,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Kanali ikoonide otsimine"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Kõik kanalid"
@@ -9229,7 +9389,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "PVR meeldetuletuse tõttu kanalile '{0:s}' kell '{1:s}' toimus kanalivahetus"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Teenusepakkujad"
@@ -9299,7 +9459,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Ükski aktiivne PVR-klient ei paku kliendipõhiseid sätteid."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Teenusepakkuja"
@@ -9333,6 +9493,16 @@ msgstr "Esita saateid siit"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Esita ainult see saade"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "Duplikaat"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "'{0:s}' koopia"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9789,10 +9959,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Kinnita seiskamine"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Kanali kava"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Esita salvestus"
@@ -10338,7 +10510,7 @@ msgstr "Kasutajanimi"
 
 msgctxt "#20143"
 msgid "Enter password for"
-msgstr "Sisesta salasõna"
+msgstr "Sisesta parool"
 
 msgctxt "#20144"
 msgid "Shutdown timer"
@@ -11671,7 +11843,7 @@ msgstr "Muusikavideo andmete vaiketarnija"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
-msgstr "Vali esimene vaatamata sarja hooaeg / episood"
+msgstr "Vali sarja esimene vaatamata hooaeg / episood"
 
 msgctxt "#21417"
 msgid "Settings"
@@ -12029,10 +12201,6 @@ msgstr "Kaamera mudel"
 msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF-i kommentaar"
-
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Püsivara"
 
 msgctxt "#21826"
 msgid "Aperture"
@@ -14234,6 +14402,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Peatamaks helivõimendi minekut ooteseisundisse, saadetakse kuuldamatu mürasignaal. Selle võib keelata, kui kasutad kõrvaklappe või analoogväljundit."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Kaasa allamiksimisel LFE"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Kui lubatud, kaasab see säte allamiksimisel LFE-kanali, kui spetsiaalset LFE-väljundkanalit pole saadaval. Sellel on mõte ainult täisulatusega kõlarite puhul."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Pole kasutuses"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Luba kasutajaliidese helid"
@@ -15993,7 +16186,7 @@ msgstr "Kuva koodeki teabe aknas signaali kvaliteet (kui lisamoodul ja kaugtuune
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
+msgid "Set the subtitle background opacity."
 msgstr "Määra subtiitrite tausta läbipaistmatus."
 
 msgctxt "#36231"
@@ -16294,7 +16487,7 @@ msgstr "Kasuta päris nime asemel sortimisnime muusika järjestamisel esitaja ni
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
+msgid "Set the subtitle opacity."
 msgstr "Määra subtiitrite läbipaistmatus."
 
 msgctxt "#36296"
@@ -16735,7 +16928,7 @@ msgstr "Määra puhverserveri kasutajanimi."
 #. Description of setting with label #733 "Password"
 msgctxt "#36385"
 msgid "Configure the proxy server password."
-msgstr "Määra puhverserveri salasõna."
+msgstr "Määra puhverserveri parool."
 
 #. Description of setting with label #14041 "Internet connection bandwidth limitation"
 msgctxt "#36386"
@@ -18030,6 +18223,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} sekund"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} sekundit"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Heli/video järjekorra kestus"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Heli/video järjekordade kestus sekundites. Kestus määrab mällu salvestatud andmete hulga."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Video järjekorra maksimaalne suurus"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Piirab video järjekorra maksimaalset mälukasutust. Kasutatava mälu maht sõltub video bitikiirusest ja järjekorra pikkusest. Kui mälulimiit on täis, lühendatakse järjekorra aega vastavalt vajadusele."
+
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
@@ -18349,6 +18573,11 @@ msgstr "See kategooria sisaldab muid kasutajaliidese seadeid"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Heli taasesituse alustamisel ava automaatselt visualiseerimisaken"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "See kategooria sisaldab video taasesituse täpsemaid seadeid"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19161,6 +19390,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19577,6 +19816,90 @@ msgstr "40. aastapäeva väljaanne"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "50. aastapäeva väljaanne"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Subtiiter"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} ei saa esitada. Rohkem infot selle sõnumi kohta saab logifailist."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Salvestist ei saa esitada. Rohkem teavet selle sõnumi kohta saab logifailist."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Palun kontrolli seadistust. Rohkem teavet selle sõnumi kohta saab logifailist."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "PVR kliendid ei ole veel käivitunud. Oota kuni PVR kliendid käivituvad. Rohkem teavet selle sõnumi kohta saab logifailist."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Taimeri salvestamine ebaõnnestus. Lisateavet saab logifailist."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Taimeri kustutamine ebaõnnestus. Rohkem infot saab logifailist."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR vastuvõtja viga. Lisateavet selle sõnumi kohta leiab logist."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Salvestamist ei saanud alustada. Lisateavet saab logifailist."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Salvestamist ei saanud peatada. Lisateavet saab logifailist."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Kanalite skaneerimist ei saa alustada. Lisateavet selle sõnumi kohta saab logifailist."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Taimeri uuendamine ebaõnnestus. Rohkem infot saab logifailist."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Püsivara"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Määra subtiitrite tausta läbipaistmatus."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Määra subtiitrite läbipaistmatus."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "HQ ülesskaleerimise vahevorming"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "Määrab GPU renderdusteel kasutatava skaleerimispuhvri täpsuse. 16-bitine täpsus vajab tõenäoliselt rohkem jõudlust. Kui riistvara valitud vormingut ei toeta, valib Kodi paremuselt järgmise vormingu."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "8 bitti kanali kohta"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "10 bitti kanali kohta"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "16 bitti kanali kohta"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Kui kiiruse muutus ületab seda läve, siis rakendatakse helikõrguse filtrit. See väldib \"peenikest häält\" mis tekib video kiirendamisest"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-03-26 08:33+0000\n"
+"PO-Revision-Date: 2024-10-21 14:48+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "Recupero informazioni sul CD"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Errore"
@@ -1061,7 +1062,7 @@ msgstr "Impossibile caricare le impostazioni"
 
 msgctxt "#280"
 msgid "Using default settings"
-msgstr "Utilizza le impostazioni predefinite"
+msgstr "Usa le impostazioni predefinite"
 
 msgctxt "#281"
 msgid "Please check the XML files"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[attivo]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Sottotitolo"
+msgid "Subtitle stream"
+msgstr "Traccia sottotitoli"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -1976,7 +1977,7 @@ msgstr "Verifica dei file multimediali..."
 
 msgctxt "#507"
 msgid "Sort by: Usage"
-msgstr "Ordina per: Utilizzo"
+msgstr "Ordina per: Uso"
 
 msgctxt "#510"
 msgid "Enable visualisations"
@@ -2196,7 +2197,7 @@ msgstr "Tipo"
 
 msgctxt "#565"
 msgid "Usage"
-msgstr "Utilizzo"
+msgstr "Uso"
 
 msgctxt "#566"
 msgid "Album artist"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Dai metadati"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Imposta la dimensione del bordo."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Imposta il colore del bordo."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Imposta la sfocatura."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Imposta il colore dell'ombra."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Imposta l'opacità dell'ombra."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Imposta la dimensione dell'ombra."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Pulisci libreria"
@@ -2957,7 +2988,7 @@ msgstr "Cerca nella guida"
 #. Help of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#805"
 msgid "Enter the search string to use to lookup matching events in the guide"
-msgstr "Inserire la stringa di ricerca da utilizzare per cercare gli eventi corrispondenti nella guida"
+msgstr "Inserire la stringa di ricerca da usare per cercare gli eventi corrispondenti nella guida"
 
 #. Label of "Fulltext search" edit field in PVR timer settings dialog
 msgctxt "#806"
@@ -3192,6 +3223,76 @@ msgstr "L'intervallo di porte valido è 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "L'intervallo di porte valido è 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Qualsiasi canale dal client \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Qualsiasi canale da qualsiasi client"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Canali aggiunti recentemente"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Client"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Sistema"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Utente"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Tutti i canali]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Elimina dopo la visione"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Configura se le registrazioni devono essere eliminate dopo la visione."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "No"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Chiedi"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Sì"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Vuoi eliminare questa registrazione?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Registrazione eliminata: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4718,7 +4819,7 @@ msgstr "Ritorna alla finestra video"
 
 msgctxt "#12012"
 msgid "Last used"
-msgstr "Ultimo utilizzo"
+msgstr "Ultimo uso"
 
 msgctxt "#12013"
 msgid "Install date"
@@ -4976,7 +5077,7 @@ msgstr "Mese / Giorno"
 
 msgctxt "#12389"
 msgid "Privacy policy"
-msgstr "Politica sulla riservatezza"
+msgstr "Informativa sulla privacy"
 
 msgctxt "#12390"
 msgid "System uptime"
@@ -5272,7 +5373,7 @@ msgstr "Cambiare la modalità Apple Remote?"
 
 msgctxt "#13145"
 msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Se stai attualmente utilizzando Apple Remote per controllare questa applicazione, la modifica di questa impostazione potrebbe influire sulla tua capacità di continuare a controllarla. Vuoi procedere?"
+msgstr "Se stai attualmente usando Apple Remote per controllare questa applicazione, la modifica di questa impostazione potrebbe influire sulla tua capacità di continuare a controllarla. Vuoi procedere?"
 
 msgctxt "#13159"
 msgid "Subnet mask"
@@ -5399,7 +5500,7 @@ msgstr "Hardware:"
 
 msgctxt "#13271"
 msgid "System CPU usage:"
-msgstr "Utilizzo CPU di sistema:"
+msgstr "Uso CPU di sistema:"
 
 msgctxt "#13274"
 msgid "Connected, but no DNS is available."
@@ -5904,6 +6005,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Ricorda per questo percorso"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Scegli playlist"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Usa accelerazione hardware - VDPAU"
@@ -5926,7 +6033,7 @@ msgstr "Usa accelerazione hardware - VTBDecoder"
 
 msgctxt "#13430"
 msgid "Allow using DRM PRIME decoder"
-msgstr "Consenti l'utilizzo del decodificatore DRM PRIME"
+msgstr "Consenti l'uso del decodificatore DRM PRIME"
 
 msgctxt "#13431"
 msgid "Pixel shaders"
@@ -5976,7 +6083,7 @@ msgstr "Usa MPEG-2 VDPAU"
 #. Description of setting with label #13441 "Use MPEG-2 VDPAU"
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per i codec MPEG-(1/2). Se disabilitato verrà invece utilizzata la CPU. Le schede Radeon più vecchie tendono al segfault con questa opzione abilitata."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per i codec MPEG-(1/2). Se disabilitato verrà invece usata la CPU. Le schede Radeon più vecchie tendono al segfault con questa opzione abilitata."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
@@ -5985,7 +6092,7 @@ msgstr "Usa MPEG-4 VDPAU"
 #. Description of setting with label #13443 "Use MPEG-4 VDPAU"
 msgctxt "#13444"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead. Some ION hardware has problems with this being enabled by default."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per il codec MPEG-4. Se disabilitata verrà utilizzata invece la CPU. Alcuni hardware ION hanno problemi con questa opzione abilitata per impostazione predefinita."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec MPEG-4. Se disabilitata verrà usata invece la CPU. Alcuni hardware ION hanno problemi con questa opzione abilitata per impostazione predefinita."
 
 msgctxt "#13445"
 msgid "Use VC-1 VDPAU"
@@ -5994,7 +6101,7 @@ msgstr "Usa VC-1 VDPAU"
 #. Description of setting with label #13445 "Use VC-1 VDPAU"
 msgctxt "#13446"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. AMD hardware with VDPAU can't decode VC-1 Simple."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per i codec basati su VC-1. Se disabilitata verrà utilizzata invece la CPU. L'hardware AMD con VDPAU non può decodificare VC-1 Simple."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per i codec basati su VC-1. Se disabilitata verrà usata invece la CPU. L'hardware AMD con VDPAU non può decodificare VC-1 Simple."
 
 msgctxt "#13447"
 msgid "Use MPEG-2 VAAPI"
@@ -6003,7 +6110,7 @@ msgstr "Usa MPEG-2 VAAPI"
 #. Description of setting with label #13447 "Use MPEG-2 VAAPI"
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per i codec MPEG-(1/2). Se disabilitato verrà invece utilizzata la CPU. Alcuni video MPEG-2 potrebbero presentare artefatti verdi."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per i codec MPEG-(1/2). Se disabilitato verrà invece usata la CPU. Alcuni video MPEG-2 potrebbero presentare artefatti verdi."
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
@@ -6012,7 +6119,7 @@ msgstr "Usa MPEG-4 VAAPI"
 #. Description of setting with label #13449 "Use MPEG-4 VAAPI"
 msgctxt "#13450"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per il codec MPEG-4. Se disabilitato verrà invece utilizzata la CPU."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec MPEG-4. Se disabilitato verrà invece usata la CPU."
 
 msgctxt "#13451"
 msgid "Use VC-1 VAAPI"
@@ -6021,7 +6128,7 @@ msgstr "Usa VC-1 VAAPI"
 #. Description of setting with label #13451 "Use VC-1 VAAPI"
 msgctxt "#13452"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. Especially VC-1 interlaced fails hard on Intel hardware."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per i codec basati su VC-1. Se disabilitata verrà utilizzata invece la CPU. Soprattutto VC-1 interlacciato non funziona su hardware Intel."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per i codec basati su VC-1. Se disabilitata verrà usata invece la CPU. Soprattutto VC-1 interlacciato non funziona su hardware Intel."
 
 msgctxt "#13453"
 msgid "Use VP8 VAAPI"
@@ -6030,7 +6137,7 @@ msgstr "Usa VP8 VAAPI"
 #. Description of setting with label #13453 "Use VP8 VAAPI"
 msgctxt "#13454"
 msgid "Enable this option to use hardware acceleration for the VP8 codec. If disabled the CPU will be used instead."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per il codec VP8. Se disabilitata verrà utilizzata invece la CPU."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec VP8. Se disabilitata verrà usata invece la CPU."
 
 msgctxt "#13455"
 msgid "Use VP9 VAAPI"
@@ -6039,7 +6146,7 @@ msgstr "Usa VP9 VAAPI"
 #. Description of setting with label #13453 "Use VP9 VAAPI"
 msgctxt "#13456"
 msgid "Enable this option to use hardware acceleration for the VP9 codec. If disabled the CPU will be used instead."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per il codec VP9. Se disabilitata verrà utilizzata invece la CPU."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec VP9. Se disabilitata verrà usata invece la CPU."
 
 #. Option for video related setting #13454: sw filter
 msgctxt "#13457"
@@ -6053,7 +6160,7 @@ msgstr "Usa HEVC VAAPI"
 #. Description of setting with label #13460 "Use HEVC VAAPI"
 msgctxt "#13461"
 msgid "Enable this option to use hardware acceleration for the HEVC codec. If disabled the CPU will be used instead."
-msgstr "Abilita questa opzione per utilizzare l'accelerazione hardware per il codec HEVC. Se disabilitata verrà utilizzata invece la CPU."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec HEVC. Se disabilitata verrà usata invece la CPU."
 
 #. Option for setting the PRIME render method
 msgctxt "#13462"
@@ -6090,7 +6197,40 @@ msgstr "Usa AV1 VAAPI"
 #. Description of setting with label #13468 "Use AV1 VAAPI"
 msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
-msgstr "Abilitare questa opzione per utilizzare l'accelerazione hardware del coded AV1. Se disabilitata, verrà utilizzata la CPU."
+msgstr "Abilitare questa opzione per usare l'accelerazione hardware del coded AV1. Se disabilitata, verrà usata la CPU."
+
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Usa AVC VAAPI"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec AVC. Se disabilitato verrà usata invece la CPU."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "Formato intermedio upscaler HQ"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Imposta la precisione del buffer di ridimensionamento intermedio usato nel percorso di rendering della GPU. La precisione a 16 bit probabilmente richiede maggiori prestazioni. Se l'hardware non è in grado di supportare il formato selezionato, Kodi tornerà al formato migliore successivo."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8 bit per canale"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10 bit per canale"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16 bit per canale"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6146,8 +6286,8 @@ msgid "Threshold for pitch correction"
 msgstr "Soglia per correzione intonazione"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Quando la variazione di velocità supera questa soglia, verrà applicato un filtro di correzione dell'intonazione. Questo evita le \"voci da chipmonk\" che normalmente derivano dall'accelerazione di un video"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Quando la variazione di velocità supera questa soglia, verrà applicato il filtro di correzione del tono. Evita le \"voci di scoiattoli\" che normalmente risultano dall'accelerazione di un video"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6180,7 +6320,7 @@ msgstr "Usa la data di uscita originale degli album per anno"
 #. Description of setting with label #13524
 msgctxt "#13525"
 msgid "When enabled, use the original year of release rather than the album release year (if available)."
-msgstr "Se abilitato, utilizza l'anno di uscita originale anziché l'anno di uscita dell'album (se disponibile)."
+msgstr "Se abilitato, usa l'anno di uscita originale anziché l'anno di uscita dell'album (se disponibile)."
 
 msgctxt "#13550"
 msgid "Delay after change of refresh rate"
@@ -6739,6 +6879,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Consenti raddoppio delle frequenze di aggiornamento"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Avanzato"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Code audio/video del lettore"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Lettore"
@@ -6958,6 +7107,19 @@ msgstr "Consenti il controllo remoto da applicazioni su questo dispositivo"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Consenti il controllo remoto da applicazioni su altri dispositivi"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Manutenzione"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Pulisci cache delle immagini"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Rimuovi immediatamente le immagini inutilizzate dalla cache: immagini non associate a un elemento nel catalogo multimediale né visualizzate di recente. Kodi gestisce periodicamente la pulizia della cache in background."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7305,7 +7467,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Inserire valore"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Controlla il registro per ulteriori informazioni su questo messaggio."
@@ -7771,13 +7933,12 @@ msgstr "C'è già un timer impostato per questo evento"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} non può essere riprodotto. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "{0:s} can't be played."
+msgstr "Impossibile riprodurre {0:s}."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Questa registrazione non può essere riprodotta. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "This recording can't be played."
+msgstr "Questa registrazione non può essere riprodotta."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7814,12 +7975,12 @@ msgid "Recording"
 msgstr "Registrazione"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Per favore controlla la tua configurazione. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "Please check your configuration."
+msgstr "Controlla la tua configurazione."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "Nessun client PVR è stato ancora avviato. Attendi l'avvio dei client PVR. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "Nessun client PVR è stato ancora avviato. Attendi l'avvio dei client PVR."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8095,7 +8256,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Fornitore"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Per favore passa su un altro canale."
@@ -8132,18 +8292,18 @@ msgstr "Frequenza di riserva dei fotogrammi"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Impossibile salvare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "Could not save the timer."
+msgstr "Impossibile salvare il timer."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Impossibile eliminare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "Could not delete the timer."
+msgstr "Impossibile eliminare il timer."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "Errore backend PVR. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "PVR backend error."
+msgstr "Errore del backend PVR."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8392,8 +8552,8 @@ msgstr "Registrazioni"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Impossibile avviare la registrazione. Controlla il file di registro per maggiori informazioni su questo messaggio."
+msgid "Could not start recording."
+msgstr "Impossibile avviare la registrazione."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8582,8 @@ msgstr "Nascondi riquadro informazioni video"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Impossibile interrompere la registrazione. Controlla il file di registro per maggiori informazioni su questo messaggio."
+msgid "Could not stop recording."
+msgstr "Impossibile interrompere la registrazione."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8538,8 +8698,8 @@ msgstr "Nessuno dei backend PVR connessi supporta la scansione dei canali."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Impossibile avviare la scansione canali. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "The channel scan can't be started."
+msgstr "Impossibile avviare la scansione dei canali."
 
 #. unused?
 msgctxt "#19194"
@@ -8877,8 +9037,8 @@ msgstr "Controllo genitori. Inserire PIN:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Impossibile aggiornare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+msgid "Could not update the timer."
+msgstr "Impossibile aggiornare il timer."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8922,7 +9082,7 @@ msgstr "Nessun add-on PVR trovato"
 #. label for 'pvr configuration incomplete' information dialog text
 msgctxt "#19272"
 msgid "To use PVR you need to install, enable and configure a PVR add-on. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "Per utilizzare PVR è necessario installare, abilitare e configurare un add-on PVR. Per ulteriori informazioni, visita http://kodi.wiki/view/PVR."
+msgstr "Per usare PVR è necessario installare, abilitare e configurare un add-on PVR. Per ulteriori informazioni, visita http://kodi.wiki/view/PVR."
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
@@ -8979,7 +9139,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Nessuna icona"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Scegli icona"
@@ -8994,7 +9154,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Ricerca icone dei canali"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Tutti i canali"
@@ -9229,7 +9389,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Canale cambiato per promemoria PVR chiuso automaticamente per il canale '{0:s}' alle '{1:s}'"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Fornitori"
@@ -9299,7 +9459,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Nessuno dei client PVR attivi fornisce impostazioni specifiche sul client."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Fornitore"
@@ -9333,6 +9493,16 @@ msgstr "Riproduci i programmi da qui"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Riproduci solo a questo programma"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "Duplicato"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "Copia di '{0:s}'"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9617,7 +9787,7 @@ msgstr "Moda"
 #. label for "social/political/economics" epg genre value
 msgctxt "#19612"
 msgid "Social / Political / Economics"
-msgstr "Sociale / Politico / Economico"
+msgstr "Sociale / Politico / Economia"
 
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19613"
@@ -9789,10 +9959,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Conferma spegnimento"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Guida canale"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Guarda registrazione"
@@ -9838,7 +10010,7 @@ msgstr "Cartella nella quale salvare la musica"
 
 msgctxt "#20001"
 msgid "Use external DVD player"
-msgstr "Utilizza lettore DVD esterno"
+msgstr "Usa lettore DVD esterno"
 
 msgctxt "#20002"
 msgid "External DVD player"
@@ -12030,10 +12202,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "Commento EXIF"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Firmware"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Apertura"
@@ -12960,7 +13128,7 @@ msgstr "Lingue sottotitoli da scaricare"
 #. Description of setting "Videos -> Subtitles -> Languages to download subtitles for" with label #24111
 msgctxt "#24112"
 msgid "Set languages to use when searching for subtitles.[CR]Note: Not all subtitle services will use all languages."
-msgstr "Imposta le lingue da utilizzare per la ricerca dei sottotitoli.[CR]Nota: non tutti i servizi di sottotitoli dispongono tutte le lingue."
+msgstr "Imposta le lingue da usare per la ricerca dei sottotitoli.[CR]Nota: non tutti i servizi di sottotitoli dispongono tutte le lingue."
 
 msgctxt "#24113"
 msgid "Failed to download subtitle"
@@ -12981,7 +13149,7 @@ msgstr "Servizio serie TV predefinito"
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
 msgid "Select the service that will be used as default to search for TV show subtitles."
-msgstr "Seleziona il servizio che verrà utilizzato come predefinito per cercare i sottotitoli delle serie TV."
+msgstr "Seleziona il servizio che verrà usato come predefinito per cercare i sottotitoli delle serie TV."
 
 msgctxt "#24118"
 msgid "Default movie service"
@@ -12990,7 +13158,7 @@ msgstr "Servizio film predefinito"
 #. Description of setting with label #24118 "Default Movie Service"
 msgctxt "#24119"
 msgid "Select the service that will be used as default to search for movie subtitles."
-msgstr "Seleziona il servizio che verrà utilizzato come predefinito per cercare i sottotitoli dei film."
+msgstr "Seleziona il servizio che verrà usato come predefinito per cercare i sottotitoli dei film."
 
 msgctxt "#24120"
 msgid "Manual search string"
@@ -13049,7 +13217,7 @@ msgstr "Scarica sottotitoli..."
 
 msgctxt "#24135"
 msgid "To use this feature you must enable an add-on:"
-msgstr "Per utilizzare questa funzione è necessario abilitare un add-on:"
+msgstr "Per usare questa funzione è necessario abilitare un add-on:"
 
 msgctxt "#24136"
 msgid "Would you like to enable this add-on?"
@@ -14234,6 +14402,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Per mantenere alcuni AVR alimentati inviamo un segnale di rumore casuale non udibile. Puoi disabilitare questa impostazione se stai usando una cuffia o un'uscita analogica."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Includi LFE durante il downmix"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Se abilitata, questa impostazione includerà il canale LFE nel mixaggio quando non è disponibile un canale di uscita LFE dedicato. Questo ha senso solo per gli altoparlanti a gamma completa."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Off"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Riproduci suoni"
@@ -14405,7 +14598,7 @@ msgstr "Mappa tasti abilitata"
 
 msgctxt "#35009"
 msgid "Don't use the custom keymap for this device"
-msgstr "Non utilizzare la mappa dei tasti personalizzata per questo dispositivo"
+msgstr "Non usare la mappa dei tasti personalizzata per questo dispositivo"
 
 #. Name of add-ons extending the kodi.peripheral extension point
 msgctxt "#35010"
@@ -15013,7 +15206,7 @@ msgstr "Premi {0:s} per aprire il menu nel gioco."
 #. Additional help text shown when the user first plays a game. This will be removed in the future.
 msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
-msgstr "In questa versione possono essere utilizzati per giocare solo i controller."
+msgstr "In questa versione possono essere usati per giocare solo i controller."
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15384,7 +15577,7 @@ msgstr "Luminanza di picco della GUI in modalità HDR PQ"
 #. Label of setting "System / Display / Use 10 bit for SDR"
 msgctxt "#36098"
 msgid "Use 10 bit for SDR"
-msgstr "Utilizza 10 bit per SDR"
+msgstr "Usa 10 bit per SDR"
 
 msgctxt "#36099"
 msgid "Dithering"
@@ -15649,12 +15842,12 @@ msgstr "Usa filtri di alta qualità quando ingrandisci un video di almeno questa
 #. Description of setting with label #13425 "Allow hardware acceleration (VDPAU)"
 msgctxt "#36155"
 msgid "Enable VDPAU hardware decoding of video files, mainly used for NVIDIA graphics and in some circumstances AMD graphics."
-msgstr "Abilita la decodifica hardware VDPAU dei file video, utilizzata principalmente nelle schede grafiche NVIDIA e in alcune circostanze anche in quelle AMD."
+msgstr "Abilita la decodifica hardware VDPAU dei file video, usata principalmente nelle schede grafiche NVIDIA e in alcune circostanze anche in quelle AMD."
 
 #. Description of setting with label #13426 "Allow hardware acceleration (VAAPI)"
 msgctxt "#36156"
 msgid "Enable VAAPI hardware decoding of video files, mainly used for Intel graphics and in some circumstances AMD graphics."
-msgstr "Abilita la decodifica hardware VAAPI dei file video, utilizzata principalmente nelle schede grafiche Intel e in alcune circostanze anche in quelle AMD."
+msgstr "Abilita la decodifica hardware VAAPI dei file video, usata principalmente nelle schede grafiche Intel e in alcune circostanze anche in quelle AMD."
 
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
@@ -15719,7 +15912,7 @@ msgstr "Scegli se usare il formato 12 o 24 ore per mostrare l'ora nell'interfacc
 #. Description of setting with label #13505 "Resample quality"
 msgctxt "#36169"
 msgid "Select the quality of resampling for cases where the audio output needs to be at a different sampling rate from that used by the source.[CR][Low] Is fast and will have minimal impact on system resources such as the use of the CPU.[CR][Medium] & [High] Will use progressively more system resources."
-msgstr "Seleziona la qualità del ricampionamento per i casi in cui l'uscita audio deve avere una frequenza di campionamento diversa da quella utilizzata dalla sorgente.[CR][Basso] È veloce e avrà un impatto minimo sulle risorse di sistema come l'uso della CPU. [CR][Medio] e [Alto] Utilizzeranno progressivamente più risorse di sistema."
+msgstr "Seleziona la qualità del ricampionamento per i casi in cui l'uscita audio deve avere una frequenza di campionamento diversa da quella usata dalla sorgente.[CR][Basso] È veloce e avrà un impatto minimo sulle risorse di sistema come l'uso della CPU. [CR][Medio] e [Alto] Useranno progressivamente più risorse di sistema."
 
 #. Description of setting with label #22021 "Minimise black bars"
 msgctxt "#36170"
@@ -15739,7 +15932,7 @@ msgstr "Abilita la decodifica PRIME dei file video"
 #. Description of setting with label #14109 "Short date format"
 msgctxt "#36173"
 msgid "Choose which short date format is used for displaying the date in the user interface."
-msgstr "Scegli quale formato di data breve viene utilizzato per visualizzare la data nell'interfaccia utente."
+msgstr "Scegli quale formato di data breve viene usato per visualizzare la data nell'interfaccia utente."
 
 #. Description of setting with label #23050 "Activate Teletext"
 msgctxt "#36174"
@@ -15798,7 +15991,7 @@ msgstr "Questa categoria contiene le impostazioni per la gestione dei sottotitol
 #. Description of setting with label #14089 "Font"
 msgctxt "#36185"
 msgid "Set the font type to be used for subtitles."
-msgstr "Imposta il tipo di carattere da utilizzare per i sottotitoli."
+msgstr "Imposta il tipo di carattere da usare per i sottotitoli."
 
 #. Description of setting with label #289 "Size"
 msgctxt "#36186"
@@ -15959,7 +16152,7 @@ msgstr "Tempo fra le importazioni dati della guida dai backend."
 
 msgctxt "#36222"
 msgid "Don't import the guide data while playing TV to minimise CPU usage."
-msgstr "Non importare dati della guida durante la riproduzione TV per ridurre al minimo l'utilizzo della CPU."
+msgstr "Non importare dati della guida durante la riproduzione TV per ridurre al minimo l'uso della CPU."
 
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
@@ -15985,7 +16178,7 @@ msgstr "Passa alla visualizzazione a schermo intero quando si avvia la riproduzi
 #. Description of setting with label #745 "Background Colour"
 msgctxt "#36228"
 msgid "Set the colour to be used for the subtitle background."
-msgstr "Imposta il colore da utilizzare per lo sfondo dei sottotitoli."
+msgstr "Imposta il colore da usare per lo sfondo dei sottotitoli."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
@@ -15993,12 +16186,12 @@ msgstr "Visualizza le informazioni sulla qualità del segnale nella finestra del
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
+msgid "Set the subtitle background opacity."
 msgstr "Imposta l'opacità dello sfondo dei sottotitoli."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
-msgstr "Quando si sfogliano i canali utilizzando i pulsanti canale su/giù, i cambi di canale devono essere confermati utilizzando il pulsante OK."
+msgstr "Quando si sfogliano i canali usando i pulsanti canale su/giù, i cambi di canale devono essere confermati usando il pulsante OK."
 
 msgctxt "#36232"
 msgid "When pressing channel up or down, the actual channel switch is delayed, allowing the user to flip to a channel number without waiting for each channel switch."
@@ -16125,7 +16318,7 @@ msgstr "Nessuna informazione disponibile."
 #. Description of setting with label #19108 "Refreshrate"
 msgctxt "#36261"
 msgid "If enabled, this framerate is used for streams we were not able to detect fps."
-msgstr "Se abilitato, viene utilizzata questa frequenza dei fotogrammi per le tracce delle quali non è stato possibile rilevare i fps."
+msgstr "Se abilitato, viene usata questa frequenza dei fotogrammi per le tracce delle quali non è stato possibile rilevare i fps."
 
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
@@ -16160,7 +16353,7 @@ msgstr "Leggi le informazioni ReplayGain codificate nei tuoi file audio da un pr
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
 msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Volume di riferimento (livello PreAmp) da utilizzare per i file con informazioni ReplayGain codificate. L'impostazione predefinita è 89 dB come da standard. Cambia con cautela."
+msgstr "Volume di riferimento (livello PreAmp) da usare per i file con informazioni ReplayGain codificate. L'impostazione predefinita è 89 dB come da standard. Cambia con cautela."
 
 #. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
 msgctxt "#36269"
@@ -16255,7 +16448,7 @@ msgstr "Controlla come la musica salvata viene rinominata dai tag. Tag: [B]%N[/B
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
 msgid "Select which audio encoder to use when ripping."
-msgstr "Seleziona quale codificatore audio utilizzare durante l'estrazione."
+msgstr "Seleziona quale codificatore audio usare durante l'estrazione."
 
 #. Description of setting with label #622 "Quality"
 msgctxt "#36288"
@@ -16265,7 +16458,7 @@ msgstr "Seleziona con quale qualità vuoi salvare i tuoi file."
 #. Description of setting with label #623 "Bitrate"
 msgctxt "#36289"
 msgid "Select which bitrate to use for the specified audio encoder for audio compression."
-msgstr "Seleziona quale bitrate utilizzare per il codificatore audio specificato per la compressione audio."
+msgstr "Seleziona quale bitrate usare per il codificatore audio specificato per la compressione audio."
 
 #. Description of setting with label #665 "Compression level"
 msgctxt "#36290"
@@ -16294,8 +16487,8 @@ msgstr "Quando si ordinano gli elementi musicali per artista, usa il nome di ord
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Imposta opacità sottotitoli."
+msgid "Set the subtitle opacity."
+msgstr "Imposta l'opacità dei sottotitoli."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16343,7 +16536,7 @@ msgstr "Questa categoria contiene le impostazioni per la gestione degli elenchi 
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr "Se non vengono utilizzati i numeri di canale del backend, tutti i numeri di canale dei gruppi inizieranno con 1."
+msgstr "Se non vengono usati i numeri di canale del backend, tutti i numeri di canale dei gruppi inizieranno con 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -16413,12 +16606,12 @@ msgstr "Sezione contenente le impostazioni per la gestione dei servizi."
 #. Description of settings category with label #16000 "General"
 msgctxt "#36320"
 msgid "This category contains the settings used for all services."
-msgstr "Questa categoria contiene le impostazioni utilizzate per tutti i servizi."
+msgstr "Questa categoria contiene le impostazioni usate per tutti i servizi."
 
 #. Description of setting with label #1271 "Device name"
 msgctxt "#36321"
 msgid "The name to display for this device when using various network services."
-msgstr "Il nome da visualizzare per questo dispositivo quando si utilizzano vari servizi di rete."
+msgstr "Il nome da visualizzare per questo dispositivo quando si usano vari servizi di rete."
 
 #. Description of settings category with label #20187 "UPnP/DLNA"
 msgctxt "#36322"
@@ -16583,7 +16776,7 @@ msgstr "Cambia la frequenza di aggiornamento in cui viene visualizzata l'interfa
 #. Description of setting with label #14083 "Use fullscreen window"
 msgctxt "#36354"
 msgid "If enabled, fullscreen mode will be applied by using a window instead of a real fullscreen mode. The main benefit is for multi-screen configurations, so that other applications can be used in parallel more easily. This uses more resources so playback may be less smooth."
-msgstr "Se abilitata, la modalità schermo intero sarà applicata usando una finestra invece di una vera modalità schermo intero. Il beneficio principale è per configurazioni multi schermo, in modo che altre applicazioni possano essere usate contemporaneamente più facilmente. Questo utilizza più risorse per cui la riproduzione potrebbe essere meno fluida."
+msgstr "Se abilitata, la modalità schermo intero sarà applicata usando una finestra invece di una vera modalità schermo intero. Il beneficio principale è per configurazioni multi schermo, in modo che altre applicazioni possano essere usate contemporaneamente più facilmente. Questo usa più risorse per cui la riproduzione potrebbe essere meno fluida."
 
 #. Description of setting with label #13130 "Blank other displays"
 msgctxt "#36355"
@@ -16598,11 +16791,11 @@ msgstr "Questa categoria contiene le impostazioni per la gestione del client NFS
 #. Description of setting with label #214 "Video calibration..."
 msgctxt "#36357"
 msgid "Calibrate the user interface by adjusting the overscan. Use this tool if the image being displayed is too large or small for your display."
-msgstr "Calibra l'interfaccia utente regolando l'overscan. Utilizza questo strumento se l'immagine visualizzata è troppo grande o piccola per il tuo schermo."
+msgstr "Calibra l'interfaccia utente regolando l'overscan. Usa questo strumento se l'immagine visualizzata è troppo grande o piccola per il tuo schermo."
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr "Consenti l'utilizzo della numerazione dei canali da più backend. Tieni presente che il gruppo Tutti i canali potrà contenere multipli dello stesso numero canale se si usa questa opzione. Questo significa che il salto al numero canale potrebbe non funzionare correttamente per il gruppo Tutti i canali."
+msgstr "Consenti l'uso della numerazione dei canali da più backend. Tieni presente che il gruppo Tutti i canali potrà contenere multipli dello stesso numero canale se si usa questa opzione. Questo significa che il salto al numero canale potrebbe non funzionare correttamente per il gruppo Tutti i canali."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -16645,7 +16838,7 @@ msgstr "Seleziona questa opzione se il tuo ricevitore è in grado di decodificar
 
 msgctxt "#36367"
 msgid "Select the maximum number of audio channels / speakers available for decoded audio. If optical / coax digital outputs are used, this must be set to 2.0"
-msgstr "Seleziona il numero massimo di canali audio/altoparlanti disponibili per l'audio decodificato. Se vengono utilizzate uscite digitali ottiche/coassiali, questa deve essere impostata su 2.0"
+msgstr "Seleziona il numero massimo di canali audio/altoparlanti disponibili per l'audio decodificato. Se vengono usate uscite digitali ottiche/coassiali, questa deve essere impostata su 2.0"
 
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
@@ -16665,7 +16858,7 @@ msgstr "Seleziona questa opzione se il tuo ricevitore è in grado di decodificar
 #. Description of setting with label #545 "Audio output device"
 msgctxt "#36371"
 msgid "Select the device to be used for playback of audio that has been decoded such as mp3."
-msgstr "Seleziona il dispositivo da utilizzare per la riproduzione di audio che è stato decodificato come mp3."
+msgstr "Seleziona il dispositivo da usare per la riproduzione di audio che è stato decodificato come mp3."
 
 #. Description of setting with label #546 "Passthrough output device"
 msgctxt "#36372"
@@ -16715,7 +16908,7 @@ msgstr "Se la tua connessione Internet usa un server proxy, configuralo qui."
 #. Description of setting with label #1180 "Proxy type"
 msgctxt "#36381"
 msgid "Configure which proxy type is used."
-msgstr "Configura il tipo di proxy utilizzato."
+msgstr "Configura il tipo di proxy usato."
 
 #. Description of setting with label #706 "Server"
 msgctxt "#36382"
@@ -16740,7 +16933,7 @@ msgstr "Configura la password del server proxy."
 #. Description of setting with label #14041 "Internet connection bandwidth limitation"
 msgctxt "#36386"
 msgid "If your Internet connection has limited bandwidth available, use this setting to keep bandwidth usage by this application within defined limits."
-msgstr "Se la tua connessione Internet ha una larghezza di banda disponibile limitata, usa questa impostazione per mantenere l'utilizzo della larghezza di banda da parte di questa applicazione entro i limiti definiti."
+msgstr "Se la tua connessione Internet ha una larghezza di banda disponibile limitata, usa questa impostazione per mantenere l'uso della larghezza di banda da parte di questa applicazione entro i limiti definiti."
 
 #. Description of settings category with label #14095 "Power saving"
 msgctxt "#36387"
@@ -16790,7 +16983,7 @@ msgstr "Questa categoria contiene le impostazioni per la gestione della funzione
 #. Description of setting with label #20100 "Master lock code and settings"
 msgctxt "#36396"
 msgid "Here you can enable or disable master lock and define the PIN code used to unlock it. You can also specify which areas of the application would need a PIN to access them."
-msgstr "Qui puoi abilitare o disabilitare il blocco master e definire il codice PIN utilizzato per sbloccarlo. È inoltre possibile specificare quali aree dell'applicazione necessitano di un PIN per accedervi."
+msgstr "Qui puoi abilitare o disabilitare il blocco master e definire il codice PIN usato per sbloccarlo. È inoltre possibile specificare quali aree dell'applicazione necessitano di un PIN per accedervi."
 
 #. Description of setting with label #20076 "Ask for master lock code on startup"
 msgctxt "#36397"
@@ -16899,7 +17092,7 @@ msgstr "Specificare il ritardo tra le sequenze di pulsanti su un telecomando uni
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
-msgstr "Definisci le posizioni utilizzate per recuperare le informazioni meteo."
+msgstr "Definisci le posizioni usate per recuperare le informazioni meteo."
 
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
@@ -17006,17 +17199,17 @@ msgstr "Imposta il numero di passi per il controllo volume."
 #. Description of setting with label #14126 "Whitelist"
 msgctxt "#36443"
 msgid "Whitelisted modes give the user the control to choose which display modes are allowed or not allowed to be used"
-msgstr "Le modalità autorizzate danno all'utente il controllo per scegliere quali modalità di visualizzazione possono o non possono essere utilizzate"
+msgstr "Le modalità autorizzate danno all'utente il controllo per scegliere quali modalità di visualizzazione possono o non possono essere usate"
 
 #. Description of setting with label #14127 "Whitelist"
 msgctxt "#36444"
 msgid "Select this option to allow using 3:2 pulldown refresh rates (playing 23.976 FPS video on a 59.94 Hz monitor or playing 24 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 23.976 Hz or 24 Hz mode."
-msgstr "Seleziona questa opzione per consentire l'utilizzo di frequenze di aggiornamento in pulldown 3:2 (riproduzione di un video a 23,976 FPS su un monitor a 59,94 Hz o riproduzione di video a 24 FPS su un monitor a 60 Hz). Potresti voler utilizzare questa opzione se il monitor non supporta una modalità a 23.976 Hz o 24 Hz."
+msgstr "Seleziona questa opzione per consentire l'uso di frequenze di aggiornamento in pulldown 3:2 (riproduzione di un video a 23,976 FPS su un monitor a 59,94 Hz o riproduzione di video a 24 FPS su un monitor a 60 Hz). Potresti voler usare questa opzione se il monitor non supporta una modalità a 23.976 Hz o 24 Hz."
 
 #. Description of setting with label #14128 "Whitelist"
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
-msgstr "Seleziona questa opzione per consentire l'utilizzo di frequenze di aggiornamento raddoppiate (riproduzione di video a 29,97 FPS su un monitor a 59,94 Hz o riproduzione di video a 30 FPS su un monitor a 60 Hz). Potresti voler utilizzare questa opzione se il monitor non supporta una modalità a 29,97 Hz o 30 Hz."
+msgstr "Seleziona questa opzione per consentire l'uso di frequenze di aggiornamento raddoppiate (riproduzione di video a 29,97 FPS su un monitor a 59,94 Hz o riproduzione di video a 30 FPS su un monitor a 60 Hz). Potresti voler usare questa opzione se il monitor non supporta una modalità a 29,97 Hz o 30 Hz."
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -17225,7 +17418,7 @@ msgstr "Definisce l'intensità dell'effetto 3D stereoscopico nella GUI. Questo v
 #. Description of setting "System -> Video output -> NoOfBuffers" with label #36043
 msgctxt "#36552"
 msgid "Defines the number of presentation buffers used by the graphics driver. Select 2 if the driver uses double buffering or 3 for triple buffering."
-msgstr "Definisce il numero di buffer di presentazione usati dal driver grafico. Seleziona 2 se il driver utilizza il doppio buffering o 3 per il triplo buffering."
+msgstr "Definisce il numero di buffer di presentazione usati dal driver grafico. Seleziona 2 se il driver usa il doppio buffering o 3 per il triplo buffering."
 
 #. label of a setting, allowing to specify tonemap method
 msgctxt "#36553"
@@ -17282,7 +17475,7 @@ msgstr "LUT 3D"
 #. Description of setting "System -> Video output -> 3D LUT" with label #36564
 msgctxt "#36565"
 msgid "Select the 3DLUT file to be used by default. If you place multiple 3DLUT files in the same directory, then you can switch between them in the OSD menu during video playback. This allows for multiple display profiles to account for different viewing environments and source materials, for example gamma 2.2 for daytime viewing and 2.4 for nighttime."
-msgstr "Seleziona il file 3DLUT da utilizzare per impostazione predefinita. Se metti diversi file 3DLUT nella stessa cartella, allora potrai scorrere fra loro nel menu OSD durante la riproduzione video. Questo permette per profili con più schermi di creare diversi ambienti di visione e sorgenti, ad esempio gamma 2.2 per la riproduzione diurna e 2.4 per quella notturna."
+msgstr "Seleziona il file 3DLUT da usare per impostazione predefinita. Se metti diversi file 3DLUT nella stessa cartella, allora potrai scorrere fra loro nel menu OSD durante la riproduzione video. Questo permette per profili con più schermi di creare diversi ambienti di visione e sorgenti, ad esempio gamma 2.2 per la riproduzione diurna e 2.4 per quella notturna."
 
 msgctxt "#36566"
 msgid "ICC display profile"
@@ -17341,7 +17534,7 @@ msgstr "Specifica la risoluzione per la tabella di ricerca 3D. Usa una risoluzio
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr "Migliora la qualità video usando superfici video a 10-bit per i video Standard Dynamic Range (SDR).[CR][Rileva automaticamente] Abilita i 10 bit per SDR solo se lo schermo connesso supporta l'HDR.[CR][Sempre] Abilita i 10 bit per SDR anche se lo schermo connesso non supporta l'HDR.[CR][Mai] Non utilizza i 10 bit per SDR.[CR]La modalità con passaggio senza conversione HDR utilizza sempre i 10-bit indipendentemente da questa impostazione."
+msgstr "Migliora la qualità video usando superfici video a 10-bit per i video Standard Dynamic Range (SDR).[CR][Rileva automaticamente] Abilita i 10 bit per SDR solo se lo schermo connesso supporta l'HDR.[CR][Sempre] Abilita i 10 bit per SDR anche se lo schermo connesso non supporta l'HDR.[CR][Mai] Non usa i 10 bit per SDR.[CR]La modalità con passaggio senza conversione HDR usa sempre i 10-bit indipendentemente da questa impostazione."
 
 #. primaries labels
 msgctxt "#36579"
@@ -17532,7 +17725,7 @@ msgstr "Ridimensionamento ad alta qualità"
 #. Description of setting "Pictures -> Slideshow -> High Quality Downscaling" with label #36619
 msgctxt "#36620"
 msgid "Enable high quality downscaling of pictures (uses more memory and has moderate performance impact)."
-msgstr "Abilita il ridimensionamento delle immagini ad alta qualità (utilizza più memoria e ha un impatto moderato sulle prestazioni)."
+msgstr "Abilita il ridimensionamento delle immagini ad alta qualità (usa più memoria e ha un impatto moderato sulle prestazioni)."
 
 #. Label of a setting, allow the maximum smbclient protocol to be configured
 msgctxt "#36621"
@@ -17853,12 +18046,12 @@ msgstr "Se abilitato, le tracce audio che sono indicate come predefinite (e corr
 #. Description of setting Skip steps
 msgctxt "#37042"
 msgid "Defines which step sizes to use when pressing the skip buttons. If more steps are selected for a skip direction, these can be applied by subsequent presses on the skip button within the defined skip delay. Forward (positive) and backward (negative) steps can be defined independently."
-msgstr "Definisci le dimensioni del passo da utilizzare quando si premono i pulsanti di salto. Se vengono selezionati più passi per la stessa direzione di salto, questi possono essere applicati premendo successivamente il pulsante Salta entro il ritardo di salto definito. I passi avanti (positivo) e indietro (negativo) possono essere definiti indipendentemente."
+msgstr "Definisci le dimensioni del passo da usare quando si premono i pulsanti di salto. Se vengono selezionati più passi per la stessa direzione di salto, questi possono essere applicati premendo successivamente il pulsante Salta entro il ritardo di salto definito. I passi avanti (positivo) e indietro (negativo) possono essere definiti indipendentemente."
 
 #. Description of setting Skip delay
 msgctxt "#37043"
 msgid "Defines the time to wait for subsequent key presses before performing the skip. Only applies when using smart skipping (when using more than one skip step for a direction)."
-msgstr "Definisci il tempo di attesa per le successive pressioni dei tasti prima di eseguire l'avanzamento. Si applica solo quando si utilizza l'avanzamento intelligente (quando si utilizza più di un passo per saltare verso una direzione)."
+msgstr "Definisci il tempo di attesa per le successive pressioni dei tasti prima di eseguire l'avanzamento. Si applica solo quando si usa l'avanzamento intelligente (quando si usa più di un passo per saltare verso una direzione)."
 
 #. Setting #37044 Extract chapter thumbnails
 msgctxt "#37044"
@@ -17886,7 +18079,7 @@ msgstr "Abilita servizio WS-Discovery"
 #. Description of setting #37048 Enable WS-Discovery Service"
 msgctxt "#37049"
 msgid "Enable service to search for SMB services using the WS-Discovery protocol"
-msgstr "Abilita il servizio per cercare i servizi SMB utilizzando il protocollo WS-Discovery"
+msgstr "Abilita il servizio per cercare i servizi SMB usando il protocollo WS-Discovery"
 
 #. Label for component level debug logging setting
 msgctxt "#37050"
@@ -17901,7 +18094,7 @@ msgstr "Versione protocollo NFS"
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr "Versione del protocollo NFS da utilizzare quando si stabiliscono connessioni NFS"
+msgstr "Versione del protocollo NFS da usare quando si stabiliscono connessioni NFS"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
@@ -17967,12 +18160,12 @@ msgstr "Fattore di lettura"
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr "Determina il tasso di riempimento della cache in termini di valore medio bitrate del flusso x fattore di lettura. Aumentando questo multiplo, la cache si riempirà più velocemente. Multipli di grandi dimensioni possono causare picchi di CPU su alcuni dispositivi, saturare la connessione e peggiorare le prestazioni.[CR][Adattivo] Utilizza il fattore di lettura calcolato dinamicamente in base al livello della cache."
+msgstr "Determina il tasso di riempimento della cache in termini di valore medio bitrate del flusso x fattore di lettura. Aumentando questo multiplo, la cache si riempirà più velocemente. Multipli di grandi dimensioni possono causare picchi di CPU su alcuni dispositivi, saturare la connessione e peggiorare le prestazioni.[CR][Adattivo] Usa il fattore di lettura calcolato dinamicamente in base al livello della cache."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr "La dimensione del blocco di dati da utilizzare quando un file system o un protocollo non impone il valore, ad esempio NFS sovrascriverà questo valore con il proprio."
+msgstr "La dimensione del blocco di dati da usare quando un file system o un protocollo non impone il valore, ad esempio NFS sovrascriverà questo valore con il proprio."
 
 #. Value of setting - NONE
 msgctxt "#37110"
@@ -18029,6 +18222,37 @@ msgstr "{0:d} MB"
 msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} secondo"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} secondi"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Tempo coda audio/video"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Durata in secondi delle code audio/video. La durata determina la quantità di dati archiviati in memoria."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Dimensione massima coda video"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Limita l'utilizzo massimo della memoria per la coda video. La quantità di memoria usata dipende dal bitrate del video e dalla lunghezza della coda. Se viene raggiunto il limite di memoria, il tempo della coda verrà ridotto secondo necessità."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18350,6 +18574,11 @@ msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Vai automaticamente alla finestra di visualizzazione quando inizia la riproduzione audio"
 
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Questa categoria contiene le impostazioni avanzate per la riproduzione video"
+
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
 msgstr "Estrai miniature dai file video"
@@ -18362,7 +18591,7 @@ msgstr "Mostra informazioni EXIF delle immagini"
 #. Help text of setting "Pictures -> Show EXIF picture information" with label #38208
 msgctxt "#38208"
 msgid "If EXIF information exists (date, time, camera used, etc.), it will be displayed."
-msgstr "Se esistono informazioni EXIF (data, ora, fotocamera utilizzata, ecc.), verranno visualizzate."
+msgstr "Se esistono informazioni EXIF (data, ora, fotocamera usata, ecc.), verranno visualizzate."
 
 #. Contextmenu entry to remove the resume point of the currently selected item
 msgctxt "#38209"
@@ -18846,7 +19075,7 @@ msgstr "Miniatura file immagini"
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr "I nomi dei file che contengono l'artwork principale (miniature), generalmente quadrati e utilizzati sia a grandezza intera che ridotta per identificare visivamente una cartella, un artista, un album o un brano"
+msgstr "I nomi dei file che contengono l'artwork principale (miniature), generalmente quadrati e usati sia a grandezza intera che ridotta per identificare visivamente una cartella, un artista, un album o un brano"
 
 msgctxt "#39137"
 msgid "Artwork level"
@@ -19124,7 +19353,7 @@ msgstr "Se viene riprodotta musica, il salvaschermo non verrà mai attivato"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Abilita l'upscaler DXVA avanzato utilizzando NVIDIA \"RTX Video Super Risoluzione\" o \"Intel Video Super Risoluzione\".[CR]Utilizzato quando la sorgente video è 1920x1080 o inferiore e la risoluzione della sorgente è inferiore alla risoluzione dello schermo.[CR]Disponibile solo su hardware specifico: NVIDIA RTX 20xx, 30xx, 40xx e versioni successive, Intel Arc A770, A750."
+msgstr "Abilita l'upscaler DXVA avanzato usando NVIDIA \"RTX Video Super Risoluzione\" o \"Intel Video Super Risoluzione\".[CR]Usato quando la sorgente video è 1920x1080 o inferiore e la risoluzione della sorgente è inferiore alla risoluzione dello schermo.[CR]Disponibile solo su hardware specifico: NVIDIA RTX 20xx, 30xx, 40xx e versioni successive, Intel Arc A770, A750."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19160,6 +19389,16 @@ msgstr "Dolby Vision"
 msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
+
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19577,6 +19816,90 @@ msgstr "Edizione del 40° anniversario"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "Edizione del 50° anniversario"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Sottotitolo"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} non può essere riprodotto. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Questa registrazione non può essere riprodotta. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Per favore controlla la tua configurazione. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "Nessun client PVR è stato ancora avviato. Attendi l'avvio dei client PVR. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Impossibile salvare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Impossibile eliminare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "Errore backend PVR. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Impossibile avviare la registrazione. Controlla il file di registro per maggiori informazioni su questo messaggio."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Impossibile interrompere la registrazione. Controlla il file di registro per maggiori informazioni su questo messaggio."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Impossibile avviare la scansione canali. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Impossibile aggiornare il timer. Controlla il registro per ulteriori informazioni su questo messaggio."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Firmware"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Imposta l'opacità dello sfondo dei sottotitoli."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Imposta opacità sottotitoli."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "Formato intermedio upscaler HQ"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "Imposta la precisione del buffer di ridimensionamento intermedio usato nel percorso di rendering della GPU. La precisione a 16 bit probabilmente richiede maggiori prestazioni. Se l'hardware non è in grado di supportare il formato selezionato, Kodi tornerà al formato migliore successivo."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "8 bit per canale"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "10 bit per canale"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "16 bit per canale"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Quando la variazione di velocità supera questa soglia, verrà applicato un filtro di correzione dell'intonazione. Questo evita le \"voci da chipmonk\" che normalmente derivano dall'accelerazione di un video"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"

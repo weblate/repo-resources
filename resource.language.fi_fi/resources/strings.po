@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-22 00:13+0000\n"
+"PO-Revision-Date: 2024-09-27 15:16+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "CD-levyn tietoja noudetaan"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "Virhe"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[käytössä]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "Tekstitys"
+msgid "Subtitle stream"
+msgstr ""
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "Metatiedoista"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "Aseta reunan koko."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "Aseta reunan väri."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "Aseta sumennus."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "Aseta varjon väri."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "Aseta varjon läpinäkyvyys."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "Aseta varjon koko."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Siivotaan kirjastoa"
@@ -3192,6 +3223,76 @@ msgstr "Portin on oltava väliltä 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Portin on oltava väliltä 1024-65535"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "Mikä tahansa kanava päätteeltä \"{0:s}\""
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "Mikä tahansa kanava miltä tahansa päätteeltä"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "Viimeksi lisätyt kanavat"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "Asiakas"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "Järjestelmä"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "Käyttäjä"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [Kaikki kanavat]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "Poista katselun päätyttyä"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "Määritä poistetaanko tallenne kun se on katseltu."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "Ei"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "Kysy"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "Kyllä"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "Haluatko poistaa tallenteen?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "Tallenne poistettiin: \"{0:s}\""
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -5148,11 +5249,11 @@ msgstr "Havaitse MAC-osoite"
 
 msgctxt "#13034"
 msgid "Updated for {0:s}"
-msgstr "Päivityksen kesto {0:s}"
+msgstr "Päivitetty: {0:s}"
 
 msgctxt "#13035"
 msgid "Found for {0:s}"
-msgstr "Löydetty laite {0:s}"
+msgstr "Löydetty: {0:s}"
 
 msgctxt "#13036"
 msgid "Failed for {0:s}"
@@ -5811,7 +5912,7 @@ msgstr "Ristihäivytä saman albumin kappaleet"
 
 msgctxt "#13401"
 msgid "Browse for {0:s}"
-msgstr "Valitse {0:s}"
+msgstr "Valitse: {0:s}"
 
 msgctxt "#13402"
 msgid "Show track position"
@@ -5904,6 +6005,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "Muista tälle sijainnille"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "Valitse toistolista"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "Salli laitteistokiihdytys - VDPAU"
@@ -5976,7 +6083,7 @@ msgstr "Käytä MPEG-2 VDPAU-kiihdystystä"
 #. Description of setting with label #13441 "Use MPEG-2 VDPAU"
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr "Käytä laitteistokiihdytystä MPEG-(1/2)-koodekeille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla. Vanhoilla Radeon-näytönohjaimilla on tapana esiintyä segfault-virheitä."
+msgstr "Käytä laitteistokiihdytystä MPEG-(1/2)-koodekeille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla. Vanhoilla Radeon-näytönohjaimilla on tapana esiintyä segfault-virheitä."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
@@ -5985,7 +6092,7 @@ msgstr "Käytä MPEG-4 VDPAU-kiihdystystä"
 #. Description of setting with label #13443 "Use MPEG-4 VDPAU"
 msgctxt "#13444"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead. Some ION hardware has problems with this being enabled by default."
-msgstr "Käytä laitteistokiihdytystä MPEG-4-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla. Joillakin ION-laitteilla esiintyy ongelmia tämän ollessa oletusarvoisesti käytössä."
+msgstr "Käytä laitteistokiihdytystä MPEG-4-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla. Joillakin ION-laitteilla esiintyy ongelmia tämän ollessa oletusarvoisesti käytössä."
 
 msgctxt "#13445"
 msgid "Use VC-1 VDPAU"
@@ -5998,48 +6105,48 @@ msgstr "Käytä laitteistokiihdytystä VC-1-pohjaisille koodekeille. Jos asetus 
 
 msgctxt "#13447"
 msgid "Use MPEG-2 VAAPI"
-msgstr "Käytä MPEG-2 VAAPI-kiihdytystä"
+msgstr "Käytä MPEG-2:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13447 "Use MPEG-2 VAAPI"
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr "Käytä laitteistokiihdytystä MPEG-(1/2)-koodekeille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla. Joissakin MPEG-2-videoissa saattaa esiintyä vihreää pikselöitymistä (artifakteja)."
+msgstr "Käytä laitteistokiihdytystä MPEG-(1/2)-koodekeille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla. Joissakin MPEG-2-videoissa saattaa esiintyä vihreää pikselöitymistä (artifakteja)."
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
-msgstr "Käytä MPEG-4 VAAPI-kiihdytystä"
+msgstr "Käytä MPEG-4:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13449 "Use MPEG-4 VAAPI"
 msgctxt "#13450"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead."
-msgstr "Käytä laitteistokiihdytystä MPEG-4-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla."
+msgstr "Käytä laitteistokiihdytystä MPEG-4-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
 
 msgctxt "#13451"
 msgid "Use VC-1 VAAPI"
-msgstr "Käytä VC-1 VAAPI-kiihdytystä"
+msgstr "Käytä VC-1:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13451 "Use VC-1 VAAPI"
 msgctxt "#13452"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. Especially VC-1 interlaced fails hard on Intel hardware."
-msgstr "Käytä laitteistokiihdytystä VC-1-pohjaisille koodekeille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla. Laitteistopurku ei toimi Intel-pohjaisilla laitteilla lomitettujen VC-1-videoiden kanssa."
+msgstr "Käytä laitteistokiihdytystä VC-1-pohjaisille koodekeille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla. Laitteistopurku ei toimi Intel-pohjaisilla laitteilla lomitettujen VC-1-videoiden kanssa."
 
 msgctxt "#13453"
 msgid "Use VP8 VAAPI"
-msgstr "Käytä VP8 VAAPI-kiihdytystä"
+msgstr "Käytä VP8:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13453 "Use VP8 VAAPI"
 msgctxt "#13454"
 msgid "Enable this option to use hardware acceleration for the VP8 codec. If disabled the CPU will be used instead."
-msgstr "Käytä laitteistokiihdytystä VP8-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla."
+msgstr "Käytä laitteistokiihdytystä VP8-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
 
 msgctxt "#13455"
 msgid "Use VP9 VAAPI"
-msgstr "Käytä VP9 VAAPI-kiihdytystä"
+msgstr "Käytä VP9:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13453 "Use VP9 VAAPI"
 msgctxt "#13456"
 msgid "Enable this option to use hardware acceleration for the VP9 codec. If disabled the CPU will be used instead."
-msgstr "Käytä laitteistopurkua VP9-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla."
+msgstr "Käytä laitteistopurkua VP9-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
 
 #. Option for video related setting #13454: sw filter
 msgctxt "#13457"
@@ -6048,12 +6155,12 @@ msgstr "Suosi VAAPI-kiihdytystä"
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
-msgstr "Käytä HEVC VAAPI-kiihdytystä"
+msgstr "Käytä HEVC:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13460 "Use HEVC VAAPI"
 msgctxt "#13461"
 msgid "Enable this option to use hardware acceleration for the HEVC codec. If disabled the CPU will be used instead."
-msgstr "Käytä laitteistopurkua HEVC-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla."
+msgstr "Käytä laitteistopurkua HEVC-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
 
 #. Option for setting the PRIME render method
 msgctxt "#13462"
@@ -6085,12 +6192,45 @@ msgstr "Rajaton/1080 (>30Hz)"
 
 msgctxt "#13468"
 msgid "Use AV1 VAAPI"
-msgstr "Käytä AV1 VAAPI-kiihdytystä"
+msgstr "Käytä AV1:lle VAAPI-kiihdytystä"
 
 #. Description of setting with label #13468 "Use AV1 VAAPI"
 msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
-msgstr "Käytä laitteistopurkua AV1-koodekille. Jos asetus ei ole käytössä, purku suoritetaan prosessorilla."
+msgstr "Käytä laitteistopurkua AV1-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
+
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "Käytä AVC:lle VAAPI-kiihdytystä"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "Käytä laitteistokiihdytystä AVC-koodekille. Asetuksen ollessa pois käytöstä, suoritetaan purku prosessorilla."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "Korkealaatuisen skaalaimen välimuoto"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "Määrittää GPU-renderöintipolussa käytettävän välitason skaalauspuskurin tarkkuuden. 16-bittinen tarkkuus vaatii todennäköisesti enemmän suorituskykyä. Jos laitteisto ei tue valittua muotoa, Kodi käyttää seuraavaksi parasta muotoa."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "8-bittiä/kanava"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "10-bittiä/kanava"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "16-bittiä/kanava"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6146,8 +6286,8 @@ msgid "Threshold for pitch correction"
 msgstr "Virekorjauksen kynnysarvo"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "Virekorjausta käytetään, kun videon nopeusmuutos ylittää asetetun kynnysarvon. Virekorjauksella vältetään videon nopeuttamisesta aiheutuvat ns. tikutaku-äänet."
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "Nopeusmuutoksen ylittäessä tämän raja-arvon, aktivoidaan virekorjaussuodatin, jolloin vältetään videon nopeutuksesta yleensä aiheutuva \"pikkuoravatehoste\"."
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6739,6 +6879,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "Salli kaksinkertaiset virkistystaajuudet"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "Lisäasetukset"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "Soittimen ääni-/videojonot"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "Soitin"
@@ -6958,6 +7107,19 @@ msgstr "Salli etäohjaus tämän järjestelmän sovelluksista"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "Salli etäohjaus muiden järjestelmien sovelluksista"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "Huollossa"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "Tyhjennä kuvavälimuisti"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "Poista välimuistista välittömästi käyttämättömät, eli sellaiset kuvat jotka eivät liity mediakirjaston kohteisiin tai joita ei ole hiljattain katseltu. Kodi tekee tämän ajoittain taustalla."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7305,7 +7467,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "Syötä arvo"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "Lisätietoja löytyy lokitiedoista."
@@ -7771,13 +7933,12 @@ msgstr "Tämä ohjelma on jo ajastettu"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} ei voida toistaa. Lisätietoja löytyy lokitiedoista."
+msgid "{0:s} can't be played."
+msgstr "Kanvaa {0:s} ei voida toistaa."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "Tallennetta ei voida toistaa. Lisätietoja löytyy lokitiedoista."
+msgid "This recording can't be played."
+msgstr "Tallennetta ei voida toistaa."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7814,12 +7975,12 @@ msgid "Recording"
 msgstr "Tallennus"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "Tarkista määritykset. Lisätietoja löytyy lokitiedoista."
+msgid "Please check your configuration."
+msgstr "Tarkista asetuksesi."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "PVR-päätteitä ei ole käynnistetty. Odota niiden käynnistymistä. Lisätietoja löytyy lokitiedoista."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "PVR-päätteitä ei ole vielä käynnistetty. Odota niiden käynnistymistä."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8095,7 +8256,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "Palveluntarjoaja"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "Vaihda toiselle kanavalle."
@@ -8132,18 +8292,18 @@ msgstr "Varmistava kuvanopeus"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "Ajastusta ei voitu tallentaa. Lisätietoja löytyy lokitiedoista."
+msgid "Could not save the timer."
+msgstr "Ajastusta ei voitu tallentaa."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "Ajastusta ei voitu poistaa. Lisätietoja löytyy lokitiedoista."
+msgid "Could not delete the timer."
+msgstr "Ajastusta ei voitu poistaa."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR-taustajärjestelmän virhe. Lisätietoja löytyy lokitiedoista."
+msgid "PVR backend error."
+msgstr "PVR-taustajärjestelmän virhe."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8392,8 +8552,8 @@ msgstr "Tallenteita"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "Tallennusta ei voitu aloittaa. Lisätietoja löytyy lokitiedoista."
+msgid "Could not start recording."
+msgstr "Tallennusta ei voitu aloittaa."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8582,8 @@ msgstr "Piilota videotietojen laatikko"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "Tallennusta ei voitu pysäyttää. Lisätietoja löytyy lokitiedoista."
+msgid "Could not stop recording."
+msgstr "Tallennusta ei voitu lopettaa."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8538,8 +8698,8 @@ msgstr "Mikään yhdistetyistä PVR-taustajärjestelmistä ei tue kanavahakua."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "Kanavahakua ei voida aloittaa. Lisätietoja löytyy lokitiedoista."
+msgid "The channel scan can't be started."
+msgstr "Kanavahakua ei voida aloittaa."
 
 #. unused?
 msgctxt "#19194"
@@ -8554,7 +8714,7 @@ msgstr "Viivästytä viimeisen katseluajankohdan tallennusta"
 #. value for "pvr client specific actions" dialog headers
 msgctxt "#19196"
 msgid "PVR client specific actions"
-msgstr "PVR-päätekohtaiset toiminnot"
+msgstr "PVR-päätteeseen liittyvät toiminnot"
 
 #. text for "recording started on <pvr client name>" pvr client addon callback notification
 msgctxt "#19197"
@@ -8877,8 +9037,8 @@ msgstr "Lapsilukko. Syötä PIN-koodi:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "Ajastusta ei voitu päivittää. Lisätietoja löytyy lokitiedoista."
+msgid "Could not update the timer."
+msgstr "Ajastinta ei voitu muuttaa."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8979,7 +9139,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "Ei kuvaketta"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "Valitse kuvake"
@@ -8994,7 +9154,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "Kanavakuvakkeita etsitään"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "Kaikki kanavat"
@@ -9229,7 +9389,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "Kanavaksi vaihdettiin \"{1:s}\" klo {2:s} alkavan tallennuksen automaattisesti suljetun muistutuksen perusteella"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "Palveluntarjoajat"
@@ -9287,19 +9447,19 @@ msgstr "Haluatko asettaa muistutuksen valitusta ohjelmasta vai vaihtaa nykyiseen
 #. settings label to open add-ons manager window with available PVR client add-ons
 msgctxt "#19345"
 msgid "PVR client add-ons"
-msgstr "PVR-päätelisäosat"
+msgstr "PVR:n päätelisäosat"
 
 #. help text for setting to open add-ons manager window with available PVR client add-ons
 msgctxt "#19346"
 msgid "Display and manage available PVR client add-ons."
-msgstr "Näytä ja hallitse käytettävissä olevia PVR-päätelisäosia."
+msgstr "Näytä ja hallitse käytettävissä olevia PVR:n päätelisäosia."
 
 #. info message box text stating that none of the available pvr clients does provide client-specific settings
 msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "Mikään aktiivinen PVR-pääte ei tarjoa päätekohtaisia asetuksia."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "Tarjoaja"
@@ -9333,6 +9493,16 @@ msgstr "Toista ohjelmat tästä"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "Toista vain tämä ohjelma"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "Kaksoiskappale"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "Haun \"{0:s}\" kopio"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9789,10 +9959,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "Vahvista sammutus"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "Kanavaopas"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "Toista tallenne"
@@ -12030,10 +12202,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF-kommentti"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "Laiteohjelmisto"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "Aukko"
@@ -14234,6 +14402,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "Estää joitakin vahvistimia sammumasta/siirtymästä valmiustilaan lähettämällä kuuloalueen ulkopuolista kohinasignaalia. Asetus on tarpeeton, kun käytetään esim. kuulokkeita tai analogista ääniulostuloa."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "Sisällytä LFE alasmiksaukseen"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "Tämän asetuksen ollessa käytössä sisällytetään LFE-kanava miksaukseen, kun erillistä LFE-lähtökanavaa ei ole käytettävissä. Tämä voi olla hyödyllistä vain käytettäessä täyden taajuusalueen kaiuttimia."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "Ei käytössä"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50 %"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100 %"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "Toista käyttöliittymän äänet"
@@ -15910,7 +16103,7 @@ msgstr "Tyhjennä tietokantojen PVR-tiedot, kuten kanavat, ryhmät, muistutukset
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
-msgstr "Avaa päätepainotuksen valinnan, josta voit muokata käytössä olevien PVR-päätteiden painotusta omia mieltymystesi mukaisesti, käyttääksesi esimerkiksi päätekohtaisia kanavajärjestyksiä. Korkeampi arvo tarkoittaa korkeampaa painotusta."
+msgstr "Avaa PVR-päätteiden painotusvalinnat, joilla voit muokata aktiivisten PVR-päätteiden ensisijaisuutta käyttöösi sopivaksi, esimerkiksi muokataksesi kanavajärjestyksiä päätekohtaisesti. Korkeampi arvo tarkoittaa korkeampaa painotusta."
 
 msgctxt "#36211"
 msgid "This category contains the settings for PVR channels and channel groups."
@@ -15993,8 +16186,8 @@ msgstr "Näytä signaalin laatu- ja voimakkuustiedot koodekkitietojen yhteydess�
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "Määritä tekstitysten taustan läpinäkyvyys."
+msgid "Set the subtitle background opacity."
+msgstr "Aseta tekstityksen taustan läpinäkyvyys."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16294,8 +16487,8 @@ msgstr "Käytä esittäjän nimen sijaan lajittelunimeä lajiteltaessa esittäj�
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
-msgstr "Määritä tekstitysten tekstin läpinäkyvyys."
+msgid "Set the subtitle opacity."
+msgstr "Aseta tekstityksen läpinäkyvyys."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -18030,6 +18223,37 @@ msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} Gt"
 
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} sekunti"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} sekuntia"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "Ääni-/videojonon kesto"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "Ääni-/videojonojen kestot sekunteina. Kesto määrittää muistissa säilytettävän tiedon määrän."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "Videojonon enimmäiskoko"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "Rajoittaa videojonolle käytettävää muistin enimmäismäärää. Varattavan muistin määrä riippuu videon bittinopeudesta ja jonon pituudesta. Kun rajoitus saavutetaan, jonon pituutta lyhennetään tarpeen mukaan."
+
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
@@ -18349,6 +18573,11 @@ msgstr "Tämä kategoria sisältää muita käyttöliittymän ja ulkoasun asetuk
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "Avaa visualisoinnin automaattisesti äänitoiston alkaessa"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "Tämä kategoria sisältää videotoiston lisäasetukset."
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19161,6 +19390,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr ""
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19577,6 +19816,90 @@ msgstr "40-vuotis juhlajulkaisu"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "50-vuotis juhlajulkaisu"
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "Tekstitys"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} ei voida toistaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "Tallennetta ei voida toistaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "Tarkista määritykset. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "PVR-päätteitä ei ole käynnistetty. Odota niiden käynnistymistä. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "Ajastusta ei voitu tallentaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "Ajastusta ei voitu poistaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR-taustajärjestelmän virhe. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "Tallennusta ei voitu aloittaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "Tallennusta ei voitu pysäyttää. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "Kanavahakua ei voida aloittaa. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "Ajastusta ei voitu päivittää. Lisätietoja löytyy lokitiedoista."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "Laiteohjelmisto"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "Määritä tekstitysten taustan läpinäkyvyys."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "Määritä tekstitysten tekstin läpinäkyvyys."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "Korkean laadun ylösskaalaimen välimuoto"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "Määrittää näytönohjaimen renderöintipolussa käytettävän väliskaalauspuskurin tarkkuuden. 16-bittinen tarkkuus vaatii todennäköisesti enemmän suorituskykyä. Jos laitteisto ei tue valittua muotoa, käytetään lähintä parasta muotoa."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "8-bittiä per kanava"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "10-bittiä per kanava"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "16-bittiä per kanava"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "Virekorjausta käytetään, kun videon nopeusmuutos ylittää asetetun kynnysarvon. Virekorjauksella vältetään videon nopeuttamisesta aiheutuvat ns. tikutaku-äänet."
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"
