@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-28 14:13+0000\n"
+"PO-Revision-Date: 2024-11-07 12:14+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.8.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -959,6 +959,7 @@ msgctxt "#256"
 msgid "Fetching CD information"
 msgstr "CD 정보 가져오기"
 
+#. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
 msgid "Error"
 msgstr "오류"
@@ -1817,8 +1818,8 @@ msgid "[active]"
 msgstr "[활성화]"
 
 msgctxt "#462"
-msgid "Subtitle"
-msgstr "자막"
+msgid "Subtitle stream"
+msgstr "자막 스트림"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2639,6 +2640,36 @@ msgctxt "#687"
 msgid "From metadata"
 msgstr "메타데이터로부터"
 
+#. Description of setting with label #39159 "Border size"
+msgctxt "#688"
+msgid "Set the border size."
+msgstr "테두리 크기를 설정합니다."
+
+#. Description of setting with label #39160 "Border colour"
+msgctxt "#689"
+msgid "Set the border colour."
+msgstr "테두리 색상을 설정합니다."
+
+#. Description of setting with label #39173 "Blur"
+msgctxt "#690"
+msgid "Set the blur."
+msgstr "흐림을 설정합니다."
+
+#. Description of setting with label #39171 "Shadow colour"
+msgctxt "#691"
+msgid "Set the shadow colour."
+msgstr "그림자 색상을 설정합니다."
+
+#. Description of setting with label #39172 "Shadow opacity"
+msgctxt "#692"
+msgid "Set the shadow opacity."
+msgstr "그림자 불투명도를 설정합니다."
+
+#. Description of setting with label #39170 "Shadow size"
+msgctxt "#693"
+msgid "Set the shadow size."
+msgstr "그림자 크기를 설정합니다."
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "라이브러리 정리"
@@ -3192,6 +3223,76 @@ msgstr "유효한 포트 범위는 1-65535 입니다"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "유효한 포트 범위는 1024-65535 입니다"
+
+#. Label for denoting any channel for a certain client in timer settings dialog
+msgctxt "#853"
+msgid "Any channel from client \"{0:s}\""
+msgstr "클라이언트 \"{0:s}\"의 모든 채널"
+
+#. Label for denoting any channel from any available client in timer settings dialog
+msgctxt "#854"
+msgid "Any channel from any client"
+msgstr "모든 클라이언트의 모든 채널"
+
+#. Label for Estuary 'Recently added channels' 'home screen widget
+msgctxt "#855"
+msgid "Recently added channels"
+msgstr "최근 추가된 채널"
+
+#. Label for the origin of a channel group (provided by a PVR client add-on).
+msgctxt "#856"
+msgid "Client"
+msgstr "클라이언트"
+
+#. Label for the origin of a channel group (automatically created by Kodi).
+msgctxt "#857"
+msgid "System"
+msgstr "시스템"
+
+#. Label for the origin of a channel group (manually created by the user).
+msgctxt "#858"
+msgid "User"
+msgstr "사용자"
+
+#. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
+msgctxt "#859"
+msgid "{0:s} [All channels]"
+msgstr "{0:s} [모든 채널]"
+
+#. Label for setting 'Delete after watching' and delete confirmation dialog box.
+msgctxt "#860"
+msgid "Delete after watching"
+msgstr "시청 후 삭제"
+
+#. Help text for setting 'Delete after watching'.
+msgctxt "#861"
+msgid "Configure whether recordings should be deleted after watching."
+msgstr "시청 후 녹화를 삭제할지 설정합니다."
+
+#. Value for setting 'Delete after watching'. Keep after watching.
+msgctxt "#862"
+msgid "No"
+msgstr "아니요"
+
+#. Value for setting 'Delete after watching'. Confirm delete.
+msgctxt "#863"
+msgid "Ask"
+msgstr "묻기"
+
+#. Value for setting 'Delete after watching'. Delete after watching.
+msgctxt "#864"
+msgid "Yes"
+msgstr "예"
+
+#. Text for delete after watch confirmation dialog box.
+msgctxt "#865"
+msgid "Do you want to delete this recording?"
+msgstr "이 녹화를 삭제할까요?"
+
+#. Text for auto delete after watch toast message.
+msgctxt "#866"
+msgid "Recording deleted: '{0:s}'"
+msgstr "녹화가 삭제되었습니다: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -5904,6 +6005,12 @@ msgctxt "#13423"
 msgid "Remember for this path"
 msgstr "이 경로 기억"
 
+#. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
+#. Giving the user a chance to select a new one via the simple menu dialog
+msgctxt "#13424"
+msgid "Choose playlist"
+msgstr "연주목록 선택"
+
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
 msgstr "하드웨어 가속 허용 - VDPAU"
@@ -6092,6 +6199,39 @@ msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
 msgstr "이 옵션은 AV1 코덱을 위한 하드웨어 가속을 사용합니다. 사용하지 않으면 CPU가 대신 쓰입니다."
 
+msgctxt "#13470"
+msgid "Use AVC VAAPI"
+msgstr "AVC VAAPI 사용"
+
+#. Description of setting with label #13470 "Use AVC VAAPI"
+msgctxt "#13471"
+msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
+msgstr "AVC 코덱에 하드웨어 가속을 사용하려면 이 옵션을 사용합니다. 사용하지 않으면 CPU가 대신 사용됩니다."
+
+msgctxt "#13472"
+msgid "HQ upscaler intermediate format"
+msgstr "HQ 업스케일러 중간 형식"
+
+#. Description of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13473"
+msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+msgstr "GPU 렌더링 경로에 사용되는 중간 스케일링 버퍼의 정밀도를 설정합니다. 16비트 정밀도에는 더 많은 성능이 필요할 수 있습니다. 하드웨어가 선택한 형식을 지원할 수 없는 경우 Kodi는 다음으로 가장 적합한 형식으로 대체합니다."
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13474"
+msgid "8 bit per channel"
+msgstr "채널당 8비트"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13475"
+msgid "10 bit per channel"
+msgstr "채널당 10비트"
+
+#. Value of setting with label #13472 "HQ upscaler intermediate format"
+msgctxt "#13476"
+msgid "16 bit per channel"
+msgstr "채널당 16비트"
+
 msgctxt "#13505"
 msgid "Resample quality"
 msgstr "리샘플 품질"
@@ -6146,8 +6286,8 @@ msgid "Threshold for pitch correction"
 msgstr "피치 보정 임계값"
 
 msgctxt "#13518"
-msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
-msgstr "속도 변화가 이 임계값을 초과하면 피치 보정 필터가 적용됩니다. 이것은 일반적으로 비디오 속도를 높일 때 발생하는 \"다람쥐 목소리\"를 방지합니다"
+msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
+msgstr "속도 변화가 이 임계값을 넘으면 피치 보정 필터가 적용됩니다. 이는 일반적으로 비디오 속도를 높일 때 발생하는 \"다람쥐 목소리\"를 방지합니다"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6739,6 +6879,15 @@ msgctxt "#14128"
 msgid "Allow double refresh rates"
 msgstr "이중 리프레시 비율 허용"
 
+# empty strings from id 14129 to 14186
+msgctxt "#14187"
+msgid "Advanced"
+msgstr "고급"
+
+msgctxt "#14188"
+msgid "Player audio/video queues"
+msgstr "플레이어 오디오/비디오 대기열"
+
 msgctxt "#14200"
 msgid "Player"
 msgstr "플레이어"
@@ -6958,6 +7107,19 @@ msgstr "이 시스템의 프로그램에 의한 원격 제어 허용"
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
 msgstr "다른 시스템의 프로그램에 의한 원격 제어 허용"
+
+# empty strings from id 14278 to 14279
+msgctxt "#14280"
+msgid "Maintenance"
+msgstr "유지 보수"
+
+msgctxt "#14281"
+msgid "Clean image cache"
+msgstr "이미지 캐시 정리"
+
+msgctxt "#14282"
+msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
+msgstr "사용하지 않는 이미지(미디어 라이브러리의 항목과 연결되지 않았거나 최근에 본 이미지)를 캐시에서 바로 제거합니다. Kodi는 백그라운드에서 이 작업을 수행합니다."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7305,7 +7467,7 @@ msgctxt "#16028"
 msgid "Enter value"
 msgstr "값 입력"
 
-#. PVR error messages dialog text.
+#. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
 msgstr "자세한 정보는 로그를 확인하세요."
@@ -7771,13 +7933,12 @@ msgstr "이 항목에 대한 예약이 이미 있습니다"
 
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
-msgid "{0:s} can't be played. Check the log for more information about this message."
-msgstr "{0:s} 플레이 할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "{0:s} can't be played."
+msgstr "{0:s}을(를) 재생할 수 없습니다."
 
-#. message box text stating that a recording could not be played.
 msgctxt "#19036"
-msgid "This recording can't be played. Check the log for more information about this message."
-msgstr "이 녹화를 재생할 수 없습니다. 자세한 정보는 로그를 확인하세요."
+msgid "This recording can't be played."
+msgstr "이 녹음 파일을 재생할 수 없습니다."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7814,12 +7975,12 @@ msgid "Recording"
 msgstr "녹화"
 
 msgctxt "#19044"
-msgid "Please check your configuration. Check the log for more information about this message."
-msgstr "설정을 확인하세요. 자세한 정보는 로그를 확인하세요."
+msgid "Please check your configuration."
+msgstr "설정을 확인하세요."
 
 msgctxt "#19045"
-msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
-msgstr "PVR 클라이언트가 시작되지 않았습니다. PVR 클라이언트가 시작될 때까지 기다리세요. 자세한 정보는 로그를 확인하세요."
+msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
+msgstr "아직 시작된 PVR 클라이언트가 없습니다. PVR 클라이언트가 시작될 때까지 기다립니다."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8095,7 +8256,6 @@ msgctxt "#19101"
 msgid "Provider"
 msgstr "제공자"
 
-#. message box text prompting user to switch to another channel
 msgctxt "#19102"
 msgid "Please switch to another channel."
 msgstr "다른 채널로 전환해 주세요."
@@ -8132,18 +8292,18 @@ msgstr "예비 프레임레이트"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
-msgid "Could not save the timer. Check the log for more information about this message."
-msgstr "타이머를 저장할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "Could not save the timer."
+msgstr "타이머를 저장할 수 없습니다."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
-msgid "Could not delete the timer. Check the log for more information about this message."
-msgstr "타이머를 삭제할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "Could not delete the timer."
+msgstr "타이머를 지울 수 없습니다."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
-msgid "PVR backend error. Check the log for more information about this message."
-msgstr "PVR 백엔드 오류입니다. 자세한 정보는 로그를 확인하세요."
+msgid "PVR backend error."
+msgstr "PVR 백엔드 오류."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8392,8 +8552,8 @@ msgstr "녹화"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
-msgid "Could not start recording. Check the log for more information about this message."
-msgstr "녹화를 시작할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "Could not start recording."
+msgstr "녹화를 시작할 수 없습니다."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8422,8 +8582,8 @@ msgstr "비디오 정보 상자 숨기기"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
-msgid "Could not stop recording. Check the log for more information about this message."
-msgstr "녹화를 중지할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "Could not stop recording."
+msgstr "녹화를 중지할 수 없습니다."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8538,8 +8698,8 @@ msgstr "연결된 PVR 백엔드가 채널 검색을 지원하지 않습니다."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
-msgid "The channel scan can't be started. Check the log for more information about this message."
-msgstr "채널 검색을 시작할 수 없습니다. 자세한 정보는 로그를 확인하세요."
+msgid "The channel scan can't be started."
+msgstr "채널 검색을 시작할 수 없습니다."
 
 #. unused?
 msgctxt "#19194"
@@ -8877,8 +9037,8 @@ msgstr "자녀 보호 PIN 번호 입력:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
-msgid "Could not update the timer. Check the log for more information about this message."
-msgstr "타이머를 업데이트 할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+msgid "Could not update the timer."
+msgstr "타이머를 업데이트할 수 없습니다."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -8979,7 +9139,7 @@ msgctxt "#19283"
 msgid "No icon"
 msgstr "아이콘 없음"
 
-#. used by several skins
+#. used by several skins and PVR
 msgctxt "#19284"
 msgid "Choose icon"
 msgstr "아이콘 선택"
@@ -8994,7 +9154,7 @@ msgctxt "#19286"
 msgid "Searching for channel icons"
 msgstr "채널 아이콘 찾는 중"
 
-#. Label for the default pvr channel group
+#. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
 msgid "All channels"
 msgstr "모든 채널"
@@ -9229,7 +9389,7 @@ msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
 msgstr "'{1:s}'의 '{0:s}' 채널 PVR 알림이 자동으로 닫히면 채널 변경"
 
-#. label for PVR backend number of channel providers in system information's PVR section
+#. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
 msgstr "공급자"
@@ -9299,7 +9459,7 @@ msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
 msgstr "활성 PVR 클라이언트는 클라이언트별 설정을 제공하지 않습니다."
 
-#. label for 'by provider' sort method
+#. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
 msgstr "제공자"
@@ -9333,6 +9493,16 @@ msgstr "여기부터 프로그램 재생"
 msgctxt "#19354"
 msgid "Play only this programme"
 msgstr "이 프로그램만 재생"
+
+#. Label of a context menu entry to create a copy of an EPG saved saerch
+msgctxt "#19355"
+msgid "Duplicate"
+msgstr "중복"
+
+#. Initial title of a duplicated EPG saved search.
+msgctxt "#19356"
+msgid "Copy of '{0:s}'"
+msgstr "'{0:s}' 복사본"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9789,10 +9959,12 @@ msgctxt "#19685"
 msgid "Confirm shutdown"
 msgstr "시스템 종료 확인"
 
+#. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
 msgstr "채널 편성표"
 
+#. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
 msgid "Play recording"
 msgstr "녹화 재생"
@@ -12030,10 +12202,6 @@ msgctxt "#21824"
 msgid "EXIF comment"
 msgstr "EXIF 주석"
 
-msgctxt "#21825"
-msgid "Firmware"
-msgstr "펌웨어"
-
 msgctxt "#21826"
 msgid "Aperture"
 msgstr "구경"
@@ -14234,6 +14402,31 @@ msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
 msgstr "특정 AVR의 전원을 유지하기 위하여 들리지 않는 무작위 노이즈 신호를 보냅니다. 헤드폰이나 아나로그 출력을 사용 중이면 이 설정을 끌 수 있습니다."
 
+#. Indicates if Audio Engine should include lfe when downmixing
+msgctxt "#34114"
+msgid "Include LFE when downmixing"
+msgstr "다운믹싱에 LFE 포함"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34115"
+msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
+msgstr "이 설정을 사용하면 전용 LFE 출력 채널이 없을 때 믹싱에 LFE 채널이 포함됩니다. 이는 풀 레인지 스피커에만 해당됩니다."
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34116"
+msgid "Off"
+msgstr "끄기"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34117"
+msgid "50%"
+msgstr "50%"
+
+#. Description of setting with label #34114 "Include LFE when downmixing"
+msgctxt "#34118"
+msgid "100%"
+msgstr "100%"
+
 msgctxt "#34120"
 msgid "Play GUI sounds"
 msgstr "GUI 사운드 재생"
@@ -15993,8 +16186,8 @@ msgstr "코덱 정보 창에서 신호 품질을 표시합니다(애드온과 �
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
-msgid "Set the the subtitle background opacity."
-msgstr "자막 배경 투명도를 설정합니다."
+msgid "Set the subtitle background opacity."
+msgstr "자막 배경 불투명도를 설정합니다."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16294,7 +16487,7 @@ msgstr "아티스트별로 음악 항목을 정렬할 때 sortname을 사용합�
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
-msgid "Set the the subtitle opacity."
+msgid "Set the subtitle opacity."
 msgstr "자막 불투명도를 설정합니다."
 
 msgctxt "#36296"
@@ -17745,6 +17938,16 @@ msgctxt "#37002"
 msgid "(Director's comments 2)"
 msgstr "(감독 코멘트 2)"
 
+#. DVD short name for 1.0 channel layout
+msgctxt "#37003"
+msgid "mono"
+msgstr ""
+
+#. DVD short name for 2.0 channel layout
+msgctxt "#37004"
+msgid "stereo"
+msgstr ""
+
 msgctxt "#37014"
 msgid "Last used profile"
 msgstr "마지막 사용한 프로파일"
@@ -18029,6 +18232,37 @@ msgstr "{0:d} MB"
 msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
+
+# empty strings from id 37124 to 37127
+#. Value of setting - second
+msgctxt "#37128"
+msgid "{0:d} second"
+msgstr "{0:d} 초"
+
+#. Value of setting - seconds
+msgctxt "#37129"
+msgid "{0:d} seconds"
+msgstr "{0:d} 초"
+
+#. Setting "Audio/video queue time"
+msgctxt "#37130"
+msgid "Audio/video queue time"
+msgstr "오디오/비디오 대기열 시간"
+
+#. Description of setting with label #37130 "Audio/video queue time"
+msgctxt "#37131"
+msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
+msgstr "오디오/비디오 대기열의 지속 시간(초)입니다. 이 시간은 메모리에 저장되는 데이터의 양을 결정합니다."
+
+#. Setting "Video queue maximum size"
+msgctxt "#37132"
+msgid "Video queue maximum size"
+msgstr "비디오 대기열 최대 크기"
+
+#. Description of setting with label #37132 "Video queue maximum size"
+msgctxt "#37133"
+msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
+msgstr "비디오 대기열의 최대 메모리 사용량을 제한합니다. 사용되는 메모리 양은 비디오 비트 전송률과 대기열 길이에 따라 다릅니다. 메모리 제한에 도달하면 필요에 따라 대기열 시간이 줄어듭니다."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18349,6 +18583,11 @@ msgstr "여기에는 GUI 인터페이스에 대한 기타 설정이 포함되어
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
 msgstr "오디오 재생이 시작되면 자동으로 시각화 창으로 감"
+
+#. Description of category #14187 "Advanced"
+msgctxt "#38113"
+msgid "This category contains the advanced settings for video playback"
+msgstr "이 항목에는 비디오 재생에 대한 고급 설정이 있습니다"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19161,6 +19400,16 @@ msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
 
+#. Subtitle line spacing setting
+msgctxt "#39202"
+msgid "Line spacing"
+msgstr "줄 간격"
+
+#. Subtitle line spacing setting help
+msgctxt "#39203"
+msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr "글 줄 사이의 간격을 조정합니다. 값을 너무 낮게 설정하면 \"배경 형태\" 설정을 사용할 때 상자가 겹칠 수 있습니다."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19577,6 +19826,101 @@ msgstr "40주년판"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
 msgstr "50주년판"
+
+# 40000 to 40800 are reserved for Video Versions feature
+#. Confirm file deletion
+msgctxt "#40801"
+msgid "Confirm file deletion"
+msgstr "파일 삭제 확인"
+
+#. Description of setting with label #40801 "Confirm file deletion"
+msgctxt "#40802"
+msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
+msgstr "사용하면 파일을 삭제할 때 확인 대화 상자가 표시됩니다. 사용하지 않으면 사용자 확인 없이 파일이 삭제됩니다."
+
+#~ msgctxt "#462"
+#~ msgid "Subtitle"
+#~ msgstr "자막"
+
+#~ msgctxt "#19035"
+#~ msgid "{0:s} can't be played. Check the log for more information about this message."
+#~ msgstr "{0:s} 플레이 할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#19036"
+#~ msgid "This recording can't be played. Check the log for more information about this message."
+#~ msgstr "이 녹화를 재생할 수 없습니다. 자세한 정보는 로그를 확인하세요."
+
+#~ msgctxt "#19044"
+#~ msgid "Please check your configuration. Check the log for more information about this message."
+#~ msgstr "설정을 확인하세요. 자세한 정보는 로그를 확인하세요."
+
+#~ msgctxt "#19045"
+#~ msgid "No PVR clients have been started yet. Wait for the PVR clients to start up. Check the log for more information about this message."
+#~ msgstr "PVR 클라이언트가 시작되지 않았습니다. PVR 클라이언트가 시작될 때까지 기다리세요. 자세한 정보는 로그를 확인하세요."
+
+#~ msgctxt "#19109"
+#~ msgid "Could not save the timer. Check the log for more information about this message."
+#~ msgstr "타이머를 저장할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#19110"
+#~ msgid "Could not delete the timer. Check the log for more information about this message."
+#~ msgstr "타이머를 삭제할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#19111"
+#~ msgid "PVR backend error. Check the log for more information about this message."
+#~ msgstr "PVR 백엔드 오류입니다. 자세한 정보는 로그를 확인하세요."
+
+#~ msgctxt "#19164"
+#~ msgid "Could not start recording. Check the log for more information about this message."
+#~ msgstr "녹화를 시작할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#19170"
+#~ msgid "Could not stop recording. Check the log for more information about this message."
+#~ msgstr "녹화를 중지할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#19193"
+#~ msgid "The channel scan can't be started. Check the log for more information about this message."
+#~ msgstr "채널 검색을 시작할 수 없습니다. 자세한 정보는 로그를 확인하세요."
+
+#~ msgctxt "#19263"
+#~ msgid "Could not update the timer. Check the log for more information about this message."
+#~ msgstr "타이머를 업데이트 할 수 없습니다. 더 많은 정보는 로그를 확인하시기 바랍니다."
+
+#~ msgctxt "#21825"
+#~ msgid "Firmware"
+#~ msgstr "펌웨어"
+
+#~ msgctxt "#36230"
+#~ msgid "Set the the subtitle background opacity."
+#~ msgstr "자막 배경 투명도를 설정합니다."
+
+#~ msgctxt "#36295"
+#~ msgid "Set the the subtitle opacity."
+#~ msgstr "자막 불투명도를 설정합니다."
+
+#~ msgctxt "#39198"
+#~ msgid "HQ upscaler intermediate format"
+#~ msgstr "HQ 업스케일러 중간 형식"
+
+#~ msgctxt "#39199"
+#~ msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
+#~ msgstr "GPU 렌더링 경로에 사용되는 크기 조정 중간 버퍼의 정밀도를 설정합니다. 16비트 정밀도에는 더 많은 성능이 필요할 수 있습니다. 하드웨어가 선택한 형식을 지원할 수 없으면 다음으로 가장 적합한 형식으로 대체합니다."
+
+#~ msgctxt "#39200"
+#~ msgid "8 bit per channel"
+#~ msgstr "채널당 8비트"
+
+#~ msgctxt "#39201"
+#~ msgid "10 bit per channel"
+#~ msgstr "채널당 10비트"
+
+#~ msgctxt "#39202"
+#~ msgid "16 bit per channel"
+#~ msgstr "채널당 16비트"
+
+#~ msgctxt "#13518"
+#~ msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmonk voices\" that normally result from speeding up a video"
+#~ msgstr "속도 변화가 이 임계값을 초과하면 피치 보정 필터가 적용됩니다. 이것은 일반적으로 비디오 속도를 높일 때 발생하는 \"다람쥐 목소리\"를 방지합니다"
 
 #~ msgctxt "#14079"
 #~ msgid "Timezone country"
