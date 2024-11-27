@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-10 07:38+0000\n"
-"Last-Translator: roliverosc <roliverosc@hotmail.com>\n"
+"PO-Revision-Date: 2024-11-26 10:14+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5877,6 +5877,10 @@ msgstr "No hay ajustes disponibles[CR]para esta visualización"
 msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Expulsar / Cargar"
+
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "Elección de transmisión"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -17941,12 +17945,12 @@ msgstr "(Comentarios del director 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "monoaural"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "estéreo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19600,6 +19604,16 @@ msgstr "La película que se añadirá tiene múltiples versiones.[CR]El tipo de 
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "La versión por defecto de una película con múltiples versiones no se puede añadir a otra película. Primero mueva o elimine las otras versiones."
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr "Quitar vídeo extra"
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr "¿Está seguro de quitar el extra \"{0:s}\"?"
 
 #. Select default video version setting
 msgctxt "#40200"

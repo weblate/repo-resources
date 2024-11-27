@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-07 12:14+0000\n"
+"PO-Revision-Date: 2024-11-20 03:43+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -5877,6 +5877,10 @@ msgstr "이 시각화의[CR]설정이 없음"
 msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "꺼내기 / 읽기"
+
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "스트림 선택"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -17941,12 +17945,12 @@ msgstr "(감독 코멘트 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "모노"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "스테레오"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19600,6 +19604,16 @@ msgstr "추가할 영화에는 여러 버전이 있습니다.[CR]기본 버전�
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "여러 버전이 있는 영화의 기본 버전은 다른 영화에 추가할 수 없습니다. 먼저 다른 버전을 이동하거나 지웁니다."
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr ""
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
 
 #. Select default video version setting
 msgctxt "#40200"

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-10 15:46+0000\n"
+"PO-Revision-Date: 2024-11-26 10:14+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5877,6 +5877,10 @@ msgstr "Diese Visualisierung bietet keine Einstellungen"
 msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Öffnen/Schließen"
+
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "Streamauswahl"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -17941,12 +17945,12 @@ msgstr "(Kommentare des Regisseurs 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "Mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "Stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19601,6 +19605,16 @@ msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "Die Standardversion eines Films mit mehreren Versionen kann nicht zu einem anderen Film hinzugefügt werden. Bitte erst die anderen Versionen umziehen oder entfernen."
 
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr "Videoextra entfernen"
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr "Soll das Extra „{0:s}“ wirklich entfernt werden?"
+
 #. Select default video version setting
 msgctxt "#40200"
 msgid "Select default video version"
@@ -19624,12 +19638,12 @@ msgstr "Scanner-Aktion für Videos mit verschiedenen Versionen auswählen.[CR][A
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr "Beim Scannen Video-Extras ignorieren"
+msgstr "Beim Scannen Videoextras ignorieren"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr "Scanner-Aktion für Video-Extras im Ordner „extras“ auswählen.[CR][Aktiviert] Extras wie normale Videos scannen.[CR][Deaktiviert] Video-Extras für das zugehörige Video zur Bibliothek hinzufügen."
+msgstr "Scanner-Aktion für Videoextras im Ordner „extras“ auswählen.[CR][Aktiviert] Extras wie normale Videos scannen.[CR][Deaktiviert] Videoextras für das zugehörige Video zur Bibliothek hinzufügen."
 
 #. Show video versions as folder settting
 msgctxt "#40206"

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-09-24 08:26+0000\n"
+"PO-Revision-Date: 2024-11-26 10:14+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Taiwan) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_tw/>\n"
 "Language: zh_tw\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1819,7 +1819,7 @@ msgstr "[啟用]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "字幕串流"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -5879,6 +5879,10 @@ msgstr "該視覺效果沒有可用的設定"
 msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "托盤開 / 關"
+
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "串流選擇"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -17948,12 +17952,12 @@ msgstr "(導演評論 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "單聲道"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "立體聲"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19413,12 +19417,12 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "行距"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "調整行距。若設定值過低可能會在\"背景類型\"設定套用時出現文字框重疊的問題。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19610,6 +19614,16 @@ msgstr "要新增的電影有多個版本。[CR]將在下一個對話方塊中�
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "具有多個版本的電影的預設版本無法添加到另一部電影中。 請先移動或刪除其他版本。"
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr "移除影片額外資訊"
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr "您確定要移除額外資訊\"{0:s}\"嗎？"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19841,12 +19855,12 @@ msgstr "50週年版"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "檔案刪除再確認"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "開啟時會在刪除檔案前跳出確認對話框。反之則不提示並逕行刪除。"
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"
