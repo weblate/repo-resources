@@ -5883,6 +5883,10 @@ msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Løs ut / last inn"
 
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr ""
+
 msgctxt "#13393"
 msgid "Calculate size"
 msgstr "Kalkuler størrelse"
@@ -19623,6 +19627,16 @@ msgstr ""
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
+msgstr ""
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr ""
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr ""
 
 #. Select default video version setting

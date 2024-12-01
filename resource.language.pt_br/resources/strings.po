@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-07 00:09+0000\n"
+"PO-Revision-Date: 2024-11-19 16:08+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -5878,6 +5878,10 @@ msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Ejetar / Carregar"
 
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "Selecionar fluxo"
+
 msgctxt "#13393"
 msgid "Calculate size"
 msgstr "Calcular tamanho"
@@ -6666,7 +6670,7 @@ msgstr "Ajustar para horário de verão"
 
 msgctxt "#14076"
 msgid "Add to favourites"
-msgstr "Adicionar a favoritos"
+msgstr "Adicionar aos favoritos"
 
 msgctxt "#14077"
 msgid "Remove from favourites"
@@ -17941,12 +17945,12 @@ msgstr "(Comentários dos Diretores 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "estéreo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19600,6 +19604,16 @@ msgstr "O filme a ser adicionado tem várias versões.[CR]O tipo da versão padr
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "A versão padrão de um filme com várias versões não pode ser adicionada a outro filme. Mova ou remova as outras versões primeiro."
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr ""
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
 
 #. Select default video version setting
 msgctxt "#40200"

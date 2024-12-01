@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-02 01:28+0000\n"
+"PO-Revision-Date: 2024-11-26 10:14+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5877,6 +5877,10 @@ msgstr "Non ci sono impostazioni disponibili[CR]per questa visualizzazione"
 msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Espelli / Carica"
+
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr "Selezione traccia"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -17941,12 +17945,12 @@ msgstr "(Commenti del regista 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19600,6 +19604,16 @@ msgstr "Il film da aggiungere ha più versioni.[CR]Il tipo di versione predefini
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "La versione predefinita di un film con più versioni non può essere aggiunta a un altro film. Per favore prima sposta o rimuovi le altre versioni."
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr "Rimuovi extra dai video"
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr "Sei sicuro di voler rimuovere l'extra \"{0:s}\"?"
 
 #. Select default video version setting
 msgctxt "#40200"

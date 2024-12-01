@@ -5880,6 +5880,10 @@ msgctxt "#13391"
 msgid "Eject / Load"
 msgstr "Tálcát nyit / zár"
 
+msgctxt "#13392"
+msgid "Stream selection"
+msgstr ""
+
 msgctxt "#13393"
 msgid "Calculate size"
 msgstr "Méret kiszámolása"
@@ -19604,6 +19608,16 @@ msgstr "A hozzáadandó filmnek több verziója van.[CR]Az alapértelmezett verz
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
 msgstr "A több verziójú film alapértelmezett verziója nem adható hozzá másik filmhez. Kérjük, először helyezze át vagy távolítsa el a többi verziót."
+
+#. Remove video extra dialog title
+msgctxt "#40039"
+msgid "Remove video extra"
+msgstr ""
+
+#. Remove video extra dialog text
+msgctxt "#40040"
+msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
 
 #. Select default video version setting
 msgctxt "#40200"
