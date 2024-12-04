@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-20 03:43+0000\n"
+"PO-Revision-Date: 2024-12-03 05:47+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3272,7 +3272,7 @@ msgstr "시청 후 녹화를 삭제할지 설정합니다."
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr "아니요"
+msgstr "아니오"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
@@ -19608,12 +19608,12 @@ msgstr "여러 버전이 있는 영화의 기본 버전은 다른 영화에 추�
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "비디오 추가 제거"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "추가 \"{0:s}\"을 지울까요?"
 
 #. Select default video version setting
 msgctxt "#40200"
