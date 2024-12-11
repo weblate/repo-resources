@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-12-03 05:47+0000\n"
+"PO-Revision-Date: 2024-12-11 14:46+0000\n"
 "Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
@@ -618,7 +618,7 @@ msgstr "Urutkan judul"
 
 msgctxt "#172"
 msgid "Release date"
-msgstr "Tanggal peluncuran"
+msgstr "Tanggal rilis"
 
 msgctxt "#173"
 msgid "Display 4:3 videos as"
@@ -626,7 +626,7 @@ msgstr "Tampilkan video 4:3 sebagai"
 
 msgctxt "#174"
 msgid "Compiled:"
-msgstr "Telah Disusun:"
+msgstr "Disusun:"
 
 msgctxt "#175"
 msgid "Moods"
@@ -722,7 +722,7 @@ msgstr "Pilih film:"
 
 msgctxt "#197"
 msgid "Querying {0:s} information"
-msgstr "Mengkueri {0:s} informasi"
+msgstr "Meminta informasi {0:s}"
 
 msgctxt "#198"
 msgid "Loading movie details"
@@ -1066,7 +1066,7 @@ msgstr "Gunakan pengaturan bawaan"
 
 msgctxt "#281"
 msgid "Please check the XML files"
-msgstr "Harap periksa file .xml"
+msgstr "Harap cek berkas XML"
 
 msgctxt "#282"
 msgid "Found {0:d} items"
@@ -1128,7 +1128,7 @@ msgstr "Kosongkan bookmark"
 
 msgctxt "#297"
 msgid "Audio offset"
-msgstr "AVDelay"
+msgstr "Imbang audio"
 
 msgctxt "#298"
 msgid "Bookmarks"
@@ -1187,7 +1187,7 @@ msgstr "Bahasa antar-muka pengguna"
 #. Setting in international settings
 msgctxt "#310"
 msgid "Virtual keyboard layouts"
-msgstr "Tata letak keyboard virtual"
+msgstr "Tata letak papanketik virtual"
 
 #. Keyboard layout name e.g. "English QWERTY"
 msgctxt "#311"
@@ -1604,7 +1604,7 @@ msgstr "Kelembapan"
 
 msgctxt "#407"
 msgid "Hardware keyboard layouts"
-msgstr "Tata letak keyboard hardware"
+msgstr "Tata letak perangkat keras papanketik"
 
 msgctxt "#409"
 msgid "Defaults"
@@ -1723,7 +1723,7 @@ msgstr "Disk yang dapat dilepas"
 
 msgctxt "#438"
 msgid "Opening file"
-msgstr "Membuka file"
+msgstr "Membuka berkas"
 
 msgctxt "#439"
 msgid "Cache"
@@ -1935,7 +1935,7 @@ msgstr "Kalibrasi"
 
 msgctxt "#497"
 msgid "Show file extensions"
-msgstr "Tampilkan ekstensi file"
+msgstr "Tampilkan ekstensi berkas"
 
 msgctxt "#498"
 msgid "Sort by: Type"
@@ -1973,7 +1973,7 @@ msgstr "Memuat informasi media dari berkas..."
 #. label for library update progress bar when checking for new or changed media files
 msgctxt "#506"
 msgid "Checking media files..."
-msgstr "Memeriksa file media..."
+msgstr "Memeriksa berkas media..."
 
 msgctxt "#507"
 msgid "Sort by: Usage"
@@ -2468,7 +2468,7 @@ msgstr "Berkas tanpa informasi ReplayGain"
 
 msgctxt "#643"
 msgid "Avoid clipping protection on ReplayGained files"
-msgstr "Hindari perlindungan kliping pada file ReplayGained"
+msgstr "Hindari perlindungan kliping pada berkas ReplayGained"
 
 msgctxt "#644"
 msgid "Stretch 16:9 - Nonlinear"
@@ -2476,7 +2476,7 @@ msgstr "Merentang 16:9 - Nonlinier"
 
 msgctxt "#645"
 msgid "Need to unpack a big file. Continue?"
-msgstr "Memerlukan meng-cache file besar. Lanjutkan?"
+msgstr "Memerlukan bongkar berkas besar. Lanjutkan?"
 
 msgctxt "#646"
 msgid "Remove from library"
@@ -2546,7 +2546,7 @@ msgstr "Pilih folder ekspor"
 
 msgctxt "#662"
 msgid "This file is no longer available."
-msgstr "File ini tidak lagi tersedia."
+msgstr "Berkas ini tidak lagi tersedia."
 
 msgctxt "#663"
 msgid "Would you like to remove it from the library?"
@@ -2826,7 +2826,7 @@ msgstr "Kuning"
 
 msgctxt "#744"
 msgid "Files"
-msgstr "File"
+msgstr "Berkas"
 
 msgctxt "#745"
 msgid "Background colour"
@@ -3570,7 +3570,7 @@ msgstr "Gambar"
 
 msgctxt "#1214"
 msgid "Files"
-msgstr "File"
+msgstr "Berkas"
 
 msgctxt "#1215"
 msgid "Music & video "
@@ -3582,7 +3582,7 @@ msgstr "Musik & Gambar"
 
 msgctxt "#1217"
 msgid "Music & files"
-msgstr "Musik & File"
+msgstr "Musik & berkas"
 
 msgctxt "#1218"
 msgid "Video & pictures"
@@ -3590,11 +3590,11 @@ msgstr "Video & Gambar"
 
 msgctxt "#1219"
 msgid "Video & files"
-msgstr "Video & File"
+msgstr "Video & berkas"
 
 msgctxt "#1220"
 msgid "Pictures & files"
-msgstr "Gambar & File"
+msgstr "Gambar & berkas"
 
 msgctxt "#1221"
 msgid "Music & video & pictures"
@@ -3602,7 +3602,7 @@ msgstr "Musik & Video & Gambar"
 
 msgctxt "#1222"
 msgid "Music & video & pictures & files"
-msgstr "Musik & Video & Gambar & File"
+msgstr "Musik & Video & Gambar & berkas"
 
 msgctxt "#1223"
 msgid "Disabled"
@@ -3610,15 +3610,15 @@ msgstr "Non Aktif"
 
 msgctxt "#1226"
 msgid "Files & music & video"
-msgstr "File & Musik & Video"
+msgstr "Berkas & musik & video"
 
 msgctxt "#1227"
 msgid "Files & pictures & music"
-msgstr "File & Gambar & Musik"
+msgstr "Berkas & gambar & musik"
 
 msgctxt "#1228"
 msgid "Files & pictures & video"
-msgstr "File & Gambar & Video"
+msgstr "Berkas & gambar & video"
 
 msgctxt "#1229"
 msgid "Music & programs"
@@ -4141,7 +4141,7 @@ msgstr "Foto"
 
 msgctxt "#10003"
 msgid "File manager"
-msgstr "File"
+msgstr "Pengelola berkas"
 
 msgctxt "#10004"
 msgid "Settings"
@@ -4331,7 +4331,7 @@ msgstr "Tambahkan sumber program"
 
 msgctxt "#10052"
 msgid "Add file source"
-msgstr "Tambahkan sumber berkas"
+msgstr "Tambah sumber berkas"
 
 msgctxt "#10053"
 msgid "Edit video source"
@@ -4376,7 +4376,7 @@ msgstr "Dialog Kemajuan"
 
 msgctxt "#10103"
 msgid "Virtual keyboard"
-msgstr "Papa ketik virtual"
+msgstr "Papanketik virtual"
 
 msgctxt "#10104"
 msgid "Volume bar"
@@ -5046,7 +5046,7 @@ msgstr "Kode induk tidak valid. Harap masukkan kode master yang valid."
 
 msgctxt "#12373"
 msgid "Settings & file manager"
-msgstr "Pengaturan & manajer file"
+msgstr "Pengaturan & pengelola berkas"
 
 # empty strings from id 12374 to 12375
 msgctxt "#12376"
@@ -5159,7 +5159,7 @@ msgstr "- Penundaan"
 
 msgctxt "#13004"
 msgid "- Minimum file duration"
-msgstr "- Durasi file minimum"
+msgstr "- Durasi minimum berkas"
 
 msgctxt "#13005"
 msgid "Shutdown"
@@ -5432,7 +5432,7 @@ msgstr "Tanggal pemasangan HDD:"
 #. unused?
 msgctxt "#13174"
 msgid "HDD power cycle count:"
-msgstr "Hitungan siklus daya KDD:"
+msgstr "Hitungan siklus daya HDD:"
 
 msgctxt "#13200"
 msgid "Profiles"
@@ -5772,7 +5772,7 @@ msgstr "Cari IMDb..."
 
 msgctxt "#13349"
 msgid "Scan for new content"
-msgstr "Cari Info Utk Semua File"
+msgstr "Pindai untuk konten baru"
 
 msgctxt "#13350"
 msgid "Current playlist"
@@ -6430,7 +6430,7 @@ msgstr "Unstack"
 
 msgctxt "#14003"
 msgid "Downloading playlist file..."
-msgstr "Mengunduh file Daftar Main..."
+msgstr "Mengunduh berkas daftarputar..."
 
 msgctxt "#14004"
 msgid "Downloading streams list..."
@@ -6446,7 +6446,7 @@ msgstr "Mengunduh daftar stream gagal"
 
 msgctxt "#14007"
 msgid "Downloading playlist file failed"
-msgstr "Mengunduh file Daftar Main gagal"
+msgstr "Mengunduh berkas daftarputar gagal"
 
 msgctxt "#14009"
 msgid "Games directory"
@@ -6474,11 +6474,11 @@ msgstr "- Persentase"
 
 msgctxt "#14015"
 msgid "No files and at least one thumb"
-msgstr "Tak ada File dan satu Thumb"
+msgstr "Tak ada berkas dan setidaknya satu thumb"
 
 msgctxt "#14016"
 msgid "At least one file and thumb"
-msgstr "Sedikitnya satu File dan Thumb"
+msgstr "Setidaknya satu berkas dan thumb"
 
 msgctxt "#14017"
 msgid "Percentage of thumbs"
@@ -6678,7 +6678,7 @@ msgstr "Pasang Perubahan Sekarang"
 
 msgctxt "#14071"
 msgid "Allow file renaming and deletion"
-msgstr "Mengijinkan Perubahan Nama File dan Penghapusan"
+msgstr "Mengizinkan penggantian nama dan penghapusan berkas"
 
 msgctxt "#14074"
 msgid "Set timezone"
@@ -7294,7 +7294,7 @@ msgstr "Gunakan sinkronisasi A/V yang halus"
 
 msgctxt "#15215"
 msgid "Hide file names in thumbs view"
-msgstr "Sembunyikan Nama File pada Tampilan Thumb"
+msgstr "Sembunyikan nama berkas pada tampilan thumb"
 
 msgctxt "#15216"
 msgid "Play in party mode"
@@ -7387,7 +7387,7 @@ msgstr "Simpan"
 #. Caption for "Save" button in the in-game savestate manager
 msgctxt "#15315"
 msgid "Save progress to a new save file"
-msgstr "Simpan progres ke file penyimpanan baru"
+msgstr "Simpan progres ke berkas penyimpanan baru"
 
 #. Label for savestates created automatically by "Autosave" function
 msgctxt "#15316"
@@ -7432,7 +7432,7 @@ msgstr "Masukkan Nama Daftar Main"
 
 msgctxt "#16013"
 msgid "Enter new filename"
-msgstr "Masukkan namafile baru"
+msgstr "Masukkan nama berkas baru"
 
 msgctxt "#16014"
 msgid "Enter folder name"
@@ -10166,7 +10166,7 @@ msgstr "Kunci seksi program dan skrip"
 
 msgctxt "#20042"
 msgid "Lock file manager"
-msgstr "Kunci Manajer Berkas"
+msgstr "Kunci manajer berkas"
 
 msgctxt "#20043"
 msgid "Lock settings"
@@ -10202,7 +10202,7 @@ msgstr "Otomatis berganti anatara 16x9 dan 4x3"
 
 msgctxt "#20051"
 msgid "Treat stacked files as single file"
-msgstr "Perlakukan file stek sebagai file tunggal"
+msgstr "Perlakukan berkas tumpuk sebagai berkas tunggal"
 
 msgctxt "#20052"
 msgid "Caution"
@@ -10792,7 +10792,7 @@ msgstr "Lebih milih seni album daring"
 #. Description of setting with label #20224 "Prefer online album art"
 msgctxt "#20225"
 msgid "Where no local album cover exists, online art will be used. Where neither is available, cover images embedded in music files will be used"
-msgstr "Jika tidak ada sampul album lokal, seni online akan digunakan. Jika keduanya tidak tersedia, gambar sampul yang disematkan dalam file musik akan digunakan"
+msgstr "Jika tidak ada sampul album lokal, seni daring akan digunakan. Jika keduanya tidak tersedia, gambar sampul yang disematkan dalam berkas musik akan digunakan"
 
 msgctxt "#20226"
 msgid "Movie set information folder"
@@ -10865,7 +10865,7 @@ msgstr "Server WebDAV (HTTPS)"
 
 msgctxt "#20255"
 msgid "First logon, edit your profile"
-msgstr "Pertama login, lalu sunting profile"
+msgstr "Pertama masuk, lalu sunting profil"
 
 msgctxt "#20259"
 msgid "Network File System (NFS)"
@@ -11055,7 +11055,7 @@ msgstr "Sutradara"
 
 msgctxt "#20349"
 msgid "No video files found in this path!"
-msgstr "Tidak ada file video yang ditemukan di jalur ini!"
+msgstr "Tidak ada berkas video yang ditemukan di jalur ini!"
 
 #. Label for showing media rating and votes (combined), for example: "9.1 (87 votes)"
 msgctxt "#20350"
@@ -11403,7 +11403,7 @@ msgstr "Kecualikan path dari pembaruan pustaka"
 
 msgctxt "#20433"
 msgid "Extract video information from files"
-msgstr "Ekstrak informasi video dari file"
+msgstr "Ekstrak informasi video dari berkas"
 
 msgctxt "#20434"
 msgid "Sets"
@@ -11632,7 +11632,7 @@ msgstr "Gunakan tag video"
 
 msgctxt "#21344"
 msgid "Enable to use embedded tags in mp4 or mkv files for library metadata. Will prevent scrapers from operating correctly."
-msgstr "Aktifkan untuk menggunakan tag tersemat dalam file mp4 atau mkv untuk metadata perpustakaan. Akan mencegah pencakar beroperasi dengan benar."
+msgstr "Aktifkan untuk menggunakan tag tersemat dalam berkas mp4 atau mkv untuk metadata perpustakaan. Akan mencegah pencakar beroperasi dengan benar."
 
 #. Used in AutoPlayNextItem dialogs for not categorized listItem directories
 msgctxt "#21345"
@@ -12013,7 +12013,7 @@ msgstr "Bahasa takarir"
 
 msgctxt "#21449"
 msgid "Remote control sends keyboard presses"
-msgstr "Pengendali remote mengirimkan tekanan keyboard"
+msgstr "Pengendali remot mengirimkan tekanan papanketik"
 
 #. Label for controls used to edit something (e.g. setting "Appearance -> Skin -> Edit" or a context menu entry to open timer settings dialog)
 msgctxt "#21450"
@@ -12030,7 +12030,7 @@ msgstr "Dapatkan lebih banyak lagi..."
 
 msgctxt "#21453"
 msgid "Root filesystem"
-msgstr "Sistem berkas Root"
+msgstr "Akar berkas sistem"
 
 msgctxt "#21454"
 msgid "Source too slow"
@@ -12178,7 +12178,7 @@ msgstr "Tunjukkan dukungan"
 #. Dialog header label to show list of supported types, e.g. supported file extensions
 msgctxt "#21485"
 msgid "Supported file extensions and media types"
-msgstr "Ekstensi file dan jenis media yang didukung"
+msgstr "Ekstensi berkas dan jenis media yang didukung"
 
 msgctxt "#21602"
 msgid "(External)"
@@ -12190,7 +12190,7 @@ msgstr "Nama berkas"
 
 msgctxt "#21801"
 msgid "File path"
-msgstr "Path berkas"
+msgstr "Jalur berkas"
 
 msgctxt "#21802"
 msgid "File size"
@@ -12523,7 +12523,7 @@ msgstr "Lebih awal: {0:2.3f}d"
 
 msgctxt "#22006"
 msgid "Subtitle offset"
-msgstr "Offset takarir"
+msgstr "Imbang takarir"
 
 msgctxt "#22007"
 msgid "OpenGL vendor:"
@@ -13294,7 +13294,7 @@ msgstr "Ketergantungan pada {0:s} versi {1:s} tidak dapat dipenuhi."
 #. Installing the addon from zip file located at <path to zip file> failed due to an invalid structure.
 msgctxt "#24143"
 msgid "Installing the add-on from zip file located at {0:s} failed due to an invalid structure."
-msgstr "Menginstal pengaya dari berkas zip di {0:s} gagal karena tidak valid."
+msgstr "Menginstal tambahan dari berkas zip di {0:s} gagal karena tidak valid."
 
 #. Used as an event log description for add-ons that have been uninstalled
 msgctxt "#24144"
@@ -13378,7 +13378,7 @@ msgstr "Ini mencegah Anda dari tindakan ketuk/gesek/geser yang tidak disengaja s
 
 msgctxt "#24162"
 msgid "Use Kodi virtual keyboard"
-msgstr "Gunakan keyboard virtual Kodi"
+msgstr "Gunakan papanketik virtual Kodi"
 
 msgctxt "#24163"
 msgid "The higher the value, the more sensitive the pan gesture"
@@ -13568,7 +13568,7 @@ msgstr "Manual"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
-msgstr "Keyboard QWERTY"
+msgstr "Papanketik QWERTY"
 
 msgctxt "#29802"
 msgid "Passthrough audio in use"
@@ -13587,7 +13587,7 @@ msgstr "Terjadi kesalahan saat memuat Java, jadi menu BD-J tidak akan berfungsi 
 #. Body text for the encryption error kaitoast
 msgctxt "#29805"
 msgid "This Blu-ray disc (or file) is encrypted and can't be played."
-msgstr "Disk (atau file) Blu-ray ini dienkripsi dan tidak dapat diputar."
+msgstr "Disk (atau berkas) Blu-ray ini dienkripsi dan tidak dapat diputar."
 
 # empty strings from id 29806 to 29899
 #. Header string on RDS Radiotext+ Info dialog
@@ -14368,7 +14368,7 @@ msgstr "Windows Media Audio 2 (FFmpeg wmav2)"
 
 msgctxt "#34008"
 msgid "When you need to enter some text, Kodi virtual keyboard will show up instead of the built-in tvOS keyboard"
-msgstr "Saat Anda perlu memasukkan beberapa teks, keyboard virtual Kodi akan muncul alih-alih keyboard tvOS bawaan"
+msgstr "Saat anda perlu memasukkan beberapa teks, papanketik virtual Kodi akan muncul alih-alih papanketik tvOS bawaan"
 
 msgctxt "#34009"
 msgid "Siri remote pan gesture horizontal sensitivity"
@@ -14752,7 +14752,7 @@ msgstr "Mengaktifkan motor gemuruh pengontrol saat ada notifikasi."
 #. Help text for controller window
 msgctxt "#35055"
 msgid "Use the keyboard or remote to select a controller profile. When prompted, press the button on your game controller that best matches what you see on the screen. If you make a mistake you can repeat the process."
-msgstr "Gunakan keyboard atau remote untuk memilih profil pengontrol. Saat diminta, tekan tombol pada pengontrol game Anda yang paling cocok dengan apa yang Anda lihat di layar. Jika Anda membuat kesalahan, Anda dapat mengulangi prosesnya."
+msgstr "Gunakan papanketik atau remot untuk memilih profil pengontrol. Saat diminta, tekan tombol pada pengontrol gim anda yang paling cocok dengan apa yang Anda lihat di layar. Jika Anda membuat kesalahan, Anda dapat mengulangi prosesnya."
 
 # empty strings from id 35056 to 35057
 #. Title of controller configuration window
@@ -14970,7 +14970,7 @@ msgstr "Gagal mengubah pengontrol"
 #. Name of keyboard category in the settings category window
 msgctxt "#35150"
 msgid "Keyboard"
-msgstr "Papan ketik"
+msgstr "Papanketik"
 
 #. Name of group in "Games -> Keyboard" for configuring keyboard players
 msgctxt "#35151"
@@ -14980,22 +14980,22 @@ msgstr "Konfigurasi pemain"
 #. Name of setting for enabling the keyboard during gameplay
 msgctxt "#35152"
 msgid "Enable keyboard"
-msgstr "Aktifkan papan ketik"
+msgstr "Aktifkan papanketik"
 
 #. Description of setting with label #35152 "Enable keyboard"
 msgctxt "#35153"
 msgid "This allows the keyboard to emulate up to 8 game controllers. If disabled, the keyboard can still be used to control emulators like DOSBox which require a full keyboard."
-msgstr "Ini memungkinkan keyboard untuk meniru hingga 8 pengontrol game. Jika dinonaktifkan, keyboard masih dapat digunakan untuk mengontrol emulator seperti DOSBox yang membutuhkan keyboard lengkap."
+msgstr "Ini memungkinkan papanketik untuk meniru hingga 8 pengontrol gim. Jika dinonaktifkan, papanketik masih dapat digunakan untuk mengontrol emulator seperti DOSBox yang membutuhkan papanketik lengkap."
 
 #. Setting name for number of keyboard players
 msgctxt "#35154"
 msgid "Number of keyboard players"
-msgstr "Jumlah pemain keyboard"
+msgstr "Jumlah pemain papanketik"
 
 #. Description of settings with label #35066
 msgctxt "#35155"
 msgid "Set the number of players using the keyboard. This is intended for devices that use keyboard drivers, but you can also see how many people fit around a keyboard!"
-msgstr "Atur jumlah pemain menggunakan keyboard. Ini ditujukan untuk perangkat yang menggunakan driver keyboard, tetapi Anda juga dapat melihat berapa banyak orang yang muat di sekitar keyboard!"
+msgstr "Atur jumlah pemain menggunakan papanketik. Ini ditujukan untuk perangkat yang menggunakan driver papanketik, tetapi Anda juga dapat melihat berapa banyak orang yang muat di sekitar papanketik!"
 
 msgctxt "#35156"
 msgid "{0:d}"
@@ -15004,47 +15004,47 @@ msgstr "{0:d}"
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35157"
 msgid "Configure keyboard player 1"
-msgstr "Konfigurasikan keyboard pemain 1"
+msgstr "Konfigurasikan papanketik pemain 1"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35158"
 msgid "Configure keyboard player 2"
-msgstr "Konfigurasikan keyboard pemain 2"
+msgstr "Konfigurasikan papanketik pemain 2"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35159"
 msgid "Configure keyboard player 3"
-msgstr "Konfigurasikan keyboard pemain 3"
+msgstr "Konfigurasikan papanketik pemain 3"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35160"
 msgid "Configure keyboard player 4"
-msgstr "Konfigurasikan keyboard pemain 4"
+msgstr "Konfigurasikan papanketik pemain 4"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35161"
 msgid "Configure keyboard player 5"
-msgstr "Konfigurasikan keyboard pemain 5"
+msgstr "Konfigurasikan papanketik pemain 5"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35162"
 msgid "Configure keyboard player 6"
-msgstr "Konfigurasikan keyboard pemain 6"
+msgstr "Konfigurasikan papanketik pemain 6"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35163"
 msgid "Configure keyboard player 7"
-msgstr "Konfigurasikan keyboard pemain 7"
+msgstr "Konfigurasikan papanketik pemain 7"
 
 #. Name of setting to configure a keyboard player's controller configuration
 msgctxt "#35164"
 msgid "Configure keyboard player 8"
-msgstr "Konfigurasikan keyboard pemain 8"
+msgstr "Konfigurasikan papanketik pemain 8"
 
 #. Name of the keyboard-emulated controller in the list of peripherals
 msgctxt "#35165"
 msgid "Keyboard player"
-msgstr "Keyboard pemain"
+msgstr "Papanketik pemain"
 
 #. Heading for the button that lets the user map any keyboard key. Used in the controller mapping dialog.
 msgctxt "#35166"
@@ -15151,7 +15151,7 @@ msgstr "Emulator \"{0:s}\" mengalami kesalahan internal."
 #. Error dialog text when the game can't be played because it's not on a hard drive or partition
 msgctxt "#35214"
 msgid "This game can only be played directly from a hard drive or partition. Compressed files must be extracted."
-msgstr "Game ini hanya bisa dimainkan langsung dari harddisk atau partisi. File terkompres harus diekstrak."
+msgstr "Gim ini hanya bisa dimainkan langsung dari harddisk atau partisi. Berkas terkompres harus diekstrak."
 
 #. Error dialog text when libretro support is disabled
 msgctxt "#35215"
@@ -15176,7 +15176,7 @@ msgstr "Hapus status simpan"
 #. Error dialog text when trying to play a game and the game's files aren't found.
 msgctxt "#35219"
 msgid "The required files can't be found."
-msgstr "File yang diperlukan tidak dapat ditemukan."
+msgstr "Berkas yang diperlukan tidak dapat ditemukan."
 
 #. Description of add-on category for game providers
 msgctxt "#35220"
@@ -15309,7 +15309,7 @@ msgstr "Terpasang"
 #. Title of the dialog to select an emulator for the current game. {0:s} - game file extension
 msgctxt "#35258"
 msgid "Select emulator for {0:s} file"
-msgstr "Pilih emulator untuk file {0:s}"
+msgstr "Pilih emulator untuk berkas {0:s}"
 
 #. Label on emulators with a savestate in the emulator selection dialog
 msgctxt "#35259"
@@ -15409,7 +15409,7 @@ msgstr "Nyxboard Pulse-Eight"
 
 msgctxt "#36002"
 msgid "Switch to keyboard side command"
-msgstr "Pindah ke perintah samping keyboard"
+msgstr "Pindah ke perintah samping papanketik"
 
 msgctxt "#36003"
 msgid "Switch to remote side command"
@@ -15759,7 +15759,7 @@ msgstr "Abaikan token tertentu, mis. \"The\", selama operasi sortir. \"The Simps
 #. Description of setting with label #14071 "Allow file renaming and deletion"
 msgctxt "#36125"
 msgid "Allow files to be deleted and renamed through the user interface, via the context menu, e.g. press \"C\" on a keyboard to bring up this menu."
-msgstr "Izinkan berkas untuk dihapus dan diubah nama melalui antarmuka pengguna, melalui menu kontekstual tekan \"C\" di keyboard untuk memunculkan menu ini."
+msgstr "Izinkan berkas untuk dihapus dan diubah nama melalui antarmuka pengguna, melalui menu kontekstual tekan \"C\" di papanketik untuk memunculkan menu ini."
 
 #. Description of setting with label #21382 Show "Add source" buttons in files lists"
 msgctxt "#36126"
@@ -15871,12 +15871,12 @@ msgstr "Hapus item dari perpustakaan Anda yang tidak dapat ditemukan (baik digan
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"
 msgid "Export the video library database to XML files. This will optionally overwrite your current XML files."
-msgstr "Ekspor database perpustakaan video ke file XML. Ini secara opsional akan menimpa file XML Anda saat ini."
+msgstr "Ekspor basis data perpustakaan video ke berkas XML. Ini secara opsional akan menimpa berkas XML Anda saat ini."
 
 #. Description of setting with label #648 "Import video library"
 msgctxt "#36150"
 msgid "Import an XML file into the video library database."
-msgstr "Impor file XML ke dalam database perpustakaan video."
+msgstr "Impor berkas XML ke dalam basis data pustaka video."
 
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36151"
@@ -15886,7 +15886,7 @@ msgstr "Kategori ini berisi pengaturan tentang bagaimana pemutaran video ditanga
 #. Description of setting with label #13433 "Play next video automatically"
 msgctxt "#36152"
 msgid "Enable automatic playback of the next file in the list for selected playlist types."
-msgstr "Aktifkan pemutaran otomatis file berikutnya dalam daftar untuk jenis daftar putar yang dipilih."
+msgstr "Aktifkan pemutaran otomatis berkas berikutnya dalam daftar untuk jenis daftar putar yang dipilih."
 
 #. Description of setting with label #13415 "Render method"
 msgctxt "#36153"
@@ -15901,7 +15901,7 @@ msgstr "Gunakan penskala berkualitas tinggi saat meningkatkan skala video setida
 #. Description of setting with label #13425 "Allow hardware acceleration (VDPAU)"
 msgctxt "#36155"
 msgid "Enable VDPAU hardware decoding of video files, mainly used for NVIDIA graphics and in some circumstances AMD graphics."
-msgstr "Aktifkan decoding perangkat keras VDPAU dari file video, terutama digunakan untuk grafis NVIDIA dan dalam beberapa keadaan grafis AMD."
+msgstr "Aktifkan decoding perangkat keras VDPAU dari berkas video, terutama digunakan untuk grafis NVIDIA dan dalam beberapa keadaan grafis AMD."
 
 #. Description of setting with label #13426 "Allow hardware acceleration (VAAPI)"
 msgctxt "#36156"
@@ -15921,12 +15921,12 @@ msgstr "Aktifkan pendekodean perangkat keras DXVA2 atas berkas video."
 #. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
 msgctxt "#36159"
 msgid "Enable CrystalHD decoding of video files."
-msgstr "Aktifkan decoding CrystalHD file video."
+msgstr "Aktifkan decoding CrystalHD berkas video."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
 msgid "Enable VTB hardware decoding of video files."
-msgstr "Aktifkan decoding perangkat keras VTB untuk file video."
+msgstr "Aktifkan decoding perangkat keras VTB untuk berkas video."
 
 #. Description of setting with label #508 "Startup action"
 msgctxt "#36161"
@@ -15986,7 +15986,7 @@ msgstr "Pilih tingkat zum untuk menampilkan video 4:3 pada tampilan layar lebar.
 #. Description of setting with label #13430 "Allow hardware acceleration - PRIME"
 msgctxt "#36172"
 msgid "Enable PRIME decoding of video files"
-msgstr "Aktifkan decoding PRIME file video"
+msgstr "Aktifkan decoding PRIME berkas video"
 
 #. Description of setting with label #14109 "Short date format"
 msgctxt "#36173"
@@ -16006,7 +16006,7 @@ msgstr "Skala teleteks ke rasio 4:3."
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36176"
 msgid "This category contains the settings for how video file lists are handled."
-msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar file video ditangani."
+msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar berkas video ditangani."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
@@ -16021,7 +16021,7 @@ msgstr "Ekstrak informasi metadata seperti codec dan rasio aspek dari video."
 #. Description of setting with label #20419 "Replace file names with library titles"
 msgctxt "#36179"
 msgid "When a file is scanned into the library it will display the metadata title instead of the file name."
-msgstr "Saat file dipindai ke perpustakaan, itu akan menampilkan judul metadata, bukan nama file."
+msgstr "Saat berkas dipindai ke perpustakaan, itu akan menampilkan judul metadata, bukan nama berkas."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36180"
@@ -16035,7 +16035,7 @@ msgstr "Belum ada info tersedia."
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
 msgid "Combines multi-part video files, DVD folders or movie folders, down to a single item in non-library views."
-msgstr "Menggabungkan file video multi-bagian, folder DVD atau folder film, hingga satu item dalam tampilan non-perpustakaan."
+msgstr "Menggabungkan berkas video multi-bagian, folder DVD atau folder film, hingga satu item dalam tampilan non-pustaka."
 
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
@@ -16080,7 +16080,7 @@ msgstr "Ganti fon takarir dalam format takarir seperti ASS / SSA."
 #. Description of setting with label #21366 "Custom subtitle folder"
 msgctxt "#36191"
 msgid "Set a custom directory for your subtitles. This can be a file share."
-msgstr "Tetapkan direktori khusus untuk takarir Anda. Ini bisa berupa berbagi file."
+msgstr "Tetapkan direktori kustom untuk takarir Anda. Ini bisa berupa berbagi berkas."
 
 #. Description of setting with label #21460 "Subtitle location on screen"
 msgctxt "#36192"
@@ -16216,7 +16216,7 @@ msgstr "Jangan mengimpor data panduan saat memutar TV untuk meminimalkan penggun
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
 msgid "Enable PRIME hardware decoding of video files, used if ffmpeg PRIME hwaccel is available."
-msgstr "Aktifkan decoding perangkat keras PRIME untuk file video, digunakan jika ffmpeg PRIME hwaccel tersedia."
+msgstr "Aktifkan decoding perangkat keras PRIME untuk berkas video, digunakan jika ffmpeg PRIME hwaccel tersedia."
 
 msgctxt "#36224"
 msgid "Hide \"No information available\" labels when no guide data is available for a channel."
@@ -16368,7 +16368,7 @@ msgstr "Pilih penyedia informasi artis bawaan."
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36259"
 msgid "Check for new and removed media files on startup."
-msgstr "Periksa file media baru dan yang dihapus saat startup."
+msgstr "Periksa berkas media baru dan yang dihapus saat startup."
 
 msgctxt "#36260"
 msgid "No info available yet."
@@ -16382,12 +16382,12 @@ msgstr "Jika diaktifkan, frekuensi gambar ini digunakan untuk streaming yang tid
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
 msgid "Export parts of the music library to an XML file or NFO files. This will optionally overwrite your current NFO and artwork files."
-msgstr "Ekspor bagian perpustakaan musik ke file XML atau file NFO. Ini secara opsional akan menimpa file NFO dan karya seni Anda saat ini."
+msgstr "Ekspor bagian pustaka musik ke berkas XML atau berkas NFO. Ini secara opsional akan menimpa berkas NFO dan karya seni Anda saat ini."
 
 #. Description of setting with label #20197 "Import music library"
 msgctxt "#36263"
 msgid "Import an XML file into the music library database."
-msgstr "Impor file XML ke database perpustakaan musik."
+msgstr "Impor berkas XML ke basis data perpustakaan musik."
 
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36264"
@@ -16397,7 +16397,7 @@ msgstr "Kategori ini berisi pengaturan tentang bagaimana pemutaran musik ditanga
 #. Description of setting with label #489 "Play next song automatically"
 msgctxt "#36265"
 msgid "Automatically plays the next item in the current folder, for example in \"Files\" view after a track has been played, the next track in the same folder will automatically play."
-msgstr "Secara otomatis memutar item berikutnya di folder saat ini, misalnya dalam tampilan \"File\" setelah trek diputar, trek berikutnya dalam folder yang sama akan diputar secara otomatis."
+msgstr "Secara otomatis memutar item berikutnya di folder saat ini, misalnya dalam tampilan \"Berkas\" setelah trek diputar, trek berikutnya dalam folder yang sama akan diputar secara otomatis."
 
 #. Description of setting with label #14084 "Queue songs on selection"
 msgctxt "#36266"
@@ -16407,7 +16407,7 @@ msgstr "Ketika lagu yang dipilih akan diantrikan bukan langsung diputar."
 #. Description of setting with label #638 "Volume adjustments"
 msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
-msgstr "Baca informasi ReplayGain yang dikodekan dalam file audio Anda oleh program seperti MP3Gain dan normalkan tingkat suara yang sesuai."
+msgstr "Baca informasi ReplayGain yang dikodekan dalam berkas audio Anda oleh program seperti MP3Gain dan normalkan tingkat suara yang sesuai."
 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
@@ -16422,7 +16422,7 @@ msgstr "Volume referensi (tingkat PreAmp) yang akan digunakan untuk berkas tanpa
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
 msgid "Play file at lower volume, if necessary, to avoid audio limiting clipping protection. Otherwise clipping protection will be provided by the audioengine in those parts that need it."
-msgstr "Putar file pada volume yang lebih rendah, jika perlu, untuk menghindari perlindungan kliping yang membatasi audio. Jika tidak, perlindungan kliping akan disediakan oleh mesin audio di bagian-bagian yang membutuhkannya."
+msgstr "Putar berkas pada volume yang lebih rendah, jika perlu, untuk menghindari perlindungan kliping yang membatasi audio. Jika tidak, perlindungan kliping akan disediakan oleh mesin audio di bagian-bagian yang membutuhkannya."
 
 #. Description of setting with label #13314 "Crossfade between songs"
 msgctxt "#36271"
@@ -16442,7 +16442,7 @@ msgstr "Pilih visualisasi yang akan ditampilkan ketika mendengarkan musik."
 #. Description of setting with label #39125 "Enable tag reading in file view"
 msgctxt "#36274"
 msgid "When browsing music files in file view read the tags of those not in the music library as you go. This can make large directories slow to display, especially over a network."
-msgstr "Saat menelusuri file musik dalam tampilan file, baca tag yang tidak ada di perpustakaan musik saat Anda pergi. Ini dapat membuat direktori besar lambat untuk ditampilkan, terutama melalui jaringan."
+msgstr "Saat menelusuri berkas musik dalam tampilan berkas, baca tag yang tidak ada di perpustakaan musik saat Anda pergi. Ini dapat membuat direktori besar lambat untuk ditampilkan, terutama melalui jaringan."
 
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
@@ -16537,7 +16537,7 @@ msgstr "Kategori ini berisi pengaturan startup."
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Pilih folder tempat menyimpan informasi artis (file nfo dan gambar)."
+msgstr "Pilih folder tempat menyimpan informasi artis (berkas nfo dan gambar)."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
@@ -16591,7 +16591,7 @@ msgstr "Seksi yang berisi setelah yang berhubungan dengan gambar dan bagaimana m
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36305"
 msgid "This category contains the settings for how picture file lists are handled."
-msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar file gambar ditangani."
+msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar berkas gambar ditangani."
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
@@ -16815,7 +16815,7 @@ msgstr "Bagian yang berisi pengaturan terkait sistem untuk perangkat tempat apli
 #. Description of setting with label #13026 "Try to wake remote servers on access"
 msgctxt "#36350"
 msgid "Automatically send Wake-on-LAN to server(s) right before trying to access shared files or services."
-msgstr "Secara otomatis mengirim Wake-on-LAN ke server tepat sebelum mencoba mengakses file atau layanan bersama."
+msgstr "Secara otomatis mengirim Wake-on-LAN ke server tepat sebelum mencoba mengakses berkas atau layanan bersama."
 
 #. Description of setting with label #21373 "Display Mode"
 msgctxt "#36351"
@@ -16942,12 +16942,12 @@ msgstr "Konfigurasikan perangkat tambahan yang terpasang."
 #. Description of setting with label #21449 "Remote control sends keyboard presses"
 msgctxt "#36376"
 msgid "When activated, your keyboard arrows will move the selection on the virtual keyboard. When deactivated, they will move the cursor from your text."
-msgstr "Ketika aktif, panah di keyboard akan memindahkan pilihan pada keyboard virtual. Ketika non-aktif, akan memindahkan kursor dari teks anda."
+msgstr "Ketika aktif, panah di papanketik akan memindahkan pilihan pada papanketik virtual. Ketika non-aktif, akan memindahkan kursor dari teks anda."
 
 #. Description of setting with label #21369 "Enable mouse and Touch Screen support"
 msgctxt "#36377"
 msgid "Use a mouse or touch screen device to control the interface. Note: Disabling will cause you to lose control over this application when no keyboard or remote is present."
-msgstr "Gunakan mouse atau perangkat layar sentuh untuk mengontrol antarmuka. Catatan: Menonaktifkan akan menyebabkan Anda kehilangan kendali atas aplikasi ini saat tidak ada keyboard atau remote."
+msgstr "Gunakan mouse atau perangkat layar sentuh untuk mengontrol antarmuka. Catatan: Menonaktifkan akan menyebabkan Anda kehilangan kendali atas aplikasi ini saat tidak ada papanketik atau remot."
 
 #. Description of setting with label #35100 "Enable controller support"
 msgctxt "#36378"
@@ -17156,7 +17156,7 @@ msgstr "Tentukan lokasi yang digunakan ketika mengambil informasi cuaca."
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
 msgid "Look for external subtitles for videos provided by the UPnP server. This can cause extensive CPU, filesystem and network load."
-msgstr "Cari takarir eksternal untuk video yang disediakan oleh server UPnP. Ini dapat menyebabkan beban CPU, sistem file, dan jaringan yang ekstensif."
+msgstr "Cari takarir eksternal untuk video yang disediakan oleh server UPnP. Ini dapat menyebabkan beban CPU, berkas sistem, dan jaringan yang ekstensif."
 
 #. Description of setting with label #13437 "Prefer VDPAU Video Mixer"
 msgctxt "#36421"
@@ -17212,7 +17212,7 @@ msgstr "Menampilkan semua peristiwa di log peristiwa untuk profil saat ini denga
 #. Select the layout of a virtual keyboard
 msgctxt "#36432"
 msgid "Select virtual keyboard layouts."
-msgstr "Pilih layout keyboard virtual."
+msgstr "Pilih tata letak papanketik virtual."
 
 #. Description for video related setting #13457: "vaapi sw filter"
 msgctxt "#36433"
@@ -17233,7 +17233,7 @@ msgstr "Urutkan grup saluran berdasarkan urutan yang diberikan oleh backend. Jik
 #. Select the layout of a physically attached keyboard
 msgctxt "#36436"
 msgid "Select hardware keyboard layout."
-msgstr "Pilih tata letak keyboard perangkat keras."
+msgstr "Pilih tata letak perangkat keras papanketik."
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36437"
@@ -17540,7 +17540,7 @@ msgstr "3D LUT"
 #. Description of setting "System -> Video output -> 3D LUT" with label #36564
 msgctxt "#36565"
 msgid "Select the 3DLUT file to be used by default. If you place multiple 3DLUT files in the same directory, then you can switch between them in the OSD menu during video playback. This allows for multiple display profiles to account for different viewing environments and source materials, for example gamma 2.2 for daytime viewing and 2.4 for nighttime."
-msgstr "Pilih berkas 3DLUT yang akan digunakan secara bawaan. Jika Anda menempatkan beberapa file 3DLUT dalam direktori yang sama, maka Anda dapat beralih di antara mereka dalam menu OSD selama pemutaran video. Hal ini memungkinkan beberapa profil tampilan untuk memperhitungkan lingkungan tampilan dan bahan sumber yang berbeda, misalnya gamma 2.2 untuk tampilan siang hari dan 2.4 untuk malam hari."
+msgstr "Pilih berkas 3DLUT yang akan digunakan secara bawaan. Jika Anda menempatkan beberapa berkas 3DLUT dalam direktori yang sama, maka Anda dapat beralih di antara mereka dalam menu OSD selama pemutaran video. Hal ini memungkinkan beberapa profil tampilan untuk memperhitungkan lingkungan tampilan dan bahan sumber yang berbeda, misalnya gamma 2.2 untuk tampilan siang hari dan 2.4 untuk malam hari."
 
 msgctxt "#36566"
 msgid "ICC display profile"
@@ -17576,7 +17576,7 @@ msgstr "Mode gamma"
 #. Description of setting "System -> Video output -> Gamma mode" with label #36572
 msgctxt "#36573"
 msgid "Select the gamma curve formula. Use BT.1886 for gamma curve that accounts for display black and white levels and avoids perceptual clipping. Use input offset for a similar curve with a manually specified effective gamma. Output offset allows for perceptual clipping, but can be used to compensate for incorrect mastering monitor settings that lead to too bright dark details. Absolute gamma does not account for display black at all and will clip the lowest levels to display black on any display with higher than zero black level."
-msgstr "Pilih rumus kurva gamma. Gunakan BT.1886 untuk kurva gamma yang memperhitungkan tampilan tingkat hitam dan putih dan menghindari kliping persepsi. Gunakan offset input untuk kurva serupa dengan gamma efektif yang ditentukan secara manual. Offset keluaran memungkinkan kliping perseptual, tetapi dapat digunakan untuk mengimbangi pengaturan mastering monitor yang salah yang menyebabkan detail gelap yang terlalu terang. Gamma absolut tidak memperhitungkan tampilan hitam sama sekali dan akan memotong level terendah untuk menampilkan hitam pada tampilan apa pun dengan level hitam lebih tinggi dari nol."
+msgstr "Pilih rumus kurva gamma. Gunakan BT.1886 untuk kurva gamma yang memperhitungkan tampilan tingkat hitam dan putih dan menghindari kliping persepsi. Gunakan imbang input untuk kurva serupa dengan gamma efektif yang ditentukan secara manual. Imbang keluaran memungkinkan kliping perseptual, tetapi dapat digunakan untuk mengimbangi pengaturan mastering monitor yang salah yang menyebabkan detail gelap yang terlalu terang. Gamma absolut tidak memperhitungkan tampilan hitam sama sekali dan akan memotong level terendah untuk menampilkan hitam pada tampilan apa pun dengan level hitam lebih tinggi dari nol."
 
 msgctxt "#36574"
 msgid "Gamma"
@@ -17585,7 +17585,7 @@ msgstr "Gamma"
 #. Description of setting "System -> Video output -> Gamma" with label #36574
 msgctxt "#36575"
 msgid "Gamma for selected gamma curve type. For input and output offset, the result at 50% will match an absolute gamma curve with this gamma value."
-msgstr "Gamma untuk jenis kurva gamma yang dipilih. Untuk offset input dan output, hasil pada 50% akan cocok dengan kurva gamma absolut dengan nilai gamma ini."
+msgstr "Gamma untuk jenis kurva gamma yang dipilih. Untuk imbang masukan dan keluaran, hasil pada 50% akan cocok dengan kurva gamma absolut dengan nilai gamma ini."
 
 msgctxt "#36576"
 msgid "Lookup table size"
@@ -17610,7 +17610,7 @@ msgstr "UHDTV (BT.2020)"
 #. Dialog title for 3D LUT file picker
 msgctxt "#36580"
 msgid "3D LUT file"
-msgstr "File 3D LUT"
+msgstr "Berkas 3D LUT"
 
 #. Dialog title for ICC display profile file picker
 msgctxt "#36581"
@@ -17624,11 +17624,11 @@ msgstr "BT.1886"
 
 msgctxt "#36583"
 msgid "Input offset"
-msgstr "Input offset"
+msgstr "Imbang masukan"
 
 msgctxt "#36584"
 msgid "Output offset"
-msgstr "Output offset"
+msgstr "Imbang keluaran"
 
 msgctxt "#36585"
 msgid "Absolute"
@@ -17704,7 +17704,7 @@ msgstr "Kategori ini berisi pengaturan tentang bagaimana perpustakaan musik dita
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
 msgid "This category contains the settings for how music file lists are handled."
-msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar file musik ditangani."
+msgstr "Kategori ini berisi pengaturan tentang bagaimana daftar berkas musik ditangani."
 
 #. Description of settings category with label #1273 "AirPlay"
 msgctxt "#36602"
@@ -18273,7 +18273,7 @@ msgstr "Buffer semua sistem berkas, termasuk berkas lokal"
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr "Membuat tembolok dari semua berkas di penyimpanan diska"
+msgstr "Membuat tembolok dari semua berkas di penyimpanan disk"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
@@ -18489,7 +18489,7 @@ msgstr "Dapatkan informasi tambahan untuk album dan artis? Ini bisa memakan wakt
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
 msgid "Do full tag scan even when music files are unchanged?"
-msgstr "Apakah pemindaian tag lengkap bahkan ketika file musik tidak berubah?"
+msgstr "Apakah pemindaian tag lengkap bahkan ketika berkas musik tidak berubah?"
 
 #. Item in selection list #38338. Settings will change the default addon used to fetch artist or album information, related to #20195, #20193 and #20194
 msgctxt "#38063"
@@ -18665,7 +18665,7 @@ msgstr "Kategori ini berisi pengaturan tingkat lanjut untuk pemutaran video"
 # empty strings from id 38113 to 38189
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
-msgstr "Ekstrak thumbnail dari file video"
+msgstr "Ekstrak thumbnail dari berkas video"
 
 #. Description of setting "Pictures -> Show EXIF picture information" with label #38207
 msgctxt "#38207"
@@ -18696,7 +18696,7 @@ msgstr "Berkas tunggal"
 #. Kind of export output, see #38304
 msgctxt "#38302"
 msgid "Separate files for each item"
-msgstr "Pisahkan file untuk setiap item"
+msgstr "Pisahkan berkas untuk setiap item"
 
 #. Kind of export output, see #38304
 msgctxt "#38303"
@@ -18724,20 +18724,20 @@ msgstr "Sertakan karya seni seperti thumbnail dan fanart"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
-msgstr "Sertakan item yang belum tergores (untuk membuat file NFO template)"
+msgstr "Sertakan item yang belum tergores (untuk membuat templat berkas NFO)"
 
 msgctxt "#38309"
 msgid "Output information to NFO files"
-msgstr "Keluarkan informasi ke file NFO"
+msgstr "Keluarkan informasi ke berkas NFO"
 
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr "Keluarkan informasi ke file NFO (saat ini hanya mengekspor folder artis)"
+msgstr "Keluarkan informasi ke berkas NFO (saat ini hanya mengekspor folder artis)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
-msgstr "Timpa file yang ada"
+msgstr "Timpa berkas yang ada"
 
 #. Music item to export output, see #38306
 msgctxt "#38312"
@@ -18768,7 +18768,7 @@ msgstr "Ekspor"
 #. Message when adding music source and setting #20223 is empty
 msgctxt "#38320"
 msgid "Do you have local artist information (NFO) and art files that you want to fetch? Set the location of these artist folders now"
-msgstr "Apakah Anda memiliki informasi artis lokal (NFO) dan file seni yang ingin Anda ambil? Atur lokasi folder artis ini sekarang"
+msgstr "Apakah Anda memiliki informasi artis lokal (NFO) dan berkas seni yang ingin Anda ambil? Atur lokasi folder artis ini sekarang"
 
 #. Kind of export output, see #38304
 msgctxt "#38321"
@@ -18870,7 +18870,7 @@ msgstr "Mengimpor riwayat lagu - {0:d} diperbarui dari {0:d} lagu yang diimpor"
 #. Message when reading the user specified XML for import to library fails
 msgctxt "#38354"
 msgid "Unable to read xml file"
-msgstr "Tidak dapat membaca file xml"
+msgstr "Tidak dapat membaca berkas xml"
 
 # empty strings from id 38355 to 39003
 #. Description of category "Library" with label #14202
@@ -18916,7 +18916,7 @@ msgstr "Atur waktu maksimum untuk menunggu jaringan muncul setelah memulai atau 
 
 msgctxt "#39013"
 msgid "Virtual filesystems"
-msgstr "Sistem file virtual"
+msgstr "Berkas sistem virtual"
 
 #. Message of a dialog, asking if related data of an add-on should also be removed on uninstall
 msgctxt "#39014"
@@ -19096,7 +19096,7 @@ msgstr "Terakhir diubah"
 
 msgctxt "#39120"
 msgid "Skip filename matching for external audio tracks"
-msgstr "Lewati pencocokan nama file untuk trek audio eksternal"
+msgstr "Lewati pencocokan nama berkas untuk trek audio eksternal"
 
 #. Label for section of settings controling what is shown on the library windows
 msgctxt "#39121"
@@ -19121,17 +19121,17 @@ msgstr "Logging panjang untuk komponen [B]Pengaya[/B]"
 # empty string with id 39124
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
-msgstr "Aktifkan pembacaan tag dalam tampilan file"
+msgstr "Aktifkan pembacaan tag dalam tampilan berkas"
 
 # empty string with id 39126
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
-msgstr "Gunakan semua file gambar lokal sebagai karya seni"
+msgstr "Gunakan semua berkas gambar lokal sebagai karya seni"
 
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr "Semua file gambar yang terletak di samping file media diambil sebagai karya seni selama pemindaian perpustakaan, dengan nama file sebagai jenis seni."
+msgstr "Semua berkas gambar yang terletak di samping berkas media diambil sebagai karya seni selama pemindaian perpustakaan, dengan nama berkas sebagai jenis seni."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
@@ -19162,12 +19162,12 @@ msgstr "Batasi karya seni album yang diambil secara lokal atau diterapkan dari h
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
-msgstr "File gambar mini"
+msgstr "Berkas gambar thumbnail"
 
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr "Nama file yang berisi karya seni utama (thumbnail), umumnya berbentuk persegi dan digunakan baik dalam ukuran penuh maupun dalam ukuran yang diperkecil untuk mengidentifikasi folder, artis, album, atau lagu secara visual"
+msgstr "Nama berkas yang berisi karya seni utama (thumbnail), umumnya berbentuk persegi dan digunakan baik dalam ukuran penuh maupun dalam ukuran yang diperkecil untuk mengidentifikasi folder, artis, album, atau lagu secara visual"
 
 msgctxt "#39137"
 msgid "Artwork level"
@@ -19923,7 +19923,7 @@ msgstr "Edisi Ulang Tahun ke-50"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr "Konfirmasi penghapusan berkas"
+msgstr "Konfirmasi hapus berkas"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
