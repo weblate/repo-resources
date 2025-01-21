@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-12-11 14:46+0000\n"
-"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
+"PO-Revision-Date: 2025-01-20 17:07+0000\n"
+"Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1451,7 +1451,7 @@ msgstr "Cerah"
 #. Weather token
 msgctxt "#374"
 msgid "Cloudy"
-msgstr "Mendung"
+msgstr "Berawan"
 
 #. Weather token
 msgctxt "#375"
@@ -5120,6 +5120,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Tingkat batere"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Terima kasih!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi dipersembahkan kepada Anda dengan penuh cinta dari Yayasan Kodi, sebuah organisasi nirlaba 501(c)(3). Terima kasih telah menggunakan perangkat lunak kami!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Cuaca"
@@ -6045,10 +6060,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Perbolehkan akselerasi perangkat keras - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Perbolehkan akselerasi perangkat keras - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Ijinkan akselerasi perangkat keras - VTBDecoder"
@@ -6174,6 +6185,16 @@ msgstr "Aktifkan opsi ini untuk mengunakan akselerasi perangkat keras untuk kode
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Utamakan metode render VAAPI"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Gunakan filter Dekoder"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Aktifkan/nonaktifkan filter yang memblokir dekoder perangkat lunak Aneroid tertentu. Filter ini dapat diatur melalui berkas [datapengguna]/decoderfilter.xml."
 
 # empty strings from id 13458 to 13459
 msgctxt "#13460"
@@ -8048,7 +8069,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Informasi rekaman"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Sembunyikan saluran"
@@ -11326,7 +11347,7 @@ msgstr "Periksa untuk konten baru"
 
 msgctxt "#20416"
 msgid "First aired"
-msgstr "Pertama kali ditayangkan"
+msgstr "Tayang perdana"
 
 msgctxt "#20417"
 msgid "Writer"
@@ -11933,15 +11954,15 @@ msgstr "Tanpa batas"
 
 msgctxt "#21429"
 msgid "Order by"
-msgstr "Order berdasar"
+msgstr "Urut berdasarkan"
 
 msgctxt "#21430"
 msgid "ascending"
-msgstr "urut"
+msgstr "urut naik"
 
 msgctxt "#21431"
 msgid "descending"
-msgstr "terbalik"
+msgstr "urut turun"
 
 msgctxt "#21432"
 msgid "Edit smart playlist"
@@ -11973,11 +11994,11 @@ msgstr "{0:c} Drive"
 
 msgctxt "#21439"
 msgid "Edit party mode rules"
-msgstr "Sunting peraturan mode pesta"
+msgstr "Sunting aturan mode pesta"
 
 msgctxt "#21440"
 msgid "Home folder"
-msgstr "Folder Home"
+msgstr "Folder Beranda"
 
 msgctxt "#21441"
 msgid "Watched count"
@@ -12018,7 +12039,7 @@ msgstr "Pengendali remot mengirimkan tekanan papanketik"
 #. Label for controls used to edit something (e.g. setting "Appearance -> Skin -> Edit" or a context menu entry to open timer settings dialog)
 msgctxt "#21450"
 msgid "Edit"
-msgstr "Ubah"
+msgstr "Sunting"
 
 msgctxt "#21451"
 msgid "Internet connection required."
@@ -12069,7 +12090,7 @@ msgstr "Manual"
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21462"
 msgid "Bottom of video"
-msgstr "Dasar video"
+msgstr "Bawah video"
 
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21463"
@@ -12079,7 +12100,7 @@ msgstr "Bawah layar"
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21464"
 msgid "Top of video"
-msgstr "Puncak video"
+msgstr "Atas video"
 
 #. Item list value of setting with label #21460 "Subtitle position on screen"
 msgctxt "#21465"
@@ -12128,7 +12149,7 @@ msgstr "Apakah akan mempertimbangkan item dari \"Semua musim\" dan \"Spesial\" d
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
 msgctxt "#21474"
 msgid "Neither"
-msgstr "Tidak ada"
+msgstr "Tidak termasuk"
 
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
 msgctxt "#21475"
@@ -15290,11 +15311,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Simpan game secara otomatis selama bermain game, jika didukung. Lanjutkan bermain di mana Anda tinggalkan."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Disimpan dengan:"
-
 # empty string with id 35255
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
@@ -15372,6 +15388,11 @@ msgstr "Alihkan pengaturan ini untuk masuk atau keluar dari RetroAchievements."
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Akun Anda tidak diverifikasi. Silakan periksa email Anda untuk menyelesaikan pendaftaran Anda."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Permainan ini memerlukan dukungan OpenGL untuk perenderan 3D. Dukungan OpenGL masih dalam pengembangan."
 
 # empty strings from id 35260 to 35504
 #. connection state "host unreachable"
@@ -15917,11 +15938,6 @@ msgstr "Saat diaktifkan, entri \"Kumpulan film\" digunakan meskipun perpustakaan
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Aktifkan pendekodean perangkat keras DXVA2 atas berkas video."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Aktifkan decoding CrystalHD berkas video."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17836,8 +17852,8 @@ msgstr "Versi protokol minimum"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Setel versi protokol SMB minimum untuk dinegosiasikan saat membuat koneksi. Memaksa SMBv2 mungkin diperlukan untuk mencegah penggunaan SMBv1 pada beberapa OS."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr "Atur versi protokol SMB minimum untuk ditawarkan ketika membuat koneksi. Memaksa SMBv2 dapat diperlukan untuk mencegah penggunaan SMBv1 di beberapa sistem. Hanya SMBv2.1 dan SMBv3 mendukung MTU Besar (ukuran keratan > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17873,6 +17889,11 @@ msgstr "Jika otentikasi server web diaktifkan, kata sandi juga harus dimasukkan.
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Anda harus memasukkan kata sandi terlebih dahulu sebelum otentikasi server web dapat diaktifkan."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr "SMBv2 dan MTU Besar"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19492,6 +19513,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Sesuaikan spasi antarbaris teks. Menetapkan nilai terlalu rendah dapat menyebabkan kotak saling tumpang tindih saat pengaturan \"Jenis latar belakang\" digunakan."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Tetapkan subtitle CC hanya untuk yang tunarungu"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Dengan mengaktifkannya, takarir CC akan diberi label untuk tunarungu; ini akan memengaruhi pemilihan takarir otomatis, yang kecuali ditentukan lain tidak akan ditampilkan secara bawaan."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19929,6 +19960,22 @@ msgstr "Konfirmasi hapus berkas"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jika diaktifkan, dialog konfirmasi akan ditampilkan ketika berkas akan dihapus. Jika dinonaktifkan, berkas akan dihapus tanpa konfirmasi pengguna."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Setel versi protokol SMB minimum untuk dinegosiasikan saat membuat koneksi. Memaksa SMBv2 mungkin diperlukan untuk mencegah penggunaan SMBv1 pada beberapa OS."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Perbolehkan akselerasi perangkat keras - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Disimpan dengan:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Aktifkan decoding CrystalHD berkas video."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

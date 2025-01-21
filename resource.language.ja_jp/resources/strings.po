@@ -5103,6 +5103,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "バッテリーレベル"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr ""
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr ""
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr ""
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "天気"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "ハードウェアアクセラレーションを許可する - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "ハードウェアアクセラレーションを許可する - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "ハードウェアアクセラレーションを許可する - VTBDecoder"
@@ -6156,6 +6167,16 @@ msgstr "このオプションを有効にすると、このオプションは、
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "VAAPI描画を優先する"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr ""
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr ""
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "録画情報"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "チャンネルを隠す"
@@ -15239,11 +15260,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "サポートしている場合、ゲームプレイ中にゲームを自動的に保存して中断したところからプレイを再開できます。"
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr ""
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15319,6 +15335,11 @@ msgstr ""
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
+msgstr ""
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr ""
 
 #. connection state "host unreachable"
@@ -15863,11 +15884,6 @@ msgstr "有効にすると、ムービーライブラリにそのセットの単
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "ビデオファイルでDXA2ハードウェアデコーディングを有効にする。"
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "ビデオファイルでCrystalHDデコーディングを有効にする。"
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17774,8 +17790,8 @@ msgstr "最低プロトコル バージョン"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "接続時にネゴシエートするSMBプロトコルの最小バージョンをセット。一部のOSでは、SMBv1を使用しないようにするために、SMBv2を強制する必要があります。"
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17811,6 +17827,11 @@ msgstr "Webサーバー認証が有効になっている場合は、パスワー
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Webサーバー認証を有効にする前に、まずパスワードを入力する必要があります。"
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19416,6 +19437,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr ""
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr ""
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19853,6 +19884,18 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "接続時にネゴシエートするSMBプロトコルの最小バージョンをセット。一部のOSでは、SMBv1を使用しないようにするために、SMBv2を強制する必要があります。"
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "ハードウェアアクセラレーションを許可する - CrystalHD"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "ビデオファイルでCrystalHDデコーディングを有効にする。"
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

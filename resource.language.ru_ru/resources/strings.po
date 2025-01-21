@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-04 18:19+0000\n"
-"Last-Translator: vgbsd <vg72i@protonmail.com>\n"
+"PO-Revision-Date: 2025-01-07 16:27+0000\n"
+"Last-Translator: Alexey <signfinder@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5106,6 +5106,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Уровень батареи"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Спасибо!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi предоставлен вам с любовью Фондом Kodi, некоммерческой организацией 501(c)(3). Спасибо за использование нашего программного обеспечения!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Погода"
@@ -5883,7 +5898,7 @@ msgstr "Открыть / Закрыть"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Выбор потока"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6030,10 +6045,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Включить аппаратное ускорение - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Включить аппаратное ускорение - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Разрешить аппаратное ускорение - VTBDecoder"
@@ -6159,6 +6170,16 @@ msgstr "Включите, чтобы использовать аппаратно
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Предпочитать обработку VAAPI"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Использовать фильтр декодера"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Включение/отключение фильтра, блокирующего определённые программные декодеры для Android. Этот фильтр настраивается через файл [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8025,7 +8046,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Сведения о записи"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Скрыть канал"
@@ -15247,11 +15268,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Сохранять автоматически во время игры, если это возможно. Возобновите игру с момента, где вы остановились."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Сохранено с:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15328,6 +15344,11 @@ msgstr "Переключите этот параметр, чтобы войти 
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Ваша учётная запись не подтверждена. Пожалуйста, проверьте почту, чтобы завершить регистрацию."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Эта игра требует поддержки OpenGL для 3D-рендеринга. Поддержка OpenGL всё ещё находится в разработке."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15871,11 +15892,6 @@ msgstr "Когда включено, \"Киноколлекция\" исполь
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Включить аппаратное декодирование видео при помощи DXVA2."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Включить декодирование видео при помощи CrystalHD."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17782,8 +17798,8 @@ msgstr "Минимальная версия протокола"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Установите минимальную версию протокола SMB, которая будет использоваться при попытках подключения. Принудительная установка SMBv2 может потребоваться для предотвращения использования SMBv1 на некоторых операционных системах."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17819,6 +17835,11 @@ msgstr "Если включена аутентификация веб-серве
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Перед включением аутентификации веб-сервера необходимо ввести пароль."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17954,12 +17975,12 @@ msgstr "(Комментарии режиссёра 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "моно"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "стерео"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19426,6 +19447,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Настройка расстояния между строками текста. Слишком низкое значение может привести к перекрытию полей при использовании параметра «Тип фона»."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Установить субтитры CC только для людей с нарушением слуха"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "При включении субтитры CC будут помечены как подходящие для людей с нарушениями слуха; это повлияет на автоматический выбор субтитров, которые, если не указано иное, не будут отображаться по умолчанию."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19620,12 +19651,12 @@ msgstr "Версия по умолчанию фильма с нескольки�
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Удалить дополнительное видео"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Подтвердите удаление \"{0:s}\"?"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19863,6 +19894,22 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Установите минимальную версию протокола SMB, которая будет использоваться при попытках подключения. Принудительная установка SMBv2 может потребоваться для предотвращения использования SMBv1 на некоторых операционных системах."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Включить аппаратное ускорение - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Сохранено с:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Включить декодирование видео при помощи CrystalHD."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

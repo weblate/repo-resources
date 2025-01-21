@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-19 13:57+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2025-01-10 19:57+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/is_is/>\n"
 "Language: is_is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1700,7 +1700,7 @@ msgstr "Fjarlægja kvikmynd úr safni"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "Viltu í alvörunni fjarlægja '{0:s}' úr safninu?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1819,7 +1819,7 @@ msgstr "[virkt]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Skjátextastreymi"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2643,36 +2643,36 @@ msgstr "Úr lýsigögnum"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Stilla stærð jaðars."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Setja lit jaðars."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Stilla móðun."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Setja lit skugga."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Setja gegnsæi skugga."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Setja stærð skugga."
 
 msgctxt "#700"
 msgid "Cleaning up library"
-msgstr "Hreinsa upp safn"
+msgstr "Hreinsa til í safni"
 
 msgctxt "#701"
 msgid "Removing old songs from the library"
@@ -3227,72 +3227,72 @@ msgstr "Númer gátta er á bilinu 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr ""
+msgstr "Hvaða rás sem er frá biðlaranum \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "Hvaða rás sem er frá hvað biðlara sem er"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Nýlega viðbættar rásir"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Biðlari"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Kerfi"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Notandi"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Allar rásir]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Eyða eftir áhorf"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Stilla hvort eyða eigi upptökum eftir að horft hefur verið á þær."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Spyrja"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Já"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Viltu eyða þessari upptöku?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Upptöku eytt: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4734,12 +4734,12 @@ msgstr "Valmynd"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "Myndmerkissía"
 
 #. Title of the in-game video stretch mode selection dialog
 msgctxt "#10824"
 msgid "Stretch Mode"
-msgstr ""
+msgstr "Teygjuhamur"
 
 #. Title of the in-game volume dialog
 msgctxt "#10825"
@@ -4749,12 +4749,12 @@ msgstr "Hljóðstyrkur"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Ítarlegar stillingar"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "Snúningur myndmerkis"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
@@ -4764,17 +4764,17 @@ msgstr "Uppsetning gáttar"
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Veldu vistunarstöðu"
 
 #. Title of the out-of-game dialog to select a savestate for the current game
 msgctxt "#10830"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Veldu vistunarstöðu"
 
 #. Name of window for viewing and configuring players while playing a game
 msgctxt "#10831"
 msgid "Players"
-msgstr ""
+msgstr "Spilarar"
 
 msgctxt "#12000"
 msgid "Select dialog"
@@ -4831,11 +4831,11 @@ msgstr "Síðast uppfært"
 
 msgctxt "#12015"
 msgid "Select video version"
-msgstr ""
+msgstr "Veldu útgáfu myndskeiðs"
 
 msgctxt "#12016"
 msgid "Select video extra"
-msgstr ""
+msgstr "Veldu aukaefni myndskeiðs"
 
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
@@ -5103,6 +5103,21 @@ msgstr "Heildarkeyrslutími"
 msgctxt "#12395"
 msgid "Battery level"
 msgstr "Hleðsla á rafhlöðu"
+
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Þakka þér fyrir!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi kemur til þín með hlýjum kveðjum frá Kodi Foundation, sjálfseignarstofnun 501(c)(3) sem ekki er rekin í hagnaðarskyni. Takk fyrir að nota hugbúnaðinn okkar!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5481,7 +5496,7 @@ msgstr "Leita að skjátextum í RAR skrám"
 
 msgctxt "#13250"
 msgid "Browse for subtitle..."
-msgstr "Sækja skjátexta..."
+msgstr "Velja skjátexta..."
 
 msgctxt "#13251"
 msgid "Move item"
@@ -5836,7 +5851,7 @@ msgstr "Sjálfgefið gamma"
 
 msgctxt "#13381"
 msgid "Resume video"
-msgstr "Áfram með mynd"
+msgstr "Halda áfram með mynd"
 
 msgctxt "#13382"
 msgid "Voice mask - Port 1"
@@ -5881,7 +5896,7 @@ msgstr "Disk út / inn"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Val á streymi"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -5983,12 +5998,12 @@ msgstr "Sjálfvirkt"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
-msgstr ""
+msgstr "Leyfa notkun á DXVA ofurupplausn myndmerkis"
 
 #. Setting Player / Video
 msgctxt "#13418"
 msgid "Use high precision processing"
-msgstr ""
+msgstr "Nota vinnslu með mikilli nákvæmni"
 
 msgctxt "#13419"
 msgid "Software"
@@ -6014,7 +6029,7 @@ msgstr "Muna fyrir þessa slóð"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "Veldu spilunarlista"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6027,10 +6042,6 @@ msgstr "Leyfa vélbúnaðarhröðun - VAAPI"
 msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Leyfa vélbúnaðarhröðun - DXVA2"
-
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Leyfa vélbúnaðarhröðun - CrystalHD"
 
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
@@ -6063,7 +6074,7 @@ msgstr "Virkja HQ-kvörðun fyrir kvörðun yfir"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Stilla HDR-ham skjás"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6158,6 +6169,16 @@ msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Velja frekar VAAPI myndgerðham"
 
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Nota afkóðarasíu"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Virkja/Gera óvirka síuna sem lokar á ýmsa hugbúnaðarafkóðara í Android. Hægt er að stilla þessa síu í skránni [userdata]/decoderfilter.xml."
+
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
 msgstr "Nota HEVC VAAPI"
@@ -6206,16 +6227,16 @@ msgstr "Virkjaðu þennan valkost til að nota vélbúnaðarhröðun fyrir AV1-k
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Nota AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Virkjaðu þennan valkost til að nota vélbúnaðarhröðun fyrir AVC-kóðun. Ef ekki virkt þá mun örgjörvinn vera notaður í staðinn."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "HQ millistigssnið uppkvörðunar (upscaler)"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
@@ -6225,17 +6246,17 @@ msgstr ""
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 bitar á rás"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 bitar á rás"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 bitar á rás"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6292,7 +6313,7 @@ msgstr "Mörk leiðréttingar á tónhæð"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "Þegar hraðabreyting fer yfir þessi mörk, mun tónhæðarleiðréttingarsíu vera beitt. Þetta minnkar \"geldingsraddaráhrif\" (chipmunk voices) sem venjulega koma til við slíka hraðabreytingu myndskeiða"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6887,11 +6908,11 @@ msgstr "Leyfa tvöfaldann uppfærsluhraða"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Ítarlegt"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Biðraðir hljóð/myndmerkis í spilara"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7116,11 +7137,11 @@ msgstr "Leyfa fjarstýringu frá forritum á öðrum kerfum"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Viðhald"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Hreinsa biðminni mynda"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
@@ -7939,11 +7960,11 @@ msgstr "Það er þegar til tímataka fyrir þennan atburð"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "0:Ekki var hægt að spila {0:s}."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Ekki er hægt að spila þessa upptöku."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7981,11 +8002,11 @@ msgstr "Upptaka"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Athugaðu uppsetninguna þína."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Enginn PVR-upptökubiðlari er í gangi. Bíddu eftir að upptökubiðlari sé kominn í gang."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8023,7 +8044,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Upplýsingar um upptöku"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Fela rás"
@@ -8298,17 +8319,17 @@ msgstr "Rammatíðni til vara"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Gat ekki vistað tímatökuna."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Gat ekki eytt tímatökunni."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "Villa í PVR-upptökubakenda."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8558,7 +8579,7 @@ msgstr "Upptökur"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Gat ekki hafið upptökuna."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8588,7 +8609,7 @@ msgstr "Fela upplýsingabox fyrir mynd"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Gat ekki stöðvað upptökuna."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8704,7 +8725,7 @@ msgstr "Engin af tengdum upptöku-bakendum styður skönnun eftir rásum."
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Skönnun rása gat ekki hafist."
 
 #. unused?
 msgctxt "#19194"
@@ -9043,7 +9064,7 @@ msgstr "Barnalæsing. Settu inn PIN:"
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Gat ekki uppfært tímatökuna."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9477,37 +9498,37 @@ msgstr "Kjörstilling notanda"
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr ""
+msgstr "Nota röðun rásahópa frá bakenda (bakendum)"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "Fyrri dagskrárliðir (Catchup) / Myndbandaleiga ( VOD"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "Spila næsta dagskrárlið sjálfkrafa"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "Spila dagskrárliði héðan"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr ""
+msgstr "Spila aðeins þennan dagskrárlið"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Tvítaka"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Afrit af '{0:s}'"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -12577,12 +12598,12 @@ msgstr "Stafatafla"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr ""
+msgstr "Sjálfgefin aðgerð við afspilun"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "Spyrja hvort hægt sé að halda áfram"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -13129,7 +13150,7 @@ msgstr "Sæki skjátexta ..."
 
 msgctxt "#24111"
 msgid "Languages to download subtitles for"
-msgstr "Sækja skjátexta fyrir tungumál"
+msgstr "Tungumál sem á að sækja skjátexta fyrir"
 
 #. Description of setting "Videos -> Subtitles -> Languages to download subtitles for" with label #24111
 msgctxt "#24112"
@@ -13988,7 +14009,7 @@ msgstr "Hlutverk"
 #. Label for multi-disc movies, including movie title (param 0) and disc number (param 1).
 msgctxt "#29995"
 msgid "{0:s} (Disc {1:s})"
-msgstr ""
+msgstr "{0:s} (Diskur {1:s})"
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -14193,7 +14214,7 @@ msgstr "Stilltu"
 
 msgctxt "#33060"
 msgid "Power"
-msgstr "Kveikt / slökkt"
+msgstr "Gangstýring"
 
 msgctxt "#33061"
 msgid "Menu"
@@ -14411,7 +14432,7 @@ msgstr "Til að halda sumum AVR-hljóð-myndtækjum vakandi, er sent út tilvilj
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "Taka með LFE þegar blandað er niður"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
@@ -14421,17 +14442,17 @@ msgstr ""
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Slökkt"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -15031,12 +15052,12 @@ msgstr "Mús"
 #. Name of window for configuring players while playing a game
 msgctxt "#35172"
 msgid "Players"
-msgstr ""
+msgstr "Spilarar"
 
 #. Notification shown when no controllers are connected in the in-game dialog that lets users configure player assignment
 msgctxt "#35173"
 msgid "No controllers connected"
-msgstr ""
+msgstr "Engar stýringar tengdar"
 
 #. This string is an early meme from the late 1990's that made fun of the poor translation in the 16-bit game Zero Wing from the late 1980's. DO NOT TRANSLATE!
 msgctxt "#35200"
@@ -15240,11 +15261,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Vista leikinn sjálfvirkt á meðan leik stendur, ef það er stutt. Síðan er haldið áfram að spila þar sem þú hættir."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr ""
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15321,6 +15337,11 @@ msgstr "Víxlaðu þessum stillingum til að skrá inn eða út af RetroAchievem
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Notandaaðganginn þinn er ekki staðfestur. Athugaðu tölvupóstinn þinn til að ljúka skráningunni þinni."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Þessi leikur krefst stuðnings við OpenGL fyrir 3D-myndgerð. OpenGL-stuðningur er enn í þróun."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15571,7 +15592,7 @@ msgstr "Móttakari"
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
 msgid "Use system HDR/SDR brightness balance"
-msgstr ""
+msgstr "Nota HDR/SDR birtustigsjafnvægi kerfisins"
 
 # empty strings from id 36054 to 36096
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
@@ -15865,11 +15886,6 @@ msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Virkja DXVA2 vélbúnaðar-afkóðun á myndefnisskrám."
 
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Virkja CrystalHD afkóðun á myndefnisskrám."
-
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
 msgid "Enable VTB hardware decoding of video files."
@@ -15958,7 +15974,7 @@ msgstr "Þessi flokkur inniheldur stillingar á hvernig myndefnislistar eru með
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Víxlar á milli [Veldu], [Spila] (sjálfgefið), [Halda áfram], [Birta upplýsingar] og [Setja atriði í biðröð].[CR][Veldu] mun opna samhengisvalmynd til að velja atriði, t.d. að birta upplýsingar.[CR][Spila] mun sjálfkrafa spila myndskeið frá byrjun, eða ef framvindumerki er til staðar, þá verður spurt hvort eigi að spila frá byrjun eða halda áfram frá því merki.[CR][Halda áfram] mun sjálfkrafa halda áfram með myndskeið frá þeim stað sem verið var að horfa síðast.[CR][Birta upplýsingar] mun opna upplýsingaglugga fyrir myndskeið.[CR][Setja atriði í biðröð] mun bæta myndskeiðinu aftast á spilunarlista myndskeiða."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -15973,7 +15989,7 @@ msgstr "Þegar skrá er skönnuð inní safnið þá verður titillinn í lýsig
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36180"
 msgid "Extract thumbnails to display in library mode."
-msgstr "Sækja smámyndir til birtingar í söfnum."
+msgstr "Ná í smámyndir til birtingar í söfnum."
 
 msgctxt "#36181"
 msgid "No info available yet."
@@ -16085,7 +16101,7 @@ msgstr "Virkjar \"Persónulegt videoupptökutæki\" (PVR) virkni. Þetta krefst 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr ""
+msgstr "Víxlar á milli [Spyrja hvort hægt sé að halda áfram] (sjálfgefið) og [Halda áfram].[CR][Spyrja hvort hægt sé að halda áfram] mun spyrja hvort eigi að spila frá byrjun eða halda áfram frá framvindumerki (ef slíkt finnst).[CR][Halda áfram] mun sjálfkrafa halda áfram með myndskeið frá þeim stað sem verið var að horfa síðast.[CR]Ef ekkert framvindumerki er til staðar, verður sjálfkrafa spilað frá byrjun."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16193,7 +16209,7 @@ msgstr "Birta upplýsingar um gæði merkis í upplýsingarglugga kóðara (ef s
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "Setja ógegnsæi bakgrunns fyrir skjátexta."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16494,7 +16510,7 @@ msgstr "Þegar tónlist er raðað eftir listamönnum er notað eftirnafnið t.d
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "Stilla gegnsæi skjátextans."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -17775,8 +17791,8 @@ msgstr "Lágmarksútgáfa samskiptastaðals"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Settu lágmarksútgáfu SMB-samskiptastaðals sem nota skal við gerð tenginga. Það gæti þurft að þvinga fram SMBv2 til að koma í veg fyrir að notað sé SMBv1 á sumum stýrikerfum."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17812,6 +17828,11 @@ msgstr "Ef auðkenning er virkjuð á vefþjóninum, verður einnig að setja in
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Þú verður fyrst að setja inn lykilorð áður en hægt sé að virkja auðkenningu vefþjónsins."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17947,12 +17968,12 @@ msgstr "(Athugasemdir leikstjóra 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "einóma"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "víðóma"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18115,63 +18136,63 @@ msgstr "Útgáfa NFS-samskiptamátans sem á að nota við að koma á NFS-tengi
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "Stærð böggla"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "Stærð NFS-böggla"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "Stærð gagnaböggla sem notuð er á NFS-tengingum"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "Stærð SMB-böggla"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "Stærð gagnaböggla sem notuð er á SMB-tengingum"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "Skyndiminni"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "Þessi flokkur inniheldur stillingar fyrir biðminni staðværra og fjartengdra skráa, auk streyma af internetinu."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "Biðminnishamur"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "Stilla hvaða margmiðlunarefni eigi að setja í biðminni."
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "Stærð minnis"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "Stærð biðminnis í Mbætum. Sé sett núll (0) er biðminni þvingað á disk, sem er ekki ráðlegt með flash-geymslutækjum (eMMC, SD-minniskort, SSD-diskar)."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "lesa-stuðull"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
@@ -18181,94 +18202,94 @@ msgstr ""
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "Stærð gagnaböggla sem notuð er þegar skráakerfi eða samskiptastaðall þvingar ekki fram gildið, t.d. munu NFS-tengingar nota sitt eigið gildi."
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "Ekkert biðminni"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "Aðeins setja raunveruleg internet-streymi í biðminni: HTTP, HTTPS, o.s.frv."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "Setja öll internet-skráakerfi í biðminni, þar með talið: FTP, WebDAV, o.s.frv."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "Setja öll netkerfis-skráakerfi í biðminni, þar með talið: SMB, NFS, o.s.frv."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "Setja öll skráakerfi í biðminni, þar með taldar staðværar skrár"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Setur heilar skrár í biðminni á diski"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Aðlaganlegt"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} bæti"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KB"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MB"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} GB"
 
 # empty strings from id 37124 to 37127
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} sekúnda"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} sekúndur"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Biðtími hjóð/myndmerkis"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Tímalengd í sekúndum á biðröðum hljóð/myndmerkja. Tímalengdin ákvarðar magn gagna sem geymd eru í minni."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Hámarksstærð biðraðar myndskeiða"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Takmarkar hámarksminni sem notað er fyrir biðröð myndmerkja. Magn notaðs minnis fer eftir bitahraða myndmerkis og lengd biðraðar. Ef takmörkum minnis er náð, verður tími í biðröð minnkaður eftir þörfum."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18593,7 +18614,7 @@ msgstr "Skipta sjálfkrafa yfir í sjónhrifaglugga þegar hljóðafspilun byrja
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Þessi flokkur inniheldur ítarlegar fyrir afspilun myndefnis"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -18612,7 +18633,7 @@ msgstr "Ef EXIF-upplýsingar eru tiltækar (dagsetning, tími og myndavél notu�
 #. Contextmenu entry to remove the resume point of the currently selected item
 msgctxt "#38209"
 msgid "Reset resume position"
-msgstr "Endurstilla spilunarstaðsetningu"
+msgstr "Endurstilla framvindustaðsetningu"
 
 #. Dialog header for settings for how to export specific music library data
 msgctxt "#38300"
@@ -18962,7 +18983,7 @@ msgstr "þvingað"
 #. audio/video/subtitle flag - FLAG_HEARING_IMPAIRED
 msgctxt "#39107"
 msgid "captions"
-msgstr "fyrirsagnir"
+msgstr "skýringar"
 
 #. audio/video/subtitle flag - FLAG_VISUAL_IMPAIRED
 msgctxt "#39108"
@@ -19359,16 +19380,16 @@ msgstr ""
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
 msgid "HDR"
-msgstr ""
+msgstr "HDR"
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "Gera skjáhvílu óvirka á meðan hljóð er spilað"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "Sé verið að spila tónlist er skjáhvílan aldrei virkjuð"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
@@ -19378,12 +19399,12 @@ msgstr ""
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Virkjaðu þetta til að fá bestu myndgæði. Óvirkt minnkar álag á tækjum með takmörkuð afköst."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "Dolby Vision samhæfnihamur"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
@@ -19393,7 +19414,7 @@ msgstr ""
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Leyfð snið breytilegra HDR-lýsigagna"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
@@ -19403,21 +19424,31 @@ msgstr ""
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Línubil"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
+msgstr "Aðlagaðu bil milli textalína. Sé sett of lágt gildi geta textareitirnir skarast þegar stillingin \"Tegund bakgrunns\" er notuð."
+
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Setja skýringaskjátexta einungis fyrir heyrnarskerta"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
@@ -19429,12 +19460,12 @@ msgstr "Útgáfur"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "Sýsla með útgáfur"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "Bæta við sem útgáfu við..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19444,12 +19475,12 @@ msgstr "Útgáfa"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Veldu tegund"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "Aðgerðin er ekki studd"
 
 #. Warning dialog text
 msgctxt "#40006"
@@ -19459,107 +19490,107 @@ msgstr ""
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "Útgáfan \"{0:s}\" er þegar til!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "Önnur útgáfa kvikmyndar fannst"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "Fann viðbótarútgáfu kvikmyndarinnar \"{1:s}\". Viltu færa umbreyta henni yfir í viðbótarútgáfu upprunalegu kvikmyndarinnar?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "útgáfa myndskeiðs"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "útgáfur myndskeiða"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "Útgáfa myndskeiðs"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "Útgáfur myndskeiða"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "Bæta við útgáfu"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "Bæta við aukaefni"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Valda myndskeiðið er þegar \"{0:s}\" útgáfa kvikmyndarinnar."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Valda myndskeiðið er \"{0:s}\" útgáfa kvikmyndarinnar \"{1:s}\". Viltu færa útgáfuna yfir í þessa kvikmynd?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "Fjarlægja útgáfu myndskeiðs"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Ekki er hægt að fjarlægja sjálfgefna útgáfu kvikmyndar. Veldu aðra útgáfu sem sjálfgefna og reyndu aftur."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "Ertu viss um að þú viljir fjarlægja \"{0:s}\" útgáfuna?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Viltu í alvörunni fjarlægja '{0:s}' og allar útgáfur hennar úr safninu?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "Sýsla með {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "Setja sem sjálfgefið"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Útgáfuumsýsla: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Umsýsla aukaefnis: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "Valda myndskeiðið er þegar \"{0:s}\" aukaefni kvikmyndarinnar."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "Valda myndskeiðið er \"{0:s}\" aukaefni kvikmyndarinnar \"{1:s}\". Viltu færa aukaefnið yfir í þessa kvikmynd?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19569,22 +19600,22 @@ msgstr "Fletta skrám"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "Fletta í safni"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "Veldu kvikmynd til að bæta við sem útgáfu"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "Engar aðrar kvikmyndir fundust í safninu."
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "Engar svipaðar kvikmyndir fundust í safninu."
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19594,12 +19625,12 @@ msgstr ""
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Þú ert í þann mund að umbreyta aukaefni kvikmyndar yfir í útgáfu kvikmyndar. Ertu viss um að þú viljir gera þetta?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Þú ert í þann mund að umbreyta útgáfu kvikmyndar yfir í aukaefni kvikmyndar Ertu viss um að þú viljir gera þetta?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
@@ -19614,17 +19645,17 @@ msgstr ""
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Fjarlægja aukaefni myndskeiða"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Ertu viss um að þú viljir fjarlægja aukaefnið \"{0:s}\"?"
 
 #. Select default video version setting
 msgctxt "#40200"
 msgid "Select default video version"
-msgstr ""
+msgstr "Veldu sjálfgefna útgáfu myndskeiðs"
 
 #. Help for select default video version setting
 msgctxt "#40201"
@@ -19634,7 +19665,7 @@ msgstr ""
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Hunsa mismunandi útgáfur myndskeiða við skönnun"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
@@ -19644,7 +19675,7 @@ msgstr ""
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "Hunsa aukaefni myndskeiða við skönnun"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
@@ -19654,7 +19685,7 @@ msgstr ""
 #. Show video versions as folder settting
 msgctxt "#40206"
 msgid "Show videos with multiple versions as folder"
-msgstr ""
+msgstr "Sýna myndskeið með mörgum útgáfum sem möppu"
 
 #. Help for show video versions as folder settting
 msgctxt "#40207"
@@ -19664,12 +19695,12 @@ msgstr ""
 #. Choose video version dialog title
 msgctxt "#40208"
 msgid "Choose version: {}"
-msgstr ""
+msgstr "Veldu útgáfu: {}"
 
 #. First choose video version and then select a player and play context menu item label
 msgctxt "#40209"
 msgid "Play version using..."
-msgstr ""
+msgstr "Spila útgáfu með því að nota..."
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19679,12 +19710,12 @@ msgstr "Útgáfur"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "Aukaefni"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Samstilla hljóðstyrk við fjartengda UPnP-spilara"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
@@ -19694,169 +19725,181 @@ msgstr ""
 #. Dialog title for the selection of the video extra
 msgctxt "#40214"
 msgid "Choose extra: {}"
-msgstr ""
+msgstr "Veldu aukaefni: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Veldu tegund útgáfu"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Ný tegund..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Ný tegund útgáfu"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Veldu nafn á aukaefni"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Nýtt nafn..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "Nýtt nafn á aukaefni"
 
 #. Choose video version context menu item label
 msgctxt "#40221"
 msgid "Choose version"
-msgstr ""
+msgstr "Veldu útgáfu"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Hefðbundin útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Lengri útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Óskráð útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Óklippt útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Endurblönduð útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Klipping fyrir kvikmyndahús"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Klipping leikstjóra"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Sérútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Takmörkuð útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Heildarútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Lokaútgáfan"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Ofurklipping"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Safnaraútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Endanleg safnaraútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Úrvals-safnaraútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Klippt af aðdáendum"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Svart-hvít útgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "10 ára afmælisútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "20 ára afmælisútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "25 ára afmælisútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "30 ára afmælisútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "40 ára afmælisútgáfa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "50 ára afmælisútgáfa"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Staðfesta eyðingu skráa"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Ef þetta er virkt birtist staðfestingargluggi þegar á að eyða skrám. Ef þetta er ekki virkt verður skrám eytt án staðfestingar notandans."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Settu lágmarksútgáfu SMB-samskiptastaðals sem nota skal við gerð tenginga. Það gæti þurft að þvinga fram SMBv2 til að koma í veg fyrir að notað sé SMBv1 á sumum stýrikerfum."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Leyfa vélbúnaðarhröðun - CrystalHD"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Virkja CrystalHD afkóðun á myndefnisskrám."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

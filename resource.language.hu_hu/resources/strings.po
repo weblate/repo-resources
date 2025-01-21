@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-10-10 04:28+0000\n"
+"PO-Revision-Date: 2025-01-07 16:27+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1819,7 +1819,7 @@ msgstr "[aktív]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Felirat folyam"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -5105,6 +5105,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Akkumulátor töltöttsége"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Köszönöm!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "A Kodit a Kodi Foundation, a 501(c)(3) nonprofit szervezet, szeretettel hozza el neked. Köszönjük, hogy szoftverünket használod!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/adományozás"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Időjárás"
@@ -5882,7 +5897,7 @@ msgstr "Tálcát nyit / zár"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Stream kiválasztás"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6029,10 +6044,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Hardveres gyorsítás engedélyezése - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Hardveres gyorsítás engedélyezése - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Hardveres gyorsítás engedélyezése - VTDBDecoder"
@@ -6158,6 +6169,16 @@ msgstr "Az VP9 kodek hardveres gyorsításának bekapcsolása. Tiltás esetén a
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "VAAPI renderelő előnyben részesítése"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Használj Dekóder szűrőt"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Engedélyezi/letiltja azt a szűrőt, amely blokkol bizonyos Android szoftverdekódereket. Ez a szűrő a [userdata]/decoderfilter.xml fájlon keresztül konfigurálható."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8024,7 +8045,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Felvétel információk"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Csatorna elrejtése"
@@ -15242,11 +15263,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Mentse a játékot automatikusan játék közben, ha támogatott. Folytassa a játékot, ahol abbahagyta."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Mentés ezzel:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15323,6 +15339,11 @@ msgstr "Váltsa ezt a beállítást a RetroAchievements szolgáltatásba való b
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Fiókja nincs igazolva. Kérjük, ellenőrizze e-mailjét a regisztráció befejezéséhez."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Ehhez a játékhoz OpenGL támogatás szükséges a 3D rendereléshez. Az OpenGL támogatás még fejlesztés alatt áll."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15866,11 +15887,6 @@ msgstr "Ha be van kapcsolva, akkor a filmgyűjtemény bejegyzés lesz használva
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Videófájlok DXVA2 hardveres dekódolásának engedélyezése."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Videófájlok CrystalHD hardveres dekódolásának engedélyezése."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17777,8 +17793,8 @@ msgstr "Minimális protokollverzió"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Állítsa be a legalacsonyabb SMB protokollverziót a kapcsolatok létesítése során. Az SMBv2 kompatibilitás kényszerítése szükséges lehet az SMBv1 megakadályozásához egyes operációs rendszerek esetén."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17814,6 +17830,11 @@ msgstr "Ha a webszerver hitelesítése engedélyezett, akkor a jelszót is meg k
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "A webkiszolgáló hitelesítésének engedélyezése előtt először meg kell adnia egy jelszót."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17949,12 +17970,12 @@ msgstr "(rendezői kommentár 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "monó"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "sztereó"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19411,12 +19432,22 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Sortávolság"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Állítsd be a szövegsorok közötti távolságot. Ha túl alacsony értéket állítasz be, a dobozok átfedhetik egymást a \"Háttér típusa\" beállítás használatakor."
+
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Csak hallássérültek számára, állíts be CC-feliratot"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Engedélyezésével a CC feliratok hallássérültek számára lesznek felcímkézve; ez hatással lesz a feliratok automatikus kiválasztására, amely, hacsak másképp nincs megadva, alapértelmezés szerint nem jelenik meg."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19612,12 +19643,12 @@ msgstr "A több verziójú film alapértelmezett verziója nem adható hozzá m�
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Videó extra eltávolítása"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Biztosan eltávolítod az extra \"{0:s}\" elemet?"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19849,12 +19880,28 @@ msgstr "50. évfordulós kiadás"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Erősítsd meg a fájl törlését"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Ha engedélyezve van, egy megerősítő párbeszédpanel jelenik meg a fájlok törlésekor. Ha le van tiltva, a fájlok a felhasználó jóváhagyása nélkül törlődnek."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Állítsa be a legalacsonyabb SMB protokollverziót a kapcsolatok létesítése során. Az SMBv2 kompatibilitás kényszerítése szükséges lehet az SMBv1 megakadályozásához egyes operációs rendszerek esetén."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Hardveres gyorsítás engedélyezése - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Mentés ezzel:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Videófájlok CrystalHD hardveres dekódolásának engedélyezése."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

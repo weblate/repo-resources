@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-17 16:06+0000\n"
+"PO-Revision-Date: 2025-01-21 07:55+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/af_za/>\n"
 "Language: af_za\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -36,7 +36,7 @@ msgstr "TV gids"
 
 msgctxt "#5"
 msgid "Settings"
-msgstr "Verstellings"
+msgstr "Instellings"
 
 msgctxt "#6"
 msgid "Kodi GIT"
@@ -622,7 +622,7 @@ msgstr "Uitgeedatum"
 
 msgctxt "#173"
 msgid "Display 4:3 videos as"
-msgstr "Vertoon 4:3 videos as"
+msgstr "Vertoon 4:3 video's as"
 
 msgctxt "#174"
 msgid "Compiled:"
@@ -909,7 +909,7 @@ msgstr "Verfris tempo"
 
 msgctxt "#244"
 msgid "Full screen"
-msgstr "Volskerm"
+msgstr "Volle skerm"
 
 msgctxt "#245"
 msgid "Sizing: ({0:d},{1:d})->({2:d},{3:d}) (Zoom x{4:2.2f}) AR:{5:2.2f}:1 (Pixels: {6:2.2f}:1) (VShift: {7:2.2f})"
@@ -1058,11 +1058,11 @@ msgstr "Pas die balk aan om die onderskrif posisie te verander"
 
 msgctxt "#279"
 msgid "Unable to load settings"
-msgstr "Kan nie verstellings laai nie"
+msgstr "Kan nie instellings laai nie"
 
 msgctxt "#280"
 msgid "Using default settings"
-msgstr "Gebruik verstek verstellings"
+msgstr "Gebruik verstek instellings"
 
 msgctxt "#281"
 msgid "Please check the XML files"
@@ -1241,7 +1241,7 @@ msgstr "Maak genres, rolle, ens. skoon..."
 
 msgctxt "#323"
 msgid "Error cleaning genres, roles etc."
-msgstr "Fout gedurende genres, rolle, ens. skoonmaak"
+msgstr "Fout gedurende skoonmaak van genres, rolle, ens."
 
 msgctxt "#324"
 msgid "Cleaning paths..."
@@ -1461,7 +1461,7 @@ msgstr "Sneeu"
 #. Weather token
 msgctxt "#376"
 msgid "Rain"
-msgstr "Reen"
+msgstr "Reën"
 
 #. Weather token
 msgctxt "#377"
@@ -1684,7 +1684,7 @@ msgstr "Plaas korrekte CD / DVD in"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Plaas asb die volgende CD/DVD in dryf"
+msgstr "Sit asseblief die volgende skyf in:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -1811,7 +1811,7 @@ msgstr "Onderskrifte"
 
 msgctxt "#460"
 msgid "Audio stream"
-msgstr "Oudio strome"
+msgstr "Oudio stroom"
 
 msgctxt "#461"
 msgid "[active]"
@@ -1819,7 +1819,7 @@ msgstr "[aktief]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Onderskrif stroom"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -1927,7 +1927,7 @@ msgstr "Algehele oudio kopspasie"
 
 msgctxt "#495"
 msgid "Upscale videos to GUI resolution"
-msgstr "Opskaleer videos tot GUI resolusie"
+msgstr "Opskaleer video's tot GUI resolusie"
 
 msgctxt "#496"
 msgid "Calibration"
@@ -1997,7 +1997,7 @@ msgstr "Tuis venster"
 
 msgctxt "#514"
 msgid "Manual settings"
-msgstr "Hand verstellings"
+msgstr "Hand instellings"
 
 msgctxt "#515"
 msgid "Genre"
@@ -2643,32 +2643,32 @@ msgstr "Vanaf metadata"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Stel die raam grootte."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Stel die raam kleur."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Stel die vervaging."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Stel die skadu kleur."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Stel die skadu ondeursigtigheid."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Stel die skadu grootte."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -3237,62 +3237,62 @@ msgstr "Enige kanaal van enige kliënt"
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Onlangs bygevoegde kanale"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Klient"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Stelsel"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Gebruiker"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Alle kanale]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Vee uit na gekyk"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Stel op of opnames uitgevee moet word na gekyk het."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Vra"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Wil jy hierdie opname uitvee?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Opname uitgevee: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3304,7 +3304,7 @@ msgstr "Voeg musiek by..."
 
 msgctxt "#999"
 msgid "Add videos..."
-msgstr "Voeg videos by..."
+msgstr "Voeg video's by..."
 
 msgctxt "#1000"
 msgid "Preview"
@@ -3476,7 +3476,7 @@ msgstr "Gebruikersnaam"
 
 msgctxt "#1049"
 msgid "Script settings"
-msgstr "Skrip verstellings"
+msgstr "Skrip instellings"
 
 msgctxt "#1050"
 msgid "Singles"
@@ -3492,7 +3492,7 @@ msgstr "Vereis waarmerking"
 
 msgctxt "#1053"
 msgid "Choose whether requests to the web server require a username and a password, which must be set below if enabled. It is recommended to always leave this setting enabled."
-msgstr "Kies of versoeke aan die web bediener 'n gebruikernaam en wagwoord vereis, wat hieronder gestel moet word indien in staat gestel. Dit word aanbeveel om altyd hierdie verstelling in staat gestel te los."
+msgstr "Kies of versoeke aan die web bediener 'n gebruikersnaam en wagwoord vereis, wat hieronder gestel moet word indien in staat gestel. Dit word aanbeveel om altyd hierdie instelling in staat gestel te los."
 
 msgctxt "#1180"
 msgid "Proxy type"
@@ -3656,7 +3656,7 @@ msgstr "Kondig dienste aan ander stelsels aan"
 
 msgctxt "#1268"
 msgid "Enable AirPlay \"Videos\" and \"Pictures\" support"
-msgstr "Stel AirPlay \"Videos\" en \"Prente\" ondersteuning in staat"
+msgstr "Stel AirPlay \"Video's\" en \"Prente\" ondersteuning in staat"
 
 msgctxt "#1269"
 msgid "Allow volume control"
@@ -3784,7 +3784,7 @@ msgstr "Winderig"
 #. Weather token
 msgctxt "#1390"
 msgid "Settings"
-msgstr "Verstellings"
+msgstr "Instellings"
 
 #. Weather token
 msgctxt "#1391"
@@ -4143,7 +4143,7 @@ msgstr "Lêer bestuurder"
 
 msgctxt "#10004"
 msgid "Settings"
-msgstr "Verstellings"
+msgstr "Instellings"
 
 msgctxt "#10005"
 msgid "Not available"
@@ -4174,17 +4174,17 @@ msgstr "Selekteer byvoegsel konfigurasie om te verwyder"
 
 msgctxt "#10011"
 msgid "Settings - Videos - Screen calibration"
-msgstr "Verstellings - Videos - Skerm kalibrasie"
+msgstr "Instellings - Video's - Skerm kalibrasie"
 
 #. Header label for add-on configuration selection dialog
 msgctxt "#10012"
 msgid "Add-on configurations and settings"
-msgstr "Byvoegsel konfigurasies en verstellings"
+msgstr "Byvoegsel konfigurasies en instellings"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10013"
 msgid "Edit add-on settings"
-msgstr "Redigeer byvoegsel verstellings"
+msgstr "Redigeer byvoegsel instellings"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10014"
@@ -4198,7 +4198,7 @@ msgstr "Verwyder byvoegsel konfigurasie"
 
 msgctxt "#10016"
 msgid "Settings - System"
-msgstr "Verstellings - Stelsel"
+msgstr "Instellings - Stelsel"
 
 #. Settings group label
 msgctxt "#10017"
@@ -4207,7 +4207,7 @@ msgstr "Byvoegsel konfigurasie"
 
 msgctxt "#10018"
 msgid "Settings - Service"
-msgstr "Verstellings - Diens"
+msgstr "Instellings - Diens"
 
 #. Item label for add-on configuration removal dialog
 msgctxt "#10019"
@@ -4221,11 +4221,11 @@ msgstr "Redigeer \"{0:s}\" [{1:s}]"
 
 msgctxt "#10021"
 msgid "Settings - TV"
-msgstr "Verstellings - TV"
+msgstr "Instellings - TV"
 
 msgctxt "#10022"
 msgid "Settings - Games"
-msgstr "Verstellings - Speletjies"
+msgstr "Instellings - Speletjies"
 
 msgctxt "#10024"
 msgid "Titles"
@@ -4233,11 +4233,11 @@ msgstr "Titels"
 
 msgctxt "#10025"
 msgid "Videos"
-msgstr "Videos"
+msgstr "Video's"
 
 msgctxt "#10028"
 msgid "Videos / Playlist"
-msgstr "Videos / Speellys"
+msgstr "Video's / Speellys"
 
 msgctxt "#10029"
 msgid "Login screen"
@@ -4245,23 +4245,23 @@ msgstr "Inteken skerm"
 
 msgctxt "#10030"
 msgid "Settings - Player"
-msgstr "Verstellings - Speler"
+msgstr "Instellings - Speler"
 
 msgctxt "#10031"
 msgid "Settings - Media"
-msgstr "Verstellings - Media"
+msgstr "Instellings - Media"
 
 msgctxt "#10032"
 msgid "Settings - Interface"
-msgstr "Verstellings - Koppelvlak"
+msgstr "Instellings - Koppelvlak"
 
 msgctxt "#10034"
 msgid "Settings - Profiles"
-msgstr "Verstellings - Profiele"
+msgstr "Instellings - Profiele"
 
 msgctxt "#10035"
 msgid "Skin Settings"
-msgstr "Oortreksel Verstellings"
+msgstr "Oortreksel Instellings"
 
 msgctxt "#10036"
 msgid "Basic"
@@ -4273,7 +4273,7 @@ msgstr "Standaard"
 
 msgctxt "#10038"
 msgid "Advanced"
-msgstr "Gevorderde"
+msgstr "Gevorderd"
 
 msgctxt "#10039"
 msgid "Expert"
@@ -4285,11 +4285,11 @@ msgstr "Byvoegsel blaaier"
 
 msgctxt "#10041"
 msgid "Reset above settings to default"
-msgstr "Herstel boonste na verstek verstellings"
+msgstr "Herstel boonste na verstek instellings"
 
 msgctxt "#10042"
 msgid "Are you sure you want to reset the settings in this category?"
-msgstr "Is jy seker jy wil die verstellings terugstel in die kategorie?"
+msgstr "Is jy seker jy wil die instellings terugstel in die kategorie?"
 
 msgctxt "#10043"
 msgid "Help"
@@ -4301,7 +4301,7 @@ msgstr "Geen hulp beskikbaar"
 
 msgctxt "#10045"
 msgid "Resets all the visible settings to their default values."
-msgstr "Herstel al die sigbare verstellings na hul verstek waardes."
+msgstr "Herstel al die sigbare instellings na hul verstek waardes."
 
 msgctxt "#10046"
 msgid "No categories available"
@@ -4309,7 +4309,7 @@ msgstr "Geen kategorieë beskikbaar"
 
 msgctxt "#10047"
 msgid "Try changing the setting level to see additional categories and settings."
-msgstr "Probeer die verstelling vlak verander om addisionele kategorië en verstellings te sien."
+msgstr "Probeer die instelling vlak verander om addisionele kategorieë en instellings te sien."
 
 msgctxt "#10048"
 msgid "Add video source"
@@ -4422,11 +4422,11 @@ msgstr "Visualisering voorafinstellings lys"
 
 msgctxt "#10123"
 msgid "Video OSD settings"
-msgstr "Video OSD verstellings"
+msgstr "Video OSD instellings"
 
 msgctxt "#10124"
 msgid "Audio OSD settings"
-msgstr "Oudio OSD verstellings"
+msgstr "Oudio OSD instellings"
 
 msgctxt "#10125"
 msgid "Video bookmarks"
@@ -4451,15 +4451,15 @@ msgstr "Media bron"
 
 msgctxt "#10130"
 msgid "Profile settings"
-msgstr "Profiel verstellings"
+msgstr "Profiel instellings"
 
 msgctxt "#10131"
 msgid "Lock settings"
-msgstr "Sluit verstellings"
+msgstr "Sluit instellings"
 
 msgctxt "#10132"
 msgid "Content settings"
-msgstr "Inhoud verstellings"
+msgstr "Inhoud instellings"
 
 msgctxt "#10134"
 msgid "Favourites"
@@ -4483,7 +4483,7 @@ msgstr "Prent inligting"
 
 msgctxt "#10140"
 msgid "Add-on settings"
-msgstr "Byvoegsel verstellings"
+msgstr "Byvoegsel instellings"
 
 msgctxt "#10142"
 msgid "Fullscreen info"
@@ -4503,7 +4503,7 @@ msgstr "Teks kyker"
 
 msgctxt "#10150"
 msgid "Peripheral settings"
-msgstr "Randtoestel verstellings"
+msgstr "Randtoestel instellings"
 
 msgctxt "#10151"
 msgid "Extended progress dialog"
@@ -4519,11 +4519,11 @@ msgstr "Onderskrif soektog"
 
 msgctxt "#10157"
 msgid "OSD CMS settings"
-msgstr "OSD CMS verstellings"
+msgstr "OSD CMS instellings"
 
 msgctxt "#10159"
 msgid "Subtitle OSD settings"
-msgstr "Onderskrif OSD verstellings"
+msgstr "Onderskrif OSD instellings"
 
 msgctxt "#10210"
 msgid "Looking for subtitles..."
@@ -4599,7 +4599,7 @@ msgstr "Speel nou - Musiek"
 
 msgctxt "#10522"
 msgid "Now playing - Videos"
-msgstr "Speel nou - Videos"
+msgstr "Speel nou - Video's"
 
 msgctxt "#10523"
 msgid "Album information"
@@ -4623,7 +4623,7 @@ msgstr "PVR opname inligting"
 
 msgctxt "#10602"
 msgid "PVR timer setting"
-msgstr "PVR tydhouer verstellings"
+msgstr "PVR tydhouer instellings"
 
 msgctxt "#10603"
 msgid "PVR group manager"
@@ -4659,7 +4659,7 @@ msgstr "PVR radio RDS inligting"
 
 msgctxt "#10611"
 msgid "PVR recording setting"
-msgstr "PVR opname verstellings"
+msgstr "PVR opname instelling"
 
 msgctxt "#10700"
 msgid "TV channels"
@@ -4751,7 +4751,7 @@ msgstr "Volume"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr "Gevorderde Verstellings"
+msgstr "Gevorderde Instellings"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
@@ -4817,7 +4817,7 @@ msgstr "Keer terug na musiek venster"
 
 msgctxt "#12011"
 msgid "Return to videos window"
-msgstr "Keer terug na videos venster"
+msgstr "Keer terug na video's venster"
 
 msgctxt "#12012"
 msgid "Last used"
@@ -5034,7 +5034,7 @@ msgstr "Meester kode is nie geldig. Tik asb 'n geldige meester kode in."
 
 msgctxt "#12373"
 msgid "Settings & file manager"
-msgstr "Verstellings & lêer bestuurder"
+msgstr "Instellings & lêer bestuurder"
 
 msgctxt "#12376"
 msgid "Set as default for all media"
@@ -5104,6 +5104,21 @@ msgstr "Totale optyd"
 msgctxt "#12395"
 msgid "Battery level"
 msgstr "Battery vlak"
+
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Dankie!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi word met liefde na jou gebring van die Kodi Foundation, 'n 501(c)(3) nie-winsgewende organisasie. Dankie dat jy ons sagteware gebruik!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5179,7 +5194,7 @@ msgstr "Gaan Uit"
 
 msgctxt "#13013"
 msgid "Reboot"
-msgstr "Reboot"
+msgstr "Herlaai"
 
 msgctxt "#13014"
 msgid "Minimise"
@@ -5375,7 +5390,7 @@ msgstr "Verander Apple Remote modus?"
 
 msgctxt "#13145"
 msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "As jy huidiglik die Apple Remote gebruik om hierdie program te beheer, mag die verander van hierdie verstelling jou vermoë om dit verder te beheer beïnvloed. Wil jy voort gaan?"
+msgstr "As jy huidiglik die Apple Remote gebruik om hierdie program te beheer, mag die verander van hierdie instelling jou vermoë om dit verder te beheer beïnvloed. Wil jy voort gaan?"
 
 msgctxt "#13159"
 msgid "Subnet mask"
@@ -5570,7 +5585,7 @@ msgstr "Gekonnekteer"
 
 msgctxt "#13297"
 msgid "Not connected. Check network settings."
-msgstr "Nie gekonnekteer. Gaan netwerk verstellings na."
+msgstr "Nie gekonnekteer. Gaan netwerk instellings na."
 
 #. Label of the button used to disconnect a game controller from the emulated game port
 msgctxt "#13298"
@@ -5874,7 +5889,7 @@ msgstr "Daar is geen voorafinstellings beskikbaar vir hierdie visualisering nie"
 
 msgctxt "#13390"
 msgid "There are no settings available[CR]for this visualisation"
-msgstr "Daar is geen verstellings beskikbaar[CR]vir hierdie visualisering"
+msgstr "Daar is geen instellings beskikbaar[CR]vir hierdie visualisering nie"
 
 msgctxt "#13391"
 msgid "Eject / Load"
@@ -5882,7 +5897,7 @@ msgstr "Uitwerp / Inlaai"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Stroom kies"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -5894,11 +5909,11 @@ msgstr "Bereken gids grootte"
 
 msgctxt "#13395"
 msgid "Video settings"
-msgstr "Video verstellings"
+msgstr "Video instellings"
 
 msgctxt "#13396"
 msgid "Audio settings"
-msgstr "Oudio verstellings"
+msgstr "Oudio instellings"
 
 msgctxt "#13397"
 msgid "Enable subtitles"
@@ -6029,10 +6044,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Laat hardeware versnelling toe - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Laat hardeware versnelling toe - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Laat hardeware versnelling toe - VTBDecoder"
@@ -6116,7 +6127,7 @@ msgstr "Gebruik MPEG-2 VAAPI"
 #. Description of setting with label #13447 "Use MPEG-2 VAAPI"
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr "Stel hierdie opsie in staat om hardeware versnelling vir MPEG-(1 / 2) kodeks te gebruik. As nie in staat gestel is sal die CPU in plaas gebruik word. Sommige MPEG-2 videos mag groen artefakte hê."
+msgstr "Stel hierdie opsie in staat om hardeware versnelling vir MPEG-(1 / 2) kodeks te gebruik. As nie in staat gestel is sal die CPU in plaas daarvan gebruik word. Sommige MPEG-2 video's mag groen artefakte hê."
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
@@ -6158,6 +6169,16 @@ msgstr "Stel hierdie opsie in staat om hardeware versnelling vir die VP9 kodek t
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Verkies VAAPI teken metode"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Gebruik Dekodeerder filter"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Stel in staat/deaktiveer die filter wat sekere Android sagteware dekodeerders blok. Hierdie filter kan opgestel word via die [userdata]/decoderfilter.xml lêer."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6207,36 +6228,36 @@ msgstr "Stel hierdie opsie in staat om hardeware versnelling vir die AV1 kodek t
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Gebruik AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Stel hierdie opsie in staat om hardeware versnelling vir die AVC kodek te gebruik. As nie in staat gestel is nie sal die CPU in plaas gebruik word."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "HQ opskaler intermediêre formaat"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Stel die akkuraatheid van die intermediêre skalering buffer gebruik in die GPU teken pad. 16 bis akkuraatheid vereis waarskynlik meer werkverrigting. As die hardeware nie die geselekteerde formaat kan ondersteun nie, sal Kodi terugval na die naas beste formaat."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 bisse per kanaal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 bisse per kanaal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 bisse per kanaal"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6293,7 +6314,7 @@ msgstr "Drumpel vir toon korreksie"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr "Wanneer die spoed verandering hierdie drempel oorskry, sal 'n toonhoogte-korreksie filter toegepas word. Dit vermy die \"chipmunk stemme\" wat gewoonlik resulteer van 'n video vinniger speel."
+msgstr "Wanneer die spoed verandering hierdie drempel oorskry, sal 'n toonhoogte-korreksie filter toegepas word. Dit vermy die \"chipmunk stemme\" wat gewoonlik resulteer van 'n video vinniger speel"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6540,7 +6561,7 @@ msgstr "DVD kas - Lokale netwerk"
 
 msgctxt "#14038"
 msgid "Network settings changed"
-msgstr "Netwerk verstellings het verander"
+msgstr "Netwerk instellings het verander"
 
 msgctxt "#14039"
 msgid "A restart is required to change your network setup. Would you like to restart now?"
@@ -6888,11 +6909,11 @@ msgstr "Laat dubbel verfris tempo's toe"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Gevorderd"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Speler oudio/video toue"
 
 msgctxt "#14200"
 msgid "Player"
@@ -6948,7 +6969,7 @@ msgstr "Media verstellings"
 
 msgctxt "#14215"
 msgid "Videos"
-msgstr "Videos"
+msgstr "Video's"
 
 msgctxt "#14216"
 msgid "Music"
@@ -7040,7 +7061,7 @@ msgstr "Metadata"
 
 msgctxt "#14242"
 msgid "Videos..."
-msgstr "Videos..."
+msgstr "Video's..."
 
 msgctxt "#14243"
 msgid "Music..."
@@ -7117,15 +7138,15 @@ msgstr "Laat afstand beheer vanaf programme op ander stelsels toe"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Instandhouding"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Maak beeld cache skoon"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Verwyder ongebruikte beelde onmiddellik uit die cache - beelde wat nie geassosieer is met 'n item in die media biblioteek of onlangs bekyk is nie. Kodi doen hierdie oor tyd in die agtergrond."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7476,7 +7497,7 @@ msgstr "Tik waarde in"
 #. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
-msgstr "Gaan die log na vir meer inligting oor hierdie boodskap"
+msgstr "Gaan die log na vir meer inligting oor hierdie boodskap."
 
 msgctxt "#16030"
 msgid "Party mode aborted."
@@ -7524,7 +7545,7 @@ msgstr "Aan"
 
 msgctxt "#16100"
 msgid "All videos"
-msgstr "Alle videos"
+msgstr "Alle video's"
 
 msgctxt "#16101"
 msgid "Unwatched"
@@ -7830,7 +7851,7 @@ msgstr "PVR agterkant"
 #. PVR 'channel encryption system' textual presentation for free to air channels
 msgctxt "#19013"
 msgid "Free to air"
-msgstr "Free to air"
+msgstr "Verniet om te lug"
 
 #. PVR 'channel encryption system' textual presentation for 'fixed' channels
 msgctxt "#19014"
@@ -7940,11 +7961,11 @@ msgstr "Daar is reeds 'n tydhouer gestel vir hierdie gebeurtenis"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} kan nie gespeel word nie."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Hierdie opname kan nie gespeel word nie."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7982,11 +8003,11 @@ msgstr "Opname"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Gaan asseblief jou konfigurasie na."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Geen PVR kliënte is nog begin nie. Wag vir die PVR kliënte om te begin."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8024,7 +8045,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Opname inligting"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Versteek kanaal"
@@ -8299,17 +8320,17 @@ msgstr "Terugval raamtempo"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Kon nie die tydhouer stoor nie."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Kon nie die tydhouer uitvee nie."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "PVR agterkant fout."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8559,7 +8580,7 @@ msgstr "Opnames"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Kon nie begin opneem nie."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8589,7 +8610,7 @@ msgstr "Steek video inligting boks weg"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Kon nie opneem stop nie."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8705,7 +8726,7 @@ msgstr "Nie een van die gekonnekteerde PVR agterkante ondersteun soek vir kanale
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Die kanaal soek kan nie begin word nie."
 
 #. unused?
 msgctxt "#19194"
@@ -8770,7 +8791,7 @@ msgstr "Aktiveer gids:"
 #. used by several skins
 msgctxt "#19207"
 msgid "Group:"
-msgstr "Group:"
+msgstr "Groep:"
 
 #. text for "new channel name input" dialog
 msgctxt "#19208"
@@ -8785,7 +8806,7 @@ msgstr "Kodi virtuele agterkant"
 #. pvr channel manager "epg source" selector value
 msgctxt "#19210"
 msgid "Client"
-msgstr "Klient"
+msgstr "Kliënt"
 
 #. Heading of a channel delete confirmation dialog
 msgctxt "#19211"
@@ -9044,7 +9065,7 @@ msgstr "Ouerlike beheer. Tik PIN:"
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Kon nie die tydhouer opdateer nie."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9503,12 +9524,12 @@ msgstr "Speel slegs hierdie program"
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Dupliseer"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Kopie van '{0:s}'"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9763,7 +9784,7 @@ msgstr "Literatuur"
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19602"
 msgid "Film / Cinema"
-msgstr "Film / Rolprent"
+msgstr "Film / Teater"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19603"
@@ -10127,7 +10148,7 @@ msgstr "Sluit musiek venster"
 
 msgctxt "#20039"
 msgid "Lock videos window"
-msgstr "Sluit videos venster"
+msgstr "Sluit video's venster"
 
 msgctxt "#20040"
 msgid "Lock pictures window"
@@ -10653,7 +10674,7 @@ msgstr "Wys video inligting"
 
 msgctxt "#20177"
 msgid "Done"
-msgstr "Klaar"
+msgstr "Gedoen"
 
 msgctxt "#20178"
 msgid "Shift"
@@ -10779,7 +10800,7 @@ msgstr "Android musiek"
 
 msgctxt "#20241"
 msgid "Android videos"
-msgstr "Android videos"
+msgstr "Android video's"
 
 msgctxt "#20242"
 msgid "Android pictures"
@@ -10799,7 +10820,7 @@ msgstr "Windows musiek biblioteek"
 
 msgctxt "#20246"
 msgid "Windows videos library"
-msgstr "Windows videos biblioteek"
+msgstr "Windows video's biblioteek"
 
 msgctxt "#20247"
 msgid "Windows pictures library"
@@ -10807,7 +10828,7 @@ msgstr "Windows prente biblioteek"
 
 msgctxt "#20248"
 msgid "Windows photos library"
-msgstr "Windows fotos biblioteek"
+msgstr "Windows foto's biblioteek"
 
 msgctxt "#20249"
 msgid "Windows documents"
@@ -10815,15 +10836,15 @@ msgstr "Windows dokumente"
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
-msgstr "Partytjie voort! (videos)"
+msgstr "Partytjie voort! (video's)"
 
 msgctxt "#20251"
 msgid "Mixing drinks (videos)"
-msgstr "Meng drankies (videos)"
+msgstr "Meng drankies (video's)"
 
 msgctxt "#20252"
 msgid "Filling glasses (videos)"
-msgstr "Vul glase (videos)"
+msgstr "Vul glase (video's)"
 
 msgctxt "#20253"
 msgid "WebDAV server (HTTP)"
@@ -10887,7 +10908,7 @@ msgstr "Onbekende of aanboord (beskerm)"
 
 msgctxt "#20314"
 msgid "Videos - Library"
-msgstr "Videos - Biblioteek"
+msgstr "Video's - Biblioteek"
 
 msgctxt "#20316"
 msgid "Sort by: ID"
@@ -10899,7 +10920,7 @@ msgstr "Deursoek flieks deur gebruik van {0:s}"
 
 msgctxt "#20318"
 msgid "Scanning music videos using {0:s}"
-msgstr "Deursoek musiek videos deur gebruik van {0:s}"
+msgstr "Deursoek musiek video's deur gebruik van {0:s}"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
@@ -10947,7 +10968,7 @@ msgstr "Blaai vir bestemming"
 
 msgctxt "#20329"
 msgid "Movies are in separate folders that match the movie title"
-msgstr "Flieks is in afsonderlike lêergidse wat ooreenstem met die fliek titel"
+msgstr "Flieks is in afsonderlike gidse wat ooreenstem met die fliek titel"
 
 msgctxt "#20330"
 msgid "Use folder names for lookups"
@@ -11187,11 +11208,11 @@ msgstr "Studios"
 
 msgctxt "#20389"
 msgid "Music videos"
-msgstr "Musiek videos"
+msgstr "Musiek video's"
 
 msgctxt "#20390"
 msgid "Recently added music videos"
-msgstr "Onlangs bygevoegde musiek videos"
+msgstr "Onlangs bygevoegde musiek video's"
 
 msgctxt "#20391"
 msgid "Music video"
@@ -11227,11 +11248,11 @@ msgstr "Speel liedjie"
 
 msgctxt "#20399"
 msgid "Go to music videos from album"
-msgstr "Gaan na musiek videos van album"
+msgstr "Gaan na musiek video's vanaf album"
 
 msgctxt "#20400"
 msgid "Go to music videos by artist"
-msgstr "Gaan na musiek videos deur kunstenaar"
+msgstr "Gaan na musiek video's deur kunstenaar"
 
 msgctxt "#20401"
 msgid "Play music video"
@@ -11531,7 +11552,7 @@ msgstr "Wys leë TV vertonings"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
-msgstr "Vertoon alle kunstenaars vir musiek videos"
+msgstr "Vertoon alle kunstenaars vir musiek video's"
 
 msgctxt "#20473"
 msgid "Premiered"
@@ -11552,7 +11573,7 @@ msgstr "Nuwe media bespeur"
 
 msgctxt "#21332"
 msgid "Browse videos"
-msgstr "Blaai deur videos"
+msgstr "Blaai deur video's"
 
 msgctxt "#21333"
 msgid "Browse music"
@@ -11853,7 +11874,7 @@ msgstr "Kies eerste ongekykde TV vertoning reeks / episode"
 
 msgctxt "#21417"
 msgid "Settings"
-msgstr "Verstellings"
+msgstr "Instellings"
 
 msgctxt "#21418"
 msgid "Multilingual"
@@ -12303,7 +12324,7 @@ msgstr "Tyd geskep"
 
 msgctxt "#21860"
 msgid "Supplemental categories"
-msgstr "Aanvullende kategorië"
+msgstr "Aanvullende kategorieë"
 
 msgctxt "#21861"
 msgid "Keywords"
@@ -12331,7 +12352,7 @@ msgstr "Kategorie"
 
 msgctxt "#21867"
 msgid "Byline"
-msgstr "Byline"
+msgstr "Bylyn"
 
 msgctxt "#21868"
 msgid "Byline title"
@@ -12856,7 +12877,7 @@ msgstr "Hierdie byvoegsel kan nie deïnstalleer word nie"
 
 msgctxt "#24048"
 msgid "VideoPlayer InputStream"
-msgstr "VideoSpeler IntreeStroom"
+msgstr "VideoPlayer InputStream"
 
 #. To show addon as deprecated over icon
 msgctxt "#24049"
@@ -14054,11 +14075,11 @@ msgstr "Vra vir aflaai voor video speel"
 
 msgctxt "#33016"
 msgid "Clips"
-msgstr "Clips"
+msgstr "Snitte"
 
 msgctxt "#33017"
 msgid "Restart plug-in to enable"
-msgstr "Begin byvoegsel oor om in staat te stel."
+msgstr "Begin byvoegsel oor om in staat te stel"
 
 msgctxt "#33018"
 msgid "Tonight"
@@ -14413,27 +14434,27 @@ msgstr "Om sekere AVRs aan te hou stuur ons 'n onhoorbare lukraak geraas sein. J
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "Sluit LFE in wanneer afmeng"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr ""
+msgstr "Indien in staat gestel, sal hierdie verstelling die LFE kanaal insluit in die meng wanneer daar geen toegewyde LFE uittree kanaal beskikbaar is nie. Dit maak net sin vir vol bereik luidsprekers."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Af"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -15245,11 +15266,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Stoor die speletjie outomaties gedurende spel, indien ondersteun. Hervat speel waar op gehou het."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Gestoor met:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15298,7 +15314,7 @@ msgstr "RetroAchievements"
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35265"
 msgid "Incorrect User/Password!"
-msgstr "Verkeerde Gebruiker/Wagwoord"
+msgstr "Verkeerde Gebruiker/Wagwoord!"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35266"
@@ -15326,6 +15342,11 @@ msgstr "Wissel hierdie verstelling om in of uit RetroAchievements te teken."
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Jou rekening is nie geverifieer nie. Gaan asseblief jou epos na om jou inteken te voltooi."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Hierdie speletjie vereis OpenGL ondersteuning vir 3D teken. OpenGL ondersteuning is nog onder ontwikkeling."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15768,7 +15789,7 @@ msgstr "Nog geen inligting beskikbaar."
 #. Description of settings section with label #3 "Videos"
 msgctxt "#36138"
 msgid "Section that contains settings related to videos and how they are handled."
-msgstr "Seksie wat verstellings bevat verwant aan videos en hoe hulle hanteer word."
+msgstr "Seksie wat verstellings bevat verwant aan video's en hoe hulle hanteer word."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36139"
@@ -15870,11 +15891,6 @@ msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Stel DXVA2 hardeware dekodering van video lêers in staat."
 
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Stel CrystalHD dekodering van video lêers in staat."
-
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
 msgid "Enable VTB hardware decoding of video files."
@@ -15933,7 +15949,7 @@ msgstr "Strek die video met tot die gestelde persentasie om swart balke te minim
 #. Description of setting with label #173 "Display 4:3 videos as"
 msgctxt "#36171"
 msgid "Select the zoom level that 4:3 videos are shown on widescreen displays."
-msgstr "Kies die zoem vlak wat 4:3 videos op wye skerms vertoon word."
+msgstr "Kies die zoem vlak wat 4:3 video's op wye skerms vertoon word."
 
 #. Description of setting with label #13430 "Allow hardware acceleration - PRIME"
 msgctxt "#36172"
@@ -15963,12 +15979,12 @@ msgstr "Hierdie kategorie bevat die verstellings vir hoe video lêer lyste hante
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Wissel tussen [Kies], [Speel] (verstek), [Hervat], [Wys inligting] en [Tou item].[CR][Kies] sal 'n konteks kieslys oopmaak om 'n item te selekteer, bv. wys inligting.[CR][Speel] sal outomaties videos van die begin af speel of as 'n hervat punt teenwoordig is vra of van begin af moet speel of moet hervat.[CR][Hervat] sal outomaties videos hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR][Wys inligting] sal die video se inligting dialoog oop maak.[CR][Tou item] sal die video by die video speellys byvoeg."
+msgstr "Wissel tussen [Kies], [Speel] (verstek), [Hervat], [Wys inligting] en [Tou item].[CR][Kies] sal 'n konteks kieslys oopmaak om 'n item te selekteer, bv. wys inligting.[CR][Speel] sal outomaties video's van die begin af speel of as 'n hervat punt teenwoordig is vra of van begin af moet speel of moet hervat.[CR][Hervat] sal outomaties video's hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR][Wys inligting] sal die video se inligting dialoog oop maak.[CR][Tou item] sal die video by die video speellys byvoeg."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
 msgid "Extract metadata information such as codec and aspect ratio from videos."
-msgstr "Onttrek metadata inligting soos kodeks en aspek verhouding uit videos."
+msgstr "Onttrek metadata inligting soos kodeks en aspek verhouding uit video's."
 
 #. Description of setting with label #20419 "Replace file names with library titles"
 msgctxt "#36179"
@@ -16073,7 +16089,7 @@ msgstr "Kies die verstek TV vertoning inligting bron. Sien die byvoegsels bestuu
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
-msgstr "Kies die verstek musiek videos inligting bron. Sien die byvoegsels bestuurder vir opsies."
+msgstr "Kies die verstek musiek video's inligting bron. Sien die byvoegsels bestuurder vir opsies."
 
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
@@ -16090,7 +16106,7 @@ msgstr "Stel die \"Personal Video Recorder\" (PVR) funksies in staat. Dit vereis
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr ""
+msgstr "Wissel tussen [Vra of hervatbaar] (verstek) en [Hervat].[CR][Vra of hervatbaar] sal vra of van begin af moet speel of te hervat (indien 'n hervat punt teenwoordig is).[CR][Hervat] sal video's outomaties hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR]Indien geen hervat punt gestel is nie, sal terugspeel outomaties van die begin af begin."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16198,7 +16214,7 @@ msgstr "Vertoon sein kwaliteit inligting in die kodek inligting venster (as onde
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "Stel die onderskrif agtergrond ondeursigtigheid."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16499,7 +16515,7 @@ msgstr "Wanneer musiek items sorteer volgens kunstenaar, gebruik sorteer naam bv
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "Stel die onderskrif ondeursigtigheid."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16516,16 +16532,16 @@ msgstr "As in staat gestel, sal 'n opname vir die program om te herinner geskedu
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "Laat die HDR modus van die vertoon toe om verander te word om die media beste te pas. Wanneer nie in staat gestel nie, sal Kodi toonkartering toepas indien benodig (en ondersteun word op jou hardeware) om die media aan te pas na die huidige HDR modus van die vertoon."
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
 msgid "Select the folder where movie set information (images) are saved locally."
-msgstr "Kies die vouer waar fliek stel inligting (beelde) lokaal gestoor word."
+msgstr "Kies die gids waar fliek stel inligting (beelde) lokaal gestoor word."
 
 msgctxt "#36301"
 msgid "No 'Movie set information folder' is configured to store movie set images so they will not be exported. Do you want to proceed?"
-msgstr "Geen 'Fliek stel inligting vouer' is opgestel om fliek stel beelde te stoor nie, so hulle sal nie uitgevoer word nie. Wil jy voortgaan?"
+msgstr "Geen 'Fliek stel inligting gids' is opgestel om fliek stel beelde te stoor nie, so hulle sal nie uitgevoer word nie. Wil jy voortgaan?"
 
 msgctxt "#36302"
 msgid "No info available yet."
@@ -16557,12 +16573,12 @@ msgstr "Genereer outomaties prent duimnaelsketse wanneer prent gids binne gaan."
 #. Description of setting with label #20472 "Show all performers for music videos"
 msgctxt "#36308"
 msgid "When enabled, shows all performers in the artist list for music videos, not just the main artist"
-msgstr "Wanneer in staat gestel, vertoon al die kunstenaars in die kunstenaar lys vir musiek videos, nie net die hoof kunstenaar nie"
+msgstr "Wanneer in staat gestel, vertoon al die kunstenaars in die kunstenaar lys vir musiek video's, nie net die hoof kunstenaar nie"
 
 #. Description of setting with label #22022 "Show video files in listings"
 msgctxt "#36309"
 msgid "Show videos in picture file lists."
-msgstr "Wys videos in prent lêer lyste."
+msgstr "Wys video's in prent lêer lyste."
 
 #. Description of setting with label #169 "Resolution"
 msgctxt "#36310"
@@ -16707,7 +16723,7 @@ msgstr "Definieer die maksimum hoeveelheid kliënte wat kan konnekteer."
 #. Description of setting with label #794 "Allow remote control from programs on other systems"
 msgctxt "#36338"
 msgid "Allow programs on the network to control this application via the JSON-RPC over WebSocket, JSON-RPC over TCP, or EventServer protocol, without authentication. It allows anyone with access to the network to completely control this application and, therefore, this device. Never expose these interfaces to the Internet."
-msgstr ""
+msgstr "Laat programme op die netwerk toe om hierdie toepassing te beheer via die JSON-RPC oor WebSocket, JSON-RPC oor TCP, of EventServer protokol, sonder waarmerking. Dit laat enige iemand met toegang tot die netwerk toe om hierdie toepassing heeltemal te beheer, en dus hierdie toestel. Moet nooit hierdie koppelvlakke aan die internet blootstel nie."
 
 #. Description of setting with label #795 "Initial repeat delay (ms)"
 msgctxt "#36339"
@@ -16806,7 +16822,7 @@ msgstr "Kalibreer die gebruikers koppelvlak deur die oorskandering aan te pas. G
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr ""
+msgstr "Laat gebruik van kanaal nommering van veelvuldige agterkante toe. Let op dat die Alle kanale groep veelvuldige van dieselfde kanaal nommer kan bevat as hierdie opsie gebruik. Dit beteken dat spring na kanaal nommer mag nie korrek werk vir die Alle kanale groep nie."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -16849,7 +16865,7 @@ msgstr "Selekteer hierdie opsie as jou ontvanger DTS strome kan dekodeer."
 
 msgctxt "#36367"
 msgid "Select the maximum number of audio channels / speakers available for decoded audio. If optical / coax digital outputs are used, this must be set to 2.0"
-msgstr "Kies die maksimum hoeveelheid oudio kanale / luidsprekers beskikbaar vir gedekodeerde oudio. As opties / koaksiale digitale uittrees gebruik word, moet hierdie op 2.0 gestel wees."
+msgstr "Kies die maksimum hoeveelheid oudio kanale / luidsprekers beskikbaar vir gedekodeerde oudio. As opties / koaksiale digitale uittrees gebruik word, moet hierdie op 2.0 gestel wees"
 
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
@@ -16934,7 +16950,7 @@ msgstr "Stel die instaan bediener poort op."
 #. Description of setting with label #1048 "Username"
 msgctxt "#36384"
 msgid "Configure the proxy server username."
-msgstr "Stel die instaan bediener gebruikers naam op."
+msgstr "Stel die instaan bediener gebruikersnaam op."
 
 #. Description of setting with label #733 "Password"
 msgctxt "#36385"
@@ -17108,7 +17124,7 @@ msgstr "Definieer liggings gebruik vir onttrekking van weer inligting."
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
 msgid "Look for external subtitles for videos provided by the UPnP server. This can cause extensive CPU, filesystem and network load."
-msgstr "Soek vir eksterne onderskrifte vir videos voorsien deur die UPnP bediener. Hierdie kan uitgebreide CPU, lêerstelsel en netwerk las veroorsaak."
+msgstr "Soek vir eksterne onderskrifte vir video's voorsien deur die UPnP bediener. Hierdie kan uitgebreide CPU, lêerstelsel en netwerk las veroorsaak."
 
 #. Description of setting with label #13437 "Prefer VDPAU Video Mixer"
 msgctxt "#36421"
@@ -17122,7 +17138,7 @@ msgstr "Opdateer amptelike byvoegsels vanaf"
 #. Description of setting with label #36422 "Update official add-ons from"
 msgctxt "#36423"
 msgid "By default, add-ons from official repositories will be prevented from being auto-updated from private repositories. For cases such as updating from an add-ons beta repository this option can be switched to [Any repositories] (bear in mind this is a less secure option and enabling it could cause incompatibility and crashes)."
-msgstr ""
+msgstr "By verstek sal byvoegsels van offisiële stoorplekke verhoed word om outo-opdateer te word vanaf private stoorplekke. Vir gevalle soos opdateer vanaf 'n byvoegsel beta stoorplek kan hierdie opsie gestel word na [Enige stoorplekke] (hou in gedagte dat hierdie 'n minder veilige opsie is en dit in staat stel kan onversoenbaarheid en botsings veroorsaak)."
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item. [\"Smart select\"] The action is choosen dynamically, depending on whether the event is in the past, now or in the future."
@@ -17177,7 +17193,7 @@ msgstr "Indien in staat gestel is, skakel na die kanaal met die program om te he
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr "Sorteer kanaal groepe volgens die volgorde verskaf deur die agterkant(e). Indien in staat gestel kan groepe nie herrangskik word in die Groep bestuurder nie."
+msgstr "Sorteer kanaal groepe volgens die volgorde verskaf deur die agterkant(e). Indien in staat gestel kan groepe nie herrangskik word in die Groep bestuurder nie"
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -17200,7 +17216,7 @@ msgstr "Enige stoorplekke"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "Stel outomatiese terugspeel van die volgende program in staat wanneer verlede programme (catchup) speel of vir Video On Demand (VOD) kanale. Let wel dat catchup en VOD slegs werk indien ondersteun word deur die kanaal verskaffer."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17295,7 +17311,7 @@ msgstr "Checkerbord"
 #. Name of a setting, asking the user for the default playback mode (2D, 3D, ask) of stereoscopic videos
 msgctxt "#36520"
 msgid "Playback mode of stereoscopic 3D videos"
-msgstr "Terugspeel modus van stereoskopiese 3D videos"
+msgstr "Terugspeel modus van stereoskopiese 3D video's"
 
 #. Option value of a desired playback mode setting. (f.e. "Settings -> Video -> Playback -> Playback mode of stereoscopic 3D videos" with label #36520)
 msgctxt "#36521"
@@ -17365,12 +17381,12 @@ msgstr "Keer stereoskopiese 3D modus om (draai oë om)"
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
-msgstr "Kies in watter stereoskopiese 3D modus videos gespeel sal word.[CR][Vra my] Sal 'n dialoog wys om die gewensde modus vir elke terugspeel te kies.[CR][Verkose modus] Sal die verkose modus gebruik wat in die \"Stelsel -> Video hardeware\" seksie van die verstellings gespesifiseer is.[CR][Monoskopies / 2D] Sal die video in mono / 2D speel.[CR][Ignoreer] Deaktiveer enige stereoskopiese 3D verwerking en hantering."
+msgstr "Kies in watter stereoskopiese 3D modus video's gespeel sal word.[CR][Vra my] Sal 'n dialoog wys om die gewenste modus vir elke terugspeel te kies.[CR][Verkose modus] Sal die verkose modus gebruik wat in die \"Stelsel -> Video hardeware\" seksie van die verstellings gespesifiseer is.[CR][Monoskopies / 2D] Sal die video in mono / 2D speel.[CR][Ignoreer] Deaktiveer enige stereoskopiese 3D verwerking en hantering."
 
 #. Description of setting with label #36526 Disable stereoscopic mode when playback is stopped
 msgctxt "#36538"
 msgid "[Enabled] Switch GUI (and some TVs) back to 2D mode, between videos in a playlist or when playback ended.[CR][Disabled] GUI and TV will stay in stereoscopic 3D mode. For video playlists with mixed stereoscopic 3D and 2D content, then the GUI will also stay in stereoscopic 3D mode even when a non-stereoscopic 2D video is playing."
-msgstr "[Geaktiveer] Skakel GUI (en sommige TVs) terug na 2D modus tussen videos in 'n speellys of wanneer terugspeel eindig.[CR][Gedeaktiveer] GUI en TV sal in stereoskopiese 3D modus bly. Vir video speellyste met gemengde stereoskopiese 3D en 2D inhoud, sal die GUI ook in stereoskopiese 3D modus bly, al speel 'n nie-stereoskopiese 2D video."
+msgstr "[Geaktiveer] Skakel GUI (en sommige TVs) terug na 2D modus tussen video's in 'n speellys of wanneer terugspeel eindig.[CR][Gedeaktiveer] GUI en TV sal in stereoskopiese 3D modus bly. Vir video speellyste met gemengde stereoskopiese 3D en 2D inhoud, sal die GUI ook in stereoskopiese 3D modus bly, al speel 'n nie-stereoskopiese 2D video."
 
 #. Description of setting with label #36500 "Stereoscopic mode (current)"
 msgctxt "#36539"
@@ -17380,7 +17396,7 @@ msgstr "Verander die stereoskopiese 3D modus van die gebruikers koppelvlak."
 #. Description of setting with label #36524 "Preferred mode"
 msgctxt "#36540"
 msgid "The preferred mode in which stereoscopic 3D media such as videos should be played."
-msgstr "Die verkose modus waarin stereoskopiese 3D media soos videos gespeel behoort te word."
+msgstr "Die verkose modus waarin stereoskopiese 3D media soos video's gespeel behoort te word."
 
 #. Description of setting with label #1269 "Allow volume control"
 msgctxt "#36541"
@@ -17399,7 +17415,7 @@ msgstr "Stereoskopiese 3D diepte van onderskrifte"
 #. Description of setting with label #36545 "Subtitle stereoscopic depth"
 msgctxt "#36546"
 msgid "Sets the visual depth of subtitles for stereoscopic 3D videos. The higher the value, the closer the subtitles will appear to the viewer."
-msgstr "Stel die visuele diepte van onderskrifte vir stereoskopiese 3D videos. Hoe hoër die waarde, hoe nader sal die onderskrifte aan die kyker vertoon."
+msgstr "Stel die visuele diepte van onderskrifte vir stereoskopiese 3D video's. Hoe hoër die waarde, hoe nader sal die onderskrifte aan die kyker vertoon."
 
 #. Description of setting with label #36097 "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36547"
@@ -17414,7 +17430,7 @@ msgstr "Beperk resolusie van GUI om geheue te spaar. Affekteer nie video terugsp
 #. Description of setting with label #1268 "iOS 8 compatibility mode"
 msgctxt "#36549"
 msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
-msgstr "Stel ondersteuning vir die ontvang van \"Videos\" en \"Prente\" via AirPlay in staat. Hierdie moet deaktiveer word wanneer IOS 9 of latere kliënte gebruik om musiek stroom via AirPlay te herstel. \"Videos\" en \"Prente\" word net ondersteun vir IOS kliënte wat IOS 8.x en ouer gebruik."
+msgstr "Stel ondersteuning vir die ontvang van \"Video's\" en \"Prente\" via AirPlay in staat. Hierdie moet deaktiveer word wanneer IOS 9 of latere kliënte gebruik om musiek stroom via AirPlay te herstel. \"Video's\" en \"Prente\" word net ondersteun vir IOS kliënte wat IOS 8.x en ouer gebruik."
 
 #. Name of a setting
 msgctxt "#36550"
@@ -17771,7 +17787,7 @@ msgstr "SMBv3"
 #. Label of a group, that allows configuration of the system SMB client
 msgctxt "#36627"
 msgid "Client"
-msgstr "Klient"
+msgstr "Kliënt"
 
 #. Label of a setting, allow the minimum smbclient protocol to be configured
 msgctxt "#36628"
@@ -17780,8 +17796,8 @@ msgstr "Minimum protokol weergawe"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Stel die minimum SMB protokol weergawe om te onderhandel wanneer verbindings maak. Forseer van SMBv2 mag vereis word om SMBv1 te verhoed op sommige OSe."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17817,6 +17833,11 @@ msgstr "Indien web bediener waarmerking in staat gestel is moet 'n wagwoord ook 
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Jy moet eers 'n wagwoord intik voor web bediener waarmerking in staat gestel kan word."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17887,7 +17908,7 @@ msgstr "musiek video"
 
 msgctxt "#36909"
 msgid "music videos"
-msgstr "musiek videos"
+msgstr "musiek video's"
 
 msgctxt "#36910"
 msgid "set"
@@ -17903,7 +17924,7 @@ msgstr "Video"
 
 msgctxt "#36913"
 msgid "videos"
-msgstr "Video’s"
+msgstr "video’s"
 
 msgctxt "#36914"
 msgid "music"
@@ -17952,12 +17973,12 @@ msgstr "(Direkteur se kommentaar 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18181,7 +18202,7 @@ msgstr "Lees Faktor"
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "Bepaal cache vul tempo in terme van gemiddelde bistempo van stroom x Lees Faktor. Verhoging van hierdie veelvoud laat cache vinniger vul. Groot veelvoude mag CPU pieke op sommige toestelle veroorsaak, die konneksie versadig en werkverrigting versleg.[CR][Aanpasbaar] Gebruik dinamies berekende Lees Faktor gebaseer op cache vlak."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
@@ -18248,32 +18269,32 @@ msgstr "{0:d} GB"
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} sekonde"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} sekondes"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Oudio/video tou tyd"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Duur in sekondes van oudio/video toue. Die duur bepaal die hoeveelheid data gestoor in die geheue."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Video tou maksimum grootte"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Beperk die maksimum geheue gebruik vir die video tou. Die hoeveelheid geheue gebruik hang af van die video bistempo en die lengte van die tou. As die geheue beperking bereik word, word die tou tyd verminder soos nodig."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18293,7 +18314,7 @@ msgstr "Beperk GUI opdaterings gedurende terugspeel"
 #. Description for the setting with label #38013 "Limit GUI updates when playing video"
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr "Beperk die spoed (fps) gebruik om die GUI op te dateer terwyl videos speel. Hierdie kan CPU las verlaag en probleme met terugspeel terwyl die GUI vertoon word regmaak."
+msgstr "Beperk die spoed (fps) gebruik om die GUI op te dateer terwyl video's speel. Hierdie kan CPU las verlaag en probleme met terugspeel terwyl die GUI vertoon word regmaak."
 
 #. Label of a settings value to indicate the "disabled" state of an otherwise limiting setting (like fps limit, bandwidth limit, etc.)
 msgctxt "#38015"
@@ -18488,7 +18509,7 @@ msgstr "Wil jy inligting vir hierdie item nou verfris?"
 
 msgctxt "#38074"
 msgid "Boxsets"
-msgstr "Boxsets"
+msgstr "Boksstelle"
 
 msgctxt "#38075"
 msgid "* All discs"
@@ -18548,7 +18569,7 @@ msgstr "Seksie wat die verstellings bevat wat die GUI ondervinding beïnvloed en
 #. Description of category #14210 "Videos"
 msgctxt "#38103"
 msgid "This category contains the settings for the playback of videos"
-msgstr "Hierdie kategorie bevat die verstellings vir die terugspeel van videos"
+msgstr "Hierdie kategorie bevat die verstellings vir die terugspeel van video's"
 
 #. Description of category #14211 "Music"
 msgctxt "#38104"
@@ -18568,7 +18589,7 @@ msgstr "Hierdie kategorie bevat die verstellings vir oudio / onderskrif taal en 
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr "Hierdie kategorie bevat die verstellings vir hoe inligting vir videos versamel, gestoor, gewys en navigeer word"
+msgstr "Hierdie kategorie bevat die verstellings vir hoe inligting vir video's versamel, gestoor, gewys en navigeer word"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
@@ -18598,7 +18619,7 @@ msgstr "Gaan outomaties na die visualiserings venster wanneer oudio terugspeel b
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Hierdie kategorie bevat die gevorderde verstellings vir video terugspeel"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19062,7 +19083,7 @@ msgstr "Gebruik alle lokale beeld lêers as kunswerke"
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr ""
+msgstr "Alle beeld lêers geleë langs die media lêers word opgetel as kunswerke gedurende biblioteek deursoek, met die lêer naam as die kuns tipe."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
@@ -19071,7 +19092,7 @@ msgstr "Gebruik alle afgeleë kunswerke gehaal deur skrapers"
 #. Description of setting with label #39129 "Use all remote artwork fetched by scrapers"
 msgctxt "#39130"
 msgid "Use the first of each art type of the remote artwork in scraper results to fill any missing art not populated with local art."
-msgstr ""
+msgstr "Gebruik die eerste van elke kuns tipe van die afgeleë kunswerke in skraper resultate om enige ontbrekende kuns wat nie ingevul is nie met lokale kuns te vul."
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
@@ -19080,7 +19101,7 @@ msgstr "Kunstenaar kuns tipes witlys"
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Beperk die kunstenaar kunswerk lokaal gaan haal of toegepas vanaf skraper afgeleë kuns resultate tot net daardie kuns tipes in die witlys"
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
@@ -19098,7 +19119,7 @@ msgstr "Duimnaelskets beeld lêers"
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr ""
+msgstr "Die name van lêers wat primêre kunswerke (duimnaelsketse) bevat, in die algemeen vierkantig en word gebruik in beide vol en verkleinde vorm om 'n gids, kunstenaar, album of liedjie visueel te identifiseer"
 
 msgctxt "#39137"
 msgid "Artwork level"
@@ -19107,7 +19128,7 @@ msgstr "Kunswerk vlak"
 #. Description of setting with label #39137 "Artwork level"
 msgctxt "#39138"
 msgid "The amount of artwork automatically selected - [Maximum] all local images and remote art; [Basic] save space on limited devices or when using a simple skin; [Custom] configured by user for detailed control; [None] no art"
-msgstr ""
+msgstr "Die hoeveelheid kunswerke outomaties geselekteer- [Maksimum] all lokale beelde en afgeleë kuns; [Basies] bespaar spasie op beperkte toestelle of wanneer 'n eenvoudige oortreksel gebruik; [Pasgemaak] opgestel deur die gebruiker vir gedetailleerde beheer; [Geen] geen kuns"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
@@ -19182,7 +19203,7 @@ msgstr "Oorskryf onderskrif style"
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr ""
+msgstr "Sommige onderskrif formate soos SSA / ASS / WebVTT kan metadata bevat soos skrif styl, kleure, grootte, belynings, posisie, ens. Jy kan die style oorskryf met jou pasmakings (let asseblief op dat newe-effekte kan voorkom in sommige gevalle)."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
@@ -19357,7 +19378,7 @@ msgstr "Slegs beskikbaar met die handmatige onderskrif posisie"
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr ""
+msgstr "[AAN] Die helderheid van die GUI in HDR modus volg die stelsel se verstellings. Hierdie affekteer alle OSDs, onderskrifte en grafika wat SDR in oorsprong is.[CR][AF] Stel die helderheid handmatig."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
@@ -19376,7 +19397,7 @@ msgstr "As musiek gespeel word sal die skermskut nooit aktiveer word nie"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr ""
+msgstr "Stel gevorderde DXVA opskaler in staat deur gebruik van NVIDIA \"RTX Video Super Resolution\" of \"Intel Video Super Resolution\".[CR]Gebruik wanneer die video bron 1920x1080 of kleiner is en die bron resolusie laer as die vertoon resolusie is.[CR]Slegs beskikbaar op spesifieke hardeware: NVIDIA RTX 20xx, 30xx, 40xx en hoër, Intel Arc A770, A750."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19391,7 +19412,7 @@ msgstr "Dolby Vision versoenbaarheid modus"
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "Indien in staat gestel, sal Dolby Vision profiel 7 omgeskakel word na profiel 8.1, wat meer algemeen ondersteun word deur toestelle. Stel in staat indien jou toestel Dolby Vision ondersteun, maar probleme het met sommige video's."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
@@ -19401,7 +19422,7 @@ msgstr "Toegelate HDR dinamiese metadata formate"
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "Verander die video bisstroom om dinamiese HDR metadata te verwyder. Kies die HDR formate wat jou toestel en vertoon ondersteun."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
@@ -19416,12 +19437,22 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Lyn spasiëring"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Verstel die spasie tussen lyne van teks. Stel van 'n te lae waarde kan veroorsaak dat bokse oorvleuel wanneer die \"Agtergrond tipe\" verstelling gebruik word."
+
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Stel CC onderskrifte slegs vir die gehoor gestremde"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Deur dit in staat te stel sal CC onderskrifte gemerk word vir die gehoor gestremde; hierdie sal die outomatiese kies van onderskrifte beïnvloed, wat tensy anders gespesifiseer nie by verstek vertoon sal word nie."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19457,7 +19488,7 @@ msgstr "Operasie word nie ondersteun nie"
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "Die gekose fliek het veelvuldige weergawes, wat sy omskakeling na 'n weergawe van 'n ander fliek verhoed. Verwyder die weergawes uit die fliek, deursoek weer die biblioteek en skakel hulle individueel om."
 
 #. Warning dialog text
 msgctxt "#40007"
@@ -19522,7 +19553,7 @@ msgstr "Verwyder video weergawe"
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Die verstek weergawe van 'n fliek kan nie verwyder word nie. Stel 'n ander verstek weergawe en probeer weer."
 
 #. Remove video version dialog text
 msgctxt "#40020"
@@ -19532,7 +19563,7 @@ msgstr "Is jy seker jy wil weergawe \"{0:s}\" verwyder?"
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Wil jy regtig '{0:s}' en al sy weergawes verwyder uit die biblioteek?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
@@ -19557,12 +19588,12 @@ msgstr "Ekstras Bestuurder: {0:s}"
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "Die geselekteerde video is reeds die \"{0:s}\" ekstra van die fliek."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "Die geselekteerde video is die \"{0:s}\" ekstra van die fliek \"{1:s}\". Wil jy die ekstra na hierdie fliek skuif?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19592,37 +19623,37 @@ msgstr "Geen soortgelyke flieks in die biblioteek gevind nie."
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Die verstek weergawe van 'n fliek met veelvuldige weergawes kan nie as 'n ekstra bygevoeg word tot 'n ander fliek nie. Skuif of verwyder die ander weergawes eers asseblief."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Jy is op die punt om 'n fliek ekstra om te skakel na 'n fliek weergawe. Is jy seker?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Jy is op die punt om 'n fliek weergawe om te skakel na 'n fliek ekstra. Is jy seker?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "Die fliek om by te voeg het veelvuldige weergawes.[CR]Die tipe van die verstek weergawe sal in die volgende dialoog geselekteer word. Die ander weergawes sal hulle huidige tipe behou.[CR]Wil jy voortgaan?"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Die verstek weergawe van 'n fliek met veelvuldige weergawes kan nie bygevoeg word tot 'n ander fliek nie. Skuif of verwyder die ander weergawes eers asseblief."
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Verwyder video ekstra"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Is jy seker dat die ekstra \"{0:s}\" wil verwyder?"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19632,17 +19663,17 @@ msgstr "Kies verstek video weergawe"
 #. Help for select default video version setting
 msgctxt "#40201"
 msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr ""
+msgstr "Definieer hoe om kies van video's met veelvuldige weergawes te hanteer.[CR][In staat gestel] Selekteer outomaties die verstek video weergawe sonder om te vra.[CR][Nie in staat gestel] Vertoon 'n dialoog om 'n weergawe van die video te kies."
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ignoreer verskillende video weergawes met deursoek"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "Kies deursoeker aksie vir verskillende video weergawes.[CR][In staat gestel] Voeg verskillende video weergawes apart by die biblioteek sonder bevestiging.[CR][Nie in staat gestel] Vra vir omskakel van verskillende video weergawes na addisionele weergawes van die oorspronklike."
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19652,17 +19683,17 @@ msgstr "Ignoreer video ekstras gedurende deursoek"
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "Kies deursoeker aksie vir video ekstras in \"extras\" gids.[CR][In staat gestel] Deursoek video ekstras soos gewone video's.[CR][Nie in staat gestel] Voeg video ekstras by biblioteek vir geassosieerde video."
 
 #. Show video versions as folder settting
 msgctxt "#40206"
 msgid "Show videos with multiple versions as folder"
-msgstr ""
+msgstr "Vertoon video's met veelvuldige weergawes as gids"
 
 #. Help for show video versions as folder settting
 msgctxt "#40207"
 msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr ""
+msgstr "Wanneer in staat gestel, sal 'n video met veelvuldige weergawes as 'n gids in die video biblioteek vertoon word. Hierdie gids kan dan oop gemaak word om die individuele video weergawes te vertoon. Wanneer nie in staat gestel, sal die opgestelde selekteer aksie toegepas word."
 
 #. Choose video version dialog title
 msgctxt "#40208"
@@ -19687,12 +19718,12 @@ msgstr "Ekstras"
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Sinchroniseer volume vlak na afgeleë UPnP spelers"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "Indien gekies sal die afgeleë speler volume vlak met die volume van hierdie toepassing gesinchroniseer word.[CR]Waarskuwing: Globale stelsel volume vlak mag verskillend wees van die toepassing volume vlak - hulle word onafhanklik beheer.[CR]Dit mag daartoe lei dat die afgeleë speler na 100% volume vlak gestel word as die toepassing 100% volume vlak het, maar die algehele stelsel volume vlak laer is."
 
 #. Dialog title for the selection of the video extra
 msgctxt "#40214"
@@ -19748,7 +19779,7 @@ msgstr "Uitgebreide Uitgawe"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Ongegradeerde Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
@@ -19758,7 +19789,7 @@ msgstr "Ongesnyde Weergawe"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Remastered Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
@@ -19808,7 +19839,7 @@ msgstr "Uiterste Versamelaar se Uitgawe"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Criterion Collection Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
@@ -19823,43 +19854,59 @@ msgstr "Swart en Wit Uitgawe"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "10de Herdenking Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "20ste Herdenking Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "25ste Herdenking Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "30ste Herdenking Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "40ste Herdenking Weergawe"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "50ste Herdenking Weergawe"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Bevestig lêer uitvee"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Indien in staat gestel, sal 'n bevestigings dialoog vertoon word wanneer lêers uitgevee gaan word. Indien nie in staat gestel, sal lêers uitgevee word sonder gebruiker bevestiging."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Stel die minimum SMB protokol weergawe om te onderhandel wanneer verbindings maak. Forseer van SMBv2 mag vereis word om SMBv1 te verhoed op sommige OSe."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Laat hardeware versnelling toe - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Gestoor met:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Stel CrystalHD dekodering van video lêers in staat."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"
