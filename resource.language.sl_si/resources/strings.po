@@ -5116,6 +5116,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Nivo baterije"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr ""
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr ""
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr ""
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Vreme"
@@ -6042,10 +6057,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Dovoli strojno pospeševanje - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Dovoli strojno pospeševanje - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Dovoli strojno pospeševanje - VTBDecoder"
@@ -6171,6 +6182,16 @@ msgstr "Omogočite to možnost, če želite uporabiti strojno pospeševanje za k
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Raje uporabi VAAPI render metodo"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr ""
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr ""
 
 # empty strings from id 13458 to 13459
 msgctxt "#13460"
@@ -8047,7 +8068,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Informacije o posnetku"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Skrij program"
@@ -15291,11 +15312,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Samodejno shranjevanje igre med igranjem, če je podprto. Nadaljujte z igranjem, kjer ste končali."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Shranjeno z:"
-
 # empty string with id 35255
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
@@ -15373,6 +15389,11 @@ msgstr "Preklopite to nastavitev, če se želite prijaviti ali odjaviti iz Retro
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Vaš račun ni preverjen. Preverite svojo e-pošto, da dokončate prijavo."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr ""
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15918,11 +15939,6 @@ msgstr "Ko je omogočeno, se uporabi vnos »Komplet filmov«, tudi če knjižnic
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Omogočite strojno pospeševanje videa DXVA2."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Omogočite strojno pospeševanje videa CrystalHD."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17835,8 +17851,8 @@ msgstr "Najmanjša različica protokola"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Nastavite najnižjo različico protokola SMB za pogajanja pri vzpostavljanju povezav. Za preprečitev uporabe SMBv1 v nekaterih operacijskih sistemih bo morda potrebna vsiljena uporaba SMBv2."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17872,6 +17888,11 @@ msgstr "Če je omogočeno preverjanje pristnosti spletnega strežnika, je treba 
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Najprej morate vnesti geslo, preden lahko omogočite preverjanje pristnosti spletnega strežnika."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19486,6 +19507,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Prilagodite razmik med vrsticami besedila. Nastavitev prenizke vrednosti lahko povzroči prekrivanje polj, ko je uporabljena nastavitev »Vrsta ozadja«."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr ""
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr ""
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19923,6 +19954,22 @@ msgstr "Potrdite brisanje datoteke"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Če je omogočeno, bo prikazano potrditveno pogovorno okno, ko bodo datoteke izbrisane. Če je onemogočeno, bodo datoteke izbrisane brez potrditve uporabnika."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Nastavite najnižjo različico protokola SMB za pogajanja pri vzpostavljanju povezav. Za preprečitev uporabe SMBv1 v nekaterih operacijskih sistemih bo morda potrebna vsiljena uporaba SMBv2."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Dovoli strojno pospeševanje - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Shranjeno z:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Omogočite strojno pospeševanje videa CrystalHD."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

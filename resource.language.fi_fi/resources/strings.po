@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-09 17:26+0000\n"
+"PO-Revision-Date: 2025-01-19 07:33+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -40,7 +40,7 @@ msgstr "Asetukset"
 
 msgctxt "#6"
 msgid "Kodi GIT"
-msgstr "Kodi GIT"
+msgstr "Kodi Git"
 
 msgctxt "#7"
 msgid "File manager"
@@ -4581,7 +4581,7 @@ msgstr "Verkkopelaaminen"
 
 msgctxt "#10510"
 msgid "Extensions"
-msgstr "Laajennukset"
+msgstr "Tiedostopäätteet"
 
 msgctxt "#10511"
 msgid "System info"
@@ -5102,6 +5102,21 @@ msgstr "Kokonaiskäyntiaika"
 msgctxt "#12395"
 msgid "Battery level"
 msgstr "Akun varaus"
+
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Kiitos!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodin on sinulle rakkaudella kehittänyt Kodi Säätiö, joka on voittoa tavoittelematon 501(c)(3)-organisaatio. Kiitos ohjelmistomme käytöstä!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5880,7 +5895,7 @@ msgstr "Poista/lataa"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Mediavirran valinta"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Salli laitteistokiihdytys - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Salli laitteistokiihdytys - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Salli laitteistokiihdytys - VTBDecoder"
@@ -6156,6 +6167,16 @@ msgstr "Käytä laitteistopurkua VP9-koodekille. Asetuksen ollessa pois käytös
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Suosi VAAPI-kiihdytystä"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Käytä dekoodaussuodatinta"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Käytä/poista käytöstä suodatin, joka estää joitakin Androidin ohjelmistodekoodereita. Suodatin on muokattavissa [userdata]/decoderfilter.xml-tiedoston kautta."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -7320,7 +7341,7 @@ msgstr "Muu/tuntematon"
 #. genric label for 'provider'
 msgctxt "#15225"
 msgid "Provider"
-msgstr "Tarjoaja"
+msgstr "Lähde"
 
 msgctxt "#15300"
 msgid "Path not found or invalid"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Tallennustiedot"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Piilota kanava"
@@ -8258,7 +8279,7 @@ msgstr "Kanavanippu"
 #. provider label in pvr info dialog
 msgctxt "#19101"
 msgid "Provider"
-msgstr "Palveluntarjoaja"
+msgstr "Lähde"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
@@ -9396,7 +9417,7 @@ msgstr "Kanavaksi vaihdettiin \"{1:s}\" klo {2:s} alkavan tallennuksen automaatt
 #. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
-msgstr "Palveluntarjoajat"
+msgstr "Lähteet"
 
 #. label for special PVR search window list item
 msgctxt "#19335"
@@ -9466,7 +9487,7 @@ msgstr "Mikään aktiivinen PVR-pääte ei tarjoa päätekohtaisia asetuksia."
 #. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
-msgstr "Tarjoaja"
+msgstr "Lähde"
 
 #. label for 'by user preference' sort method
 msgctxt "#19349"
@@ -15238,11 +15259,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Tallenna peli automaattisesti, jos peli tukee sitä. Voit jatkaa pelaamista siitä mihin jäit."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Tallennuslähde:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15319,6 +15335,11 @@ msgstr "Kirjaudu ulos RetroAchievements-palvelusta kytkemällä tämä asetus."
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Tiliäsi ei ole vahvistettu. Tarkista sähköpostisi viimeistelläksesi rekisteröitymisesi."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Peli tarvitsee 3D-grafiikkaa varten OpenGL-tuen, mutta sen kehitys on vielä kesken."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15862,11 +15883,6 @@ msgstr "Kun käytössä, näytetään elokuvakokoelma myös silloin, jos sen sis
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Dekoodaa videotiedostot DXVA2-laitteistokiihdytyksellä."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Dekoodaa videotiedostot CrystalHD-laitteistokiihdytyksellä."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17773,8 +17789,8 @@ msgstr "Protokollan vähimmäisversio"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Määrittää SMB-protokollan vähimmäisversion, jota käytetään yhteyksien muodostukseen. SMBv2-pakotus voi olla tarpeen SMBv1-yhteyksien estämiseksi joissakin käyttöjärjestelmissä."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17810,6 +17826,11 @@ msgstr "Jos tunnistautuminen on otettu palvelimella käyttöön, on myös salasa
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Sinun on syötettävä salasana ennen kuin palvelimen tunnistautumista voidaan ottaa käyttöön."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17945,12 +17966,12 @@ msgstr "(ohjaajan kommentit 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19414,6 +19435,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Muuta tekstitysrivien välisen tilan kokoa. Liian pienestä arvosta voi seurata \"Taustan tyyppi\" -asetuksen luomien taustalaatikoiden päällekkäisyyttä."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Käsittele kuvaavia tekstityksiä (CC) kuulorajoitteisten tekstityksinä"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Tämän ollessa käytössä kuvaavat tekstitykset (CC) luokitellaan kuulorajoitteisille tarkoitetuiksi. Tämä vaikuttaa tekstitysten automaattiseen valintaan siten, ettei näitä näytetä oletusarvoisesti ellei ole toisin määritetty."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19608,12 +19639,12 @@ msgstr "Useita versioita sisältävän elokuvan oletusversiota ei voida lisätä
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Poista videon lisämateriaali"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Haluatko varmasti poistaa lisämateriaalin \"{0:s}\"?"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19851,6 +19882,22 @@ msgstr "Vahvista tiedoston poisto"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Pyydä vahvistus ennen tiedostojen poistoa. Muutoin tiedostot poistetaan suoraan ilman vahvistusta."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Määrittää SMB-protokollan vähimmäisversion, jota käytetään yhteyksien muodostukseen. SMBv2-pakotus voi olla tarpeen SMBv1-yhteyksien estämiseksi joissakin käyttöjärjestelmissä."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Salli laitteistokiihdytys - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Tallennuslähde:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Dekoodaa videotiedostot CrystalHD-laitteistokiihdytyksellä."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

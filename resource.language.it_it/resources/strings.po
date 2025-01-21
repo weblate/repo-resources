@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-26 10:14+0000\n"
+"PO-Revision-Date: 2025-01-20 17:07+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5103,6 +5103,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Livello batteria"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi è offerto con amore dalla Kodi Foundation, un'organizzazione non-profit 501(c)(3). Grazie per aver utilizzato il nostro software!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Meteo"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Usa accelerazione hardware - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Usa accelerazione hardware - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Usa accelerazione hardware - VTBDecoder"
@@ -6156,6 +6167,16 @@ msgstr "Abilita questa opzione per usare l'accelerazione hardware per il codec V
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Preferisci metodo di rendering VAAPI"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Usa filtro Decoder"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Abilita/Disabilita il filtro che blocca determinati decoder software Android. Questo filtro è configurabile tramite il file [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Informazioni registrazione"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Nascondi canale"
@@ -15238,11 +15259,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Salva la partita automaticamente durante il gioco, se supportato. Riprendi la partita da dove l'avevi lasciata."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Salvato con:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15319,6 +15335,11 @@ msgstr "Attiva o disattiva questa impostazione per accedere o uscire da RetroAch
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Il tuo account non è verificato. Controlla la tua email per completare la registrazione."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Questo gioco richiede il supporto OpenGL per il rendering 3D. Il supporto OpenGL è ancora in fase di sviluppo."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15862,11 +15883,6 @@ msgstr "Quando abilitato, sarà usata una voce \"Saga cinematografica\" anche se
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Abilita la decodifica hardware DXVA2 dei file video."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Abilita la decodifica CrystalHD dei file video."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17773,8 +17789,8 @@ msgstr "Versione minima del protocollo"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Impostare la versione minima del protocollo SMB da negoziare quando si effettuano le connessioni. Potrebbe essere necessario forzare SMBv2 per impedire l'uso di SMBv1 su alcuni sistemi operativi."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr "Imposta la versione minima del protocollo SMB da negoziare quando si effettuano connessioni. Potrebbe essere necessario forzare SMBv2 per impedire l'uso di SMBv1 su alcuni sistemi. Solo SMBv2.1 e SMBv3 supportano Large MTU (dimensione del blocco > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17810,6 +17826,11 @@ msgstr "Se l'autenticazione del server web è abilitata, è necessario protegger
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "È necessario immettere una password prima di poter abilitare l'autenticazione del server web."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr "SMBv2 e Large MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19414,6 +19435,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Regola lo spazio tra le righe di testo. Impostando un valore troppo basso, le caselle potrebbero sovrapporsi quando si usa l'impostazione \"Tipo di sfondo\"."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Imposta i sottotitoli CC solo per i non udenti"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Se abilitato, i sottotitoli CC saranno etichettati per i non udenti; ciò inciderà sulla selezione automatica dei sottotitoli, che, se non diversamente specificato, non verranno visualizzati per impostazione predefinita."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19851,6 +19882,22 @@ msgstr "Conferma eliminazione file"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Se abilitato, verrà visualizzata una finestra di dialogo di conferma quando i file devono essere eliminati. Se disabilitato, i file saranno eliminati senza la conferma dell'utente."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Impostare la versione minima del protocollo SMB da negoziare quando si effettuano le connessioni. Potrebbe essere necessario forzare SMBv2 per impedire l'uso di SMBv1 su alcuni sistemi operativi."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Usa accelerazione hardware - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Salvato con:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Abilita la decodifica CrystalHD dei file video."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

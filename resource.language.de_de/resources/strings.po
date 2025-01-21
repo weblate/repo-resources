@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-26 10:14+0000\n"
+"PO-Revision-Date: 2025-01-21 13:06+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5103,6 +5103,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Ladestand der Batterie"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "Vielen Dank!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi wird „mit viel Liebe“ zur Verfügung gestellt von der Kodi Foundation, einer a 501(c)(3) non-profit Organisation. Vielen Dank für die Nutzung unserer Software!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Wetter"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Hardware-Beschleunigung erlauben - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Hardware-Beschleunigung erlauben - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Hardware-Beschleunigung erlauben - VTBDecoder"
@@ -6156,6 +6167,16 @@ msgstr "Diese Option aktivieren, um die Hardwarebeschleunigung für den VP9-Code
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "VAAPI-Rendermethode bevorzugen"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Decoderfilter verwenden"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Aktivieren/Deaktivieren des Filters zum Blocken verschiedener Android-Softwaredecoder. Dieser Filter ist konfigurierbar mit der Datei [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Aufnahmeinformationen"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Sender ausblenden"
@@ -10922,7 +10943,7 @@ msgstr "Filmhandlung"
 #. Label for context menu entry to start playback of a part of a video stack
 msgctxt "#20324"
 msgid "Play part..."
-msgstr "Einzelnen Part wiedergeben ..."
+msgstr "Teil wiedergeben ..."
 
 #. Window screen calibration: as title to reset calibration settings
 msgctxt "#20325"
@@ -15238,11 +15259,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Das Spiel automatisch während des Spielens speichern, falls unterstützt."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Gespeichert mit:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15319,6 +15335,11 @@ msgstr "Einstellung zum An- und Abmelden bei RetroAchievements verwenden."
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Konto wurde nicht bestätigt. Bitte E-Mails prüfen, um die Anmeldung abzuschließen."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Dieses Spiel benötigt OpenGL-Unterstützung für das 3D-Rendering. Die OpenGL-Unterstützung ist noch in Entwicklung."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15863,11 +15884,6 @@ msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Aktiviert DXVA2-Hardwaredecodierung von Videos."
 
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Aktiviert CrystalHD-Hardwaredecodierung von Videos."
-
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
 msgid "Enable VTB hardware decoding of video files."
@@ -15901,7 +15917,7 @@ msgstr "Verzögerung nach Änderung der Bildwiederholrate"
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Bild und Ton mit der Bildwiederholrate des Monitors synchronisieren. Wenn aktiviert, verwendet VideoPlayer kein Audio-Passthrough, weil hierfür eine Anpassung des Tons (Resampling) notwendig sein kann."
+msgstr "Bild und Ton mit der Bildwiederholrate des Bildschirms synchronisieren. Wenn aktiviert, verwendet VideoPlayer kein Audio-Passthrough, weil hierfür eine Anpassung des Tons (Resampling) notwendig sein kann."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -17208,12 +17224,12 @@ msgstr "Legt fest, welche Bildschirmmodi verwendet werden dürfen und welche nic
 #. Description of setting with label #14127 "Whitelist"
 msgctxt "#36444"
 msgid "Select this option to allow using 3:2 pulldown refresh rates (playing 23.976 FPS video on a 59.94 Hz monitor or playing 24 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 23.976 Hz or 24 Hz mode."
-msgstr "Auswählen, um 3:2-Pulldown-Bildwiederholraten zu erlauben (Wiedergabe von 23,976-FPS-Videos auf einem 59,94-Hz-Monitor oder 24-FPS-Videos auf einem 60-Hz-Monitor). Einstellung kann hilfreich sein, wenn der Monitor keine 23,976-Hz- oder 24-Hz-Modi unterstützt."
+msgstr "Auswählen, um 3:2-Pulldown-Bildwiederholraten zu erlauben (Wiedergabe von 23,976-FPS-Videos auf einem 59,94-Hz-Bildschirm oder 24-FPS-Videos auf einem 60-Hz-Bildschirm). Einstellung kann hilfreich sein, wenn der Bildschirm keine 23,976-Hz- oder 24-Hz-Modi unterstützt."
 
 #. Description of setting with label #14128 "Whitelist"
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
-msgstr "Auswählen, um verdoppelte Bildwiederholraten zu erlauben (Wiedergabe von 29,97-FPS-Videos auf einem 59,94-Hz-Monitor oder 30-FPS-Videos auf einem 60-Hz-Monitor). Einstellung kann hilfreich sein, wenn der Monitor keine 29,97-Hz- oder 30-Hz-Modi unterstützt."
+msgstr "Auswählen, um verdoppelte Bildwiederholraten zu erlauben (Wiedergabe von 29,97-FPS-Videos auf einem 59,94-Hz-Bildschirm oder 30-FPS-Videos auf einem 60-Hz-Bildschirm). Einstellung kann hilfreich sein, wenn der Bildschirm keine 29,97-Hz- oder 30-Hz-Modi unterstützt."
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -17515,7 +17531,7 @@ msgstr "Gammamodus"
 #. Description of setting "System -> Video output -> Gamma mode" with label #36572
 msgctxt "#36573"
 msgid "Select the gamma curve formula. Use BT.1886 for gamma curve that accounts for display black and white levels and avoids perceptual clipping. Use input offset for a similar curve with a manually specified effective gamma. Output offset allows for perceptual clipping, but can be used to compensate for incorrect mastering monitor settings that lead to too bright dark details. Absolute gamma does not account for display black at all and will clip the lowest levels to display black on any display with higher than zero black level."
-msgstr "Auswahl Gammakurvenformel. Verwendung von BT.1886 für die Gammakurve, welche die Schwarzweißwerte der Anzeige berücksichtigt und Wahrnehmungsstörungen vermeidet. Der Eingangsoffset wird für eine ähnliche Kurve mit einem manuell festgelegten effektiven Gamma verwendet. Die Ausgangsverschiebung ermöglicht ein wahrnehmungsmäßiges Clipping, kann aber verwendet werden, um falsche Einstellungen des Hauptmonitors zu kompensieren, die zu aufgehellten dunklen Details führen. Absolutes Gamma berücksichtigt überhaupt nicht die Anzeige von Schwarz und schneidet die niedrigsten Pegel ab, um Schwarz auf jeder Anzeige mit einem höheren als dem Null-Schwarzpegel anzuzeigen."
+msgstr "Auswahl Gammakurvenformel. Verwendung von BT.1886 für die Gammakurve, welche die Schwarzweißwerte der Anzeige berücksichtigt und Wahrnehmungsstörungen vermeidet. Der Eingangsoffset wird für eine ähnliche Kurve mit einem manuell festgelegten effektiven Gamma verwendet. Die Ausgangsverschiebung ermöglicht ein wahrnehmungsmäßiges Clipping, kann aber verwendet werden, um falsche Einstellungen des Hauptbildschirms zu kompensieren, die zu aufgehellten dunklen Details führen. Absolutes Gamma berücksichtigt überhaupt nicht die Anzeige von Schwarz und schneidet die niedrigsten Pegel ab, um Schwarz auf jeder Anzeige mit einem höheren als dem Null-Schwarzpegel anzuzeigen."
 
 msgctxt "#36574"
 msgid "Gamma"
@@ -17739,7 +17755,7 @@ msgstr "Höchste Protokollversion"
 #. Description of setting with label #36621 "Maximum protocol version"
 msgctxt "#36622"
 msgid "Set the maximum SMB protocol version to negotiate when making connections. Forcing SMBv2 or SMBv1 compatibility may be required with older NAS and Windows shares."
-msgstr "Einstellen der maximalen SMB-Protokollversion für das Aushandeln von Verbindungen. Es kann nötig sein, für Kompatibilität mit älteren NAS oder Windows-Netzwerkfreigaben, SMBv2 oder SMBv1 zu erzwingen."
+msgstr "Einstellen der maximalen SMB-Protokollversion für das Aushandeln von Verbindungen. Für Kompatibilität mit älteren NAS oder Windows-Netzwerkfreigaben kann es nötig sein, SMBv2 oder SMBv1 zu erzwingen."
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version" - none means "no protocol version is forced"
 msgctxt "#36623"
@@ -17773,8 +17789,8 @@ msgstr "Minimale Protokollversion"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Festlegen der minimalen SMB-Protokollversion, die beim Verbindungsaufbau verwendet werden soll. SMBv2 kann erforderlich sein, um die Verwendung von SMBv1 auf einigen Betriebssystemen zu unterbinden."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr "Einstellen der maximalen SMB-Protokollversion für das Aushandeln von Verbindungen. Für die Nutzung mancher Systeme kann es nötig sein, SMBv2 zu erzwingen, um SMBv1-Nutzung zu verhindern. Nur SMBv2.1 und SMBv3 unterstützen Large MTU (große maximale Übertragungseinheit, Datenblockgröße > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17810,6 +17826,11 @@ msgstr "Wenn Webserver-Authentifizierung aktiviert ist, muss ein Passwort angege
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Bevor Webserver-Authentifizierung aktiviert werden kann, muss ein Passwort angegeben werden."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr "SMBv2 und Large MTU (große maximale Übertragungseinheit)"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19414,6 +19435,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Abstand zwischen den Textzeilen anpassen. Wenn ein zu kleiner Wert gesetzt und die Einstellung „Hintergrundtyp“ verwendet wird, kann es zu Überlappung der Textbereiche kommen."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Untertitel mit erklärendem Text nur für Hörgeschädigte kennzeichnen"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Wenn aktiviert, werden Untertitel mit erklärendem Text für Hörgeschädigte gekennzeichnet. Das beeinflusst die automatische Auswahl von Untertiteln, welche, wenn nicht anders angegeben, nicht standardmässig angezeigt werden."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19851,6 +19882,22 @@ msgstr "Löschen von Dateien bestätigen"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Wenn altiviert, wird ein Bestätigungsdialog angezeigt, wenn Dateien gelöscht werden sollen. Wenn dektiviert, werden Dateien ohne vorherige Nachfrage gelöscht."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Festlegen der minimalen SMB-Protokollversion, die beim Verbindungsaufbau verwendet werden soll. SMBv2 kann erforderlich sein, um die Verwendung von SMBv1 auf einigen Betriebssystemen zu unterbinden."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Hardware-Beschleunigung erlauben - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Gespeichert mit:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Aktiviert CrystalHD-Hardwaredecodierung von Videos."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-12-03 05:47+0000\n"
-"Last-Translator: Roman Miroshnychenko <romanvm@kodi.tv>\n"
+"PO-Revision-Date: 2025-01-20 17:07+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1859,7 +1859,7 @@ msgstr "Apagado"
 
 msgctxt "#475"
 msgid "Music only"
-msgstr "Sólo música"
+msgstr "Solo música"
 
 msgctxt "#476"
 msgid "Music & video"
@@ -1919,7 +1919,7 @@ msgstr "Redimensionar subtítulos VOB"
 
 msgctxt "#493"
 msgid "Advanced options (experts only!)"
-msgstr "Opciones avanzadas (¡sólo expertos!)"
+msgstr "Opciones avanzadas (¡solo expertos!)"
 
 msgctxt "#494"
 msgid "Overall audio headroom"
@@ -2993,7 +2993,7 @@ msgstr "Introduzca la cadena de búsqueda que usará para consultar eventos coin
 #. Label of "Fulltext search" edit field in PVR timer settings dialog
 msgctxt "#806"
 msgid "Fulltext search (or title search only)"
-msgstr "Buscar texto completo (o buscar sólo por título)"
+msgstr "Buscar texto completo (o buscar solo por título)"
 
 #. special days of week representation value for a timer rule
 msgctxt "#807"
@@ -3045,7 +3045,7 @@ msgstr "Grabar todos los episodios"
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#816"
 msgid "Record only new episodes"
-msgstr "Grabar sólo episodios nuevos"
+msgstr "Grabar solo episodios nuevos"
 
 #. Label of "End any time" radio button in PVR timer settings dialog
 msgctxt "#817"
@@ -3165,12 +3165,12 @@ msgstr "Directo"
 #. Message in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#840"
 msgid "Do you only want to delete this timer or also the timer rule that has scheduled it?"
-msgstr "¿Quieres eliminar sólo este temporizador o también la regla del temporizador que lo ha programado?"
+msgstr "¿Quieres eliminar solo este temporizador o también la regla del temporizador que lo ha programado?"
 
 #. Label for No button in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#841"
 msgid "Only this"
-msgstr "Sólo este"
+msgstr "Solo este"
 
 #. Label for a first aired TV show
 msgctxt "#842"
@@ -3693,7 +3693,7 @@ msgstr "Dispositivo de audio personalizado"
 
 msgctxt "#1301"
 msgid "Custom passthrough device"
-msgstr "Dispositivo personalizado al que traspasar"
+msgstr "Dispositivo passthrough personalizado"
 
 msgctxt "#1302"
 msgid "Volume control steps"
@@ -4121,7 +4121,7 @@ msgstr "Usar núcleo DTS"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr "Seleccione esta opción si quiere traspasar el audio en formato DTS-HD como DTS; de lo contrario, el formato DTS-HD se reproducirá a través de PCM"
+msgstr "Seleccione esta opción si quiere usar formatos passthrough DTS-HD como DTS; de lo contrario, los formatos DTS-HD se reproducirán a través de PCM"
 
 msgctxt "#10000"
 msgid "Home"
@@ -5103,6 +5103,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "Nivel de batería"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "Kodi se entrega con amor desde la Kodi Foundation, una organizacion sin ánimo de lucro 501(c)(3). ¡Gracias por usar nuestro programa!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "Meteorología"
@@ -5133,7 +5148,7 @@ msgstr "Parar el disco duro inmediatamente"
 
 msgctxt "#13002"
 msgid "Video only"
-msgstr "Sólo vídeo"
+msgstr "Solo vídeo"
 
 msgctxt "#13003"
 msgid "- Delay"
@@ -5442,7 +5457,7 @@ msgstr "Sobrescribir"
 #. Subtitle selection to only use forced subtitles
 msgctxt "#13207"
 msgid "Forced only"
-msgstr "Sólo forzados"
+msgstr "Solo forzados"
 
 msgctxt "#13208"
 msgid "Alarm clock"
@@ -5613,7 +5628,7 @@ msgstr "Plantilla de nombrado de pistas"
 
 msgctxt "#13308"
 msgid "Do you wish to reboot your system instead of just this application?"
-msgstr "¿Desea reiniciar su sistema en lugar de sólo esta aplicación?"
+msgstr "¿Desea reiniciar su sistema en lugar de solo esta aplicación?"
 
 msgctxt "#13310"
 msgid "Zoom effect"
@@ -5661,11 +5676,11 @@ msgstr "Estéreo"
 
 msgctxt "#13321"
 msgid "Left only"
-msgstr "Sólo izquierdo"
+msgstr "Solo izquierdo"
 
 msgctxt "#13322"
 msgid "Right only"
-msgstr "Sólo derecho"
+msgstr "Solo derecho"
 
 msgctxt "#13324"
 msgid "Background transparency"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "Permitir aceleración por hardware - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "Permitir aceleración por hardware - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "Permitir aceleración por hardware - VTBDecoder"
@@ -6054,7 +6065,7 @@ msgstr "Reproducir siguiente vídeo automáticamente"
 #. If autoplay next video is set true
 msgctxt "#13434"
 msgid "Play only this"
-msgstr "Reproducir sólo este"
+msgstr "Reproducir solo este"
 
 msgctxt "#13435"
 msgid "Enable HQ scalers for scaling above"
@@ -6156,6 +6167,16 @@ msgstr "Active esta opción para usar aceleración por hardware con el códec VP
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "Preferir método VAAPI para renderizado"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "Filtrar Decodificadores"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "Activar/Desactivar este filtro que bloquea algunos decodificadores de software de Android. Este filtro es editable en el archivo [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -7074,7 +7095,7 @@ msgstr "Decodificador de audio"
 
 msgctxt "#14252"
 msgid "Audio Passthrough"
-msgstr "Traspaso de Audio"
+msgstr "Audio passthrough"
 
 msgctxt "#14255"
 msgid "Sleep / Shutdown"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "Información de grabación"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "Ocultar canal"
@@ -8365,7 +8386,7 @@ msgstr "Este temporizador todavía está grabando. ¿Estás seguro de que deseas
 
 msgctxt "#19123"
 msgid "Free to air channels only"
-msgstr "Sólo canales en abierto"
+msgstr "Solo canales en abierto"
 
 msgctxt "#19124"
 msgid "Ignore present timers"
@@ -9496,7 +9517,7 @@ msgstr "Reproducir programas desde aquí"
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr "Reproducir sólo este programa"
+msgstr "Reproducir solo este programa"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
@@ -10173,7 +10194,7 @@ msgstr "Cambio automático entre 16:9 y 4:3"
 
 msgctxt "#20051"
 msgid "Treat stacked files as single file"
-msgstr "Tratar archivos agrupados como un sólo archivo"
+msgstr "Tratar archivos agrupados como un solo archivo"
 
 msgctxt "#20052"
 msgid "Caution"
@@ -10218,7 +10239,7 @@ msgstr "Recursos comp. por defecto"
 
 msgctxt "#20063"
 msgid "Shares with default (read only)"
-msgstr "Recursos comp. por defecto (sólo lectura)"
+msgstr "Recursos comp. por defecto (solo lectura)"
 
 msgctxt "#20064"
 msgid "Copy default"
@@ -11161,7 +11182,7 @@ msgstr "Añadidos recientemente"
 
 msgctxt "#20383"
 msgid "Selected folder contains a single video"
-msgstr "La carpeta seleccionada contiene un sólo vídeo"
+msgstr "La carpeta seleccionada contiene un solo vídeo"
 
 msgctxt "#20384"
 msgid "Link to TV show"
@@ -11315,7 +11336,7 @@ msgstr "Nunca"
 
 msgctxt "#20421"
 msgid "If only one season"
-msgstr "Si sólo hay una temporada"
+msgstr "Si solo hay una temporada"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
@@ -11338,7 +11359,7 @@ msgstr "Presentación de fanart"
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20426"
 msgid "Export to a single file or separate files per entry?"
-msgstr "¿Exportar a un sólo archivo o separar archivos por cada entrada?"
+msgstr "¿Exportar a un solo archivo o separar archivos por cada entrada?"
 
 msgctxt "#20427"
 msgid "Choose rule type"
@@ -11347,7 +11368,7 @@ msgstr "Elegir tipo de regla"
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20428"
 msgid "Single file"
-msgstr "Un sólo archivo"
+msgstr "Un solo archivo"
 
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20429"
@@ -12055,7 +12076,7 @@ msgstr "Parte superior de la pantalla"
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
 msgid "When entering a TV show season or episode view automatically select the first unwatched season or episode.[CR][On first entry] The first unwatched item will be selected only when a view is entered for the first time.[CR][Always] The first unwatched item will be selected every time a view is entered."
-msgstr "Al entrar a una temporada o episodio de una serie de TV, se selecciona automáticamente la primera temporada o episodio no visto.[CR][La primera vez] El primer elemento no visto se seleccionará sólo cuando se entre a una vista por primera vez.[CR][Siempre] El primer elemento no visto se seleccionará cada vez que se entre a una vista."
+msgstr "Al entrar a una temporada o episodio de una serie de TV, se selecciona automáticamente la primera temporada o episodio no visto.[CR][La primera vez] El primer elemento no visto se seleccionará solo cuando se entre a una vista por primera vez.[CR][Siempre] El primer elemento no visto se seleccionará cada vez que se entre a una vista."
 
 #. Filter (media data) from float value to float value
 msgctxt "#21467"
@@ -12104,12 +12125,12 @@ msgstr "Ambos"
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
 msgctxt "#21476"
 msgid "Just \"All seasons\""
-msgstr "Sólo \"Todas las temporadas\""
+msgstr "Solo \"Todas las temporadas\""
 
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
 msgctxt "#21477"
 msgid "Just \"Specials\""
-msgstr "Sólo \"Especiales\""
+msgstr "Solo \"Especiales\""
 
 msgctxt "#21478"
 msgid "Open"
@@ -13230,7 +13251,7 @@ msgstr "¿Quieres activar este complemento?"
 #. Button in Add-on Manager -> Available Updates for updating all possible add-ons when auto-updating is off.
 msgctxt "#24137"
 msgid "Install auto updates only"
-msgstr "Instalar sólo las actualizaciones automáticas"
+msgstr "Instalar solo las actualizaciones automáticas"
 
 #. Button caption in DialogAddoninfo
 msgctxt "#24138"
@@ -13535,7 +13556,7 @@ msgstr "Teclado QWERTY"
 
 msgctxt "#29802"
 msgid "Passthrough audio in use"
-msgstr "Traspaso de audio en uso"
+msgstr "Audio passthrough en uso"
 
 #. Header text for the BD-J warning dialog
 msgctxt "#29803"
@@ -14414,7 +14435,7 @@ msgstr "Incluir LFE al realizar downmix"
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr "Si está habilitado, esta configuración incluirá el canal LFE en la mezcla cuando no haya un canal de salida LFE dedicado disponible. Esto sólo tiene sentido para altavoces de rango completo."
+msgstr "Si está habilitado, esta configuración incluirá el canal LFE en la mezcla cuando no haya un canal de salida LFE dedicado disponible. Esto solo tiene sentido para altavoces de rango completo."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
@@ -14438,7 +14459,7 @@ msgstr "Reproducir sonidos de la interfaz de usuario"
 #. play GUI sounds
 msgctxt "#34121"
 msgid "Only when playback stopped"
-msgstr "Sólo si la reproducción está detenida"
+msgstr "Solo si la reproducción está detenida"
 
 #. play GUI sounds
 msgctxt "#34122"
@@ -14558,11 +14579,11 @@ msgstr "Desliza dos dedos a la izquierda para retroceder"
 
 msgctxt "#34407"
 msgid "One finger single tap for enter"
-msgstr "Un sólo toque con un dedo para entrar"
+msgstr "Un solo toque con un dedo para entrar"
 
 msgctxt "#34408"
 msgid "Two finger single tap or one finger long press for contextmenu"
-msgstr "Un sólo toque con dos dedos o una pulsación larga con un dedo para acceder al menú contextual"
+msgstr "Un solo toque con dos dedos o una pulsación larga con un dedo para acceder al menú contextual"
 
 msgctxt "#35000"
 msgid "Peripherals"
@@ -15100,7 +15121,7 @@ msgstr "El emulador \"{0:s}\" ha tenido un error interno."
 #. Error dialog text when the game can't be played because it's not on a hard drive or partition
 msgctxt "#35214"
 msgid "This game can only be played directly from a hard drive or partition. Compressed files must be extracted."
-msgstr "Este juego sólo se puede jugar directamente desde un disco duro o una partición. Los archivos comprimidos deben extraerse."
+msgstr "Este juego solo se puede jugar directamente desde un disco duro o una partición. Los archivos comprimidos deben extraerse."
 
 #. Error dialog text when libretro support is disabled
 msgctxt "#35215"
@@ -15115,7 +15136,7 @@ msgstr "Add-ons soportados"
 #. Dialog text asking user to overwrite their savestate file
 msgctxt "#35217"
 msgid "The savestate can only be loaded with \"{0:s}\". Erase savestate and continue?"
-msgstr "La partida guardada sólo se puede cargar con \"{0:s}\". ¿Borrar partida guardada y continuar?"
+msgstr "La partida guardada solo se puede cargar con \"{0:s}\". ¿Borrar partida guardada y continuar?"
 
 #. Button to erase the savestate
 msgctxt "#35218"
@@ -15210,7 +15231,7 @@ msgstr "Pulsa {0:s} para abrir el menú del juego."
 #. Additional help text shown when the user first plays a game. This will be removed in the future.
 msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
-msgstr "En esta versión, sólo se pueden usar mandos para jugar."
+msgstr "En esta versión, solo se pueden usar mandos para jugar."
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15237,11 +15258,6 @@ msgstr "Activar autoguardado (si es soportado)"
 msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "Guarda el progreso automáticamente durante el juego, si es soportado. Continúa jugando donde lo dejaste."
-
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "Guardado con:"
 
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
@@ -15319,6 +15335,11 @@ msgstr "Cambie esta configuración para iniciar o cerrar sesión en RetroAchieve
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "Su cuenta no está verificada. Por favor, compruebe su correo electrónico para completar el registro."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Este juego requiere OpenGL para renderizar en 3D. El soporte OpenGL esta todavía en desarrollo."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15471,7 +15492,7 @@ msgstr "Este usuario no tiene permiso para usar el adaptador CEC"
 
 msgctxt "#36032"
 msgid "The port is busy. Only one program can access the CEC adapter"
-msgstr "El puerto está ocupado. Sólo un programa puede acceder al adaptador CEC"
+msgstr "El puerto está ocupado. Solo un programa puede acceder al adaptador CEC"
 
 msgctxt "#36033"
 msgid "Action when switching to another source"
@@ -15699,7 +15720,7 @@ msgstr "Muestra la extensión de los archivos multimedia. Ejemplo: \"You Enjoy M
 #. Description of setting with label #13399 "Ignore articles when sorting"
 msgctxt "#36124"
 msgid "Ignore certain tokens, e.g. \"The\", during sort operations. \"The Simpsons\" would for example be sorted as \"Simpsons\"."
-msgstr "Ignora ciertos artículos. En por ejemplo \"Los Simpsons\" sólo será tenido en cuenta la palabra \"Simpsons\" para la ordenación."
+msgstr "Ignora ciertos artículos. En por ejemplo \"Los Simpsons\" solo será tenido en cuenta la palabra \"Simpsons\" para la ordenación."
 
 #. Description of setting with label #14071 "Allow file renaming and deletion"
 msgctxt "#36125"
@@ -15856,17 +15877,12 @@ msgstr "Activa VAAPI para la decodificación por hardware de archivos de vídeo,
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
 msgid "When enabled, a \"Movie set\" entry is used even if the movie library contains only a single movie from that set. When disabled, a \"Movie set\" entry is used only if the movie library contains more than one movie from that set."
-msgstr "Cuando está activado, se utiliza una entrada \"Colección\" incluso si la biblioteca de películas contiene sólo una película de una saga. Cuando está desactivado, la entrada \"Colección\" se utiliza sólo si la biblioteca de películas contiene más de una película de la saga."
+msgstr "Cuando está activado, se utiliza una entrada \"Colección\" incluso si la biblioteca de películas contiene solo una película de una saga. Cuando está desactivado, la entrada \"Colección\" se utiliza solo si la biblioteca de películas contiene más de una película de la saga."
 
 #. Description of setting with label #13427 "Allow hardware acceleration (DXVA2)"
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "Activa DXVA2 para la decodificación por hardware de archivos de vídeo."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "Activa CrystalHD para la decodificación de archivos de vídeo."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -15901,7 +15917,7 @@ msgstr "Tiempo de espera del evento de restablecimiento tras un cambio en la tas
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Sincroniza el audio y el vídeo a la tasa de refresco del monitor. VideoPlayer no utilizará el traspaso de audio porque es posible que requiera de un remuestreo."
+msgstr "Sincroniza el audio y el vídeo a la tasa de refresco del monitor. VideoPlayer no utilizará el audio passthrough porque es posible que requiera de un remuestreo."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -15980,7 +15996,7 @@ msgstr "No hay información disponible."
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
 msgid "Combines multi-part video files, DVD folders or movie folders, down to a single item in non-library views."
-msgstr "Combina archivos de vídeo de varias partes, carpetas de DVD o carpetas de películas, en un sólo elemento en vistas que no son de biblioteca."
+msgstr "Combina archivos de vídeo de varias partes, carpetas de DVD o carpetas de películas, en un solo elemento en vistas que no son de biblioteca."
 
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
@@ -16161,7 +16177,7 @@ msgstr "No importa los datos de información de la guía mientras se reproduce t
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
 msgid "Enable PRIME hardware decoding of video files, used if ffmpeg PRIME hwaccel is available."
-msgstr "Activa la decodificación por hardware de vídeo PRIME , se utiliza sólo si la aceleración por hardware PRIME de ffmpeg está disponible."
+msgstr "Activa la decodificación por hardware de vídeo PRIME , se utiliza solo si la aceleración por hardware PRIME de ffmpeg está disponible."
 
 msgctxt "#36224"
 msgid "Hide \"No information available\" labels when no guide data is available for a channel."
@@ -16293,7 +16309,7 @@ msgstr "Acción a realizar cuando presione el botón Grabar. [Grabar programa ac
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
 msgid "When enabled, both song and album artists are shown. When disabled, only album artists are shown and artists that appear only on individual songs from an album are excluded."
-msgstr "Cuando está activado, se muestran tanto el artista del álbum como el de la canción. Si se desactiva, sólo se mostrarán los artistas del álbum y los que sólo aparecen en canciones individuales se excluyen."
+msgstr "Cuando está activado, se muestran tanto el artista del álbum como el de la canción. Si se desactiva, solo se mostrarán los artistas del álbum y los que solo aparecen en canciones individuales se excluyen."
 
 #. Description of setting with label #20192 "Fetch additional information during updates"
 msgctxt "#36256"
@@ -16550,7 +16566,7 @@ msgstr "Genera automáticamente las miniaturas al entrar en una carpeta de imág
 #. Description of setting with label #20472 "Show all performers for music videos"
 msgctxt "#36308"
 msgid "When enabled, shows all performers in the artist list for music videos, not just the main artist"
-msgstr "Cuando está activado, muestra todos los intérpretes en la lista de artistas para vídeos musicales, no sólo el artista principal"
+msgstr "Cuando está activado, muestra todos los intérpretes en la lista de artistas para vídeos musicales, no solo el artista principal"
 
 #. Description of setting with label #22022 "Show video files in listings"
 msgctxt "#36309"
@@ -16819,7 +16835,7 @@ msgstr "Seleccione cómo se configuran las propiedades de la salida de audio: [F
 #. Description of setting with label #34100 "Number of channels"
 msgctxt "#36362"
 msgid "Select the number of channels supported by the audio connection, or the number of speakers if connected by analogue connections. This setting does not apply to passthrough audio. Note: S/PDIF supports 2.0 channels only but can still output multichannel audio using a format supported by passthrough."
-msgstr "Seleccione la cantidad de canales admitidos por la conexión de audio, o la cantidad de altavoces si están conectados mediante conexiones analógicas. Este ajuste no se aplica al traspaso de audio. Nota: S/PDIF sólo admite canales 2.0, pero aún puede enviar audio multicanal utilizando un formato compatible con traspaso de audio."
+msgstr "Seleccione la cantidad de canales admitidos por la conexión de audio, o la cantidad de altavoces si están conectados mediante conexiones analógicas. Este ajuste no se aplica a audio passthrough. Nota: S/PDIF solo admite canales 2.0, pero aún puede generar audio multicanal utilizando un formato compatible con passthrough."
 
 msgctxt "#36363"
 msgid "Boost AC3 streams that have been downmixed to 2 channels."
@@ -16847,7 +16863,7 @@ msgstr "Seleccione el número máximo de canales de audio / altavoces disponible
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "Seleccione esta opción para permitir el traspaso de audio para la reproducción de audio comprimido como Dolby Digital (AC3), DTS, etc. El cliente de AudioEngine, por ejemplo Videoplayer, puede decidir decodificar la pista de audio bajo ciertas condiciones. En el caso de Videoplayer, el traspaso de audio no se utilizará para transmisiones en directo ni cuando esté activa la sincronización de fotogramas en pantalla."
+msgstr "Seleccione esta opción para permitir audio passthrough para la reproducción de audio comprimido, como Dolby Digital (AC3), DTS, etc. El cliente de AudioEngine, por ejemplo Videoplayer, puede decidir decodificar la transmisión de audio bajo ciertas condiciones. En el caso de Videoplayer, passthrough no se utilizará para transmisiones en directo ni cuando esté activa la sincronización de fotogramas con pantalla."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -17140,7 +17156,7 @@ msgstr "Grabar"
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Seleccione esta opción si la salida de audio sólo admite audio multicanal como Dolby Digital 5.1 (AC-3), como una conexión S/PDIF. Si su sistema admite audio multicanal PCM a través de HDMI, déjela desactivada."
+msgstr "Seleccione esta opción si la salida de audio solo admite audio multicanal como Dolby Digital 5.1 (AC-3), como una conexión S/PDIF. Si su sistema admite audio multicanal PCM a través de HDMI, déjela desactivada."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -17150,7 +17166,7 @@ msgstr "Configure cómo se acelerará el procesamiento de vídeo. Esto incluye c
 #. Description of setting with label #13438 "Show event log"
 msgctxt "#36431"
 msgid "Shows all events in the event log for the current profile with options to only show specific levels."
-msgstr "Muestra todos los eventos en el registro de eventos del perfil actual con opciones para mostrar sólo niveles específicos."
+msgstr "Muestra todos los eventos en el registro de eventos del perfil actual con opciones para mostrar solo niveles específicos."
 
 #. Description for setting #310: "Virtual keyboard layouts"
 #. Setting in Interface -> Regional -> Virtual keyboard layouts
@@ -17183,7 +17199,7 @@ msgstr "Seleccione disposición del teclado físico."
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36437"
 msgid "Official repositories only (default)"
-msgstr "Sólo repositorios oficiales (predeterminado)"
+msgstr "Solo repositorios oficiales (predeterminado)"
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36438"
@@ -17193,7 +17209,7 @@ msgstr "Cualquier repositorio"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr "Activa la reproducción automática del siguiente programa cuando reproduzca programas anteriores o para canales de Video On Demand (VOD). Tenga en cuenta que catchup y VOD sólo funcionan si el proveedor del canal lo admite."
+msgstr "Activa la reproducción automática del siguiente programa cuando reproduzca programas anteriores o para canales de Video On Demand (VOD). Tenga en cuenta que catchup y VOD solo funcionan si el proveedor del canal lo admite."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17407,7 +17423,7 @@ msgstr "Limita la resolución de la interfaz de usuario para ahorrar memoria. No
 #. Description of setting with label #1268 "iOS 8 compatibility mode"
 msgctxt "#36549"
 msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
-msgstr "Activa el soporte para recibir \"Vídeos\" e \"Imágenes\" a través de AirPlay. Esto debe estar desactivado cuando use clientes iOS9 o posteriores para restaurar la transmisión de música a través de AirPlay. \"Vídeos\" e \"Imágenes\" sólo son compatibles con clientes iOS que utilicen iOS 8.x y versiones anteriores."
+msgstr "Activa el soporte para recibir \"Vídeos\" e \"Imágenes\" a través de AirPlay. Esto debe estar desactivado cuando use clientes iOS9 o posteriores para restaurar la transmisión de música a través de AirPlay. \"Vídeos\" e \"Imágenes\" solo son compatibles con clientes iOS que utilicen iOS 8.x y versiones anteriores."
 
 #. Name of a setting
 msgctxt "#36550"
@@ -17538,7 +17554,7 @@ msgstr "Especifique la resolución de la tabla de consulta 3D. Utilice una resol
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr "Mejora la calidad de vídeo utilizando superficies de 10 bits para vídeo Standard Dynamic Range (SDR).[CR][Auto detectar] Activa 10 bits para SDR sólo si la pantalla conectada soporta HDR.[CR][Siempre] Activa 10 bits para SDR aún si la pantalla conectada no soporta HDR.[CR][Nunca] No utiliza 10 bits para SDR.[CR]La modalidad Traspaso de HDR utiliza 10 bits independientemente de esta configuración."
+msgstr "Mejora la calidad de vídeo utilizando superficies de 10 bits para vídeo Standard Dynamic Range (SDR).[CR][Auto detectar] Activa 10 bits para SDR solo si la pantalla conectada soporta HDR.[CR][Siempre] Activa 10 bits para SDR aún si la pantalla conectada no soporta HDR.[CR][Nunca] No utiliza 10 bits para SDR.[CR]La modalidad HDR passthrough utiliza 10 bits independientemente de esta configuración."
 
 #. primaries labels
 msgctxt "#36579"
@@ -17631,7 +17647,7 @@ msgstr "Elimina las bandas causadas por la conversión de nivel RGB u otro proce
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Precisión de tramado o \"dithering\" en la salida de vídeo en bits. Use el valor más alto que no provoque banding. El valor por defecto, 8, es el recomendado para la mayoría de sistemas. Si su GPU está configurada para escalar la salida de niveles RGB o usa un ordenador portátil, un 6 o un 7 podría eliminar más banding. Los valores más bajos están disponibles sólo para hacer pruebas y poder ver fácilmente si se aplica tramado y si dicho tramado encaja con la resolución de la pantalla."
+msgstr "Precisión de tramado o \"dithering\" en la salida de vídeo en bits. Use el valor más alto que no provoque banding. El valor por defecto, 8, es el recomendado para la mayoría de sistemas. Si su GPU está configurada para escalar la salida de niveles RGB o usa un ordenador portátil, un 6 o un 7 podría eliminar más banding. Los valores más bajos están disponibles solo para hacer pruebas y poder ver fácilmente si se aplica tramado y si dicho tramado encaja con la resolución de la pantalla."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -17773,8 +17789,8 @@ msgstr "Versión mínima del protocolo"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "Establece la versión mínima del protocolo SMB para negociar al realizar conexiones. Es posible que sea necesario forzar SMBv2 para evitar el uso de SMBv1 en algunos sistemas operativos."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr "Ajusta la versión mínima a la que se negociará el protocolo SMB al hacer conexiones. Forzarlo a SMBv2 puede ser requerido para evitar usar SMBv1 en algunos sistemas. Solo SMBv2.1 y SMBv3 soportan MTU Grande (tamaño de fragmento > 64KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17810,6 +17826,11 @@ msgstr "Si la autenticación del servidor web está activada, también se debe i
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "Primero debe introducir una contraseña antes de poder activar la autenticación del servidor web."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr "SMBv2 y MTU Grande"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -18065,7 +18086,7 @@ msgstr "Define qué tamaños de paso usar al presionar los botones de salto. Si 
 #. Description of setting Skip delay
 msgctxt "#37043"
 msgid "Defines the time to wait for subsequent key presses before performing the skip. Only applies when using smart skipping (when using more than one skip step for a direction)."
-msgstr "Define el tiempo que se debe esperar para que se presionen las teclas posteriores antes de realizar el salto. Sólo se aplica cuando se utiliza el salto inteligente (cuando se usa más de un paso de salto para una dirección)."
+msgstr "Define el tiempo que se debe esperar para que se presionen las teclas posteriores antes de realizar el salto. Solo se aplica cuando se utiliza el salto inteligente (cuando se usa más de un paso de salto para una dirección)."
 
 #. Setting #37044 Extract chapter thumbnails
 msgctxt "#37044"
@@ -18189,7 +18210,7 @@ msgstr "Sin búfer"
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr "Sólo almacena en búfer transmisiones de Internet verdaderas: HTTP, HTTPS, etc."
+msgstr "Solo almacena en búfer transmisiones de Internet verdaderas: HTTP, HTTPS, etc."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
@@ -18620,7 +18641,7 @@ msgstr "Exportar biblioteca de música"
 #. Kind of export output, see #38304
 msgctxt "#38301"
 msgid "Single file"
-msgstr "Un sólo archivo"
+msgstr "Un solo archivo"
 
 #. Kind of export output, see #38304
 msgctxt "#38302"
@@ -18662,7 +18683,7 @@ msgstr "Información de salida a archivos NFO"
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr "Información de salida a archivos NFO (actualmente sólo exporta carpetas de artistas)"
+msgstr "Información de salida a archivos NFO (actualmente solo exporta carpetas de artistas)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
@@ -18701,7 +18722,7 @@ msgstr "¿Tienes información del artista local (NFO) y archivos de arte que qui
 #. Kind of export output, see #38304
 msgctxt "#38321"
 msgid "Artist folders only"
-msgstr "Sólo carpetas de artista"
+msgstr "Solo carpetas de artista"
 
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
@@ -19071,7 +19092,7 @@ msgstr "Lista blanca de tipos de arte del artista"
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones del artista a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones del artista a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
@@ -19080,7 +19101,7 @@ msgstr "Lista blanca de tipos de arte del álbum"
 #. Description of setting with label #39133 "Album art types whitelist"
 msgctxt "#39134"
 msgid "Limit the album artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones del álbum a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones del álbum a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
@@ -19122,7 +19143,7 @@ msgstr "Lista blanca de tipos de arte de películas"
 #. Description of setting with label #39150 "Movie art types whitelist"
 msgctxt "#39144"
 msgid "Limit the movie and movie set artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones de películas o colecciones a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones de películas o colecciones a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
@@ -19131,7 +19152,7 @@ msgstr "Lista blanca de tipos de arte de programas TV"
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones de programas TV y temporadas a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones de programas TV y temporadas a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
@@ -19140,7 +19161,7 @@ msgstr "Lista blanca de tipos de arte de episodio"
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones de episodio a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones de episodio a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
@@ -19149,7 +19170,7 @@ msgstr "Lista blanca de tipos de arte de vídeo musical"
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones de vídeo musical a las obtenidas localmente o desde los resultados remotos del raspador sólo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones de vídeo musical a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
 
 #. Display Hardware scaling filter setting toggle
 msgctxt "#39151"
@@ -19343,7 +19364,7 @@ msgstr "Sin fondo"
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr "Disponible sólo con posición de subtítulos manual"
+msgstr "Disponible solo con posición de subtítulos manual"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
@@ -19367,7 +19388,7 @@ msgstr "Si se está reproduciendo música, el salvapantallas nunca se activará"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Activa el escalador avanzado de DXVA usando NVIDIA \"RTX Video Super Resolution\" o \"Intel Video Super Resolution\".[CR]Se utiliza cuando la fuente de vídeo es 1920x1080 o menos y la resolución de la fuente es inferior a la resolución de la pantalla.[CR] Sólo disponible en hardware específico: NVIDIA RTX 20xx, 30xx, 40xx y superiores, Intel Arc A770, A750."
+msgstr "Activa el escalador avanzado de DXVA usando NVIDIA \"RTX Video Super Resolution\" o \"Intel Video Super Resolution\".[CR]Se utiliza cuando la fuente de vídeo es 1920x1080 o menos y la resolución de la fuente es inferior a la resolución de la pantalla.[CR] Solo disponible en hardware específico: NVIDIA RTX 20xx, 30xx, 40xx y superiores, Intel Arc A770, A750."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19413,6 +19434,16 @@ msgstr "Interlineado"
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "Ajusta el espacio entre las líneas de texto. Si se establece un valor demasiado bajo, es posible que los cuadros se superpongan cuando se utiliza la configuración \"Tipo de fondo\"."
+
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "Ajustar subtítulos solo para discapacidad auditiva"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "Al activarlo, los subtítulos se etiquetarán para discapacidad auditiva; esto afecta a la selección automática de subtítulos, que si están etiquetados de otra manera no se mostrarían por defecto."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19851,6 +19882,22 @@ msgstr "Confirmar eliminación de archivo"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si está activado, se mostrará un cuadro de diálogo de confirmación cuando se eliminen los archivos. Si está desactivado, los archivos se eliminarán sin confirmación del usuario."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "Establece la versión mínima del protocolo SMB para negociar al realizar conexiones. Es posible que sea necesario forzar SMBv2 para evitar el uso de SMBv1 en algunos sistemas operativos."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "Permitir aceleración por hardware - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "Guardado con:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "Activa CrystalHD para la decodificación de archivos de vídeo."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-12-03 05:47+0000\n"
+"PO-Revision-Date: 2025-01-10 19:57+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5103,6 +5103,21 @@ msgctxt "#12395"
 msgid "Battery level"
 msgstr "배터리 상태"
 
+#. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
+msgctxt "#12396"
+msgid "Thank you!"
+msgstr "감사합니다!"
+
+#. Label of text box asking for donations
+msgctxt "#12397"
+msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
+msgstr "코디는 501(c)(3) 비영리 단체인 Kodi Foundation의 사랑을 담아 제공합니다. 저희 소프트웨어를 사용해주셔서 감사합니다!"
+
+#. URL for donations. Do not translate.
+msgctxt "#12398"
+msgid "kodi.tv/donate"
+msgstr "kodi.tv/donate"
+
 msgctxt "#12600"
 msgid "Weather"
 msgstr "날씨"
@@ -6027,10 +6042,6 @@ msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
 msgstr "하드웨어 가속 허용 - DXVA2"
 
-msgctxt "#13428"
-msgid "Allow hardware acceleration - CrystalHD"
-msgstr "하드웨어 가속 허용 - CrystalHD"
-
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
 msgstr "하드웨어 가속 허용 - VTBDecoder"
@@ -6156,6 +6167,16 @@ msgstr "이 옵션은 VP9 코덱을 위한 하드웨어 가속을 사용합니�
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
 msgstr "VAAPI 렌더링 방식 우선"
+
+#. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
+msgctxt "#13458"
+msgid "Use Decoder filter"
+msgstr "디코더 필터 사용"
+
+#. Description of setting with label #13458 "Use Decoder filter"
+msgctxt "#13459"
+msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
+msgstr "특정 Android 소프트웨어 디코더를 차단하는 필터를 활성화/비활성화합니다. 이 필터는 [userdata]/decoderfilter.xml 파일에서 구성할 수 있습니다."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -8022,7 +8043,7 @@ msgctxt "#19053"
 msgid "Recording information"
 msgstr "녹화 정보"
 
-#. header label for hide channel confirmation message box
+#. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
 msgid "Hide channel"
 msgstr "채널 숨김"
@@ -15238,11 +15259,6 @@ msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
 msgstr "지원한다면, 게임 중에 자동으로 저장합니다. 멈춘 지점에서 다시 시작하면 됩니다."
 
-#. Label for showing which emulator the game was saved with
-msgctxt "#35255"
-msgid "Saved with:"
-msgstr "저장 위치:"
-
 #. Error message when a game client fails to install when a game is being launched
 msgctxt "#35256"
 msgid "Failed to install add-on."
@@ -15319,6 +15335,11 @@ msgstr "RetroAchievements에 로그인하거나 로그아웃하려면 이 설정
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
 msgstr "계정이 확인되지 않았습니다. 이메일을 확인하여 가입을 완료하세요."
+
+#. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
+msgctxt "#35271"
+msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "이 게임은 3D 렌더링을 위해 OpenGL 지원이 필요합니다. OpenGL 지원은 아직 개발 중입니다."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15862,11 +15883,6 @@ msgstr "영화 라이브러리에 해당 시리즈에 속하는 영화가 한 �
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
 msgstr "비디오 재생에 DXVA2 하드웨어 디코딩을 사용합니다."
-
-#. Description of setting with label #13428 "Allow hardware acceleration (CrystalHD)"
-msgctxt "#36159"
-msgid "Enable CrystalHD decoding of video files."
-msgstr "비디오 재생에 CrystalHD 디코딩을 사용합니다."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
@@ -17773,8 +17789,8 @@ msgstr "최소 프로토콜 버전"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
-msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
-msgstr "연결할 때 최소 SMB 프로토콜 버전으로 설정합니다. SMBv2를 강제하면 일부 운영 체계의 SMBv1 사용을 막습니다."
+msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
+msgstr ""
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17810,6 +17826,11 @@ msgstr "웹 서버 인증을 사용하면, 비밀번호도 입력해야 합니�
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
 msgstr "웹 서버 인증을 사용하기 전에, 먼저 비밀번호를 입력해야 합니다."
+
+#. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
+msgctxt "#36637"
+msgid "SMBv2 and Large MTU"
+msgstr ""
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19414,6 +19435,16 @@ msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
 msgstr "글 줄 사이의 간격을 조정합니다. 값을 너무 낮게 설정하면 \"배경 형태\" 설정을 사용할 때 상자가 겹칠 수 있습니다."
 
+#. Setting to make CC subtitles for hearing impaired only
+msgctxt "#39204"
+msgid "Set CC subtitles only for the hearing impaired"
+msgstr "청각 장애인을 위해 CC 자막만 설정합니다"
+
+#. Help text for setting of label #39204
+msgctxt "#39205"
+msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr "이 기능은 청각 장애인을 위한 CC 자막에 라벨이 표시됩니다. 이는 자막의 자동 선택에 영향을 미치며, 기본적으로 표시되지 않습니다."
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19851,6 +19882,22 @@ msgstr "파일 삭제 확인"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "사용하면 파일을 삭제할 때 확인 대화 상자가 표시됩니다. 사용하지 않으면 사용자 확인 없이 파일이 삭제됩니다."
+
+#~ msgctxt "#36629"
+#~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
+#~ msgstr "연결할 때 최소 SMB 프로토콜 버전으로 설정합니다. SMBv2를 강제하면 일부 운영 체계의 SMBv1 사용을 막습니다."
+
+#~ msgctxt "#13428"
+#~ msgid "Allow hardware acceleration - CrystalHD"
+#~ msgstr "하드웨어 가속 허용 - CrystalHD"
+
+#~ msgctxt "#35255"
+#~ msgid "Saved with:"
+#~ msgstr "저장 위치:"
+
+#~ msgctxt "#36159"
+#~ msgid "Enable CrystalHD decoding of video files."
+#~ msgstr "비디오 재생에 CrystalHD 디코딩을 사용합니다."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"
