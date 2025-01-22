@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-19 16:08+0000\n"
+"PO-Revision-Date: 2025-01-22 05:25+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5106,17 +5106,18 @@ msgstr "Nível Bateria"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Obrigado!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi é oferecido a você com amor pela Fundação Kodi, uma organização sem fins lucrativos 501(c)(3). Obrigado por usar nosso software!"
 
 #. URL for donations. Do not translate.
+#, fuzzy
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -6171,12 +6172,12 @@ msgstr "Preferir método de renderização VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Usar filtro decodificador"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Ative/desative o filtro que bloqueia determinados decodificadores de software Android. Este filtro é configurável através do arquivo [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -15339,7 +15340,7 @@ msgstr "Sua conta não foi verificada. Verifique seu e-mail para concluir sua in
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Este jogo requer suporte OpenGL para renderização 3D. O suporte OpenGL ainda está em desenvolvimento."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -17790,7 +17791,7 @@ msgstr "Versão mínima do protocolo"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Defina a versão mínima do protocolo SMB para negociar ao fazer conexões. Forçar o SMBv2 pode ser necessário para impedir o uso do SMBv1 em alguns sistemas. Somente SMBv2.1 e SMBv3 suportam MTU grande (tamanho de bloco > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17830,7 +17831,7 @@ msgstr "Você deve primeiro digitar uma senha antes que a autenticação do serv
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 e MTU grande"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19438,12 +19439,12 @@ msgstr "Ajuste o espaço entre as linhas do texto. Definir um valor muito baixo 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Defina legendas CC apenas para deficientes auditivos"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Ao habilitá-lo, as legendas CC serão marcadas para deficientes auditivos; isso afetará a seleção automática de legendas, que, a menos que especificado de outra forma, não serão exibidas por padrão."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19639,12 +19640,12 @@ msgstr "A versão padrão de um filme com várias versões não pode ser adicion
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Remover vídeo extra"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Tem certeza de que deseja remover o \"{0:s}\" extra?"
 
 #. Select default video version setting
 msgctxt "#40200"

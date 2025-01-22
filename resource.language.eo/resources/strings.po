@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-21 13:06+0000\n"
+"PO-Revision-Date: 2025-01-21 23:30+0000\n"
 "Last-Translator: Jakub Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -13792,7 +13792,7 @@ msgstr "Evitinda"
 #. Lifecycle state name, for broken and not usable addons. Used also on skin to compare and identify related state.
 msgctxt "#24171"
 msgid "Broken"
-msgstr ""
+msgstr "Difektita"
 
 # empty strings from id 24172 to 24179
 # 24171-24179 reserved for future use of lifecycle state name (to have continuous chain of GUI)
@@ -13800,36 +13800,36 @@ msgstr ""
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24180"
 msgid "Minimum: {0:s}{3:s}"
-msgstr ""
+msgstr "Minimuma: {0:s}{3:s}"
 
 #. The minimum version, plus the version going to be installed
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24181"
 msgid "Minimum: {0:s} => Install: {2:s}{3:s}"
-msgstr ""
+msgstr "Minimuma: {0:s} => Instalota: {2:s}{3:s}"
 
 #. The minimum version, plus the currently installed version
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24182"
 msgid "Minimum: {0:s} / Installed: {1:s}{3:s}"
-msgstr ""
+msgstr "Minimuma: {0:s} / Instalita: {1:s}{3:s}"
 
 #. The minimum version, the currently installed, plus the updated version we're going to install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24183"
 msgid "Minimum: {0:s} / Installed: {1:s} => Update to: {2:s}{3:s}"
-msgstr ""
+msgstr "Minimuma: {0:s} / Instalita: {1:s} => Ĝisdatigota al: {2:s}{3:s}"
 
 #. used in #24180 - #24183 as {3:s}
 msgctxt "#24184"
 msgid " (optional)"
-msgstr ""
+msgstr " (nedeviga)"
 
 #. The minimum version, only lower versions are available for install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
-msgstr ""
+msgstr "Minimuma: {0:s} / Ne disponebla{3:s}"
 
 # empty strings from id 24186 to 24990
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
@@ -13839,7 +13839,7 @@ msgstr ""
 
 msgctxt "#24992"
 msgid "System"
-msgstr "Operaciumo"
+msgstr "Sistema"
 
 msgctxt "#24993"
 msgid "Information providers"
@@ -13851,7 +13851,7 @@ msgstr ""
 
 msgctxt "#24995"
 msgid "Orphaned"
-msgstr ""
+msgstr "Orfa"
 
 msgctxt "#24996"
 msgid "Manage dependencies"
@@ -13859,16 +13859,16 @@ msgstr ""
 
 msgctxt "#24997"
 msgid "Look and feel"
-msgstr ""
+msgstr "Aspekto & konduto"
 
 msgctxt "#24998"
 msgid "My add-ons"
-msgstr ""
+msgstr "Miaj aldonaĵoj"
 
 #. Used in add-on browser
 msgctxt "#24999"
 msgid "Hide incompatible"
-msgstr ""
+msgstr "Kaŝi nekongruajn"
 
 #. Used in add-on browser
 msgctxt "#25000"
