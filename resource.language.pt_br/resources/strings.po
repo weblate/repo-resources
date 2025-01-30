@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-22 05:25+0000\n"
+"PO-Revision-Date: 2025-01-25 17:30+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -5114,7 +5114,6 @@ msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) no
 msgstr "Kodi é oferecido a você com amor pela Fundação Kodi, uma organização sem fins lucrativos 501(c)(3). Obrigado por usar nosso software!"
 
 #. URL for donations. Do not translate.
-#, fuzzy
 msgctxt "#12398"
 msgid "kodi.tv/donate"
 msgstr "kodi.tv/donate"

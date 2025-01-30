@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-20 17:07+0000\n"
-"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
+"PO-Revision-Date: 2025-01-28 07:45+0000\n"
+"Last-Translator: roliverosc <roliverosc@hotmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
@@ -1935,7 +1935,7 @@ msgstr "Calibración"
 
 msgctxt "#497"
 msgid "Show file extensions"
-msgstr "Mostrar extensiones de archivo"
+msgstr "Mostrar extensión de archivos"
 
 msgctxt "#498"
 msgid "Sort by: Type"
@@ -10323,7 +10323,7 @@ msgstr "Mostrar información meteorológica"
 
 msgctxt "#20085"
 msgid "Show system information"
-msgstr "Mostrar información de sistema"
+msgstr "Mostrar información del sistema"
 
 msgctxt "#20086"
 msgid "Show available disk space C: E: F:"
@@ -11010,7 +11010,7 @@ msgstr "Director"
 
 msgctxt "#20340"
 msgid "Do you want to remove all items within this path from your library?"
-msgstr "¿Quieres quitar todos los elementos de esta ruta de su biblioteca?"
+msgstr "¿Quieres borrar todos los elementos de esta ruta de tu biblioteca?"
 
 msgctxt "#20342"
 msgid "Movies"
@@ -11736,7 +11736,7 @@ msgstr "Introduzca nombre de la nueva lista"
 
 msgctxt "#21382"
 msgid "Show \"Add source\" buttons"
-msgstr "Mostrar botones de \"Añadir fuente\""
+msgstr "Mostrar botones \"Añadir fuente\""
 
 msgctxt "#21383"
 msgid "Enable scrollbars"
@@ -13320,7 +13320,7 @@ msgstr "Migración de la base de datos en curso. Por favor, espere"
 #. Progress text on splash screen
 msgctxt "#24151"
 msgid "Add-on migration in progress - please wait"
-msgstr "Migración de add-ons en curso. Por favor, espere."
+msgstr "Migración de add-ons en curso. Por favor, espera."
 
 #. Inform about not supported addon if tried to enable
 msgctxt "#24152"
@@ -18195,7 +18195,7 @@ msgstr "Factor de lectura"
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr "Determina la tasa de llenado de la caché en términos de Promedio de tasa de bits de la transmisión x Factor de lectura. Si se incrementa este número, la caché se ocupa más rapido. Números muy altos pueden provocar picos de CPU en algunos dispositivos, saturando la conexión y empeorando el rendimiento.[CR][Adaptativo] Usa un Factor de lectura dinámico calculado en base al nivel de caché."
+msgstr "Determina la tasa de llenado de la caché en términos de Promedio de tasa de bits de la transmisión x Factor de lectura. Si se incrementa este número, la caché se ocupa más rápido. Números muy altos pueden provocar picos de CPU en algunos dispositivos, saturando la conexión y empeorando el rendimiento.[CR][Adaptativo] Usa un Factor de lectura dinámico calculado en base al nivel de caché."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
@@ -18621,7 +18621,7 @@ msgstr "Extraer miniaturas de archivos de vídeo"
 #. Description of setting "Pictures -> Show EXIF picture information" with label #38207
 msgctxt "#38207"
 msgid "Show EXIF picture information"
-msgstr "Muestra la información EXIF de las imágenes"
+msgstr "Mostrar información EXIF de las imágenes"
 
 #. Help text of setting "Pictures -> Show EXIF picture information" with label #38208
 msgctxt "#38208"

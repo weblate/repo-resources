@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-09-18 16:53+0000\n"
+"PO-Revision-Date: 2025-01-28 07:45+0000\n"
 "Last-Translator: skypichat <skypichat@hotmail.fr>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1819,7 +1819,7 @@ msgstr "[actif]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Flux de sous-titres"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -5106,17 +5106,17 @@ msgstr "Niveau de batterie"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Merci !"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi vous est présenté avec amour par la Fondation Kodi, une organisation à but non lucratif 501(c)(3). Merci d'utiliser notre logiciel !"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/faire un don"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5895,7 +5895,7 @@ msgstr "Éjecter/Charger"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Sélection de flux"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6171,12 +6171,12 @@ msgstr "Préférer la méthode de rendu VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Utiliser le filtre Décodeur"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Activer/Désactiver le filtre qui bloque certains décodeurs de logiciels Android. Ce filtre est configurable via le fichier [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -9522,12 +9522,12 @@ msgstr "Lire uniquement ce programme"
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Dupliquer"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Copie de '{0:s}'"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -15339,7 +15339,7 @@ msgstr "Votre compte n'est pas vérifié. Veuillez vérifier votre e-mail pour t
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Ce jeu nécessite la prise en charge d'OpenGL pour le rendu 3D. La prise en charge d'OpenGL est encore en cours de développement."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -17790,7 +17790,7 @@ msgstr "Version minimale du protocole"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Définir la version minimale du protocole SMB à négocier lors de l'établissement des connexions. Forcer SMBv2 peut être nécessaire pour empêcher l’utilisation de SMBv1 sur certains systèmes. Seuls SMBv2.1 et SMBv3 prennent en charge le Large MTU (taille du fragment > 64 Ko)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17830,7 +17830,7 @@ msgstr "Il faut d'abord saisir un mot de passe avant de pouvoir activer l'authen
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 et Large MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17966,12 +17966,12 @@ msgstr "(Commentaires du réalisateur 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stéréo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19428,22 +19428,22 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Espacement des lignes"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Ajuster l'espace entre les lignes de texte. Définir une valeur trop faible peut entraîner un chevauchement des cases lorsque le paramètre « Type d'arrière-plan » est utilisé."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Définir les sous-titres CC uniquement pour les malentendants"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "En activant, les sous-titres CC seront étiquetés pour les malentendants ; cela affectera la sélection automatique des sous-titres, qui, sauf indication contraire, ne seront pas affichés par défaut."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19639,12 +19639,12 @@ msgstr "La version par défaut d'un film comportant plusieurs versions ne peut p
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Supprimer la vidéo supplémentaire"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer le \"{0:s}\" supplémentaire ?"
 
 #. Select default video version setting
 msgctxt "#40200"
@@ -19876,12 +19876,12 @@ msgstr "Édition du 50e anniversaire"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Confirmer la suppression du fichier"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Si cette option est activée, une boîte de dialogue de confirmation s'affichera lorsque les fichiers seront supprimés. Si désactivée, les fichiers seront supprimés sans confirmation de l'utilisateur."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
