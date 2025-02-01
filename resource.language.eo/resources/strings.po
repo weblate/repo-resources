@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-28 07:45+0000\n"
+"PO-Revision-Date: 2025-02-01 14:09+0000\n"
 "Last-Translator: Jakub Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -32,7 +32,7 @@ msgstr "Videaĵoj"
 
 msgctxt "#4"
 msgid "TV guide"
-msgstr "Televida programaro"
+msgstr "Televida gvidilo"
 
 msgctxt "#5"
 msgid "Settings"
@@ -40,7 +40,7 @@ msgstr "Agordoj"
 
 msgctxt "#6"
 msgid "Kodi GIT"
-msgstr ""
+msgstr "GIT-deponejo de Kodi"
 
 msgctxt "#7"
 msgid "File manager"
@@ -296,32 +296,32 @@ msgstr "NNOk"
 #. Weather token
 msgctxt "#87"
 msgid "VAR"
-msgstr "VAR"
+msgstr "variema"
 
 #. Weather token
 msgctxt "#88"
 msgid "South"
-msgstr "Sude"
+msgstr "Sudo"
 
 #. Weather token
 msgctxt "#89"
 msgid "North"
-msgstr "Norde"
+msgstr "Nordo"
 
 #. Weather token
 msgctxt "#90"
 msgid "West"
-msgstr "Okcidente"
+msgstr "Okcidento"
 
 #. Weather token
 msgctxt "#91"
 msgid "East"
-msgstr "Oriente"
+msgstr "Oriento"
 
 #. Weather token
 msgctxt "#92"
 msgid "Variable"
-msgstr "Varieme"
+msgstr "Variema"
 
 msgctxt "#98"
 msgid "View: Auto"
@@ -365,7 +365,7 @@ msgstr "Jes"
 
 msgctxt "#108"
 msgid "Slideshow"
-msgstr "Bildmontrado"
+msgstr "Bildoprezento"
 
 msgctxt "#109"
 msgid "Create thumbs"
@@ -417,7 +417,7 @@ msgstr "Konfirmu kopiadon"
 
 msgctxt "#121"
 msgid "Confirm move"
-msgstr "Konfirmu movadon"
+msgstr "Konfirmu movon"
 
 msgctxt "#122"
 msgid "Confirm delete"
@@ -425,15 +425,15 @@ msgstr "Konfirmu forigon"
 
 msgctxt "#123"
 msgid "Would you like to copy the selected file(s)?"
-msgstr "Ĉu vi volas kopii la elektita(j)n dosiero(j)n?"
+msgstr "Ĉu vi volus kopii la elektita(j)n dosiero(j)n?"
 
 msgctxt "#124"
 msgid "Would you like to move the selected file(s)?"
-msgstr "Ĉu vi volas movi la elektita(j)n dosiero(j)n?"
+msgstr "Ĉu vi volus movi la elektita(j)n dosiero(j)n?"
 
 msgctxt "#125"
 msgid "Would you like to delete the selected file(s)?[CR]Warning - this action can't be undone!"
-msgstr "Ĉu vi volas forigi la elektita(j)n dosiero(j)n? [CR]Averto - tiu ago ne povos esti malfareblita!"
+msgstr "Ĉu vi volus forigi la elektita(j)n dosiero(j)n? [CR]Averto - tiu ago ne povos esti malfarota!"
 
 msgctxt "#126"
 msgid "Status"
@@ -449,7 +449,7 @@ msgstr "Ĝeneralaj"
 
 msgctxt "#129"
 msgid "Slideshow"
-msgstr "Bildmontrado"
+msgstr "Bildoprezento"
 
 #. skin sub-menu
 msgctxt "#130"
@@ -494,11 +494,11 @@ msgstr "Temperaturoj:"
 
 msgctxt "#140"
 msgid "CPU:"
-msgstr "CPU:"
+msgstr "Ĉefprocesoro:"
 
 msgctxt "#141"
 msgid "GPU:"
-msgstr "GPU:"
+msgstr "Grafika procesoro:"
 
 msgctxt "#142"
 msgid "Time:"
@@ -536,7 +536,6 @@ msgctxt "#150"
 msgid "IP address"
 msgstr "IP-adreso"
 
-#, fuzzy
 msgctxt "#151"
 msgid "Link:"
 msgstr "Ligilo:"
@@ -561,7 +560,6 @@ msgctxt "#156"
 msgid "Free"
 msgstr "Libera"
 
-#, fuzzy
 msgctxt "#157"
 msgid "Video"
 msgstr "Video"
@@ -570,10 +568,9 @@ msgctxt "#158"
 msgid "Free memory"
 msgstr "Libera memoro"
 
-#, fuzzy
 msgctxt "#159"
 msgid "No link"
-msgstr "Neniu ligilo"
+msgstr "Sen ligilo"
 
 msgctxt "#160"
 msgid "Free"
@@ -761,7 +758,7 @@ msgstr "Kompilaĵo"
 #. label of a smartplaylist filter option to filter for songs or albums on votes for rating
 msgctxt "#205"
 msgid "Votes"
-msgstr "Voĉoj"
+msgstr "Voĉdonoj"
 
 msgctxt "#206"
 msgid "Cast"
@@ -5279,7 +5276,7 @@ msgstr "Dankon!"
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi estas alportata al vi per amo de la Kodi Foundation, neprofitcela organizaĵo laŭ 501(c)(3). Dankon por uzi nian programaron!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
