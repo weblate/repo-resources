@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-21 07:55+0000\n"
+"PO-Revision-Date: 2025-02-01 13:58+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/af_za/>\n"
 "Language: af_za\n"
@@ -6673,7 +6673,7 @@ msgstr "Tik die IP adres in"
 
 msgctxt "#14069"
 msgid "Apply these settings now?"
-msgstr "Pas hierdie verstellings nou toe?"
+msgstr "Pas hierdie instellings nou toe?"
 
 msgctxt "#14070"
 msgid "Apply changes now"
@@ -6921,7 +6921,7 @@ msgstr "Speler"
 
 msgctxt "#14201"
 msgid "Player settings"
-msgstr "Speler verstellings"
+msgstr "Speler instellings"
 
 msgctxt "#14202"
 msgid "Library"
@@ -6929,7 +6929,7 @@ msgstr "Biblioteek"
 
 msgctxt "#14203"
 msgid "Library settings"
-msgstr "Biblioteek verstellings"
+msgstr "Biblioteek instellings"
 
 msgctxt "#14204"
 msgid "PVR & Live TV"
@@ -6937,7 +6937,7 @@ msgstr "PVR & Lewendige TV"
 
 msgctxt "#14205"
 msgid "PVR & Live TV settings"
-msgstr "PVR & Lewendige TV verstellings"
+msgstr "PVR & Lewendige TV instellings"
 
 msgctxt "#14206"
 msgid "Interface"
@@ -6945,19 +6945,19 @@ msgstr "Koppelvlak"
 
 msgctxt "#14207"
 msgid "Interface settings"
-msgstr "Koppelvlak verstellings"
+msgstr "Koppelvlak instellings"
 
 msgctxt "#14208"
 msgid "Service settings"
-msgstr "Diens verstellings"
+msgstr "Diens instellings"
 
 msgctxt "#14209"
 msgid "System settings"
-msgstr "Stelsel verstellings"
+msgstr "Stelsel instellings"
 
 msgctxt "#14210"
 msgid "Profile settings"
-msgstr "Profiel verstellings"
+msgstr "Profiel instellings"
 
 msgctxt "#14211"
 msgid "Media"
@@ -6965,7 +6965,7 @@ msgstr "Media"
 
 msgctxt "#14212"
 msgid "Media settings"
-msgstr "Media verstellings"
+msgstr "Media instellings"
 
 msgctxt "#14215"
 msgid "Videos"
@@ -7017,7 +7017,7 @@ msgstr "Bestuur Bronne"
 
 msgctxt "#14227"
 msgid "Startup Settings"
-msgstr "Begin Verstellings"
+msgstr "Begin Instellings"
 
 msgctxt "#14230"
 msgid "Actions"
@@ -8102,7 +8102,7 @@ msgstr "Laaste program"
 #. Label for timer settings dialog header
 msgctxt "#19065"
 msgid "Timer settings"
-msgstr "Tydhouer verstellings"
+msgstr "Tydhouer instellings"
 
 #. Name of a shortcut to a custom folder for channel icons
 msgctxt "#19066"
@@ -8117,7 +8117,7 @@ msgstr "Hierdie gebeurtenis word alreeds opgeneem."
 #. Label for recording settings dialog header
 msgctxt "#19068"
 msgid "Recording settings"
-msgstr "Opname verstellings"
+msgstr "Opname instellings"
 
 #. generic label for the electronic program guide (EPG) used in different places
 msgctxt "#19069"
@@ -9149,7 +9149,7 @@ msgstr "PVR kliënte"
 #. pvr client specific settings 'client specific settings' action control label.
 msgctxt "#19280"
 msgid "Client specific settings"
-msgstr "Kliënt spesifieke verstellings"
+msgstr "Kliënt spesifieke instellings"
 
 #. pvr settings 'confirm channel switch' setting label.
 msgctxt "#19281"
@@ -9484,7 +9484,7 @@ msgstr "Vertoon en bestuur beskikbare PVR kliënt byvoegsels."
 #. info message box text stating that none of the available pvr clients does provide client-specific settings
 msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
-msgstr "Geen van die aktiewe PVR kliënte verskaf kliënt-spesifieke verstellings nie."
+msgstr "Geen van die aktiewe PVR kliënte verskaf kliënt-spesifieke instellings nie."
 
 #. generic label for a pvr provider used in different places
 msgctxt "#19348"
@@ -10164,7 +10164,7 @@ msgstr "Sluit lêer bestuurder"
 
 msgctxt "#20043"
 msgid "Lock settings"
-msgstr "Sluit verstellings"
+msgstr "Sluit instellings"
 
 msgctxt "#20044"
 msgid "Start fresh"
@@ -10184,7 +10184,7 @@ msgstr "Skep profiel '{0:s}'?"
 
 msgctxt "#20048"
 msgid "Start with fresh settings or copy from default?"
-msgstr "Begin met vars verstellings of kopiëer vanaf verstek?"
+msgstr "Begin met vars instellings of kopiëer vanaf verstek?"
 
 msgctxt "#20049"
 msgid "Best available"
@@ -10293,7 +10293,7 @@ msgstr "Vra vir meester slot kode met begin"
 
 msgctxt "#20077"
 msgid "Skin settings"
-msgstr "Oortreksel verstellings"
+msgstr "Oortreksel instellings"
 
 msgctxt "#20078"
 msgid "- no link set -"
@@ -10385,7 +10385,7 @@ msgstr "'n CD of snit kan nie gerip word terwyl gespeel word nie"
 
 msgctxt "#20100"
 msgid "Master lock code and settings"
-msgstr "Meester slot kode en verstellings"
+msgstr "Meester slot kode en instellings"
 
 msgctxt "#20101"
 msgid "Entering master lock code always enables master mode"
@@ -10397,7 +10397,7 @@ msgstr "Stoor veranderinge na profiel?"
 
 msgctxt "#20104"
 msgid "Old settings found. Do you want to use them?"
-msgstr "Ou verstellings gevind. Wil jy hulle gebruik?"
+msgstr "Ou instellings gevind. Wil jy hulle gebruik?"
 
 msgctxt "#20106"
 msgid "Old media sources found. Do you want to use them?"
@@ -10417,7 +10417,7 @@ msgstr "Zoem"
 
 msgctxt "#20110"
 msgid "UPnP settings"
-msgstr "UPnP verstellings"
+msgstr "UPnP instellings"
 
 msgctxt "#20111"
 msgid "Autostart UPnP client"
@@ -11280,7 +11280,7 @@ msgstr "Stel episode boekmerk"
 
 msgctxt "#20407"
 msgid "Information provider settings"
-msgstr "Inligting verskaffer verstellings"
+msgstr "Inligting verskaffer instellings"
 
 msgctxt "#20408"
 msgid "Downloading music video information"
@@ -12806,7 +12806,7 @@ msgstr "Hierdie byvoegsel kan nie opgestel word nie"
 
 msgctxt "#24031"
 msgid "Error loading settings"
-msgstr "Fout met laai van verstellings"
+msgstr "Fout met laai van instellings"
 
 msgctxt "#24032"
 msgid "All add-ons"
@@ -12842,7 +12842,7 @@ msgstr "Nie in staat gestelde byvoegsels"
 
 msgctxt "#24040"
 msgid "(Clear the current setting)"
-msgstr "(Maak die huidige verstelling skoon)"
+msgstr "(Maak die huidige instelling skoon)"
 
 msgctxt "#24041"
 msgid "Install from zip file"
@@ -12979,7 +12979,7 @@ msgstr "'n Onbekende fout het voorgekom."
 
 msgctxt "#24072"
 msgid "Settings required"
-msgstr "Verstellings vereis"
+msgstr "Instellings vereis"
 
 msgctxt "#24073"
 msgid "Couldn't connect"
@@ -13236,7 +13236,7 @@ msgstr "Wil jy oorskakel na hierdie taal?"
 
 msgctxt "#24133"
 msgid "Subtitle settings"
-msgstr "Onderskrif verstellings"
+msgstr "Onderskrif instellings"
 
 msgctxt "#24134"
 msgid "Download subtitle..."
@@ -14312,7 +14312,7 @@ msgstr "Afgeleë kommunikasie bediener"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr "Jy het voorheen die web koppelvlak in staat gestel sonder om 'n wagwoord op te stel. Die web bediener is nie in staat gestel totdat jy of dit eksplisiet toelaat of waarmerking opstel. Gaan asb. jou verstellings na."
+msgstr "Jy het voorheen die web koppelvlak in staat gestel sonder om 'n wagwoord op te stel. Die web bediener is nie in staat gestel totdat jy dit of eksplisiet toelaat of waarmerking opstel. Gaan asb. jou instellings na."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14429,7 +14429,7 @@ msgstr "Stuur lae volume geraas"
 #. Description of setting with label #34112 "Send low volume noise"
 msgctxt "#34113"
 msgid "To keep certain AVRs powered we send an inaudible random noise signal. You can disable this setting if you are using headphone or analog output."
-msgstr "Om sekere AVRs aan te hou stuur ons 'n onhoorbare lukraak geraas sein. Jy kan hierdie verstelling deaktiveer as jy oorfone of analoog uittree gebruik."
+msgstr "Om sekere AVRs aan te hou, stuur ons 'n onhoorbare lukraak geraas sein. Jy kan hierdie instelling deaktiveer as jy oorfone of analoog uittree gebruik."
 
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
@@ -14439,7 +14439,7 @@ msgstr "Sluit LFE in wanneer afmeng"
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr "Indien in staat gestel, sal hierdie verstelling die LFE kanaal insluit in die meng wanneer daar geen toegewyde LFE uittree kanaal beskikbaar is nie. Dit maak net sin vir vol bereik luidsprekers."
+msgstr "Indien in staat gestel, sal hierdie instelling die LFE kanaal insluit in die meng wanneer daar geen toegewyde LFE uittree kanaal beskikbaar is nie. Dit maak net sin vir vol bereik luidsprekers."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
@@ -14569,7 +14569,7 @@ msgstr "Gefaal om oudio apparaat te initialiseer"
 
 msgctxt "#34403"
 msgid "Check your audio settings"
-msgstr "Gaan jou klank verstellings na"
+msgstr "Gaan jou klank instellings na"
 
 msgctxt "#34404"
 msgid "Use gestures for navigation:"
@@ -14609,7 +14609,7 @@ msgstr "Generiese skyf"
 
 msgctxt "#35004"
 msgid "There are no settings available for this peripheral."
-msgstr "Daar is geen verstellings beskikbaar vir hierdie randtoestel."
+msgstr "Daar is geen instellings beskikbaar vir hierdie randtoestel."
 
 msgctxt "#35005"
 msgid "New device configured"
@@ -14644,7 +14644,7 @@ msgstr "Nuwe beheerder bespeur"
 #. Text of dialog to ask users if they would like to configure a new controller
 msgctxt "#35012"
 msgid "A new controller has been detected. Configuration can be done at any time in \"Settings -> System Settings -> Input\". Would you like to configure it now?"
-msgstr "'n Nuwe beheerder is bespeur. Konfigurasie kan enige tyd in \"Verstellings -> Stelsel Verstellings -> Intree\" gedoen word. Wil jy dit nou opstel?"
+msgstr "'n Nuwe beheerder is bespeur. Konfigurasie kan enige tyd in \"Instellings -> Stelsel Instellings -> Intree\" gedoen word. Wil jy dit nou opstel?"
 
 #. Help text of the button to fix the bug where buttons are skipped in the controller dialog. {0:s} - list of disabled buttons and axes
 msgctxt "#35014"
@@ -14694,7 +14694,7 @@ msgstr "Niks om te karteer"
 #. Name of setting to configure peripheral add-ons
 msgctxt "#35047"
 msgid "Driver settings"
-msgstr "Drywer verstellings"
+msgstr "Drywer instellings"
 
 #. Description of setting with label #35047 "Driver settings"
 msgctxt "#35048"
@@ -15188,7 +15188,7 @@ msgstr "Video filter"
 #. Label of button in the in-game menu for advanced settings
 msgctxt "#35226"
 msgid "Advanced settings"
-msgstr "Gevorderde verstellings"
+msgstr "Gevorderde instellings"
 
 #. Label of button in the in-game menu for changing the video rotation
 msgctxt "#35227"
@@ -15336,7 +15336,7 @@ msgstr "Ingeteken"
 #. Settings -> Games -> Achievements -> Logged in
 msgctxt "#35269"
 msgid "Toggle this setting to log in or out of RetroAchievements."
-msgstr "Wissel hierdie verstelling om in of uit RetroAchievements te teken."
+msgstr "Wissel hierdie instelling om in of uit RetroAchievements te teken."
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35270"
@@ -15423,7 +15423,7 @@ msgstr "Kon nie die CEC com poort bespeur nie. Stel dit asseblief handmatig op."
 
 msgctxt "#36012"
 msgid "Couldn't initialise the CEC adapter. Please check your settings."
-msgstr "Kon nie die CEC passtuk inisialiseer nie. Gaan asseblief jou verstellings na."
+msgstr "Kon nie die CEC passtuk inisialiseer nie. Gaan asseblief jou instellings na."
 
 #. CEC adapter setting to set the type of device that libCEC reports to the TV (Recording, Playback or Tuner Device)
 msgctxt "#36013"

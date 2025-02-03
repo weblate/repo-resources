@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-21 13:06+0000\n"
+"PO-Revision-Date: 2025-02-01 13:58+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -16119,7 +16119,7 @@ msgstr "Weist das Backend an, nach Sender zu suchen. Funktion wird nicht von all
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr "Datenbanken für z. B. Sender, Gruppen, Erinnerungen und Programmübersicht bereinigen. Bitte beachten, dass danach nicht alle Daten von den Backends wiederhergestellt werden können."
+msgstr "Datenbanken für z. B. Sender, Gruppen, Erinnerungen und Programmübersicht bereinigen. Bitte beachten, dass danach nicht alle Daten von den Backends wiederhergestellt werden können."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -18200,7 +18200,7 @@ msgstr "Ermittelt die Cache-Füllrate als durchnittliche Streambitrate x Lesefak
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr "Die zu verwendende Datenblockgröße, wenn das Dateisystem oder das Protokoll den Wert nicht erzwingt - z. B. überschreibt NFS diesen Wert mit einem eigenen Wert."
+msgstr "Die zu verwendende Datenblockgröße, wenn das Dateisystem oder das Protokoll den Wert nicht erzwingt - z. B. überschreibt NFS diesen Wert mit einem eigenen Wert."
 
 #. Value of setting - NONE
 msgctxt "#37110"
@@ -19194,7 +19194,7 @@ msgstr "Untertitelstile überschreiben"
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr "Einige Untertitelformate, wie SSA/ASS/ WebTVTT, können Metadaten enthalten (z. B. Schriftstile, Farben, Größe, Ausrichtungen, Positionen). Diese Daten können mit benutzerdefinierten Werten überschrieben werden. Bitte beachten, dass einige Konstellationen Nebeneffekte haben können."
+msgstr "Einige Untertitelformate, wie SSA/ASS/ WebTVTT, können Metadaten enthalten (z. B. Schriftstile, Farben, Größe, Ausrichtungen, Positionen). Diese Daten können mit benutzerdefinierten Werten überschrieben werden. Bitte beachten, dass einige Konstellationen Nebeneffekte haben können."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
