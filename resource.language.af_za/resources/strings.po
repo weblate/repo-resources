@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-01 13:58+0000\n"
+"PO-Revision-Date: 2025-02-07 23:13+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/af_za/>\n"
 "Language: af_za\n"
@@ -15445,7 +15445,7 @@ msgstr "Kon nie die CEC passtuk inisialiseer nie: libCEC was nie op jou stelsel 
 
 msgctxt "#36018"
 msgid "Use the TV's language setting"
-msgstr "Gebruik die TV se taal verstelling"
+msgstr "Gebruik die TV se taal instelling"
 
 msgctxt "#36019"
 msgid "Connected to HDMI device"
@@ -15465,7 +15465,7 @@ msgstr "Konfigurasie opgedateer"
 
 msgctxt "#36024"
 msgid "Failed to set the new configuration. Please check your settings."
-msgstr "Stel van nuwe konfigurasie het gefaal. Gaan asb jou verstellings na."
+msgstr "Stel van nuwe konfigurasie het gefaal. Gaan asb jou instellings na."
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
@@ -15627,7 +15627,7 @@ msgstr "Verander die lyk en voel van die gebruikers koppelvlak."
 #. Description of settings category "Appearance -> Skin" with label #166
 msgctxt "#36102"
 msgid "This category contains all skin related settings."
-msgstr "Hierdie kategorie bevat al die oortreksel verwante verstellings."
+msgstr "Hierdie kategorie bevat al die oortreksel verwante instellings."
 
 #. Description of setting with label #166 "Skin"
 msgctxt "#36103"
@@ -15637,7 +15637,7 @@ msgstr "Kies die oortreksel vir die gebruikers koppelvlak. Hierdie sal die lyk e
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36104"
 msgid "Select to change the skin specific settings. Which options are available for configuration depends on the features provided by the skin."
-msgstr "Kies om die oortreksel spesifieke verstellings te verander. Watter opsies beskikbaar is vir opstelling hang af van die funksies verskaf deur die oortreksel."
+msgstr "Kies om die oortreksel spesifieke instellings te verander. Watter opsies beskikbaar is vir opstelling hang af van die funksies verskaf deur die oortreksel."
 
 #. Description of setting with label #15111 "Theme"
 msgctxt "#36105"
@@ -15682,7 +15682,7 @@ msgstr "Redigeer die RSS voere."
 #. Description of settings category with label #14090 "Regional"
 msgctxt "#36113"
 msgid "This category contains all locale / regional settings."
-msgstr "Hierdie kategorie bevat alle lokale / streeks verstellings."
+msgstr "Hierdie kategorie bevat alle lokale / streeks instellings."
 
 #. Description of setting with label #248 "Language"
 msgctxt "#36114"
@@ -15712,7 +15712,7 @@ msgstr "Verander na die gekose onderskrif taal as meer as een taal beskikbaar is
 #. Description of settings with label #16000 "General"
 msgctxt "#36121"
 msgid "This category contains the settings for how media lists are displayed."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe media lyste vertoon word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe media lyste vertoon word."
 
 #. Description of setting with label #13306 "Show parent folder items"
 msgctxt "#36122"
@@ -15747,7 +15747,7 @@ msgstr "Wys versteekte lêers en vouers wanneer lêers lys."
 #. Description of settings category with label #360 "Screensaver"
 msgctxt "#36128"
 msgid "This category contains the settings for how the screensaver add-ons are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die skermskut byvoegsels hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die skermskut byvoegsels hanteer word."
 
 #. Description of setting with label #355 "Wait time"
 msgctxt "#36129"
@@ -15762,7 +15762,7 @@ msgstr "Kies die skermskut. Die \"Dof\" skermskut sal forseer word wanneer volsk
 #. #. Description of setting with label #21417 "Settings"
 msgctxt "#36131"
 msgid "Select to change the screensaver specific settings. Which options are available for configuration depends on the features provided by the screensaver add-on."
-msgstr "Kies om die skermskut spesifieke verstellings te verander. Watter opsies beskikbaar is vir opstelling hang af van die funksies verskaf deur die skermskut byvoegsel."
+msgstr "Kies om die skermskut spesifieke instellings te verander. Watter opsies beskikbaar is vir opstelling hang af van die funksies verskaf deur die skermskut byvoegsel."
 
 #. Description of setting with label #1000 "Preview"
 msgctxt "#36132"
@@ -15789,12 +15789,12 @@ msgstr "Nog geen inligting beskikbaar."
 #. Description of settings section with label #3 "Videos"
 msgctxt "#36138"
 msgid "Section that contains settings related to videos and how they are handled."
-msgstr "Seksie wat verstellings bevat verwant aan video's en hoe hulle hanteer word."
+msgstr "Seksie wat instellings bevat verwant aan video's en hoe hulle hanteer word."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36139"
 msgid "This category contains the settings for how the video library is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die video biblioteek hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die video biblioteek hanteer word."
 
 #. Description of setting with label #14105 "Temperature unit"
 msgctxt "#36140"
@@ -15854,7 +15854,7 @@ msgstr "Voer 'n XML lêer in die video biblioteek databasis in."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36151"
 msgid "This category contains the settings for how video playback is handled."
-msgstr "Hierdie kategorie bevat die verstellings van hoe video terugspeel hanteer word."
+msgstr "Hierdie kategorie bevat die instellings van hoe video terugspeel hanteer word."
 
 #. Description of setting with label #13433 "Play next video automatically"
 msgctxt "#36152"
@@ -15974,7 +15974,7 @@ msgstr "Skaleer teleteks tot 4:3 verhouding."
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36176"
 msgid "This category contains the settings for how video file lists are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe video lêer lyste hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe video lêer lyste hanteer word."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
@@ -16013,7 +16013,7 @@ msgstr "Verwyder die titel, genre, ens. nodusse vanaf die biblioteek aansig. Kie
 #. Description of settings category with label #287 "Subtitles"
 msgctxt "#36184"
 msgid "This category contains the settings for how subtitles are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe onderskrifte hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe onderskrifte hanteer word."
 
 #. Description of setting with label #14089 "Font"
 msgctxt "#36185"
@@ -16058,7 +16058,7 @@ msgstr "Posisie van onderskrifte op die skerm. [Onderkant van video] / [Bokant v
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe DVDs, Blu-rays & CDs hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe DVDs, Blu-rays & CDs hanteer word."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 msgctxt "#36194"
@@ -16093,11 +16093,11 @@ msgstr "Kies die verstek musiek video's inligting bron. Sien die byvoegsels best
 
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
-msgstr "Verstellings vir PVR & Lewendige TV."
+msgstr "Instellings vir PVR & Lewendige TV."
 
 msgctxt "#36202"
 msgid "This category contains the general settings for the PVR & Live TV."
-msgstr "Hierdie kategorie bevat die algemene verstellings vir die PVR & Lewendige TV."
+msgstr "Hierdie kategorie bevat die algemene instellings vir die PVR & Lewendige TV."
 
 msgctxt "#36203"
 msgid "Enables the \"Personal Video Recorder\" (PVR) features. This requires that at least one PVR add-on is installed."
@@ -16134,7 +16134,7 @@ msgstr "Maak die kliënt prioriteite dialoog oop, wat die verandering van die pr
 
 msgctxt "#36211"
 msgid "This category contains the settings for PVR channels and channel groups."
-msgstr "Hierdie kategorie bevat die verstellings vir PVR kanale en kanaal groepe."
+msgstr "Hierdie kategorie bevat die instellings vir PVR kanale en kanaal groepe."
 
 msgctxt "#36212"
 msgid "Display programming information when changing channels, such as the current TV show."
@@ -16163,7 +16163,7 @@ msgstr "Soek vir ontbrekende ikone."
 
 msgctxt "#36218"
 msgid "This category contains the electronic programming guide (EPG) settings."
-msgstr "Hierdie kategorie bevat die elektroniese programmerings gids (EPG) verstellings."
+msgstr "Hierdie kategorie bevat die elektroniese programmerings gids (EPG) instellings."
 
 msgctxt "#36219"
 msgid "Number of past days to show in the guide and to import from backends."
@@ -16196,7 +16196,7 @@ msgstr "Wis die gekaste gids data uit en voer dit daarna weer in vanaf die agter
 
 msgctxt "#36226"
 msgid "This category contains the PVR playback and channel switching settings."
-msgstr "Hierdie kategorie bevat die PVR terugspeel en kanaal skakel verstellings."
+msgstr "Hierdie kategorie bevat die PVR terugspeel en kanaal skakel instellings."
 
 msgctxt "#36227"
 msgid "Switch to full screen display when starting playback of channels."
@@ -16226,7 +16226,7 @@ msgstr "Wanneer kanaal op of af druk, word die werklike kanaal verandering vertr
 
 msgctxt "#36233"
 msgid "This category contains settings for recordings."
-msgstr "Hierdie kategorie bevat verstellings vir opnames."
+msgstr "Hierdie kategorie bevat instellings vir opnames."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
@@ -16254,7 +16254,7 @@ msgstr "Vertoon 'n kennisgewing wanneer tydhouers bygevoeg, uitgeloop of verwyde
 
 msgctxt "#36240"
 msgid "This category contains the PVR power management settings, such as when to wakeup the PVR backend server."
-msgstr "Hierdie kategorie bevat die PVR krag bestuur verstellings, soos wanneer om die PVR agterkant bediener te wek."
+msgstr "Hierdie kategorie bevat die PVR krag bestuur instellings, soos wanneer om die PVR agterkant bediener te wek."
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
@@ -16282,7 +16282,7 @@ msgstr "Wanneer om die daaglikse wek bevel uit te voer."
 
 msgctxt "#36247"
 msgid "This category contains the parental control settings, if the PVR backend server supports parental controls."
-msgstr "Hierdie kategorie bevat die ouer beheer verstellings, as die PVR agterkant bediener ouer beheer ondersteun."
+msgstr "Hierdie kategorie bevat die ouer beheer instellings, as die PVR agterkant bediener ouer beheer ondersteun."
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
@@ -16298,16 +16298,16 @@ msgstr "Vra weer vir die pin kode wanneer probeer om toegang te verkry tot 'n ou
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
-msgstr "Hierdie kategorie bevat die verstellings vir jou PVR agterkant spesifiek, as deur die PVR byvoegsel en agterkant ondersteun word."
+msgstr "Hierdie kategorie bevat die instellings vir jou PVR agterkant spesifiek, as deur die PVR byvoegsel en agterkant ondersteun word."
 
 msgctxt "#36252"
 msgid "This option will bring you to any specific settings for your PVR backend, if supported by the PVR add-on and backend."
-msgstr "Hierdie opsie sal jou na enige spesifieke verstelling vir jou PVR agterkant bring, as deur die PVR byvoegsel en agterkant ondersteun word."
+msgstr "Hierdie opsie sal jou na enige spesifieke instelling vir jou PVR agterkant bring, as deur die PVR byvoegsel en agterkant ondersteun word."
 
 #. Description of settings section with label #2 "Music"
 msgctxt "#36253"
 msgid "Section that contains settings related to music files and how they are handled."
-msgstr "Seksie wat verstellings bevat verwant aan musiek lêers en hoe hulle hanteer word."
+msgstr "Seksie wat instellings bevat verwant aan musiek lêers en hoe hulle hanteer word."
 
 msgctxt "#36254"
 msgid "Action to perform when pressing the record button. [Record current show] will record the current show from \"now\" to the end of the show. If no TV guide data is currently available a fixed length recording starting \"now\", with the value set for \"Instant recording duration\" will be scheduled. [Record for a fixed period of time] will schedule a fixed length recording starting \"now\", with the value set for \"Instant recording duration\". [Ask what to do] will open a dialogue containing different recording actions to choose from, like \"Record current show\", \"Record next show\" and some fixed duration recordings."
@@ -16360,7 +16360,7 @@ msgstr "Voer 'n XML lêer in die musiek biblioteek databasis in."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36264"
 msgid "This category contains the settings for how music playback is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe musiek terugspeel hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe musiek terugspeel hanteer word."
 
 #. Description of setting with label #489 "Play next song automatically"
 msgctxt "#36265"
@@ -16450,7 +16450,7 @@ msgstr "Soek vir naeldrukke op afgeleë gedeeldes en optiese media. Hierdie kan 
 #. Description of settings category with label #620 "Audio CDs"
 msgctxt "#36282"
 msgid "This category contains the settings for how CDs are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe CDs hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe CDs hanteer word."
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36283"
@@ -16500,7 +16500,7 @@ msgstr "Outo werp skyf uit na rip klaar is."
 #. Description of settings category "Interface -> Startup" with label #14224
 msgctxt "#36292"
 msgid "This category contains startup settings."
-msgstr "Hierdie kategorie bevat begin verstellings."
+msgstr "Hierdie kategorie bevat begin instellings."
 
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
@@ -16519,7 +16519,7 @@ msgstr "Stel die onderskrif ondeursigtigheid."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
-msgstr "Hierdie kategorie bevat verstellings vir herinneringe."
+msgstr "Hierdie kategorie bevat instellings vir herinneringe."
 
 msgctxt "#36297"
 msgid "Choose a time in seconds after which PVR reminder popups will be automatically closed."
@@ -16554,12 +16554,12 @@ msgstr "Nog geen inligting beskikbaar."
 #. Description of settings section with label #1 "Pictures"
 msgctxt "#36304"
 msgid "Section that contains settings related to pictures and how they are handled."
-msgstr "Seksie wat verstellings bevat verwant aan prente en hoe hulle hanteer word."
+msgstr "Seksie wat instellings bevat verwant aan prente en hoe hulle hanteer word."
 
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36305"
 msgid "This category contains the settings for how picture file lists are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe prent lêer lyste hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe prent lêer lyste hanteer word."
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
@@ -16588,7 +16588,7 @@ msgstr "Nog geen inligting beskikbaar."
 #. Description of settings category with label #108 "Slideshow"
 msgctxt "#36311"
 msgid "This category contains the settings for how the picture slideshow is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe prent skyfievertonings hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe prent skyfievertonings hanteer word."
 
 #. Description of setting with label #12378 "Amount of time to display each image"
 msgctxt "#36312"

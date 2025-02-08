@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-01 14:09+0000\n"
+"PO-Revision-Date: 2025-02-04 02:37+0000\n"
 "Last-Translator: Jakub Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -582,11 +582,11 @@ msgstr "KD-ingo elŝovita"
 
 msgctxt "#163"
 msgid "Reading"
-msgstr "Legas"
+msgstr "Legado"
 
 msgctxt "#164"
 msgid "No disc"
-msgstr "Neniu disko"
+msgstr "Sen disko"
 
 msgctxt "#165"
 msgid "Disc present"
@@ -598,7 +598,7 @@ msgstr "Haŭto"
 
 msgctxt "#167"
 msgid "Cancel file operations"
-msgstr "Nuligi pridosierajn agojn"
+msgstr "Nuligi dosierajn operaciojn"
 
 msgctxt "#168"
 msgid "{0:s}- {1:s}"
@@ -618,7 +618,7 @@ msgstr "Ordigi titolojn"
 
 msgctxt "#172"
 msgid "Release date"
-msgstr "Dato de eldono"
+msgstr "Eldona dato"
 
 msgctxt "#173"
 msgid "Display 4:3 videos as"
@@ -640,12 +640,12 @@ msgstr "Stiloj"
 #. <application name> successfully started
 msgctxt "#177"
 msgid "{0:s} successfully started"
-msgstr "{0:s} sukcese startita"
+msgstr "{0:s} sukcese startigita"
 
 #. <application name> has been successfully started.
 msgctxt "#178"
 msgid "{0:s} has been successfully started."
-msgstr "{0:s} estis startita sukcese."
+msgstr "{0:s} estis startigita sukcese."
 
 msgctxt "#179"
 msgid "Song"
@@ -670,11 +670,11 @@ msgstr "Recenzo"
 
 msgctxt "#184"
 msgid "Refresh"
-msgstr "Reaktualigi"
+msgstr "Aktualigi"
 
 msgctxt "#185"
 msgid "Searching album"
-msgstr "Serĉas albumon"
+msgstr "Serĉado de albumo"
 
 msgctxt "#186"
 msgid "OK"
@@ -690,7 +690,7 @@ msgstr "Elekti ĉiujn"
 
 msgctxt "#189"
 msgid "Scanning media information"
-msgstr "Skanas plurmediajn informojn"
+msgstr "Skanado de plurmediaj informoj"
 
 msgctxt "#190"
 msgid "Save"
@@ -711,7 +711,7 @@ msgstr "Skani"
 #. label for "searching" message box heading
 msgctxt "#194"
 msgid "Searching..."
-msgstr "Serĉas..."
+msgstr "Serĉado..."
 
 msgctxt "#195"
 msgid "No information found!"
@@ -723,11 +723,11 @@ msgstr "Elektu filmon:"
 
 msgctxt "#197"
 msgid "Querying {0:s} information"
-msgstr "Petas informojn pri {0:s}"
+msgstr "Petado de informoj pri {0:s}"
 
 msgctxt "#198"
 msgid "Loading movie details"
-msgstr "Ŝargas detalojn pri filmo"
+msgstr "Ŝargado de detaloj pri filmo"
 
 msgctxt "#199"
 msgid "Web interface"
@@ -842,19 +842,17 @@ msgid "Vertical shift"
 msgstr "Vertikala ŝanĝo"
 
 # empty string with id 226
-#, fuzzy
 msgctxt "#227"
 msgid "Load audio CD information from online service"
 msgstr "Ŝargi informojn pri Aŭdio-KD de reta servo"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
-msgstr "Miksi ludliston dum ŝargo"
+msgstr "Miksi ludliston je ŝargo"
 
-#, fuzzy
 msgctxt "#229"
 msgid "HDD spindown time"
-msgstr "HD Spindown Time"
+msgstr "Dormetigi diskon post"
 
 msgctxt "#230"
 msgid "Video filters"
@@ -869,10 +867,9 @@ msgctxt "#232"
 msgid "Point"
 msgstr "Punkta"
 
-#, fuzzy
 msgctxt "#233"
 msgid "Linear"
-msgstr "Rekta"
+msgstr "Lineara"
 
 msgctxt "#234"
 msgid "Anisotropic"
@@ -952,7 +949,7 @@ msgstr "Dukanaligi"
 
 msgctxt "#253"
 msgid "Number of channels"
-msgstr "Nombro da kanaloj"
+msgstr "Nombro de kanaloj"
 
 msgctxt "#254"
 msgid "DTS capable receiver"
@@ -5242,10 +5239,9 @@ msgctxt "#12389"
 msgid "Privacy policy"
 msgstr ""
 
-#, fuzzy
 msgctxt "#12390"
 msgid "System uptime"
-msgstr "System Uptime"
+msgstr "Sistema daŭro de funkciado"
 
 msgctxt "#12391"
 msgid "Minutes"
@@ -5259,10 +5255,9 @@ msgctxt "#12393"
 msgid "Days"
 msgstr "Tagoj"
 
-#, fuzzy
 msgctxt "#12394"
 msgid "Total uptime"
-msgstr "Total Uptime"
+msgstr "Entuta daŭro de funkciado"
 
 msgctxt "#12395"
 msgid "Battery level"
@@ -5276,7 +5271,7 @@ msgstr "Dankon!"
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr "Kodi estas alportata al vi per amo de la Kodi Foundation, neprofitcela organizaĵo laŭ 501(c)(3). Dankon por uzi nian programaron!"
+msgstr "Kodi estas alportata al vi ame de la Kodi Foundation, neprofitcela organizaĵo laŭ 501(c)(3). Dankon por uzi nian programaron!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
@@ -12894,7 +12889,7 @@ msgstr "Versio de OpenGL:"
 
 msgctxt "#22010"
 msgid "GPU temperature:"
-msgstr "GPU-a temperaturo:"
+msgstr "Grafikprocesora temperaturo:"
 
 msgctxt "#22011"
 msgid "CPU temperature:"
