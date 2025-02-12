@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-09-04 16:26+0000\n"
+"PO-Revision-Date: 2025-02-11 18:11+0000\n"
 "Last-Translator: Daniel <danny3@tutanota.com>\n"
 "Language-Team: Romanian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ro_ro/>\n"
 "Language: ro_ro\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.1\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1079,7 +1079,7 @@ msgstr "Rezultate căutare"
 #. generic "no search results found" label used in different places
 msgctxt "#284"
 msgid "No results found"
-msgstr "Nu s-au găsit rezultate."
+msgstr "Nu s-au găsit rezultate"
 
 msgctxt "#285"
 msgid "Preferred audio language"
@@ -1819,7 +1819,7 @@ msgstr "[activ]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Flux subtitlu"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -3240,7 +3240,6 @@ msgid "Recently added channels"
 msgstr "Canale adăugate recent"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
-#, fuzzy
 msgctxt "#856"
 msgid "Client"
 msgstr "Client"
@@ -3519,7 +3518,6 @@ msgctxt "#1185"
 msgid "SOCKS5 with remote DNS resolving"
 msgstr "SOCKS5 cu rezolvare DNS la distanță"
 
-#, fuzzy
 msgctxt "#1186"
 msgid "HTTPS"
 msgstr "HTTPS"
@@ -5108,17 +5106,18 @@ msgstr "Nivel acumulator"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Mulțumim!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi vă este oferit cu dragoste de Fundația Kodi , o organizație non-profit de tip 501(c)(3). Vă mulțumim că ne utilizați programul!"
 
 #. URL for donations. Do not translate.
+#, fuzzy
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5897,7 +5896,7 @@ msgstr "Scoate/Încarcă"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Selectare flux"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6173,12 +6172,12 @@ msgstr "Preferă metoda de randare VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Folosește filtru decodor"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Activează/Dezactivează filtrul care blochează anumite decodoare software (care rulează în aplicație) pe Android. Acest filtru este configurabil prin fișierul [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -7377,7 +7376,7 @@ msgstr "Realizări"
 #. Group label for Achievements category in game settings
 msgctxt "#15313"
 msgid "Login to RetroAchievements"
-msgstr "Autentificați-vă în  RetroAchievements"
+msgstr "Autentificați-vă în RetroAchievements"
 
 #. Label for button which creates a new savestate in the in-game savestate manager
 msgctxt "#15314"
@@ -9524,12 +9523,12 @@ msgstr "Redă doar acest program"
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplică"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Copie a „{0:s}”"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9737,7 +9736,6 @@ msgid "Folk / Traditional music"
 msgstr "Folclor / Muzică tradițională"
 
 #. label for "music/ballet/dance" epg subgenre value
-#, fuzzy
 msgctxt "#19584"
 msgid "Jazz"
 msgstr "Jazz"
@@ -14449,13 +14447,11 @@ msgid "Off"
 msgstr "Oprită"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
-#, fuzzy
 msgctxt "#34117"
 msgid "50%"
 msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
-#, fuzzy
 msgctxt "#34118"
 msgid "100%"
 msgstr "100%"
@@ -14932,7 +14928,6 @@ msgid "Port Setup"
 msgstr "Configurare porturi"
 
 #. Label of a port with a numeric identifier. {0:s} is the port ID, e.g. "1" for "Port 1"
-#, fuzzy
 msgctxt "#35112"
 msgid "Port {0:s}"
 msgstr "Port {0:s}"
@@ -15348,7 +15343,7 @@ msgstr "Contul dumneavoastră nu este verificat. Verificați-vă poșta electron
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Acest joc necesită sprijin OpenGL pentru randarea în 3D. Sprijinul OpenGL este încă în dezvoltare."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16108,7 +16103,7 @@ msgstr "Activează capabilitățile „Înregistrării video personale” (PVR).
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr ""
+msgstr "Comutați între [Întreabă dacă este reluabil] (implicit) și [Reia].[CR][Întreabă dacă este reluabil] vă va întreba dacă doriți dă redați de la început sau să reluați (dacă un punct de reluare este prezent).[CR][Reia] va relua automat fișierele video de la ultima poziția unde erați când le-ați vizionat.[CR]Dacă niciun punct de reluare nu este stabilit, redarea va începe de la început."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16128,7 +16123,7 @@ msgstr "Instruiește furnizorul din spate să caute canale (dacă este sprijinit
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr ""
+msgstr "Curăță bazele de date pentru datele PVR cum ar fi canalele, grupurile, amintitoarele și ghidul. Vă rugăm să rețineți că nu toate datele pot fi restaurate de la furnizorul din spate după aceea."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -16136,7 +16131,7 @@ msgstr "Deschideți dialogul cu prioritățile clientului care permite modificar
 
 msgctxt "#36211"
 msgid "This category contains the settings for PVR channels and channel groups."
-msgstr ""
+msgstr "Această categorie conține configurări pentru canalele PVR și grupuri de canale."
 
 msgctxt "#36212"
 msgid "Display programming information when changing channels, such as the current TV show."
@@ -16202,7 +16197,7 @@ msgstr "Această categorie conține setările pentru redarea și schimbarea cana
 
 msgctxt "#36227"
 msgid "Switch to full screen display when starting playback of channels."
-msgstr ""
+msgstr "Comută la afișarea pe tot ecranul când se pornește redarea canalelor."
 
 #. Description of setting with label #745 "Background Colour"
 msgctxt "#36228"
@@ -16228,7 +16223,7 @@ msgstr "Când se schimbă pe următorul sau anteriorul canal, schimbarea este î
 
 msgctxt "#36233"
 msgid "This category contains settings for recordings."
-msgstr ""
+msgstr "Această categorie conține configurări pentru înregistrări."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
@@ -16521,7 +16516,7 @@ msgstr "Stabiliți opacitatea subtitlurilor."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
-msgstr ""
+msgstr "Această categorie conține configurări pentru amintitoare."
 
 msgctxt "#36297"
 msgid "Choose a time in seconds after which PVR reminder popups will be automatically closed."
@@ -16534,7 +16529,7 @@ msgstr ""
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "Permite modul HDR al afișării să fie schimbat pentru a se potrivi mai bine cu tipul media. Când este dezactivat, Kodi aplică asocierea nuanțelor (tonemapping) dacă este necesară (și dacă este sprijinită de componentele fizice ale dispozitivului dumneavoastră) pentru a adapta sursa media la modul HDR actual al ecranului."
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
@@ -16565,7 +16560,7 @@ msgstr "Această categorie conține setările pentru gestionarea listelor de ima
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr "Dacă nu sunt folosite numerele canalelor de la furnizorul din spate atunci  pornește numerele canalelor pentru toate grupurile de la 1."
+msgstr "Dacă nu sunt folosite numerele canalelor de la furnizorul din spate atunci pornește numerele canalelor pentru toate grupurile de la 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -17191,7 +17186,7 @@ msgstr "Când este activată, metoda de randare preferată este VAAPI și proces
 
 msgctxt "#36434"
 msgid "If enabled, switch to the channel with the programme to remind when auto-closing the reminder popup."
-msgstr ""
+msgstr "Dacă este activată, comută pe canalul cu programul de amintit când se închide automat fereastra amintitoare ieșită în prim plan."
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
@@ -17472,12 +17467,12 @@ msgstr "Parametrul de mapare a tonului"
 #. label of a setting, tone mapping method
 msgctxt "#36557"
 msgid "ACES Filmic"
-msgstr ""
+msgstr "ACES Filmic"
 
 #. label of a setting, tone mapping method
 msgctxt "#36558"
 msgid "Hable"
-msgstr ""
+msgstr "Hable"
 
 msgctxt "#36560"
 msgid "Colour management"
@@ -17799,7 +17794,7 @@ msgstr "Versiune protocol minimă"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Stabilește versiunea protocolului SMB minimă de negociat când se fac conectări. Forțarea SMBv2 poate fi necesară pentru a preveni utilizarea SMBv1 pe unele sisteme. Doar SMBv2.1 și SMBv3 sprijină un MTU mare (o mărime a bucății > 64 KO)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17814,7 +17809,7 @@ msgstr "Forțați securitatea SMBv1 slabă pentru compatibilitatea cu caracteris
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control via HTTP"
 msgctxt "#36632"
 msgid "Anyone who has access to the web interface will be able to completely control this application and, therefore, this device, so it should never be exposed on the Internet. A password should be set below. Proceed?"
-msgstr ""
+msgstr "Orice are acces la interfața web interface va putea controla complet această aplicație și, așadar, acest dispozitiv, așa că nu ar trebui să fie niciodată expusă la internet. Trebuie să fie stabilită o parolă mai jos. Continuați?"
 
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control from applications on other systems"
 msgctxt "#36633"
@@ -17839,7 +17834,7 @@ msgstr "Trebuie să introduceți o parolă înainte ca autentificarea servitorul
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 și un MTU mare"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17975,12 +17970,12 @@ msgstr "(Comentariile regizorului 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18111,7 +18106,6 @@ msgctxt "#37046"
 msgid "1080"
 msgstr "1080"
 
-#, fuzzy
 msgctxt "#37047"
 msgid "WS-Discovery"
 msgstr "WS-Discovery"
@@ -18139,7 +18133,7 @@ msgstr "Versiune protocol NFS"
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr ""
+msgstr "Versiunea protocolului NFS de folosit când se stabilesc conexiuni de tip NFS"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
@@ -18282,22 +18276,22 @@ msgstr "{0:d} secunde"
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Durata cozii audio/video"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Durata în secunde a cozilor of audio/video. Durata determină cantitatea de date stocată în memorie."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Dimensiunea maximă a cozii video"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Limitează utilizarea maximă a memoriei pentru coada video. Cantitatea de memorie folosită depinde de rata de biți a fișierelor video și lungimea cozii. Dacă limita memoriei este atinsă, durata cozii este redusă atât cât este necesar."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18537,7 +18531,7 @@ msgstr "Dată originală"
 #. Music property - Beats Per Minute
 msgctxt "#38080"
 msgid "BPM"
-msgstr ""
+msgstr "BPM"
 
 #. Music property - Album release status
 msgctxt "#38081"
@@ -19429,13 +19423,11 @@ msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR
 msgstr "Modifică fluxul de biți video pentru a elimina metadatele dinamice pentru HDR. Selectați formatele de HDR pe care dispozitivul și ecranul dumneavoastră le sprijină."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
-#, fuzzy
 msgctxt "#39200"
 msgid "Dolby Vision"
 msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
-#, fuzzy
 msgctxt "#39201"
 msgid "HDR10+"
 msgstr "HDR10+"
@@ -19443,7 +19435,7 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Spațierea liniilor"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
@@ -19704,12 +19696,12 @@ msgstr ""
 #. Choose video version dialog title
 msgctxt "#40208"
 msgid "Choose version: {}"
-msgstr ""
+msgstr "Alegeți versiunea: {}"
 
 #. First choose video version and then select a player and play context menu item label
 msgctxt "#40209"
 msgid "Play version using..."
-msgstr ""
+msgstr "Redă versiunea folosind..."
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19724,12 +19716,12 @@ msgstr ""
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Sincronizează nivelul sonorului cu redatoarele UPnP la distanță"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "Dacă nivelul sonorului (volumului) redatorului de la distanță va fi sincronizat cu sonorul acestui program.[CR]Atenție: Nivelul sonorului global al sistemului poate să fie diferit de nivelul sonorului programului - ele sunt controlate independent.[CR]Acest lucru poate duce la cazul în care redatorul de la distanță să aibă sonorul stabilit lat la un nivel de 100% volume level dacă programul are nivelul sonorului la 100% dar nivelul general al sistemului este mai mic."
 
 #. Dialog title for the selection of the video extra
 msgctxt "#40214"
@@ -19891,12 +19883,12 @@ msgstr "Ediția A 50-a Aniversare"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Confirmare ștergere fișier"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Dacă este activată, un dialog de confirmare va fi afișat când se cere ștergerea fișierelor. Dacă este dezactivată, fișierele vor fi șterse fără confirmare din partea utilizatorului."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-04 02:37+0000\n"
+"PO-Revision-Date: 2025-02-11 18:11+0000\n"
 "Last-Translator: Jakub Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -1186,7 +1186,7 @@ msgstr "Defaŭlta por plurmedioj"
 #. Will prefer the stream marked as "original" if available.
 msgctxt "#308"
 msgid "Original language"
-msgstr "Origina lingvo"
+msgstr "Originala lingvo"
 
 msgctxt "#309"
 msgid "User interface language"
@@ -2510,7 +2510,7 @@ msgstr "Streĉi 16:9"
 #. Label for stretching the displayed video to the original size of the video stream
 msgctxt "#635"
 msgid "Original size"
-msgstr "Origina grando"
+msgstr "Originala grando"
 
 msgctxt "#636"
 msgid "Custom"
@@ -10234,7 +10234,7 @@ msgstr ""
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19661"
 msgid "Original language"
-msgstr "Origina lingvo"
+msgstr "Originala lingvo"
 
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19662"
@@ -11501,7 +11501,7 @@ msgstr ""
 #. Original title of the movie/tvshow (could differ from local distributor title) (ListItem.OriginalTitle)
 msgctxt "#20376"
 msgid "Original title"
-msgstr "Origina titolo"
+msgstr "Originala titolo"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
@@ -18977,11 +18977,11 @@ msgstr "Diskoj entute"
 
 msgctxt "#38078"
 msgid "Original year"
-msgstr "Origina jaro"
+msgstr "Originala jaro"
 
 msgctxt "#38079"
 msgid "Original date"
-msgstr "Origina dato"
+msgstr "Originala dato"
 
 #. Music property - Beats Per Minute
 msgctxt "#38080"
@@ -19467,7 +19467,7 @@ msgstr "Elekti distingivon"
 #. language prefix displayed in audio settings stream selection
 msgctxt "#39111"
 msgid "original"
-msgstr "origina"
+msgstr "originala"
 
 #. Used for a setting which allows centre channel (voice/speech) volume to be adjusted when downmixing.
 msgctxt "#39112"
