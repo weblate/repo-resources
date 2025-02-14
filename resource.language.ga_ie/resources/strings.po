@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-13 09:00+0000\n"
+"PO-Revision-Date: 2025-02-14 22:55+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ga_ie/>\n"
 "Language: ga_ie\n"
@@ -549,7 +549,7 @@ msgstr "Taispeáin"
 #: xbmc/playlists/SmartPlaylist.cpp
 msgctxt "#132"
 msgid "Albums"
-msgstr "Albam"
+msgstr "Albaim"
 
 #: xbmc/dialogs/GUIDialogMediaFilter.cpp
 #: xbmc/dialogs/GUIDialogSmartPlaylistEditor.cpp
@@ -560,7 +560,7 @@ msgstr "Albam"
 #: addons/skin.estuary/xml/Home.xml
 msgctxt "#133"
 msgid "Artists"
-msgstr "Ealaíontóir"
+msgstr "Ealaíontóirí"
 
 #: xbmc/dialogs/GUIDialogMediaFilter.cpp
 #: xbmc/dialogs/GUIDialogSmartPlaylistEditor.cpp
@@ -835,7 +835,7 @@ msgstr "CEART GO LEOR"
 
 msgctxt "#187"
 msgid "No albums found!"
-msgstr "Níl aon albam le fáil!"
+msgstr "Níl aon albaim le fáil!"
 
 #: xbmc/windows/GUIWindowFileManager.cpp
 msgctxt "#188"
@@ -1149,7 +1149,7 @@ msgstr "Scáileán iomlán"
 
 msgctxt "#245"
 msgid "Sizing: ({0:d},{1:d})->({2:d},{3:d}) (Zoom x{4:2.2f}) AR:{5:2.2f}:1 (Pixels: {6:2.2f}:1) (VShift: {7:2.2f})"
-msgstr ""
+msgstr "Méid: ({0:d},{1:d})->({2:d},{3:d}) (Súmáil x{4:2.2f}) AR:{5:2.2f}:1 (Picteilín: {6:2.2f}: 1) (VShift: {7:2.2f})"
 
 msgctxt "#246"
 msgid "Monitor"
@@ -1566,12 +1566,12 @@ msgstr "Cosáin ghlanadh earráide"
 #: xbmc/music/MusicDatabase.cpp
 msgctxt "#326"
 msgid "Cleaning albums..."
-msgstr "Albam glantacháin..."
+msgstr "Albaim glantacháin..."
 
 #: xbmc/music/MusicDatabase.cpp
 msgctxt "#327"
 msgid "Error cleaning albums"
-msgstr "Earráid glantacháin albam"
+msgstr "Earráid glantacháin albaim"
 
 #: xbmc/music/MusicDatabase.cpp
 msgctxt "#328"
@@ -1634,7 +1634,7 @@ msgstr "Optamaithe"
 #: xbmc/music/infoscanner/MusicInfoScanner.cpp
 msgctxt "#340"
 msgid "Various artists"
-msgstr "Ealaíontóirí é"
+msgstr "Ealaíontóirí éagsúla"
 
 #: xbmc/dialogs/GUIDialogContextMenu.cpp
 msgctxt "#341"
@@ -1725,7 +1725,7 @@ msgstr "Uaineadóir feidhm múchadh"
 
 msgctxt "#358"
 msgid "All albums"
-msgstr "Gach albam"
+msgstr "Gach albaim"
 
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNodeOverview.cpp
 msgctxt "#359"
@@ -1900,7 +1900,7 @@ msgstr "Ard"
 #. Weather token
 msgctxt "#394"
 msgid "Fog"
-msgstr "Ceo"
+msgstr "Ceochán"
 
 #. Weather token
 msgctxt "#395"
@@ -2248,7 +2248,7 @@ msgstr "Ceol amháin"
 
 msgctxt "#476"
 msgid "Music & video"
-msgstr ""
+msgstr "Ceol agus físeáin"
 
 #: xbmc/music/windows/GUIWindowMusicBase.cpp
 #: xbmc/music/windows/GUIWindowMusicNav.cpp
@@ -2264,7 +2264,7 @@ msgstr "OSD"
 
 msgctxt "#479"
 msgid "Skin & language"
-msgstr ""
+msgstr "Craiceann agus teanga"
 
 #: system/peripherals.xml
 #: system/settings/settings.xml
@@ -2420,11 +2420,11 @@ msgstr "Seánra"
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNodeOverview.cpp
 msgctxt "#517"
 msgid "Recently played albums"
-msgstr "Albam seinnte le déanaí"
+msgstr "Albaim seinnte le déanaí"
 
 msgctxt "#518"
 msgid "Launch"
-msgstr "Seoladh"
+msgstr "Lainseáil"
 
 msgctxt "#519"
 msgid "Launch in..."
@@ -2450,7 +2450,7 @@ msgstr "Athraigh meáin"
 
 msgctxt "#524"
 msgid "Select playlist"
-msgstr "Roghnaigh seinmliosta"
+msgstr "Togh seinmliosta"
 
 msgctxt "#525"
 msgid "New playlist..."
@@ -3034,7 +3034,7 @@ msgstr "Bain ón leabharlann"
 #: xbmc/video/VideoDatabase.cpp
 msgctxt "#647"
 msgid "Export video library"
-msgstr "Leabharlann físeáin a"
+msgstr "Onnmhairiú leabharlann físeán"
 
 #: system/settings/settings.xml
 msgctxt "#648"
@@ -3049,7 +3049,7 @@ msgstr "Allmhairiú"
 #. unused?
 msgctxt "#650"
 msgid "Exporting"
-msgstr "Easpórtáil"
+msgstr "Ag easpórtáil"
 
 msgctxt "#651"
 msgid "Browse for library"
@@ -3091,7 +3091,7 @@ msgstr "Brabhsáil don fhillteán"
 #: xbmc/music/ContextMenus.h
 msgctxt "#658"
 msgid "Song information"
-msgstr "Eolas amhrán"
+msgstr "Faisnéise amhrán"
 
 #: xbmc/video/dialogs/GUIDialogVideoSettings.cpp
 msgctxt "#659"
@@ -3356,7 +3356,7 @@ msgstr "Freastalaí DNS"
 
 msgctxt "#723"
 msgid "Save & restart"
-msgstr ""
+msgstr "Sábháil agus atosú"
 
 msgctxt "#724"
 msgid "Invalid address specified. Value must be AAA.BBB.CCC.DDD"
@@ -3395,7 +3395,7 @@ msgstr "Dubh"
 
 msgctxt "#732"
 msgid "Save & apply"
-msgstr ""
+msgstr "Sábháil agus cuir i bhfeidhm"
 
 #: system/settings/settings.xml
 msgctxt "#733"
@@ -4366,35 +4366,35 @@ msgstr "Comhaid"
 
 msgctxt "#1215"
 msgid "Music & video "
-msgstr ""
+msgstr "Ceol agus físeáin "
 
 msgctxt "#1216"
 msgid "Music & pictures"
-msgstr ""
+msgstr "Ceol agus pictiúir"
 
 msgctxt "#1217"
 msgid "Music & files"
-msgstr ""
+msgstr "Ceol agus comhaid"
 
 msgctxt "#1218"
 msgid "Video & pictures"
-msgstr ""
+msgstr "Físeáin agus pictiúir"
 
 msgctxt "#1219"
 msgid "Video & files"
-msgstr ""
+msgstr "Físeáin agus comhaid"
 
 msgctxt "#1220"
 msgid "Pictures & files"
-msgstr ""
+msgstr "Pictiúir agus comhaid"
 
 msgctxt "#1221"
 msgid "Music & video & pictures"
-msgstr ""
+msgstr "Ceol, físeáin agus pictiúir"
 
 msgctxt "#1222"
 msgid "Music & video & pictures & files"
-msgstr ""
+msgstr "Ceol, físeáin, pictiúir agus comhaid"
 
 #: addons/skin.estuary/xml/Variables.xml
 msgctxt "#1223"
@@ -4404,43 +4404,43 @@ msgstr "Míchumas"
 #empty strings from id 1224 to 1225
 msgctxt "#1226"
 msgid "Files & music & video"
-msgstr ""
+msgstr "Comhaid, ceol agus físeáin"
 
 msgctxt "#1227"
 msgid "Files & pictures & music"
-msgstr ""
+msgstr "Comhaid, pictiúir agus ceol"
 
 msgctxt "#1228"
 msgid "Files & pictures & video"
-msgstr ""
+msgstr "Comhaid, pictiúir agus físeáin"
 
 msgctxt "#1229"
 msgid "Music & programs"
-msgstr ""
+msgstr "Ceol agus cláir"
 
 msgctxt "#1230"
 msgid "Video & programs"
-msgstr ""
+msgstr "Físeáin agus cláir"
 
 msgctxt "#1231"
 msgid "Pictures & programs"
-msgstr ""
+msgstr "Pictiúir agus cláir"
 
 msgctxt "#1232"
 msgid "Music & video & pictures & programs"
-msgstr ""
+msgstr "Ceol, físeáin, pictiúir agus cláir"
 
 msgctxt "#1233"
 msgid "Programs & video & music"
-msgstr ""
+msgstr "Cláir, físeáin agus ceol"
 
 msgctxt "#1234"
 msgid "Programs & pictures & music"
-msgstr ""
+msgstr "Cláir, pictiúir agus ceol"
 
 msgctxt "#1235"
 msgid "Programs & pictures & video"
-msgstr ""
+msgstr "Cláir, pictiúir agus físeáin"
 
 #empty strings from id 1236 to 1258
 #: system/settings/settings.xml
@@ -4518,7 +4518,7 @@ msgstr "Gaofar"
 #. Weather token
 msgctxt "#1375"
 msgid "Temperature"
-msgstr "Teocht"
+msgstr "Teochta"
 
 #. Weather token
 msgctxt "#1376"
@@ -4633,7 +4633,7 @@ msgstr "agus"
 #. Weather token
 msgctxt "#1398"
 msgid "Freezing"
-msgstr "Reoite"
+msgstr "Reo"
 
 #. Weather token
 msgctxt "#1399"
@@ -4723,7 +4723,7 @@ msgstr "Sraith"
 #. Weather token
 msgctxt "#1416"
 msgid "Foggy"
-msgstr "Ceomhar"
+msgstr "Ceochánach"
 
 #. Weather token
 msgctxt "#1417"
@@ -5523,7 +5523,7 @@ msgstr "Na 100 amhrán is fearr"
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNodeTop100.cpp
 msgctxt "#10505"
 msgid "Top 100 albums"
-msgstr "An 100 albam is fearr"
+msgstr "An 100 albaim is fearr"
 
 msgctxt "#10506"
 msgid "Programs"
@@ -5719,7 +5719,7 @@ msgstr "Imleabhar"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr "Socruithe chun cinn"
+msgstr "Socruithe casta"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
@@ -5818,7 +5818,7 @@ msgstr "Nuashonraíodh go"
 #: xbmc/guilib/WindowIDs.h
 msgctxt "#12015"
 msgid "Select video version"
-msgstr "Roghnaigh leagan físe"
+msgstr "Togh leagan físeáin"
 
 #: xbmc/guilib/WindowIDs.h
 msgctxt "#12016"
@@ -6092,7 +6092,7 @@ msgstr "Níl an máistircód bailí. Cuir isteach máistircód bailí le do thoi
 #: unknown
 msgctxt "#12373"
 msgid "Settings & file manager"
-msgstr ""
+msgstr "Socruithe agus bainisteoir comhad"
 
 #empty strings from id 12374 to 12375
 #: xbmc/video/dialogs/GUIDialogAudioSubtitleSettings.cpp
@@ -6303,7 +6303,7 @@ msgstr "Fionraí"
 #: addons/skin.estuary/xml/DialogButtonMenu.xml
 msgctxt "#13012"
 msgid "Exit"
-msgstr "Scoir"
+msgstr "Amach"
 
 #: addons/skin.estuary/xml/DialogButtonMenu.xml
 msgctxt "#13013"
@@ -6390,7 +6390,7 @@ msgstr "Fanacht leathnaithe go ndúisfidh an freastalaí..."
 #: xbmc/network/WakeOnAccess.cpp
 msgctxt "#13032"
 msgid "Waiting for services to launch..."
-msgstr "Ag fanacht le seoladh seirbhísí..."
+msgstr "Ag fanacht le lainseáil seirbhísí..."
 
 #: xbmc/network/WakeOnAccess.cpp
 msgctxt "#13033"
@@ -6453,7 +6453,7 @@ msgstr "Cumas i gcónaí"
 #. unused?
 msgctxt "#13109"
 msgid "Test & apply the resolution"
-msgstr ""
+msgstr "Déan an taifeach a thástáil agus a chur i bhfeidhm"
 
 #: xbmc/settings/DisplaySettings.cpp
 msgctxt "#13110"
@@ -6589,7 +6589,7 @@ msgstr "Láithreach"
 #. unused?
 msgctxt "#13172"
 msgid "After {0:d} secs"
-msgstr "Tar éis {0:d} soicind"
+msgstr "Tar éis {0:d} soici"
 
 #. unused?
 msgctxt "#13173"
@@ -7016,7 +7016,7 @@ msgstr "Cuardaigh IMDb..."
 
 msgctxt "#13349"
 msgid "Scan for new content"
-msgstr "Scanadh le haghaidh ábhar nua"
+msgstr "Scan le haghaidh ábhar nua"
 
 msgctxt "#13350"
 msgid "Current playlist"
@@ -7109,7 +7109,7 @@ msgstr "Gamma réamhshocraithe"
 
 msgctxt "#13381"
 msgid "Resume video"
-msgstr "Athosaigh físeán"
+msgstr "Físeán atosú"
 
 msgctxt "#13382"
 msgid "Voice mask - Port 1"
@@ -7139,7 +7139,7 @@ msgstr "Teimpléad ainmnithe rian - ar dheis"
 #: addons/skin.estuary/xml/MusicVisualisation.xml
 msgctxt "#13388"
 msgid "Preset"
-msgstr "Réamhshocraithe"
+msgstr "Réamhshocraigh"
 
 #: xbmc/music/dialogs/GUIDialogVisualisationPresetList.cpp
 msgctxt "#13389"
@@ -7262,7 +7262,7 @@ msgstr "Seinn as seo"
 #: xbmc/addons/guidialogaddoninfo.cpp
 msgctxt "#13413"
 msgid "Downloading"
-msgstr "Íoslódáil"
+msgstr "Ag íosluchtú"
 
 #: system/settings/settings.xml
 msgctxt "#13414"
@@ -7550,12 +7550,12 @@ msgstr "EGG"
 #: system/settings/gbm.xml
 msgctxt "#13466"
 msgid "1080 / 720 (>30Hz)"
-msgstr ""
+msgstr "1080 / 720 (>30Hz)"
 
 #: system/settings/gbm.xml
 msgctxt "#13467"
 msgid "Unlimited / 1080 (>30Hz)"
-msgstr ""
+msgstr "Gan teorainn / 1080 (>30Hz)"
 
 #: system/settings/settings.xml
 msgctxt "#13468"
@@ -7706,7 +7706,7 @@ msgstr "Roghnaigh cineál ealaíne"
 #: system/settings/settings.xml
 msgctxt "#13522"
 msgid "Split albums into individual discs"
-msgstr "Roinn albam i dioscaí aonair"
+msgstr "Roinn albaim i dioscaí aonair"
 
 #. Description of setting with label #13522 "Split albums into individual discs"
 #: system/settings/settings.xml
@@ -7718,7 +7718,7 @@ msgstr "Nuair a chumasaítear é, taispeánann albam ildiosca oscailt na diosca�
 #: system/settings/settings.xml
 msgctxt "#13524"
 msgid "Use original release date of albums for year"
-msgstr "Úsáid dáta eisiúna bunaidh albam don bhliain"
+msgstr "Úsáid dáta eisiúna bunaidh albaim don bhliain"
 
 #. Description of setting with label #13524
 #: system/settings/settings.xml
@@ -7746,7 +7746,7 @@ msgstr "{0.1f} soicind"
 
 msgctxt "#13554"
 msgid "{0:d} Minute"
-msgstr "{0:d} nóiméad"
+msgstr "{0:d} móiméad"
 
 msgctxt "#13555"
 msgid "{0:d} Minutes"
@@ -7841,11 +7841,11 @@ msgstr "Liosta sruthanna parsála..."
 
 msgctxt "#14006"
 msgid "Downloading streams list failed"
-msgstr "Theip ar liosta sruthanna a íos"
+msgstr "Theip ar íosluchtú an liosta sruthanna"
 
 msgctxt "#14007"
 msgid "Downloading playlist file failed"
-msgstr "Theip ar íoslódáil comhad seinmli"
+msgstr "Theip ar íosluchtú an chomhaid seinmliosta"
 
 #empty string with id 14008
 msgctxt "#14009"
@@ -8004,7 +8004,7 @@ msgstr "{0:d} nóim"
 #: system/settings/settings.xml
 msgctxt "#14045"
 msgid "{0:d} sec"
-msgstr "{0:d} soicind"
+msgstr "{0:d} soic"
 
 #: system/settings/darwin.xml
 #: system/settings/settings.xml
@@ -8087,7 +8087,7 @@ msgstr "Iontráil ainm úsáideora"
 
 msgctxt "#14063"
 msgid "Date & time"
-msgstr ""
+msgstr "Dáta agus am"
 
 msgctxt "#14064"
 msgid "Set date"
@@ -8219,7 +8219,7 @@ msgstr "Sábháil cumhachta"
 #: system/settings/settings.xml
 msgctxt "#14096"
 msgid "Rip"
-msgstr "Rip"
+msgstr "Rois"
 
 #: system/settings/settings.xml
 msgctxt "#14097"
@@ -8433,12 +8433,12 @@ msgstr "Socruithe leabharlainne"
 #: system/settings/settings.xml
 msgctxt "#14204"
 msgid "PVR & Live TV"
-msgstr ""
+msgstr "PVR agus Teilifíse Beo"
 
 #: system/settings/settings.xml
 msgctxt "#14205"
 msgid "PVR & Live TV settings"
-msgstr ""
+msgstr "Socruithe PVR agus Teilifíse Beo"
 
 #: system/settings/settings.xml
 msgctxt "#14206"
@@ -8586,7 +8586,7 @@ msgstr "Leabharlann Ceoil"
 #: system/settings/settings.xml
 msgctxt "#14240"
 msgid "Lists & Views"
-msgstr ""
+msgstr "Liostaí agus Radhairc"
 
 #: system/settings/settings.xml
 msgctxt "#14241"
@@ -8818,14 +8818,14 @@ msgstr "Bunachar Sonraí"
 #: xbmc/music/windows/MusicFileItemListModifier.cpp
 msgctxt "#15102"
 msgid "* All albums"
-msgstr "* Gach albam"
+msgstr "* Gach albaim"
 
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNode.cpp
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNodeArtist.cpp
 #: xbmc/music/windows/MusicFileItemListModifier.cpp
 msgctxt "#15103"
 msgid "* All artists"
-msgstr "* Gach ealaíontóir"
+msgstr "* Gach ealaíontóirí"
 
 #: xbmc/filesystem/MusicDatabaseDirectory/DirectoryNode.cpp
 msgctxt "#15104"
@@ -12177,7 +12177,7 @@ msgstr "Gluaisteán"
 #: xbmc/pvr/epg/Epg.cpp
 msgctxt "#19648"
 msgid "Fitness & health"
-msgstr ""
+msgstr "Folláine agus sláinte"
 
 #. label for "leisure/hobbies" epg subgenre value
 #: xbmc/pvr/epg/Epg.cpp
@@ -12215,7 +12215,7 @@ msgstr "Teanga bhunaidh"
 #: xbmc/pvr/epg/Epg.cpp
 msgctxt "#19662"
 msgid "Black & white"
-msgstr ""
+msgstr "Dubh agus bán"
 
 #. label for "special characteristics" epg subgenre value
 #: xbmc/pvr/epg/Epg.cpp
@@ -12401,7 +12401,7 @@ msgstr "Seinnliostaí físeáin"
 
 msgctxt "#20013"
 msgid "Do you wish to launch the game?"
-msgstr "Ar mhaith leat an cluiche a sheoladh?"
+msgstr "Ar mhaith leat an cluiche a lainseáil?"
 
 msgctxt "#20014"
 msgid "Sort by: Playlist"
@@ -12507,7 +12507,7 @@ msgstr "Fuinneog pictiúir glas"
 
 msgctxt "#20041"
 msgid "Lock programs & scripts windows"
-msgstr ""
+msgstr "Glasáil cláir agus fuinneoga scripteanna"
 
 msgctxt "#20042"
 msgid "Lock file manager"
@@ -12580,7 +12580,7 @@ msgstr "Cuir próifíl leis..."
 #. Context menu entry
 msgctxt "#20059"
 msgid "Query info for all albums"
-msgstr "Fiosraigh faisnéis do gach albam"
+msgstr "Fiosraigh faisnéis do gach albaim"
 
 #: addons/skin.estuary/xml/Variables.xml
 msgctxt "#20060"
@@ -13135,7 +13135,7 @@ msgstr "Nuashonruithe leabharlainne"
 #: addons/skin.estuary/xml/SkinSettings.xml
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
-msgstr ""
+msgstr "Cumasaigh uathscrollú le haghaidh plota agus athbhreithniú"
 
 msgctxt "#20190"
 msgid "Custom"
@@ -13198,7 +13198,7 @@ msgstr "Is fearr faisnéis ar líne"
 #: system/settings/settings.xml
 msgctxt "#20221"
 msgid "With this enabled, any information that is downloaded for albums and artists will override anything you have set in your song tags, such as genres, year, song artists etc. Useful if you have MusicBrainz identifiers in your song tags."
-msgstr "Agus é seo cumasaithe, cuirfidh aon fhaisnéis a íoslódáltar d'albam agus ealaíontóirí aon rud atá socraithe agat i do chlibeanna amhrán, mar shampla seánraí, bliain, ealaíontóirí amhrán srl. Úsáideach má tá aitheantóirí MusicBrainz agat i do chlibeanna amhrán."
+msgstr "Agus é seo cumasaithe, cuirfidh aon fhaisnéis a íoslódáltar d'albaim agus ealaíontóirí aon rud atá socraithe agat i do chlibeanna amhrán, mar shampla seánraí, bliain, ealaíontóirí amhrán srl. Úsáideach má tá aitheantóirí MusicBrainz agat i do chlibeanna amhrán."
 
 #: system/settings/settings.xml
 msgctxt "#20222"
@@ -13406,7 +13406,7 @@ msgstr "Ealaíontóirí ag scanadh ag baint úsáide as {0:s}"
 #: xbmc/music/infoscanner/MusicInfoScanner.cpp
 msgctxt "#20321"
 msgid "Scanning albums using {0:s}"
-msgstr "Scanadh albam ag baint úsáide as {0:s}"
+msgstr "Scanadh albaim ag baint úsáide as {0:s}"
 
 #: xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20322"
@@ -13810,7 +13810,7 @@ msgstr "Measctha"
 
 msgctxt "#20396"
 msgid "Go to albums by artist"
-msgstr "Téigh chuig albam ag ealaíontóir"
+msgstr "Téigh chuig albaim ag ealaíontóir"
 
 msgctxt "#20397"
 msgid "Go to album"
@@ -13889,7 +13889,7 @@ msgstr "Taispeáin fanart i leabharlanna físe agus ceoil"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
-msgstr "Scanadh le haghaidh ábhar nua"
+msgstr "Ag scanadh le haghaidh ábhar nua"
 
 #: xbmc/dialogs/GUIDialogMediaFilter.cpp
 #: xbmc/playlists/SmartPlaylist.cpp
@@ -14242,7 +14242,7 @@ msgstr "Ná riamh"
 #: xbmc/addons/GUIDialogAddonInfo.cpp
 msgctxt "#21338"
 msgid "Select version"
-msgstr "Roghnaigh leagan"
+msgstr "Togh leagan"
 
 #: xbmc/addons/GUIDialogAddonInfo.cpp
 msgctxt "#21339"
@@ -14339,7 +14339,7 @@ msgstr "Fillteán fotheidil saincheaptha"
 
 msgctxt "#21367"
 msgid "Movie & alternate subtitle directory"
-msgstr ""
+msgstr "Eolaire scannán agus fotheideal malartach"
 
 #: system/settings/settings.xml
 msgctxt "#21368"
@@ -14972,7 +14972,7 @@ msgstr "Trácht"
 #: addons/skin.estuary/xml/MyPics.xml
 msgctxt "#21807"
 msgid "Colour / B&W"
-msgstr ""
+msgstr "Dath / D&B"
 
 #: xbmc/pictures/GUIDialogPictureInfo.cpp
 #: addons/skin.estuary/xml/MyPics.xml
@@ -15285,7 +15285,7 @@ msgstr "Ceol sábháilte"
 
 msgctxt "#21884"
 msgid "Query info for all artists"
-msgstr "Fiosraigh faisnéis do gach ealaíontóir"
+msgstr "Fiosraigh faisnéis do gach ealaíontóirí"
 
 msgctxt "#21885"
 msgid "Downloading album information"
@@ -15293,7 +15293,7 @@ msgstr "Íoslódáil faisnéis albam"
 
 msgctxt "#21886"
 msgid "Downloading artist information"
-msgstr "Faisnéis ealaíontóirí"
+msgstr "Íosluchtaigh faisnéise faoi ealaíontóirí"
 
 #: xbmc/music/dialogs/GUIDialogMusicInfo.cpp
 #: xbmc/playlists/SmartPlaylist.cpp
@@ -15829,7 +15829,7 @@ msgstr "Suiteáil ó chomhad zip"
 #: xbmc/addons/GUIWindowAddonBrowser.cpp
 msgctxt "#24042"
 msgid "Downloading {0:d}%"
-msgstr "Íoslódáil {0:d}%"
+msgstr "{0:d} % á íosluchtú"
 
 #: xbmc/addons/GUIViewStateAddonBrowser.cpp
 #: xbmc/filesystem/AddonsDirectory.cpp
@@ -16539,7 +16539,7 @@ msgstr "Íosta: {0:s} {3:s}"
 #: xbmc/addons/gui/GUIDialogAddonInfo.cpp
 msgctxt "#24181"
 msgid "Minimum: {0:s} => Install: {2:s}{3:s}"
-msgstr ""
+msgstr "Íosmhéid: {0:s} => Suiteáil: {2:s}{3:s}"
 
 #. The minimum version, plus the currently installed version
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
@@ -16553,7 +16553,7 @@ msgstr "Íosta: {0: s}/Suiteáilte: {1:s} {3:s}"
 #: xbmc/addons/gui/GUIDialogAddonInfo.cpp
 msgctxt "#24183"
 msgid "Minimum: {0:s} / Installed: {1:s} => Update to: {2:s}{3:s}"
-msgstr ""
+msgstr "Íosmhéid: {0:s} / Suiteáilte: {1:s} => Nuashonrú go: {2:s}{3:s}"
 
 #. used in #24180 - #24183 as {3:s}
 #: xbmc/addons/gui/GUIDialogAddonInfo.cpp
@@ -17111,7 +17111,7 @@ msgstr "Ceol Snageoil"
 #: xbmc/cores/VideoPlayer/VideoPlayerRadioRDS.cpp
 msgctxt "#29965"
 msgid "Country Music"
-msgstr "Ceol Tíre"
+msgstr "Ceol tuaithe"
 
 #. Program style name
 #: xbmc/cores/VideoPlayer/VideoPlayerRadioRDS.cpp
@@ -17279,11 +17279,11 @@ msgstr "Íoslódáil"
 
 msgctxt "#33004"
 msgid "Download & play"
-msgstr ""
+msgstr "Íoslódáil agus a imirt"
 
 msgctxt "#33005"
 msgid "Download & save"
-msgstr ""
+msgstr "Íoslódáil agus a shábháil"
 
 msgctxt "#33006"
 msgid "Today"
@@ -17295,11 +17295,11 @@ msgstr "Amárach"
 
 msgctxt "#33008"
 msgid "Saving"
-msgstr "Sábháil"
+msgstr "Ag shábháil"
 
 msgctxt "#33009"
 msgid "Copying"
-msgstr "Cóipeáil"
+msgstr "Ag cóipeáil"
 
 msgctxt "#33010"
 msgid "Set download directory"
@@ -17383,7 +17383,7 @@ msgstr "Sonraí"
 
 msgctxt "#33030"
 msgid "Outlook"
-msgstr "Outlook"
+msgstr "Radharc"
 
 msgctxt "#33031"
 msgid "Coverflow"
@@ -17476,7 +17476,7 @@ msgstr "Éist le"
 #: Unknown
 msgctxt "#33058"
 msgid "View your"
-msgstr "Féach ar do"
+msgstr "Breathnaigh ar do"
 
 #: Unknown
 msgctxt "#33059"
@@ -18036,7 +18036,7 @@ msgstr "Braithíodh rialtóir nua"
 #: xbmc/input/joysticks/dialogs/GUIDialogNewJoystick.cpp
 msgctxt "#35012"
 msgid "A new controller has been detected. Configuration can be done at any time in \"Settings -> System Settings -> Input\". Would you like to configure it now?"
-msgstr ""
+msgstr "Tá rialtóir nua aimsithe. Is féidir cumraíocht a dhéanamh ag am ar bith i \"Socruithe -> Socruithe Córais -> Ionchur\". Ar mhaith leat é a chumrú anois?"
 
 #empty string with id 35013
 #. Help text of the button to fix the bug where buttons are skipped in the controller dialog. {0:s} - list of disabled buttons and axes
@@ -18206,7 +18206,7 @@ msgstr "Roth rásaíochta"
 #. Label for paddle buttons that appear on a racing wheel for games. Used in the controller mapping dialog.
 msgctxt "#35072"
 msgid "Paddles"
-msgstr "Paddles"
+msgstr "Paddlaí"
 
 #. Label for buttons that appear on a joystick for games. Used in the controller mapping dialog.
 msgctxt "#35073"
@@ -18687,7 +18687,7 @@ msgstr "Scagaire físe"
 #: addons/skin.estuary/xml/Custom_1101_SettingsList.xml
 msgctxt "#35226"
 msgid "Advanced settings"
-msgstr "Socruithe chun cinn"
+msgstr "Ardsocruithe"
 
 #. Label of button in the in-game menu for changing the video rotation
 #: addons/skin.estuary/xml/Custom_1101_SettingsList.xml
@@ -18815,7 +18815,7 @@ msgstr "Sábháilte"
 #: xbmc/games/dialogs/GUIDialogSelectSavestate.cpp
 msgctxt "#35260"
 msgid "Select savestate"
-msgstr "Roghnaigh Savestate"
+msgstr "Roghnaigh sábháil staid"
 
 #. Button for creating a new save state from the select savestate dialog
 #: xbmc/games/dialogs/GUIDialogSelectSavestate.cpp
@@ -19222,7 +19222,7 @@ msgstr "Úsáid 10 giotán le haghaidh SDR"
 #: system/settings/settings.xml
 msgctxt "#36099"
 msgid "Dithering"
-msgstr "Dithering"
+msgstr "Dithireacht"
 
 #: system/settings/settings.xml
 msgctxt "#36100"
@@ -19324,7 +19324,7 @@ msgstr "Roghnaigh na formáidí le haghaidh teocht, am agus dáta. Braitheann na
 #: system/settings/settings.xml
 msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
-msgstr ""
+msgstr "Roghnaigh an tacar carachtar a úsáidtear chun téacs a thaispeáint sa chomhéadan úsáideora. Ní athraíonn sé seo an tacar carachtar a úsáidtear le haghaidh fotheidil, chun é sin téigh go dtí Imreoir > Teanga."
 
 #empty strings from id 36117 to 36118
 #. Description of setting with label #285 "Preferred audio language"
@@ -19618,7 +19618,7 @@ msgstr "Roghnaigh cibé acu formáid 12 nó 24 uair an chloig a úsáid chun an 
 #: system/settings/settings.xml
 msgctxt "#36169"
 msgid "Select the quality of resampling for cases where the audio output needs to be at a different sampling rate from that used by the source.[CR][Low] Is fast and will have minimal impact on system resources such as the use of the CPU.[CR][Medium] & [High] Will use progressively more system resources."
-msgstr ""
+msgstr "Roghnaigh cáilíocht an athshamplála do chásanna ina gcaithfidh an t-aschur fuaime a bheith ag ráta samplála difriúil ón ráta a úsáideann an fhoinse.[CR][Íseal] Tá sé tapa agus beidh tionchar íosta aige ar acmhainní córais ar nós úsáid an LAP.[CR][Medium] & [Ard] Úsáidfear níos mó acmhainní córais de réir a chéile."
 
 #. Description of setting with label #22021 "Minimise black bars"
 #: system/settings/settings.xml
@@ -19749,7 +19749,7 @@ msgstr "Clónna fotheidil a shárú i bhformáidí fotheidil mar ASS/SSA."
 #: system/settings/settings.xml
 msgctxt "#36191"
 msgid "Set a custom directory for your subtitles. This can be a file share."
-msgstr "Socraigh eolaire saincheaptha do do fhotheidil. Is féidir leis seo a bheith ina scair comhad."
+msgstr "Socraigh eolaire saincheaptha le do fhotheidil. Is féidir leis seo a bheith ina scair comhad."
 
 #. Description of setting with label #21460 "Subtitle location on screen"
 #: system/settings/settings.xml
@@ -19761,7 +19761,7 @@ msgstr "Suíomh fotheidil ar an scáileán. [Bun an fhíseáin]/[Barr an fhíse�
 #: system/settings/settings.xml
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr ""
+msgstr "Tá na socruithe sa chatagóir seo don chaoi a láimhseáiltear DVDanna, Blu-ray, & CDanna."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 #: system/settings/settings.xml
@@ -19804,12 +19804,12 @@ msgstr "Roghnaigh an fhoinse faisnéise réamhshocraithe físeáin Féach bainis
 #: system/settings/settings.xml
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
-msgstr ""
+msgstr "Socruithe do PVR agus Teilifís Bheo."
 
 #: system/settings/settings.xml
 msgctxt "#36202"
 msgid "This category contains the general settings for the PVR & Live TV."
-msgstr ""
+msgstr "Sa chatagóir seo tá na socruithe ginearálta don PVR agus Live TV."
 
 #: system/settings/settings.xml
 msgctxt "#36203"
@@ -20064,7 +20064,7 @@ msgstr "Tá na socruithe do chúltaca PVR go sonrach sa chatagóir seo, má thac
 #: system/settings/settings.xml
 msgctxt "#36252"
 msgid "This option will bring you to any specific settings for your PVR backend, if supported by the PVR add-on and backend."
-msgstr "Tabharfaidh an rogha seo tú chuig aon socruithe sonracha do do chúltaca PVR, má thacaíonn an breiseán PVR agus an cúltaca."
+msgstr "Tabharfaidh an rogha seo tú chuig aon socruithe sonracha le do chúltaca PVR, má thacaíonn an breiseán PVR agus an cúltaca."
 
 #. Description of settings section with label #2 "Music"
 #: system/settings/settings.xml
@@ -20682,7 +20682,7 @@ msgstr "Sa chatagóir seo tá na socruithe maidir le conas a láimhseálfar an c
 #: system/settings/settings.xml
 msgctxt "#36357"
 msgid "Calibrate the user interface by adjusting the overscan. Use this tool if the image being displayed is too large or small for your display."
-msgstr "Déan an comhéadan úsáideora a chalabrú tríd an overscan a choigeartú. Úsáid an uirlis seo má tá an íomhá atá á thaispeáint ró-mhór nó beag do do thaispeáint."
+msgstr "Déan an comhéadan úsáideora a chalabrú tríd an overscan a choigeartú. Úsáid an uirlis seo má tá an íomhá atá á thaispeáint ró-mhór nó beag le do thaispeáint."
 
 #: system/settings/settings.xml
 msgctxt "#36358"
@@ -20705,7 +20705,7 @@ msgstr "Sa chatagóir seo tá na socruithe maidir le conas a láimhseálfar asch
 #: system/settings/settings.xml
 msgctxt "#36361"
 msgid "Select how the properties of the audio output are set: [Fixed] Output properties are set to the specified sampling rate & speaker configuration at all times; [Best Match] Output properties are set to always be as close a match to the source properties as possible; [Optimized] Output properties are set at the start of playback and will not change if the properties of the source change."
-msgstr ""
+msgstr "Roghnaigh conas a shocraítear airíonna an aschuir fuaime: [Seasta] Socraítear airíonna aschuir go dtí an ráta samplála sonraithe & cumraíocht an chainteora i gcónaí; [Meaitseáil is Fearr] Socraítear go mbeidh airíonna aschuir i gcónaí chomh gar agus is féidir d’airíonna an fhoinse; [Optamaithe] Socraítear airíonna aschuir ag tús athsheinm agus ní athróidh siad má athraíonn airíonna an fhoinse."
 
 #. Description of setting with label #34100 "Number of channels"
 #: system/settings/settings.xml
@@ -20853,7 +20853,7 @@ msgstr "Cumraigh an pasfhocal seachfhreastalaí."
 #: system/settings/settings.xml
 msgctxt "#36386"
 msgid "If your Internet connection has limited bandwidth available, use this setting to keep bandwidth usage by this application within defined limits."
-msgstr "Má tá bandaleithead teoranta ar fáil do do nasc Idirlín, bain úsáid as an socrú seo chun úsáid bandaleithead san fheidhmchlár seo a choinneáil laistigh de theorainneacha sainithe."
+msgstr "Má tá bandaleithead teoranta ar fáil le do nasc Idirlín, bain úsáid as an socrú seo chun úsáid bandaleithead san fheidhmchlár seo a choinneáil laistigh de theorainneacha sainithe."
 
 #. Description of settings category with label #14095 "Power saving"
 #: system/settings/settings.xml
@@ -21374,7 +21374,7 @@ msgstr "Modh 3D steiréascópach a chur ar ais (súile flip)"
 #: system/settings/settings.xml
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
-msgstr ""
+msgstr "Roghnaigh cén modh a sheinnfear físeáin 3D steiréascópacha.[CR][Fiafraigh díom] Taispeánfar dialóg chun an mód atá uait a roghnú do gach athsheinm.[CR][Mód roghnaithe] Úsáidfear an modh roghnaithe atá sonraithe sa roinn \"Córas -> Crua-earraí físe\" de na socruithe.[CR][Monascópach / 2D] Seinnfear an físeán i monaiscópach / 2D.[CR][Déan neamhaird de] Díchumasaigh aon phróiseáil agus láimhseáil steiréascópach 3D.[CR][Déan neamhaird] Díchumasaítear aon phróiseáil agus láimhseáil steiréascópach 3D."
 
 #. Description of setting with label #36526 Disable stereoscopic mode when playback is stopped
 #: system/settings/settings.xml
@@ -21534,12 +21534,12 @@ msgstr "Próifíl taispeáin ICC"
 #: system/settings/settings.xml
 msgctxt "#36567"
 msgid "By providing a display profile, you can modify video parameters such as gamma, color primaries and whitepoint during playback. An ICC source profile is created based on the parameters and linked with the display ICC profile set here. This support is experimental and lacks near black adjustment towards display native black (causing raised black level) and white level scaling when a different whitepoint from display native is selected (as a workaround, adjust video brightness down to avoid clipping)."
-msgstr "Trí phróifíl taispeána a sholáthar, is féidir leat paraiméadair físe mar gama, bunscoileanna datha agus pointe bán a mhodhnú le linn athsheinm Cruthaítear próifíl foinse ICC bunaithe ar na paraiméadair agus nasctha leis an bpróifíl taispeána ICC atá socraithe Tá an tacaíocht seo turgnamhach agus níl coigeartú gar dubh ann i dtreo dubh dúchasach taispeána (is cúis le leibhéal dubh ardaithe) agus scálú leibhéal bán nuair a roghnaítear pointe bán difriúil ó dhúchasach taispeána (mar réiteach, coigeartaigh gile físe síos chun gearradh a sheachaint)"
+msgstr "Trí phróifíl taispeána a sholáthar, is féidir leat paraiméadair físeáin a mhodhnú cosúil le gáma, bunscoileanna datha agus pointe bán le linn athsheinm. Cruthaítear próifíl foinse ICC bunaithe ar na paraiméadair agus nasctha leis an bpróifíl taispeána ICC atá leagtha síos anseo. Tá an tacaíocht seo turgnamhach agus níl coigeartú gar dubh i dtreo taispeáint dhúchasach dubh (is cúis le leibhéal dubh ardaithe) agus scálú leibhéal bán nuair a roghnaítear pointe bán difriúil ón taispeáint dhúchasach (mar réiteach oibre, coigeartaigh gile físeáin síos chun bearradh a sheachaint)."
 
 #: system/settings/settings.xml
 msgctxt "#36568"
 msgid "Whitepoint"
-msgstr "Whitepoint"
+msgstr "Pointe bán"
 
 #. Description of setting "System -> Video output -> Whitepoint" with label #36568
 #: system/settings/settings.xml
@@ -21631,7 +21631,7 @@ msgstr "Fritháireamh aschur"
 
 msgctxt "#36585"
 msgid "Absolute"
-msgstr "Iomlán"
+msgstr "Absalóideach"
 
 #. whitepoint labels
 #: xbmc/video/dialogs/GUIDialogCMSSettings.cpp
@@ -21804,7 +21804,7 @@ msgstr "Ar mhaithe le slándáil, tá suiteáil breiseán ó fhoinsí anaithnid 
 #: xbmc/addons/AddonSystemSettings.cpp
 msgctxt "#36618"
 msgid "Add-ons will be given access to personal data stored on this device. By allowing, you agree that you are solely responsible for any loss of data, unwanted behaviour, or damage to your device. Proceed?"
-msgstr "Tabharfar rochtain ar bhreiseáin ar shonraí pearsanta atá stóráilte ar an bhfeiste seo. Trí cheadú, aontaíonn tú go bhfuil tú freagrach amháin as aon chaillteanas sonraí, iompar nach dteastaíonn, nó damáiste do do ghléas. Ar aghaidh?"
+msgstr "Tabharfar rochtain ar bhreiseáin ar shonraí pearsanta atá stóráilte ar an bhfeiste seo. Trí cheadú, aontaíonn tú go bhfuil tú freagrach amháin as aon chaillteanas sonraí, iompar nach dteastaíonn, nó damáiste le do ghléas. Ar aghaidh?"
 
 #. Label of a setting, allow the user to specify high quality downscaling of pictures
 #: system/settings/settings.xml
@@ -21871,7 +21871,7 @@ msgstr "Leagan prótacail íosta"
 #: system/settings/settings.xml
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Socraigh an leagan prótacail SMB íosta chun dul i mbun caibidlíochta agus naisc á ndéanamh. D’fhéadfadh go mbeadh gá le foréigean SMBv2 chun úsáid SMBv1 ar roinnt córas a chosc. Ní thacaíonn ach SMBv2.1 agus SMBv3 le MTU Móra (méid smuide > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 #: system/settings/settings.xml
@@ -21997,7 +21997,7 @@ msgstr "eipeasóid"
 #: xbmc/media/MediaType.cpp
 msgctxt "#36907"
 msgid "episodes"
-msgstr "eipeasóid"
+msgstr "eipeasóidí"
 
 #: xbmc/media/MediaType.cpp
 msgctxt "#36908"
@@ -22017,7 +22017,7 @@ msgstr "tacar"
 #: xbmc/media/MediaType.cpp
 msgctxt "#36911"
 msgid "sets"
-msgstr "tacar"
+msgstr "tacair"
 
 #: xbmc/media/MediaType.cpp
 msgctxt "#36912"
@@ -22047,7 +22047,7 @@ msgstr "ealaíontóir"
 #: xbmc/media/MediaType.cpp
 msgctxt "#36917"
 msgid "artists"
-msgstr "healaíontóirí"
+msgstr "ealaíontóirí"
 
 #: xbmc/media/MediaType.cpp
 #: xbmc/video/dialogs/GUIDialogVideoInfo.cpp
@@ -22058,7 +22058,7 @@ msgstr "albam"
 #: xbmc/media/MediaType.cpp
 msgctxt "#36919"
 msgid "albums"
-msgstr "albam"
+msgstr "albaim"
 
 #: xbmc/media/MediaType.cpp
 msgctxt "#36920"
@@ -22466,7 +22466,7 @@ msgstr "{0:d} soicind"
 #: xbmc/settings/PlayerSettings.cpp
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr "{0:d} soicind"
+msgstr "{0:d} soicindí"
 
 #. Setting "Audio/video queue time"
 #: system/settings/settings.xml
@@ -22503,7 +22503,7 @@ msgstr "Taispeáin iontráil “Gach mír”"
 #: system/settings/settings.xml
 msgctxt "#38012"
 msgid "Show \"All items\" entry in directory, e.g. \"All albums\" or \"All seasons\"."
-msgstr "Taispeáin iontráil “Gach mír” san eolaire, m.sh. “Gach albam” nó “Gach séasúr”."
+msgstr "Taispeáin iontráil “Gach mír” san eolaire, m.sh. “Gach albaim” nó “Gach séasúr”."
 
 #. Label of a setting to limit the number of fps used for updating the GUI while playing videos. This is useful for slow systems that have problems rendering GUI and video at the same time in full speed.
 #: system/settings/settings.xml
@@ -22527,7 +22527,7 @@ msgstr "Neamhtheoranta"
 #: system/settings/settings.xml
 msgctxt "#38016"
 msgid "{0:d} fps"
-msgstr "{0:d} fps"
+msgstr "{0:d} fráma sa soicind"
 
 #. Description of setting #14111 "Blu-ray region code"
 #: system/settings/settings.xml
@@ -22633,7 +22633,7 @@ msgstr "Léiritheoir"
 #: Label of ListItem.Property(Role.DJMixer)
 msgctxt "#38040"
 msgid "DJMixer"
-msgstr "DJMixer"
+msgstr "DJ meascthóir"
 
 #. Mixer of the song (if present)
 #: Label of ListItem.Property(Role.Mixer)
@@ -22658,7 +22658,7 @@ msgstr "Ealaíontóirí album"
 #: system/library/music/musicroles/allartists.xml
 msgctxt "#38044"
 msgid "Song & album artists"
-msgstr ""
+msgstr "Ealaíontóirí amhrán agus albam"
 
 #. Title all contributors node (any role e.g. composer, piano, producer, engineer)
 #: system/library/music/musicroles/allcontributors.xml
@@ -22684,7 +22684,7 @@ msgstr "Ní mór do leabharlann ceoil clibeanna a athscanadh ó chomhaid. Ar mha
 #: xbmc/music/windows/GUIWindowMusicBase.cpp
 msgctxt "#38061"
 msgid "Fetch additional information for albums and artists? This could take some time so you may prefer to do this later"
-msgstr "Faigh faisnéis bhreise d'albam agus d'ealaíontóirí? D'fhéadfadh sé seo tamall a thógáil mar sin b'fhéidir gur fearr leat é seo a dhéanamh níos déanaí"
+msgstr "Faigh faisnéis bhreise d'albaim agus d'ealaíontóirí? D'fhéadfadh sé seo tamall a thógáil mar sin b'fhéidir gur fearr leat é seo a dhéanamh níos déanaí"
 
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 #: xbmc/music/windows/GUIWindowMusicBase.cpp
@@ -22720,7 +22720,7 @@ msgstr "Socraigh don albam seo"
 #: xbmc/music/dialogs/GUIDialogInfoProviderSettings.cpp
 msgctxt "#38067"
 msgid "Set for all albums shown"
-msgstr "Socraigh do gach albam a thaispeántar"
+msgstr "Socraigh do gach albaim a thaispeántar"
 
 #. Dialog message asking for confirmation of change the information provider for all artists shown in node, after #38065
 #: xbmc/music/windows/GUIWindowMusicNav.cpp
@@ -22738,13 +22738,13 @@ msgstr "Úsáid an soláthraí faisnéise seo do na halbaim go léir a thaispeá
 #: xbmc/music/windows/GUIWindowMusicNav.cpp
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr "Úsáid an soláthraí faisnéise seo do gach ealaíontóir, ag glanadh aon socruithe roimhe seo le haghaidh ealaíontóirí ar leith?"
+msgstr "Úsáid an soláthraí faisnéise seo do gach ealaíontóirí, ag glanadh aon socruithe roimhe seo le haghaidh ealaíontóirí ar leith?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 #: xbmc/music/windows/GUIWindowMusicNav.cpp
 msgctxt "#38071"
 msgid "Use this information provider for all albums, clearing any previous settings for specific albums?"
-msgstr "Úsáid an soláthraí faisnéise seo do gach albam, ag glanadh aon socruithe roimhe seo d'albam ar leith?"
+msgstr "Úsáid an soláthraí faisnéise seo do gach albaim, ag glanadh aon socruithe roimhe seo d'albam ar leith?"
 
 #. Dialog message asking for confirmation to get additional info for all the artists or albums in the node immediately
 #: xbmc/music/windows/GUIWindowMusicNav.cpp
@@ -22904,7 +22904,7 @@ msgstr "Téigh go huathoibríoch go huathoibríoch chuig an bhfuinneog amhairc"
 #: system/settings/settings.xml
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr "Sa chatagóir seo tá na socruithe chun cinn le haghaidh athsheinm físe"
+msgstr "Tá na ardsocruithe le haghaidh athsheinm físe sa chatagóir seo"
 
 #empty strings from id 38114 to 38189
 msgctxt "#38190"
@@ -23003,7 +23003,7 @@ msgstr "Athscríobh comhaid atá ann cheana"
 #: xbmc/settings/dialogs/GUIDialogLibExportSettings.cpp
 msgctxt "#38312"
 msgid "Song artists"
-msgstr "Ealaíonta amhrán"
+msgstr "Ealaíontóirí amhrán"
 
 #. Music item to export output, see #38306
 #: xbmc/settings/dialogs/GUIDialogLibExportSettings.cpp
@@ -23046,13 +23046,13 @@ msgstr "Fillteáin ealaíontó"
 #: xbmc/settings/dialogs/GUIDialogLibExportSettings.cpp
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr "Ealaíontóirí a onnmhairiú chuig Fillteán Ealaíontóirí"
+msgstr "Rinne ealaíontóirí easpórtáil chuig an bhFillteán Faisnéise d’Ealaíontóirí agus albaim chuig fillteáin ceoil"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 #: xbmc/settings/dialogs/GUIDialogLibExportSettings.cpp
 msgctxt "#38323"
 msgid "Albums exported to music folders"
-msgstr "Albaim a onnmhairiú chuig fil"
+msgstr "Albaim easpórtáilte chuig fillteáin cheoil"
 
 #. Explanation of what export to library folders means see #38303 when only artists selected
 #: xbmc/settings/dialogs/GUIDialogLibExportSettings.cpp
@@ -23499,7 +23499,7 @@ msgstr "Úsáid an chéad cheann de gach cineál ealaíne den ealaín iargúlta 
 #: system/settings/settings.xml
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr "Liosta bán de chineálacha ealaíne ealaíne"
+msgstr "Liosta bán de na cineálacha ealaíne ealaíontóirí"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 #: system/settings/settings.xml
@@ -23897,7 +23897,7 @@ msgstr "Athraíonn sé an sraith giotán físe chun meiteashonraí dinimiciúla 
 #: system/settings/settings.xml
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr "Dolby Vision"
+msgstr "Fís Dolby"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 #: system/settings/settings.xml
@@ -23974,7 +23974,7 @@ msgstr "Ní thacaítear le hoibriú"
 #: xbmc/video/dialogs/GUIDialogVideoManagerVersions.cpp
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr "Tá go leor leaganacha ag an scannán roghnaithe, rud a chuireann cosc ar a thiontú ina leagan de scannán eile. Bain na leaganacha ón scannán, athscanadh an libray agus iad a thiontú ina n-aonar."
+msgstr "Tá leaganacha iolracha ag an scannán roghnaithe, rud a choscann é a thiontú ina leagan de scannán eile. Bain na leaganacha den scannán, athscan an leabharlann agus déan iad a thiontú ina n-aonar."
 
 #. Warning dialog text
 #: xbmc/video/dialogs/GUIDialogVideoManager.cpp
@@ -24202,7 +24202,7 @@ msgstr "Déan neamhaird ar leaganacha éagsúla fí"
 #: system/settings/settings.xml
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Roghnaigh gníomh scanóra do leaganacha éagsúla físe. [CR] [Cumasaithe] Cuir leaganacha éagsúla físe leis an leabharlann ar leithligh gan deimhniú. [CR] [Díchumasaithe] Pras chun leaganacha éagsúla físe a thiontú go leaganacha breise den bhunaidh."
+msgstr "Roghnaigh gníomh scanóra do leaganacha éagsúla físe. [CR][Cumasaithe] Cuir leaganacha éagsúla físe leis an leabharlann ar leithligh gan deimhniú. [CR] [Díchumasaithe] Pras chun leaganacha éagsúla físe a thiontú go leaganacha breise den bhunaidh."
 
 #. Ignore video extras settting
 #: system/settings/settings.xml
@@ -24226,7 +24226,7 @@ msgstr "Taispeáin físeáin le leaganacha éagsúla mar fhill"
 #: system/settings/settings.xml
 msgctxt "#40207"
 msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Nuair a bheidh sé cumasaithe, taispeánfar físeán le leaganacha iolracha mar fhillteán sa leabharlann físe. Is féidir an fillteán seo a oscailt ansin chun na leaganacha físe aonair a thaispeá Nuair atá díchumasaithe, cuirfear an gníomh rogha cumraithe i bhfeidhm."
+msgstr "Nuair a bheidh sé cumasaithe, taispeánfar físeán le leaganacha iolracha mar fhillteán sa leabharlann físeáin. Is féidir an fillteán seo a oscailt ansin chun na leaganacha aonair físeáin a thaispeáint. Nuair a bheidh sé díchumasaithe, cuirfear an gníomh roghnaithe cumraithe i bhfeidhm."
 
 #. Choose video version dialog title
 #: xbmc/video/guilib/VideoVersionHelper.cpp
