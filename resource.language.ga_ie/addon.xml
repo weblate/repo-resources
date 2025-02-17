@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="resource.language.ga_IE"
-  version="11.0.89"
+  version="11.0.90"
   name="Irish"
   provider-name="Team Kodi">
   <requires>
@@ -9,7 +9,7 @@
   </requires>
   <extension
     point="kodi.resource.language"
-    locale="ie_GA">
+    locale="ga_IE">
     <charsets>
       <gui>CP1252</gui>
       <subtitle>CP1252</subtitle>
