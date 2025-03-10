@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-10 19:57+0000\n"
+"PO-Revision-Date: 2025-03-07 01:19+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -9529,6 +9529,11 @@ msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "'{0:s}' 복사본"
 
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
+
 #. label for epg genre value
 msgctxt "#19499"
 msgid "Other / Unknown"
@@ -17790,7 +17795,7 @@ msgstr "최소 프로토콜 버전"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "연결할 때 사용할 최소 SMB 프로토콜 버전을 설정합니다. 시스템에서 SMBv1을 사용하지 않으려면 SMBv2를 적용해야 할 수 있습니다. SMBv2.1과 SMBv3만 큰 MTU(청크 크기 > 64KB)를 지원합니다."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17830,7 +17835,7 @@ msgstr "웹 서버 인증을 사용하기 전에, 먼저 비밀번호를 입력�
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 및 큰 MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19444,6 +19449,11 @@ msgstr "청각 장애인을 위해 CC 자막만 설정합니다"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "이 기능은 청각 장애인을 위한 CC 자막에 라벨이 표시됩니다. 이는 자막의 자동 선택에 영향을 미치며, 기본적으로 표시되지 않습니다."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-12-04 22:43+0000\n"
-"Last-Translator: Roman Miroshnychenko <romanvm@kodi.tv>\n"
+"PO-Revision-Date: 2025-02-25 16:13+0000\n"
+"Last-Translator: Patrik Špaňo <patrik.spano@gmail.com>\n"
 "Language-Team: Slovak <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sk_sk/>\n"
 "Language: sk_sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.10.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -9529,6 +9529,11 @@ msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr ""
 
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
+
 #. label for epg genre value
 msgctxt "#19499"
 msgid "Other / Unknown"
@@ -12503,11 +12508,11 @@ msgstr "{0:2.3f}s"
 
 msgctxt "#22004"
 msgid "Delayed by: {0:2.3f}s"
-msgstr "Oneskorené o: {0:2.3f}s"
+msgstr "Pozadu o: {0:2.3f}s"
 
 msgctxt "#22005"
 msgid "Ahead by: {0:2.3f}s"
-msgstr "Vpredu o: {0:2.3f}s"
+msgstr "Popredu o: {0:2.3f}s"
 
 msgctxt "#22006"
 msgid "Subtitle offset"
@@ -19451,6 +19456,11 @@ msgstr ""
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr ""
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature

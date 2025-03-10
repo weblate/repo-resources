@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-28 07:45+0000\n"
-"Last-Translator: roliverosc <roliverosc@hotmail.com>\n"
+"PO-Revision-Date: 2025-02-25 16:13+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -9528,6 +9528,11 @@ msgstr "Duplicar"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Copia de '{0:s}'"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -19444,6 +19449,11 @@ msgstr "Ajustar subtítulos solo para discapacidad auditiva"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "Al activarlo, los subtítulos se etiquetarán para discapacidad auditiva; esto afecta a la selección automática de subtítulos, que si están etiquetados de otra manera no se mostrarían por defecto."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr "Subs"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

@@ -9531,6 +9531,11 @@ msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "'{0:s}' másolata"
 
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
+
 #. label for epg genre value
 msgctxt "#19499"
 msgid "Other / Unknown"
@@ -19448,6 +19453,11 @@ msgstr "Csak hallássérültek számára, állíts be CC-feliratot"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "Engedélyezésével a CC feliratok hallássérültek számára lesznek felcímkézve; ez hatással lesz a feliratok automatikus kiválasztására, amely, hacsak másképp nincs megadva, alapértelmezés szerint nem jelenik meg."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
