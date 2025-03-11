@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-19 11:33+0000\n"
+"PO-Revision-Date: 2025-03-10 20:26+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -9530,6 +9530,11 @@ msgstr "Duplikuj"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Kopia '{0:s}'"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr "Usuń nagranie"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -19455,6 +19460,11 @@ msgstr "Ustaw napisy zamknięte tylko dla osób niedosłyszących"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "Po włączeniu tej opcji napisy zamknięte zostaną oznaczone jako przeznaczone dla osób niedosłyszących; wpłynie to na automatyczny wybór napisów, które, o ile nie określono inaczej, nie będą domyślnie wyświetlane."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

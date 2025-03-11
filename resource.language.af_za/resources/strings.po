@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-14 22:55+0000\n"
+"PO-Revision-Date: 2025-02-21 07:27+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/af_za/>\n"
 "Language: af_za\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -8865,7 +8865,7 @@ msgstr "Gids"
 #. unused?
 msgctxt "#19223"
 msgid "No PVR add-on could be enabled. Check your settings or the log for more information."
-msgstr "Geen PVR byvoegsel kon in staat gestel word. Gaan jou verstellings of die log na vir meer inligting."
+msgstr "Geen PVR byvoegsel kon in staat gestel word nie. Gaan jou instellings of die log na vir meer inligting."
 
 #. Notification text to announce that a recording was aborted
 msgctxt "#19224"
@@ -9530,6 +9530,11 @@ msgstr "Dupliseer"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Kopie van '{0:s}'"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -16832,7 +16837,7 @@ msgstr "Gebruik beperkte kleur bereik (16-235) in plaas van vol kleur bereik (0-
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
 msgid "This category contains the settings for how audio output is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe oudio uittree hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe oudio uittree hanteer word."
 
 #. Description of setting with label #337 "Output configuration"
 msgctxt "#36361"
@@ -16842,7 +16847,7 @@ msgstr "Kies hoe die eienskappe van die oudio uittree gestel word: [Vas] Uittree
 #. Description of setting with label #34100 "Number of channels"
 msgctxt "#36362"
 msgid "Select the number of channels supported by the audio connection, or the number of speakers if connected by analogue connections. This setting does not apply to passthrough audio. Note: S/PDIF supports 2.0 channels only but can still output multichannel audio using a format supported by passthrough."
-msgstr "Kies die hoeveelheid kanale ondersteun deur die oudio verbinding, of die hoeveelheid luidsprekers wanneer gekonnekteer met analoog verbindings. Hierdie verstelling is nie van toepassing op deurgee oudio. Nota: S/PDIF ondersteun slegs 2.0 kanale, maar kan nog steeds multikanaal oudio uitsit deur 'n formaat ondersteun deur deurgee."
+msgstr "Kies die hoeveelheid kanale ondersteun deur die oudio verbinding, of die hoeveelheid luidsprekers wanneer met analoog verbindings gekonnekteer is. Hierdie instelling is nie van toepassing op deurgee oudio. Nota: S/PDIF ondersteun slegs 2.0 kanale, maar kan nog steeds multikanaal oudio uitsit deur 'n formaat ondersteun deur deurgee."
 
 msgctxt "#36363"
 msgid "Boost AC3 streams that have been downmixed to 2 channels."
@@ -16900,7 +16905,7 @@ msgstr "Stel op hoe koppelvlak klanke hanteer word, soos kieslys navigasie en be
 #. Description of settings category with label #15087 "Input"
 msgctxt "#36374"
 msgid "This category contains the settings for how input devices are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe intree toestelle hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe intree toestelle hanteer word."
 
 #. Description of setting with label #35000 "Peripherals"
 msgctxt "#36375"
@@ -16925,7 +16930,7 @@ msgstr "Gebruik 'n speletjie beheerder om die koppelvlak te beheer."
 #. Description of settings category with label #798 Internet access
 msgctxt "#36379"
 msgid "This category contains the settings for how Internet access is handled. The default web interface can also be selected here."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe Internet toegang hanteer word. Die verstek web koppelvlak kan ook hier gekies word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe Internet toegang hanteer word. Die verstek web koppelvlak kan ook hier gekies word."
 
 #. Description of setting with label #708 "Use proxy server"
 msgctxt "#36380"
@@ -16960,12 +16965,12 @@ msgstr "Stel die instaan bediener wagwoord op."
 #. Description of setting with label #14041 "Internet connection bandwidth limitation"
 msgctxt "#36386"
 msgid "If your Internet connection has limited bandwidth available, use this setting to keep bandwidth usage by this application within defined limits."
-msgstr "As jou Internet verbinding beperkte bandwydte beskikbaar het, gebruik hierdie verstelling om bandwydte gebruik van hierdie program binne bepaalde perke te hou."
+msgstr "As jou Internet verbinding beperkte bandwydte beskikbaar het, gebruik hierdie instelling om bandwydte gebruik van hierdie program binne bepaalde perke te hou."
 
 #. Description of settings category with label #14095 "Power saving"
 msgctxt "#36387"
 msgid "This category contains the settings for power saving."
-msgstr "Hierdie kategorie bevat die verstellings vir krag besparing."
+msgstr "Hierdie kategorie bevat die instellings vir krag besparing."
 
 #. Description of setting with label #1450 "Put display to sleep when idle"
 msgctxt "#36388"
@@ -16985,7 +16990,7 @@ msgstr "Definieer watter aksie om uit te voer wanneer die afskakel funksie tydho
 #. Description of settings category with label #14092 "Logging"
 msgctxt "#36391"
 msgid "This category contains the settings for enabling event and debug logging. You can also enable component-specific debug logging in order to help troubleshoot related issues in more detail."
-msgstr "Hierdie kategorie bevat die verstellings vir die in staat stel van gebeurtenis en ontfout loghouding. Jy kan ook komponent-spesifieke ontfout loghouding in staat stel om te help om relevante probleme in meer detail na te gaan."
+msgstr "Hierdie kategorie bevat die instellings vir die in staat stel van gebeurtenis en ontfout loghouding. Jy kan ook komponent-spesifieke ontfout loghouding in staat stel om te help om relevante probleme in meer detail na te gaan."
 
 #. Description of setting with label #20191 "Enable debug logging"
 msgctxt "#36392"
@@ -17005,7 +17010,7 @@ msgstr "Stel breedvoerige boodskappe van addisionele biblioteke in staat om in d
 #. Description of settings category with label #12360 "Master lock"
 msgctxt "#36395"
 msgid "This category contains the settings for how the master lock function is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die meester slot funksie hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die meester slot funksie hanteer word."
 
 #. Description of setting with label #20100 "Master lock code and settings"
 msgctxt "#36396"
@@ -17025,7 +17030,7 @@ msgstr "Definieer die maksimum hoeveelheid herprobere voor hierdie program toema
 #. Description of settings category with label #439 "Cache"
 msgctxt "#36399"
 msgid "This category contains the settings for how the cache function is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die kas funksie hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die kas funksie hanteer word."
 
 #. Description of settings category with label #14025 "Video/Audio/DVD cache - Hard disk"
 msgctxt "#36400"
@@ -17361,7 +17366,7 @@ msgstr "Selfde as fliek"
 #. Description of setting with label #346 "Normalize levels on downmix"
 msgctxt "#36533"
 msgid "Select how audio is downmixed, e.g. from 5.1 to 2.0.[CR][Enabled] Maintains volume level of the original audio source however the dynamic range is compressed.[CR][Disabled] Maintains the dynamic range of the original audio source when downmixed however volume will be lower. Note: Dynamic range is the difference between the quietest and loudest sounds in an audio source. Enable this setting if movie dialogues are barely audible."
-msgstr "Kies hoe oudio afgemeng word, bv. van 5.1 na 2.0.[CR][Geaktiveer] Behou volume vlak van die oorspronklike oudio bron, hoe die dinamiese bereik ook al saamgepers word.[CR][Gedeaktiveer] Behou die dinamiese bereik van die oorspronklike oudio bron wanneer afgemeng, volume sal egter laer wees. Nota: Dinamiese bereik is die verskil tussen die sagste en hardste klanke in 'n oudio bron. Stel hierdie verstelling in staat as fliek dialoog skaars hoorbaar is."
+msgstr "Kies hoe oudio afgemeng word, bv. van 5.1 na 2.0.[CR][Geaktiveer] Behou volume vlak van die oorspronklike oudio bron, hoe die dinamiese bereik ook al saamgepers word.[CR][Gedeaktiveer] Behou die dinamiese bereik van die oorspronklike oudio bron wanneer afgemeng, volume sal egter laer wees. Nota: Dinamiese bereik is die verskil tussen die sagste en hardste klanke in 'n oudio bron. Stel hierdie instelling in staat as fliek dialoog skaars hoorbaar is."
 
 #. Description of setting with label #668 "Component-specific logging..."
 msgctxt "#36534"
@@ -17381,7 +17386,7 @@ msgstr "Keer stereoskopiese 3D modus om (draai oë om)"
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
-msgstr "Kies in watter stereoskopiese 3D modus video's gespeel sal word.[CR][Vra my] Sal 'n dialoog wys om die gewenste modus vir elke terugspeel te kies.[CR][Verkose modus] Sal die verkose modus gebruik wat in die \"Stelsel -> Video hardeware\" seksie van die verstellings gespesifiseer is.[CR][Monoskopies / 2D] Sal die video in mono / 2D speel.[CR][Ignoreer] Deaktiveer enige stereoskopiese 3D verwerking en hantering."
+msgstr "Kies in watter stereoskopiese 3D modus video's gespeel sal word.[CR][Vra my] Sal 'n dialoog wys om die gewenste modus vir elke terugspeel te kies.[CR][Verkose modus] Sal die verkose modus gebruik wat in die \"Stelsel -> Video hardeware\" seksie van die instellings gespesifiseer is.[CR][Monoskopies / 2D] Sal die video in mono / 2D speel.[CR][Ignoreer] Deaktiveer enige stereoskopiese 3D verwerking en hantering."
 
 #. Description of setting with label #36526 Disable stereoscopic mode when playback is stopped
 msgctxt "#36538"
@@ -17493,7 +17498,7 @@ msgstr "Kleur bestuur modus"
 #. Description of setting "System -> Video output -> Colour management mode" with label #36562
 msgctxt "#36563"
 msgid "Use a precalculated 3D lookup table for video colour correction, or calculate the transformation for each video from a profile of your display. A precalculated 3D lookup table is preferred as it allows you to take advantage of the advanced features and high precision in ArgyllCMS. Display profile based correction is useful for testing different parameters, or emulating display settings that you don't have a 3D LUT prepared for."
-msgstr "Gebruik 'n vooraf berekende 3D opsoek tabel vir video kleur korreksie, of bereken die transformasie vir elke video vanaf 'n profiel van jou vertoon. 'n Vooraf berekende 3D opsoek tabel word verkies aangesien dit jou toelaat om van die gevorderde funksies en hoë presisie in ArgyllCMS gebruik te maak. Vertoon profiel gebasseerde korreksie is handig om verskillende parameters te toets, of vertoon verstellings te emuleer wat jy nie 'n 3D LUT vir voorberei het nie."
+msgstr "Gebruik 'n vooraf berekende 3D opsoek tabel vir video kleur korreksie, of bereken die transformasie vir elke video vanaf 'n profiel van jou vertoon. 'n Vooraf berekende 3D opsoek tabel word verkies aangesien dit jou toelaat om van die gevorderde funksies en hoë presisie in ArgyllCMS gebruik te maak. Vertoon profiel gebasseerde korreksie is handig om verskillende parameters te toets, of vertoon instellings te emuleer wat jy nie 'n 3D LUT vir voorberei het nie."
 
 msgctxt "#36564"
 msgid "3D LUT"
@@ -17520,7 +17525,7 @@ msgstr "Witpunt"
 #. Description of setting "System -> Video output -> Whitepoint" with label #36568
 msgctxt "#36569"
 msgid "Changing video whitepoint to D93 is mainly useful for older Japanese NTSC material which looks too red when played back on a D65 display. Adjust video brightness setting down to avoid clipping to display native whitepoint."
-msgstr "Verandering van video witpunt na D93 is hoofsaaklik handig vir ouer Japanese NTSC materiaal wat te rooi lyk wanneer terug gespeel word op 'n D65 vertoon. Verstel video helderheid verstelling af om knip na vertoon se eie witpunt te vermy."
+msgstr "Verandering van video witpunt na D93 is hoofsaaklik handig vir ouer Japanese NTSC materiaal wat te rooi lyk wanneer terug gespeel word op 'n D65 vertoon. Verstel video helderheid instelling laer om knip na vertoon se eie witpunt te vermy."
 
 msgctxt "#36570"
 msgid "Primaries"
@@ -17538,7 +17543,7 @@ msgstr "Gamma modus"
 #. Description of setting "System -> Video output -> Gamma mode" with label #36572
 msgctxt "#36573"
 msgid "Select the gamma curve formula. Use BT.1886 for gamma curve that accounts for display black and white levels and avoids perceptual clipping. Use input offset for a similar curve with a manually specified effective gamma. Output offset allows for perceptual clipping, but can be used to compensate for incorrect mastering monitor settings that lead to too bright dark details. Absolute gamma does not account for display black at all and will clip the lowest levels to display black on any display with higher than zero black level."
-msgstr "Selekteer die gamma kurwe formule. Gebruik BT.1886 vir gamma kurwe wat voorsiening maak vir vertoon swart en wit vlakke en waarneembare knip vermy. Gebruik intree afset vir 'n soortgelyke kurwe met 'n handmatige gespesifiseerde effektiewe gamma. Uittree afset laat toe vir waarneembare knip, maar kan gebruik word om te kompenseer vir inkorrekte meestering monitor verstellings wat lei tot te helder donker besonderhede. Absolute gamma maak glad nie voorsiening vir vertoon swart nie en sal die laagste vlakke knip om swart op enige vertoon met hoër as nul swart vlak te vertoon."
+msgstr "Selekteer die gamma kurwe formule. Gebruik BT.1886 vir gamma kurwe wat voorsiening maak vir vertoon swart en wit vlakke en waarneembare knip vermy. Gebruik intree afset vir 'n soortgelyke kurwe met 'n handmatige gespesifiseerde effektiewe gamma. Uittree afset laat toe vir waarneembare knip, maar kan gebruik word om te kompenseer vir inkorrekte meestering monitor instellings wat lei tot te helder donker besonderhede. Absolute gamma maak glad nie voorsiening vir vertoon swart nie en sal die laagste vlakke knip om swart op enige vertoon met hoër as nul swart vlak te vertoon."
 
 msgctxt "#36574"
 msgid "Gamma"
@@ -17561,7 +17566,7 @@ msgstr "Spesifiseer die resolusie vir die 3D opsoek tabel. Gebruik 'n laer resol
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr "Verbeter video kwaliteit deur 10-bis video oppervlakke vir Standard Dynamic Range (SDR) video te gebruik. [CR][Outo speur] Stel 10 bis vir SDR in staat net as die gekonnekteerde vertoon HDR ondersteun.[CR][Altyd] Stel 10 bis vir SDR in staat al ondersteun die gekonnekteerde vertoon nie HDR.[CR][Nooit] Gebruik nie 10 bis vir SDR.[CR]HDR deurgee modus gebruik altyd 10-bis, ongeag van hierdie verstelling."
+msgstr "Verbeter video kwaliteit deur 10-bis video oppervlakke vir Standard Dynamic Range (SDR) video te gebruik. [CR][Outo speur] Stel 10 bis vir SDR in staat net as die gekonnekteerde vertoon HDR ondersteun.[CR][Altyd] Stel 10 bis vir SDR in staat al ondersteun die gekonnekteerde vertoon nie HDR.[CR][Nooit] Gebruik nie 10 bis vir SDR.[CR]HDR deurgee modus gebruik altyd 10-bis, ongeag van hierdie instelling."
 
 #. primaries labels
 msgctxt "#36579"
@@ -17654,27 +17659,27 @@ msgstr "Elimineer banding veroorsaak deur RGB vlak omskakeling of ander verwerki
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Video versagtings uittree presisie in bisse. Gebruik die hoogste verstelling wat nie banding wys nie. Die verstek van 8 word aanbeveel vir meeste stelsels. As jou GPU gestel is om die uittree RGB vlakke te skaleer of jy gebruik 'n skootrekenaar, mag 'n verstelling van 7 of 6 meer banding elimineer. Laer verstellings is beskikbaar slegs vir toets doeleindes om dit maklik te maak om te sien of versagting toegepas word en dat die versagtings geraas pieksel grootte die vertoon resolusie pas."
+msgstr "Video versagtings uittree presisie in bisse. Gebruik die hoogste instelling wat nie banding wys nie. Die verstek van 8 word aanbeveel vir meeste stelsels. As jou GPU gestel is om die uittree RGB vlakke te skaleer of jy gebruik 'n skootrekenaar, mag 'n instelling van 7 of 6 meer banding elimineer. Laer instellings is beskikbaar slegs vir toets doeleindes om dit maklik te maak om te sien of versagting toegepas word en dat die versagtings geraas pieksel grootte die vertoon resolusie pas."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die musiek biblioteek hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die musiek biblioteek hanteer word."
 
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
 msgid "This category contains the settings for how music file lists are handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe musiek lêer lyste hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe musiek lêer lyste hanteer word."
 
 #. Description of settings category with label #1273 "AirPlay"
 msgctxt "#36602"
 msgid "This category contains the settings for how the AirPlay service is handled."
-msgstr "Hierdie kategorie bevat die verstellings vir hoe die AirPlay diens hanteer word."
+msgstr "Hierdie kategorie bevat die instellings vir hoe die AirPlay diens hanteer word."
 
 #. Description of settings category with label #14220 Display
 msgctxt "#36603"
 msgid "This category contains the settings for displays."
-msgstr "Hierdie kategorie bevat die verstellings vir vertone."
+msgstr "Hierdie kategorie bevat die instellings vir vertone."
 
 msgctxt "#36605"
 msgid "Updates"
@@ -17702,7 +17707,7 @@ msgstr "Vertoon kennisgewings"
 #. Description of settings category "Add-ons"
 msgctxt "#36610"
 msgid "This category contains settings for the add-on system."
-msgstr "Hierdie kategorie bevat verstellings vir die byvoegsel stelsel."
+msgstr "Hierdie kategorie bevat instellings vir die byvoegsel stelsel."
 
 #. Description of setting with label #36605 "Updates"
 msgctxt "#36611"
@@ -17797,7 +17802,7 @@ msgstr "Minimum protokol weergawe"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Stel die minimum SMB protokol weergawe om te onderhandel wanneer konneksies gemaak word. Forseer van SMBv2 mag vereis word om gebruik van SMBv1 te voorkom op sommige stelsels. Slegs SMBv2.1 en SMBv3 ondersteun Large MTU (stuk grootte > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17837,7 +17842,7 @@ msgstr "Jy moet eers 'n wagwoord intik voor web bediener waarmerking in staat ge
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 en Large MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -18008,7 +18013,7 @@ msgstr "Wil jy terugspeel stop op die afgeleë toestel?"
 
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
-msgstr "Stel oudio enkodeerder verstellings op soos kwaliteit en saampersings vlak"
+msgstr "Stel oudio enkodeerder instellings op soos kwaliteit en saampersings vlak"
 
 msgctxt "#37026"
 msgid "Auto"
@@ -18043,7 +18048,7 @@ msgstr "Toeganklikheid"
 #. Description of category #287 Subtitles
 msgctxt "#37033"
 msgid "This category contains the settings for subtitles"
-msgstr "Hierdie kategorie bevat die verstellings vir onderskrifte"
+msgstr "Hierdie kategorie bevat die instellings vir onderskrifte"
 
 #. Setting #37034 Accessibility
 msgctxt "#37034"
@@ -18172,7 +18177,7 @@ msgstr "Cacheberging"
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr "Hierdie kategorie bevat verstellings wat die cacheberging van lokale en netwerk lêers en internet strome opstel."
+msgstr "Hierdie kategorie bevat instellings wat die cacheberging van lokale en netwerk lêers en internet strome opstel."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
@@ -18192,7 +18197,7 @@ msgstr "Geheue Grootte"
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr "Die grootte van die geheue buffer in Mbytes. Verstelling zero (0) forseer buffering na skyf, wat nie aanbeveel word vir flash stoor toestelle nie (eMMC, SD kaarte, SSD)."
+msgstr "Die grootte van die geheue buffer in Mbytes. Stel na zero (0) forseer buffering na skyf, wat nie aanbeveel word vir flash stoor toestelle nie (eMMC, SD kaarte, SSD)."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
@@ -18490,12 +18495,12 @@ msgstr "Gebruik hierdie inligting verskaffer vir al die albums hier vertoon?"
 #. Dialog message asking for confirmation of change to the default artist information provider, after #38063
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr "Gebruik hierdie inligting verskaffer vir alle kunstenaars, en vee alle vorige verstellings vir spesifieke kunstenaars uit?"
+msgstr "Gebruik hierdie inligting verskaffer vir alle kunstenaars, en vee alle vorige instellings vir spesifieke kunstenaars uit?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 msgctxt "#38071"
 msgid "Use this information provider for all albums, clearing any previous settings for specific albums?"
-msgstr "Gebruik hierdie inligting verskaffer vir alle albums, en vee alle vorige verstellings vir spesifieke albums uit?"
+msgstr "Gebruik hierdie inligting verskaffer vir alle albums, en vee alle vorige instellings vir spesifieke albums uit?"
 
 #. Dialog message asking for confirmation to get additional info for all the artists or albums in the node immediately
 msgctxt "#38072"
@@ -18554,62 +18559,62 @@ msgstr "By speellys bygevoeg om volgende te speel"
 #. Description of section #14200 "Player""
 msgctxt "#38100"
 msgid "Section that contains the settings for the playback of media"
-msgstr "Seksie wat die verstellings vir die terugspeel van media bevat"
+msgstr "Seksie wat die instellings vir die terugspeel van media bevat"
 
 #. Description of section #14201 "Media"
 msgctxt "#38101"
 msgid "Section that contains the settings for sources and how media information is collected, stored, shown and navigated"
-msgstr "Seksie wat die verstellings vir bronne en hoe media inligting versamel, gestoor, vertoon en navigeer word bevat"
+msgstr "Seksie wat die instellings vir bronne en hoe media inligting versamel, gestoor, vertoon en navigeer word bevat"
 
 #. Description of section #14203 "Customise"
 msgctxt "#38102"
 msgid "Section that contains the settings influencing the GUI experience and for controlling the GUI/system"
-msgstr "Seksie wat die verstellings bevat wat die GUI ondervinding beïnvloed en die GUI/stelsel beheer"
+msgstr "Seksie wat die instellings bevat wat die GUI ondervinding beïnvloed en die GUI/stelsel beheer"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38103"
 msgid "This category contains the settings for the playback of videos"
-msgstr "Hierdie kategorie bevat die verstellings vir die terugspeel van video's"
+msgstr "Hierdie kategorie bevat die instellings vir die terugspeel van video's"
 
 #. Description of category #14211 "Music"
 msgctxt "#38104"
 msgid "This category contains the settings for the playback of music"
-msgstr "Hierdie kategorie bevat die verstellings vir die terugspeel van musiek"
+msgstr "Hierdie kategorie bevat die instellings vir die terugspeel van musiek"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38105"
 msgid "This category contains the settings for playback of pictures via a slideshow"
-msgstr "Hierdie kategorie bevat die verstellings vir die terugspeel van prente via 'n skyfievertoning"
+msgstr "Hierdie kategorie bevat die instellings vir die terugspeel van prente via 'n skyfievertoning"
 
 #. Description of category #14213 "Language"
 msgctxt "#38106"
 msgid "This category contains the settings for audio / subtitles language and accessibility"
-msgstr "Hierdie kategorie bevat die verstellings vir oudio / onderskrif taal en toeganklikheid"
+msgstr "Hierdie kategorie bevat die instellings vir oudio / onderskrif taal en toeganklikheid"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr "Hierdie kategorie bevat die verstellings vir hoe inligting vir video's versamel, gestoor, gewys en navigeer word"
+msgstr "Hierdie kategorie bevat die instellings vir hoe inligting vir video's versamel, gestoor, gewys en navigeer word"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr "Hierdie kategorie bevat die verstellings vir hoe inligting vir musiek versamel, gestoor, gewys en navigeer word"
+msgstr "Hierdie kategorie bevat die instellings vir hoe inligting vir musiek versamel, gestoor, gewys en navigeer word"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr "Hierdie kategorie bevat die verstellings vir hoe inligting vir prente gewys en navigeer word"
+msgstr "Hierdie kategorie bevat die instellings vir hoe inligting vir prente gewys en navigeer word"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
 msgid "This category contains the settings for the library databases"
-msgstr "Hierdie kategorie bevat die verstellings vir die biblioteek databasisse"
+msgstr "Hierdie kategorie bevat die instellings vir die biblioteek databasisse"
 
 #. Description of category #14224 "Other"
 msgctxt "#38111"
 msgid "This category contains other settings for the GUI interface"
-msgstr "Hierdie kategorie bevat die ander verstellings vir die GUI koppelvlak"
+msgstr "Hierdie kategorie bevat die ander instellings vir die GUI koppelvlak"
 
 #. Description of setting with label #12381 "Switch to visualisation on playback"
 msgctxt "#38112"
@@ -18619,7 +18624,7 @@ msgstr "Gaan outomaties na die visualiserings venster wanneer oudio terugspeel b
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr "Hierdie kategorie bevat die gevorderde verstellings vir video terugspeel"
+msgstr "Hierdie kategorie bevat die gevorderde instellings vir video terugspeel"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -18709,7 +18714,7 @@ msgstr "Ander kunstenaars"
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr "Nie in staat om uit te voer na biblioteek gidse nie aangesien die stelsel kunstenaar inligting gids verstelling leeg is"
+msgstr "Nie in staat om uit te voer na biblioteek gidse nie aangesien die stelsel kunstenaar inligting gids instelling leeg is"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
@@ -18794,12 +18799,12 @@ msgstr "Opsies vir addisionele inligting gaan haal"
 #. Selecting what items the settings will be used for, selecting from #38064 to 38067
 msgctxt "#38338"
 msgid "Choose how to apply settings"
-msgstr "Kies hoe om verstellings toe te pas"
+msgstr "Kies hoe om instellings toe te pas"
 
 #. Heading when selecting from list for #38338
 msgctxt "#38339"
 msgid "How to apply information provider settings"
-msgstr "Hoe om inligting verskaffer verstellings toe te pas"
+msgstr "Hoe om inligting verskaffer instellings toe te pas"
 
 #. Progress statement when importing music library is processing song playback history data
 msgctxt "#38350"
@@ -18875,7 +18880,7 @@ msgstr "Virtuele lêerstelsels"
 #. Message of a dialog, asking if related data of an add-on should also be removed on uninstall
 msgctxt "#39014"
 msgid "Would you also like to remove all related data (e.g. settings) of this add-on?"
-msgstr "Wil jy ook alle verwante data (bv. verstellings) van hierdie byvoegsel verwyder?"
+msgstr "Wil jy ook alle verwante data (bv. instellings) van hierdie byvoegsel verwyder?"
 
 msgctxt "#39015"
 msgid "Image decoder"
@@ -19343,7 +19348,7 @@ msgstr "Vertikale marge"
 #. Help text for setting "Vertical margin" of label #39182
 msgctxt "#39183"
 msgid "Allows you to add a margin in top and bottom aligned text. Changing this setting will affect also subtitle position set with the Video calibration."
-msgstr "Laat jou toe om 'n marge by te voeg in bokant en onderkant belynde teks. Verandering van hierdie verstelling sal ook die onderskrif posisie wat met die Video kalibrasie gestel is affekteer."
+msgstr "Laat jou toe om 'n marge by te voeg in bokant en onderkant belynde teks. Verandering van hierdie instelling sal ook die onderskrif posisie wat met die Video kalibrasie gestel is affekteer."
 
 #. Window screen calibration: the current subtitle calibration value with vertical margin
 msgctxt "#39184"
@@ -19378,7 +19383,7 @@ msgstr "Slegs beskikbaar met die handmatige onderskrif posisie"
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr "[AAN] Die helderheid van die GUI in HDR modus volg die stelsel se verstellings. Hierdie affekteer alle OSDs, onderskrifte en grafika wat SDR in oorsprong is.[CR][AF] Stel die helderheid handmatig."
+msgstr "[AAN] Die helderheid van die GUI in HDR modus volg die stelsel se instellings. Hierdie affekteer alle OSDs, onderskrifte en grafika wat SDR in oorsprong is.[CR][AF] Stel die helderheid handmatig."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
@@ -19442,7 +19447,7 @@ msgstr "Lyn spasiëring"
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr "Verstel die spasie tussen lyne van teks. Stel van 'n te lae waarde kan veroorsaak dat bokse oorvleuel wanneer die \"Agtergrond tipe\" verstelling gebruik word."
+msgstr "Verstel die spasie tussen lyne van teks. Stel van 'n te lae waarde kan veroorsaak dat bokse oorvleuel wanneer die \"Agtergrond tipe\" instelling gebruik word."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
@@ -19453,6 +19458,11 @@ msgstr "Stel CC onderskrifte slegs vir die gehoor gestremde"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "Deur dit in staat te stel sal CC onderskrifte gemerk word vir die gehoor gestremde; hierdie sal die outomatiese kies van onderskrifte beïnvloed, wat tensy anders gespesifiseer nie by verstek vertoon sal word nie."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

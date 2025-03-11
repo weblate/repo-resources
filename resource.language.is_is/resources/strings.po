@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-10 19:57+0000\n"
+"PO-Revision-Date: 2025-02-25 16:13+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/is_is/>\n"
 "Language: is_is\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -7145,7 +7145,7 @@ msgstr "Hreinsa biðminni mynda"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Fjarlægja ónotaðar myndir strax úr biðminninu - myndir sem ekki tengjast neinu atriði í margmiðlunarsafninu eða hafa verið skoðaðar nýlega. Kodi gerir þetta reglulega í bakgrunni."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -9529,6 +9529,11 @@ msgstr "Tvítaka"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Afrit af '{0:s}'"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -17832,7 +17837,7 @@ msgstr "Þú verður fyrst að setja inn lykilorð áður en hægt sé að virkj
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 og stórt MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19449,7 +19454,12 @@ msgstr "Setja skýringaskjátexta einungis fyrir heyrnarskerta"
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Með því að virkja þetta, verða CC-skjátextar merktir fyrir heyrnarskerta; þetta hefur áhrif á sjálfvirkt val á skjátextum, sem ekki eru sjálfgefið birtir nema annað sé sérstaklega tekið fram."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr "CC-skjátexti"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-14 22:55+0000\n"
+"PO-Revision-Date: 2025-03-07 01:19+0000\n"
 "Last-Translator: Simon <dolenec@gmail.com>\n"
 "Language-Team: Slovenian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sl_si/>\n"
 "Language: sl_si\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3242,7 +3242,7 @@ msgstr "Nedavno dodani kanali"
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr "Klient"
+msgstr "Odjemalec"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
@@ -3272,17 +3272,17 @@ msgstr ""
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Vprašaj"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
@@ -9553,6 +9553,11 @@ msgstr "Dvojnik"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Kopija '{0:s}'"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr ""
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -19515,6 +19520,11 @@ msgstr ""
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
+msgstr ""
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature

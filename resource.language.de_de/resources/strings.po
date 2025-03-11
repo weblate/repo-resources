@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-01 13:58+0000\n"
+"PO-Revision-Date: 2025-03-10 20:26+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5111,7 +5111,7 @@ msgstr "Vielen Dank!"
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr "Kodi wird „mit viel Liebe“ zur Verfügung gestellt von der Kodi Foundation, einer a 501(c)(3) non-profit Organisation. Vielen Dank für die Nutzung unserer Software!"
+msgstr "Kodi wird von der Kodi Foundation, einer gemeinnützigen Organisation, zur Verfügung gestellt. Vielen Dank für die Nutzung unserer Software!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
@@ -9528,6 +9528,11 @@ msgstr "Duplizieren"
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
 msgstr "Kopie von ‚{0:s}‘"
+
+#. Label of a context menu entry to delete a recording
+msgctxt "#19357"
+msgid "Delete recording"
+msgstr "Aufnahme löschen"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -19444,6 +19449,11 @@ msgstr "Untertitel mit erklärendem Text nur für Hörgeschädigte kennzeichnen"
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
 msgstr "Wenn aktiviert, werden Untertitel mit erklärendem Text für Hörgeschädigte gekennzeichnet. Das beeinflusst die automatische Auswahl von Untertiteln, welche, wenn nicht anders angegeben, nicht standardmässig angezeigt werden."
+
+#. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+msgctxt "#39206"
+msgid "CC"
+msgstr "Untertitel für Hörgeschädigte"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
