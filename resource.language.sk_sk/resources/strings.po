@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Zadajte meno používateľa"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Zadajte cesty alebo vyhľadajte umiestnenia médií."
@@ -4829,14 +4834,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Naposledy aktualizované"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Vyberte verziu videa"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Vyberte video extra"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5941,6 +5938,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Zrušiť ako predvolené"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Pokračovať"
@@ -15981,8 +15979,8 @@ msgstr "Táto kategória obsahuje nastavenia toho, ako sa má zaobchádzať so z
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Prepínajte medzi možnosťami [Vybrať], [Prehrať] (predvolené nastavenie), [Pokračovať], [Zobraziť informácie] a [Pridať do fronty].[CR][Vybrať] otvorí kontextovú ponuku na výber položky, napr. pre zobrazenie informácií.[CR][Prehrať] automaticky prehrá videá od začiatku alebo sa v prípade prítomnosti bodu pre pokračovanie sa spýta, či má prehrávať od začiatku alebo pokračovať. [CR][Obnoviť] automaticky obnoví videá od poslednej pozície, na ktorej ste ich prezerali. CR][Zobraziť informácie] otvorí dialógové okno s informáciami o videu. CR][Pridať do fronty] zaradí video do zoznamu prehrávania videí."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16108,8 +16106,8 @@ msgstr "Zapne funkcionalitu \"osobného videorekordéra\" (PVR). Toto nastavenie
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Prepínajte medzi možnosťami [Spýtať sa, pokiaľ sa dá pokračovať] (predvolené nastavenie) a [Pokračovať]. [CR] [Spýtať sa, pokiaľ sa dá pokračovať] sa spýta, či sa má prehrávať od začiatku alebo pokračovať (ak je prítomný bod pre pokračovanie). [CR] [Pokračovať] automaticky obnoví prehrávanie videí od poslednej pozície, v ktorej ste ich sledovali. [CR]Ak nie je nastavený bod pokračovania, prehrávanie sa automaticky spustí od začiatku."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19664,16 +19662,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr ""
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Vyberte predvolenú verziu videa"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Definuje spôsob spracovania výberu videí s viacerými verziami: [CR][Povolené] Automaticky vybrať predvolenú verziu videa bez vyzvania. [CR][Zakázané] Zobrazenie dialógu na výber verzie videa."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19694,25 +19682,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Výber akcie skenera pre video extras v priečinku \"extras\" [CR] [Povolené] Skenovanie video extras ako bežných videí [CR] [Zakázané] Pridanie video extras do knižnice k videu, ku ktorému patria."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Zobraziť videá s viacerými verziami ako priečinok"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Ak je táto možnosť povolená, video s viacerými verziami sa zobrazí ako priečinok v knižnici videí. Tento priečinok je potom možné otvoriť a zobraziť jednotlivé verzie videa. Keď je zakázaná, použije sa nakonfigurovaná akcia výberu."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Vyberte verziu: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Prehrať verziu pomocou..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19733,11 +19707,6 @@ msgstr "Synchronizácia úrovne hlasitosti so vzdialenými UPnP prehrávačmi"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Ak je táto možnosť zvolená, úroveň hlasitosti vzdialeného prehrávača sa synchronizuje s hlasitosťou tejto aplikácie.[CR]Upozornenie: To môže viesť k tomu, že vzdialený prehrávač bude nastavený na úroveň hlasitosti 100 %, ak má aplikácia úroveň hlasitosti 100 %, ale celková úroveň hlasitosti systému je menšia."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Vyberte extra: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19768,11 +19737,6 @@ msgstr "Nový názov..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Nový názov extra"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Vyberte verziu"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19900,6 +19864,54 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Vyberte predvolenú verziu videa"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Definuje spôsob spracovania výberu videí s viacerými verziami: [CR][Povolené] Automaticky vybrať predvolenú verziu videa bez vyzvania. [CR][Zakázané] Zobrazenie dialógu na výber verzie videa."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Vyberte verziu videa"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Vyberte video extra"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Zobraziť videá s viacerými verziami ako priečinok"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Ak je táto možnosť povolená, video s viacerými verziami sa zobrazí ako priečinok v knižnici videí. Tento priečinok je potom možné otvoriť a zobraziť jednotlivé verzie videa. Keď je zakázaná, použije sa nakonfigurovaná akcia výberu."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Vyberte verziu: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Prehrať verziu pomocou..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Vyberte extra: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Vyberte verziu"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Prepínajte medzi možnosťami [Vybrať], [Prehrať] (predvolené nastavenie), [Pokračovať], [Zobraziť informácie] a [Pridať do fronty].[CR][Vybrať] otvorí kontextovú ponuku na výber položky, napr. pre zobrazenie informácií.[CR][Prehrať] automaticky prehrá videá od začiatku alebo sa v prípade prítomnosti bodu pre pokračovanie sa spýta, či má prehrávať od začiatku alebo pokračovať. [CR][Obnoviť] automaticky obnoví videá od poslednej pozície, na ktorej ste ich prezerali. CR][Zobraziť informácie] otvorí dialógové okno s informáciami o videu. CR][Pridať do fronty] zaradí video do zoznamu prehrávania videí."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Prepínajte medzi možnosťami [Spýtať sa, pokiaľ sa dá pokračovať] (predvolené nastavenie) a [Pokračovať]. [CR] [Spýtať sa, pokiaľ sa dá pokračovať] sa spýta, či sa má prehrávať od začiatku alebo pokračovať (ak je prítomný bod pre pokračovanie). [CR] [Pokračovať] automaticky obnoví prehrávanie videí od poslednej pozície, v ktorej ste ich sledovali. [CR]Ak nie je nastavený bod pokračovania, prehrávanie sa automaticky spustí od začiatku."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

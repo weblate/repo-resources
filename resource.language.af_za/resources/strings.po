@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Tik die gebruikersnaam in"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Tik die paaie in of blaai vir die media liggings."
@@ -4831,14 +4836,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Laas opgedateer"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Selekteer video weergawe"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Selekteer video ekstra"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5943,6 +5940,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Maak verstek skoon"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Hervat"
@@ -15983,8 +15981,8 @@ msgstr "Hierdie kategorie bevat die instellings vir hoe video lêer lyste hantee
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Wissel tussen [Kies], [Speel] (verstek), [Hervat], [Wys inligting] en [Tou item].[CR][Kies] sal 'n konteks kieslys oopmaak om 'n item te selekteer, bv. wys inligting.[CR][Speel] sal outomaties video's van die begin af speel of as 'n hervat punt teenwoordig is vra of van begin af moet speel of moet hervat.[CR][Hervat] sal outomaties video's hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR][Wys inligting] sal die video se inligting dialoog oop maak.[CR][Tou item] sal die video by die video speellys byvoeg."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16110,8 +16108,8 @@ msgstr "Stel die \"Personal Video Recorder\" (PVR) funksies in staat. Dit vereis
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Wissel tussen [Vra of hervatbaar] (verstek) en [Hervat].[CR][Vra of hervatbaar] sal vra of van begin af moet speel of te hervat (indien 'n hervat punt teenwoordig is).[CR][Hervat] sal video's outomaties hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR]Indien geen hervat punt gestel is nie, sal terugspeel outomaties van die begin af begin."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19665,16 +19663,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Is jy seker dat die ekstra \"{0:s}\" wil verwyder?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Kies verstek video weergawe"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Definieer hoe om kies van video's met veelvuldige weergawes te hanteer.[CR][In staat gestel] Selekteer outomaties die verstek video weergawe sonder om te vra.[CR][Nie in staat gestel] Vertoon 'n dialoog om 'n weergawe van die video te kies."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19695,25 +19683,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Kies deursoeker aksie vir video ekstras in \"extras\" gids.[CR][In staat gestel] Deursoek video ekstras soos gewone video's.[CR][Nie in staat gestel] Voeg video ekstras by biblioteek vir geassosieerde video."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Vertoon video's met veelvuldige weergawes as gids"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Wanneer in staat gestel, sal 'n video met veelvuldige weergawes as 'n gids in die video biblioteek vertoon word. Hierdie gids kan dan oop gemaak word om die individuele video weergawes te vertoon. Wanneer nie in staat gestel, sal die opgestelde selekteer aksie toegepas word."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Kies weergawe: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Speel weergawe met gebruik van..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19734,11 +19708,6 @@ msgstr "Sinchroniseer volume vlak na afgeleë UPnP spelers"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Indien gekies sal die afgeleë speler volume vlak met die volume van hierdie toepassing gesinchroniseer word.[CR]Waarskuwing: Globale stelsel volume vlak mag verskillend wees van die toepassing volume vlak - hulle word onafhanklik beheer.[CR]Dit mag daartoe lei dat die afgeleë speler na 100% volume vlak gestel word as die toepassing 100% volume vlak het, maar die algehele stelsel volume vlak laer is."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Kies ekstra: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19769,11 +19738,6 @@ msgstr "Nuwe naam..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Nuwe ekstra naam"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Kies weergawe"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19901,6 +19865,54 @@ msgstr "Bevestig lêer uitvee"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Indien in staat gestel, sal 'n bevestigings dialoog vertoon word wanneer lêers uitgevee gaan word. Indien nie in staat gestel, sal lêers uitgevee word sonder gebruiker bevestiging."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Kies verstek video weergawe"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Definieer hoe om kies van video's met veelvuldige weergawes te hanteer.[CR][In staat gestel] Selekteer outomaties die verstek video weergawe sonder om te vra.[CR][Nie in staat gestel] Vertoon 'n dialoog om 'n weergawe van die video te kies."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Selekteer video weergawe"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Selekteer video ekstra"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Vertoon video's met veelvuldige weergawes as gids"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Wanneer in staat gestel, sal 'n video met veelvuldige weergawes as 'n gids in die video biblioteek vertoon word. Hierdie gids kan dan oop gemaak word om die individuele video weergawes te vertoon. Wanneer nie in staat gestel, sal die opgestelde selekteer aksie toegepas word."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Kies weergawe: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Speel weergawe met gebruik van..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Kies ekstra: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Kies weergawe"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Wissel tussen [Kies], [Speel] (verstek), [Hervat], [Wys inligting] en [Tou item].[CR][Kies] sal 'n konteks kieslys oopmaak om 'n item te selekteer, bv. wys inligting.[CR][Speel] sal outomaties video's van die begin af speel of as 'n hervat punt teenwoordig is vra of van begin af moet speel of moet hervat.[CR][Hervat] sal outomaties video's hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR][Wys inligting] sal die video se inligting dialoog oop maak.[CR][Tou item] sal die video by die video speellys byvoeg."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Wissel tussen [Vra of hervatbaar] (verstek) en [Hervat].[CR][Vra of hervatbaar] sal vra of van begin af moet speel of te hervat (indien 'n hervat punt teenwoordig is).[CR][Hervat] sal video's outomaties hervat vanaf die laaste posisie wat jy hulle gekyk het.[CR]Indien geen hervat punt gestel is nie, sal terugspeel outomaties van die begin af begin."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

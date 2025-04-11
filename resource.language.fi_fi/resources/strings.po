@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Syötä käyttäjätunnus"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Syötä tiedostosijainnit tai selaa mediasijainteja."
@@ -4829,14 +4834,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Viimeksi päivitetty"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Valitse videon versio"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Valitse videon lisämateriaali"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5941,6 +5938,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Tyhjennä oletus"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Jatka"
@@ -15976,8 +15974,8 @@ msgstr "Tämä kategoria sisältää videotiedostojen listausasetuksia."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Vaihda toimintojen [Valitse], [Toista] (oletus), [Jatka], [Näytä tiedot] ja [Lisää kohde jonoon] välillä.[CR][Valitse] avaa sisältövalikon, josta voit valita kulloinkin haluamasi vaihtoehdon.[CR][Toista] toistaa videon automaattisesti alusta tai jos jatkopiste on olemassa, kysyy haluatko toistaa alusta vai jatkaa.[CR][Jatka] jatkaa toistoa automaattisesti edellisestä kohdasta. [CR][Näytä tiedot] avaa kohteen tiedot.[CR][Lisää kohde jonoon] lisää videon videotoistolistaan."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16103,8 +16101,8 @@ msgstr "Kytkee PVR-ominaisuudet (Personal Video Recorder, eli televisiolähetyks
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Vaihda toimintojen [Kysy, jos jatkettavissa] (oletus) ja [Jatka] välillä.[CR][Kysy, jos jatkettavissa] avaa sisältövalikon, josta voit valita toistetaanko alusta vai jatketaanko kesken jäänyttä toistoa.[CR][Jatka] jatkaa toistoa automaattisesti edellisestä kohdasta. [CR]Jos jatkopistettä ei ole, toisto aloitetaan automaattisesti alusta."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19656,16 +19654,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Haluatko varmasti poistaa lisämateriaalin \"{0:s}\"?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Valitse oletusarvoinen videoversio"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Määrittää, miten useita versioista sisältävät videot käsitellään.[CR][Käytössä] Valitsee oletusversion automaattisesti kysymättä.[CR][Ei käytössä] Näyttää videoversion valinnan."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19686,25 +19674,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Valitse kirjastopäivityksen toiminto \"extras\"-kansion videoille.[CR][Enabled] Käsittele lisäsisältö tavallisina videoina.[CR][Disabled] Lisää ne niihin liittyvän videon lisäsisällöksi."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Näytä useita versioita sisältävät videot kansioina"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Näyttää useita versioita sisältävät videot videokirjaston kansioina, jotka avaamalla näytetään yksittäiset versiot. Kun asetus ei ole käytössä, käytetään määritettyä valintatoimintoa."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Valitse versio: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Toista versio soittimella..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19725,11 +19699,6 @@ msgstr "Synkronoi äänenvoimakkuus UPnP-soitimille"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Jos valittu, synkronoidaan äänenvoimakkuus tätä sovellusta vastaavaksi.[CR]Varoitus: Koko järjestelmän äänenvoimakkuus voi erota sovelluksen voimakkuudesta — ne säätyvät toisistaan riippumattomasti. Tästä voi seurata 100 % äänenvoimakkuus, jos sovelluksen voimakkuus on 100 % järjestelmän voimakkuuden ollessa matalampi."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Valitse lisämateriaali: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19760,11 +19729,6 @@ msgstr "Uusi nimi..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Lisämateriaalin uusi nimi"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Valitse versio"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19892,6 +19856,54 @@ msgstr "Vahvista tiedoston poisto"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Pyydä vahvistus ennen tiedostojen poistoa. Muutoin tiedostot poistetaan suoraan ilman vahvistusta."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Valitse oletusarvoinen videoversio"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Määrittää, miten useita versioista sisältävät videot käsitellään.[CR][Käytössä] Valitsee oletusversion automaattisesti kysymättä.[CR][Ei käytössä] Näyttää videoversion valinnan."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Valitse videon versio"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Valitse videon lisämateriaali"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Näytä useita versioita sisältävät videot kansioina"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Näyttää useita versioita sisältävät videot videokirjaston kansioina, jotka avaamalla näytetään yksittäiset versiot. Kun asetus ei ole käytössä, käytetään määritettyä valintatoimintoa."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Valitse versio: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Toista versio soittimella..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Valitse lisämateriaali: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Valitse versio"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Vaihda toimintojen [Valitse], [Toista] (oletus), [Jatka], [Näytä tiedot] ja [Lisää kohde jonoon] välillä.[CR][Valitse] avaa sisältövalikon, josta voit valita kulloinkin haluamasi vaihtoehdon.[CR][Toista] toistaa videon automaattisesti alusta tai jos jatkopiste on olemassa, kysyy haluatko toistaa alusta vai jatkaa.[CR][Jatka] jatkaa toistoa automaattisesti edellisestä kohdasta. [CR][Näytä tiedot] avaa kohteen tiedot.[CR][Lisää kohde jonoon] lisää videon videotoistolistaan."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Vaihda toimintojen [Kysy, jos jatkettavissa] (oletus) ja [Jatka] välillä.[CR][Kysy, jos jatkettavissa] avaa sisältövalikon, josta voit valita toistetaanko alusta vai jatketaanko kesken jäänyttä toistoa.[CR][Jatka] jatkaa toistoa automaattisesti edellisestä kohdasta. [CR]Jos jatkopistettä ei ole, toisto aloitetaan automaattisesti alusta."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

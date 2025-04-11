@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-14 04:09+0000\n"
+"PO-Revision-Date: 2025-03-11 20:46+0000\n"
 "Last-Translator: Predrag LJubenović <predragljubenovic@gmail.com>\n"
 "Language-Team: Serbian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sr_rs/>\n"
 "Language: sr_rs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1684,7 +1684,7 @@ msgstr "Убаците коректан CD / DVD"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Молимо, убаците следећи диск"
+msgstr "Молимо, убаците следећи диск:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -1700,7 +1700,7 @@ msgstr "Уклони филм из библиотеке"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "Да ли заиста желите да уклоните „{0:s}“ из библиотеке?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1819,7 +1819,7 @@ msgstr "[активно]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Стрим титлова"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2643,32 +2643,32 @@ msgstr "Из метаподатака"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Поставите величину ивице."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Поставите боју ивице."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Подесите замућење."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Подесите боју сенке."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Подесите непрозирност сенке."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Подесите величину сенке."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -2684,7 +2684,7 @@ msgstr "Ова путања је већ претражена"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr ""
+msgstr "Не могу да очистим библиотеку док се извршавају позадински задаци"
 
 msgctxt "#705"
 msgid "Network"
@@ -3232,22 +3232,22 @@ msgstr "Било који канал од клијента „{0:s}“"
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "Било који канал од било ког клијента"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Недавно додани канали"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Клијент"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Систем"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
@@ -3373,6 +3373,11 @@ msgstr "Унесите број порта"
 msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Унесите корисничко име"
+
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -3518,7 +3523,6 @@ msgctxt "#1185"
 msgid "SOCKS5 with remote DNS resolving"
 msgstr "SOCKS5 са даљинским DNS одлучивањем"
 
-#, fuzzy
 msgctxt "#1186"
 msgid "HTTPS"
 msgstr "HTTPS"
@@ -3573,7 +3577,7 @@ msgstr "Датотеке"
 
 msgctxt "#1215"
 msgid "Music & video "
-msgstr "Музика и видео"
+msgstr "Музика и видео "
 
 msgctxt "#1216"
 msgid "Music & pictures"
@@ -4393,7 +4397,7 @@ msgstr "Нумерички унос"
 
 msgctxt "#10110"
 msgid "Gamepad input"
-msgstr ""
+msgstr "Gamepad улаз"
 
 msgctxt "#10111"
 msgid "Shutdown menu"
@@ -4491,7 +4495,7 @@ msgstr "Информације преко целог екрана"
 # empty strings from id 10143 to 10144
 msgctxt "#10145"
 msgid "Slider dialog"
-msgstr ""
+msgstr "Дијалог клизача"
 
 msgctxt "#10146"
 msgid "Add-on info"
@@ -4499,7 +4503,7 @@ msgstr "Информације о додатку"
 
 msgctxt "#10147"
 msgid "Text viewer"
-msgstr ""
+msgstr "Прегледач текста"
 
 msgctxt "#10150"
 msgid "Peripheral settings"
@@ -4507,7 +4511,7 @@ msgstr "Подешавање периферија"
 
 msgctxt "#10151"
 msgid "Extended progress dialog"
-msgstr ""
+msgstr "Проширени дијалог напретка"
 
 msgctxt "#10152"
 msgid "Media filter"
@@ -4643,7 +4647,7 @@ msgstr "PVR скенирање канала"
 
 msgctxt "#10607"
 msgid "PVR update progress"
-msgstr ""
+msgstr "Напредак ажурирања PVR-а"
 
 msgctxt "#10608"
 msgid "PVR OSD channels"
@@ -4736,12 +4740,12 @@ msgstr "Мени"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "Видео филтер"
 
 #. Title of the in-game video stretch mode selection dialog
 msgctxt "#10824"
 msgid "Stretch Mode"
-msgstr ""
+msgstr "Режим растезања"
 
 #. Title of the in-game volume dialog
 msgctxt "#10825"
@@ -4751,17 +4755,17 @@ msgstr "Јачина звука"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Напредна подешавања"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "Ротација видео записа"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr ""
+msgstr "Подешавање порта"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
@@ -4831,14 +4835,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Последњи пут ажурирано"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr ""
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr ""
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -4853,12 +4849,12 @@ msgstr "Настави од {0:s}"
 #. Label of the show password button in the keyboard dialog
 msgctxt "#12308"
 msgid "Show password"
-msgstr ""
+msgstr "Прикажи лозинку"
 
 #. Label of the hide password button in the keyboard dialog
 msgctxt "#12309"
 msgid "Hide password"
-msgstr ""
+msgstr "Сакриј лозинку"
 
 msgctxt "#12310"
 msgid "0"
@@ -4998,7 +4994,7 @@ msgstr "Прекомерни број покушаја уноса лозинке
 
 msgctxt "#12347"
 msgid "The system will now power down."
-msgstr "Систем ће се сада искључити"
+msgstr "Систем ће се сада искључити."
 
 msgctxt "#12348"
 msgid "Item locked"
@@ -5026,7 +5022,7 @@ msgstr "Главни код"
 
 msgctxt "#12362"
 msgid "Shutdown system if number of master lock retries is exceeded"
-msgstr "Искључити систем ако је достигнут прекомерни број покушаја уноса главног кода."
+msgstr "Искључити систем ако је достигнут прекомерни број покушаја уноса главног кода"
 
 msgctxt "#12367"
 msgid "Master code is not valid. Please enter a valid master code."
@@ -5108,17 +5104,17 @@ msgstr "Ниво батерије"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Хвала вам!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Коди вам са љубављу доноси Фондација Коди, непрофитна организација 501(c)(3). Хвала вам што користите наш софтвер!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5139,7 +5135,7 @@ msgstr "Игра преко целог екрана"
 # empty strings from id 12907 to 12998
 msgctxt "#12999"
 msgid "Startup"
-msgstr ""
+msgstr "Почетак рада"
 
 msgctxt "#13000"
 msgid "System"
@@ -5422,7 +5418,7 @@ msgstr "Одмах"
 #. unused?
 msgctxt "#13172"
 msgid "After {0:d} secs"
-msgstr "Након {0:d} сек."
+msgstr "Након {0:d} секунди"
 
 #. unused?
 msgctxt "#13173"
@@ -5591,7 +5587,7 @@ msgstr "Није повезано. Проверите мрежна подеша�
 #. Label of the button used to disconnect a game controller from the emulated game port
 msgctxt "#13298"
 msgid "Disconnected"
-msgstr ""
+msgstr "Искључено"
 
 msgctxt "#13299"
 msgid "Target temperature"
@@ -5825,7 +5821,7 @@ msgstr "Омогући глас"
 #. label for resume context menu item for video folders (like a TV show or a single season of a TV show)
 msgctxt "#13362"
 msgid "Continue watching"
-msgstr ""
+msgstr "Наставите да гледате"
 
 msgctxt "#13375"
 msgid "Enable device"
@@ -5898,7 +5894,7 @@ msgstr "Избаци / Учитај"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Избор тока"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -5944,6 +5940,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Уклони подразумевано"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Настави"
@@ -6000,12 +5997,12 @@ msgstr "Аутоматско откривање"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
-msgstr ""
+msgstr "Дозволите коришћење DXVA видео супер резолуције"
 
 #. Setting Player / Video
 msgctxt "#13418"
 msgid "Use high precision processing"
-msgstr ""
+msgstr "Користите обраду високе прецизности"
 
 msgctxt "#13419"
 msgid "Software"
@@ -6031,7 +6028,7 @@ msgstr "Запамти ову путању"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "Одаберите листу за репродукцију"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6076,7 +6073,7 @@ msgstr "Омогући ВК скалере за размеру изнад"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Подесите HDR режим екрана"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6174,12 +6171,12 @@ msgstr "Дати предност VAAPI начину приказивања"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Користите филтер декодера"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Омогућите/онемогућите филтер који блокира одређене декодере Андроид софтвера. Овај филтер се може конфигурисати преко [userdata]/decoderfilter.xml датотеке."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6229,36 +6226,36 @@ msgstr "Омогућите ову опцију ради коришћења ха�
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Користи AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Омогућите ову опцију да бисте користили хардверско убрзање за AVC кодек. Ако је онемогућено, уместо њега ће се користити CPU."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "Средњи формат HQ upscaler-а"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Поставља прецизност средњег бафера за скалирање који се користи у путањи GPU рендеровања. 16-битна прецизност вероватно захтева више перформанси. Ако хардвер не може да подржи изабрани формат, Коди ће се вратити на следећи најбољи формат."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 бита по каналу"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 бита по каналу"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 бита по каналу"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6390,7 +6387,7 @@ msgstr "Apple Даљински Управљач"
 
 msgctxt "#13601"
 msgid "Apple TV"
-msgstr ""
+msgstr "Apple TV"
 
 msgctxt "#13602"
 msgid "Allow start of Kodi using the remote"
@@ -6422,7 +6419,7 @@ msgstr "Грешка Apple Даљинског Управљача"
 
 msgctxt "#13621"
 msgid "Apple Remote support couldn't be enabled."
-msgstr "Неуспело омогућавање подршке Apple Даљинског Управљача"
+msgstr "Подршка за Apple даљинско управљање није могла бити омогућена."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -6910,11 +6907,11 @@ msgstr "Омогућите двоструке брзине освежавања"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Напредно"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Аудио/видео редови плејера"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7006,7 +7003,7 @@ msgstr "Контрола"
 
 msgctxt "#14224"
 msgid "Startup"
-msgstr ""
+msgstr "Покретање"
 
 msgctxt "#14225"
 msgid "Network Control"
@@ -7139,15 +7136,15 @@ msgstr "Допусти даљинско управљање од стране а�
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Одржавање"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Очистите кеш слике"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Одмах уклоните некоришћене слике из кеша – слике које нису повезане са ставком у библиотеци медија нити су недавно прегледане. Коди то ради током времена у позадини."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7304,17 +7301,17 @@ msgstr "Пусти у режиму журке"
 #. Label for actions associated with favourites
 msgctxt "#15217"
 msgid "Action"
-msgstr ""
+msgstr "Акција"
 
 #. Label for an action associated with a favourite.
 msgctxt "#15218"
 msgid "Play media"
-msgstr ""
+msgstr "Репродукуј медиј"
 
 #. Label for an action associated with a favourite
 msgctxt "#15219"
 msgid "Show picture"
-msgstr ""
+msgstr "Прикажи слику"
 
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
@@ -7324,17 +7321,17 @@ msgstr "Прикажи садржај у „{}“"
 #. Label for an action associated with a favourite
 msgctxt "#15221"
 msgid "Execute script"
-msgstr ""
+msgstr "Изврши скрипту"
 
 #. Label for an action associated with a favourite
 msgctxt "#15222"
 msgid "Execute Android app"
-msgstr ""
+msgstr "Покрени Андроид апликацију"
 
 #. Label for an action associated with a favourite
 msgctxt "#15223"
 msgid "Execute add-on"
-msgstr ""
+msgstr "Покрени додатак"
 
 #. Label for an action associated with a favourite
 msgctxt "#15224"
@@ -7373,7 +7370,7 @@ msgstr "Путања:"
 #. Game settings category name
 msgctxt "#15312"
 msgid "Achievements"
-msgstr ""
+msgstr "Достигнућа"
 
 #. Group label for Achievements category in game settings
 msgctxt "#15313"
@@ -7388,12 +7385,12 @@ msgstr "Сачувај"
 #. Caption for "Save" button in the in-game savestate manager
 msgctxt "#15315"
 msgid "Save progress to a new save file"
-msgstr ""
+msgstr "Сачувајте напредак у нову датотеку за чување"
 
 #. Label for savestates created automatically by "Autosave" function
 msgctxt "#15316"
 msgid "Autosave"
-msgstr ""
+msgstr "Аутоматско чување"
 
 msgctxt "#16000"
 msgid "General"
@@ -7962,11 +7959,11 @@ msgstr "Већ је подешен тајмер за овај догађај"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} се не може репродуковати."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Овај снимак се не може репродуковати."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7976,7 +7973,7 @@ msgstr "Прикажи квалитет сигнала"
 #. message box text stating that a PVR backend does not support a certain functionality.
 msgctxt "#19038"
 msgid "Not supported by the PVR backend."
-msgstr "Није подржано од стране PVR позадине"
+msgstr "Није подржано од стране PVR позадине."
 
 #. message box text asking for confirmation to hide a channel.
 msgctxt "#19039"
@@ -7990,12 +7987,12 @@ msgstr "Тајмери"
 #. Label for button to refresh the channel logos
 msgctxt "#19041"
 msgid "Refresh channel logos"
-msgstr ""
+msgstr "Освежите логотипе канала"
 
 #. label for PVR backend number of channel groups in system information's PVR section
 msgctxt "#19042"
 msgid "Channel Groups"
-msgstr ""
+msgstr "Групе канала"
 
 #. pvr settings "recording" category label
 msgctxt "#19043"
@@ -8004,11 +8001,11 @@ msgstr "Снимање"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Проверите своју конфигурацију."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Још увек није покренут ниједан PVR клијент. Сачекајте да се PVR клијенти покрену."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8286,7 +8283,7 @@ msgstr "Провајдер"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
-msgstr "Молимо, пребаците на други канал"
+msgstr "Молимо, пребаците на други канал."
 
 #. Title of numeric dialog for choosing a channel by entering a number
 msgctxt "#19103"
@@ -8321,17 +8318,17 @@ msgstr "Резервни број слика у секунди"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Није могуће сачувати тајмер."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Није могуће избрисати тајмер."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "PVR грешка у позадини."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8581,7 +8578,7 @@ msgstr "Снимци"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Није могуће започети снимање."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8611,7 +8608,7 @@ msgstr "Сакриј оквир видео података"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Није могуће зауставити снимање."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8727,7 +8724,7 @@ msgstr "Ниједна од повезаних PVR позадина не под�
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Скенирање канала не може да се покрене."
 
 #. unused?
 msgctxt "#19194"
@@ -9095,7 +9092,7 @@ msgstr "Сакриј ознаке „Подаци нису доступни“"
 #. pvr settings "Preselect playing channel in lists" control label
 msgctxt "#19269"
 msgid "Preselect playing channel in lists"
-msgstr ""
+msgstr "Унапред изаберите канал за репродукцију на листама"
 
 #. Label of the option to switch between a grouped recordings list and a non-grouped recordings list in pvr recordings window.
 msgctxt "#19270"
@@ -9250,17 +9247,17 @@ msgstr "Истиче"
 #. 'Viewtype' label for vertical channel layout without channel group selctor, used in pvr guide window
 msgctxt "#19300"
 msgid "Vertical channels, no group selector"
-msgstr ""
+msgstr "Вертикални канали, без одабира групе"
 
 #. 'Viewtype' label for horizontal channel layout without channel group selctor, used in pvr guide window
 msgctxt "#19301"
 msgid "Horizontal channels, no group selector"
-msgstr ""
+msgstr "Хоризонтални канали, нема одабира групе"
 
 #. text for yes no dialog shown when user selects a future programme in the guide window and default select action is 'smart select'
 msgctxt "#19302"
 msgid "Do you want to record the selected programme or to switch to the current programme?"
-msgstr ""
+msgstr "Да ли желите да снимите изабрани програм или да пређете на тренутни програм?"
 
 #. label for PVR settings close channel OSD after channel switch control
 msgctxt "#19303"
@@ -9270,7 +9267,7 @@ msgstr "Затвори OSD канала након промене канала"
 #. label for context menu entry to open settings dialog for a timer rule (read-only)
 msgctxt "#19304"
 msgid "View timer rule"
-msgstr ""
+msgstr "Прикажи правило тајмера"
 
 #. text for event log entry for logging auto deleted missed reminders
 msgctxt "#19305"
@@ -9295,7 +9292,7 @@ msgstr ""
 #. additional text for reminder announcement dialog, used if a recording can be scheduled
 msgctxt "#19309"
 msgid "(Auto-close of this reminder will schedule a recording...)"
-msgstr ""
+msgstr "(Аутоматско затварање овог подсетника ће заказати снимање...)"
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19310"
@@ -9310,12 +9307,12 @@ msgstr ""
 #. heading for pvr reminder notification dialog
 msgctxt "#19312"
 msgid "PVR reminder"
-msgstr ""
+msgstr "PVR подсетник"
 
 #. pvr settings "reminder auto close delay" setting label
 msgctxt "#19313"
 msgid "Automatically close reminder popup after"
-msgstr ""
+msgstr "Аутоматски затвори искачући подсетник након"
 
 #. pvr settings "schedule recording on reminder auto-close" setting label
 msgctxt "#19314"
@@ -11467,7 +11464,7 @@ msgstr "Није могуће преузети податке"
 
 msgctxt "#20449"
 msgid "Unable to connect to remote server"
-msgstr "Није могуће повезивање са удаљеним сервером."
+msgstr "Није могуће повезивање са удаљеним сервером"
 
 msgctxt "#20450"
 msgid "Unable to connect to remote server. Would you like to continue scanning?"
@@ -12020,7 +12017,7 @@ msgstr "Уреди"
 
 msgctxt "#21451"
 msgid "Internet connection required."
-msgstr "Интернет конекција је неопходна"
+msgstr "Интернет конекција је неопходна."
 
 msgctxt "#21452"
 msgid "Get more..."
@@ -12903,7 +12900,7 @@ msgstr "Верзија:"
 
 msgctxt "#24052"
 msgid "Disclaimer"
-msgstr "Одрицање:"
+msgstr "Одрицање од одговорности"
 
 msgctxt "#24053"
 msgid "License:"
@@ -12984,7 +12981,7 @@ msgstr "Додатни програм није могуће учитати."
 
 msgctxt "#24071"
 msgid "An unknown error has occurred."
-msgstr "Догодила се непозната грешка"
+msgstr "Догодила се непозната грешка."
 
 msgctxt "#24072"
 msgid "Settings required"
@@ -13009,7 +13006,7 @@ msgstr "Додатни програм је потребан"
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24077"
 msgid "Verifying downloaded add-on..."
-msgstr "Провера преузетих додатних програма"
+msgstr "Провера преузетих додатних програма..."
 
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24078"
@@ -13723,7 +13720,7 @@ msgstr "Хип хоп"
 #. Program style name
 msgctxt "#29930"
 msgid "Radio Traffic advisory message!"
-msgstr "Радио порука савета о саобраћају"
+msgstr "Радио порука савета о саобраћају!"
 
 #. Program style name
 msgctxt "#29931"
@@ -14451,16 +14448,14 @@ msgstr ""
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Искључено"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
-#, fuzzy
 msgctxt "#34117"
 msgid "50%"
 msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
-#, fuzzy
 msgctxt "#34118"
 msgid "100%"
 msgstr "100%"
@@ -15957,7 +15952,7 @@ msgstr "Одаберите квалитет поновног одабирања 
 #. Description of setting with label #22021 "Minimise black bars"
 msgctxt "#36170"
 msgid "Stretch the video up to the set percentage in order to minimise black bars."
-msgstr "Развуци видео до постављеног процента ради умањења црних трака"
+msgstr "Растегните видео до подешеног процента да бисте минимизирали црне траке."
 
 #. Description of setting with label #173 "Display 4:3 videos as"
 msgctxt "#36171"
@@ -15991,8 +15986,8 @@ msgstr "Ова категорија садржи подешавања како �
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Пребацивање између [Изабери], [Репродукуј] (подразумевано), [Настави], [Прикажи информације] и [Ставка у реду чекања].[CR][Изабери] ће отворити контекстни мени за избор ставке, нпр. прикажи информације.[CR][Репродукуј] ће аутоматски пуштати видео записе од почетка или ако постоји тачка наставка, питати да ли да се репродукује од почетка или да се настави.[CR][Настави] Аутоматски ће наставити видео записе са последње позиције на којој сте били. ако их прегледате.[CR][Прикажи информације] отвориће дијалог са информацијама о видео снимку.[CR][Ставка у реду чекања] ће додати видео на листу за репродукцију видеа."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16118,8 +16113,8 @@ msgstr "Омогућава карактеристике „Личног Виде
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Пребаците се између [Питај да ли се може наставити] (подразумевано) и [Настави].[CR][Питај да ли се може наставити] ће питати да ли да се игра од почетка или да се настави (ако постоји тачка за наставак).[CR][Настави] ће аутоматски бити постављена. наставите видео записе са последње позиције на којој сте их гледали.[CR]Ако није постављена тачка наставка, репродукција ће аутоматски почети од почетка."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16363,7 +16358,7 @@ msgstr "Ако је омогућено, овај број слика у секу
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
 msgid "Export parts of the music library to an XML file or NFO files. This will optionally overwrite your current NFO and artwork files."
-msgstr "Извезите делове музичке библиотеке у XML или NFO датотеке. Ово ће опционално преписати ваше тренутне NFO и датотеке илустрација"
+msgstr "Извезите делове музичке библиотеке у XML датотеку или NFO датотеке. Ово ће опционо преписати ваше тренутне датотеке NFO и датотеке илустрација."
 
 #. Description of setting with label #20197 "Import music library"
 msgctxt "#36263"
@@ -16731,7 +16726,7 @@ msgstr "Дефинишите опсег порта даљинског управ
 #. Description of setting with label #797 "Maximum number of clients"
 msgctxt "#36337"
 msgid "Define the maximum number of clients that can connect."
-msgstr "Дефинишите максималан број број клијената који се могу повезати."
+msgstr "Дефинишите максималан број клијената који се могу повезати."
 
 #. Description of setting with label #794 "Allow remote control from programs on other systems"
 msgctxt "#36338"
@@ -16741,12 +16736,12 @@ msgstr "Дозволите програмима на мрежи да контр�
 #. Description of setting with label #795 "Initial repeat delay (ms)"
 msgctxt "#36339"
 msgid "Initial repeat delay (ms)."
-msgstr "Почетно одлагање понављања (ms)"
+msgstr "Почетно одлагање понављања (ms)."
 
 #. Description of setting with label #796 "Continuous repeat delay (ms)"
 msgctxt "#36340"
 msgid "Continuous repeat delay (ms)."
-msgstr "Непрекидно одлагање понављања (ms)"
+msgstr "Непрекидно одлагање понављања (ms)."
 
 #. Description of settings category with label #1259 "Zeroconf"
 msgctxt "#36341"
@@ -16801,7 +16796,7 @@ msgstr "Аутоматски пошаљи Буђење-преко-LAN серве
 #. Description of setting with label #21373 "Display Mode"
 msgctxt "#36351"
 msgid "Changes the way this application is displayed on the selected screen. Either in a window or fullscreen."
-msgstr "Мења начин на који је ова апликација приказана на одабраном екрану. Или у прозору или преко целог екрана"
+msgstr "Мења начин на који се ова апликација приказује на изабраном екрану. Било у прозору или преко целог екрана."
 
 #. Description of setting with label #169 "Resolution"
 msgctxt "#36352"
@@ -16973,7 +16968,7 @@ msgstr "Подесите лозинку proxy сервера."
 #. Description of setting with label #14041 "Internet connection bandwidth limitation"
 msgctxt "#36386"
 msgid "If your Internet connection has limited bandwidth available, use this setting to keep bandwidth usage by this application within defined limits."
-msgstr "Ако ваша интернет веза има ограничен проток, користите ова подешавања да би задржали коришћење протока од стране ове апликације унутар дефинисаних ограничења"
+msgstr "Ако ваша интернет веза има ограничен проток, користите ова подешавања да би задржали коришћење протока од стране ове апликације унутар дефинисаних ограничења."
 
 #. Description of settings category with label #14095 "Power saving"
 msgctxt "#36387"
@@ -17414,7 +17409,7 @@ msgstr "Жељени режим у коме би стереоскопски 3D �
 #. Description of setting with label #1269 "Allow volume control"
 msgctxt "#36541"
 msgid "Allows volume control from AirPlay clients."
-msgstr "Допушта подешавање јачине тона од стране AirPlay клијената"
+msgstr "Омогућава контролу јачине звука од AirPlay клијената."
 
 msgctxt "#36544"
 msgid "Enable hardware decoding of video files."
@@ -17524,7 +17519,7 @@ msgstr "ICC профил приказа"
 #. Description of setting "System -> Video output -> ICC display profile" with label #36566
 msgctxt "#36567"
 msgid "By providing a display profile, you can modify video parameters such as gamma, color primaries and whitepoint during playback. An ICC source profile is created based on the parameters and linked with the display ICC profile set here. This support is experimental and lacks near black adjustment towards display native black (causing raised black level) and white level scaling when a different whitepoint from display native is selected (as a workaround, adjust video brightness down to avoid clipping)."
-msgstr "Обезбеђивањем профила приказа, можете променити видео параметре као што су опсег боје, основне боје и белу тачку током репродукције. Профил ICC извора је направљен на основу параметара и повезан са ICC профилом приказа постављеним овде. Ова подршка је експериментална и недостаје јој подешавање за близину црне боје према изворној црној боји екрана (проузрокује повишене нивое црне боје) и скалирање нивоа беле боје када је другачија бела тачка од изворне екрана одабрана (као заобилазно решење, смањите осветљење видеа да би избегли одсецања)"
+msgstr "Обезбеђивањем профила приказа, можете променити видео параметре као што су опсег боје, основне боје и белу тачку током репродукције. Профил ICC извора је направљен на основу параметара и повезан са ICC профилом приказа постављеним овде. Ова подршка је експериментална и недостаје јој подешавање за близину црне боје према изворној црној боји екрана (проузрокује повишене нивое црне боје) и скалирање нивоа беле боје када је другачија бела тачка од изворне екрана одабрана (као заобилазно решење, смањите осветљење видеа да би избегли одсецања)."
 
 msgctxt "#36568"
 msgid "Whitepoint"
@@ -17765,7 +17760,7 @@ msgstr "Висок квалитет умањења"
 #. Description of setting "Pictures -> Slideshow -> High Quality Downscaling" with label #36619
 msgctxt "#36620"
 msgid "Enable high quality downscaling of pictures (uses more memory and has moderate performance impact)."
-msgstr "Омогући висок квалитет умањења слика (користи више меморије и има осредњи утицај на перформансе)"
+msgstr "Омогући висок квалитет умањења слика (користи више меморије и има осредњи утицај на перформансе)."
 
 #. Label of a setting, allow the maximum smbclient protocol to be configured
 msgctxt "#36621"
@@ -18021,7 +18016,7 @@ msgstr "Да ли желите да зауставите репродукциј�
 
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
-msgstr "Подесите подешавања кодера звука као што су квалитет и ниво компримовања."
+msgstr "Конфигуришите подешавања аудио кодера као што су квалитет и ниво компресије"
 
 msgctxt "#37026"
 msgid "Auto"
@@ -18259,25 +18254,21 @@ msgstr ""
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
-#, fuzzy
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr "{0:d} Byte"
+msgstr "{0:d} бајт"
 
 #. Value of setting - KByte
-#, fuzzy
 msgctxt "#37121"
 msgid "{0:d} KB"
 msgstr "{0:d} KB"
 
 #. Value of setting - MByte
-#, fuzzy
 msgctxt "#37122"
 msgid "{0:d} MB"
 msgstr "{0:d} MB"
 
 #. Value of setting - GByte
-#, fuzzy
 msgctxt "#37123"
 msgid "{0:d} GB"
 msgstr "{0:d} GB"
@@ -18339,7 +18330,6 @@ msgid "Unlimited"
 msgstr "Без ограничења"
 
 #. Used to format framerate values. {0:d} will be replaced with the according number/integer, like "24 fps", "50 fps"
-#, fuzzy
 msgctxt "#38016"
 msgid "{0:d} fps"
 msgstr "{0:d} fps"
@@ -18550,7 +18540,6 @@ msgid "Original date"
 msgstr "Изворни датум"
 
 #. Music property - Beats Per Minute
-#, fuzzy
 msgctxt "#38080"
 msgid "BPM"
 msgstr "BPM"
@@ -19240,7 +19229,7 @@ msgstr "Стилови"
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39158"
 msgid "Styles and positions"
-msgstr ""
+msgstr "Стилови и позиције"
 
 #. Subtitle border size setting toggle
 msgctxt "#39159"
@@ -19275,7 +19264,7 @@ msgstr ""
 #. Type of background for displaying the subtitles
 msgctxt "#39165"
 msgid "Background type"
-msgstr ""
+msgstr "Врста позадине"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39166"
@@ -19682,16 +19671,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Да ли сте сигурни да ћете уклонити додатак „{0:s}“?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr ""
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr ""
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19712,24 +19691,10 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Изаберите радњу скенера за видео додатке у директоријуму „ектра“.[CR][Омогућено] Скенирајте видео додатке као обичне видео снимке.[CR][Онемогућено] Додајте видео додатке у библиотеку за повезани видео."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr ""
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr ""
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr ""
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
+msgid "Assets"
 msgstr ""
 
 #. Button label for video versions
@@ -19750,11 +19715,6 @@ msgstr ""
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
 msgstr ""
 
 #. Title of the dialog for version rename action from Versions Manager
@@ -19785,11 +19745,6 @@ msgstr ""
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
 msgstr ""
 
 # Video versions
@@ -19918,6 +19873,22 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Изаберите верзију видеа"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Изаберите видео додатке"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Пребацивање између [Изабери], [Репродукуј] (подразумевано), [Настави], [Прикажи информације] и [Ставка у реду чекања].[CR][Изабери] ће отворити контекстни мени за избор ставке, нпр. прикажи информације.[CR][Репродукуј] ће аутоматски пуштати видео записе од почетка или ако постоји тачка наставка, питати да ли да се репродукује од почетка или да се настави.[CR][Настави] Аутоматски ће наставити видео записе са последње позиције на којој сте били. ако их прегледате.[CR][Прикажи информације] отвориће дијалог са информацијама о видео снимку.[CR][Ставка у реду чекања] ће додати видео на листу за репродукцију видеа."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Пребаците се између [Питај да ли се може наставити] (подразумевано) и [Настави].[CR][Питај да ли се може наставити] ће питати да ли да се игра од почетка или да се настави (ако постоји тачка за наставак).[CR][Настави] ће аутоматски бити постављена. наставите видео записе са последње позиције на којој сте их гледали.[CR]Ако није постављена тачка наставка, репродукција ће аутоматски почети од почетка."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-03-01 13:15+0000\n"
-"Last-Translator: Alexey <signfinder@gmail.com>\n"
+"PO-Revision-Date: 2025-03-18 06:40+0000\n"
+"Last-Translator: vgbsd <vg72i@protonmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.10.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Введите имя пользователя"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Введите путь или укажите расположение файлов."
@@ -4831,14 +4836,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Последнее обновление"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Выбрать версию видео"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Выбрать дополнительное видео"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5944,6 +5941,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Очистить по умолчанию"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Продолжить"
@@ -9535,7 +9533,7 @@ msgstr "Копия '{0:s}'"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Удалить запись"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -15985,8 +15983,8 @@ msgstr "Этот раздел содержит настройки списков
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Переключение между [Выбрать], [Воспроизвести] (по умолчанию), [Продолжить], [Показать информацию] и [В очередь].[CR][Выбрать] откроет контекстное меню для выбора элемента, например, показать информацию.[CR][Воспроизвести] автоматически воспроизведет видео с начала или, если присутствует точка возобновления, спросит, воспроизводить с начала или возобновить. [CR][Продолжить] автоматически возобновит воспроизведение видео с последнего места просмотра.[CR][Показать информацию] откроет диалог информации о видео.[CR][В очередь] добавит видео в список воспроизведения."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16112,8 +16110,8 @@ msgstr "Активировать функции просмотра и запис
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Переключение между [Спросить, если можно продолжить] (по умолчанию) и [Продолжить].[CR][Спросить, если можно продолжить] спросит, начинать ли воспроизведение с начала или продолжить (если есть точка для продолжения).[CR][Продолжить] автоматически продолжит воспроизведение видео с последней позиции, в которой вы его просматривали.[CR]Если точка продолжения не установлена, воспроизведение автоматически начнется с начала."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19668,16 +19666,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Подтвердите удаление \"{0:s}\"?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Выбор версии видео по умолчанию"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Определяет, как обрабатывать выбор видео с несколькими версиями.[CR][Включено] Автоматический выбор версии видео по умолчанию без запроса.[CR][Отключено] Отображение диалога для выбора версии видео."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19698,25 +19686,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Выберите действие при сканировании для видеофрагментов в папке \"extras\".[CR][Включено] Сканировать видеофрагменты как обычные видео.[CR][Отключено] Добавить видеофрагменты в медиатеку для соответствующего видео."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Показывать видео с несколькими версиями как папку"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Если включено, видео с несколькими версиями будет отображаться в виде папки в медиатеке. Эту папку можно открыть, чтобы отобразить отдельные версии видео. Если отключено, будет применяться настроенное действие выбора."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Выберите версию: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Воспроизвести версию, используя..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19737,11 +19711,6 @@ msgstr "Синхронизировать громкость с удаленны�
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "При выборе этого параметра уровень громкости удаленного плеера будет синхронизирован с уровнем громкости данного приложения.[CR]Предупреждение: Глобальный уровень громкости системы может отличаться от уровня громкости приложения - они управляются независимо.[CR]Это может привести к тому, что удаленный плеер будет установлен на 100 % громкости, если приложение имеет 100 % громкости, но общий уровень громкости системы меньше."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Выберите дополнительное: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19772,11 +19741,6 @@ msgstr "Новое имя..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Новое имя дополнительного"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Выберите версию"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19904,6 +19868,54 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Выбор версии видео по умолчанию"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Определяет, как обрабатывать выбор видео с несколькими версиями.[CR][Включено] Автоматический выбор версии видео по умолчанию без запроса.[CR][Отключено] Отображение диалога для выбора версии видео."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Выбрать версию видео"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Выбрать дополнительное видео"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Показывать видео с несколькими версиями как папку"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Если включено, видео с несколькими версиями будет отображаться в виде папки в медиатеке. Эту папку можно открыть, чтобы отобразить отдельные версии видео. Если отключено, будет применяться настроенное действие выбора."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Выберите версию: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Воспроизвести версию, используя..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Выберите дополнительное: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Выберите версию"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Переключение между [Выбрать], [Воспроизвести] (по умолчанию), [Продолжить], [Показать информацию] и [В очередь].[CR][Выбрать] откроет контекстное меню для выбора элемента, например, показать информацию.[CR][Воспроизвести] автоматически воспроизведет видео с начала или, если присутствует точка возобновления, спросит, воспроизводить с начала или возобновить. [CR][Продолжить] автоматически возобновит воспроизведение видео с последнего места просмотра.[CR][Показать информацию] откроет диалог информации о видео.[CR][В очередь] добавит видео в список воспроизведения."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Переключение между [Спросить, если можно продолжить] (по умолчанию) и [Продолжить].[CR][Спросить, если можно продолжить] спросит, начинать ли воспроизведение с начала или продолжить (если есть точка для продолжения).[CR][Продолжить] автоматически продолжит воспроизведение видео с последней позиции, в которой вы его просматривали.[CR]Если точка продолжения не установлена, воспроизведение автоматически начнется с начала."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

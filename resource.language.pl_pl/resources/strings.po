@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-03-10 20:26+0000\n"
+"PO-Revision-Date: 2025-04-10 17:02+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Wprowadź nazwę użytkownika"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr "Wprowadź ścieżkę..."
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Wprowadź ścieżki lub wybierz lokalizacje mediów."
@@ -4831,14 +4836,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Ostatnia aktualizacja"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Wybierz wersję wideo"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Wybierz dodatek wideo"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5943,6 +5940,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Przywróć domyślne"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Wznów"
@@ -15984,8 +15982,8 @@ msgstr "Kategoria zawierająca ustawienia związane z obsługą list wideo."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Przełączaj pomiędzy [Wybierz], [Odtwórz] (domyślnie), [Wznów], [Pokazuj informacje] i [Dodaj do kolejki].[CR][Wybierz] otworzy menu kontekstowe, w którym można wybrać element, np. pokazuj informacje.[CR][Odtwórz] automatycznie odtworzy filmy od początku. Jeśli dostępny jest punkt wznowienia, zapyta, czy odtwarzać od początku, czy wznowić.[CR][Wznów] automatycznie wznowi filmy od ostatniej pozycji, w której odtwarzano.[CR][Pokazuj informacje] otworzy okno dialogowe z informacjami o filmie.[CR][Dodaj do kolejki] dołączy film do listy odtwarzania wideo."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr "Przełączaj między opcjami [Wybierz], [Odtwórz] (domyślnie), [Pokazuj informacje] i [Dodaj do kolejki]. [CR][Wybierz] otworzy menu kontekstowe umożliwiające wybranie pozycji, np. wyświetlenie informacji. [CR][Odtwórz] odtworzy filmy zgodnie z ustawieniem „Domyślna czynność odtwarzania”. [CR][Pokazuj informacje] otworzy okno dialogowe z informacjami o filmie. [CR][Dodaj do kolejki] doda film do listy odtwarzania."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16111,8 +16109,8 @@ msgstr "Aktywuje funkcje odtwarzania i nagrywania telewizji (PVR). Opcja ta wyma
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Przełącz między [Zapytaj, jeśli można wznowić] (domyślnie) i [Wznów]. [CR][Zapytaj, jeśli można wznowić] zapyta, czy odtwarzać od początku, czy wznowić (jeśli obecny jest punkt wznowienia). [CR][Wznów] automatycznie wznowi filmy od ostatniej pozycji, w której były oglądane.[CR]Jeśli nie zostanie ustawiony żaden punkt wznowienia, odtwarzanie rozpocznie się automatycznie od początku."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr "Przełączaj między [Zapytaj, jeśli można wznowić] (domyślnie), [Wznów] i [Odtwarzaj od początku].[CR][Zapytaj, jeśli można wznowić] zapyta, czy odtwarzać od początku, czy wznowić (jeśli istnieje punkt wznowienia).[CR][Wznów] automatycznie wznowi odtwarzanie od ostatniej pozycji oglądania. Jeśli nie ustawiono punktu wznowienia, odtwarzanie automatycznie rozpocznie się od początku.[CR][Odtwarzaj od początku] automatycznie rozpocznie odtwarzanie od początku, ignorując wszelkie istniejące pozycje wznowienia."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19667,16 +19665,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Czy na pewno chcesz usunąć dodatek \"{0:s}\"?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Wybierz domyślną wersję wideo"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Określa sposób obsługi wyboru wideo z wieloma wersjami.[CR][Aktywne] Automatycznie wybiera domyślną wersję wideo bez monitowania.[CR][Nieaktywne] Wyświetla okno dialogowe, aby wybrać wersję wideo."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19697,25 +19685,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Wybierz działanie skanera dla dodatków wideo w folderze \"extras\".[CR][Włączone] Skanuj dodatki wideo jak zwykłe wideo.[CR][Wyłączone] Dodaj dodatki wideo do biblioteki dla powiązanego wideo."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Pokaż wideo z wieloma wersjami jako folder"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Gdy aktywne, wideo z wieloma wersjami będzie wyświetlane jako folder w bibliotece wideo. Folder ten można następnie otworzyć, aby wyświetlić poszczególne wersje wideo. Jeśli opcja jest nieaktywna, zostanie zastosowana skonfigurowane działanie wyboru."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Wybierz wersję: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Odtwórz wersję za pomocą..."
+msgid "Assets"
+msgstr "Zasoby"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19736,11 +19710,6 @@ msgstr "Synchronizuj poziom głośności ze zdalnymi odtwarzaczami UPnP"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Jeśli ta opcja zostanie wybrana, poziom głośności zdalnego odtwarzacza zostanie zsynchronizowany z głośnością tej aplikacji.[CR]Ostrzeżenie: globalny poziom głośności systemu może różnić się od poziomu głośności aplikacji – są one kontrolowane niezależnie.[CR]Może to spowodować, że zdalny odtwarzacz zostanie ustawiony na 100% poziomu głośności, jeśli aplikacja ma 100% poziom głośności, ale ogólny poziom głośności systemu jest mniejszy."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Wybierz dodatek: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19771,11 +19740,6 @@ msgstr "Nowa nazwa..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Nowa nazwa dodatku"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Wybierz wersję"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19903,6 +19867,54 @@ msgstr "Potwierdź usunięcie pliku"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jeśli włączone, zostanie wyświetlone okno dialogowe potwierdzenia, gdy pliki zostaną usunięte. Jeśli wyłączone, pliki zostaną usunięte bez potwierdzenia użytkownika."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Wybierz domyślną wersję wideo"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Określa sposób obsługi wyboru wideo z wieloma wersjami.[CR][Aktywne] Automatycznie wybiera domyślną wersję wideo bez monitowania.[CR][Nieaktywne] Wyświetla okno dialogowe, aby wybrać wersję wideo."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Wybierz wersję wideo"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Wybierz dodatek wideo"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Pokaż wideo z wieloma wersjami jako folder"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Gdy aktywne, wideo z wieloma wersjami będzie wyświetlane jako folder w bibliotece wideo. Folder ten można następnie otworzyć, aby wyświetlić poszczególne wersje wideo. Jeśli opcja jest nieaktywna, zostanie zastosowana skonfigurowane działanie wyboru."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Wybierz wersję: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Odtwórz wersję za pomocą..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Wybierz dodatek: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Wybierz wersję"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Przełączaj pomiędzy [Wybierz], [Odtwórz] (domyślnie), [Wznów], [Pokazuj informacje] i [Dodaj do kolejki].[CR][Wybierz] otworzy menu kontekstowe, w którym można wybrać element, np. pokazuj informacje.[CR][Odtwórz] automatycznie odtworzy filmy od początku. Jeśli dostępny jest punkt wznowienia, zapyta, czy odtwarzać od początku, czy wznowić.[CR][Wznów] automatycznie wznowi filmy od ostatniej pozycji, w której odtwarzano.[CR][Pokazuj informacje] otworzy okno dialogowe z informacjami o filmie.[CR][Dodaj do kolejki] dołączy film do listy odtwarzania wideo."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Przełącz między [Zapytaj, jeśli można wznowić] (domyślnie) i [Wznów]. [CR][Zapytaj, jeśli można wznowić] zapyta, czy odtwarzać od początku, czy wznowić (jeśli obecny jest punkt wznowienia). [CR][Wznów] automatycznie wznowi filmy od ostatniej pozycji, w której były oglądane.[CR]Jeśli nie zostanie ustawiony żaden punkt wznowienia, odtwarzanie rozpocznie się automatycznie od początku."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Felhasználónév"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Elérési-út megadása, vagy médiamappák tallózása"
@@ -4831,14 +4836,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Utoljára frissítve"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Videó verzió kiválasztása"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Video extra kiválasztása"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5943,6 +5940,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Alapértelmezés törlése"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Folytatás"
@@ -15980,8 +15978,8 @@ msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek videófáj
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Váltás a [Kiválasztás], [Lejátszás] (alapértelmezett), [Folytatás], [Információk megjelenítése] és [Várólista] között.[CR][Choose] megnyit egy helyi menüt egy elem kiválasztásához, pl. információk megjelenítése.[CR][Play] automatikusan lejátssza a videókat az elejétől, vagy ha van folytatási pont, kérdezze meg, hogy az elejétől vagy a folytatástól induljon-e el.[CR][Resume] Automatikusan folytatja a videókat az utolsó pozíciótól, ahol volt.[CR][Show information] megnyitja a videó információs párbeszédpanelt.[CR][Queue item] hozzáfűzi a videót a videó lejátszási listához."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16107,8 +16105,8 @@ msgstr "Engedélyezi a „személyes videófelvevő” (PVR) funkciókat. Ehhez 
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Váltás az [Ask if resumable] (alapértelmezett) és a [Resume] között.[CR][Ask if resumable] megkérdezi, hogy az elejétől kell-e játszani vagy folytatni (ha van folytatási pont). A [CR][Resume] automatikusan folytassa a videókat a legutóbbi megtekintési pozíciótól.[CR]Ha nincs beállítva folytatási pont, a lejátszás automatikusan elölről indul."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19660,16 +19658,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Biztosan eltávolítod az extra \"{0:s}\" elemet?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Válassza ki az alapértelmezett videóverziót"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Meghatározza, hogyan kell kezelni a több verziójú videók kiválasztását.[CR][Engedélyezve] Automatikusan válassza ki az alapértelmezett videóverziót felszólítás nélkül.[CR][Letiltva] A videó verziójának kiválasztásához párbeszédpanelt jelenít meg."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19690,25 +19678,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Válassza ki a szkenner műveletet a videó extrákhoz az \"extrák\" mappában.[CR][Engedélyezve] Vizsgálja be a videoextrákat, például a normál videókat.[CR][Letiltva] Videoextrák hozzáadása a társított videók könyvtárához."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Több verziójú videók megjelenítése mappaként"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Ha engedélyezve van, a több verziójú videó mappaként jelenik meg a videokönyvtárban. Ez a mappa ezután megnyitható az egyes videoverziók megjelenítéséhez. Ha le van tiltva, a konfigurált kiválasztási művelet kerül alkalmazásra."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Válasszon verziót: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "A verzió lejátszása ..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19729,11 +19703,6 @@ msgstr "Szinkronizálja a hangerőt a távoli UPnP lejátszókkal"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Ha kiválasztja, a távoli lejátszó hangereje szinkronizálva lesz az alkalmazás hangerejével.[CR]Figyelmeztetés: A rendszer globális hangereje eltérhet az alkalmazás hangerejének szintjétől – ezek egymástól függetlenül szabályozhatók.[CR]Ez arra késztetheti a távoli lejátszót, hogy 100%-os hangerőszintre kell állítani, ha az alkalmazás 100%-os hangerővel rendelkezik, de a rendszer teljes hangereje kisebb."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Válasszon extrát: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19764,11 +19733,6 @@ msgstr "Új név..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Új extra név"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Verzióválasztás"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19896,6 +19860,54 @@ msgstr "Erősítsd meg a fájl törlését"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ha engedélyezve van, egy megerősítő párbeszédpanel jelenik meg a fájlok törlésekor. Ha le van tiltva, a fájlok a felhasználó jóváhagyása nélkül törlődnek."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Válassza ki az alapértelmezett videóverziót"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Meghatározza, hogyan kell kezelni a több verziójú videók kiválasztását.[CR][Engedélyezve] Automatikusan válassza ki az alapértelmezett videóverziót felszólítás nélkül.[CR][Letiltva] A videó verziójának kiválasztásához párbeszédpanelt jelenít meg."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Videó verzió kiválasztása"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Video extra kiválasztása"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Több verziójú videók megjelenítése mappaként"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Ha engedélyezve van, a több verziójú videó mappaként jelenik meg a videokönyvtárban. Ez a mappa ezután megnyitható az egyes videoverziók megjelenítéséhez. Ha le van tiltva, a konfigurált kiválasztási művelet kerül alkalmazásra."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Válasszon verziót: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "A verzió lejátszása ..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Válasszon extrát: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Verzióválasztás"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Váltás a [Kiválasztás], [Lejátszás] (alapértelmezett), [Folytatás], [Információk megjelenítése] és [Várólista] között.[CR][Choose] megnyit egy helyi menüt egy elem kiválasztásához, pl. információk megjelenítése.[CR][Play] automatikusan lejátssza a videókat az elejétől, vagy ha van folytatási pont, kérdezze meg, hogy az elejétől vagy a folytatástól induljon-e el.[CR][Resume] Automatikusan folytatja a videókat az utolsó pozíciótól, ahol volt.[CR][Show information] megnyitja a videó információs párbeszédpanelt.[CR][Queue item] hozzáfűzi a videót a videó lejátszási listához."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Váltás az [Ask if resumable] (alapértelmezett) és a [Resume] között.[CR][Ask if resumable] megkérdezi, hogy az elejétől kell-e játszani vagy folytatni (ha van folytatási pont). A [CR][Resume] automatikusan folytassa a videókat a legutóbbi megtekintési pozíciótól.[CR]Ha nincs beállítva folytatási pont, a lejátszás automatikusan elölről indul."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

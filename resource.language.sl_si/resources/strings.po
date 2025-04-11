@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Vnesite uporabniško ime"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr ""
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Vnesite poti ali prebrskajte za predstavnimi vsebinami."
@@ -4841,14 +4846,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Zadnja posodobitev"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Izberite video različico"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Izberite dodaten video"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5956,6 +5953,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Počisti privzeto"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Nadaljuj"
@@ -16032,8 +16030,8 @@ msgstr "Ta kategorija vsebuje nastavitve za obravnavo seznamov video datotek."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Preklapljajte med [Izberi], [Predvajaj] (privzeto), [Nadaljuj], [Prikaži informacije] in [Element čakalne vrste].[CR][Izberi] bo odprl kontekstni meni za izbiro elementa, npr. pokaži informacije.[CR][Predvajaj] bo samodejno predvajal videoposnetke od začetka ali če je prisotna točka nadaljevanja, vprašaj, ali naj predvaja od začetka ali nadaljuje.[CR][Nadaljuj] Samodejno bo nadaljeval videoposnetke z zadnjega položaja, kjer ste bili.[CR][Prikaži informacije] bo odprl pogovorno okno z informacijami o videoposnetku.[CR][Postavka čakalne vrste] bo dodal video na seznam predvajanja videoposnetkov."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16159,8 +16157,8 @@ msgstr "Omogoča funkcije \"osebnega video snemalnika\" (PVR). To zahteva, da je
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Preklapljajte med [Vprašaj, če je mogoče nadaljevati] (privzeto) in [Nadaljuj].[CR] [Vprašaj, če je mogoče nadaljevati] bo vprašal, ali želite predvajati od začetka ali nadaljevati (če je prisotna točka nadaljevanja).[CR][Nadaljuj] bo samodejno nadaljujte videoposnetke od zadnjega položaja, kjer ste jih gledali.[CR]Če ni nastavljena nobena točka nadaljevanja, se bo predvajanje samodejno začelo od začetka."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19728,16 +19726,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr ""
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Izberite privzeto različico videa"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Določa, kako ravnati z izbiro videoposnetkov z več različicami.[CR][Omogočeno] Samodejno izberite privzeto različico videa brez poziva.[CR][Onemogočeno] Prikaži pogovorno okno za izbiro različice videoposnetka."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19758,25 +19746,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Izberite dejanje optičnega bralnika za video dodatke v mapi »extras«. [CR][Omogočeno] Skenirajte video dodatke kot običajne videoposnetke.[CR][Onemogočeno] Dodajte video dodatke v knjižnico za povezani video."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Prikaži videoposnetke z več različicami kot mapo"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Ko je omogočeno, bo video z več različicami prikazan kot mapa v video knjižnici. To mapo lahko nato odprete za prikaz posameznih video različic. Ko je onemogočeno, bo uporabljeno konfigurirano dejanje izbire."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Izberite različico: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Predvajaj različico z..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19797,11 +19771,6 @@ msgstr "Sinhronizirajte glasnost z oddaljenimi predvajalniki UPnP"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Če je izbrana, bo raven glasnosti oddaljenega predvajalnika sinhronizirana z glasnostjo te aplikacije.[CR]Opozorilo: Globalna sistemska raven glasnosti se lahko razlikuje od ravni glasnosti aplikacije – nadzirajo se neodvisno.[CR]To lahko povzroči, da oddaljeni predvajalnik nastavite na 100-odstotno raven glasnosti, če ima aplikacija 100-odstotno raven glasnosti, vendar je skupna sistemska raven glasnosti manjša."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Izberite dodatno: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19832,11 +19801,6 @@ msgstr "Novo ime..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Novo dodatno ime"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Izberite različico"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19964,6 +19928,54 @@ msgstr "Potrdite brisanje datoteke"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Če je omogočeno, bo prikazano potrditveno pogovorno okno, ko bodo datoteke izbrisane. Če je onemogočeno, bodo datoteke izbrisane brez potrditve uporabnika."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Izberite privzeto različico videa"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Določa, kako ravnati z izbiro videoposnetkov z več različicami.[CR][Omogočeno] Samodejno izberite privzeto različico videa brez poziva.[CR][Onemogočeno] Prikaži pogovorno okno za izbiro različice videoposnetka."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Izberite video različico"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Izberite dodaten video"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Prikaži videoposnetke z več različicami kot mapo"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Ko je omogočeno, bo video z več različicami prikazan kot mapa v video knjižnici. To mapo lahko nato odprete za prikaz posameznih video različic. Ko je onemogočeno, bo uporabljeno konfigurirano dejanje izbire."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Izberite različico: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Predvajaj različico z..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Izberite dodatno: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Izberite različico"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Preklapljajte med [Izberi], [Predvajaj] (privzeto), [Nadaljuj], [Prikaži informacije] in [Element čakalne vrste].[CR][Izberi] bo odprl kontekstni meni za izbiro elementa, npr. pokaži informacije.[CR][Predvajaj] bo samodejno predvajal videoposnetke od začetka ali če je prisotna točka nadaljevanja, vprašaj, ali naj predvaja od začetka ali nadaljuje.[CR][Nadaljuj] Samodejno bo nadaljeval videoposnetke z zadnjega položaja, kjer ste bili.[CR][Prikaži informacije] bo odprl pogovorno okno z informacijami o videoposnetku.[CR][Postavka čakalne vrste] bo dodal video na seznam predvajanja videoposnetkov."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Preklapljajte med [Vprašaj, če je mogoče nadaljevati] (privzeto) in [Nadaljuj].[CR] [Vprašaj, če je mogoče nadaljevati] bo vprašal, ali želite predvajati od začetka ali nadaljevati (če je prisotna točka nadaljevanja).[CR][Nadaljuj] bo samodejno nadaljujte videoposnetke od zadnjega položaja, kjer ste jih gledali.[CR]Če ni nastavljena nobena točka nadaljevanja, se bo predvajanje samodejno začelo od začetka."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."

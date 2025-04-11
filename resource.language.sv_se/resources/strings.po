@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-16 02:56+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2025-04-10 17:02+0000\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.10.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -341,7 +341,7 @@ msgstr "Vy: Lista"
 
 msgctxt "#102"
 msgid "Scan"
-msgstr "Skanna"
+msgstr "Sök igenom"
 
 msgctxt "#103"
 msgid "Sort by: Name"
@@ -689,7 +689,7 @@ msgstr "Välj alla"
 
 msgctxt "#189"
 msgid "Scanning media information"
-msgstr "Skannar mediainformation"
+msgstr "Söker efter mediainformation"
 
 msgctxt "#190"
 msgid "Save"
@@ -705,7 +705,7 @@ msgstr "Rensa"
 
 msgctxt "#193"
 msgid "Scan"
-msgstr "Skanna"
+msgstr "Sök igenom"
 
 #. label for "searching" message box heading
 msgctxt "#194"
@@ -816,7 +816,7 @@ msgstr "DVD-enhet"
 
 msgctxt "#219"
 msgid "Please insert disc"
-msgstr "Vänligen sätt i skiva"
+msgstr "Mata in skiva"
 
 msgctxt "#220"
 msgid "Remote share"
@@ -844,7 +844,7 @@ msgstr "Läs in information för ljud-CD från tjänst på nätet"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
-msgstr "Blanda spellistor under laddning"
+msgstr "Blanda spellistor under inläsning"
 
 msgctxt "#229"
 msgid "HDD spindown time"
@@ -1066,7 +1066,7 @@ msgstr "Använder standardinställningar"
 
 msgctxt "#281"
 msgid "Please check the XML files"
-msgstr "Vänligen kontrollera XML-filerna"
+msgstr "Kontrollera XML-filerna"
 
 msgctxt "#282"
 msgid "Found {0:d} items"
@@ -1684,7 +1684,7 @@ msgstr "Sätt i korrekt CD/DVD"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Vänligen sätt i följande skiva:"
+msgstr "Mata in följande skiva:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -1700,7 +1700,7 @@ msgstr "Ta bort filmen från biblioteket"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr ""
+msgstr "Vill du verkligen ta bort '{0:s}' från biblioteket?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1819,7 +1819,7 @@ msgstr "[aktiv]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Undertextström"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2643,32 +2643,32 @@ msgstr "Från metadata"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Ställ in kantstorlek."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Ställ in kantfärgen."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Ställ in oskärpa."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Ställ in skuggans färg."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Ställ in skuggans opacitet."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Ställ in skuggans storlek."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -2680,11 +2680,11 @@ msgstr "Raderar gamla låtar från bibliotek"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
-msgstr "Denna sökväg har skannats tidigare"
+msgstr "Denna sökväg har sökts igenom tidigare"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr "Kan inte rensa upp bibliotek medans bakgrundsuppgifter körs"
+msgstr "Kan inte städa biblioteket medans bakgrundsuppgifter körs"
 
 msgctxt "#705"
 msgid "Network"
@@ -2836,7 +2836,7 @@ msgstr "Bakgrundsopacitet"
 
 msgctxt "#747"
 msgid "Error loading image"
-msgstr "Fel vid laddning av bild"
+msgstr "Fel vid inläsning av bild"
 
 msgctxt "#748"
 msgid "Edit path"
@@ -3227,72 +3227,72 @@ msgstr "Giltigt portintervall är 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr ""
+msgstr "Valfri kanal från klienten \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "Alla kanaler från alla klienter"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Nyligen tillagda kanaler"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Klient"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Användare"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Alla kanaler]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Ta bort efter visning"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Ställ in om inspelningar ska tas bort efter visning."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Fråga"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Vill du ta bort den här inspelningen?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Inspelning togs bort: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3373,6 +3373,11 @@ msgstr "Ange portnumret"
 msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Ange användarnamn"
+
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr "Ange sökväg..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -4639,7 +4644,7 @@ msgstr "PVR guidesök"
 
 msgctxt "#10606"
 msgid "PVR channel scan"
-msgstr "PVR kanalskanning"
+msgstr "Sökning efter PVR-kanaler"
 
 msgctxt "#10607"
 msgid "PVR update progress"
@@ -4736,12 +4741,12 @@ msgstr "Meny"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "Videofilter"
 
 #. Title of the in-game video stretch mode selection dialog
 msgctxt "#10824"
 msgid "Stretch Mode"
-msgstr ""
+msgstr "Utsträckningsläge"
 
 #. Title of the in-game volume dialog
 msgctxt "#10825"
@@ -4756,7 +4761,7 @@ msgstr "Avancerade inställningar"
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "Rotation av video"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
@@ -4830,14 +4835,6 @@ msgstr "Installationsdatum"
 msgctxt "#12014"
 msgid "Last updated"
 msgstr "Senast uppdaterad"
-
-msgctxt "#12015"
-msgid "Select video version"
-msgstr ""
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr ""
 
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
@@ -4938,7 +4935,7 @@ msgstr "Ange knappkombination på spelkontrollen och"
 
 msgctxt "#12331"
 msgid "press \"OK\", or \"Back\" to cancel"
-msgstr "Tryck \"OK\" eller \"Tillbaka\" för att avbryta"
+msgstr "tryck \"OK\" eller \"Tillbaka\" för att avbryta"
 
 msgctxt "#12332"
 msgid "Set lock"
@@ -5030,7 +5027,7 @@ msgstr "Stäng av systemet om antal huvudlås-försök överskridits"
 
 msgctxt "#12367"
 msgid "Master code is not valid. Please enter a valid master code."
-msgstr "Huvudkoden är ogiltig. Vänligen ange en giltig huvudkod."
+msgstr "Huvudkoden är ogiltig. Ange en giltig huvudkod."
 
 msgctxt "#12373"
 msgid "Settings & file manager"
@@ -5108,17 +5105,17 @@ msgstr "Batterinivå"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Tack!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi presenteras med kärlek från Kodi Foundation, en ideell organisation enligt 501(c)(3). Tack för att du använder vår programvara!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5771,7 +5768,7 @@ msgstr "Sök på IMDb..."
 
 msgctxt "#13349"
 msgid "Scan for new content"
-msgstr "Skanna efter nytt innehåll"
+msgstr "Sök igenom efter nytt innehåll"
 
 msgctxt "#13350"
 msgid "Current playlist"
@@ -5783,11 +5780,11 @@ msgstr "Albuminformation"
 
 msgctxt "#13352"
 msgid "Scan item to library"
-msgstr "Skanna objekt till bibliotek"
+msgstr "Sök igenom objekt till bibliotek"
 
 msgctxt "#13353"
 msgid "Stop scanning"
-msgstr "Stoppa skanning"
+msgstr "Stoppa genomsökning"
 
 msgctxt "#13354"
 msgid "Render method"
@@ -5897,7 +5894,7 @@ msgstr "Mata ut/Mata in"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Val av ström"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -5943,6 +5940,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Rensa standard"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Återuppta"
@@ -6030,7 +6028,7 @@ msgstr "Kom ihåg för denna sökväg"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "Välj spellista"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6075,7 +6073,7 @@ msgstr "Aktivera HQ-skalare för skalning över"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Justera skärmens HDR-läge"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6173,12 +6171,12 @@ msgstr "Föredra VAAPI renderingsmetod"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Använd avkodningsfilter"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Aktivera/inaktivera det filter som blockerar vissa Android-programvaruavkodare. Detta filter kan konfigureras via filen [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6228,36 +6226,36 @@ msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering f
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Använd AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Aktivera detta alternativ för att använda maskinvaruacceleration för AVC-kodek. Om alternativet inaktiveras används CPU:n istället."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "HQ-uppskalare för mellanformat"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Ställer in precisionen för den mellanliggande skalningsbufferten som används i GPU-renderingsstigen. 16-bitarsprecision kräver sannolikt mer prestanda. Om maskinvaran inte kan stödja det valda formatet kommer Kodi att falla tillbaka till det näst bästa formatet."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 bitar per kanal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 bitar per kanal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 bitar per kanal"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6314,7 +6312,7 @@ msgstr "Gränsvärde för pitchkorrigering"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "När hastighetsändringen överskrider detta tröskelvärde tillämpas ett korrigeringsfilter för tonläget. På så sätt undviks de \"ekorr-röster\" som normalt uppstår när en video snabbas upp"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6421,7 +6419,7 @@ msgstr "Apple fjärrkontrollsfel"
 
 msgctxt "#13621"
 msgid "Apple Remote support couldn't be enabled."
-msgstr "Stödet för Apple's fjärrkontroll kunde inte aktiveras."
+msgstr "Stödet för Apples fjärrkontroll kunde inte aktiveras."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -6621,15 +6619,15 @@ msgstr "{0:2.1f} dB"
 
 msgctxt "#14055"
 msgid "Use background scanning"
-msgstr "Använd bakgrundsskanning"
+msgstr "Använd bakgrundssökning"
 
 msgctxt "#14056"
 msgid "Stop scan"
-msgstr "Stoppa skanning"
+msgstr "Stoppa genomsökning"
 
 msgctxt "#14057"
 msgid "Not possible while scanning for media information"
-msgstr "Inte möjligt medan du skannar efter mediainfo"
+msgstr "Inte möjligt medan du söker efter mediainformation"
 
 msgctxt "#14058"
 msgid "Film grain effect"
@@ -6909,11 +6907,11 @@ msgstr "Tillåt dubbel uppdateringsfrekvens"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Avancerat"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Köer för ljud/video i spelare"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7138,15 +7136,15 @@ msgstr "Tillåt fjärrstyrning från program på andra system"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Underhåll"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Töm bildcachen"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Ta omedelbart bort oanvända bilder från cachen - bilder som inte är associerade med ett objekt i mediebiblioteket eller har visats nyligen. Kodi gör detta över tid i bakgrunden."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7961,11 +7959,11 @@ msgstr "Det finns redan en tidtagare för denna händelse"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} kan inte spelas upp."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Den här inspelningen kan inte spelas upp."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -8003,11 +8001,11 @@ msgstr "Inspelning"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Kontrollera din konfiguration."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Inga PVR-klienter har startats ännu. Vänta på att PVR-klienterna ska starta."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8285,7 +8283,7 @@ msgstr "Leverantör"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
-msgstr "Vänligen byt till en annan kanal."
+msgstr "Byt till en annan kanal."
 
 #. Title of numeric dialog for choosing a channel by entering a number
 msgctxt "#19103"
@@ -8320,17 +8318,17 @@ msgstr "Bildfrekvensreserv"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Det gick inte att spara timern."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Det gick inte att ta bort timern."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "Fel i PVR-bakände."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8449,7 +8447,7 @@ msgstr "Kanal otillgänglig"
 #. channel group manager dialog error message box text
 msgctxt "#19137"
 msgid "No groups defined. Please create a group first"
-msgstr "Inga grupper definierade. Vänligen skapa en grupp först"
+msgstr "Inga grupper definierade. Skapa en grupp först"
 
 #. Label of timer rules tv/radio home submenu item
 msgctxt "#19138"
@@ -8580,7 +8578,7 @@ msgstr "Inspelningar"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Det gick inte att starta inspelningen."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8595,7 +8593,7 @@ msgstr "PVR-information"
 #. pvr settings "scan for missing channel icons" action button label
 msgctxt "#19167"
 msgid "Scan for missing icons"
-msgstr "Skanna efter saknade ikoner"
+msgstr "Sök efter saknade ikoner"
 
 #. label for PVR number of deleted recordings in system information's PVR section
 msgctxt "#19168"
@@ -8610,7 +8608,7 @@ msgstr "Dölj rutan med videoinformation"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Det gick inte att stoppa inspelningen."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8721,12 +8719,12 @@ msgstr "PVR-tjänst"
 #. info message box text stating that none of the available pvr clients does support channel scanning
 msgctxt "#19192"
 msgid "None of the connected PVR backends supports scanning for channels."
-msgstr "Inget av de anslutna PVR-backendsystemen stödjer kanalsökning."
+msgstr "Inget av de anslutna PVR-bakändssystemen har stöd för kanalsökning."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Kanalsökningen kan inte startas."
 
 #. unused?
 msgctxt "#19194"
@@ -9065,7 +9063,7 @@ msgstr "Föräldrakontroll. Ange PIN:"
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Det gick inte att uppdatera timern."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9109,7 +9107,7 @@ msgstr "Inga PVR-tillägg hittades"
 #. label for 'pvr configuration incomplete' information dialog text
 msgctxt "#19272"
 msgid "To use PVR you need to install, enable and configure a PVR add-on. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "För att använda PVR så behöver du installera, aktivera och konfigurera PVR-tillägget. Vänligen besök http://kodi.wiki/view/PVR för att lära dig mer."
+msgstr "För att använda PVR så behöver du installera, aktivera och konfigurera PVR-tillägget. Besök http://kodi.wiki/view/PVR för att lära dig mer."
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
@@ -9499,42 +9497,42 @@ msgstr "Användarpreferens"
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr ""
+msgstr "Använd kanalgruppsordning från bakänd(e/ar)"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "Catchup / Video On Demand"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "Spela nästa program automatiskt"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "Spela program härifrån"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr ""
+msgstr "Spela endast detta program"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicera"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Kopia av '{0:s}'"
 
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Ta bort inspelning"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -10124,11 +10122,11 @@ msgstr "Konflikt"
 
 msgctxt "#20024"
 msgid "Scan new"
-msgstr "Skanna nya"
+msgstr "Sök efter nya"
 
 msgctxt "#20025"
 msgid "Scan all"
-msgstr "Skanna alla"
+msgstr "Sök igenom alla"
 
 msgctxt "#20026"
 msgid "Region"
@@ -10302,7 +10300,7 @@ msgstr "Skalinställningar"
 
 msgctxt "#20078"
 msgid "- no link set -"
-msgstr "- ingen länk satt -"
+msgstr "- ingen länk inställd -"
 
 msgctxt "#20079"
 msgid "Enable animations"
@@ -10510,7 +10508,7 @@ msgstr "Ta bort nätverksplats"
 
 msgctxt "#20135"
 msgid "Do you want to scan the folder?"
-msgstr "Vill du skanna mappen?"
+msgstr "Vill du söka igenom mappen?"
 
 msgctxt "#20136"
 msgid "Memory unit"
@@ -10711,7 +10709,7 @@ msgstr "Använd postervisning för tv-serier"
 
 msgctxt "#20186"
 msgid "Please wait"
-msgstr "Vänligen vänta"
+msgstr "Vänta"
 
 msgctxt "#20187"
 msgid "UPnP / DLNA"
@@ -10921,27 +10919,27 @@ msgstr "Sortera efter: ID"
 
 msgctxt "#20317"
 msgid "Scanning movies using {0:s}"
-msgstr "Skanna filmer med {0:s}"
+msgstr "Söker igenom filmer med {0:s}"
 
 msgctxt "#20318"
 msgid "Scanning music videos using {0:s}"
-msgstr "Skanna musikvideor med {0:s}"
+msgstr "Söker igenom musikvideor med {0:s}"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
-msgstr "Skanna tv-serier med {0:s}"
+msgstr "Söker igenom tv-serier med {0:s}"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
-msgstr "Skanna artister med {0:s}"
+msgstr "Söker igenom artister med {0:s}"
 
 msgctxt "#20321"
 msgid "Scanning albums using {0:s}"
-msgstr "Skanna album med {0:s}"
+msgstr "Söker igenom album med {0:s}"
 
 msgctxt "#20322"
 msgid "Content scanning options"
-msgstr "Alternativ för innehållsskanning"
+msgstr "Alternativ för innehållssökning"
 
 msgctxt "#20323"
 msgid "Movie plot"
@@ -11034,11 +11032,11 @@ msgstr "Denna mapp innehåller"
 
 msgctxt "#20345"
 msgid "Run automated scan"
-msgstr "Kör automatisk skanning"
+msgstr "Kör automatisk genomsökning"
 
 msgctxt "#20346"
 msgid "Scan recursively"
-msgstr "Skanna i undermappar"
+msgstr "Sök igenom rekursivt"
 
 msgctxt "#20347"
 msgid "as"
@@ -11177,7 +11175,7 @@ msgstr "Vald mapp innehåller en enstaka tv-serie"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
-msgstr "Exkludera vald mapp vid skanning"
+msgstr "Exkludera vald mapp vid genomsökning"
 
 msgctxt "#20381"
 msgid "Specials"
@@ -11317,7 +11315,7 @@ msgstr "Visa fanart i video och musikbibliotek"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
-msgstr "Skannar efter nytt innehåll"
+msgstr "Söker efter nytt innehåll"
 
 msgctxt "#20416"
 msgid "First aired"
@@ -12313,7 +12311,7 @@ msgstr "XP kommentar"
 #. Used in context menu
 msgctxt "#21845"
 msgid "Scan to library"
-msgstr "Skanna till bibliotek"
+msgstr "Sök igenom till bibliotek"
 
 msgctxt "#21857"
 msgid "Sub-location"
@@ -12603,12 +12601,12 @@ msgstr "Teckenuppsättning"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr ""
+msgstr "Standardåtgärd för uppspelning"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "Fråga om återuppta"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -12735,7 +12733,7 @@ msgstr "Undertexter"
 
 msgctxt "#24013"
 msgid "Lyrics"
-msgstr "Sångtexter"
+msgstr "Låttexter"
 
 msgctxt "#24014"
 msgid "TV information"
@@ -13298,18 +13296,18 @@ msgstr "Tillägg avinstallerat"
 #. Used as an event log title for the video library scanner
 msgctxt "#24145"
 msgid "Video library scanner"
-msgstr "Skanner för videobibliotek"
+msgstr "Genomsökare för videobibliotek"
 
 #. Used as an event log title for the music library scanner
 msgctxt "#24146"
 msgid "Music library scanner"
-msgstr "Skanner för musikbibliotek"
+msgstr "Genomsökare för musikbibliotek"
 
 #. Used as an event log description for files that failed to be processed by the library scanner
 #. Failed to scan <media type>: <filename>
 msgctxt "#24147"
 msgid "Failed to scan {0:s}: {1:s}"
-msgstr "Misslyckad skanning av {0:s}: {1:s}"
+msgstr "Misslyckades att söka igenom {0:s}: {1:s}"
 
 msgctxt "#24148"
 msgid "Incompatible add-ons"
@@ -13322,12 +13320,12 @@ msgstr "Följande tillägg är inkompatibelt med denna version av Kodi och har a
 #. Progress text on splash screen
 msgctxt "#24150"
 msgid "Database migration in progress - please wait"
-msgstr "Datasbasmigrering pågår - vänligen vänta"
+msgstr "Datasbasmigrering pågår - vänta"
 
 #. Progress text on splash screen
 msgctxt "#24151"
 msgid "Add-on migration in progress - please wait"
-msgstr "Tilläggsmigrering pågår - vänligen vänta"
+msgstr "Tilläggsmigrering pågår - vänta"
 
 #. Inform about not supported addon if tried to enable
 msgctxt "#24152"
@@ -13573,7 +13571,7 @@ msgstr "BD-J menyfel"
 #. Body text for the BD-J warning dialog
 msgctxt "#29804"
 msgid "There was an error encountered loading Java, so BD-J menus will not be functional at this time. BD-J menus require the Java Runtime Environment so make sure this is installed and functioning on your system."
-msgstr "Det uppstod ett fel vid laddning av Java, så BD-J-menyer kommer inte att fungera för närvarande. BD-J-menyer kräver Java Runtime Environment, så se till att det här är installerat och fungerar på ditt system."
+msgstr "Det uppstod ett fel vid inläsning av Java, så BD-J-menyer kommer inte att fungera för närvarande. BD-J-menyer kräver Java Runtime Environment, så se till att det här är installerat och fungerar på ditt system."
 
 #. Body text for the encryption error kaitoast
 msgctxt "#29805"
@@ -14014,7 +14012,7 @@ msgstr "Roller"
 #. Label for multi-disc movies, including movie title (param 0) and disc number (param 1).
 msgctxt "#29995"
 msgid "{0:s} (Disc {1:s})"
-msgstr ""
+msgstr "{0:s} (Skiva {1:s})"
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -14315,7 +14313,7 @@ msgstr "Fjärrkommunikationsserver"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr "Du har tidigare aktiverat webbgränssnittet utan att ha ställt in ett lösenord. Webbservern har inaktiverats tills du antingen uttryckligen tillåter detta eller ställer in autentisering. Vänligen kontrollera inställningarna."
+msgstr "Du har tidigare aktiverat webbgränssnittet utan att ha ställt in ett lösenord. Webbservern har inaktiverats tills du antingen uttryckligen tillåter detta eller ställer in autentisering. Kontrollera inställningarna."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14437,27 +14435,27 @@ msgstr "För att hålla vissa AVR-enheter igång skickar vi en ohörbar slumpmä
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "Inkludera LFE vid nedmixning"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr ""
+msgstr "Om den här inställningen är aktiverad kommer LFE-kanalen att inkluderas i mixningen när det inte finns någon dedikerad LFE-utgångskanal tillgänglig. Detta är bara meningsfullt för fullrange-högtalare."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50 %"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -15244,7 +15242,7 @@ msgstr "I denna utgåva kan endast spelkontroller användas för att spela spel.
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
 msgid "Save / Load"
-msgstr "Spara /Ladda"
+msgstr "Spara /Läs in"
 
 msgctxt "#35250"
 msgid "Add games..."
@@ -15309,7 +15307,7 @@ msgstr "Ange lösenord för ditt RetroAchievements-konto"
 #. Label for notification events regarding RetroAchievements login
 msgctxt "#35264"
 msgid "RetroAchievements"
-msgstr ""
+msgstr "RetroAchievements"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35265"
@@ -15341,12 +15339,12 @@ msgstr "Växla denna inställning för att logga in eller ut från RetroAchievem
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
-msgstr "Ditt konto är inte verifierat. Vänligen kontrollera din e-post för att slutföra din registrering."
+msgstr "Ditt konto är inte verifierat. Kontrollera din e-post för att slutföra din registrering."
 
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Detta spel kräver OpenGL-stöd för 3D-rendering. OpenGL-stöd är fortfarande under utveckling."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15419,7 +15417,7 @@ msgstr "Väck enheter när skärmsläckaren deaktiveras"
 
 msgctxt "#36011"
 msgid "Couldn't detect the CEC com port. Please configure it manually."
-msgstr "Kunde inte hitta CEC-porten. Vänligen konfigurera den manuellt."
+msgstr "Kunde inte hitta CEC-porten. Konfigurera den manuellt."
 
 msgctxt "#36012"
 msgid "Couldn't initialise the CEC adapter. Please check your settings."
@@ -15465,7 +15463,7 @@ msgstr "Konfiguration uppdaterad"
 
 msgctxt "#36024"
 msgid "Failed to set the new configuration. Please check your settings."
-msgstr "Misslyckades att tillämpa den nya konfigurationen. Vänligen kontrollera dina inställningar."
+msgstr "Misslyckades att tillämpa den nya konfigurationen. Kontrollera dina inställningar."
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
@@ -15591,19 +15589,19 @@ msgstr "Uppspelningsenhet"
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36053"
 msgid "Tuner Device"
-msgstr ""
+msgstr "Mottagarenhet"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
 msgid "Use system HDR/SDR brightness balance"
-msgstr ""
+msgstr "Använd systemets HDR/SDR-ljusbalans"
 
 # empty strings from id 36054 to 36096
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36097"
 msgid "GUI peak luminance in HDR PQ mode"
-msgstr ""
+msgstr "Grafiska gränssnittets högsta luminans i HDR PQ-läge"
 
 # empty strings from id 36051 to 36097
 #. Label of setting "System / Display / Use 10 bit for SDR"
@@ -15834,7 +15832,7 @@ msgstr "Sök efter nya mediafiler vid uppstart."
 #. Description of setting with label #22001 "Hide progress of library updates"
 msgctxt "#36147"
 msgid "Hide the library scanning progress bar during scans."
-msgstr "Dölj förloppsindikatorn när bibliotek skannas."
+msgstr "Dölj förloppsindikatorn när bibliotek söks igenom."
 
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
@@ -15978,8 +15976,8 @@ msgstr "Denna kategori innehåller inställingar för hur videofillistor hantera
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Växla mellan [Välj], [Spela] (standard), [Fortsätt], [Visa information] och [Köobjekt].[CR][Välj] öppnar en snabbmeny för att välja ett objekt, t.ex. visa information.[CR][Spela] kommer automatiskt att spela upp videor från början eller om en återupptagningspunkt finns, fråga om du vill spela från början eller återuppta.[CR][Resume] Kommer automatiskt att återuppta videor från den senaste positionen du var på tittar på dem.[CR][Visa information] öppnar videons informationsdialog.[CR][Köobjekt] lägger till videon till videospellistan."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr "Växla mellan [Välj], [Spela upp] (standard), [Visa information] och [Lägg till objekt i kö].[CR][Välj] öppnar en kontextmeny för att välja ett objekt, t.ex. visa information.[CR][Spela upp] spelar upp videor enligt inställningen ”Standardåtgärd för uppspelning”.[CR][Visa information] öppnar videons informationsdialog.[CR][Lägg till objekt i kö] lägger till videon i videospelningslistan."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -15989,7 +15987,7 @@ msgstr "Extrahera metadata-information som codec och bildförhållande från vid
 #. Description of setting with label #20419 "Replace file names with library titles"
 msgctxt "#36179"
 msgid "When a file is scanned into the library it will display the metadata title instead of the file name."
-msgstr "När en fil skannas till biblioteket kommer den att visa metadata-titeln istället för filnamnet."
+msgstr "När en fil söks igenom till biblioteket kommer den att visa metadata-titeln istället för filnamnet."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36180"
@@ -16053,7 +16051,7 @@ msgstr "Ange en egen mapp för dina undertexter. Det kan vara en utdelad resurs.
 #. Description of setting with label #21460 "Subtitle location on screen"
 msgctxt "#36192"
 msgid "Location of subtitles on the screen. [Bottom of video] / [Top of video] When possible the subtitles will be positioned within the video area (depends on video encoding). Please note that some forced positions in the subtitles cannot be changed."
-msgstr ""
+msgstr "Placering av undertexter på skärmen. [Nederst i videon] / [Överst i videon] När så är möjligt placeras undertexterna inom videoområdet (beror på videokodningen). Observera att vissa tvingande positioner i undertexterna inte kan ändras."
 
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
@@ -16105,8 +16103,8 @@ msgstr "Aktivera \"Personal Video Recorder\" (PVR)-funktioner. Detta kräver att
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr ""
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr "Växla mellan [Fråga om återuppta] (standard), [Återuppta] och [Spela från början].[CR][Fråga om återuppta] frågar om du vill spela från början eller återuppta (om det finns en återupptagningspunkt).[CR][Återuppta] återupptar automatiskt uppspelningen från den senaste positionen där du tittade på dem. Om ingen återupptagningspunkt har angetts startar uppspelningen automatiskt från början.[CR][Spela från början] startar automatiskt uppspelningen från början och ignorerar eventuella befintliga återupptagningspositioner."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16126,7 +16124,7 @@ msgstr "Be backenden att söka efter kanaler (om det stöds)."
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr ""
+msgstr "Töm databaserna på PVR-data som kanaler, grupper, påminnelser och guide. Observera att inte alla data kan återställas från bakänden efteråt."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -16214,7 +16212,7 @@ msgstr "Visa information om signalkvalitet i fönstret för codecinformation (om
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "Ställ in undertextens bakgrundsopacitet."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16515,7 +16513,7 @@ msgstr "Vid sortering av musikobjekt efter artist, använder sorteringsnamn som 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "Ställ in undertextens opacitet."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16532,7 +16530,7 @@ msgstr "Om det är aktiverat kommer en inspelning för programmet att påminnas 
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "Tillåt att skärmens HDR-läge ändras för att bäst matcha mediet. När den är inaktiverad tillämpar Kodi tonemapping om det behövs (och om det stöds av din maskinvara) för att anpassa media till det aktuella HDR-läget på skärmen."
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
@@ -16563,7 +16561,7 @@ msgstr "Denna kategori innehåller inställningar för hur fillistor för bilder
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr ""
+msgstr "Om du inte använder kanalnummer i bakänden startar alla gruppers kanalnummer från 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -16822,7 +16820,7 @@ msgstr "Kalibrera användargränssnittet genom att justera overscan. Använd det
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr ""
+msgstr "Tillåt användning av kanalnumrering från flera bakändar. Observera att gruppen Alla kanaler kan innehålla flera av samma kanalnummer om du använder det här alternativet. Detta innebär att hopp till kanalnummer kanske inte fungerar korrekt för gruppen Alla kanaler."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -17193,7 +17191,7 @@ msgstr "Om aktiverad, byt till kanalen med programmet för att påminna när på
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr ""
+msgstr "Sortera kanalgrupper efter den ordning som tillhandahålls av bakänd(en/ar). Om detta är aktiverat kan grupperna inte omordnas i grupphanteraren"
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -17216,7 +17214,7 @@ msgstr "Alla förråd"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "Aktivera automatisk uppspelning av nästa program när du spelar upp tidigare program (catchup) eller för Video On Demand (VOD)-kanaler. Observera att catchup och VOD endast fungerar om det stöds av kanalleverantören."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17420,7 +17418,7 @@ msgstr "Anger det visuella djupet för undertexter i stereoskopiska 3D-filmer. J
 #. Description of setting with label #36097 "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36547"
 msgid "Sets the peak luminance level for GUI elements while the display is in HDR PQ mode. This affects all OSD, subtitles and graphics that are SDR in origin."
-msgstr ""
+msgstr "Ställer in den maximala luminansnivån för GUI-element när skärmen är i HDR PQ-läge. Detta påverkar alla OSD, undertexter och grafik som är SDR i ursprung."
 
 #. Description of setting with label #37021 "Set GUI resolution limit"
 msgctxt "#36548"
@@ -17797,7 +17795,7 @@ msgstr "Minimum protokollversion"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Ange den minsta SMB-protokollversion som ska förhandlas när anslutningar upprättas. Det kan vara nödvändigt att tvinga fram SMBv2 för att förhindra att SMBv1 används på vissa system. Endast SMBv2.1 och SMBv3 stöder Large MTU (chunk size > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17837,7 +17835,7 @@ msgstr "Du måste först ange ett lösenord innan webbserverautentisering kan ak
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 och Large MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -17973,12 +17971,12 @@ msgstr "(Regissörens kommentarer 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18043,7 +18041,7 @@ msgstr "Tillgänglighet"
 #. Description of category #287 Subtitles
 msgctxt "#37033"
 msgid "This category contains the settings for subtitles"
-msgstr ""
+msgstr "Denna kategori innehåller inställningar för undertexter"
 
 #. Setting #37034 Accessibility
 msgctxt "#37034"
@@ -18131,170 +18129,170 @@ msgstr "Utförlig loggning för komponenten [B]WS-Discovery[/B]"
 #. Setting #37051 NFS Protocol Version"
 msgctxt "#37051"
 msgid "NFS Protocol Version"
-msgstr ""
+msgstr "Version av NFS-protokoll"
 
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr ""
+msgstr "Version av NFS-protokollet som ska användas vid upprättande av NFS-anslutningar"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "Datastorlek"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "Storlek på NFS-data"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "Datastorlek som används på NFS-anslutningar"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "Storlek på SMB-data"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "Datastorlek som används vid SMB-anslutningar"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "Cachning"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "Den här kategorin innehåller inställningar som konfigurerar cachelagring av lokala filer och nätverksfiler samt internetströmmar."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "Buffertläge"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "Konfigurera det medieinnehåll som ska buffras."
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "Minnesstorlek"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "Storleken på minnesbufferten i Mbyte. Om du anger noll (0) tvingas buffringen till disken, vilket inte rekommenderas på frånkopplingsbara lagringsenheter (eMMC, SD-kort, SSD)."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "Läsfaktor"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "Bestämmer hur snabbt cacheminnet fylls i termer av genomsnittlig bitfrekvens för strömmen x läsfaktor. Om denna multipel ökas fylls cacheminnet snabbare. Stora multiplar kan orsaka CPU-toppar på vissa enheter, mätta anslutningen och försämra prestandan.[CR][Adaptive] Använder dynamiskt beräknad läsfaktor baserat på cache-nivå."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "Den datastorlek som ska användas när ett filsystem eller protokoll inte tvingar fram värdet, t.ex. kommer NFS att åsidosätta detta med sitt eget värde."
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "Ingen buffert"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "Buffrar endast äkta internetströmmar: HTTP, HTTPS, etc."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "Buffra alla internetfilsystem, inklusive: FTP, WebDAV, etc."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "Buffra alla nätverksfilsystem, inklusive: SMB, NFS, etc."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "Buffra alla filsystem, inklusive lokala filer"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Cachelagrar hela filen på hårddisken"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Adaptiv"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} byte"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KB"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MB"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} GB"
 
 # empty strings from id 37124 to 37127
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} sekund"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} sekunder"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Kötid för ljud/video"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Varaktighet i sekunder för ljud-/videoköer. Varaktigheten avgör hur mycket data som lagras i minnet."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Maximal storlek på videokö"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Begränsar den maximala minnesanvändningen för videokön. Hur mycket minne som används beror på videobitfrekvensen och längden på kön. Om minnesgränsen nås minskas kötiden vid behov."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18440,7 +18438,7 @@ msgstr "Alla roller"
 #. Question when forced rescan of music tags needed after upgrade from previous version of Kodi
 msgctxt "#38060"
 msgid "Music library needs to rescan tags from files. Would you like to scan now?"
-msgstr "Musikbiblioteket behöver skanna om filtaggarna. Vill du skanna nu?"
+msgstr "Musikbiblioteket behöver genomsöka taggar från filer igen. Vill du söka igenom nu?"
 
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
@@ -18450,7 +18448,7 @@ msgstr "Hämta tilläggsinformation om album och artister? Det kan ta en stund, 
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
 msgid "Do full tag scan even when music files are unchanged?"
-msgstr "Gör fullständig tagg-skanning även när musikfilerna är oförändrade?"
+msgstr "Gör fullständig taggsökning även när musikfilerna är oförändrade?"
 
 #. Item in selection list #38338. Settings will change the default addon used to fetch artist or album information, related to #20195, #20193 and #20194
 msgctxt "#38063"
@@ -18544,12 +18542,12 @@ msgstr "Utgivningsstatus"
 #. Displayed in a toast notification when music items are added to a playlist
 msgctxt "#38082"
 msgid "Added to end of playlist"
-msgstr ""
+msgstr "Tillagd i slutet av spellistan"
 
 #. Displayed in a toast notification when music items are added to a playlist to play next
 msgctxt "#38083"
 msgid "Added to playlist to play next"
-msgstr ""
+msgstr "Tillagd i spellistan för att spela nästa"
 
 #. Description of section #14200 "Player""
 msgctxt "#38100"
@@ -18584,7 +18582,7 @@ msgstr "Denna kategori innehåller inställningar för uppspelning av bilder via
 #. Description of category #14213 "Language"
 msgctxt "#38106"
 msgid "This category contains the settings for audio / subtitles language and accessibility"
-msgstr ""
+msgstr "Den här kategorin innehåller inställningar för ljud/undertexter, språk och tillgänglighet"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
@@ -18614,12 +18612,12 @@ msgstr "Denna kategori innehåller andra inställningar för det grafiska gräns
 #. Description of setting with label #12381 "Switch to visualisation on playback"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
-msgstr ""
+msgstr "Gå automatiskt till visualiseringsfönstret när ljuduppspelningen startar"
 
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Denna kategori innehåller avancerade inställningar för videouppspelning"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -18769,7 +18767,7 @@ msgstr "Ange leverantörer för artistinformation"
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
 msgid "Fetch additional information and art during scan"
-msgstr "Hämta ytterligare information och bilder under skanningen"
+msgstr "Hämta ytterligare information och bilder under genomsökning"
 
 #. Scraper to use for additional album information. See #20193
 msgctxt "#38334"
@@ -19068,7 +19066,7 @@ msgstr "Utsmyckning"
 #. Label for component level debug logging setting
 msgctxt "#39124"
 msgid "Verbose logging for the [B]Add-ons[/B] component"
-msgstr ""
+msgstr "Utförlig loggning för komponenten [B]Tillägg[/B]"
 
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
@@ -19081,7 +19079,7 @@ msgstr "Använd alla lokala bildfiler som omslag"
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr ""
+msgstr "Alla bildfiler som ligger bredvid mediefilerna plockas upp som illustrationer under bibliotekets genomsökning, med filnamnet som illustrationstyp."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
@@ -19090,11 +19088,11 @@ msgstr "Använd alla fjärromslag som hämtats av skrapare"
 #. Description of setting with label #39129 "Use all remote artwork fetched by scrapers"
 msgctxt "#39130"
 msgid "Use the first of each art type of the remote artwork in scraper results to fill any missing art not populated with local art."
-msgstr ""
+msgstr "Använd den första av varje omslagstyp för fjärromslaget i skraparresultaten för att fylla i eventuella saknade omslag som inte fyllts i med lokala omslag."
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr ""
+msgstr "Vitlista för omslagstyper för artister"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
@@ -19103,7 +19101,7 @@ msgstr "Begränsa artistomslag som hämtas lokalt eller tillämpas från skrapar
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
-msgstr ""
+msgstr "Vitlista över typer av albumomslag"
 
 #. Description of setting with label #39133 "Album art types whitelist"
 msgctxt "#39134"
@@ -19117,16 +19115,16 @@ msgstr "Tumnagel bildfiler"
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr ""
+msgstr "Namnen på filer som innehåller primära illustrationer (miniatyrbilder), vanligtvis kvadratiska och används både i full storlek och i förminskad storlek för att visuellt identifiera en mapp, artist, album eller låt"
 
 msgctxt "#39137"
 msgid "Artwork level"
-msgstr ""
+msgstr "Omslagsnivå"
 
 #. Description of setting with label #39137 "Artwork level"
 msgctxt "#39138"
 msgid "The amount of artwork automatically selected - [Maximum] all local images and remote art; [Basic] save space on limited devices or when using a simple skin; [Custom] configured by user for detailed control; [None] no art"
-msgstr ""
+msgstr "Mängden omslagsbilder som väljs automatiskt - [Maximalt] alla lokala bilder och fjärrbilder; [Grundläggande] spara utrymme på begränsade enheter eller vid användning av ett enkelt skin; [Anpassat] konfigureras av användaren för detaljerad kontroll; [Ingen] ingen illustration"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
@@ -19145,7 +19143,7 @@ msgstr "Anpassad"
 
 msgctxt "#39143"
 msgid "Movie art types whitelist"
-msgstr ""
+msgstr "Vitlista över typer av filmomslag"
 
 #. Description of setting with label #39150 "Movie art types whitelist"
 msgctxt "#39144"
@@ -19154,7 +19152,7 @@ msgstr "Begränsa filmen och omslag som hämtas lokalt eller tillämpas från sk
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr ""
+msgstr "Vitlista för omslagstyper för tv-program"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
@@ -19163,21 +19161,21 @@ msgstr "Begränsa TV-serien och säsongomslag som hämtas lokalt eller tillämpa
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
-msgstr ""
+msgstr "Vitlista över omslagstyper för avsnitt"
 
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Begränsa avsnittsomslag som hämtas lokalt eller tillämpas från skraparens fjärromslagsresultat till bara de omslagstyper som finns i vitlistan"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
-msgstr ""
+msgstr "Vitlista för omslagstyper för musikvideor"
 
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Begränsa de musikvideoomslag som hämtas lokalt eller tillämpas från skraparens fjärromslag till bara de omslagstyper som finns i vitlistan"
 
 #. Display Hardware scaling filter setting toggle
 msgctxt "#39151"
@@ -19187,7 +19185,7 @@ msgstr "Visa hårdvaruskalningsfilter"
 #. Description
 msgctxt "#39152"
 msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr ""
+msgstr "Heltalsskalning (IS) är en Nearest-Neighbor-teknik (NN) för uppskalning med hjälp av Display Engine"
 
 msgctxt "#39153"
 msgid "Windowing system:"
@@ -19241,7 +19239,7 @@ msgstr "Vänster"
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39163"
 msgid "Center"
-msgstr ""
+msgstr "Centrera"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39164"
@@ -19296,166 +19294,166 @@ msgstr "Suddighet"
 #. SystemInfo string for the display's supported HDR types
 msgctxt "#39174"
 msgid "Display supported HDR types"
-msgstr ""
+msgstr "HDR-typer som stöds av skärmen"
 
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
 msgid "Building font cache in progress - please wait"
-msgstr ""
+msgstr "Bygger teckensnittscache - vänta"
 
 #. Helper text for gui sound volume setting
 msgctxt "#39176"
 msgid "Relative volume for gui sounds"
-msgstr ""
+msgstr "Relativ volym för ljud i grafiska gränssnittet"
 
 #. Dialog caption related to the speech to text process
 msgctxt "#39177"
 msgid "Speech to text"
-msgstr ""
+msgstr "Tal till text"
 
 #. Dialog text to notify that the speech service is not available
 msgctxt "#39178"
 msgid "Speech recognition service not available"
-msgstr ""
+msgstr "Tjänsten för taligenkänning är inte tillgänglig"
 
 #. Dialog text to notify that microphone is listening
 msgctxt "#39179"
 msgid "Listening..."
-msgstr ""
+msgstr "Lyssnar..."
 
 #. Dialog text to notify that there has been no matching recognition result
 msgctxt "#39180"
 msgid "No recognition result matched"
-msgstr ""
+msgstr "Inget igenkännande resultat matchat"
 
 #. Dialog text to notify that there has been a speech recognition error
 msgctxt "#39181"
 msgid "Speech recognition error"
-msgstr ""
+msgstr "Fel vid taligenkänning"
 
 #. Subtitle vertical margin setting
 msgctxt "#39182"
 msgid "Vertical margin"
-msgstr ""
+msgstr "Vertikal marginal"
 
 #. Help text for setting "Vertical margin" of label #39182
 msgctxt "#39183"
 msgid "Allows you to add a margin in top and bottom aligned text. Changing this setting will affect also subtitle position set with the Video calibration."
-msgstr ""
+msgstr "Gör det möjligt att lägga till en marginal i topp- och bottenjusterad text. Om du ändrar denna inställning påverkas även undertextens position som ställts in med videokalibreringen."
 
 #. Window screen calibration: the current subtitle calibration value with vertical margin
 msgctxt "#39184"
 msgid "Current value: {0:d} (with vertical margin: {1:d})"
-msgstr ""
+msgstr "Aktuellt värde: {0:d} (med vertikal marginal: {1:d})"
 
 #. Dialog text to notify that there are insufficient permissions for speech recognition
 msgctxt "#39185"
 msgid "Insufficient permissions for speech recognition"
-msgstr ""
+msgstr "Otillräckliga behörigheter för taligenkänning"
 
 #. Title of group menu subtitles
 msgctxt "#39186"
 msgid "Styles for text based subtitles"
-msgstr ""
+msgstr "Stilar för textbaserade undertexter"
 
 #. Title of group menu subtitles
 msgctxt "#39187"
 msgid "Closed caption subtitles"
-msgstr ""
+msgstr "Undertexter för dold textning"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39188"
 msgid "No background"
-msgstr ""
+msgstr "Ingen bakgrund"
 
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr ""
+msgstr "Endast tillgänglig med manuell undertextposition"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr ""
+msgstr "[PÅ] Ljusstyrkan för grafiskt användargränssnitt i HDR-läge följer systemets inställning. Detta påverkar alla OSD, undertexter och grafik som är SDR i ursprung.[CR][AV] Ställ in max ljusstyrka manuellt."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
 msgid "HDR"
-msgstr ""
+msgstr "HDR"
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "Inaktivera skärmsläckaren när ljud spelas upp"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "Om musik spelas kommer skärmsläckaren aldrig att aktiveras"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr ""
+msgstr "Aktiverar avancerad DXVA-uppskalning med hjälp av NVIDIA \"RTX Video Super Resolution\" eller \"Intel Video Super Resolution\".[CR]Används när videokällan är 1920x1080 eller mindre och källans upplösning är lägre än bildskärmens upplösning.[CR]Endast tillgänglig på viss maskinvara: NVIDIA RTX 20xx, 30xx, 40xx och högre, Intel Arc A770, A750."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Aktivera detta alternativ för bästa möjliga bildkvalitet. Om du inaktiverar minskar belastningen på resursbegränsade system."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "Kompatibilitetsläge för Dolby Vision"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "Om den är aktiverad konverteras Dolby Vision-profil 7 till profil 8.1, som oftast stöds av enheter. Aktivera om din enhet stöder Dolby Vision, men har problem med vissa videor."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Tillåtna dynamiska metadataformat för HDR"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "Ändrar videobitströmmen för att ta bort dynamiska HDR-metadata. Välj de HDR-format som din enhet och skärm stöder."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Radavstånd"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Justera avståndet mellan textraderna. Om du ställer in ett för lågt värde kan det hända att rutorna överlappar varandra när inställningen \"Bakgrundstyp\" används."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Ställ in CC-undertexter endast för hörselskadade"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Om du aktiverar den kommer CC-undertexter att märkas för hörselskadade; detta påverkar det automatiska valet av undertexter, som om inget annat anges inte kommer att visas som standard."
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19466,12 +19464,12 @@ msgstr "Versioner"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "Hantera versioner"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "Lägg till som version till..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19481,122 +19479,122 @@ msgstr "Version"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Välj typ"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "Åtgärden stöds inte"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "Den valda filmen har flera versioner, vilket förhindrar att den konverteras till en version av en annan film. Ta bort versionerna från filmen, sök igenom biblioteket och konvertera dem individuellt."
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "Versionen \"{0:s}\" finns redan!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "Olika filmversioner hittades"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "Hittade en annan version av filmen \"{0:s}\": {1:s}. Skulle du vilja konvertera den till en ytterligare version av originalet?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "videoversion"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "videoversioner"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "Videoversion"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "Videoversioner"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "Lägg till version"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "Lägg till extramaterial"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Den valda videon är redan \"{0:s}\"-versionen av filmen."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Den valda videon är \"{0:s}\"-versionen av filmen \"{1:s}\". Vill du flytta versionen till den här filmen?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "Ta bort videoversion"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Standardversionen av en film kan inte tas bort. Ställ in en annan standardversion och försök igen."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "Är du säker på att ta bort version \"{0:s}\"?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Vill du verkligen ta bort '{0:s}' och alla dess versioner från biblioteket?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "Hantera {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "Ställ in som standard"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Versionshanterare: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Hanterare för extramaterial: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "Den valda videon är redan \"{0:s}\" extramaterialet i filmen."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "Den valda videon är extramaterialet \"{0:s}\" i filmen \"{1:s}\". Vill du flytta extramaterialet till den här filmen?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19606,107 +19604,83 @@ msgstr "Bläddra bland filer"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "Bläddra i bibliotek"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "Välj film som ska läggas till som en version"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "Inga andra filmer hittades i biblioteket."
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "Inga liknande filmer hittades i biblioteket."
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Standardversionen av en film med flera versioner kan inte läggas till som extramaterial till en annan film. Flytta eller ta bort de andra versionerna först."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Du är på väg att konvertera en extrafilm till en filmversion. Är du säker på det?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Du är på väg att konvertera en filmversion till en extrafilm. Är du säker på det?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "Den film som ska läggas till har flera versioner.[CR]Typen för standardversionen kommer att väljas i nästa dialogruta. De andra versionerna behåller sin nuvarande typ.[CR]Vill du fortsätta?"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Standardversionen av en film med flera versioner kan inte läggas till i en annan film. Flytta eller ta bort de andra versionerna först."
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Ta bort extravideo"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
-
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr ""
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr ""
+msgstr "Är du säker på att du har tagit bort extramaterialet \"{0:s}\"?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ignorera olika videoversioner vid genomsökning"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "Välj genomsökningsåtgärd för olika videoversioner.[CR][Aktiverad] Lägg till olika videoversioner i biblioteket separat utan bekräftelse.[CR][Inaktiverad] Fråga om konvertering av olika videoversioner till ytterligare versioner av originalet."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "Ignorera videoextramaterial vid genomsökning"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "Välj genomsökningsåtgärd för videoextramaterial i mappen \"extras\".[CR][Aktiverad] Skanna videoextramaterial som vanliga videor.[CR][Inaktiverad] Lägg till videoextramaterial i biblioteket för tillhörande video."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr ""
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr ""
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr ""
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr ""
+msgid "Assets"
+msgstr "Resurser"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19716,184 +19690,218 @@ msgstr "Versioner"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "Extramaterial"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Synkronisera volymnivån till fjärr-UPnP-spelare"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr ""
+msgstr "Om detta väljs kommer fjärrspelarens volymnivå att synkroniseras med volymen i den här applikationen.[CR]Varning: Det globala systemets volymnivå kan skilja sig från applikationens volymnivå - de styrs oberoende av varandra.[CR]Detta kan leda till att fjärrspelaren ställs in på 100% volymnivå om applikationen har 100% volymnivå men den totala systemvolymen är lägre."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Välj versionstyp"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Ny typ..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Ny versionstyp"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Välj extranamn"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Nytt namn..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr ""
+msgstr "Nytt extranamn"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Standardutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Utökad utgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Oklassificerad version"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Oklippt version"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Omarbetad version"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Theatrical Cut"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Director's Cut"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Specialutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Begränsad utgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Komplett utgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Den sista klippningen"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Super Duper Cut"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Samlarutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Ultimate Collector's Edition"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Criterion Collection-utgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Fan Edit"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Svart och vit utgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "10-årsjubileumsutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "20-årsjubileumsutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "25-årsjubileumsutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "30-årsjubileumsutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "40-årsjubileumsutgåva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "50-årsjubileumsutgåva"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Bekräfta borttagning av fil"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Om den är aktiverad visas en bekräftelsedialog när filer ska tas bort. Om den är inaktiverad tas filerna bort utan att användaren bekräftar detta."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Välj standardversion av video"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Definierar hur val av videor med flera versioner ska hanteras.[CR][Aktiverad] Välj automatiskt standardversionen av videon utan att fråga.[CR][Inaktiverad] Visa en dialog för att välja en version av videon."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Välj videoversion"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Välj extramaterial för video"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Visa videor med flera versioner som mapp"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "När funktionen är aktiverad visas en video med flera versioner som en mapp i videobiblioteket. Denna mapp kan sedan öppnas för att visa de enskilda videoversionerna. När funktionen är inaktiverad tillämpas den konfigurerade valåtgärden."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Välj version: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Spela versionen med..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Välj extramaterial: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Välj version"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Växla mellan [Välj], [Spela] (standard), [Fortsätt], [Visa information] och [Köobjekt].[CR][Välj] öppnar en snabbmeny för att välja ett objekt, t.ex. visa information.[CR][Spela] kommer automatiskt att spela upp videor från början eller om en återupptagningspunkt finns, fråga om du vill spela från början eller återuppta.[CR][Resume] Kommer automatiskt att återuppta videor från den senaste positionen du var på tittar på dem.[CR][Visa information] öppnar videons informationsdialog.[CR][Köobjekt] lägger till videon till videospellistan."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
