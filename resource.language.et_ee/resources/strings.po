@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-20 17:07+0000\n"
+"PO-Revision-Date: 2025-04-10 17:02+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3374,6 +3374,11 @@ msgctxt "#1019"
 msgid "Enter the username"
 msgstr "Sisesta kasutajanimi"
 
+#. Label for button to enter path in the Add video/music/picture/file source dialogs
+msgctxt "#1020"
+msgid "Enter path..."
+msgstr "Sisesta rada..."
+
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
 msgstr "Sisesta rajad või sirvi meedia asukohti."
@@ -4829,14 +4834,6 @@ msgctxt "#12014"
 msgid "Last updated"
 msgstr "Viimati uuendatud"
 
-msgctxt "#12015"
-msgid "Select video version"
-msgstr "Vali video versioon"
-
-msgctxt "#12016"
-msgid "Select video extra"
-msgstr "Vali video lisamaterjal"
-
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
@@ -5941,6 +5938,7 @@ msgctxt "#13403"
 msgid "Clear default"
 msgstr "Puhasta vaikeväärtus"
 
+#. Button label used in play disc ask resume dialog
 msgctxt "#13404"
 msgid "Resume"
 msgstr "Jätka"
@@ -9532,7 +9530,7 @@ msgstr "'{0:s}' koopia"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Kustuta salvestis"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -15976,8 +15974,8 @@ msgstr "See kategooria sisaldab videofailide loenditega seotud seadeid."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
-msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Vaheta [Vali], [Esita] (vaikimisi), [Jätka], [Kuva teave] ja [Lisa järjekorda] vahel.[CR][Vali] avab kontekstimenüü, millest saad teha oma valiku.[CR][Esita] käivitab video automaatselt algusest või kui on olemas jätkamispunkt, siis küsib, kas esitada algusest või jätkata. [CR][Jätka] jätkab automaatselt video vaatamist viimasest vaatamiskohast. [CR][Kuva teave] avab video infoakna. [CR][Lisa järjekorda] lisab video esitusloendisse."
+msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+msgstr ""
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16103,8 +16101,8 @@ msgstr "Lubab funktsioonid \"Personal Video Recorder - Isiklik videosalvesti\" (
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
-msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
-msgstr "Vaheta [Küsi, kui saab jätkata] (vaikimisi) ja [Jätka] vahel.[CR] [Küsi, kui saab jätkata] avab menüü, millest saab valida, kas esitada algusest või jätkata pooleli jäänud kohast.[CR] [Jätka] jätkab automaatselt pooleli jäänud kohast.[CR] Kui jätkupunkti ei ole määratud, algab taasesitus automaatselt algusest."
+msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
+msgstr ""
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19656,16 +19654,6 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Kas oled kindel, et eemaldad lisamaterjali \"{0:s}\"?"
 
-#. Select default video version setting
-msgctxt "#40200"
-msgid "Select default video version"
-msgstr "Vali video vaikeversioon"
-
-#. Help for select default video version setting
-msgctxt "#40201"
-msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
-msgstr "Määrab, kuidas käsitleda mitme versiooniga videote valimist.[CR][Lubatud] Valib video vaikeversiooni küsimata.[CR][Keelatud] Kuvab video versiooni valiku."
-
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19686,25 +19674,11 @@ msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
 msgstr "Vali lisamaterjalide skaneerimistoiming kaustas \"extras\".[CR][Lubatud] Skaneeri lisamaterjalid tavalise videona.[CR][Keelatud] Lisa need seotud video lisamaterjalina."
 
-#. Show video versions as folder settting
-msgctxt "#40206"
-msgid "Show videos with multiple versions as folder"
-msgstr "Kuva mitme versiooniga videod kaustana"
-
-#. Help for show video versions as folder settting
-msgctxt "#40207"
-msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
-msgstr "Kui lubatud, kuvatakse mitme versiooniga video meediakogus kaustana. Seejärel saab selle kausta avada, et kuvada erinevad video versioonid. Kui keelatud, kasutatakse määratud valikutoimingut."
-
-#. Choose video version dialog title
-msgctxt "#40208"
-msgid "Choose version: {}"
-msgstr "Vali versioon: {}"
-
-#. First choose video version and then select a player and play context menu item label
+# empty strings from id 40206 to 40208
+#. Button label for video assets
 msgctxt "#40209"
-msgid "Play version using..."
-msgstr "Esita versioon kasutades..."
+msgid "Assets"
+msgstr ""
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19725,11 +19699,6 @@ msgstr "Sünkrooni helitugevus UPnP pleieritega"
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
 msgstr "Kui lubatud, sünkroonitakse kaugpleieri helitugevus selle rakenduse helitugevusega.[CR]Hoiatus: globaalne süsteemi helitugevus võib rakenduse helitugevusest erineda – neid juhitakse sõltumatult.[CR]Tulemuseks võib kaugpleieri helitugevus olla 100%, kui rakenduse helitugevus on 100%, kuigi süsteemi üldine helitugevus on väiksem."
-
-#. Dialog title for the selection of the video extra
-msgctxt "#40214"
-msgid "Choose extra: {}"
-msgstr "Vali lisamaterjal: {}"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19760,11 +19729,6 @@ msgstr "Uus nimi..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Uus lisamaterjali nimi"
-
-#. Choose video version context menu item label
-msgctxt "#40221"
-msgid "Choose version"
-msgstr "Vali versioon"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19892,6 +19856,54 @@ msgstr "Kinnita faili kustutamine"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Kui see on lubatud, kuvatakse failide kustutamisel kinnitusdialoog. Kui see on keelatud, kustutatakse failid ilma kasutaja kinnituseta."
+
+#~ msgctxt "#40200"
+#~ msgid "Select default video version"
+#~ msgstr "Vali video vaikeversioon"
+
+#~ msgctxt "#40201"
+#~ msgid "Defines how to handle selection of videos with multiple versions.[CR][Enabled] Automatically select the default video version without prompting.[CR][Disabled] Display a dialogue to select a version of the video."
+#~ msgstr "Määrab, kuidas käsitleda mitme versiooniga videote valimist.[CR][Lubatud] Valib video vaikeversiooni küsimata.[CR][Keelatud] Kuvab video versiooni valiku."
+
+#~ msgctxt "#12015"
+#~ msgid "Select video version"
+#~ msgstr "Vali video versioon"
+
+#~ msgctxt "#12016"
+#~ msgid "Select video extra"
+#~ msgstr "Vali video lisamaterjal"
+
+#~ msgctxt "#40206"
+#~ msgid "Show videos with multiple versions as folder"
+#~ msgstr "Kuva mitme versiooniga videod kaustana"
+
+#~ msgctxt "#40207"
+#~ msgid "When enabled, a video with multiple versions will be shown as a folder in the video library. This folder can then be opened to display the individual video versions. When disabled, the configured select action will be applied."
+#~ msgstr "Kui lubatud, kuvatakse mitme versiooniga video meediakogus kaustana. Seejärel saab selle kausta avada, et kuvada erinevad video versioonid. Kui keelatud, kasutatakse määratud valikutoimingut."
+
+#~ msgctxt "#40208"
+#~ msgid "Choose version: {}"
+#~ msgstr "Vali versioon: {}"
+
+#~ msgctxt "#40209"
+#~ msgid "Play version using..."
+#~ msgstr "Esita versioon kasutades..."
+
+#~ msgctxt "#40214"
+#~ msgid "Choose extra: {}"
+#~ msgstr "Vali lisamaterjal: {}"
+
+#~ msgctxt "#40221"
+#~ msgid "Choose version"
+#~ msgstr "Vali versioon"
+
+#~ msgctxt "#36177"
+#~ msgid "Toggle between [Choose], [Play] (default), [Resume], [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will automatically play videos from the beginning or if a resume point is present ask whether to play from beginning or to resume.[CR][Resume] Will automatically resume videos from the last position that you were viewing them.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
+#~ msgstr "Vaheta [Vali], [Esita] (vaikimisi), [Jätka], [Kuva teave] ja [Lisa järjekorda] vahel.[CR][Vali] avab kontekstimenüü, millest saad teha oma valiku.[CR][Esita] käivitab video automaatselt algusest või kui on olemas jätkamispunkt, siis küsib, kas esitada algusest või jätkata. [CR][Jätka] jätkab automaatselt video vaatamist viimasest vaatamiskohast. [CR][Kuva teave] avab video infoakna. [CR][Lisa järjekorda] lisab video esitusloendisse."
+
+#~ msgctxt "#36204"
+#~ msgid "Toggle between [Ask if resumable] (default) and [Resume].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume videos from the last position that you were viewing them.[CR]If no resume point is set, playback will automatically start from the beginning."
+#~ msgstr "Vaheta [Küsi, kui saab jätkata] (vaikimisi) ja [Jätka] vahel.[CR] [Küsi, kui saab jätkata] avab menüü, millest saab valida, kas esitada algusest või jätkata pooleli jäänud kohast.[CR] [Jätka] jätkab automaatselt pooleli jäänud kohast.[CR] Kui jätkupunkti ei ole määratud, algab taasesitus automaatselt algusest."
 
 #~ msgctxt "#36629"
 #~ msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some OS."
