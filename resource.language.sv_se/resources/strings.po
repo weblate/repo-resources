@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-10 17:02+0000\n"
+"PO-Revision-Date: 2025-04-12 12:25+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -32,7 +32,7 @@ msgstr "Videor"
 
 msgctxt "#4"
 msgid "TV guide"
-msgstr "TV-guide"
+msgstr "TV-tablå"
 
 msgctxt "#5"
 msgid "Settings"
@@ -2983,12 +2983,12 @@ msgstr "Typ"
 #. Label of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#804"
 msgid "Search guide for"
-msgstr "Sök guide efter"
+msgstr "Sök tablå efter"
 
 #. Help of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#805"
 msgid "Enter the search string to use to lookup matching events in the guide"
-msgstr "Ange söksträngen som ska användas för att leta upp matchande händelser i guiden"
+msgstr "Ange söksträngen som ska användas för att leta upp matchande händelser i tablån"
 
 #. Label of "Fulltext search" edit field in PVR timer settings dialog
 msgctxt "#806"
@@ -3070,7 +3070,7 @@ msgstr "En gång"
 #. Representation of an epg-based one-time timer.
 msgctxt "#821"
 msgid "One time (guide-based)"
-msgstr "En gång (guidebaserat)"
+msgstr "En gång (tablåbaserat)"
 
 #. Representation of a timer rule
 msgctxt "#822"
@@ -3080,7 +3080,7 @@ msgstr "Tidregel"
 #. Representation of an epg-based timer rule.
 msgctxt "#823"
 msgid "Timer rule (guide-based)"
-msgstr "Tidregel (guidebaserad)"
+msgstr "Tidsregel (tablåbaserad)"
 
 #. Complete prefixed representation of a reminder timer type.
 msgctxt "#824"
@@ -4620,7 +4620,7 @@ msgstr "Text-tv"
 
 msgctxt "#10600"
 msgid "PVR guide info"
-msgstr "PVR guideinfo"
+msgstr "PVR-tablåinfo"
 
 msgctxt "#10601"
 msgid "PVR recording info"
@@ -4640,7 +4640,7 @@ msgstr "PVR kanalmanager"
 
 msgctxt "#10605"
 msgid "PVR guide search"
-msgstr "PVR guidesök"
+msgstr "PVR-tablåsökning"
 
 msgctxt "#10606"
 msgid "PVR channel scan"
@@ -4656,7 +4656,7 @@ msgstr "PVR OSD-kanaler"
 
 msgctxt "#10609"
 msgid "PVR OSD guide"
-msgstr "PVR OSD-guide"
+msgstr "PVR OSD-tablå"
 
 msgctxt "#10610"
 msgid "PVR radio RDS info"
@@ -4676,7 +4676,7 @@ msgstr "TV-inspelningar"
 
 msgctxt "#10702"
 msgid "TV guide"
-msgstr "TV-guide"
+msgstr "TV-tablå"
 
 msgctxt "#10703"
 msgid "TV timers"
@@ -4696,7 +4696,7 @@ msgstr "Radioinspelningar"
 
 msgctxt "#10707"
 msgid "Radio guide"
-msgstr "Radioguide"
+msgstr "Radiotablå"
 
 msgctxt "#10708"
 msgid "Radio timers"
@@ -7804,7 +7804,7 @@ msgstr "Hitta liknande"
 #. label for epg import progress control
 msgctxt "#19004"
 msgid "Importing guide from clients"
-msgstr "Importera guider från klienter"
+msgstr "Importera tablå från klienter"
 
 #. used by several skins
 msgctxt "#19005"
@@ -7844,7 +7844,7 @@ msgstr "UNC"
 #. label for PVR backend name in system information's PVR section
 msgctxt "#19012"
 msgid "PVR backend"
-msgstr "PVR-backend"
+msgstr "PVR-bakände"
 
 #. PVR 'channel encryption system' textual presentation for free to air channels
 msgctxt "#19013"
@@ -7864,7 +7864,7 @@ msgstr "Kryptering"
 #. unused?
 msgctxt "#19016"
 msgid "PVR backend {0:d} - {1:s}"
-msgstr "PVR backend {0:d} - {1:s}"
+msgstr "PVR-bakände {0:d} - {1:s}"
 
 #. generic label for pvr recordings used in different places
 msgctxt "#19017"
@@ -7924,7 +7924,7 @@ msgstr "Inga sökresultat"
 #. label used in pvr guide window views to indicate that there are no epg data for the current view (channel, now, next)
 msgctxt "#19028"
 msgid "No guide entries"
-msgstr "Inga guideposter"
+msgstr "Inga tablåposter"
 
 #. generic 'channel' label used in different places
 msgctxt "#19029"
@@ -7973,7 +7973,7 @@ msgstr "Visa signalkvalitet"
 #. message box text stating that a PVR backend does not support a certain functionality.
 msgctxt "#19038"
 msgid "Not supported by the PVR backend."
-msgstr "Stöds inte av den PVR-backend du använder."
+msgstr "Stöds inte av den PVR-bakände du använder."
 
 #. message box text asking for confirmation to hide a channel.
 msgctxt "#19039"
@@ -8120,7 +8120,7 @@ msgstr "Inspelningsinställningar"
 #. generic label for the electronic program guide (EPG) used in different places
 msgctxt "#19069"
 msgid "Guide"
-msgstr "Guide"
+msgstr "Tablå"
 
 #. Label for epg grid window "jump to now" (current programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19070"
@@ -8209,7 +8209,7 @@ msgstr "Direktinspelningsåtgärd"
 #. Label for "Instant recording action" settings value
 msgctxt "#19087"
 msgid "Record current show (if guide data available)"
-msgstr "Spela in nuvarande serie (om guidedata finns)"
+msgstr "Spela in nuvarande serie (om tablådata finns)"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19088"
@@ -8368,7 +8368,7 @@ msgstr "Kan inte använda PVR-funktioner under pågående sökning."
 #. channel scan backend selection dialog text
 msgctxt "#19119"
 msgid "On which backend do you want to search?"
-msgstr "På vilken backend vill du söka?"
+msgstr "På vilken bakände vill du söka?"
 
 #. label for PVR client number in system information's PVR section
 msgctxt "#19120"
@@ -8471,7 +8471,7 @@ msgstr "Grupp"
 
 msgctxt "#19142"
 msgid "Search guide"
-msgstr "Sökguide"
+msgstr "Sök i tablå"
 
 msgctxt "#19143"
 msgid "Group management"
@@ -8700,12 +8700,12 @@ msgstr "Rensar data."
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
 msgid "All guide data will be cleared. Are you sure?"
-msgstr "All din guide-data kommer att rensas. Är du säker?"
+msgstr "All din tablådata kommer att tömmas. Är du säker?"
 
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
 msgid "The PVR backend does not allow to record this event."
-msgstr "PVR-backend tillåter inte att spela in denna händelse."
+msgstr "PVR-bakände tillåter inte att spela in denna händelse."
 
 #. generic "play program" label used in different places
 msgctxt "#19190"
@@ -8758,7 +8758,7 @@ msgstr "Kanalhanterare"
 
 msgctxt "#19200"
 msgid "Guide source:"
-msgstr "Guidekälla:"
+msgstr "Tablåkälla:"
 
 msgctxt "#19201"
 msgid "Channel name:"
@@ -8784,7 +8784,7 @@ msgstr "Grupphantering"
 
 msgctxt "#19206"
 msgid "Activate guide:"
-msgstr "Aktivera guide:"
+msgstr "Aktivera tablå:"
 
 #. used by several skins
 msgctxt "#19207"
@@ -8799,7 +8799,7 @@ msgstr "Ange namnet på den nya kanalen"
 #. unused?
 msgctxt "#19209"
 msgid "Kodi virtual backend"
-msgstr "Kodi virtuellt backend"
+msgstr "Kodi virtuell bakände"
 
 #. pvr channel manager "epg source" selector value
 msgctxt "#19210"
@@ -8819,7 +8819,7 @@ msgstr "Listan innehåller ändringar"
 #. pvr channel manager "create new channel", backend selector dialog message
 msgctxt "#19213"
 msgid "Select backend"
-msgstr "Välj backend"
+msgstr "Välj bakände"
 
 #. @@@ dead code in pvr channel manager, action for a context menu item never added?
 msgctxt "#19214"
@@ -8858,7 +8858,7 @@ msgstr "Kanaler i"
 
 msgctxt "#19222"
 msgid "Guide"
-msgstr "Guide"
+msgstr "Tablå"
 
 #. unused?
 msgctxt "#19223"
@@ -8903,7 +8903,7 @@ msgstr "Förhindra uppdateringar under uppspelning"
 #. label for PVR settings use backend channel order control
 msgctxt "#19231"
 msgid "Use channel order from backend(s)"
-msgstr "Använd kanalordning från backend(s)"
+msgstr "Använd kanalordning från bakänd(e/ar)"
 
 #. label for pvr epg search window 'clear search results' context menu item
 msgctxt "#19232"
@@ -8918,7 +8918,7 @@ msgstr "Visa en notifiering vid tidtagaruppdateringar"
 #. label for PVR settings use backend channel numbers control
 msgctxt "#19234"
 msgid "Use channel numbers from backend"
-msgstr "Använd kanalnummer från backend"
+msgstr "Använd kanalnummer från bakände"
 
 #. label 'pvr starting up' for progress dialog text
 msgctxt "#19235"
@@ -8968,7 +8968,7 @@ msgstr "Redigera tidtagarregel"
 #. label for PVR settings pvr backend idle time control. if enabled, kodi will be automatically shutdown after the defined amount of pvr backend idle time.
 msgctxt "#19244"
 msgid "Backend idle time"
-msgstr "Inaktivitetstid för backendsystemet"
+msgstr "Inaktivitetstid för bakände"
 
 #. label for PVR settings wakeup command control. if not empty, kodi will execute the given command upon waking up from suspend.
 msgctxt "#19245"
@@ -9003,22 +9003,22 @@ msgstr "TV- och radiokanaler"
 #. label for 'update epg' context menu item and 'update epg' confirmation dialog header
 msgctxt "#19251"
 msgid "Update guide information"
-msgstr "Uppdatera guideinformation"
+msgstr "Uppdatera tablåinformation"
 
 #. label for 'update channel epg' confirmation dialog text
 msgctxt "#19252"
 msgid "Schedule guide update for this channel?"
-msgstr "Schemalägg guideuppdatering för denna kanal?"
+msgstr "Schemalägg tablåuppdatering för denna kanal?"
 
 #. label for notification text stating that an epg data update for a given channel was started
 msgctxt "#19253"
 msgid "Guide update scheduled for channel"
-msgstr "Guideuppdatering schemalagd för kanal"
+msgstr "Tablåuppdatering schemalagd för kanal"
 
 #. label for notification text stating that an epg data update for a given channel failed
 msgctxt "#19254"
 msgid "Guide update failed for channel"
-msgstr "Guideuppdatering misslyckades för kanal"
+msgstr "Tablåuppdatering misslyckades för kanal"
 
 #. for a timer rule, the number of child timers which are currently scheduled to record. For use in "status" fields.
 msgctxt "#19255"
@@ -9112,12 +9112,12 @@ msgstr "För att använda PVR så behöver du installera, aktivera och konfigure
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
 msgid "TV guide"
-msgstr "TV-guide"
+msgstr "TV-tablå"
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19274"
 msgid "Radio guide"
-msgstr "Radioguide"
+msgstr "Radiotablå"
 
 #. timer status textual representation
 msgctxt "#19275"
@@ -9322,7 +9322,7 @@ msgstr "Schemalägg inspelning vid autostängning av påminnelse-popup"
 #. generic 'backend order' label
 msgctxt "#19315"
 msgid "Backend order"
-msgstr "Backend-ordning"
+msgstr "Bakändeordning"
 
 #. pvr settings "Start all group channel numbers from 1" setting label
 msgctxt "#19316"
@@ -9392,7 +9392,7 @@ msgstr "Radera alla sedda inspelningar i denna mapp?"
 #. label for PVR settings use backend channel numbers always
 msgctxt "#19329"
 msgid "Allow backend channel numbers with more than one PVR add-on"
-msgstr "Tillåt kanalnummer från backend med fler än ett PVR-tillägg"
+msgstr "Tillåt kanalnummer från bakände med fler än ett PVR-tillägg"
 
 #. pvr settings "switch to channel on reminder auto-close" setting label
 msgctxt "#19330"
@@ -9992,7 +9992,7 @@ msgstr "Bekräfta avstängning"
 #. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
-msgstr "Kanalguide"
+msgstr "Kanaltablå"
 
 #. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
@@ -10652,7 +10652,7 @@ msgstr "Linje"
 
 msgctxt "#20171"
 msgid "Windows network (SMB)"
-msgstr "Windowsnätverk (SMB)"
+msgstr "Windows-nätverk (SMB)"
 
 msgctxt "#20172"
 msgid "XBMSP server"
@@ -10839,7 +10839,7 @@ msgstr "Windows dokument"
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
-msgstr "Festa på! (videor)"
+msgstr "Nu är det fest! (videor)"
 
 msgctxt "#20251"
 msgid "Mixing drinks (videos)"
@@ -11069,7 +11069,7 @@ msgstr "Läser in tv-seriedetaljer"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
-msgstr "Hämtar avsnittsguide"
+msgstr "Hämtar avsnittstablå"
 
 msgctxt "#20355"
 msgid "Loading information for episodes in directory"
@@ -11565,6 +11565,16 @@ msgstr "Hade premiär"
 msgctxt "#20474"
 msgid "HDR type"
 msgstr "HDR typ"
+
+#. Used in smart playlists as rule field name to select items that have multiple versions
+msgctxt "#20475"
+msgid "Has multiple versions"
+msgstr ""
+
+#. Used in smart playlists as rule field name to select items that have video extras
+msgctxt "#20476"
+msgid "Has video extras"
+msgstr ""
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -12567,7 +12577,7 @@ msgstr "Inspelningar efter titel"
 
 msgctxt "#22020"
 msgid "Guide"
-msgstr "Guide"
+msgstr "Tablå"
 
 msgctxt "#22021"
 msgid "Minimise black bars"
@@ -15369,7 +15379,7 @@ msgstr "Åtkomst nekas."
 #. connection state "connecting" (asynchronous addon start)
 msgctxt "#35509"
 msgid "Connecting to backend."
-msgstr "Ansluter till backend."
+msgstr "Ansluter till bakände."
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -16108,11 +16118,11 @@ msgstr "Växla mellan [Fråga om återuppta] (standard), [Återuppta] och [Spela
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
-msgstr "Sortera kanaler efter kanalnummer från backend, men använd lokal numrering för kanaler."
+msgstr "Sortera kanaler efter kanalnummer från bakände, men använd lokal numrering för kanaler."
 
 msgctxt "#36206"
 msgid "Use the channel numbering from the backend."
-msgstr "Använd kanalnumrering från backend."
+msgstr "Använd kanalnumrering från bakände."
 
 msgctxt "#36207"
 msgid "Open the channel manager, which allows modifying the channel order, channel name, icon, etc."
@@ -16120,11 +16130,11 @@ msgstr "Öppna kanalhanteraren, som tillåter ändringar av kanalordningen, kana
 
 msgctxt "#36208"
 msgid "Instruct the backend to search for channels (if supported)."
-msgstr "Be backenden att söka efter kanaler (om det stöds)."
+msgstr "Fråga bakänden att söka efter kanaler (om det stöds)."
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr "Töm databaserna på PVR-data som kanaler, grupper, påminnelser och guide. Observera att inte alla data kan återställas från bakänden efteråt."
+msgstr "Töm databaserna på PVR-data som kanaler, grupper, påminnelser och tablå. Observera att inte alla data kan återställas från bakänden efteråt."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -16161,23 +16171,23 @@ msgstr "Sök efter saknade kanalikoner."
 
 msgctxt "#36218"
 msgid "This category contains the electronic programming guide (EPG) settings."
-msgstr "Denna kategori innehåller inställningar för den elektroniska programguiden (EPG)."
+msgstr "Denna kategori innehåller inställningar för den elektroniska programtablån (EPG)."
 
 msgctxt "#36219"
 msgid "Number of past days to show in the guide and to import from backends."
-msgstr "Antal tidigare dagar att visa i guiden och att importera från backend."
+msgstr "Antal tidigare dagar att visa i tablån och att importera från bakände."
 
 msgctxt "#36220"
 msgid "Number of future days to show in the guide and to import from backends."
-msgstr "Antal kommande dagar att visa i guiden och att importera från backend."
+msgstr "Antal kommande dagar att visa i tablån och att importera från bakände."
 
 msgctxt "#36221"
 msgid "Time between imports of guide data from backends."
-msgstr "Tid mellan import av styrdata från backend."
+msgstr "Tid mellan import av tablådata från bakändar."
 
 msgctxt "#36222"
 msgid "Don't import the guide data while playing TV to minimise CPU usage."
-msgstr "Importera inte guidedata under uppspelning för att minska CPU-användning."
+msgstr "Importera inte tablådata under uppspelning för att minska CPU-användning."
 
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
@@ -16190,7 +16200,7 @@ msgstr "Dölj \"Ingen information tillgänglig\"-etiketter för en kanal."
 
 msgctxt "#36225"
 msgid "Delete the cached guide data and reimport it from the backend."
-msgstr "Ta bort lagrad guide-data och återimportera den från backend."
+msgstr "Ta bort lagrad tablådata och återimportera den från bakänden."
 
 msgctxt "#36226"
 msgid "This category contains the PVR playback and channel switching settings."
@@ -16207,7 +16217,7 @@ msgstr "Ställ in undertextens bakgrundsfärg."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
-msgstr "Visa information om signalkvalitet i fönstret för codecinformation (om det stöds av tillägget och backenden)."
+msgstr "Visa information om signalkvalitet i fönstret för kodekinformation (om det stöds av tillägget och bakänden)."
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
@@ -16240,15 +16250,15 @@ msgstr "Om du ställer in ett värde som är större än noll kommer den senaste
 
 msgctxt "#36237"
 msgid "Additional time to record before the scheduled start time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "Ytterligare tid för att spela innan den schemalagda starttiden för att möjliggöra för mindre sändningsändringar. Stöds inte av alla tillägg och backend."
+msgstr "Ytterligare tid för att spela innan den schemalagda starttiden för att möjliggöra för mindre sändningsändringar. Stöds inte av alla tillägg och bakändar."
 
 msgctxt "#36238"
 msgid "Additional time to record after the scheduled end time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "Ytterligare tid för att spela efter den schemalagda sluttiden för att möjliggöra för mindre sändningsändringar. Stöds inte av alla tillägg och backend."
+msgstr "Ytterligare tid för att spela efter den schemalagda sluttiden för att möjliggöra för mindre sändningsändringar. Stöds inte av alla tillägg och bakändar."
 
 msgctxt "#36239"
 msgid "Display a notification when timers are added, finished or removed by the backend."
-msgstr "Visa en notifiering när tidtagare är tillagda, slutförda eller tas bort av backenden."
+msgstr "Visa en notifiering när tidtagare är tillagda, slutförda eller tas bort av bakänden."
 
 msgctxt "#36240"
 msgid "This category contains the PVR power management settings, such as when to wakeup the PVR backend server."
@@ -16284,7 +16294,7 @@ msgstr "Denna kategori innehåller inställningar för föräldrakontroll, såvi
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr "Frågar efter en PIN-kod för att komma åt föräldra låsta kanaler. Kanaler kan markeras som låst i kanalredigeraren i den allmänna fliken. Föräldra låsta kanaler kan inte spelas eller spelas in utan att ange en PIN-kod, och guideinformationen är dold för dessa kanaler."
+msgstr "Ber om en pinkod för att få tillgång till föräldralåsta kanaler. Kanaler kan markeras som låsta i kanalredigeraren på fliken Allmänt. Föräldralåsta kanaler kan inte spelas upp eller spelas in utan att ange en pinkod, och tablåinformationen är dold för dessa kanaler."
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
@@ -16300,7 +16310,7 @@ msgstr "Denna kategori innehåller inställningar för PVR-bakgrundsservern, så
 
 msgctxt "#36252"
 msgid "This option will bring you to any specific settings for your PVR backend, if supported by the PVR add-on and backend."
-msgstr "Detta alternativ tar dig till några specifika inställningar för din PVR backend, om det stöds av PVR tillägg och backend."
+msgstr "Detta alternativ tar dig till några specifika inställningar för din PVR-bakände, om det stöds av PVR tillägg och bakänden."
 
 #. Description of settings section with label #2 "Music"
 msgctxt "#36253"
@@ -16309,7 +16319,7 @@ msgstr "Sektion med inställningar relaterade till musikfiler och hur de hantera
 
 msgctxt "#36254"
 msgid "Action to perform when pressing the record button. [Record current show] will record the current show from \"now\" to the end of the show. If no TV guide data is currently available a fixed length recording starting \"now\", with the value set for \"Instant recording duration\" will be scheduled. [Record for a fixed period of time] will schedule a fixed length recording starting \"now\", with the value set for \"Instant recording duration\". [Ask what to do] will open a dialogue containing different recording actions to choose from, like \"Record current show\", \"Record next show\" and some fixed duration recordings."
-msgstr "Åtgärd som ska utföras när du trycker på inspelningsknappen.[CR][Spela in nuvarande serie] kommer att spela in den aktuella serien från \"nu\", till slutet av serien. Om inga tv-guide uppgifter finnes, kommer en fixt inspelningstid med start från \"nu\", till den längd som är angiven i \"Direktinspelningslängd\".[CR][Spela in under begränsad tid] kommer att schemalägga en inspelning med fast längd och början från \"nu\", med det inställda värdet för \"Direktinspelningstid\".[CR][Fråga vad som ska ske] kommer att öppna en dialogruta innehållande de olika inspelningsalternativen, såsom \"Spela in nuvarande serie\", \"Spela in nästa serie\" och några fasta inspelningstider."
+msgstr "Åtgärd som ska utföras när du trycker på inspelningsknappen.[CR][Spela in nuvarande serie] kommer att spela in den aktuella serien från \"nu\", till slutet av serien. Om inga tv-tablåuppgifter finnes, kommer en fast inspelningstid med start från \"nu\", till den längd som är angiven i \"Direktinspelningslängd\".[CR][Spela in under begränsad tid] kommer att schemalägga en inspelning med fast längd och början från \"nu\", med det inställda värdet för \"Direktinspelningstid\".[CR][Fråga vad som ska ske] kommer att öppna en dialogruta innehållande de olika inspelningsalternativen, såsom \"Spela in nuvarande serie\", \"Spela in nästa serie\" och några fasta inspelningstider."
 
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
@@ -16525,7 +16535,7 @@ msgstr "Välj en tid i sekunder efter vilken popup-fönster för PVR-påminnelse
 
 msgctxt "#36298"
 msgid "If enabled, a recording for the programme to remind will be scheduled when auto-closing the reminder popup, if supported by the PVR add-on and backend."
-msgstr "Om det är aktiverat kommer en inspelning för programmet att påminnas att schemaläggas när påminnelsepopupen stängs automatiskt, om det stöds av PVR-tillägget och backend."
+msgstr "Om det är aktiverat kommer en inspelning för programmet att påminnas att schemaläggas när påminnelsepopupen stängs automatiskt, om det stöds av PVR-tillägget och bakänden."
 
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
@@ -17140,7 +17150,7 @@ msgstr "Som standard kommer tillägg från officiella förråd att förhindras f
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item. [\"Smart select\"] The action is choosen dynamically, depending on whether the event is in the past, now or in the future."
-msgstr "Välj vad som ska hända när ett objekt väljs i guiden: [Visa innehållsmeny] Visar innehållsmenyn där du kan välja ytterligare åtgärder. [Byt till kanal] Kommer omedelbart att byta till den relaterade kanalen; [Visa information] Kommer att visa detaljerad information med handling och vidare alternativ; [Spela in] Skapar en inspelningstidtagare för det valda objektet. [\"Smart val\"] Åtgärd väljs dynamiskt beroende på om händelse är bakåt, nu eller i framtiden."
+msgstr "Välj vad som ska hända när ett objekt väljs i tablån: [Visa innehållsmeny] Visar innehållsmenyn där du kan välja ytterligare åtgärder. [Byt till kanal] Kommer omedelbart att byta till den relaterade kanalen; [Visa information] Kommer att visa detaljerad information med handling och vidare alternativ; [Spela in] Skapar en inspelningstidtagare för det valda objektet. [\"Smart val\"] Åtgärd väljs dynamiskt beroende på om händelse är bakåt, nu eller i framtiden."
 
 msgctxt "#36425"
 msgid "Show context menu"
