@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-03-22 22:35+0000\n"
+"PO-Revision-Date: 2025-04-12 12:25+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -3377,7 +3377,7 @@ msgstr "Digite o nome de usuário"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Digite o caminho..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -11564,6 +11564,16 @@ msgctxt "#20474"
 msgid "HDR type"
 msgstr "Tipo HDR"
 
+#. Used in smart playlists as rule field name to select items that have multiple versions
+msgctxt "#20475"
+msgid "Has multiple versions"
+msgstr ""
+
+#. Used in smart playlists as rule field name to select items that have video extras
+msgctxt "#20476"
+msgid "Has video extras"
+msgstr ""
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Exibir arquivos e diretórios ocultos"
@@ -19678,7 +19688,7 @@ msgstr "Selecione a ação de verificação para extras do vídeo na pasta \"ext
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Ativos"
 
 #. Button label for video versions
 msgctxt "#40210"

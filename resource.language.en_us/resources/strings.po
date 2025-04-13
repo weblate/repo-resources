@@ -11566,6 +11566,16 @@ msgctxt "#20474"
 msgid "HDR type"
 msgstr ""
 
+#. Used in smart playlists as rule field name to select items that have multiple versions
+msgctxt "#20475"
+msgid "Has multiple versions"
+msgstr ""
+
+#. Used in smart playlists as rule field name to select items that have video extras
+msgctxt "#20476"
+msgid "Has video extras"
+msgstr ""
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Show hidden files and directories"
