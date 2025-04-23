@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-12 18:54+0000\n"
-"Last-Translator: vgbsd <vg72i@protonmail.com>\n"
+"PO-Revision-Date: 2025-04-18 00:03+0000\n"
+"Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -13466,6 +13466,16 @@ msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Минимум: {0:s} / Недоступно{3:s}"
 
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr ""
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr ""
+
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
@@ -18371,7 +18381,7 @@ msgstr "Выбрать источник сведений"
 
 msgctxt "#38026"
 msgid "Appearances"
-msgstr "Внешний вид"
+msgstr "Появления"
 
 #. Label for an option to select the video stream to play if current video has more than one video stream
 msgctxt "#38031"
@@ -19412,8 +19422,8 @@ msgstr "При воспроизведении музыки заставка не
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Включает расширенный апскейлер DXVA используя NVIDIA \"RTX Video Super Resolution\" или \"Intel Video Super Resolution\".[CR]Используется, когда источник видео имеет разрешение 1920x1080 или меньше, а разрешение источника меньше разрешения экрана.[CR]Доступно только на следующем оборудовании: NVIDIA RTX 20xx, 30xx, 40xx и выше, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr ""
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19878,6 +19888,10 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Включает расширенный апскейлер DXVA используя NVIDIA \"RTX Video Super Resolution\" или \"Intel Video Super Resolution\".[CR]Используется, когда источник видео имеет разрешение 1920x1080 или меньше, а разрешение источника меньше разрешения экрана.[CR]Доступно только на следующем оборудовании: NVIDIA RTX 20xx, 30xx, 40xx и выше, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

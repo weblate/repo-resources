@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-12 04:21+0000\n"
-"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
+"PO-Revision-Date: 2025-04-23 17:33+0000\n"
+"Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11600,12 +11600,12 @@ msgstr "Tipe HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Memiliki beberapa versi"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Memiliki tamahan video"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -13495,6 +13495,16 @@ msgstr " (opsional)"
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Minimum: {0:s} / Tidak tersedia{3:s}"
+
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr "Menghubungkan ke basis data - silakan tunggu"
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr "Gagal memulai basis data - akan keluar dalam {} detik."
 
 # empty strings from id 24186 to 24990
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
@@ -19478,8 +19488,8 @@ msgstr "Jika musik diputar, screensaver tidak akan pernah diaktifkan"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Mengaktifkan peningkat DXVA tingkat lanjut menggunakan NVIDIA \"RTX Video Super Resolution\" atau \"Intel Video Super Resolution\".[CR]Digunakan bila sumber video 1920x1080 atau kurang dan resolusi sumber lebih rendah daripada resolusi layar.[CR]Hanya tersedia pada perangkat keras tertentu: NVIDIA RTX 20xx, 30xx, 40xx ke atas, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr "Mengaktifkan upscaler DXVA tingkat lanjut menggunakan \"RTX Video Super Resolution\" NVIDIA atau \"Intel Video Super Resolution\".[CR]Digunakan ketika sumber video 2560x1440 atau lebih rendah dan resolusi sumber lebih rendah daripada resolusi tampilan.[CR]Hanya tersedia pada perangkat keras khusus: NVIDIA RTX dan Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19944,6 +19954,10 @@ msgstr "Konfirmasi hapus berkas"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jika diaktifkan, dialog konfirmasi akan ditampilkan ketika berkas akan dihapus. Jika dinonaktifkan, berkas akan dihapus tanpa konfirmasi pengguna."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Mengaktifkan peningkat DXVA tingkat lanjut menggunakan NVIDIA \"RTX Video Super Resolution\" atau \"Intel Video Super Resolution\".[CR]Digunakan bila sumber video 1920x1080 atau kurang dan resolusi sumber lebih rendah daripada resolusi layar.[CR]Hanya tersedia pada perangkat keras tertentu: NVIDIA RTX 20xx, 30xx, 40xx ke atas, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"
