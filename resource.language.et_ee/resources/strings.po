@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-10 17:02+0000\n"
+"PO-Revision-Date: 2025-04-21 12:15+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11567,12 +11567,12 @@ msgstr "HDR tüüp"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Omab mitut versiooni"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Omab lisamaterjali"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -13459,6 +13459,16 @@ msgstr " (valikuline)"
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Väikseim: {0:s} / pole saadaval{3:s}"
+
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr "Ühendumine andmebaasiga – palun oota"
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr "Andmebaaside lähtestamine nurjus – väljumine {} sekundi pärast."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -19400,8 +19410,8 @@ msgstr "Muusika esitamisel ei aktiveerita ekraanisäästjat kunagi"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Lubab täiustatud DXVA ülesskaaleerimise, kasutades NVIDIA \"RTX Video Super Resolution\" või \"Intel Video Super Resolution\".[CR]Kasutatakse, kui videoallika eraldusvõime on 1920 x 1080 või vähem ja allika eraldusvõime on madalam kui ekraani eraldusvõime.[CR]Saadaval ainult teatud riistvarale: NVIDIA RTX 20xx, 30xx, 40xx ja uuemad, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr ""
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19688,7 +19698,7 @@ msgstr "Vali lisamaterjalide skaneerimistoiming kaustas \"extras\".[CR][Lubatud]
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Vahendid"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19866,6 +19876,10 @@ msgstr "Kinnita faili kustutamine"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Kui see on lubatud, kuvatakse failide kustutamisel kinnitusdialoog. Kui see on keelatud, kustutatakse failid ilma kasutaja kinnituseta."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Lubab täiustatud DXVA ülesskaaleerimise, kasutades NVIDIA \"RTX Video Super Resolution\" või \"Intel Video Super Resolution\".[CR]Kasutatakse, kui videoallika eraldusvõime on 1920 x 1080 või vähem ja allika eraldusvõime on madalam kui ekraani eraldusvõime.[CR]Saadaval ainult teatud riistvarale: NVIDIA RTX 20xx, 30xx, 40xx ja uuemad, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

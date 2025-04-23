@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-10 17:02+0000\n"
+"PO-Revision-Date: 2025-04-19 21:22+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11570,12 +11570,12 @@ msgstr "Typ HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Ma wiele wersji"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Ma dodatki wideo"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -13464,6 +13464,16 @@ msgstr " (opcjonalne)"
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Minimum: {0:s} / Niedostępne{3:s}"
+
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr "Łączenie z bazą danych. Proszę czekać."
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr "Nie udało się zainicjować bazy danych. Wyjście nastąpi za {} sekund(y)."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -19411,8 +19421,8 @@ msgstr "Jeśli odtwarzana jest muzyka, wygaszacz ekranu nigdy się nie włączy"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Umożliwia zaawansowany upscaler DXVA przy użyciu \"RTX Video Super Resolution\" firmy NVIDIA lub \"Intel Video Super Resolution\".[CR]Używane, gdy źródło wideo ma rozdzielczość 1920x1080 lub mniejszą, a rozdzielczość źródła jest niższa niż rozdzielczość wyświetlacza.[CR]Dostępne tylko w określonych przypadkach sprzęt: NVIDIA RTX 20xx, 30xx, 40xx i nowsze, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr "Włącza zaawansowany skaler DXVA przy użyciu technologii NVIDIA „RTX Video Super Resolution” lub „Intel Video Super Resolution”.[CR]Używane, gdy źródło wideo ma rozdzielczość 2560x1440 lub mniejszą, a rozdzielczość źródła jest niższa od rozdzielczości wyświetlacza.[CR]Dostępne tylko na określonych urządzeniach: NVIDIA RTX i Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19877,6 +19887,10 @@ msgstr "Potwierdź usunięcie pliku"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jeśli włączone, zostanie wyświetlone okno dialogowe potwierdzenia, gdy pliki zostaną usunięte. Jeśli wyłączone, pliki zostaną usunięte bez potwierdzenia użytkownika."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Umożliwia zaawansowany upscaler DXVA przy użyciu \"RTX Video Super Resolution\" firmy NVIDIA lub \"Intel Video Super Resolution\".[CR]Używane, gdy źródło wideo ma rozdzielczość 1920x1080 lub mniejszą, a rozdzielczość źródła jest niższa niż rozdzielczość wyświetlacza.[CR]Dostępne tylko w określonych przypadkach sprzęt: NVIDIA RTX 20xx, 30xx, 40xx i nowsze, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

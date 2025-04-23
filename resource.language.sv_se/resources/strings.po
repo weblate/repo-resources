@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-12 12:25+0000\n"
+"PO-Revision-Date: 2025-04-22 15:00+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -808,7 +808,7 @@ msgstr "Förstoring"
 
 msgctxt "#217"
 msgid "Pixel ratio"
-msgstr "Pixelförhållande"
+msgstr "Bildpunktsförhållande"
 
 msgctxt "#218"
 msgid "DVD drive"
@@ -913,7 +913,7 @@ msgstr "Helskärm"
 
 msgctxt "#245"
 msgid "Sizing: ({0:d},{1:d})->({2:d},{3:d}) (Zoom x{4:2.2f}) AR:{5:2.2f}:1 (Pixels: {6:2.2f}:1) (VShift: {7:2.2f})"
-msgstr "Storlek: ({0:d},{1:d})->({2:d},{3:d}) (Zoom x{4:2.2f}) AR:{5:2.2f}:1 (Pixlar: {6:2.2f}:1) (VShift: {7:2.2f})"
+msgstr "Storlek: ({0:d},{1:d})->({2:d},{3:d}) (Zoom x{4:2.2f}) AR:{5:2.2f}:1 (Bildpunkter: {6:2.2f}:1) (VShift: {7:2.2f})"
 
 msgctxt "#246"
 msgid "Monitor"
@@ -1024,7 +1024,7 @@ msgstr "Topp 100"
 #. Window screen calibration: calibration from the rectangle box
 msgctxt "#272"
 msgid "Pixel ratio adjustment"
-msgstr "Justering av pixelförhållande"
+msgstr "Justering av bildpunktsförhållande"
 
 #. Window screen calibration: calibration by using the rectangle box
 msgctxt "#273"
@@ -1418,7 +1418,7 @@ msgstr "Sortera efter: År"
 
 msgctxt "#367"
 msgid "Sort by: Rating"
-msgstr "Sortera efter: Betyg"
+msgstr "Sortera efter: Klassificering"
 
 msgctxt "#368"
 msgid "IMDb"
@@ -2189,7 +2189,7 @@ msgstr "Årtal"
 
 msgctxt "#563"
 msgid "Rating"
-msgstr "Betyg"
+msgstr "Klassificering"
 
 msgctxt "#564"
 msgid "Type"
@@ -4508,7 +4508,7 @@ msgstr "Textvisare"
 
 msgctxt "#10150"
 msgid "Peripheral settings"
-msgstr "Kringutrustningsinställningar"
+msgstr "Tillbehörsinställningar"
 
 msgctxt "#10151"
 msgid "Extended progress dialog"
@@ -5183,7 +5183,7 @@ msgstr "Viloläge"
 
 msgctxt "#13011"
 msgid "Suspend"
-msgstr "Viloläge"
+msgstr "Vänteläge"
 
 msgctxt "#13012"
 msgid "Exit"
@@ -5792,7 +5792,7 @@ msgstr "Renderingsmetod"
 
 msgctxt "#13355"
 msgid "Low quality pixel shader"
-msgstr "Lågkvalitets-pixelskuggning"
+msgstr "Bildpunktsskuggning med låg kvalitet"
 
 msgctxt "#13356"
 msgid "Hardware overlays"
@@ -5800,7 +5800,7 @@ msgstr "Hårdvaruöverlägg"
 
 msgctxt "#13357"
 msgid "High quality pixel shader"
-msgstr "Högkvalitets-pixelskuggning"
+msgstr "Bildpunktsskuggning med hög kvalitet"
 
 msgctxt "#13358"
 msgid "Play item"
@@ -6052,7 +6052,7 @@ msgstr "Tillåt användning av DRM PRIME-avkodare"
 
 msgctxt "#13431"
 msgid "Pixel shaders"
-msgstr "Pixelskuggning"
+msgstr "Bildpunktsskuggning"
 
 msgctxt "#13432"
 msgid "Allow hardware acceleration - VideoToolbox"
@@ -6308,7 +6308,7 @@ msgstr "Lägg till bildtyp"
 
 msgctxt "#13517"
 msgid "Threshold for pitch correction"
-msgstr "Gränsvärde för pitchkorrigering"
+msgstr "Gränsvärde för tonhöjdskorrigering"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
@@ -7617,12 +7617,12 @@ msgstr "Jämna ut"
 #. Description of the video filter that uses jagged pixels without smoothing
 msgctxt "#16298"
 msgid "Shows the game's pixels without any modifications."
-msgstr "Visar spelets pixlar utan några förändringar."
+msgstr "Visar spelets bildpunkter utan några förändringar."
 
 #. Description of the video filter that smooths pixels to remove jagged edges
 msgctxt "#16299"
 msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr "Döljer pixlarnas ojämna kanter genom att göra en jämn toning mellan intilliggande pixlar."
+msgstr "Döljer bildpunkternas ojämna kanter genom att göra en jämn toning mellan intilliggande bildpunkter."
 
 msgctxt "#16300"
 msgid "Video scaling method"
@@ -7769,7 +7769,7 @@ msgstr "Efterbearbetning"
 
 msgctxt "#17500"
 msgid "Display sleep timeout"
-msgstr "Visa timeout för viloläge"
+msgstr "Visa tidsgräns för sömn"
 
 msgctxt "#17997"
 msgid "{0:d} MByte"
@@ -7924,7 +7924,7 @@ msgstr "Inga sökresultat"
 #. label used in pvr guide window views to indicate that there are no epg data for the current view (channel, now, next)
 msgctxt "#19028"
 msgid "No guide entries"
-msgstr "Inga tablåposter"
+msgstr "Inga tablåaffisch"
 
 #. generic 'channel' label used in different places
 msgctxt "#19029"
@@ -10284,7 +10284,7 @@ msgstr "Se till att vald mapp är skrivbar och att det nya mappnamnet är giltig
 
 msgctxt "#20074"
 msgid "MPAA rating"
-msgstr "MPAA-ranking"
+msgstr "MPAA-klassificering"
 
 msgctxt "#20075"
 msgid "Enter master lock code"
@@ -10705,7 +10705,7 @@ msgstr "Läs om skal"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "Använd postervisning för tv-serier"
+msgstr "Använd affischvisning för tv-serier"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -10835,7 +10835,7 @@ msgstr "Windows fotobibliotek"
 
 msgctxt "#20249"
 msgid "Windows documents"
-msgstr "Windows dokument"
+msgstr "Windows-dokument"
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
@@ -11569,12 +11569,12 @@ msgstr "HDR typ"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Har flera versioner"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Har videoextramaterial"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11811,7 +11811,7 @@ msgstr "Kapitel"
 
 msgctxt "#21397"
 msgid "High quality pixel shader v2"
-msgstr "Högkvalitets-pixelskuggning v2"
+msgstr "Bildpunktsskuggning med hög kvalitet v2"
 
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -12972,7 +12972,7 @@ msgstr "Avbryt hämtning av tillägg?"
 
 msgctxt "#24067"
 msgid "Currently downloading add-ons"
-msgstr "För närvarande hämtas tillägg"
+msgstr "Tillägg som hämtas just nu"
 
 msgctxt "#24068"
 msgid "Update available"
@@ -13348,11 +13348,11 @@ msgstr "Aktivera att Siri-fjärrkontrollen matchar det normala Apple tvOS-beteen
 
 msgctxt "#24154"
 msgid "Consider Siri remote in idle state after N seconds"
-msgstr "Överväg Siri-fjärrkontroll efter att du varit inaktiv i N sekunder"
+msgstr "Anse att Siri-fjärrkontroll inte används efter inaktivitet i N sekunder"
 
 msgctxt "#24155"
 msgid "Time to wait before considering the Siri remote in idle state"
-msgstr "Väntetid innan Siri-fjärrkontrollen sätts i viloläge"
+msgstr "Väntetid innan Siri-fjärrkontrollen sätts i inaktivt tillstånd"
 
 msgctxt "#24156"
 msgid "30 Seconds"
@@ -13461,6 +13461,16 @@ msgstr " (frivillig)"
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Minimum: {0:s} / Inte tillgänglig{3:s}"
+
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr "Ansluter till databasen - vänta"
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr "Misslyckades med att initiera databaser - avslutas om {} sekunder."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -14227,7 +14237,7 @@ msgstr "Konfigurera"
 
 msgctxt "#33060"
 msgid "Power"
-msgstr "Ström"
+msgstr "Energi"
 
 msgctxt "#33061"
 msgid "Menu"
@@ -14602,7 +14612,7 @@ msgstr "Tvåfingertapp eller långtryck med ett finger för innehållsmeny"
 
 msgctxt "#35000"
 msgid "Peripherals"
-msgstr "Kringutrustning"
+msgstr "Tillbehör"
 
 msgctxt "#35001"
 msgid "Generic HID device"
@@ -14618,7 +14628,7 @@ msgstr "Allmän disk"
 
 msgctxt "#35004"
 msgid "There are no settings available for this peripheral."
-msgstr "Det finns inga inställningar tillgängliga för den här kringutrustningen."
+msgstr "Det finns inga inställningar tillgängliga för det här tillbehöret."
 
 msgctxt "#35005"
 msgid "New device configured"
@@ -14643,7 +14653,7 @@ msgstr "Använd inte den anpassade tangentmappningen för denna enhet"
 #. Name of add-ons extending the kodi.peripheral extension point
 msgctxt "#35010"
 msgid "Peripheral libraries"
-msgstr "Bibliotek för kringutrustning"
+msgstr "Bibliotek för tillbehör"
 
 #. Title of dialog to ask users if they would like to configure a new controller
 msgctxt "#35011"
@@ -14708,7 +14718,7 @@ msgstr "Drivrutininställningar"
 #. Description of setting with label #35047 "Driver settings"
 msgctxt "#35048"
 msgid "View and configure peripheral add-ons."
-msgstr "Visa och konfigurera tillägg för kringutrustning."
+msgstr "Visa och konfigurera tillägg för tillbehör."
 
 #. Name of game add-ons category
 msgctxt "#35049"
@@ -16913,7 +16923,7 @@ msgstr "Denna kategori innehåller inställningar för hur inmatningsenheter han
 #. Description of setting with label #35000 "Peripherals"
 msgctxt "#36375"
 msgid "Configure any attached peripheral devices."
-msgstr "Konfigurera kringutrustning."
+msgstr "Konfigurera anslutna tillbehörsenheter."
 
 #. Description of setting with label #21449 "Remote control sends keyboard presses"
 msgctxt "#36376"
@@ -17662,7 +17672,7 @@ msgstr "(Eng. Dithering) eliminerar uppkomsten av band (eng. banding) på skärm
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Video gitter-precision, i bitar. Använd den högsta inställningen som inte visar 'banding'. Standardvärdet 8 rekommenderas för de flesta system. Om din GPU är inställd på att skala utgångs-RGB-nivåer eller om du använder en bärbar datorskärm, kan en 7 eller 6 bit inställningen eliminera bort mer 'banding'. Lägre inställningar finns tillgängliga för teständamål endast för att göra det enkelt att se om gitter tillämpas och att gitter-pixelstorleken matchar skärmupplösningen."
+msgstr "Video dithering-precision, i bitar. Använd den högsta inställningen som inte visar 'banding'. Standardvärdet 8 rekommenderas för de flesta system. Om din GPU är inställd på att skala utgångs-RGB-nivåer eller om du använder en bärbar datorskärm, kan en 7 eller 6 bit inställningen eliminera bort mer 'banding'. Lägre inställningar finns tillgängliga för teständamål endast för att göra det enkelt att se om dithering tillämpas och att gitter-bildpunktsstorleken matchar skärmupplösningen."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -19402,8 +19412,8 @@ msgstr "Om musik spelas kommer skärmsläckaren aldrig att aktiveras"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Aktiverar avancerad DXVA-uppskalning med hjälp av NVIDIA \"RTX Video Super Resolution\" eller \"Intel Video Super Resolution\".[CR]Används när videokällan är 1920x1080 eller mindre och källans upplösning är lägre än bildskärmens upplösning.[CR]Endast tillgänglig på viss maskinvara: NVIDIA RTX 20xx, 30xx, 40xx och högre, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr "Aktiverar avancerad DXVA-uppskalning med hjälp av NVIDIA ”RTX Video Super Resolution” eller ”Intel Video Super Resolution”.[CR]Används när videokällan är 2560x1440 eller mindre och källans upplösning är lägre än bildskärmens upplösning.[CR]Endast tillgänglig på specifik maskinvara: NVIDIA RTX och Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19868,6 +19878,10 @@ msgstr "Bekräfta borttagning av fil"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Om den är aktiverad visas en bekräftelsedialog när filer ska tas bort. Om den är inaktiverad tas filerna bort utan att användaren bekräftar detta."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Aktiverar avancerad DXVA-uppskalning med hjälp av NVIDIA \"RTX Video Super Resolution\" eller \"Intel Video Super Resolution\".[CR]Används när videokällan är 1920x1080 eller mindre och källans upplösning är lägre än bildskärmens upplösning.[CR]Endast tillgänglig på viss maskinvara: NVIDIA RTX 20xx, 30xx, 40xx och högre, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-28 07:45+0000\n"
+"PO-Revision-Date: 2025-04-21 16:05+0000\n"
 "Last-Translator: skypichat <skypichat@hotmail.fr>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "Saisir le nom d'utilisateur"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Entrer le chemin..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -9530,7 +9530,7 @@ msgstr "Copie de '{0:s}'"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Supprimer l’enregistrement"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11567,12 +11567,12 @@ msgstr "Type HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "A plusieurs versions"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "A des extras vidéo"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -13459,6 +13459,16 @@ msgstr " (optionel)"
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Minimum : {0:s} / Non disponible {3:s}"
+
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr "Connexion à la base de données - veuillez patienter"
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr "Échec de l’initialisation des bases de données - sortie dans {} secondes."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -15985,7 +15995,7 @@ msgstr "Cette catégorie contient les paramètres de l'affichage des listes de f
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Basculer entre [Choisir], [Lecture] (par défaut), [Afficher les informations] et [Élément de file d’attente]. [CR][Choisir] ouvrira un menu contextuel pour sélectionner un élément, par exemple afficher des informations. [CR][Lecture] lira les vidéos comme défini par le paramètre 'Action de lecture par défaut'. [CR][Afficher les informations] ouvrira la boîte de dialogue d’informations de la vidéo. [CR][Élément de file d’attente] ajoutera la vidéo à la liste de lecture vidéo."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16112,7 +16122,7 @@ msgstr "Active les fonctions de l'enregistreur vidéo (PVR). Cela nécessite au 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Basculer entre [Demander si la reprise peut être faite] (par défaut), [Reprendre] et [Lire depuis le début]. [CR][Demander si la reprise peut être faite] vous demandera s’il faut jouer depuis le début ou pour reprendre (si un point de reprise est présent). [CR][Reprendre] reprendra automatiquement la lecture à partir de la dernière position où vous les avez visualisés. Si aucun point de reprise n’est défini, la lecture recommence automatiquement depuis le début. [CR][Lire depuis le début] démarre automatiquement la lecture depuis le début, en ignorant les positions de reprise existantes."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19400,8 +19410,8 @@ msgstr "Si de la musique est en cours de lecture, l'économiseur d'écran ne ser
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Active l'upscaler DXVA avancé utilisant NVIDIA \"RTX Video Super Resolution\" ou \"Intel Video Super Resolution\".[CR]Utilisé lorsque la source vidéo est de 1920x1080 ou moins et que la résolution de la source est inférieure à la résolution de l'écran.[CR]Uniquement disponible sur du matériel spécifique : NVIDIA RTX 20xx, 30xx, 40xx et supérieur, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr "Permet l’upscaler DXVA avancé à l’aide de NVIDIA « RTX Video Super Resolution » ou « Intel Video Super Resolution ». [CR]Utilisé lorsque la source vidéo est inférieure ou égale à 2560 x 1440 et que la résolution de la source est inférieure à la résolution d’affichage. [CR]Disponible uniquement sur certains matériels : NVIDIA RTX et Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19461,7 +19471,7 @@ msgstr "En activant, les sous-titres CC seront étiquetés pour les malentendant
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19688,7 +19698,7 @@ msgstr "Sélectionnez l'action du scanner pour les suppléments vidéo dans le d
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Assets"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19769,7 +19779,7 @@ msgstr "Version remastérisée"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr "Version théâtrale"
+msgstr "Version cinéma"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
@@ -19866,6 +19876,10 @@ msgstr "Confirmer la suppression du fichier"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si cette option est activée, une boîte de dialogue de confirmation s'affichera lorsque les fichiers seront supprimés. Si désactivée, les fichiers seront supprimés sans confirmation de l'utilisateur."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Active l'upscaler DXVA avancé utilisant NVIDIA \"RTX Video Super Resolution\" ou \"Intel Video Super Resolution\".[CR]Utilisé lorsque la source vidéo est de 1920x1080 ou moins et que la résolution de la source est inférieure à la résolution de l'écran.[CR]Uniquement disponible sur du matériel spécifique : NVIDIA RTX 20xx, 30xx, 40xx et supérieur, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

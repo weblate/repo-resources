@@ -13462,6 +13462,16 @@ msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Minimum: {0:s} / Nem elérhető{3:s}"
 
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr ""
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr ""
+
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
@@ -19404,8 +19414,8 @@ msgstr "Ha zenelejátszás van folyamatban, akkor a képernyőkímélő nem fog 
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Lehetővé teszi a fejlett DXVA felskálázást az NVIDIA „RTX Video Super Resolution” vagy „Intel Video Super Resolution” használatával.[CR]Akkor használjuk, ha a videoforrás 1920 x 1080 vagy kisebb, és a forrás felbontása kisebb, mint a kijelző felbontása.[CR]Csak bizonyos esetekben érhető el. hardver: NVIDIA RTX 20xx, 30xx, 40xx és újabb, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr ""
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19870,6 +19880,10 @@ msgstr "Erősítsd meg a fájl törlését"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ha engedélyezve van, egy megerősítő párbeszédpanel jelenik meg a fájlok törlésekor. Ha le van tiltva, a fájlok a felhasználó jóváhagyása nélkül törlődnek."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Lehetővé teszi a fejlett DXVA felskálázást az NVIDIA „RTX Video Super Resolution” vagy „Intel Video Super Resolution” használatával.[CR]Akkor használjuk, ha a videoforrás 1920 x 1080 vagy kisebb, és a forrás felbontása kisebb, mint a kijelző felbontása.[CR]Csak bizonyos esetekben érhető el. hardver: NVIDIA RTX 20xx, 30xx, 40xx és újabb, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

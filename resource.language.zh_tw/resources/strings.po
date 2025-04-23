@@ -13464,6 +13464,16 @@ msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "最低：{0:s} / 不可用{3:s}"
 
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr ""
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr ""
+
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
@@ -19410,8 +19420,8 @@ msgstr "播放音樂時，螢幕保護程式不會啟動"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "使用NVIDIA“RTX 視訊超解析度”或“Intel 視訊超解析度”啟用進階DXVA 升頻器。[CR]當視訊來源為1920x1080 或更低且來源解析度低於顯示解析度時使用。[CR]僅適用特定硬體：NVIDIA RTX 20xx、30xx、40xx 及以上、Intel Arc A770、A750。"
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr ""
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19876,6 +19886,10 @@ msgstr "檔案刪除再確認"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "開啟時會在刪除檔案前跳出確認對話框。反之則不提示並逕行刪除。"
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "使用NVIDIA“RTX 視訊超解析度”或“Intel 視訊超解析度”啟用進階DXVA 升頻器。[CR]當視訊來源為1920x1080 或更低且來源解析度低於顯示解析度時使用。[CR]僅適用特定硬體：NVIDIA RTX 20xx、30xx、40xx 及以上、Intel Arc A770、A750。"
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"

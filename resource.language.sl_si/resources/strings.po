@@ -13498,6 +13498,16 @@ msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
 msgstr "Najmanj: {0:s} / Ni na voljo{3:s}"
 
+#. Progress text on splash screen
+msgctxt "#24186"
+msgid "Connecting to database - please wait"
+msgstr ""
+
+#. Error text on splash screen
+msgctxt "#24187"
+msgid "Failed to initialise databases - exiting in {} seconds."
+msgstr ""
+
 # empty strings from id 24186 to 24990
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -19472,8 +19482,8 @@ msgstr "Če se predvaja glasba, se ohranjevalnik zaslona ne bo nikoli aktiviral"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
-msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
-msgstr "Omogoča napredni DXVA upscaler z uporabo NVIDIA \"RTX Video Super Resolution\" ali \"Intel Video Super Resolution\".[CR]Uporablja se, ko je video vir 1920 x 1080 ali manj in je izvorna ločljivost nižja od ločljivosti zaslona.[CR]Na voljo samo na določenih strojna oprema: NVIDIA RTX 20xx, 30xx, 40xx in višje, Intel Arc A770, A750."
+msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
+msgstr ""
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19938,6 +19948,10 @@ msgstr "Potrdite brisanje datoteke"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Če je omogočeno, bo prikazano potrditveno pogovorno okno, ko bodo datoteke izbrisane. Če je onemogočeno, bodo datoteke izbrisane brez potrditve uporabnika."
+
+#~ msgctxt "#39194"
+#~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
+#~ msgstr "Omogoča napredni DXVA upscaler z uporabo NVIDIA \"RTX Video Super Resolution\" ali \"Intel Video Super Resolution\".[CR]Uporablja se, ko je video vir 1920 x 1080 ali manj in je izvorna ločljivost nižja od ločljivosti zaslona.[CR]Na voljo samo na določenih strojna oprema: NVIDIA RTX 20xx, 30xx, 40xx in višje, Intel Arc A770, A750."
 
 #~ msgctxt "#40200"
 #~ msgid "Select default video version"
