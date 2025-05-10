@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-11 04:33+0000\n"
+"PO-Revision-Date: 2025-05-05 05:27+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11567,12 +11567,12 @@ msgstr "HDR 형식"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "여러 버전이 있습니다"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "추가 비디오가 있습니다"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11649,6 +11649,21 @@ msgstr "확장자: \"{0:s}\""
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "MIME 형식: \"{0:s}\""
+
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "특별판 {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "에피소드 {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "특별판"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13463,12 +13478,12 @@ msgstr "최소: {0:s} / 사용할 수 없음{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "데이터베이스에 연결 중 - 잠시만 기다려 주세요"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "데이터베이스 초기화에 실패함 - {}초 후에 종료됩니다."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13572,6 +13587,21 @@ msgstr "자동 스킵 켜짐"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "수동"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "선택한 재생목록은 이미 사용 중입니다. 대신 이 에피소드와 연결할까요?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "유효한 영화 재생목록을 찾을 수 없습니다."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "유효한 에피소드 재생목록을 찾을 수 없습니다."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -19411,7 +19441,7 @@ msgstr "음악이 재생 중에 화면 보호기가 활성화되지 않습니다
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "NVIDIA \"RTX Video Super Resolution\" 또는 \"Intel Video Super Resolution\"을 사용하여 고급 DXVA 업스케일러를 활성화합니다.[CR]비디오 소스가 2560x1440 이하이고, 소스 해상도가 디스플레이 해상도보다 낮을 때 사용됩니다.[CR]특정 하드웨어에서만 사용 가능: NVIDIA RTX 및 Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"

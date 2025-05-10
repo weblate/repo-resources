@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-18 00:03+0000\n"
+"PO-Revision-Date: 2025-04-29 05:27+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.11.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11571,12 +11571,12 @@ msgstr "Тип HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Имеет несколько версий"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Имеются дополнительные видео"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11653,6 +11653,21 @@ msgstr "Расширение: «{0:s}»"
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "Тип МIME: «{0:s}»"
+
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Специальный {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Серия {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Специальный"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -12618,7 +12633,7 @@ msgstr "Действие воспроизведения по умолчанию"
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr "Спрашивать, если возобновляемое"
+msgstr "Спрашивать, можно ли возобновить"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -13469,12 +13484,12 @@ msgstr "Минимум: {0:s} / Недоступно{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Подключение к базе данных - подождите"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Не удалось инициализировать базы данных - выход через {} секунд."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13578,6 +13593,21 @@ msgstr "Автопропуск включен"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Вручную"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr ""
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Не найден подходящий список воспроизведения фильмов."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Не найден подходящий список воспроизведения серий."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -14998,7 +15028,7 @@ msgstr "Количество игроков на клавиатуре"
 #. Description of settings with label #35066
 msgctxt "#35155"
 msgid "Set the number of players using the keyboard. This is intended for devices that use keyboard drivers, but you can also see how many people fit around a keyboard!"
-msgstr "Устанавливает количество игроков, использующих клавиатуру."
+msgstr "Установите количество игроков, использующих клавиатуру. Это предназначено для устройств, использующих драйверы клавиатуры, но вы также можете увидеть, сколько игроков пользуются клавиатурой!"
 
 msgctxt "#35156"
 msgid "{0:d}"
@@ -15864,7 +15894,7 @@ msgstr "Скрывать индикатор сканирования медиа�
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
 msgid "Remove items from your library that can't be found (either renamed, deleted, or on removable storage that is currently unplugged)."
-msgstr "Убрать из медиатеки недоступные объекты: переименованные, удалённые или находящиеся на отключённых носителях."
+msgstr "Удалить отсутствующие объекты из медиатеки, файлы которые были (переименованы, удалены или находятся на съемном носителе, который в данный момент отключен)."
 
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"
@@ -16004,7 +16034,7 @@ msgstr "Этот раздел содержит настройки списков
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Переключение между [Выбрать], [Воспроизвести] (по умолчанию), [Показать сведения] и [Добавить в плейлист]. [CR][Выбрать] откроет контекстное меню для выбора элемента, например, показать информацию. [CR][Воспроизвести] воспроизведет видео, как определено настройкой «Действие воспроизведения по умолчанию». [CR][Показать информацию] откроет диалоговое окно с информацией о видео. [CR][Добавить в плейлист] добавит видео в список воспроизведения видео."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16131,7 +16161,7 @@ msgstr "Активировать функции просмотра и запис
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Переключение между [Спрашивать, можно ли возобновить] (по умолчанию), [Продолжить] и [Воспроизвести с начала]. [CR][Спрашивать, можно ли возобновить] спросит, воспроизводить ли с начала или возобновить (если есть точка возобновления). [CR][Возобновить] автоматически возобновит воспроизведение с последней позиции, в которой вы их просматривали. Если точка возобновления не установлена, воспроизведение автоматически начнется с начала. [CR][Воспроизвести с начала] автоматически начнет воспроизведение с начала, игнорируя любые существующие позиции возобновления."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."

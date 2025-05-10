@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-22 15:00+0000\n"
+"PO-Revision-Date: 2025-05-10 08:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.11.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1418,7 +1418,7 @@ msgstr "Sortera efter: År"
 
 msgctxt "#367"
 msgid "Sort by: Rating"
-msgstr "Sortera efter: Klassificering"
+msgstr "Sortera efter: Betyg"
 
 msgctxt "#368"
 msgid "IMDb"
@@ -2189,7 +2189,7 @@ msgstr "Årtal"
 
 msgctxt "#563"
 msgid "Rating"
-msgstr "Klassificering"
+msgstr "Betyg"
 
 msgctxt "#564"
 msgid "Type"
@@ -4109,7 +4109,7 @@ msgstr "Nyare version krävs. Se loggen för mer information om detta meddelande
 #. Notification message indicating an add-on error. "<Add-on name> error".
 msgctxt "#2102"
 msgid "{0:s} error"
-msgstr "{0:s} fel"
+msgstr "Fel i {0:s}"
 
 #. Fallback message indicating an add-on error.
 msgctxt "#2103"
@@ -4716,7 +4716,7 @@ msgstr "Radio-tidtagarregler"
 
 msgctxt "#10800"
 msgid "Fullscreen live TV"
-msgstr "Helskärm live-tv"
+msgstr "Direktsänd tv i helskärm"
 
 msgctxt "#10801"
 msgid "Fullscreen radio"
@@ -5655,7 +5655,7 @@ msgstr "Återskapa miniatyrbilder"
 
 msgctxt "#13316"
 msgid "Recursive thumbnails"
-msgstr "Skanna miniatyrbilder i undermappar"
+msgstr "Rekursiva miniatyrbilder"
 
 msgctxt "#13317"
 msgid "View slideshow"
@@ -6415,7 +6415,7 @@ msgstr "Harmony fjärrkontroll"
 
 msgctxt "#13620"
 msgid "Apple Remote error"
-msgstr "Apple fjärrkontrollsfel"
+msgstr "Fel i Apple fjärrkontroll"
 
 msgctxt "#13621"
 msgid "Apple Remote support couldn't be enabled."
@@ -6931,11 +6931,11 @@ msgstr "Biblioteksinställningar"
 
 msgctxt "#14204"
 msgid "PVR & Live TV"
-msgstr "PVR & Live-TV"
+msgstr "PVR & Direktsänd tv"
 
 msgctxt "#14205"
 msgid "PVR & Live TV settings"
-msgstr "PVR & Live-TV -inställningar"
+msgstr "Inställningar för PVR & Direktsänd tv"
 
 msgctxt "#14206"
 msgid "Interface"
@@ -11559,7 +11559,7 @@ msgstr "Visa alla medverkande för musikvideor"
 
 msgctxt "#20473"
 msgid "Premiered"
-msgstr "Hade premiär"
+msgstr "Premiärdatum"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20474"
@@ -11651,6 +11651,21 @@ msgstr "Filtyp: \"{0:s}\""
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "MIME typ: \"{0:s}\""
+
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Special {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Avsnitt {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Special"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13574,6 +13589,21 @@ msgstr "Hoppa över automatiskt på"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Manuell"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "Den valda spellistan används redan. Vill du associera den med det här avsnittet istället?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Ingen giltig spellista för filmer har hittats."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Ingen giltig spellista för avsnitt har hittats."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15564,7 +15594,7 @@ msgstr "Använd begränsad färgomfång (16-235)"
 
 msgctxt "#36043"
 msgid "Number of buffers used by graphics driver"
-msgstr "Antal bufferts som används av grafikdrivrutin"
+msgstr "Antal buffertar som används av grafikdrivrutin"
 
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#36044"
@@ -15982,7 +16012,7 @@ msgstr "Välj vilket datumformat som ska användas vid visning av datum i gräns
 #. Description of setting with label #23050 "Activate Teletext"
 msgctxt "#36174"
 msgid "Enable teletext when watching a live TV stream."
-msgstr "Aktivera text-tv när live-tv visas."
+msgstr "Aktivera text-tv när direktsänd tv visas."
 
 #. Description of setting with label #23055 "Scale Teletext to 4:3"
 msgctxt "#36175"
@@ -16111,11 +16141,11 @@ msgstr "Välj standardkälla för musikvideor. Se tilläggshanteraren för alter
 
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
-msgstr "Inställningar för PVR & Live-TV."
+msgstr "Inställningar för PVR & Direktsänd tv."
 
 msgctxt "#36202"
 msgid "This category contains the general settings for the PVR & Live TV."
-msgstr "Denna kategori innehåller generella inställningar för PVR & Live-TV."
+msgstr "Denna kategori innehåller generella inställningar för PVR & Direktsänd tv."
 
 msgctxt "#36203"
 msgid "Enables the \"Personal Video Recorder\" (PVR) features. This requires that at least one PVR add-on is installed."
@@ -16488,7 +16518,7 @@ msgstr "Ange en plats på hårddisken där rippade låtar kommer att sparas till
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
 msgid "Control how saved music is named from the tags. Tags: [B]%N[/B]: TrackNumber, [B]%S[/B]: DiscNumber, [B]%A[/B]: Artist, [B]%T[/B]: Title, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: Year, [B]%F[/B]: FileName, [B]%D[/B]: Duration, [B]%J[/B]: Date, [B]%R[/B]: Rating, [B]%I[/B]: FileSize."
-msgstr "Styr hur sparad musik döps enligt taggarna. Taggar: [B]%N[/B]: Spårnummer, [B]%S[/B]: Skivnummer, [B]%A[/B]: Artist, [B]%T[/B]: Titel, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: År, [B]%F[/B]: Filnamn, [B]%D[/B]: Spellängd, [B]%J[/B]: Datum, [B]%R[/B]: Betyg, [B]%I[/B]: Filstorlek."
+msgstr "Styr hur sparad musik döps enligt taggarna. Taggar: [B]%N[/B]: Spårnummer, [B]%S[/B]: Skivnummer, [B]%A[/B]: Artist, [B]%T[/B]: Titel, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: År, [B]%F[/B]: Filnamn, [B]%D[/B]: Speltid, [B]%J[/B]: Datum, [B]%R[/B]: Betyg, [B]%I[/B]: Filstorlek."
 
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
@@ -17463,7 +17493,7 @@ msgstr "Definierar styrkan av den stereoskopiska 3D-effekten i det grafiska anv�
 #. Description of setting "System -> Video output -> NoOfBuffers" with label #36043
 msgctxt "#36552"
 msgid "Defines the number of presentation buffers used by the graphics driver. Select 2 if the driver uses double buffering or 3 for triple buffering."
-msgstr "Definierar antalet bufferts som används av grafikdrivrutinen. Ange 2 om drivrutinen använder sig av dubbel buffert eller 3 för tredubbel buffert."
+msgstr "Definierar antalet buffertar som används av grafikdrivrutinen. Ange 2 om drivrutinen använder sig av dubbelbuffert eller 3 för tredubbel buffert."
 
 #. label of a setting, allowing to specify tonemap method
 msgctxt "#36553"
@@ -19081,7 +19111,7 @@ msgstr "Biblioteksinformationskällor"
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
 msgid "Artwork"
-msgstr "Utsmyckning"
+msgstr "Omslagsbilder"
 
 #. Label for component level debug logging setting
 msgctxt "#39124"
@@ -19099,7 +19129,7 @@ msgstr "Använd alla lokala bildfiler som omslag"
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr "Alla bildfiler som ligger bredvid mediefilerna plockas upp som illustrationer under bibliotekets genomsökning, med filnamnet som illustrationstyp."
+msgstr "Alla bildfiler som ligger bredvid mediefilerna plockas upp som omslagsbilder under bibliotekets genomsökning, med filnamnet som bildtyp."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
@@ -19694,7 +19724,7 @@ msgstr "Ignorera videoextramaterial vid genomsökning"
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr "Välj genomsökningsåtgärd för videoextramaterial i mappen \"extras\".[CR][Aktiverad] Skanna videoextramaterial som vanliga videor.[CR][Inaktiverad] Lägg till videoextramaterial i biblioteket för tillhörande video."
+msgstr "Välj genomsökningsåtgärd för videoextramaterial i mappen \"extras\".[CR][Aktiverad] Sök igenom videoextramaterial som vanliga videor.[CR][Inaktiverad] Lägg till videoextramaterial i biblioteket för tillhörande video."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets

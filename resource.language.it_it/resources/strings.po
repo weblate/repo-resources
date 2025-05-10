@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-20 22:31+0000\n"
+"PO-Revision-Date: 2025-04-25 03:54+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -11650,6 +11650,21 @@ msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "Tipo MIME: \"{0:s}\""
 
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Speciale {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Episodio {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Speciale"
+
 msgctxt "#21358"
 msgid "Enable UPnP support"
 msgstr "Abilita supporto a UPnP"
@@ -13572,6 +13587,21 @@ msgstr "Salto automatico attivato"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Manuale"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "La playlist selezionata è già in uso. Vuoi associarla a questo episodio?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Non è stata trovata alcuna playlist di film valida."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Non è stata trovata alcuna playlist di episodi valida."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
