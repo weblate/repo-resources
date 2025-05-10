@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-20 22:31+0000\n"
+"PO-Revision-Date: 2025-04-27 15:42+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.11.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11650,6 +11650,21 @@ msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "MIME-Type: „{0:s}“"
 
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Special {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Episode {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Special"
+
 msgctxt "#21358"
 msgid "Enable UPnP support"
 msgstr "UPnP-Unterstützung aktivieren"
@@ -13572,6 +13587,21 @@ msgstr "Automatisches Überspringen ein"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Manuell"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "Die ausgewählte Wiedergabeliste wird bereits verwendet. Stattdessen mit dieser Episode verknüpfen?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Es wurde keine gültige Filmwiedergabeliste gefunden."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Es wurde keine gültige Episodenwiedergabeliste gefunden."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"

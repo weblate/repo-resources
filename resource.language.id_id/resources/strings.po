@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-23 17:33+0000\n"
+"PO-Revision-Date: 2025-04-25 03:54+0000\n"
 "Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
@@ -11683,6 +11683,21 @@ msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "Tipe MIME: \"{0:s}\""
 
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Spesial {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Episode {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Spesial"
+
 # empty strings from id 21346 to 21357
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13303,7 +13318,7 @@ msgstr "Instal pembaruan otomatis saja"
 #. Button caption in DialogAddoninfo
 msgctxt "#24138"
 msgid "Update"
-msgstr "Memperbarui"
+msgstr "Perbarui"
 
 #. Label for the action provided by addon management events to jump to a specific add-on
 msgctxt "#24139"
@@ -13609,6 +13624,21 @@ msgstr "Lewati otomatis aktif"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Manual"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "Daftar putar yang dipilih sudah digunakan. Asosiasikan dengan episode ini saja?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Tidak ada daftar putar film valid yang ditemukan."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Tidak ada daftar putar episode valid yang ditemukan."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"

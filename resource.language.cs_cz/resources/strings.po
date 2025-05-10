@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-30 19:10+0000\n"
-"Last-Translator: top9 <top9@email.cz>\n"
+"PO-Revision-Date: 2025-04-29 05:27+0000\n"
+"Last-Translator: HansCR <h.vanek@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "Zadejte uživatelské jméno"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Zadejte cestu..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -9530,7 +9530,7 @@ msgstr "Kopie „{0:s}“"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Odstranit nahrávku"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11567,7 +11567,7 @@ msgstr "Typ HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Má více verzí"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
@@ -11649,6 +11649,21 @@ msgstr "Rozšíření: \"{0:s}\""
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
 msgstr "Typ MIME: \"{0:s}\""
+
+#. Used to show a special in episode list, eg. 'Special 33 - The Interview'
+msgctxt "#21348"
+msgid "Special {0:d} - {1:s}"
+msgstr "Speciální {0:d} - {1:s}"
+
+#. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
+msgctxt "#21349"
+msgid "Episode {0:d} - {1:s}"
+msgstr "Epizoda {0:d} - {1:s}"
+
+#. Used to show a special in episode list
+msgctxt "#21350"
+msgid "Special"
+msgstr "Speciální"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13463,12 +13478,12 @@ msgstr "Minimum: {0:s} / Nedostupné{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Připojuji databázi - prosím čekejte"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Chyba při inicializaci databáze - ukončuji za {} secondy."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13572,6 +13587,21 @@ msgstr "Automatické přeskakování zapnuto"
 msgctxt "#25014"
 msgid "Manual"
 msgstr "Ručně"
+
+#. Used to ask user if they want to use a playlist already assigned to an episode
+msgctxt "#25015"
+msgid "Selected playlist is already in use. Associate with this episode instead?"
+msgstr "Vybraný seznam stop je již používán. Přidružit místo toho tuto epizodu?"
+
+#. Inform user that no valid movie playlist has been found on disc
+msgctxt "#25016"
+msgid "No valid movie playlist has been found."
+msgstr "Nebyl nalezen žádný platný seznam filmových stop."
+
+#. Inform user that no valid episode playlist has been found on disc
+msgctxt "#25017"
+msgid "No valid episode playlist has been found."
+msgstr "Nebyl nalezen žádný platný seznam epizod."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15996,7 +16026,7 @@ msgstr "Tato kategorie obsahuje nastavení jak zacházet se seznamy souborů vid
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Přepínejte mezi možnostmi [Vybrat], [Přehrát] (výchozí), [Zobrazit informace] a [Položka fronty].[CR][Vybrat] otevře kontextovou nabídku pro výběr položky, např. zobrazit informace.[CR][Přehrát] přehraje videa podle nastavení „Výchozí akce přehrávání“.[CR][Zobrazit informace] otevře dialogové okno s informacemi o videu.[CR][Položka fronty] přidá video do seznamu video stop."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16123,7 +16153,7 @@ msgstr "Povolí funkce PVR (Personal Video Recorder). Toto vyžaduje, aby byl na
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Přepíná mezi možnostmi [Zeptat se, zda pokračovat] (výchozí), [Pokračovat] a [Přehrát od začátku].[CR][Zeptat se, zda pokračovat] se zeptá, zda přehrát od začátku, nebo pokračovat (pokud je přítomen bod pokračování).[CR][Pokračovat] automaticky obnoví přehrávání od poslední pozice, ve které jste je prohlíželi. Pokud není nastaven žádný bod obnovení, přehrávání se automaticky spustí od začátku. [CR][Přehrát od začátku] automaticky spustí přehrávání od začátku, přičemž ignoruje všechny existující pozice pro obnovení."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19412,7 +19442,7 @@ msgstr "Pokud se přehrává hudba, spořič obrazovky se nikdy neaktivuje"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Povolí pokročilý DXVA upscaler pomocí NVIDIA „RTX Video Super Resolution“ nebo „Intel Video Super Resolution“.[CR]Používá se, pokud má zdroj videa rozlišení 2560x1440 nebo menší a rozlišení zdroje je nižší než rozlišení displeje.[CR]K dispozici pouze na specifickém hardwaru: NVIDIA RTX a Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19472,7 +19502,7 @@ msgstr "Povolením, budou skryté titulky označeny pro neslyšící; to ovlivn�
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "Vložené titulky"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
