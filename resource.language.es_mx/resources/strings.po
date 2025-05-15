@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-10 20:27+0000\n"
+"PO-Revision-Date: 2025-05-12 21:27+0000\n"
 "Last-Translator: Edson Armando <edsonarmando78@outlook.com>\n"
 "Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_mx/>\n"
 "Language: es_mx\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.11.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "Ingresa el nombre de usuario"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Ingresa una ruta..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -5103,17 +5103,17 @@ msgstr "Nivel de batería"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "¡Gracias!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi es hecho con amor por la Fundación Kodi, una organización sin fines de lucro 501(c)(3). ¡Gracias por utilizar nuestro software!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5892,7 +5892,7 @@ msgstr "Expulsar / Cargar"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Selección de flujo"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6169,12 +6169,12 @@ msgstr "Preferir método de renderizado VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Utilizar filtro de decodificadores"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Activar/desactivar el filtro que bloquea ciertos decodificadores de software de Android. Este filtro se puede configurar mediante el archivo [datos de usuario]/decodefilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -9530,7 +9530,7 @@ msgstr "Copia de '{0:s}'"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Eliminar grabación"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11567,12 +11567,12 @@ msgstr "Tipo de HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Tiene múltiples versiones"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Tiene extras de video"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11653,17 +11653,17 @@ msgstr "Tipo MIME: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Especial {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Episodio {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Especial"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13478,12 +13478,12 @@ msgstr "Mínimo: {0:s} / No disponible{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Conectando a la base de datos - por favor espera"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Error al inicializar las bases de datos - saliendo en {} segundos."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13591,17 +13591,17 @@ msgstr "Manual"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "La lista de reproducción seleccionada ya está en uso. ¿Asociar con este episodio en su lugar?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "No se ha encontrado ninguna lista de reproducción de película válida."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "No se ha encontrado ninguna lista de reproducción de episodios válida."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15392,7 +15392,7 @@ msgstr "Tu cuenta no está verificada. Por favor, revisa tu correo para completa
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Este juego requiere soporte OpenGL para gráficos 3D. El soporte OpenGL aún sigue en desarrollo."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16025,7 +16025,7 @@ msgstr "Esta categoría contiene la configuración de cómo se manejan las lista
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Cambia entre [Elegir], [Reproducir] (por defecto) [Mostrar información] y [Encolar elemento].[CR][Elegir] abrirá un menú contextual para seleccionar un elemento, p. ej. mostrar información.[CR][Reproducir] comenzará a reproducir según esté definido por la configuración 'Acción de reproducción predeterminada'.[CR][Mostrar información] abrirá el diálogo de información del video.[CR][Encolar elemento] agregará el video a la lista de reproducción de video."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16152,7 +16152,7 @@ msgstr "Activa las funciones de \"Personal Video Recorder\" (PVR). Requiere que 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Cambia entre [Preguntar si se puede reanudar] (predeterminado), [Reanudar] y [Reproducir desde el inicio].[CR][Preguntar si se puede reanudar] preguntará si se quiere reproducir desde el inicio  o continuar (si hay un punto de reanudación). [CR][Reanudar] reanudará automáticamente la reproducción desde la última posición en la que se estuvo viendo. Si no se establece un punto de reanudación, la reproducción comenzará automáticamente desde el principio. [CR][Reproducir desde el principio] iniciará automáticamente la reproducción desde el principio, ignorando cualquier punto de reanudación existente."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -17843,7 +17843,7 @@ msgstr "Versión mínima de protocolo"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Establece la versión de protocolo mínima de SMB a negociar al hacer conexiones. Forzar SMBv2 puede ser necesario para prevenir el uso de SMBv1 en algunos sistemas. Solo SMBv2.1 y SMBv3 soportan MTU grande (tamaño de pieza > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17883,7 +17883,7 @@ msgstr "Debes ingresar una contraseña antes de poder activar la autenticación 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 y MTU grande"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -18019,12 +18019,12 @@ msgstr "(Comentarios del director 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "estéreo"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -19441,7 +19441,7 @@ msgstr "Si se reproduce música, el protector de pantalla no se activará nunca"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Habilita el escalador DXVA avanzado mediante NVIDIA \"RTX Video Super Resolution\" o \"Intel Video Super Resolution\".[CR]Se utiliza cuando el origen de video es de 2560x1440 o menos y la resolución de la fuente es menor que la resolución de la pantalla.[CR]Solo disponible en hardware específico: NVIDIA RTX e Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19491,17 +19491,17 @@ msgstr "Ajusta el espacio entre las líneas de texto. Si se establece un valor d
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Establecer subtítulos CC solo para personas con discapacidad auditiva"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Al activarse, los subtítulos CC se etiquetarán para personas con discapacidad auditiva; esto afectará la selección automática de subtítulos, que a menos que se especifique lo contrario, no se mostrarán de forma predeterminada."
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19697,12 +19697,12 @@ msgstr "La versión predeterminada de una película con varias versiones no se p
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Eliminar extra de video"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres eliminar el extra \"{0:s}\"?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -19728,7 +19728,7 @@ msgstr "Seleccionar la acción al escanear extras de video en la carpeta \"extra
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Recursos"
 
 #. Button label for video versions
 msgctxt "#40210"
