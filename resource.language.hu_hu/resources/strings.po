@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-30 19:10+0000\n"
+"PO-Revision-Date: 2025-05-15 15:52+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "Felhasználónév"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Add meg az elérési utat..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -9532,7 +9532,7 @@ msgstr "'{0:s}' másolata"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Felvétel törlése"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11569,12 +11569,12 @@ msgstr "HDR típusú"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Több verziója is van"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Videó extrája van"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11655,17 +11655,17 @@ msgstr "MIME-típus: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Speciális {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Epizód {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Speciális"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13480,12 +13480,12 @@ msgstr "Minimum: {0:s} / Nem elérhető{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Kapcsolódás az adatbázishoz - kérjük, várj"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Nem sikerült inicializálni az adatbázisokat - kilépés {} másodperc múlva."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13593,17 +13593,17 @@ msgstr "Kézi"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "A kiválasztott lejátszási lista már használatban van. Inkább ehhez az epizódhoz társítanád?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "Nem található érvényes filmlejátszási lista."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "Nem található érvényes epizód lejátszási lista."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -16029,7 +16029,7 @@ msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek videófáj
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Válts a [Kiválasztás], [Lejátszás] (alapértelmezett), [Információk megjelenítése] és [Elem sorba helyezése] lehetőségek között. A [CR][Kiválasztás] gomb megnyit egy helyi menüt egy elem kiválasztásához, pl. információk megjelenítése.[CR][Lejátszás] A „Alapértelmezett lejátszási művelet” beállítás szerint játssza le a videókat.[CR][Információk megjelenítése] megnyitja a videó információs párbeszédpaneljét.[CR][Várólista elem] hozzáfűzi a videót a videólejátszási listához."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16156,7 +16156,7 @@ msgstr "Engedélyezi a „személyes videófelvevő” (PVR) funkciókat. Ehhez 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Válassz a [Kérdezzen rá, ha folytatható] (alapértelmezett), a [Folytatás] és a [Lejátszás az elejétől] lehetőségek közül. A [CR][Kérdezzen rá, ha folytatható] gomb megkérdezi, hogy az elejétől játssza-e le a fájlt, vagy folytatja-e (ha van folytatási pont). A [CR][Folytatás] gomb automatikusan attól a ponttól folytatja a lejátszást, ahol utoljára megtekintetted. Ha nincs beállítva folytatási pont, a lejátszás automatikusan az elejéről indul.[CR][Lejátszás az elejéről] automatikusan az elejéről indítja a lejátszást, figyelmen kívül hagyva a meglévő folytatási pozíciókat."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19445,7 +19445,7 @@ msgstr "Ha zenelejátszás van folyamatban, akkor a képernyőkímélő nem fog 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Engedélyezi a fejlett DXVA felskálázást az NVIDIA „RTX Video Super Resolution” vagy az „Intel Video Super Resolution” használatával.[CR]Akkor használatos, ha a videoforrás 2560x1440 vagy kisebb, és a forrás felbontása alacsonyabb, mint a kijelző felbontása.[CR]Csak bizonyos hardvereken érhető el: NVIDIA RTX és Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19505,7 +19505,7 @@ msgstr "Engedélyezésével a CC feliratok hallássérültek számára lesznek f
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "A Closed Caption subtitles (videókba ágyazott feliratok) rövidítése CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19732,7 +19732,7 @@ msgstr "Válassza ki a szkenner műveletet a videó extrákhoz az \"extrák\" ma
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Eszköz"
 
 #. Button label for video versions
 msgctxt "#40210"

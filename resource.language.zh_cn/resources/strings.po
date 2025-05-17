@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-01-24 11:46+0000\n"
-"Last-Translator: Xiaoxi654 <xiaoxi654@outlook.com>\n"
-"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_cn/>\n"
+"PO-Revision-Date: 2025-05-13 18:14+0000\n"
+"Last-Translator: James Qian <sotux82@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1819,7 +1819,7 @@ msgstr "[启用]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "字幕流"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2643,32 +2643,32 @@ msgstr "来自元数据"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "设置边框大小。"
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "设置边框颜色。"
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "设置模糊。"
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "设置阴影颜色。"
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "设置阴影不透明度。"
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "设置阴影大小。"
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -3227,72 +3227,72 @@ msgstr "有效端口范围是 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr ""
+msgstr "来自客户端\"{0:s}\"的任何频道"
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "来自任何客户端的任何渠道"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "最近添加的频道"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "客户端"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [所有频道]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "观看后删除"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "配置观看后是否应删除录制内容。"
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "询问"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "确定要删除此录制内容吗？"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "录制内容已删除: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3377,7 +3377,7 @@ msgstr "输入用户名"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "输入路径..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -5103,17 +5103,17 @@ msgstr "电池电量"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "谢谢！"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi 是 501(c)(3) 非营利组织 Kodi 基金会的爱带给您的。感谢您使用我们的软件！"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "Kodi.tv/捐赠"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5892,7 +5892,7 @@ msgstr "弹出/载入"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "数据流选择"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6027,7 +6027,7 @@ msgstr "记住此目录"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "选择播放列表"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6170,12 +6170,12 @@ msgstr "首选 VAAPI 渲染模式"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "使用解码器过滤器"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "启用/禁用阻止某些 Android 软件解码器的过滤器。此过滤器可通过 [userdata]/decoderfilter.xml 文件进行配置。"
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6225,36 +6225,36 @@ msgstr "启用此选项激活 AV1 编码的硬件加速，禁用则为 CPU 解�
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "使用 AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "启用该选项可为 AVC 编解码器使用硬件加速。如果禁用，则将使用 CPU。"
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "HQ 高分辨率中档格式"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "设置 GPU 渲染路径中使用的中间缩放缓冲区的精度。16 位精度可能要求更高的性能。如果硬件无法支持所选格式，Kodi 将退回到下一个最佳格式。"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "每通道 8 位"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "每通道 10 位"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "每通道 16 位"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6311,7 +6311,7 @@ msgstr "音高修正阈值"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "当速度变化超过该阈值时，将应用音调校正滤波器。这可以避免视频加速时通常会产生的 \"花栗鼠声音\""
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6897,7 +6897,7 @@ msgstr "白名单列表"
 
 msgctxt "#14127"
 msgid "Allow 3:2 pulldown refresh rates"
-msgstr "允许3:2折刷新率"
+msgstr "允许 3:2 下拉刷新率"
 
 msgctxt "#14128"
 msgid "Allow double refresh rates"
@@ -6906,11 +6906,11 @@ msgstr "允许双倍刷新率"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "播放器音频/视频队列"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7135,15 +7135,15 @@ msgstr "允许通过异地程序远程控制"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "维护"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "清理图像缓存"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "立即从该高速缓存中删除未使用的图像——与媒体库中的项目不相关的图像，也不是最近查看的图像。Kodi 会在后台随着时间的推移执行此操作。"
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7958,11 +7958,11 @@ msgstr "此事件已被设置定时器"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} 无法播放。"
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "无法播放此录制文件。"
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -8000,11 +8000,11 @@ msgstr "录像"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "请检查您的配置。"
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "尚未启动 PVR 客户端。等待 PVR 客户端启动。"
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8312,22 +8312,22 @@ msgstr "于"
 #. label for PVR settings "tv fallback framerate" (in Hz) selector
 msgctxt "#19108"
 msgid "Fallback framerate"
-msgstr "后备帧率"
+msgstr "备用帧率"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "无法保存计时器。"
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "无法删除计时器。"
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "PVR 后端出错。"
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8577,7 +8577,7 @@ msgstr "录像"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "无法开始录制。"
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8607,7 +8607,7 @@ msgstr "隐藏视频信息框"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "无法停止录制。"
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8723,7 +8723,7 @@ msgstr "连接的 PVR 后端不支持频道扫描。"
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "无法启动频道扫描。"
 
 #. unused?
 msgctxt "#19194"
@@ -9062,7 +9062,7 @@ msgstr "家长控制，输入 PIN："
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "无法更新计时器。"
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9471,7 +9471,7 @@ msgstr "您想为所选节目设置提醒还是切换到当前节目？"
 #. settings label to open add-ons manager window with available PVR client add-ons
 msgctxt "#19345"
 msgid "PVR client add-ons"
-msgstr "PVR客户端插件"
+msgstr "PVR 客户端插件"
 
 #. help text for setting to open add-ons manager window with available PVR client add-ons
 msgctxt "#19346"
@@ -9507,32 +9507,32 @@ msgstr "回看/视频点播"
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr ""
+msgstr "自动播放下一个节目"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "从这里开始播放节目"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr ""
+msgstr "只播放这个节目"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "重复"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "{0:s}的副本"
 
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "删除录制文件"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11569,12 +11569,12 @@ msgstr "HDR 类型"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "有多个版本"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "有额外的视频"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11650,22 +11650,22 @@ msgstr "延时: \"{0:s}\""
 #. Used to give heading list entry for an mimetype description, e.g. to show as 'MIME type: "audio/mpeg3"'
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
-msgstr "哑剧类型: \"{0:s}\""
+msgstr "MIME 类型: \"{0:s}\""
 
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "特别篇 {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "第 {0:d} 集 - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "特别篇"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -12626,12 +12626,12 @@ msgstr "字符集"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr ""
+msgstr "默认播放操作"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "询问是否可以恢复"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -13480,12 +13480,12 @@ msgstr "最低：{0:s} / 不可用{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "正在连接数据库 - 请等待"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "数据库初始化失败 - 将在 {} 秒后退出。"
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13593,17 +13593,17 @@ msgstr "手动"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "所选播放列表已在使用中。是否改为与此剧集关联？"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "未找到有效的电影播放列表。"
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "未找到有效的剧集播放列表。"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -14062,7 +14062,7 @@ msgstr "角色"
 #. Label for multi-disc movies, including movie title (param 0) and disc number (param 1).
 msgctxt "#29995"
 msgid "{0:s} (Disc {1:s})"
-msgstr ""
+msgstr "{0:s}（光盘 {1:s}）"
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -14485,27 +14485,27 @@ msgstr "为了让某些 AVR 保持开机，我们发送一个人耳听不见的�
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "下混时包括 LFE（低频效果声道）"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr ""
+msgstr "如果启用，当没有专门的 LFE 输出通道时，该设置将在混音中加入 LFE 通道。这只适用于全频扬声器。"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "关"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -15105,17 +15105,17 @@ msgstr "鼠标"
 #. Name of window for configuring players while playing a game
 msgctxt "#35172"
 msgid "Players"
-msgstr ""
+msgstr "玩家数"
 
 #. Notification shown when no controllers are connected in the in-game dialog that lets users configure player assignment
 msgctxt "#35173"
 msgid "No controllers connected"
-msgstr ""
+msgstr "未连接控制器"
 
 #. This string is an early meme from the late 1990's that made fun of the poor translation in the 16-bit game Zero Wing from the late 1980's. DO NOT TRANSLATE!
 msgctxt "#35200"
 msgid "ALL YOUR BASE ARE BELONG[CR]TO US"
-msgstr "ALL YOUR BASE ARE BELONG[CR]TO US"
+msgstr "你们的所有基地都属于我们"
 
 #. Name of group in "Games -> General" for configuring gameplay
 msgctxt "#35201"
@@ -15394,7 +15394,7 @@ msgstr "您的帐户未经验证。请检查您的电子邮件以完成注册。
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "本游戏需要 OpenGL 支持才能进行 3D 渲染。OpenGL 支持仍在开发中。"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16027,7 +16027,7 @@ msgstr "此功能区包含视频文件列表处理相关设置。"
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "在[选择]、[播放]（默认）、[显示信息]和[队列项目]之间切换。[CR][选择]将打开一个上下文菜单来选择一个项目，例如显示信息。[CR][播放]将按照 \"默认播放操作 \"设置来播放视频。[CR][显示信息]将打开视频的信息对话框。[CR][队列项目]将把视频添加到视频播放列表中。"
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16154,7 +16154,7 @@ msgstr "启用“个人视频录像机”（PVR）功能。需要至少安装有
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "在 [可恢复时询问]（默认）、[继续播放] 和 [从头开始播放] 之间切换。[CR][可恢复时询问]：若存在恢复点，系统会询问您是从头开始播放还是从上次中断处继续播放。[CR][继续播放]：自动从上次观看的位置继续播放。若未设置恢复点，将自动从头开始播放。[CR][从头开始播放] 忽略所有已有的恢复点，自动从头开始播放。"
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16262,7 +16262,7 @@ msgstr "在编码信息窗显示信号质量信息（如果插件和后端支持
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "设置字幕背景不透明度。"
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16563,7 +16563,7 @@ msgstr "当以歌手排序音乐项时，使用排序名如 Parton、Dolly 而�
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "设置字幕不透明度。"
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -16580,7 +16580,7 @@ msgstr "如果启用，则在自动关闭提醒弹出窗口时，如果 PVR 插�
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "允许更改显示屏的 HDR 模式，以最佳匹配媒体。禁用时，Kodi 会根据需要（如果您的硬件支持）应用色调映射，使媒体适应当前显示器的 HDR 模式。"
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
@@ -17264,7 +17264,7 @@ msgstr "任何库"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "当播放过去的节目（追播）或视频点播（VOD）频道时，启用自动播放下一个节目。请注意，追播和 VOD 只有在频道提供商支持的情况下才能工作。"
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17845,7 +17845,7 @@ msgstr "最低协议版本"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "设置建立连接时要协商的最低 SMB 协议版本。可能需要强制 SMBv2 以防止在某些系统上使用 SMBv1。只有 SMBv2.1 和 SMBv3 支持大 MTU（块大小> 64 KB）。"
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17885,7 +17885,7 @@ msgstr "必须先输入密码，然后才能启用 Web 服务器身份验证。"
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 和大型 MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -18021,12 +18021,12 @@ msgstr "（导演点评2）"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "单声道"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "立体声"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18189,160 +18189,160 @@ msgstr "建立 NFS 连接时使用的NFS协议版本"
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "块大小"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "NFS 块大小"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "NFS 连接使用的数据块大小"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "SMB 块大小"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "SMB 连接使用的数据块大小"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "缓存"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "该类别包含配置本地和网络文件以及互联网流缓存的设置。"
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "缓冲模式"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "配置要缓冲的媒体内容。"
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "内存大小"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "内存缓冲区的大小（以 MB 为单位）。设置零 （0） 会强制缓冲到磁盘，这在闪存设备（eMMC、SD 卡、SSD）上不建议这样做。"
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "缓存填充速率"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "根据数据流的平均比特率 x 缓存填充速率确定缓存填充率。提高该倍数，缓存填充速度会更快。在某些设备上，较大的倍数可能会导致 CPU 峰值、连接饱和和性能恶化。[CR][适应性] 根据缓存级别使用动态计算的读取系数。"
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "当文件系统或协议不强制使用该值时要使用的数据块大小，例如 NFS 会用自己的值覆盖该值。"
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "No buffer"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "只缓冲真正的互联网流：HTTP、HTTPS 等。"
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "缓冲所有互联网文件系统，包括 FTP、WebDAV 等。"
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "缓冲所有网络文件系统，包括SMB、NFS 等。"
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "缓冲所有文件系统，包括本地文件"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "将整个文件缓存在磁盘存储上"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "自适应"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} Byte"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KB"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MB"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} GB"
 
 # empty strings from id 37124 to 37127
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} second"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} seconds"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "音频/视频排队时间"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "音频/视频队列的持续时间（秒）。持续时间决定内存中存储的数据量。"
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "视频队列最大大小"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "限制视频队列的最大内存使用量。内存用量取决于视频比特率和队列长度。如果达到内存限制，队列时间会根据需要缩短。"
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18667,7 +18667,7 @@ msgstr "音频播放开始时自动转到可视化效果窗口"
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "该类别包含视频播放的高级设置"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19443,67 +19443,67 @@ msgstr "播放音乐时，不会激活屏幕保护程序"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "启用使用 NVIDIA “RTX 视频超分辨率” 或 Intel “视频超分辨率” 的高级 DXVA 升频器。[CR]当视频源分辨率为 2560×1440 或更低，且低于显示器分辨率时生效。[CR]仅支持特定硬件：NVIDIA RTX 系列显卡和 Intel Arc 系列显卡。"
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "启用该选项可获得最佳画质。禁用可减少资源有限系统的负荷。"
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "杜比视界兼容模式"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "如果启用，杜比视界 profile 7 将转换为设备更常支持的 profile 8.1。如果您的设备支持杜比视界，但在某些视频中存在问题，请启用。"
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "允许的 HDR 动态元数据格式"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "更改视频比特流以移除动态 HDR 元数据。选择设备和显示器支持的 HDR 格式。"
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "杜比视界"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "行距"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "调整文本行之间的间距。将值设置得太低可能会导致在使用“背景类型”设置时框重叠。"
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "仅为听障人士设置 CC 字幕"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "启用后，将为听障人士标记 CC 字幕；这将影响字幕的自动选择，除非另有说明，否则默认情况下不会显示。"
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19514,12 +19514,12 @@ msgstr "版本"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "管理版本"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "作为版本添加到..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19529,122 +19529,122 @@ msgstr "版本"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "选择类型"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "不支持操作"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "所选电影有多个版本，无法将其转换成另一部电影的版本。从影片中删除这些版本，重新扫描资料库，然后单独转换。"
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "{0:s}\"版本已经存在！"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "找到不同的电影版本"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "找到了不同版本的电影\"{0:s}\"：{1:s}.您想将其转换成原版的附加版本吗？"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "视频版本"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "视频版本"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "视频版本"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "视频版本"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "添加版本"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "额外增加"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "所选视频已是电影的\"{0:s}\"版本。"
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "所选视频是电影\"{1:s}\"的\"{0:s}\"版本。您想将该版本移到这部影片中吗？"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "移除视频版本"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "无法删除电影的默认版本。设置不同的默认版本后再试一次。"
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "您确定要删除版本\"{0:s}\"吗？"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "您真的想从媒体库中删除\"{0:s}\"及其所有版本吗？"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "管理 {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "设置为默认值"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "版本管理器：{0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "额外管理器：{0:s｝"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "所选视频已是电影的\"{0:s}\"额外部分。"
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "所选视频是电影\"{1:s}\"的\"{0:s}\"号外。您想将该额外内容移到这部影片中吗？"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19654,83 +19654,83 @@ msgstr "浏览文件"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "浏览媒体库"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "选择要添加为版本的电影"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "在媒体库中未找到其他电影。"
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "在媒体库中没有找到类似的电影。"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "有多个版本的电影的默认版本不能作为额外版本添加到其他电影中。请先移动或删除其他版本。"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "您正准备将电影额外内容转换为电影版本。是否确定？"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "您正准备将电影版本转换为电影额外内容。是否确定？"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "要添加的影片有多个版本。[CR]将在下一个对话框中选择默认版本的类型。您想继续吗？"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "有多个版本的电影的默认版本不能添加到其他电影中。请先移动或删除其他版本。"
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "删除额外视频"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "是否确实要删除额外的\"{0:s}\"？"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "扫描时忽略不同的视频版本"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "为不同视频版本选择扫描操作。[CR][启用] 将不同视频版本单独添加到媒体库中，无需确认。[CR][禁用] 提示将不同视频版本转换为原始版本的附加版本。"
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "扫描时忽略视频额外内容"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "为 \"extras \"文件夹中的视频额外内容选择扫描器操作。[CR][启用] 像扫描普通视频一样扫描视频额外内容。[CR][禁用] 将视频额外内容添加到相关视频的库中。"
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "资源文件"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19740,174 +19740,174 @@ msgstr "版本"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "额外内容"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "与远程 UPnP 播放器同步音量大小"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "如果选择了该选项，远程播放器的音量将与此应用程序的音量同步：警告：全局系统音量可能与应用程序音量不同--它们是独立控制的。[CR]如果应用程序音量为 100%，但整个系统音量较小，这可能会导致远程播放器设置为 100%。"
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "选择版本类型"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "新类型..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "新版本类型"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "选择额外名称"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "新名称..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "新的额外名称"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "标准版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "加长版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "未分级版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "未删减版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "重制版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "剧场剪辑版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "导演剪辑版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "特别版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "限量版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "完整版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "最终剪辑版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "超级剪辑版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "典藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "终极典藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "标准收藏版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "粉丝编辑版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "黑白版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "10 周年纪念版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "20 周年纪念版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "25 周年纪念版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "30 周年纪念版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "40 周年纪念版"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "50 周年纪念版"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "确认删除文件"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
 
 #~ msgctxt "#12015"
 #~ msgid "Select video version"
