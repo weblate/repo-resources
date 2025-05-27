@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-13 18:14+0000\n"
-"Last-Translator: James Qian <sotux82@gmail.com>\n"
+"PO-Revision-Date: 2025-05-27 11:42+0000\n"
+"Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5998,7 +5998,6 @@ msgid "Allow use DXVA Video Super Resolution"
 msgstr "允许使用 DXVA 视频超分辨率"
 
 #. Setting Player / Video
-#, fuzzy
 msgctxt "#13418"
 msgid "Use high precision processing"
 msgstr "使用高精度处理"
@@ -9499,7 +9498,6 @@ msgid "Use channel group order from backend(s)"
 msgstr "使用来自后端的频道组顺序"
 
 #. label for PVR settings category for live tv catchup and video on demand
-#, fuzzy
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
 msgstr "回看/视频点播"
@@ -18260,7 +18258,7 @@ msgstr "当文件系统或协议不强制使用该值时要使用的数据块大
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr "No buffer"
+msgstr "禁用缓冲"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
