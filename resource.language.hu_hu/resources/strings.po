@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-15 15:52+0000\n"
+"PO-Revision-Date: 2025-05-18 04:50+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -995,7 +995,7 @@ msgstr "Felvétel"
 
 msgctxt "#265"
 msgid "Stop Rec."
-msgstr "Felvétel leállítása"
+msgstr "Felvétel leállítása."
 
 msgctxt "#266"
 msgid "Sort by: Track"
@@ -2034,7 +2034,7 @@ msgstr "Lejátszólista kiválasztása"
 
 msgctxt "#525"
 msgid "New playlist..."
-msgstr "Új lejátszólista"
+msgstr "Új lejátszólista..."
 
 msgctxt "#526"
 msgid "Add to playlist"
@@ -2570,7 +2570,7 @@ msgstr "Dolby Digital (AC3) átkódolás engedélyezése"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
-msgstr "Komponens-specifikus naplózás megadása"
+msgstr "Komponens-specifikus naplózás megadása..."
 
 msgctxt "#669"
 msgid "Verbose logging for the [B]SMB[/B] library"
@@ -2744,7 +2744,7 @@ msgstr "Mentés & újraindítás"
 
 msgctxt "#724"
 msgid "Invalid address specified. Value must be AAA.BBB.CCC.DDD"
-msgstr "Érvénytelen cím. Az értéknek AAA.BBB.CCC.DDD-nek kell lennie."
+msgstr "Érvénytelen cím. Az értéknek AAA.BBB.CCC.DDD-nek kell lennie"
 
 msgctxt "#725"
 msgid "with numbers between 0 and 255."
@@ -3381,11 +3381,11 @@ msgstr "Add meg az elérési utat..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
-msgstr "Elérési-út megadása, vagy médiamappák tallózása"
+msgstr "Elérési-út megadása, vagy médiamappák tallózása."
 
 msgctxt "#1022"
 msgid "Enter a name for this media source."
-msgstr "Médiaforrás nevének megadása"
+msgstr "Médiaforrás nevének megadása."
 
 msgctxt "#1023"
 msgid "Browse for new share"
@@ -4119,7 +4119,7 @@ msgstr "Kiegészítő hiba"
 #. Used for add-on error kaitoast.
 msgctxt "#2104"
 msgid "Check the log for more information."
-msgstr "További információk a hibanaplóban"
+msgstr "További információk a hibanaplóban."
 
 # empty strings from id 2105 to 2202
 msgctxt "#2203"
@@ -5027,7 +5027,7 @@ msgstr "Leállítás, ha a mesterkód próbálkozások száma eléri a"
 
 msgctxt "#12367"
 msgid "Master code is not valid. Please enter a valid master code."
-msgstr "A mesterkód érvénytelen. Kérem adjon meg egy érvényes mesterkódot"
+msgstr "A mesterkód érvénytelen. Kérlek adj meg egy érvényes mesterkódot."
 
 msgctxt "#12373"
 msgid "Settings & file manager"
@@ -5707,7 +5707,7 @@ msgstr "Hiba a(z) {0:s} betöltésekor"
 
 msgctxt "#13331"
 msgid "Error: Out of memory"
-msgstr "Hiba: Kevés a memória."
+msgstr "Hiba: Kevés a memória"
 
 msgctxt "#13332"
 msgid "Move up"
@@ -5922,7 +5922,7 @@ msgstr "Parancsikonok"
 
 msgctxt "#13399"
 msgid "Ignore articles when sorting"
-msgstr "Rendezésnél ne vegye figyelembe a névelőket (A, Az, The) a címben."
+msgstr "Rendezésnél ne vegye figyelembe a névelőket (A, Az) a címben"
 
 msgctxt "#13400"
 msgid "Crossfade between songs on the same album"
@@ -6069,7 +6069,7 @@ msgstr "Csak ezt játssza le"
 
 msgctxt "#13435"
 msgid "Enable HQ scalers for scaling above"
-msgstr "Jobb minőségű HQ skálázók alkalmazása ilyen mérték fölött:"
+msgstr "Jobb minőségű HQ skálázók alkalmazása"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
@@ -6643,7 +6643,7 @@ msgstr "Ismeretlen típusú gyorsítótár - Internet"
 
 msgctxt "#14062"
 msgid "Enter username for"
-msgstr "Felhasználónév a következőhöz:"
+msgstr "Felhasználónév a következőhöz"
 
 msgctxt "#14063"
 msgid "Date & time"
@@ -12106,7 +12106,7 @@ msgstr "A képernyő tetején"
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
 msgid "When entering a TV show season or episode view automatically select the first unwatched season or episode.[CR][On first entry] The first unwatched item will be selected only when a view is entered for the first time.[CR][Always] The first unwatched item will be selected every time a view is entered."
-msgstr "Amikor a TV műsor évad vagy epizód nézet megjelenik, az első megnézetlen évad vagy epizód kiválasztása.[CR][Első megnyitáskor] A első megnézetlen elem csak a nézet első megnyitásakor választódik ki.[CR][Mindig] Mindig az első megnézetlen elem lesz kiválasztva, amikor a nézet megjelenik."
+msgstr "Amikor a Sorozat évad vagy epizód nézet megjelenik, az első megnézetlen évad vagy epizód kiválasztása.[CR][Első megnyitáskor] A első megnézetlen elem csak a nézet első megnyitásakor választódik ki.[CR][Mindig] az első megnézetlen elem lesz kiválasztva, amikor a nézet megjelenik."
 
 #. Filter (media data) from float value to float value
 msgctxt "#21467"
@@ -12135,7 +12135,7 @@ msgstr "Első megnyitáskor"
 
 msgctxt "#21472"
 msgid "Include \"All seasons\" and \"Specials\""
-msgstr "Tartalmazza az \"Összes évadot\" és a \"Különkiadásokat\"."
+msgstr "Tartalmazza az \"Összes évadot\" és a \"Különkiadásokat\""
 
 #. Description of setting with label #21472 "Include All Seasons and Specials"
 msgctxt "#21473"
@@ -12930,7 +12930,7 @@ msgstr "Licenc:"
 
 msgctxt "#24054"
 msgid "What's new"
-msgstr "Újdonságok:"
+msgstr "Újdonságok"
 
 #. Used in the Add-on Manager
 msgctxt "#24055"
@@ -13107,7 +13107,7 @@ msgstr "{0:s} ellenőrzése…"
 
 msgctxt "#24094"
 msgid "Add-on disabled due to being marked broken in repository."
-msgstr "A kiegészítő letiltva, mert töröttnek jelölték a tárolóban"
+msgstr "A kiegészítő letiltva, mert töröttnek jelölték a tárolóban."
 
 msgctxt "#24095"
 msgid "Local package cache"
@@ -13178,7 +13178,7 @@ msgstr "Felirat letöltése…"
 
 msgctxt "#24111"
 msgid "Languages to download subtitles for"
-msgstr "Feliratok letöltése ezekhez a nyelvekhez:"
+msgstr "Feliratok letöltése ezekhez a nyelvekhez"
 
 #. Description of setting "Videos -> Subtitles -> Languages to download subtitles for" with label #24111
 msgctxt "#24112"
@@ -13256,7 +13256,7 @@ msgstr "Feliratok kinyerésének engedélyezése"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
-msgstr "Engedélyezze a CC-k kinyerését a videó folyamból. Kicsit megnöveli a CPU használatot."
+msgstr "Engedélyezd a CC-k kinyerését a videó folyamból. Kicsit megnöveli a CPU használatot"
 
 msgctxt "#24132"
 msgid "Would you like to switch to this language?"
@@ -13355,7 +13355,7 @@ msgstr "Bővítmények átvitele folyamatban - kérjük várjon"
 #. Inform about not supported addon if tried to enable
 msgctxt "#24152"
 msgid "The add-on is not compatible with this version of Kodi."
-msgstr "A kiegészítő nem kompatibilis ezzel a Kodi verzióval"
+msgstr "A kiegészítő nem kompatibilis ezzel a Kodi verzióval."
 
 msgctxt "#24153"
 msgid "Enable to make the Siri remote match the normal Apple tvOS behavior"
@@ -13490,7 +13490,7 @@ msgstr "Nem sikerült inicializálni az adatbázisokat - kilépés {} másodperc
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
-msgstr "Sikertelen csatlakozás a tárolóhoz"
+msgstr "Sikertelen csatlakozás a tárolóhoz."
 
 msgctxt "#24992"
 msgid "System"
@@ -14363,7 +14363,7 @@ msgstr "Távoli kommunikációs kiszolgáló"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr "Korábban úgy engedélyezte a webes felület használatát, hogy nem állított be jelszót. A webszervert letiltottuk, amíg ön vagy direkt engedélyezi, vagy beállít hozzá autentikációt. Kérjük nézze át a beállításokat!"
+msgstr "Korábban úgy engedélyezted a webes felület használatát, hogy nem állítottál be jelszót. A webszervert letiltottuk, amíg  vagy direkt engedélyezed, vagy beállítasz hozzá autentikációt. Kérjük nézd át a beállításokat."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14624,7 +14624,7 @@ msgstr "Ellenőrizze a hangbeállításokat"
 
 msgctxt "#34404"
 msgid "Use gestures for navigation:"
-msgstr "Gesztusok használata a navigációhoz"
+msgstr "Gesztusok használata a navigációhoz:"
 
 msgctxt "#34405"
 msgid "One finger swipe left,right,up,down for cursors"
@@ -14750,7 +14750,7 @@ msgstr "Meghajtó beállítások"
 #. Description of setting with label #35047 "Driver settings"
 msgctxt "#35048"
 msgid "View and configure peripheral add-ons."
-msgstr "Periféria meghajtó kiegészítők beállításainak módosítása és megtekintése"
+msgstr "Periféria kiegészítők beállításainak módosítása és megtekintése."
 
 #. Name of game add-ons category
 msgctxt "#35049"
@@ -15023,7 +15023,7 @@ msgstr "Billentyűzeten játszó játékosok száma"
 #. Description of settings with label #35066
 msgctxt "#35155"
 msgid "Set the number of players using the keyboard. This is intended for devices that use keyboard drivers, but you can also see how many people fit around a keyboard!"
-msgstr "Adja meg a játékosok számát a billentyűzeten. Ez olyan eszközök esetére szánt, amelyek billentyűzetmeghajtókat használnak, de megláthatja hogy hányan férnek el a billentyűzeten."
+msgstr "Add meg a játékosok számát a billentyűzeten. Ez olyan eszközök esetére szánt, amelyek billentyűzetmeghajtókat használnak, de látható hogy hányan férnek el a billentyűzeten!"
 
 msgctxt "#35156"
 msgid "{0:d}"
@@ -15545,11 +15545,11 @@ msgstr "A kapcsolat megszakadt"
 
 msgctxt "#36031"
 msgid "This user does not have permissions to open the CEC adapter"
-msgstr "A felhasználói fiók nem rendelkezik a megfelelő engedélyekkel, hogy használhassa a CEC adaptert."
+msgstr "A felhasználói fiók nem rendelkezik a megfelelő engedélyekkel, hogy használhassa a CEC adaptert"
 
 msgctxt "#36032"
 msgid "The port is busy. Only one program can access the CEC adapter"
-msgstr "A port foglalt. Csak egy érheti el egyszerre a CEC adaptert."
+msgstr "A port foglalt. Csak egy érheti el egyszerre a CEC adaptert"
 
 msgctxt "#36033"
 msgid "Action when switching to another source"
@@ -15792,7 +15792,7 @@ msgstr "Forrás hozzáadása opció mutatása a felhasználói felület legfels�
 #. Description of setting with label #21330 "Show hidden files and directories"
 msgctxt "#36127"
 msgid "Show hidden files and directories when listing files."
-msgstr "Rejtett fájlok és mappák megjelenítése fájllistákban"
+msgstr "Rejtett fájlok és mappák megjelenítése fájllistákban."
 
 #. Description of settings category with label #360 "Screensaver"
 msgctxt "#36128"
@@ -15879,7 +15879,7 @@ msgstr "Ha be van kapcsolva, akkor a filmgyűjteménybe tartozó filmek egy csop
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36146"
 msgid "Check for new media files on startup."
-msgstr "Új médiafájlok keresése induláskor"
+msgstr "Új médiafájlok keresése induláskor."
 
 #. Description of setting with label #22001 "Hide progress of library updates"
 msgctxt "#36147"
@@ -15889,7 +15889,7 @@ msgstr "Az állapot-visszajelző csík elrejtése az állománykeresés során."
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
 msgid "Remove items from your library that can't be found (either renamed, deleted, or on removable storage that is currently unplugged)."
-msgstr "A nem található állományok eltávolítása a médiatárból (akár törölt, átnevezett, vagy olyan eszközön található ami jelenleg nincs csatlakoztatva)"
+msgstr "A nem található állományok eltávolítása a médiatárból (akár törölt, átnevezett, vagy ami olyan eszközön található ami jelenleg nincs csatlakoztatva)."
 
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"
@@ -16048,7 +16048,7 @@ msgstr "Bélyegképek kinyerése a médiatár módban megjelenítéshez."
 
 msgctxt "#36181"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
@@ -16259,7 +16259,7 @@ msgstr "Állítsa be a felirat hátteréhez használt színt."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
-msgstr "Jelminőség kijelzése a kodek informácós ablakban (ha a kiegészítő és a háttérkiszolgáló is támogatja)"
+msgstr "Jelminőség kijelzése a kodek informácós ablakban (ha a kiegészítő és a háttérkiszolgáló is támogatja)."
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
@@ -16280,7 +16280,7 @@ msgstr "Ez a kategória a felvételek beállításait tartalmazza."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
-msgstr "Az azonnali felvétel ideje a felvétel gomb megnyomásakor. Ez az érték az \"Azonnali felvételi lehetőségek\" szekció alatti \"Rögzítés megadott ideig\" beállítás esetén érvényes."
+msgstr "Az azonnali felvétel ideje a felvétel gomb megnyomásakor. Ez az érték az \"Azonnali felvételi lehetőségek\" szekció alatti \"Rögzítés megadott ideig\" beállítás esetén érvényes"
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
@@ -16316,7 +16316,7 @@ msgstr "A parancs nem kerül végrehajtásra amennyiben felvétel indul ezen az 
 
 msgctxt "#36243"
 msgid "The command to execute (cmd [timestamp])."
-msgstr "A végrehajtandó parancs (parancs [időbélyeg])."
+msgstr "A végrehajtandó (parancs [időbélyeg])."
 
 msgctxt "#36244"
 msgid "Time to subtract from the start time of the next scheduled recording."
@@ -16510,7 +16510,7 @@ msgstr "CD meghajtóba helyezett lemez automatikus lejátszása."
 #. Description of setting with label #227 "Load audio CD information from online service"
 msgctxt "#36284"
 msgid "Read the information belonging to an audio CD, like song title and artist, from the Internet database gnudb.org."
-msgstr "Az audio CD -hez tartozó információkat, például a dal címét és előadóját a gnudb.org internetes adatbázisból keresse"
+msgstr "Az audio CD -hez tartozó információkat, például a dal címét és előadóját a gnudb.org internetes adatbázisból keresse."
 
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
@@ -16591,15 +16591,15 @@ msgstr "Válassza ki a mappát, ahová a filmek információit (képeket) helyil
 
 msgctxt "#36301"
 msgid "No 'Movie set information folder' is configured to store movie set images so they will not be exported. Do you want to proceed?"
-msgstr "A „Film-információs mappa” nincs beállítva a filmek képeinek tárolására, így azokat nem exportálják. Folytatja?"
+msgstr "A \"Filmgyűjtemény-információs mappa” nincs beállítva a filmgyűjtemények képeinek tárolására, így azokat nem exportáljuk. Folytatja?"
 
 msgctxt "#36302"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36303"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 #. Description of settings section with label #1 "Pictures"
 msgctxt "#36304"
@@ -16633,7 +16633,7 @@ msgstr "Videók megjelenítése a kép fájllistákban."
 #. Description of setting with label #169 "Resolution"
 msgctxt "#36310"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 #. Description of settings category with label #108 "Slideshow"
 msgctxt "#36311"
@@ -16915,7 +16915,7 @@ msgstr "Válassza ki ezt az opciót ha az erősítője képes a DTS hangsáv dek
 
 msgctxt "#36367"
 msgid "Select the maximum number of audio channels / speakers available for decoded audio. If optical / coax digital outputs are used, this must be set to 2.0"
-msgstr "Válassza ki a dekódolt hangnak elérhető audiócsatornák / hangszórók maximális számát. Ha optikai / koax digitális kimenet van használatban, akkor ennek 2.0-nak kell lennie."
+msgstr "Válaszd ki a dekódolt hanghoz elérhető audiócsatornák / hangszórók maximális számát. Ha optikai / koax digitális kimenet van használatban, akkor ennek 2.0-nak kell lennie"
 
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
@@ -17129,27 +17129,27 @@ msgstr "Gyorsítótár engedélyezése ismeretlen tartalom internetről történ
 
 msgctxt "#36410"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36411"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36412"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36413"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36414"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 msgctxt "#36415"
 msgid "No info available yet."
-msgstr "Nincs még információ"
+msgstr "Nincs még információ."
 
 #. Description of setting with label #13600 "Apple remote"
 msgctxt "#36416"
@@ -17159,7 +17159,7 @@ msgstr "A távirányító típusának meghatározása."
 #. Description of setting with label #13602 "Allow start of Kodi with remote"
 msgctxt "#36417"
 msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Mindig indítson el egy Kodi súgót"
+msgstr "Mindig indíts el egy Kodi súgót."
 
 #. Description of setting with label #13603 "Sequence delay time"
 msgctxt "#36418"
@@ -17239,7 +17239,7 @@ msgstr "Engedélyezéskor a VAAPI lesz az előnyben részesített renderelő és
 
 msgctxt "#36434"
 msgid "If enabled, switch to the channel with the programme to remind when auto-closing the reminder popup."
-msgstr "Ha engedélyezve van, váltson arra a csatornára ahol a program emlékezteti az emlékeztető felugró ablak automatikus bezárásakor"
+msgstr "Ha engedélyezve van, arra a csatornára vált ahol a program emlékeztet a felugró ablak automatikus bezárásra."
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
@@ -17251,7 +17251,7 @@ msgstr "A csatornacsoportok rendezése a háttérrendszer(ek) által megadott so
 #. Select the layout of a physically attached keyboard
 msgctxt "#36436"
 msgid "Select hardware keyboard layout."
-msgstr "Fizikai billentyűzet kiosztás"
+msgstr "Fizikai billentyűzet kiosztás."
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36437"
@@ -17271,7 +17271,7 @@ msgstr "Engedélyezze a következő műsor automatikus lejátszását korábbi p
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
 msgid "Set the number of volume control steps."
-msgstr "Hangerőszabályozás lépéseinek száma"
+msgstr "Hangerőszabályozás lépéseinek száma."
 
 #. Description of setting with label #14126 "Whitelist"
 msgctxt "#36443"
@@ -17416,7 +17416,7 @@ msgstr "Válassza ki hogyan legyen lekeverve a hang, például 5.1-ről 2.0-ra.[
 #. Description of setting with label #668 "Component-specific logging..."
 msgctxt "#36534"
 msgid "Specify additional libraries whose verbose messages are to be included in the debug log."
-msgstr "Adja meg azokat az egyéb komponenseket, amelyek bőbeszédű üzenetei bekerüljenek a hibakeresési naplóba"
+msgstr "Add meg azokat az egyéb komponenseket, amelyek bővített üzenetei bekerüljenek a hibakeresési naplóba."
 
 #. label of a setting, allowing to specify the stereoscopic 3D mode of a video
 msgctxt "#36535"
@@ -17426,7 +17426,7 @@ msgstr "A videó sztereoszkópikus 3D módja"
 #. label of a toggle option that allows to invert the stereoscopic 3d mode
 msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
-msgstr "Sztereoszkópikus 3D invertálása (szemek felcserélése)."
+msgstr "Sztereoszkópikus 3D invertálása (szemek felcserélése)"
 
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
@@ -17802,7 +17802,7 @@ msgstr "Magas minőségű szoftveres leskálázás"
 #. Description of setting "Pictures -> Slideshow -> High Quality Downscaling" with label #36619
 msgctxt "#36620"
 msgid "Enable high quality downscaling of pictures (uses more memory and has moderate performance impact)."
-msgstr "Magas minőségű fotók szoftveres leskálázásának engedélyezése (több memóriát használ és közepesen erőforrás igényes)"
+msgstr "Magas minőségű fotók szoftveres leskálázásának engedélyezése (több memóriát használ és közepesen erőforrás igényes)."
 
 #. Label of a setting, allow the maximum smbclient protocol to be configured
 msgctxt "#36621"
@@ -18128,7 +18128,7 @@ msgstr "Hallássérültek számára készült feliratok előnyben részesítése
 #. Setting #37040 Playback
 msgctxt "#37040"
 msgid "Prefer default audio streams"
-msgstr "Alapértelmezett hangfolyam előnyben részesítése."
+msgstr "Alapértelmezett hangfolyam előnyben részesítése"
 
 #. Description of setting #37040 Playback
 msgctxt "#37041"
@@ -18495,7 +18495,7 @@ msgstr "A zenetárnak frissíteni kell a médiainformációikat a fájlokból. S
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
 msgid "Fetch additional information for albums and artists? This could take some time so you may prefer to do this later"
-msgstr "Indulhat a további album és előadó információk legyűjtése? Eltarthat egy ideig, el is halasztható későbbre."
+msgstr "Indulhat a további album és előadó információk gyűjtése? Eltarthat egy ideig, de el is halasztható későbbre"
 
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
@@ -18609,27 +18609,27 @@ msgstr "Ez a csoport a médialejátszással kapcsolatos beállításokat tartalm
 #. Description of section #14201 "Media"
 msgctxt "#38101"
 msgid "Section that contains the settings for sources and how media information is collected, stored, shown and navigated"
-msgstr "Ez a csoport tartalmazza azokat a beállításokat, melyek a médiainformációk beszerzését, tárolását és megjelenítését szabályozzák."
+msgstr "Ez a csoport tartalmazza azokat a beállításokat, melyek a médiainformációk beszerzését, tárolását és megjelenítését szabályozzák"
 
 #. Description of section #14203 "Customise"
 msgctxt "#38102"
 msgid "Section that contains the settings influencing the GUI experience and for controlling the GUI/system"
-msgstr "Ez a csoport azokat a beállításokat tartalmazza, melyek a GUI élményt és a rendszer vezérlését befolyásolják."
+msgstr "Ez a csoport azokat a beállításokat tartalmazza, melyek a GUI élményt és a rendszer vezérlését befolyásolják"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38103"
 msgid "This category contains the settings for the playback of videos"
-msgstr "Ez a kategória a videolejátszással kapcsolatos beállításokat tartalmazza."
+msgstr "Ez a kategória a videolejátszással kapcsolatos beállításokat tartalmazza"
 
 #. Description of category #14211 "Music"
 msgctxt "#38104"
 msgid "This category contains the settings for the playback of music"
-msgstr "Ez a kategória a zenelejátszással kapcsolatos beállításokat tartalmazza."
+msgstr "Ez a kategória a zenelejátszással kapcsolatos beállításokat tartalmazza"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38105"
 msgid "This category contains the settings for playback of pictures via a slideshow"
-msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a diavetítések megjelenítését szabályozzák."
+msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a diavetítések megjelenítését szabályozzák"
 
 #. Description of category #14213 "Language"
 msgctxt "#38106"
@@ -18639,17 +18639,17 @@ msgstr "Ez a kategória tartalmazza a hang/feliratok nyelvének és hozzáférhe
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a videó információk beszerzését, tárolását és megjelenítését szabályozzák."
+msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a videó információk beszerzését, tárolását és megjelenítését szabályozzák"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a zenei információk beszerzését, tárolását és megjelenítését szabályozzák."
+msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a zenei információk beszerzését, tárolását és megjelenítését szabályozzák"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a kép információk megjelenítését szabályozzák."
+msgstr "Ez a kategória tartalmazza azokat a beállításokat, melyek a kép információk megjelenítését szabályozzák"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
@@ -18884,17 +18884,17 @@ msgstr "Ez a kategória hozzáférést biztosít a forráskezelés és a könyvt
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"
 msgid "This provides access to where video sources can be added and otherwise managed."
-msgstr "Hozzáférést biztosít a filmek forrás beállításaihoz"
+msgstr "Hozzáférést biztosít a filmek forrás beállításaihoz."
 
 #. Description of setting "Music... with label #14243
 msgctxt "#39006"
 msgid "This provides access to where music sources can be added and otherwise managed."
-msgstr "Hozzáférést biztosít a zenék forrás beállításaihoz"
+msgstr "Hozzáférést biztosít a zenék forrás beállításaihoz."
 
 #. Description of setting "Pictures... with label #14244
 msgctxt "#39007"
 msgid "This provides access to where picture sources can be added and otherwise managed."
-msgstr "Hozzáférést biztosít a képek forrás beállításaihoz"
+msgstr "Hozzáférést biztosít a képek forrás beállításaihoz."
 
 msgctxt "#39008"
 msgid "Zoom - 120% width"
