@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-25 16:13+0000\n"
-"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
+"PO-Revision-Date: 2025-05-29 14:27+0000\n"
+"Last-Translator: A B <maxtherabbit85@gmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fi_fi/>\n"
 "Language: fi_fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.1\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "Syötä käyttäjätunnus"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Syötä polku..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -9530,7 +9530,7 @@ msgstr "Haun \"{0:s}\" kopio"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Poista tallenne"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11394,7 +11394,7 @@ msgstr "Ohita sijainti kirjastopäivitysten yhteydessä"
 
 msgctxt "#20433"
 msgid "Extract video information from files"
-msgstr "Pura videotiedot videotiedostoista"
+msgstr "Pura videoiden tiedot tiedostoista"
 
 msgctxt "#20434"
 msgid "Sets"
@@ -11567,12 +11567,12 @@ msgstr "HDR-tyyppi"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Sisältää useita versioita"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Sisältää lisämateriaaleja"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11653,17 +11653,17 @@ msgstr "MIME-tyyppi: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Erikoisjakso {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Jakso {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Erikoisjakso"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13478,12 +13478,12 @@ msgstr "Vähimmäisversio: {0:s}/Ei saatavilla{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Yhdistetään tietokantaa - odota"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Tietokantojen valmistelu epäonnistui - suljetaan {} sekunnin kuluttua."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13591,17 +13591,17 @@ msgstr "Manuaalinen"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "Valittu toistolista on jo käytössä. Liitetäänkö sen sijaan tähän jaksoon?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "Kelvollista elokuvatoistolistaa ei löytynyt."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "Kelvollista jaksotoistolistaa ei löytynyt."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -16025,12 +16025,12 @@ msgstr "Tämä kategoria sisältää videotiedostojen listausasetuksia."
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "[Valitse], [Toista] (oletus), [Näytä tiedot] ja [Lisää jonoon].[CR][Valitse] avaa ponnahdusvalikon seuraavilla vaihtoehdoilla.[CR][Toista] toistaa videon \"Toiston oletustoiminto\" -asetuksen mukaisesti.[CR][Näytä tiedot] avaa videon lisätietonäytön.[CR][Lisää jonoon] lisää videon nykyiseen videotoistolistaan."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
 msgid "Extract metadata information such as codec and aspect ratio from videos."
-msgstr "Pura videotiedostoista metatietoja, kuten koodekki ja kuvasuhde."
+msgstr "Pura koodekkien ja kuvasuhteiden kaltaiset tekniset tiedot viedotiedostoista."
 
 #. Description of setting with label #20419 "Replace file names with library titles"
 msgctxt "#36179"
@@ -16152,7 +16152,7 @@ msgstr "Kytkee PVR-ominaisuudet (Personal Video Recorder, eli televisiolähetyks
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "[Kysy, jos jatkettavissa] (oletus), [Jatka] ja [Toista alusta].[CR][Kysy, jos jatkettavissa] kysyy aloitetaanko toisto alusta vai jatketaanko toistoa (jos jatkopiste havaitaan).[CR][Jatka] jatkaa toistoa edellisen toiston pysäytyskohdasta. Jatkopisteen puuttuessa toisto aloitetaan alusta.[CR][Toista alusta] aloittaa toiston alusta huomioimatta havaittuja jatkopisteitä."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -19441,7 +19441,7 @@ msgstr "Näytönsäästäjä ei koskaan käynnisty toistettaessa musiikkia."
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Käytä edistynyttä \"NVIDIA RTX Video Super Resolution\" tai \"Intel Video Super Resolution\" -tekniikoita hyödyntävää DXVA-skaalainta.[CR]Käytetään videon resoluution ollessa enintään 2560x1440 tai näyttölaitteen resoluutiota pinempi.[CR]Käytettävissä vain tietyillä laitteistoilla: NVIDIA RTX ja Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19677,12 +19677,12 @@ msgstr "Useita versioita sisältävän elokuvan oletusversiota ei voida lisätä
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr "Olet muuttamassa elokuvan lisäsisältöä elokuvan versioksi. Haluatko varmasti tehdä tämän?"
+msgstr "Olet muuttamassa elokuvan lisämateriaalia elokuvan versioksi. Haluatko varmasti tehdä tämän?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr "Olet muuttamassa elokuvan versiota elokuvan lisäsisällöksi. Haluatko varmasti tehdä tämän?"
+msgstr "Olet muuttamassa elokuvan versiota elokuvan lisämateriaaliksi. Haluatko varmasti tehdä tämän?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
@@ -19717,18 +19717,18 @@ msgstr "Valitse kirjastopäivityksen toiminto havaituille videoversioille.[CR][K
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr "Älä huomioi videoiden lisäsisältöjä kirjastopäivitysten yhteydessä"
+msgstr "Älä huomioi videoiden lisämateriaaleja kirjastopäivitysten yhteydessä"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr "Valitse kirjastopäivityksen toiminto \"extras\"-kansion videoille.[CR][Enabled] Käsittele lisäsisältö tavallisina videoina.[CR][Disabled] Lisää ne niihin liittyvän videon lisäsisällöksi."
+msgstr "Valitse kirjastopäivityksen toiminto \"extras\"-kansion videoille.[CR][Käytössä] Käsittele videot tavallisina videoina.[CR][Ei käytössä] Lisää videot niihin liittyvien videoiden lisämateriaaleiksi."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Resurssit"
 
 #. Button label for video versions
 msgctxt "#40210"
