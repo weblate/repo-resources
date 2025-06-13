@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-25 03:54+0000\n"
-"Last-Translator: Linerly <linerly@proton.me>\n"
+"PO-Revision-Date: 2025-06-12 19:29+0000\n"
+"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2538,7 +2538,7 @@ msgstr "Peregangan non linear"
 
 msgctxt "#660"
 msgid "Volume amplification"
-msgstr "Pembesaran suara"
+msgstr "Amplifikasi volume"
 
 msgctxt "#661"
 msgid "Choose export folder"
@@ -2670,7 +2670,7 @@ msgstr "Menetapkan opasitas bayangan."
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr "Menetapkan ukuran jendela."
+msgstr "Setel ukuran bayangan."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -19580,6 +19580,16 @@ msgstr "Dengan mengaktifkannya, takarir CC akan diberi label untuk tunarungu; in
 msgctxt "#39206"
 msgid "CC"
 msgstr "CC"
+
+# Use Starfish decoder
+msgctxt "#39207"
+msgid "Use Starfish decoder"
+msgstr ""
+
+#. Description of setting with label #39207 "Use Starfish decoder"
+msgctxt "#39208"
+msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
