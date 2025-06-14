@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-11 10:36+0000\n"
+"PO-Revision-Date: 2025-06-12 19:29+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2283,7 +2283,7 @@ msgstr "Redigera spellista"
 
 msgctxt "#587"
 msgid "Filter"
-msgstr "Filter"
+msgstr "Filtrera"
 
 msgctxt "#588"
 msgid "Cancel party mode"
@@ -19504,6 +19504,16 @@ msgstr "Om du aktiverar den kommer CC-undertexter att märkas för hörselskadad
 msgctxt "#39206"
 msgid "CC"
 msgstr "CC"
+
+# Use Starfish decoder
+msgctxt "#39207"
+msgid "Use Starfish decoder"
+msgstr ""
+
+#. Description of setting with label #39207 "Use Starfish decoder"
+msgctxt "#39208"
+msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-05 05:27+0000\n"
+"PO-Revision-Date: 2025-06-12 19:29+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11653,7 +11653,7 @@ msgstr "MIME tüüp: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Eriperiood {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
@@ -11663,7 +11663,7 @@ msgstr "Episood {0:d} - {1:s}"
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Eriepisood"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -16025,7 +16025,7 @@ msgstr "See kategooria sisaldab videofailide loenditega seotud seadeid."
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "[Vali], [Esita] (vaikimisi), [Kuva üksikasjad] ja [Lisa järjekorda]. [CR][Vali] avab hüpikmenüü valikutega. [CR][Esita] esitab videot vastavalt sättele 'Taasesituse vaiketoiming'. [CR][Kuva üksikasjad] avab video lisateabe ekraani. [CR][Lisa järjekorda] lisab video praegusesse videote esitusloendisse."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -19501,6 +19501,16 @@ msgstr "Selle lubamisel määratakse CC subtiitrid vaegkuuljatele; see mõjutab 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
+msgstr ""
+
+# Use Starfish decoder
+msgctxt "#39207"
+msgid "Use Starfish decoder"
+msgstr ""
+
+#. Description of setting with label #39207 "Use Starfish decoder"
+msgctxt "#39208"
+msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
 msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
