@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-29 02:54+0000\n"
+"PO-Revision-Date: 2025-06-18 17:29+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -18172,7 +18172,7 @@ msgstr "使用网络发现协议查找 SMB 服务"
 #. Label for component level debug logging setting
 msgctxt "#37050"
 msgid "Verbose logging for the [B]WS-Discovery[/B] component"
-msgstr "[B]网络发现[/B] 组件详细日志"
+msgstr "[B]网络服务发现[/B] 组件详细日志"
 
 #. Setting #37051 NFS Protocol Version"
 msgctxt "#37051"
@@ -18182,7 +18182,7 @@ msgstr "NFS 协议版本"
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr "建立 NFS 连接时使用的NFS协议版本"
+msgstr "建立 NFS 连接时使用的 NFS 协议版本"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
@@ -19506,12 +19506,12 @@ msgstr "CC"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "使用 Starfish 解码器"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish 是适用于 LG webOS 系统的硬件视频解码器。若需进行故障排查或测试，请将其禁用。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
