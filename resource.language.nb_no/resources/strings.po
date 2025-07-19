@@ -7618,16 +7618,6 @@ msgctxt "#16297"
 msgid "Smooth"
 msgstr "Glatt ut"
 
-#. Description of the video filter that uses jagged pixels without smoothing
-msgctxt "#16298"
-msgid "Shows the game's pixels without any modifications."
-msgstr "Viser spillets piksler uten modifisering"
-
-#. Description of the video filter that smooths pixels to remove jagged edges
-msgctxt "#16299"
-msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr "Fjerner de taggede hjørenene av piksler ved å glatte ut piksler overstående hverandre."
-
 msgctxt "#16300"
 msgid "Video scaling method"
 msgstr "Skaleringsmetode"
@@ -15300,6 +15290,21 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr ""
 
+#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35237"
+msgid "Normal (1:1 PAR)"
+msgstr ""
+
+#. Label of thumbnail in the in-game menu for integer underscaling
+msgctxt "#35238"
+msgid "Integer"
+msgstr ""
+
+#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35239"
+msgid "Integer (1:1 PAR)"
+msgstr ""
+
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
@@ -19248,16 +19253,6 @@ msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
 msgstr ""
 
-#. Display Hardware scaling filter setting toggle
-msgctxt "#39151"
-msgid "Display hardware scaling filter"
-msgstr ""
-
-#. Description
-msgctxt "#39152"
-msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr ""
-
 msgctxt "#39153"
 msgid "Windowing system:"
 msgstr "Vindussystem:"
@@ -19940,6 +19935,14 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#16298"
+#~ msgid "Shows the game's pixels without any modifications."
+#~ msgstr "Viser spillets piksler uten modifisering"
+
+#~ msgctxt "#16299"
+#~ msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
+#~ msgstr "Fjerner de taggede hjørenene av piksler ved å glatte ut piksler overstående hverandre."
 
 #~ msgctxt "#13428"
 #~ msgid "Allow hardware acceleration - CrystalHD"

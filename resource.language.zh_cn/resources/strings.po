@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-06-18 17:29+0000\n"
+"PO-Revision-Date: 2025-07-16 22:29+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -7611,16 +7611,6 @@ msgstr "像素化"
 msgctxt "#16297"
 msgid "Smooth"
 msgstr "平滑"
-
-#. Description of the video filter that uses jagged pixels without smoothing
-msgctxt "#16298"
-msgid "Shows the game's pixels without any modifications."
-msgstr "原样显示游戏像素。"
-
-#. Description of the video filter that smooths pixels to remove jagged edges
-msgctxt "#16299"
-msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr "通过相邻像素均匀渐变消除边缘锯齿。"
 
 msgctxt "#16300"
 msgid "Video scaling method"
@@ -15286,6 +15276,21 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "此版本仅可使用控制器玩游戏。"
 
+#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35237"
+msgid "Normal (1:1 PAR)"
+msgstr "正常（1:1比例）"
+
+#. Label of thumbnail in the in-game menu for integer underscaling
+msgctxt "#35238"
+msgid "Integer"
+msgstr "整数"
+
+#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35239"
+msgid "Integer (1:1 PAR)"
+msgstr "整数（1:1比例）"
+
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
@@ -19225,16 +19230,6 @@ msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
 msgstr "将本地或通过刮削器远程获取的音乐电视艺术图片，限制在白名单中的艺术图片类型"
 
-#. Display Hardware scaling filter setting toggle
-msgctxt "#39151"
-msgid "Display hardware scaling filter"
-msgstr "显示硬件缩放过滤器"
-
-#. Description
-msgctxt "#39152"
-msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr "整数缩放（IS）是使用显示引擎的近邻（NN）放大技术"
-
 msgctxt "#39153"
 msgid "Windowing system:"
 msgstr "视窗系统："
@@ -19916,6 +19911,22 @@ msgstr "确认删除文件"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
+
+#~ msgctxt "#16298"
+#~ msgid "Shows the game's pixels without any modifications."
+#~ msgstr "原样显示游戏像素。"
+
+#~ msgctxt "#16299"
+#~ msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
+#~ msgstr "通过相邻像素均匀渐变消除边缘锯齿。"
+
+#~ msgctxt "#39151"
+#~ msgid "Display hardware scaling filter"
+#~ msgstr "显示硬件缩放过滤器"
+
+#~ msgctxt "#39152"
+#~ msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
+#~ msgstr "整数缩放（IS）是使用显示引擎的近邻（NN）放大技术"
 
 #~ msgctxt "#12015"
 #~ msgid "Select video version"

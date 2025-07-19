@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-06-04 09:33+0000\n"
-"Last-Translator: Roman Miroshnychenko <romanvm@kodi.tv>\n"
+"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -373,7 +373,7 @@ msgstr "Створювати ескізи"
 
 msgctxt "#110"
 msgid "Create thumbnails"
-msgstr "Створювати мініатюри"
+msgstr "Створювати ескізи"
 
 msgctxt "#111"
 msgid "Shortcuts"
@@ -405,7 +405,7 @@ msgstr "Видалити"
 
 msgctxt "#118"
 msgid "Rename"
-msgstr "Перейменували"
+msgstr "Перейменувати"
 
 msgctxt "#119"
 msgid "New folder"
@@ -610,7 +610,7 @@ msgstr "Роздільна здатність"
 
 msgctxt "#170"
 msgid "Adjust display refresh rate"
-msgstr "Встановити частоту оновлення дисплея"
+msgstr "Встановити частоту оновлення екрану"
 
 msgctxt "#171"
 msgid "Sort title"
@@ -889,7 +889,7 @@ msgstr "Збільшення"
 
 msgctxt "#239"
 msgid "Clear playlist on finish"
-msgstr "Очищувати плейлист по завершенню"
+msgstr "Очищувати список відтворення по завершенню"
 
 msgctxt "#240"
 msgid "Display mode"
@@ -1700,7 +1700,7 @@ msgstr "Видалити фільм із медіатеки"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr "Видалити {0:s} з медіатеки?"
+msgstr "Дійсно видалити '{0:s}' з медіатеки?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -1819,7 +1819,7 @@ msgstr "[працює]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr "Потік субтитрів"
+msgstr "Субтитри"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -1835,7 +1835,7 @@ msgstr "Контрастність"
 
 msgctxt "#466"
 msgid "Gamma"
-msgstr "Гама"
+msgstr "Гамма"
 
 msgctxt "#467"
 msgid "Type"
@@ -2484,7 +2484,7 @@ msgstr "Видалити з медіатеки"
 
 msgctxt "#647"
 msgid "Export video library"
-msgstr "Експорт медіатеки відео"
+msgstr "Експорт відеотеки"
 
 msgctxt "#648"
 msgid "Import video library"
@@ -2643,12 +2643,12 @@ msgstr "З метаданих"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr "Задати розмір меж."
+msgstr "Вказати розмір рамки."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr "Задати колір меж."
+msgstr "Встановити колір рамки."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
@@ -2658,17 +2658,17 @@ msgstr "Задати розмиття."
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr "Задати колір тіні."
+msgstr "Встановити колір тіні."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr "Задати прозорість тіні."
+msgstr "Встановити прозорість тіні."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr "Задати розмір тіні."
+msgstr "Встановити розмір тіні."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -2684,7 +2684,7 @@ msgstr "Цю папку вже проскановано раніше"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr "Неможливо очистити бібліотеку під час виконання фонових задач"
+msgstr "Неможливо очистити медіатеку під час виконання фонових задач"
 
 msgctxt "#705"
 msgid "Network"
@@ -2936,7 +2936,7 @@ msgstr "Віддалене керування"
 
 msgctxt "#791"
 msgid "Allow remote control by programs on this system"
-msgstr "Дозволити віддалене керуваня програмами цією системою"
+msgstr "Дозволити віддалене керування програмами з цієї системи"
 
 msgctxt "#792"
 msgid "Port"
@@ -2948,7 +2948,7 @@ msgstr "Діапазон портів"
 
 msgctxt "#794"
 msgid "Allow remote control by programs on other systems"
-msgstr "Дозволити віддалене керуваня програмами іншими системами"
+msgstr "Дозволити віддалене керування програмами з інших систем"
 
 msgctxt "#795"
 msgid "Initial repeat delay (ms)"
@@ -3257,42 +3257,42 @@ msgstr "Користувач"
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [всі канали]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Видалити після перегляду"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Вкажіть, чи треба видаляти записи після перегляду."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Запитувати"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Видалити цей запис?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Запис видалено: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3377,7 +3377,7 @@ msgstr "Введіть ім'я користувача"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Введіть шлях..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -4741,10 +4741,9 @@ msgstr "Меню"
 #. Title of the in-game video filter selection dialog
 msgctxt "#10823"
 msgid "Video Filter"
-msgstr ""
+msgstr "Фільтр відео"
 
 #. Title of the in-game video stretch mode selection dialog
-#, fuzzy
 msgctxt "#10824"
 msgid "Stretch Mode"
 msgstr "Режим розтягування"
@@ -4755,13 +4754,11 @@ msgid "Volume"
 msgstr "Гучність"
 
 #. Title of the in-game dialog for advanced emulator settings
-#, fuzzy
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr "Докладні налаштування"
+msgstr "Розширені налаштування"
 
 #. Title of the in-game video rotation selection dialog
-#, fuzzy
 msgctxt "#10827"
 msgid "Video Rotation"
 msgstr "Обертання відео"
@@ -4774,12 +4771,12 @@ msgstr "Налаштування порта"
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Обрати збереження"
 
 #. Title of the out-of-game dialog to select a savestate for the current game
 msgctxt "#10830"
 msgid "Select Savestate"
-msgstr ""
+msgstr "Обрати збереження"
 
 #. Name of window for viewing and configuring players while playing a game
 msgctxt "#10831"
@@ -5109,17 +5106,17 @@ msgstr "Рівень батареї"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Дякуємо!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi створено з любов'ю у Kodi Foundation, 501(c)(3) — неприбутковій організації. Дякуємо за те, що використовуєте наше програмне забезпечення!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5816,7 +5813,7 @@ msgstr "Вибрати ескіз виконавця"
 
 msgctxt "#13360"
 msgid "Automatically generate thumbnails"
-msgstr "Створювати ескізи"
+msgstr "Автоматично створювати ескізи"
 
 msgctxt "#13361"
 msgid "Enable voice"
@@ -5849,7 +5846,7 @@ msgstr "Стандартний контраст"
 
 msgctxt "#13380"
 msgid "Default gamma"
-msgstr "Стандартна гама"
+msgstr "Стандартна гамма"
 
 msgctxt "#13381"
 msgid "Resume video"
@@ -5886,7 +5883,7 @@ msgstr "Шаблон"
 
 msgctxt "#13389"
 msgid "There are no presets available for this visualisation"
-msgstr "Немає задаваних значень для цієї візуалізації"
+msgstr "Для цієї візуалізації немає шаблонів"
 
 msgctxt "#13390"
 msgid "There are no settings available[CR]for this visualisation"
@@ -5898,7 +5895,7 @@ msgstr "Відкрити / Закрити"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Вибір потоку"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -5951,7 +5948,7 @@ msgstr "Продовжити"
 
 msgctxt "#13405"
 msgid "Get thumb"
-msgstr "Ескіз"
+msgstr "Отримати ескіз"
 
 msgctxt "#13406"
 msgid "Picture information"
@@ -6032,7 +6029,7 @@ msgstr "Запам'ятати шлях"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "Вибрати список відтворення"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6077,7 +6074,7 @@ msgstr "Високоякісне масштабування, якщо більш
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Налаштування режиму HDR"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
@@ -6175,12 +6172,12 @@ msgstr "Віддавати перевагу оброблювачу VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Використовувати фільтр декодеру"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Вмикає/вимикає фільтр, котрий блокує певні програмні декодери Android. Цей фільтр можна налаштувати у файлі [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6230,36 +6227,36 @@ msgstr "Ввімкнути апаратне відтворення кодека 
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Використовувати AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Вмикає апаратне прискорення для кодека AVC. Якщо вимкнено, буде використовуватись процесор."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "Проміжний формат HQ-апскейлера"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Задає точність проміжного буфера масштабування, що використовується при рендерингу на GPU. 16-бітова точність зазвичай вимагає більше продуктивності. Якщо для обраного формату немає апаратної підтримки , Kodi вибере наступний найкращий формат."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 біт на канал"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 біт на канал"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 біт на канал"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6316,7 +6313,7 @@ msgstr "Поріг корекції тону"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "Коли швидкість змінюється скоріше за це порогове значення, буде застосовано фільтр корекції висоти тону. Це допомагає уникнути «бурундучих голосів» через прискорення відео"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6479,7 +6476,7 @@ msgstr "- Відсоткове співвідношення"
 
 msgctxt "#14015"
 msgid "No files and at least one thumb"
-msgstr "Немає файлів і хоча б один ескіз"
+msgstr "Немає файлів і хоча б одного ескізу"
 
 msgctxt "#14016"
 msgid "At least one file and thumb"
@@ -6911,11 +6908,11 @@ msgstr "Дозволити подвійну частоту оновлення"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Розширений"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Черги відтворення аудіо та відео"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7140,15 +7137,15 @@ msgstr "Дозволити віддалене керування програм�
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Обслуговування"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Очистити кеш зображень"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Негайно видаляє з кешу непотрібні зображення — ті, що не пов'язані з файлами в медіатеці і що не були нещодавно переглянуті. Час від часу Kodi виконує це у фоновому режимі."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7320,7 +7317,7 @@ msgstr "Показати картинку"
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
 msgid "Show content in \"{}\""
-msgstr "Показали вміст у \"{}\""
+msgstr "Показувати вміст у \"{}\""
 
 #. Label for an action associated with a favourite
 msgctxt "#15221"
@@ -7618,16 +7615,6 @@ msgctxt "#16297"
 msgid "Smooth"
 msgstr "Згладжування"
 
-#. Description of the video filter that uses jagged pixels without smoothing
-msgctxt "#16298"
-msgid "Shows the game's pixels without any modifications."
-msgstr "Показати ігрові пікселі без будь-яких змін."
-
-#. Description of the video filter that smooths pixels to remove jagged edges
-msgctxt "#16299"
-msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr "Згладжування зазубрених країв шляхом вирівнювання яскравості сусідніх пікселів."
-
 msgctxt "#16300"
 msgid "Video scaling method"
 msgstr "Метод масштабування відео"
@@ -7878,7 +7865,7 @@ msgstr "Записи"
 #. Name of a setting, asking to enter the path to a folder that contains icons for TV channels
 msgctxt "#19018"
 msgid "Folder with channel icons"
-msgstr "Папка зі значками каналів"
+msgstr "Тека з піктограмами каналів"
 
 #. generic label for pvr channels used in different places
 msgctxt "#19019"
@@ -7963,11 +7950,11 @@ msgstr "Для цієї події вже встановлено таймер"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} не може бути відтворено."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Цей запис не може бути відтворено."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -8005,11 +7992,11 @@ msgstr "Запис"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Перевірте свої налаштування."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "PVR-клієнти ще не запущено. Дочекайтесь запуску PVR-клієнтів."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8109,7 +8096,7 @@ msgstr "Налаштування таймера"
 #. Name of a shortcut to a custom folder for channel icons
 msgctxt "#19066"
 msgid "Channel icons"
-msgstr "Значки каналів"
+msgstr "Піктограми каналів"
 
 #. message box text stating that an epg event is already being recorded
 msgctxt "#19067"
@@ -8213,12 +8200,12 @@ msgstr "Операція швидкого запису"
 #. Label for "Instant recording action" settings value
 msgctxt "#19087"
 msgid "Record current show (if guide data available)"
-msgstr "Запис поточної передачі (при наявності телепрограми)"
+msgstr "Записати поточну передачу (при наявності телепрограми)"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19088"
 msgid "Record for a fixed period of time (Instant recording duration)"
-msgstr "Запис протягом фіксованого проміжку часу (тривалість швидкого запису)"
+msgstr "Записати фіксований проміжок часу (тривалість швидкого запису)"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19089"
@@ -8233,12 +8220,12 @@ msgstr "Записати наступні {0:d} хв"
 #. Label for "Instant recording action" dialog settings value
 msgctxt "#19091"
 msgid "Record current show ({0:s})"
-msgstr "Записати поточну програму ({0:s})"
+msgstr "Записати поточну передачу ({0:s})"
 
 #. Label for "Instant recording action" dialog settings value
 msgctxt "#19092"
 msgid "Record next show ({0:s})"
-msgstr "Записати наступну програму ({0:s})"
+msgstr "Записати наступну передачу ({0:s})"
 
 #. Instant recording summary. Expands to "Instant recording: <recording start and end times>", for example "Instant recording: 31/05/2016 from 9:00 to 11:00"
 msgctxt "#19093"
@@ -8322,17 +8309,17 @@ msgstr "Резервна частота кадрів"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Не вдалося зберегти таймер."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Не вдалося видалити таймер."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "Помилка сервера PVR."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8582,7 +8569,7 @@ msgstr "Записи"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Не вдалося почати запис."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8597,7 +8584,7 @@ msgstr "Відомості PVR"
 #. pvr settings "scan for missing channel icons" action button label
 msgctxt "#19167"
 msgid "Scan for missing icons"
-msgstr "Знайти відсутні значки"
+msgstr "Знайти відсутні піктограми"
 
 #. label for PVR number of deleted recordings in system information's PVR section
 msgctxt "#19168"
@@ -8612,7 +8599,7 @@ msgstr "Приховувати вікно відомостей про відео
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Не вдалося зупинити запис."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8728,7 +8715,7 @@ msgstr "Підключені сервери PVR не підтримують ск
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Сканування каналів не може бути запущено."
 
 #. unused?
 msgctxt "#19194"
@@ -9067,7 +9054,7 @@ msgstr "Батьківське блокування. Введіть PIN-код:"
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Не вдалося оновити таймер."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9181,7 +9168,7 @@ msgstr "Вибрати значок"
 #. Label for channel icon search progress dialog
 msgctxt "#19286"
 msgid "Searching for channel icons"
-msgstr "Пошук значків каналів"
+msgstr "Пошук піктограм каналів"
 
 #. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
@@ -9471,7 +9458,7 @@ msgstr "[збережено]"
 #. text for yes no dialog shown when user selects a future programme in the guide window and default select action is 'smart select'
 msgctxt "#19344"
 msgid "Do you want to set a reminder for the selected programme or to switch to the current programme?"
-msgstr "Ви хочете встановити нагадування для обраної програми або переключитись на поточну програму?"
+msgstr "Встановити нагадування для обраної програми або переключитись на поточну програму?"
 
 #. settings label to open add-ons manager window with available PVR client add-ons
 msgctxt "#19345"
@@ -9506,37 +9493,37 @@ msgstr "Використовувати порядок групи каналів 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr ""
+msgstr "Навздогін/відео по запиту"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
 msgid "Play next programme automatically"
-msgstr "Автоматичне відтворення наступної програми"
+msgstr "Автоматично відтворювати наступну програму"
 
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr "Відтворення програм звідси"
+msgstr "Відтворювати програми звідси"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
 msgid "Play only this programme"
-msgstr "Відтворити тільки цю програму"
+msgstr "Відтворювати тільки цю програму"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Дублювати"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Копія '{0:s}'"
 
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Видалити запис"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -10796,11 +10783,11 @@ msgstr "Якщо локальних обкладинок альбомів не �
 
 msgctxt "#20226"
 msgid "Movie set information folder"
-msgstr "Папка з інформацією про колекцію кіно"
+msgstr "Тека з інформацією про кіноцикл"
 
 msgctxt "#20228"
 msgid "Use artist sortname when sorting by artist"
-msgstr "Використовувати поле виконавця \"sortname\" при сортуванні по виконавцю"
+msgstr "При сортуванні по виконавцю використовувати сортувальну назву"
 
 msgctxt "#20240"
 msgid "Android music"
@@ -11184,7 +11171,7 @@ msgstr "Не сканувати вибрану папку"
 
 msgctxt "#20381"
 msgid "Specials"
-msgstr "Надбудови"
+msgstr "Спецвипуски"
 
 msgctxt "#20382"
 msgid "Recently added"
@@ -11268,7 +11255,7 @@ msgstr "Грати музичне відео"
 
 msgctxt "#20402"
 msgid "Download actor thumbnails"
-msgstr "Завантажити мініатюри виконавця"
+msgstr "Завантажити ескізи виконавця"
 
 msgctxt "#20403"
 msgid "Set actor thumb"
@@ -11520,7 +11507,7 @@ msgstr "Видалити {0:s}"
 
 msgctxt "#20462"
 msgid "New tag..."
-msgstr "Новий теґ…"
+msgstr "Новий тег…"
 
 msgctxt "#20463"
 msgid "A tag with the name '{0:s}' already exists."
@@ -11574,12 +11561,12 @@ msgstr "Тип HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Має кілька версій"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Має додаткові відеоматеріали"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11640,7 +11627,7 @@ msgstr "Використовувати мітки відео"
 
 msgctxt "#21344"
 msgid "Enable to use embedded tags in mp4 or mkv files for library metadata. Will prevent scrapers from operating correctly."
-msgstr "Дозволити використання вбудованих тегів у файлах mp4 або mkv для метаданих бібліотеки. Це перешкоджатиме коректній роботі парсерів."
+msgstr "Дозволити використання вбудованих тегів у файлах mp4 або mkv для метаданих бібліотеки. Це перешкоджатиме коректній роботі екстракторів."
 
 #. Used in AutoPlayNextItem dialogs for not categorized listItem directories
 msgctxt "#21345"
@@ -11660,17 +11647,17 @@ msgstr "Тип MIME: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Спеціальна серія {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Серія {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Спеціальна"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -12631,12 +12618,12 @@ msgstr "Кодування символів"
 #. Label for setting to choose the default action for "play"
 msgctxt "#22076"
 msgid "Default play action"
-msgstr "Відтворення за замовчуванням"
+msgstr "Дія за замовчуванням при відтворенні"
 
 #. Label for value for default play action setting
 msgctxt "#22077"
 msgid "Ask if resumable"
-msgstr ""
+msgstr "Питати, якщо можна продовжити"
 
 #. Label for value for default play action setting
 msgctxt "#22078"
@@ -12713,7 +12700,7 @@ msgstr "Додаток"
 
 msgctxt "#24001"
 msgid "Add-ons"
-msgstr "Надбудови"
+msgstr "Додатки"
 
 msgctxt "#24002"
 msgid "Add-on options"
@@ -12755,7 +12742,7 @@ msgstr "Візуалізація"
 
 msgctxt "#24011"
 msgid "Add-on repository"
-msgstr "Сховище додатків"
+msgstr "Репозиторій з додатками"
 
 msgctxt "#24012"
 msgid "Subtitles"
@@ -12810,7 +12797,7 @@ msgstr "Вимкнуто"
 #. Used as an error message (triggered from content dialog) on disabled scrapers
 msgctxt "#24024"
 msgid "Add-on disabled"
-msgstr "Надбудову вимкнено"
+msgstr "Додаток вимкнено"
 
 #. Used as the type name for context item addons
 msgctxt "#24025"
@@ -12847,7 +12834,7 @@ msgstr "Усі додатки"
 
 msgctxt "#24033"
 msgid "Install from repository"
-msgstr "Встановити зі сховища"
+msgstr "Встановити з репозиторію"
 
 msgctxt "#24034"
 msgid "Check for updates"
@@ -12915,7 +12902,7 @@ msgstr "VideoPlayer InputStream"
 #. To show addon as deprecated over icon
 msgctxt "#24049"
 msgid "Add-on has been marked deprecated in repository."
-msgstr "Додаток позначено в репозиторії як застаріле."
+msgstr "Додаток позначено в репозиторії як застарілий."
 
 msgctxt "#24050"
 msgid "Available add-ons"
@@ -12980,11 +12967,11 @@ msgstr "Автооновлення"
 #. Used as an event log description for add-ons that have been installed/enabled
 msgctxt "#24064"
 msgid "Add-on enabled"
-msgstr "Надбудову ввімкнено"
+msgstr "Додаток ввімкнено"
 
 msgctxt "#24065"
 msgid "Add-on updated"
-msgstr "Надбудову оновлено"
+msgstr "Додаток оновлено"
 
 msgctxt "#24066"
 msgid "Cancel add-on download?"
@@ -13066,7 +13053,7 @@ msgstr "Бібліотеки інформації"
 
 msgctxt "#24084"
 msgid "Add-on installed"
-msgstr "Надбудову встановлено"
+msgstr "Додаток встановлено"
 
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24085"
@@ -13081,7 +13068,7 @@ msgstr "Встановлення додатка..."
 #. Used in add-on browser
 msgctxt "#24087"
 msgid "All repositories"
-msgstr "Усі сховища"
+msgstr "Усі репозиторії"
 
 #. Used as a text in the progress dialog when install of a repo fails
 msgctxt "#24088"
@@ -13112,7 +13099,7 @@ msgstr "Перевірка {0:s}..."
 
 msgctxt "#24094"
 msgid "Add-on disabled due to being marked broken in repository."
-msgstr "Надбудова вимкнена тому що відмічена в репозиторії як зіпсована."
+msgstr "Додаток вимкнено, тому що його відмічено в репозиторії як поламаний."
 
 msgctxt "#24095"
 msgid "Local package cache"
@@ -13121,7 +13108,7 @@ msgstr "Локальний кеш пакетів"
 #. To show addon as broken over icon
 msgctxt "#24096"
 msgid "Add-on has been marked broken in repository."
-msgstr "Надбудова відмічена в репозиторії як зіпсована."
+msgstr "Додаток відмічений в репозиторії як поламаний."
 
 msgctxt "#24097"
 msgid "Would you like to disable it on your system?"
@@ -13277,11 +13264,11 @@ msgstr "Завантажити субтитри..."
 
 msgctxt "#24135"
 msgid "To use this feature you must enable an add-on:"
-msgstr "Для того, щоб скористатися цією функцією, необхідно увімкнути додаток:"
+msgstr "Для використання цієї функції потрібно увімкнути додаток:"
 
 msgctxt "#24136"
 msgid "Would you like to enable this add-on?"
-msgstr "Ввімкнути цей додаток?"
+msgstr "Увімкнути цей додаток?"
 
 #. Button in Add-on Manager -> Available Updates for updating all possible add-ons when auto-updating is off.
 msgctxt "#24137"
@@ -13306,7 +13293,7 @@ msgstr "Перегляд"
 #. Used as an event log description for add-ons that have been disabled
 msgctxt "#24141"
 msgid "Add-on disabled"
-msgstr "Надбудову вимкнено"
+msgstr "Додаток вимкнено"
 
 #. The dependency on <addon id> version <addon version> could not be satisfied.
 msgctxt "#24142"
@@ -13321,7 +13308,7 @@ msgstr "Не вдалося встановити додаток з файлу ZI
 #. Used as an event log description for add-ons that have been uninstalled
 msgctxt "#24144"
 msgid "Add-on uninstalled"
-msgstr "Надбудову видалено"
+msgstr "Додаток видалено"
 
 #. Used as an event log title for the video library scanner
 msgctxt "#24145"
@@ -13360,11 +13347,11 @@ msgstr "Триває міграція додатків. Зачекайте"
 #. Inform about not supported addon if tried to enable
 msgctxt "#24152"
 msgid "The add-on is not compatible with this version of Kodi."
-msgstr "Надбудова несумісна з цією версією Kodi."
+msgstr "Додаток несумісний з цією версією Kodi."
 
 msgctxt "#24153"
 msgid "Enable to make the Siri remote match the normal Apple tvOS behavior"
-msgstr "Увімкніть, щоб пульт Siri відповідав звичайній поведінці Apple tvOS"
+msgstr "Увімкніть, щоб пульт Siri працював як в Apple tvOS"
 
 msgctxt "#24154"
 msgid "Consider Siri remote in idle state after N seconds"
@@ -13404,18 +13391,18 @@ msgstr "Використовувати віртуальну клавіатуру
 
 msgctxt "#24163"
 msgid "The higher the value, the more sensitive the pan gesture"
-msgstr "Що вище значення, то чутливішим є панорамування"
+msgstr "Чим вище значення, тим чутливішим є жест панорамування"
 
 # empty string with id 24163
 #. Header text for yes/no dialog about enable of broken add-on
 msgctxt "#24164"
 msgid "Add-on \"{0:s}\" broken"
-msgstr "Додаток \"{0:s}\"пошкоджений"
+msgstr "Додаток \"{0:s}\" поламаний"
 
 #. Yes/no dialog text with add-on broken string value and to ask for use
 msgctxt "#24165"
 msgid "Add-on marked as broken with following note:[CR][B][I]{0:s}[/I][/B][CR][CR]Do you want to enable?"
-msgstr "Доповнення позначено як несправне з такою приміткою:[CR][B][I]{0:s}[/I][/B][CR][CR]Ви дійсно хочете його увімкнути?"
+msgstr "Додаток позначено як поламаний з наступною приміткою:[CR][B][I]{0:s}[/I][/B][CR][CR]Дійсно увімкнути його?"
 
 #. Header text for yes/no dialog about enable of deprecated add-on
 msgctxt "#24166"
@@ -13425,7 +13412,7 @@ msgstr "Додаток \"{0:s}\" застарів"
 #. Yes/no dialog text with add-on deprecated string value and to ask for use
 msgctxt "#24167"
 msgid "Add-on marked as deprecated with following note:[CR][B][I]{0:s}[/I][/B][CR][CR]Do you want to enable?"
-msgstr "Доповнення позначено як застаріле з такою приміткою:[CR][B][I]{0:s}[/I][/B][CR][CR]Ви дійсно хочете його увімкнути?"
+msgstr "Додаток позначено як застарілий з наступною приміткою:[CR][B][I]{0:s}[/I][/B][CR][CR]Дійсно увімкнути його?"
 
 #. Notification event to show addon marked as deprecated.
 msgctxt "#24168"
@@ -13482,22 +13469,22 @@ msgstr " (опціонально)"
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
-msgstr "Мінімум: {0:s} / Недоступно{3:s}"
+msgstr "Мінімальна: {0:s} / Недоступно {3:s}"
 
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Підключення до бази даних. Зачекайте"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Помилка ініціалізації баз даних. Вихід через {} секунд(и)."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
-msgstr "Не вдалося підключитися до сховища."
+msgstr "Не вдалося підключитися до репозиторію."
 
 msgctxt "#24992"
 msgid "System"
@@ -13600,17 +13587,17 @@ msgstr "Вручну"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "Обраний список відворення вже використовується. Пов'язати його з цією серією?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "Не було знайдено дійсний список фільмів."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "Не було знайдено дійсний список серій."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -14014,7 +14001,7 @@ msgstr "Повідомлення про дорожній рух"
 #. Help text of boolean on/off value
 msgctxt "#29983"
 msgid "RDS informs you about traffic advisory messages"
-msgstr ""
+msgstr "RDS надає відомості про дорожній рух"
 
 #. Boolean value on settings
 msgctxt "#29984"
@@ -14069,7 +14056,7 @@ msgstr "Ролі"
 #. Label for multi-disc movies, including movie title (param 0) and disc number (param 1).
 msgctxt "#29995"
 msgid "{0:s} (Disc {1:s})"
-msgstr ""
+msgstr "{0:s} (диск {1:s})"
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -14370,7 +14357,7 @@ msgstr "Сервер віддаленого доступу"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr "Раніше ви ввімкнули веб-інтерфейс без встановлення пароля. Веб-сервер було вимкнено, доки ви явно не дозволите це чи не налаштуєте автентифікацію. Будь ласка, перевірте свої налаштування."
+msgstr "Раніше ви ввімкнули веб-інтерфейс, не встановивши пароль. Задля безпеки веб-сервер було вимкнено, доки ви явно не дозволите це або не налаштуєте автентифікацію. Перевірте налаштування."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14410,15 +14397,15 @@ msgstr "Windows media audio 2 (FFmpeg wmav2)"
 
 msgctxt "#34008"
 msgid "When you need to enter some text, Kodi virtual keyboard will show up instead of the built-in tvOS keyboard"
-msgstr ""
+msgstr "Для вводу тексту буде показано віртуальну клавіатуру Kodi замість вбудованої клавіатури tvOS"
 
 msgctxt "#34009"
 msgid "Siri remote pan gesture horizontal sensitivity"
-msgstr ""
+msgstr "Чутливість горизонтального жесту панорамування по для пульту Siri"
 
 msgctxt "#34010"
 msgid "Siri remote pan gesture vertical sensitivity"
-msgstr ""
+msgstr "Чутливість вертикального жесту панорамування для пульту Siri"
 
 msgctxt "#34100"
 msgid "Number of channels"
@@ -14492,27 +14479,27 @@ msgstr "Надсилати слабкий шум, що запобігти авт
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "Додати LFE під час змішування"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr ""
+msgstr "Якщо увімкнено, додає в змішування канал низькочастотних ефектів (LFE), коли немає виділеного вихідного LFE-каналу. Це має значення тільки для динаміків повного діапазону."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Вимк."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -14595,7 +14582,7 @@ msgstr "Ввімк."
 # empty string with id 34223
 msgctxt "#34224"
 msgid "Tone mapping method"
-msgstr ""
+msgstr "Метод тонального відображення"
 
 msgctxt "#34300"
 msgid "Failed to start Zeroconf"
@@ -14727,7 +14714,7 @@ msgstr "Не вдалося налаштувати контролери"
 #. Error dialog text when the controller dialog is opened but peripheral add-ons are disabled
 msgctxt "#35018"
 msgid "Controller configuration depends on a disabled add-on. Would you like to enable it?"
-msgstr "Конфігурація контролера залежить від вимкненого додатка. Ввімкнути його?"
+msgstr "Для конфігурації контролера потрібен додаток, який зараз вимкнено. Увімкнути його?"
 
 #. Label of the button to fix the bug where buttons are skipped in the controller dialog
 msgctxt "#35019"
@@ -14941,7 +14928,7 @@ msgstr "Ввімкнути підтримку контролера"
 # empty string with id 35101
 msgctxt "#35102"
 msgid "Disable controllers when this device is present"
-msgstr ""
+msgstr "Вимкнути контролери, якщо присутній цей пристрій"
 
 #. Label for mouse buttons. Used in the controller mapping dialog.
 msgctxt "#35103"
@@ -15115,12 +15102,12 @@ msgstr "Миша"
 #. Name of window for configuring players while playing a game
 msgctxt "#35172"
 msgid "Players"
-msgstr ""
+msgstr "Гравці"
 
 #. Notification shown when no controllers are connected in the in-game dialog that lets users configure player assignment
 msgctxt "#35173"
 msgid "No controllers connected"
-msgstr ""
+msgstr "Контролери не підключені"
 
 #. This string is an early meme from the late 1990's that made fun of the poor translation in the 16-bit game Zero Wing from the late 1980's. DO NOT TRANSLATE!
 msgctxt "#35200"
@@ -15135,7 +15122,7 @@ msgstr "Ігровий процес"
 # empty string with id 35202
 msgctxt "#35203"
 msgid "Enable rewind (if supported)"
-msgstr ""
+msgstr "Увімкнути перемотку (якщо підтримується)"
 
 msgctxt "#35204"
 msgid "Enable real-time rewinding during game play, if supported. Press rewind or manually seek backwards using the seek bar."
@@ -15171,7 +15158,7 @@ msgstr "Не вдалося запустити гру"
 #. Error dialog text when the game requires restricted files to play. {0:s} - emulator ID
 msgctxt "#35211"
 msgid "This game requires the following add-on: {0:s}"
-msgstr "Ця гра потребує додаток {0:s}"
+msgstr "Для цієї гри потрібен додаток {0:s}"
 
 #. Error dialog text when launching a game and no emulators are compatible
 msgctxt "#35212"
@@ -15191,7 +15178,7 @@ msgstr "Цю гру можна запустити лише безпосеред�
 #. Error dialog text when libretro support is disabled
 msgctxt "#35215"
 msgid "This game depends on a disabled add-on. Would you like to enable it?"
-msgstr "Ця гра залежить від вимкненого додатка. Ввімкнути її?"
+msgstr "Для цієї гри потрібен додаток, який зараз вимкнено. Увімкнути його?"
 
 #. Description of add-on category for game support add-ons like game.libretro (the libretro wrapper)
 msgctxt "#35216"
@@ -15296,13 +15283,28 @@ msgstr "Натисніть {0:s}, щоб відкрити меню гри."
 #. Additional help text shown when the user first plays a game. This will be removed in the future.
 msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
-msgstr "У поточному релізі можна використовувати лише контролери щоб грати в ігри."
+msgstr "У поточному релізі для ігор можна використовувати лише контролери."
+
+#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35237"
+msgid "Normal (1:1 PAR)"
+msgstr "Нормальний (1:1 PAR)"
+
+#. Label of thumbnail in the in-game menu for integer underscaling
+msgctxt "#35238"
+msgid "Integer"
+msgstr "Цілісне"
+
+#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35239"
+msgid "Integer (1:1 PAR)"
+msgstr "Цілісне (1:1 PAR)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
 msgid "Save / Load"
-msgstr ""
+msgstr "Зберегти/завантажити"
 
 msgctxt "#35250"
 msgid "Add games..."
@@ -15318,7 +15320,7 @@ msgstr "Змінити джерело ігор"
 
 msgctxt "#35253"
 msgid "Enable autosave (if supported)"
-msgstr ""
+msgstr "Увімкнути автоматичне збереження (якщо підтримується)"
 
 msgctxt "#35254"
 msgid "Save the game automatically during game play, if supported. Resume playing where you left off."
@@ -15352,17 +15354,17 @@ msgstr "Обрати збереження"
 #. Button for creating a new save state from the select savestate dialog
 msgctxt "#35261"
 msgid "New"
-msgstr "Новинка"
+msgstr "Новий"
 
 #. Help text for RetroAchievements username input setting
 msgctxt "#35262"
 msgid "Enter your RetroAchievements account username"
-msgstr ""
+msgstr "Введіть ім'я користувача облікового запису RetroAchievements"
 
 #. Help text for RetroAchievements password input setting
 msgctxt "#35263"
 msgid "Enter your RetroAchievements account password"
-msgstr ""
+msgstr "Введіть пароль облікового запису RetroAchievements"
 
 #. Label for notification events regarding RetroAchievements login
 msgctxt "#35264"
@@ -15377,12 +15379,12 @@ msgstr "Невірний логін/пароль!"
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35266"
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Не вдалося підключитись до сервера"
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35267"
 msgid "Invalid response from server"
-msgstr ""
+msgstr "Недійсна відповідь від сервера"
 
 #. Setting to show if the user is logged in to RetroAchievements
 #. Settings -> Games -> Achievements -> Logged in
@@ -15394,17 +15396,17 @@ msgstr "Вхід виконано"
 #. Settings -> Games -> Achievements -> Logged in
 msgctxt "#35269"
 msgid "Toggle this setting to log in or out of RetroAchievements."
-msgstr ""
+msgstr "З допомогою цього параметру можна увійти та вийти з RetroAchievements."
 
 #. Description for notification event regarding unsuccessful RetroAchievements login
 msgctxt "#35270"
 msgid "Your account is not verified. Please check your email to complete your sign up."
-msgstr ""
+msgstr "Ваш обліковий запис не підтверджено. Перевірте електронну пошту, щоб завершити реєстрацію."
 
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
-msgstr ""
+msgstr "Для цієї гри потрібна підтримка OpenGL для 3D-рендерінгу. Підтримка OpenGL все ще знаходиться на стадії розробки."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15486,7 +15488,7 @@ msgstr "Не вдалося ініціалізувати адаптер CEC. П�
 #. CEC adapter setting to set the type of device that libCEC reports to the TV (Recording, Playback or Tuner Device)
 msgctxt "#36013"
 msgid "CEC client device mode"
-msgstr ""
+msgstr "Режим клієнтського пристрою CEC"
 
 msgctxt "#36015"
 msgid "HDMI port number"
@@ -15655,19 +15657,19 @@ msgstr "Тюнер"
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
 msgid "Use system HDR/SDR brightness balance"
-msgstr ""
+msgstr "Використовувати системний баланс яскравості HDR/SDR"
 
 # empty strings from id 36054 to 36096
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36097"
 msgid "GUI peak luminance in HDR PQ mode"
-msgstr ""
+msgstr "Пікова яскравість інтерфейсу в режимі HDR PQ"
 
 # empty strings from id 36051 to 36097
 #. Label of setting "System / Display / Use 10 bit for SDR"
 msgctxt "#36098"
 msgid "Use 10 bit for SDR"
-msgstr ""
+msgstr "Використовувати 10 біт для SDR"
 
 msgctxt "#36099"
 msgid "Dithering"
@@ -15770,7 +15772,7 @@ msgstr "Мова аудіосупроводу за замовчуванням, �
 #. Description of settings with label #16000 "General"
 msgctxt "#36121"
 msgid "This category contains the settings for how media lists are displayed."
-msgstr "Категорія містить налаштування показу списків медіафайлів."
+msgstr "Налаштування показу списків медіафайлів."
 
 #. Description of setting with label #13306 "Show parent folder items"
 msgctxt "#36122"
@@ -15805,7 +15807,7 @@ msgstr "Показувати приховані файли та папки."
 #. Description of settings category with label #360 "Screensaver"
 msgctxt "#36128"
 msgid "This category contains the settings for how the screensaver add-ons are handled."
-msgstr "Категорія містить налаштування додатків заставки."
+msgstr "Налаштування додатків заставок."
 
 #. Description of setting with label #355 "Wait time"
 msgctxt "#36129"
@@ -15857,7 +15859,7 @@ msgstr "Налаштування медіатеки."
 #. Description of setting with label #14105 "Temperature unit"
 msgctxt "#36140"
 msgid "Choose which temperature unit is used for displaying temperatures in the user interface."
-msgstr "Виберіть одиницю вимірювання температури для відображення температур в інтерфейсі."
+msgstr "Виберіть одиниці вимірювання температури, що показується в інтерфейсі."
 
 #. Description of setting with label #20369 "Show information for unwatched items"
 msgctxt "#36141"
@@ -15882,7 +15884,7 @@ msgstr "Виберіть, в яких випадках ви бажаєте пр�
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
 msgid "When enabled, movies belonging to a \"Movie set\" are grouped together under one entry for the set in the movie library, this entry can then be opened to display the individual movies. When disabled, each movie will have its own entry in the movie library even if it belongs to a set."
-msgstr "Коли увімкнено, фільми що належать що \"Підбірки фільмів\" будуть представлені одним об'єктом у бібліотеці фільмів. При відкритті підбірки будуть показані всі фільми в ній. Якщо ж вимкнути це налаштування, то кожен фільм буде переразований в бібліотеці незалежно."
+msgstr "Якщо увімкнено, фільми, які входять до \"Кіноциклу\", будуть представлені у відеотеці фільмів як один об'єкт. При відкритті кіноциклу будуть показані всі фільми з нього. Якщо це вимкнути, кожен фільм буде представлено в медіатеці окремо."
 
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36146"
@@ -15912,7 +15914,7 @@ msgstr "Імпорт файлу XML до медіатеки відео."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36151"
 msgid "This category contains the settings for how video playback is handled."
-msgstr "Ця категорія містить налаштування обробки і відтворення відео."
+msgstr "Налаштування відтворення відео."
 
 #. Description of setting with label #13433 "Play next video automatically"
 msgctxt "#36152"
@@ -15942,7 +15944,7 @@ msgstr "Ввімкнути апаратне декодування відео VA
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
 msgid "When enabled, a \"Movie set\" entry is used even if the movie library contains only a single movie from that set. When disabled, a \"Movie set\" entry is used only if the movie library contains more than one movie from that set."
-msgstr "Коли увімкнено, \"Підбірка фільмів\" буде відображатися як об'єкт в бібліотеці медіа навіть якщо в ній лише один фільм. Якщо це налаштування вимкнено, то \"Підбірка фільмів\" буде використоуватися ли ше коли в ній більше одного фільму."
+msgstr "Якщо увімкнено, \"Кіноцикл\" буде показано в медіатеці навіть якщо в ньому є лише один фільм. Якщо вимкнути, то \"Кіноцикл\" буде показано тільки за умови, що в ньому є більше одного фільму."
 
 #. Description of setting with label #13427 "Allow hardware acceleration (DXVA2)"
 msgctxt "#36158"
@@ -16012,7 +16014,7 @@ msgstr "Вибір налаштування пропорцій показу ві
 #. Description of setting with label #13430 "Allow hardware acceleration - PRIME"
 msgctxt "#36172"
 msgid "Enable PRIME decoding of video files"
-msgstr ""
+msgstr "Увімкнути декодування PRIME для відеофайлів"
 
 #. Description of setting with label #14109 "Short date format"
 msgctxt "#36173"
@@ -16032,12 +16034,12 @@ msgstr "Масштабувати телетекст до пропорцій 4:3.
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36176"
 msgid "This category contains the settings for how video file lists are handled."
-msgstr "Категорія містить налаштування відображення списків відеофайлів."
+msgstr "Налаштування відображення списків відеофайлів."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "Перемикання між [Вибрати], [Відтворити] (за замовчуванням), [Показати відомості] та [До списку відтворення].[CR][Вибрати] відкриє контекстне меню для вибору команди, наприклад 'Показати відомості'.[CR][Відтворити] буде відтворювати відеофайли, як задано параметром 'Дія за замовчуванням при відтворенні'.[CR][Показати відомості] відкриє вікно з відомостями про відеофайл.[CR][До списку відтворення] додасть відео до черги відтворення."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16071,12 +16073,12 @@ msgstr "Не показувати підрозділи \"Назва\", \"Жан�
 #. Description of settings category with label #287 "Subtitles"
 msgctxt "#36184"
 msgid "This category contains the settings for how subtitles are handled."
-msgstr "Категорія містить налаштування показу субтитрів."
+msgstr "Налаштування показу субтитрів."
 
 #. Description of setting with label #14089 "Font"
 msgctxt "#36185"
 msgid "Set the font type to be used for subtitles."
-msgstr ""
+msgstr "Виберіть типу шрифту для субтитрів."
 
 #. Description of setting with label #289 "Size"
 msgctxt "#36186"
@@ -16101,7 +16103,7 @@ msgstr "Вибір кодування символів для субтитрів
 #. Description of setting with label #21368 "Override subtitles fonts"
 msgctxt "#36190"
 msgid "Override subtitles fonts in subtitle formats such as ASS / SSA."
-msgstr ""
+msgstr "Заміняє шрифти в субтитрах формату ASS/SSA."
 
 #. Description of setting with label #21366 "Custom subtitle folder"
 msgctxt "#36191"
@@ -16111,12 +16113,12 @@ msgstr "Вибрати папку для субтитрів. Папка може
 #. Description of setting with label #21460 "Subtitle location on screen"
 msgctxt "#36192"
 msgid "Location of subtitles on the screen. [Bottom of video] / [Top of video] When possible the subtitles will be positioned within the video area (depends on video encoding). Please note that some forced positions in the subtitles cannot be changed."
-msgstr ""
+msgstr "Розташування субтитрів на екрані. [Знизу відео] / [Зверху відео] коли це можливо, субтитри будуть розташовані в межах області відео (залежить від типу кодування відео). Зверніть увагу, що деякі примусові розташування субтитрів не можна змінити."
 
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr "Категорія містить налаштування відтворення дисків DVD, Blu-ray і CD."
+msgstr "Налаштування відтворення дисків DVD, Blu-ray і CD."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 msgctxt "#36194"
@@ -16155,7 +16157,7 @@ msgstr "Налаштування перегляду і запису ТБ."
 
 msgctxt "#36202"
 msgid "This category contains the general settings for the PVR & Live TV."
-msgstr "Ця категорія містить загальні налаштування перегляду та запису ТБ."
+msgstr "Загальні налаштування перегляду та запису ТБ."
 
 msgctxt "#36203"
 msgid "Enables the \"Personal Video Recorder\" (PVR) features. This requires that at least one PVR add-on is installed."
@@ -16164,15 +16166,15 @@ msgstr "Активація функції перегляду та запису �
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "Перемикання між [Питати, якщо можна продовжити] (за замовчуванням), [Продовжити] та [Відтворити з початку].[CR][Питати, якщо можна продовжити] буде питати, чи відтворювати відео з початку, чи продовжити з останнього місця (якщо є точка продовження).[CR][Продовжити] буде автоматично продовжувати відтворення з останнього місця. Якщо точка продовження не встановлена, відтворення автоматично почнеться з початку.[CR][Відтворити з початку] автоматично почне відтворення з початку, ігноруючи наявні точки продовження."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
-msgstr ""
+msgstr "Сортувати канали за відповідними номерами на сервері, але використовувати для каналів локальну нумерацію."
 
 msgctxt "#36206"
 msgid "Use the channel numbering from the backend."
-msgstr ""
+msgstr "Використовувати для каналів нумерацію з серверу."
 
 msgctxt "#36207"
 msgid "Open the channel manager, which allows modifying the channel order, channel name, icon, etc."
@@ -16184,15 +16186,15 @@ msgstr "Відправити команду на ТБ-сервер шукати 
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr ""
+msgstr "Очистити бази даних PVR: канали, групи, нагадування та телепрограма. Зверніть увагу, що після цього не всі дані можна буде відновити з серверу."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
-msgstr ""
+msgstr "Відкрити діалогове вікно пріоритетів клієнтів, де можна змінити пріоритет для увімкнених клієнтів PVR, наприклад, упорядкувати канали для кожного з клієнтів. Чим вище значення, тим вищий пріоритет."
 
 msgctxt "#36211"
 msgid "This category contains the settings for PVR channels and channel groups."
-msgstr ""
+msgstr "Налаштування для каналів PVR і груп каналів."
 
 msgctxt "#36212"
 msgid "Display programming information when changing channels, such as the current TV show."
@@ -16204,7 +16206,7 @@ msgstr "Відкрити менеджер груп для зміни груп і
 
 msgctxt "#36214"
 msgid "Preselect the playing channel in windows and dialogs containing channel lists. If enabled and there is a playing channel, the playing channel will be selected when opening a window or dialog containing a channel list. If disabled, the channel previously selected in a window or dialog will be selected when opening a window containing a channel list. "
-msgstr ""
+msgstr "Попередньо вибирати відтворюваний канал у вікнах та діалогових вікнах зі списками каналів. Якщо це увімкнено і є відтворюваний канал, після відкриття вікна або діалогового вікна зі списком каналів буде одразу вибрано відтворюваний канал. Якщо це вимкнено, після відкриття вікна зі списком каналів буде вибрано канал, котрий раніше було вибрано у вікні або діалоговому вікні. "
 
 #. Description of setting with label #14110 "Long date format"
 msgctxt "#36215"
@@ -16213,15 +16215,15 @@ msgstr "Виберіть розширений формат дати для ві�
 
 msgctxt "#36216"
 msgid "Folder where channel icons are stored."
-msgstr "Папка зі значками каналів."
+msgstr "Тека з піктограмами каналів."
 
 msgctxt "#36217"
 msgid "Scan for missing channel icons."
-msgstr "Шукати відсутні значки каналів."
+msgstr "Шукати відсутні піктограми каналів."
 
 msgctxt "#36218"
 msgid "This category contains the electronic programming guide (EPG) settings."
-msgstr "Ця категорія містить налаштування телепрограми (EPG)."
+msgstr "Налаштування телепрограми (EPG)."
 
 msgctxt "#36219"
 msgid "Number of past days to show in the guide and to import from backends."
@@ -16242,7 +16244,7 @@ msgstr "Не імпортувати дані телепрограми під ч�
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
 msgid "Enable PRIME hardware decoding of video files, used if ffmpeg PRIME hwaccel is available."
-msgstr ""
+msgstr "Увімкнути апаратне декодування PRIME для відеофайлів. Використовується, якщо доступно апаратне декодування ffmpeg PRIME."
 
 msgctxt "#36224"
 msgid "Hide \"No information available\" labels when no guide data is available for a channel."
@@ -16254,11 +16256,11 @@ msgstr "Видалити збережену телепрограму і повт
 
 msgctxt "#36226"
 msgid "This category contains the PVR playback and channel switching settings."
-msgstr "Ця категорія містить налаштування перегляду ТБ і перемикання каналів."
+msgstr "Налаштування відтворення PVR і перемикання каналів."
 
 msgctxt "#36227"
 msgid "Switch to full screen display when starting playback of channels."
-msgstr ""
+msgstr "Перемикатись в повноекранний режим після запуску відтворення каналів."
 
 #. Description of setting with label #745 "Background Colour"
 msgctxt "#36228"
@@ -16272,7 +16274,7 @@ msgstr "Показувати відомості про якість сигнал
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "Вибір прозорості для тла субтитрів."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16284,11 +16286,11 @@ msgstr "При натисканні кнопок перемикання кана
 
 msgctxt "#36233"
 msgid "This category contains settings for recordings."
-msgstr ""
+msgstr "Налаштування для записів."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
-msgstr ""
+msgstr "Тривалість миттєвих записів при натисканні кнопки запису. Це значення буде використано, якщо для параметра 'Операція швидкого запису' вибрано значення 'Записати фіксований проміжок часу'"
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
@@ -16296,11 +16298,11 @@ msgstr "Приховувати екранні кнопки керування п
 
 msgctxt "#36236"
 msgid "If set to a value greater than zero last watched time of channels will be stored the given amount of time after start of channel playback. Otherwise the last watched time will be stored immediately at start of channel playback."
-msgstr ""
+msgstr "Якщо значення більше нуля, останній час перегляду каналів буде збережений через вказаний проміжок часу після запуску відтворення каналу. В іншому випадку останній час перегляду буде збережений одразу після запуску відтворення каналу."
 
 msgctxt "#36237"
 msgid "Additional time to record before the scheduled start time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr ""
+msgstr "Додатковий час запису до запланованого моменту початку, щоб врахувати незначні зміни в трансляції. Підтримується не всіма додатками та серверами."
 
 msgctxt "#36238"
 msgid "Additional time to record after the scheduled end time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
@@ -16312,11 +16314,11 @@ msgstr "Показувати повідомлення при додаванні,
 
 msgctxt "#36240"
 msgid "This category contains the PVR power management settings, such as when to wakeup the PVR backend server."
-msgstr "Ця категорія містить налаштування параметрів живлення ТБ-обладнання, наприклад прокидання ТБ-сервера."
+msgstr "Налаштування параметрів живлення ТБ-обладнання, наприклад прокидання ТБ-сервера."
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
-msgstr ""
+msgstr "Виконувати вказану команду пробудження під час виходу з програми або при переході в режим глибокого сну. В якості параметру передається мітка часу наступного запланованого запису."
 
 msgctxt "#36242"
 msgid "The command will not be executed when a recording will be started within this timeout."
@@ -16340,11 +16342,11 @@ msgstr "Час виконання щоденної команди пробудж
 
 msgctxt "#36247"
 msgid "This category contains the parental control settings, if the PVR backend server supports parental controls."
-msgstr "Ця категорія містить налаштування батьківського контролю, якщо ТБ-сервер підтримує відповідні параметри."
+msgstr "Налаштування батьківського контролю, якщо PVR-сервер має таку підтримку."
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr ""
+msgstr "Запитувати PIN-код для доступу до каналів із батьківським блокуванням. Канали можна позначити як заблоковані в редакторі каналів на вкладці 'Загальні'. Канали з батьківським блокуванням не можна відтворювати або записувати без введення PIN-коду, а телепрограма для цих каналів прихована."
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
@@ -16356,7 +16358,7 @@ msgstr "Запитувати PIN-код повторно при доступі �
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
-msgstr "Ця категорія містить налаштування ТБ-серверу, якщо ТБ-сервер і додаток підтримують можливість налаштування."
+msgstr "Налаштування PVR-серверу, якщо це підтримується сервером і PVR-додатком."
 
 msgctxt "#36252"
 msgid "This option will bring you to any specific settings for your PVR backend, if supported by the PVR add-on and backend."
@@ -16369,12 +16371,12 @@ msgstr "Налаштування перегляду, прослуховуван�
 
 msgctxt "#36254"
 msgid "Action to perform when pressing the record button. [Record current show] will record the current show from \"now\" to the end of the show. If no TV guide data is currently available a fixed length recording starting \"now\", with the value set for \"Instant recording duration\" will be scheduled. [Record for a fixed period of time] will schedule a fixed length recording starting \"now\", with the value set for \"Instant recording duration\". [Ask what to do] will open a dialogue containing different recording actions to choose from, like \"Record current show\", \"Record next show\" and some fixed duration recordings."
-msgstr ""
+msgstr "Дія, яка виконується після натискання кнопки запису. [Записати поточну передачу] запише поточну передачу з поточного моменту і до кінця. Якщо телепрограма недоступна, буде заплановано запис фіксованої тривалості, починаючи з поточного моменту і до значення, встановленого для 'Тривалість швидкого запису' [Записати фіксований проміжок часу] запланує запис фіксованої тривалості, починаючи з поточного моменту і до значення, встановленого для 'Тривалість швидкого запису'. [Запитувати] відкриє діалогове вікно з різними варіантами запису: 'Записати поточну передачу', 'Записати наступну передачу' та записи фіксованої тривалості."
 
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
 msgid "When enabled, both song and album artists are shown. When disabled, only album artists are shown and artists that appear only on individual songs from an album are excluded."
-msgstr ""
+msgstr "Якщо увімкнено, будуть показані виконавці і пісень, а альбомів. Якщо вимкнено, будуть показані лише виконавці альбомів, а виконавці, які з’являються лише в окремих піснях альбому, будуть приховані."
 
 #. Description of setting with label #20192 "Fetch additional information during updates"
 msgctxt "#36256"
@@ -16418,12 +16420,12 @@ msgstr "Імпорт файлу XML до музичної медіатеки."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36264"
 msgid "This category contains the settings for how music playback is handled."
-msgstr "Ця категорія містить налаштування відтворення музики."
+msgstr "Налаштування відтворення музики."
 
 #. Description of setting with label #489 "Play next song automatically"
 msgctxt "#36265"
 msgid "Automatically plays the next item in the current folder, for example in \"Files\" view after a track has been played, the next track in the same folder will automatically play."
-msgstr ""
+msgstr "Автоматично відтворювати наступний файл у поточній теці. Наприклад, у режимі перегляду 'Файли' по закінченні відтворення файлу автоматично буде відтворюватись наступний файл у тій самій теці."
 
 #. Description of setting with label #14084 "Queue songs on selection"
 msgctxt "#36266"
@@ -16433,22 +16435,22 @@ msgstr "При виборі пісень вони не відтворюютьс�
 #. Description of setting with label #638 "Volume adjustments"
 msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
-msgstr ""
+msgstr "Зчитувати дані ReplayGain, вбудовані в аудіофайли за допомогою, наприклад, MP3Gain, та нормалізувати рівні гучності відповідним чином."
 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
 msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr ""
+msgstr "Базова гучність (рівень передпідсилювача) для використання для файлів із вбудованими даними ReplayGain. За замовчуванням (згідно стандарту) використовується 89 дБ. Змінюйте з обережністю."
 
 #. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
 msgctxt "#36269"
 msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr ""
+msgstr "Базова гучність (рівень передпідсилювача) для використання для файлів без вбудованих даних ReplayGain. За замовчуванням (згідно стандарту) використовується 89 дБ. Змінюйте з обережністю."
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
 msgid "Play file at lower volume, if necessary, to avoid audio limiting clipping protection. Otherwise clipping protection will be provided by the audioengine in those parts that need it."
-msgstr ""
+msgstr "Відтворювати файл на нижчій гучності, щоб уникнути обмеження аудіо через захист від кліппінгу. В іншому випадку звукова підсистема забезпечить захист від кліппінгу у відповідних частинах."
 
 #. Description of setting with label #13314 "Crossfade between songs"
 msgctxt "#36271"
@@ -16468,12 +16470,12 @@ msgstr "Виберіть візуалізацію, яка буде показу�
 #. Description of setting with label #39125 "Enable tag reading in file view"
 msgctxt "#36274"
 msgid "When browsing music files in file view read the tags of those not in the music library as you go. This can make large directories slow to display, especially over a network."
-msgstr ""
+msgstr "Під час огляду музичних файлів у файловому режимі зчитувати теги, які відсутні в музичній медіатеці. Це може призвести до повільного відображення великих каталогів, особливо мережевих."
 
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
 msgid "Control the way that the names of songs are displayed in the user interface. In order to function properly, tag reading needs to be enabled."
-msgstr "Налаштування відображення назв пісень у інтерфейсі . Для правильного функціонування потрібно ввімкнути зчитування теґів."
+msgstr "Налаштування показу назв пісень в інтерфейсі. Для правильної роботи потрібно увімкнути зчитування тегів."
 
 #. unused?
 msgctxt "#36276"
@@ -16508,7 +16510,7 @@ msgstr "Пошук ескізів у мережевих папках і на о�
 #. Description of settings category with label #620 "Audio CDs"
 msgctxt "#36282"
 msgid "This category contains the settings for how CDs are handled."
-msgstr "Ця категорія містить налаштування відтворення CD."
+msgstr "Налаштування відтворення компакт-дисків."
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36283"
@@ -16528,7 +16530,7 @@ msgstr "Вибрати папку для збереження оцифрован
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
 msgid "Control how saved music is named from the tags. Tags: [B]%N[/B]: TrackNumber, [B]%S[/B]: DiscNumber, [B]%A[/B]: Artist, [B]%T[/B]: Title, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: Year, [B]%F[/B]: FileName, [B]%D[/B]: Duration, [B]%J[/B]: Date, [B]%R[/B]: Rating, [B]%I[/B]: FileSize."
-msgstr "Налаштування іменування збереженої музики з теґів. Теґи: [B]%N[/B]: № треку, [B]%S[/B]: № диску, [B]%A[/B]: виконавець, [B]%T[/B]: назва, [B]%B[/B]: альбом, [B]%G[/B]: жанр, [B]%Y[/B]: рік, [B]%F[/B]: ім'я файлу, [B]%D[/B]: тривалість, [B]%J[/B]: дата, [B]%R[/B]: рейтинг, [B]%I[/B]: розмір файлу."
+msgstr "Формування назв з тегів для музичних файлів. Теги: [B]%N[/B]: № доріжки, [B]%S[/B]: № диску, [B]%A[/B]: виконавець, [B]%T[/B]: назва, [B]%B[/B]: альбом, [B]%G[/B]: жанр, [B]%Y[/B]: рік, [B]%F[/B]: назва файлу, [B]%D[/B]: тривалість, [B]%J[/B]: дата, [B]%R[/B]: рейтинг, [B]%I[/B]: розмір файлу."
 
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
@@ -16558,7 +16560,7 @@ msgstr "Відкривати лоток CD після закінчення оц�
 #. Description of settings category "Interface -> Startup" with label #14224
 msgctxt "#36292"
 msgid "This category contains startup settings."
-msgstr "Ця категорія містить налаштування запуску."
+msgstr "Налаштування запуску Kodi."
 
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
@@ -16568,38 +16570,38 @@ msgstr "Вибрати папку для збереження відомосте
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
 msgid "When sorting music items by artist use sortname e.g. Parton, Dolly rather than name."
-msgstr ""
+msgstr "Сортувати музичні елементі спочатку за прізвищем, а потім за ім'ям виконавця, наприклад \"Пономарьов, Олександр\", а не \"Олександр Пономарьов\"."
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "Вибір прозорості субтитрів."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
-msgstr ""
+msgstr "Налаштування для нагадувань."
 
 msgctxt "#36297"
 msgid "Choose a time in seconds after which PVR reminder popups will be automatically closed."
-msgstr ""
+msgstr "Вкажіть час у секундах, після якого будуть автоматично закриватись спливаючі вікна нагадування PVR."
 
 msgctxt "#36298"
 msgid "If enabled, a recording for the programme to remind will be scheduled when auto-closing the reminder popup, if supported by the PVR add-on and backend."
-msgstr ""
+msgstr "Якщо увімкнено, після автоматичного закриття спливаючого вікна нагадування буде заплановано запис програми з нагадуванням (якщо це підтримується додатком PVR та сервером)."
 
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
 msgid "Allow the HDR mode of the display to be changed to best match the media. When disabled, Kodi applies tonemapping if needed (and if supported on your hardware) to adapt the media to the current HDR mode of the display."
-msgstr ""
+msgstr "Дозволяє змінити режим HDR екрану, щоб найкраще відповідати медіафайлу. Якщо вимкнено, Kodi за потреби застосовує тонову схему (і якщо це підтримується вашим обладнанням), щоб адаптувати медіафайл до поточного режиму HDR екрану."
 
 #. Description of setting with label #20226 "Movie set information folder"
 msgctxt "#36300"
 msgid "Select the folder where movie set information (images) are saved locally."
-msgstr ""
+msgstr "Виберіть теку, де локально зберігається інформація про кіноцикл (зображення)."
 
 msgctxt "#36301"
 msgid "No 'Movie set information folder' is configured to store movie set images so they will not be exported. Do you want to proceed?"
-msgstr ""
+msgstr "Не вказана тека з інформацією про кіноцикл, тому зображення кіноциклу не буде експортовано. Продовжити?"
 
 msgctxt "#36302"
 msgid "No info available yet."
@@ -16617,11 +16619,11 @@ msgstr "Налаштування показу фото."
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36305"
 msgid "This category contains the settings for how picture file lists are handled."
-msgstr "Категорія містить налаштування відображення списків файлів зображень."
+msgstr "Налаштування списків файлів зображень."
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr ""
+msgstr "Якщо не використовуються номери каналів із серверу, тоді усі групи каналів починаються з 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -16631,7 +16633,7 @@ msgstr "Автоматично створювати ескізи при відк
 #. Description of setting with label #20472 "Show all performers for music videos"
 msgctxt "#36308"
 msgid "When enabled, shows all performers in the artist list for music videos, not just the main artist"
-msgstr ""
+msgstr "Якщо увімкнено, для музичних відео у списку виконавців відображаються всі виконавці, а не лише головний виконавець"
 
 #. Description of setting with label #22022 "Show video files in listings"
 msgctxt "#36309"
@@ -16646,7 +16648,7 @@ msgstr "Ще немає доступної інформації."
 #. Description of settings category with label #108 "Slideshow"
 msgctxt "#36311"
 msgid "This category contains the settings for how the picture slideshow is handled."
-msgstr "Ця категорія містить налаштування відтворення слайд-шоу."
+msgstr "Налаштування відтворення слайд-шоу."
 
 #. Description of setting with label #12378 "Amount of time to display each image"
 msgctxt "#36312"
@@ -16671,7 +16673,7 @@ msgstr "Налаштування прогнозу погоди."
 #. Description of settings category with label #16000 "General"
 msgctxt "#36316"
 msgid "This category contains the settings for how the weather service is handled."
-msgstr "Ця категорія містить налаштування служби прогнозу погоди."
+msgstr "Налаштування служби прогнозу погоди."
 
 #. Description of settings category with label #0 "Locations"
 msgctxt "#36317"
@@ -16691,7 +16693,7 @@ msgstr "Цей розділ містить налаштування мереже
 #. Description of settings category with label #16000 "General"
 msgctxt "#36320"
 msgid "This category contains the settings used for all services."
-msgstr "Ця категорія містить налаштування, спільні для всіх мережевих служб."
+msgstr "Налаштування всіх служб."
 
 #. Description of setting with label #1271 "Device name"
 msgctxt "#36321"
@@ -16701,7 +16703,7 @@ msgstr "Ім’я, що позначатиме цей пристрій в пош
 #. Description of settings category with label #20187 "UPnP/DLNA"
 msgctxt "#36322"
 msgid "This category contains the settings for how the UPnP service is handled. UPnP is also called DLNA on most consumer electronics."
-msgstr "Ця категорія містить налаштування роботи служби UPnP. В більшості пристроїв побутової електроніки UPnP називають DLNA."
+msgstr "Налаштування роботи служби UPnP. В більшості пристроїв побутової електроніки UPnP називають DLNA."
 
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
@@ -16721,17 +16723,17 @@ msgstr "Ввімкнути клієнт UPnP. Це дозволяє переда
 #. Description of setting with label #21361 "Look for remote UPnP players"
 msgctxt "#36326"
 msgid "Enable the UPnP control point. This allows you to stream media to any UPnP client and control its playback."
-msgstr ""
+msgstr "Увімкнути точку керування UPnP. Це дозволяє транслювати медіафайли на будь-який клієнт UPnP та керувати їх відтворенням."
 
 #. Description of settings category with label #20187 "Control"
 msgctxt "#36327"
 msgid "This category contains the settings for how the web server service and the application control service is handled."
-msgstr "Ця категорія містить налаштування служби веб-серверу і віддаленого керування."
+msgstr "Налаштування служби веб-серверу і віддаленого керування."
 
 #. Description of setting with label #263 "Allow remote control via HTTP"
 msgctxt "#36328"
 msgid "Enable remote users to control this application through the built-in web server. Never expose the web server port to the Internet."
-msgstr ""
+msgstr "Дозволити віддаленим користувачам керувати цим додатком через вбудований веб-сервер. Ніколи не відкривайте доступ до порту веб-сервера з Інтернету."
 
 #. Description of setting with label #730 "Port"
 msgctxt "#36329"
@@ -16741,12 +16743,12 @@ msgstr "Визначте порт веб-серверу."
 #. Description of setting with label #1048 "Username"
 msgctxt "#36330"
 msgid "Define the web server username. Must be set when authentication is enabled."
-msgstr ""
+msgstr "Вкажіть ім'я користувача для веб-сервера. Є обов'язковим, якщо увімкнено автентифікацію."
 
 #. Description of setting with label #1048 "Password"
 msgctxt "#36331"
 msgid "Define the web server password. Must be set when authentication is enabled."
-msgstr ""
+msgstr "Вкажіть пароль користувача для веб-сервера. Є обов'язковим, якщо увімкнено автентифікацію."
 
 #. Description of setting with label #199 "Web interface"
 msgctxt "#36332"
@@ -16756,12 +16758,12 @@ msgstr "Оберіть серед веб-інтерфейсів, встанов�
 #. Description of settings category with label #790 "Remote Control"
 msgctxt "#36333"
 msgid "This category contains the settings for how the remote control service is handled."
-msgstr "Ця категорія містить налаштування роботи служби дистанційного керування."
+msgstr "Налаштування служби віддаленого керування."
 
 #. Description of setting with label #791 "Allow remote control from programs on this system"
 msgctxt "#36334"
 msgid "Allow programs on this device to control this application via the JSON-RPC over WebSocket, JSON-RPC over TCP, or EventServer protocol, without authentication."
-msgstr ""
+msgstr "Дозволити програмам на цьому пристрої керувати Kodi через JSON-RPC поверх WebSocket, JSON-RPC поверх TCP або через протокол EventServer без автентифікації."
 
 #. Description of setting with label #792 "Port"
 msgctxt "#36335"
@@ -16781,7 +16783,7 @@ msgstr "Максимальна кількість клієнтів, що мож�
 #. Description of setting with label #794 "Allow remote control from programs on other systems"
 msgctxt "#36338"
 msgid "Allow programs on the network to control this application via the JSON-RPC over WebSocket, JSON-RPC over TCP, or EventServer protocol, without authentication. It allows anyone with access to the network to completely control this application and, therefore, this device. Never expose these interfaces to the Internet."
-msgstr ""
+msgstr "Дозволити мережевим програмам керувати цією програмою через протокол JSON-RPC поверх WebSocket, JSON-RPC поверх TCP або EventServer без автентифікації. Це дозволяє будь-кому, хто має доступ до мережі, повністю керувати цією програмою, а отже і цим пристроєм. Ніколи не відкривайте доступ до цих інтерфейсів для Інтернету."
 
 #. Description of setting with label #795 "Initial repeat delay (ms)"
 msgctxt "#36339"
@@ -16796,7 +16798,7 @@ msgstr "Затримка неперервного повторення (мс)."
 #. Description of settings category with label #1259 "Zeroconf"
 msgctxt "#36341"
 msgid "This category contains the settings for how the Zeroconf network discovery service is handled, required for AirPlay."
-msgstr "Ця категорія містить налаштування роботи служби мережевого виявлення Zeroconf, необхідно для AirPlay."
+msgstr "Налаштування служби мережевого виявлення Zeroconf, необхідної для AirPlay."
 
 #. Description of setting with label #1260 "Announce services to other systems"
 msgctxt "#36342"
@@ -16821,7 +16823,7 @@ msgstr "Задати пароль AirPlay."
 #. Description of settings category with label #1200 "SMB Client"
 msgctxt "#36346"
 msgid "This category contains the settings for how the SMB client (Samba) service is handled."
-msgstr "Ця категорія містить налаштування роботи клієнта SMB (Samba)."
+msgstr "Налаштування клієнта SMB (Samba)."
 
 #. Description of setting with label #1207 "WINS server"
 msgctxt "#36347"
@@ -16836,7 +16838,7 @@ msgstr "Якщо в мережі присутній сервер WINS, увед�
 #. Description of settings section with label #13000 "System"
 msgctxt "#36349"
 msgid "Section that contains the system related settings for the device this application is installed on."
-msgstr "Ця категорія містить системні налаштування пристрою, на якому встановлено програму."
+msgstr "Системні налаштування пристрою, на якому встановлено Kodi."
 
 #. Description of setting with label #13026 "Try to wake remote servers on access"
 msgctxt "#36350"
@@ -16861,7 +16863,7 @@ msgstr "Зміна частоти оновлення при відображен
 #. Description of setting with label #14083 "Use fullscreen window"
 msgctxt "#36354"
 msgid "If enabled, fullscreen mode will be applied by using a window instead of a real fullscreen mode. The main benefit is for multi-screen configurations, so that other applications can be used in parallel more easily. This uses more resources so playback may be less smooth."
-msgstr ""
+msgstr "Якщо увімкнено, повноекранний режим буде реалізовано з використанням вікна замість справжнього повноекранного режиму. Добре підходить для багатоекранних конфігурацій, що спрощує паралельно роботу з іншими програмами. Для цього потрібно більше ресурсів, тому відтворення може бути менш плавним."
 
 #. Description of setting with label #13130 "Blank other displays"
 msgctxt "#36355"
@@ -16871,7 +16873,7 @@ msgstr "При наявності кількох дисплеїв, диспле�
 #. Description of settings category with label #1201 "NFS Client"
 msgctxt "#36356"
 msgid "This category contains the settings for how the NFS client is handled."
-msgstr ""
+msgstr "Налаштування NFS-клієнта."
 
 #. Description of setting with label #214 "Video calibration..."
 msgctxt "#36357"
@@ -16880,7 +16882,7 @@ msgstr "Калібрування інтерфейсу для налаштува�
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr ""
+msgstr "Дозволити використовувати нумерацію каналів з кількох серверів. Зверніть увагу, що якщо цей параметр увімкнено, група 'Всі канали' може містити кілька каналів з однаковими номерами. Це означає, що в цій групі перехід до каналу за номером може працювати неправильно."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -16890,7 +16892,7 @@ msgstr "Використовувати обмежений діапазон ко�
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
 msgid "This category contains the settings for how audio output is handled."
-msgstr "Ця категорія містить налаштування виведення звуку."
+msgstr "Налаштування виведення звуку."
 
 #. Description of setting with label #337 "Output configuration"
 msgctxt "#36361"
@@ -16928,7 +16930,7 @@ msgstr "Виберіть максимальну кількість аудіок�
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr ""
+msgstr "Виберіть, щоб дозволити пряме передавання на відтворення стиснутого аудіо, такого як Dolby Digital (AC3), DTS тощо. Клієнт AudioEngine, наприклад Videoplayer, за певних умов може вирішити декодувати аудіопотік. У випадку з Videoplayer пряме передавання не використовуватиметься для прямих трансляцій і режимі синхронізації відтворення з екраном."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -16958,7 +16960,7 @@ msgstr "Налаштуйте, як оброблюються звуки інте�
 #. Description of settings category with label #15087 "Input"
 msgctxt "#36374"
 msgid "This category contains the settings for how input devices are handled."
-msgstr "Ця категорія містить налаштування пристроїв введення."
+msgstr "Налаштування пристроїв введення."
 
 #. Description of setting with label #35000 "Peripherals"
 msgctxt "#36375"
@@ -16978,12 +16980,12 @@ msgstr "Керування інтерфейсом за допомогою миш
 #. Description of setting with label #35100 "Enable controller support"
 msgctxt "#36378"
 msgid "Use a game controller to control the interface."
-msgstr ""
+msgstr "Використовувати ігровий контролер для керування інтерфейсом."
 
 #. Description of settings category with label #798 Internet access
 msgctxt "#36379"
 msgid "This category contains the settings for how Internet access is handled. The default web interface can also be selected here."
-msgstr "Ця категорія містить налаштування доступу до Інтернету. Також тут можна вибрати веб-інтерфейс за замовчуванням."
+msgstr "Налаштування доступу до Інтернету. Також тут можна вибрати веб-інтерфейс за замовчуванням."
 
 #. Description of setting with label #708 "Use proxy server"
 msgctxt "#36380"
@@ -17023,7 +17025,7 @@ msgstr "Якщо швидкість вашого підключення до І�
 #. Description of settings category with label #14095 "Power saving"
 msgctxt "#36387"
 msgid "This category contains the settings for power saving."
-msgstr "Ця категорія містить налаштування енергозбереження."
+msgstr "Налаштування енергозбереження."
 
 #. Description of setting with label #1450 "Put display to sleep when idle"
 msgctxt "#36388"
@@ -17043,7 +17045,7 @@ msgstr "Вибрати дію при спливанні часу таймеру 
 #. Description of settings category with label #14092 "Logging"
 msgctxt "#36391"
 msgid "This category contains the settings for enabling event and debug logging. You can also enable component-specific debug logging in order to help troubleshoot related issues in more detail."
-msgstr "Ця категорія містить налаштування ведення журналу подій та налагодження. Також ви можете увімкнути журнали налагодження окремих компонентів, щоб бачити більш детальну інформацію для усунення пов’язаних з ними проблем."
+msgstr "Налаштування журналу подій та налагодження. Також можна увімкнути журнали налагодження для окремих компонентів, що може допомогти аналізувати пов’язані з ними проблеми."
 
 #. Description of setting with label #20191 "Enable debug logging"
 msgctxt "#36392"
@@ -17063,12 +17065,12 @@ msgstr "Включати до журналу докладні повідомле
 #. Description of settings category with label #12360 "Master lock"
 msgctxt "#36395"
 msgid "This category contains the settings for how the master lock function is handled."
-msgstr "Ця категорія містить налаштування загального блокування."
+msgstr "Налаштування загального блокування."
 
 #. Description of setting with label #20100 "Master lock code and settings"
 msgctxt "#36396"
 msgid "Here you can enable or disable master lock and define the PIN code used to unlock it. You can also specify which areas of the application would need a PIN to access them."
-msgstr ""
+msgstr "Тут можна увімкнути та вимкнути глобальне блокування та встановити PIN-код для розблокування. Також можна вказати частини додатку, які будуть блокуватись PIN-кодом."
 
 #. Description of setting with label #20076 "Ask for master lock code on startup"
 msgctxt "#36397"
@@ -17083,7 +17085,7 @@ msgstr "Встановити максимальну кількість спро�
 #. Description of settings category with label #439 "Cache"
 msgctxt "#36399"
 msgid "This category contains the settings for how the cache function is handled."
-msgstr "Ця категорія містить налаштування функції кешу."
+msgstr "Налаштування функцій кешу."
 
 #. Description of settings category with label #14025 "Video/Audio/DVD cache - Hard disk"
 msgctxt "#36400"
@@ -17191,16 +17193,16 @@ msgstr "Вимкнення VDPAU зменшує використання рес�
 
 msgctxt "#36422"
 msgid "Update official add-ons from"
-msgstr ""
+msgstr "Оновити офіційні додатки з"
 
 #. Description of setting with label #36422 "Update official add-ons from"
 msgctxt "#36423"
 msgid "By default, add-ons from official repositories will be prevented from being auto-updated from private repositories. For cases such as updating from an add-ons beta repository this option can be switched to [Any repositories] (bear in mind this is a less secure option and enabling it could cause incompatibility and crashes)."
-msgstr ""
+msgstr "За замовчуванням додатки з офіційних репозиторіїв не будуть автоматично оновлюватись з приватних репозиторіїв. Для таких випадків, як, наприклад, оновлення з репозиторію бета-версій додатків, для цього параметру можна вибрати [Будь-які репозиторії] (майте на увазі, що це трохи небезпечно, і його увімкнення може призвести до несумісності та збоїв)."
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item. [\"Smart select\"] The action is choosen dynamically, depending on whether the event is in the past, now or in the future."
-msgstr ""
+msgstr "Виберіть дію, яка відбуватиметься після вибору елемента в телепрограмі: [Показати контекстне меню] активує контекстне меню, з якого можна вибрати подальші дії; [Переключитися на канал] виконує перехід на відповідний канал; [Показати відомості] показує детальну інформацію з сюжетом та іншими даними; [Записати] створює таймер запису для вибраного елемента. [\"Розумний вибір\"] дія вибирається динамічно, залежно від того, коли відбувається подія: в минулому, зараз чи в майбутньому."
 
 msgctxt "#36425"
 msgid "Show context menu"
@@ -17231,7 +17233,7 @@ msgstr "Налаштування прискорення обробки віде�
 #. Description of setting with label #13438 "Show event log"
 msgctxt "#36431"
 msgid "Shows all events in the event log for the current profile with options to only show specific levels."
-msgstr ""
+msgstr "Показує всі події в журналі подій для поточного профілю з можливістю відфільтрувати тільки певні рівні."
 
 #. Description for setting #310: "Virtual keyboard layouts"
 #. Setting in Interface -> Regional -> Virtual keyboard layouts
@@ -17243,15 +17245,15 @@ msgstr "Вибрати розкладки екранної клавіатури.
 #. Description for video related setting #13457: "vaapi sw filter"
 msgctxt "#36433"
 msgid "When enabled, VAAPI render method is preferred and the CPU has less load. If you experience hangs, disable this option."
-msgstr ""
+msgstr "Якщо увімкнено, перевага віддається рендерингу VAAPI, а навантаження на процесор зменшується. Якщо спостерігаються зависання, вимкніть цей параметр."
 
 msgctxt "#36434"
 msgid "If enabled, switch to the channel with the programme to remind when auto-closing the reminder popup."
-msgstr ""
+msgstr "Якщо увімкнено, після автоматичного закриття вікна нагадування перемикатись на канал з передачею з нагадуванням."
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr ""
+msgstr "Сортувати групи каналів за порядком, вказаним на сервері(ах). Якщо увімкнено, порядок груп не можна буде змінювати у менеджері груп"
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -17259,22 +17261,22 @@ msgstr ""
 #. Select the layout of a physically attached keyboard
 msgctxt "#36436"
 msgid "Select hardware keyboard layout."
-msgstr ""
+msgstr "Вибріть розкладку апаратної клавіатури."
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36437"
 msgid "Official repositories only (default)"
-msgstr ""
+msgstr "Тільки офіційні репозиторії (стандартно)"
 
 #. Option for setting "System -> Add-ons -> Update official add-ons from"
 msgctxt "#36438"
 msgid "Any repositories"
-msgstr ""
+msgstr "Будь-які репозиторії"
 
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr ""
+msgstr "Вмикає автоматичне відтворення наступної програми під час відтворення останніх програм (навздогін) або для каналів відео по запиту (VOD). Зверніть увагу, що навздогін та VOD працюють тільки, якщо це підтримується постачальником каналу."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17284,28 +17286,28 @@ msgstr "Встановити кількість кроків керування 
 #. Description of setting with label #14126 "Whitelist"
 msgctxt "#36443"
 msgid "Whitelisted modes give the user the control to choose which display modes are allowed or not allowed to be used"
-msgstr ""
+msgstr "В режимах білого списку можна вибирати різні режими відображення"
 
 #. Description of setting with label #14127 "Whitelist"
 msgctxt "#36444"
 msgid "Select this option to allow using 3:2 pulldown refresh rates (playing 23.976 FPS video on a 59.94 Hz monitor or playing 24 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 23.976 Hz or 24 Hz mode."
-msgstr ""
+msgstr "Цей параметр дозволяє використовувати частоти оновлення 3:2 (відтворення відео з частотою 23,976 кадр/с на моніторі з частотою 59,94 Гц або відтворення відео з частотою 24 кадр/с на моніторі 60 Гц). Це може стати у нагоді, якщо у вашого монітору немає режимів 23,976 Гц або 24 Гц."
 
 #. Description of setting with label #14128 "Whitelist"
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
-msgstr ""
+msgstr "Цей параметр дозволяє використовувати подвійні частоти оновлення (відтворення відео з частотою 29,97 кадр/с на моніторі з частотою 59,94 Гц або відтворення відео з частотою 30 кадр/с на моніторі 60 Гц). Це може стати у нагоді, якщо у вашого монітору немає режимів 29,97 Гц або 30 Гц."
 
 # empty strings from id 36446 to 36459
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
 msgid "Event logging allows to keep track of what has happened."
-msgstr ""
+msgstr "Журнал подій допомагає аналізувати проблеми в разі їх виникнення."
 
 #. Description of settings with label #14113 "Enable notification event logging"
 msgctxt "#36461"
 msgid "Notification event describe regular processes and actions performed by the system or the user."
-msgstr ""
+msgstr "В подіях сповіщень описуються процеси та дії, що виконуються системою або користувачем."
 
 #. label of a setting for the stereoscopic 3D mode of the GUI that is/should be applied
 msgctxt "#36500"
@@ -17365,7 +17367,7 @@ msgstr "Анаглиф жовтий / синій"
 #. name of a stereoscopic mode
 msgctxt "#36511"
 msgid "Checkerboard"
-msgstr ""
+msgstr "Шашкова дошка"
 
 #. Name of a setting, asking the user for the default playback mode (2D, 3D, ask) of stereoscopic videos
 msgctxt "#36520"
@@ -17381,7 +17383,7 @@ msgstr "Запитувати"
 #. Description of setting with label #458 "Limit sampling rate (kHz)"
 msgctxt "#36523"
 msgid "Maximum sampling rate for S/PDIF or sampling rate for fixed output configuration."
-msgstr ""
+msgstr "Максимальна частота дискретизації для S/PDIF або частота дискретизації для конфігурації фіксованого виводу."
 
 #. label for a setting to choose the preferred (playback) mode and the name of a selectable playback option
 msgctxt "#36524"
@@ -17421,7 +17423,7 @@ msgstr "Так само, як фільм"
 #. Description of setting with label #346 "Normalize levels on downmix"
 msgctxt "#36533"
 msgid "Select how audio is downmixed, e.g. from 5.1 to 2.0.[CR][Enabled] Maintains volume level of the original audio source however the dynamic range is compressed.[CR][Disabled] Maintains the dynamic range of the original audio source when downmixed however volume will be lower. Note: Dynamic range is the difference between the quietest and loudest sounds in an audio source. Enable this setting if movie dialogues are barely audible."
-msgstr ""
+msgstr "Виберіть спосіб мікшування аудіосигналу, наприклад, з 5.1 до 2.0.[CR][Увімкнено] зберігає рівень гучності оригінального джерела звуку, але динамічний діапазон стискається.[CR][Вимкнено] зберігає динамічний діапазон оригінального джерела звуку під час мікшування, але гучність буде нижчою. Примітка: динамічний діапазон — це різниця між найтихішим і найгучнішим звуками в джерелі аудіосигналу. Вмикайте цей параметр, якщо діалоги у фільмі ледь чутні."
 
 #. Description of setting with label #668 "Component-specific logging..."
 msgctxt "#36534"
@@ -17436,17 +17438,17 @@ msgstr "Стереоскопічний (3D) режим відео"
 #. label of a toggle option that allows to invert the stereoscopic 3d mode
 msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
-msgstr ""
+msgstr "Інвертувати стереоскопічний 3D-режим (перевернуті очі)"
 
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
-msgstr ""
+msgstr "Виберіть режим, в якому відтворюватимуться стереоскопічні 3D-відео.[CR][Запитувати] відкриватиме діалогове вікно для вибору потрібного режиму для кожного відтворення.[CR][Бажаний режим] використовуватиметься бажаний режим, зазначений у розділі налаштувань 'Система -> Відеообладнання'.[CR][Моноскопічний / 2D] відтворюватиме відео в монорежимі або 2D.[CR][Ігнорувати] вимикає будь-яку обробку та керування стереоскопічним 3D."
 
 #. Description of setting with label #36526 Disable stereoscopic mode when playback is stopped
 msgctxt "#36538"
 msgid "[Enabled] Switch GUI (and some TVs) back to 2D mode, between videos in a playlist or when playback ended.[CR][Disabled] GUI and TV will stay in stereoscopic 3D mode. For video playlists with mixed stereoscopic 3D and 2D content, then the GUI will also stay in stereoscopic 3D mode even when a non-stereoscopic 2D video is playing."
-msgstr ""
+msgstr "[Увімкнено] перемикає графічний інтерфейс (і деякі телевізори) назад у 2D-режим між відеофайлами у списку відтворення або після завершення відтворення.[CR][Вимкнено] графічний інтерфейс та телевізор залишатимуться у стереоскопічному 3D-режимі. Для списків відтворення зі змішаними стереоскопічними 3D та 2D-відеофайлами графічний інтерфейс також залишатиметься у стереоскопічному 3D-режимі, навіть коли відтворюється нестереоскопічне 2D-відео."
 
 #. Description of setting with label #36500 "Stereoscopic mode (current)"
 msgctxt "#36539"
@@ -17480,7 +17482,7 @@ msgstr "Налаштування візуальної глибини субти�
 #. Description of setting with label #36097 "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36547"
 msgid "Sets the peak luminance level for GUI elements while the display is in HDR PQ mode. This affects all OSD, subtitles and graphics that are SDR in origin."
-msgstr ""
+msgstr "Встановлює піковий рівень яскравості для елементів графічного інтерфейсу, коли екран знаходиться в режимі HDR PQ. Це впливає на екранне меню, субтитри та графіку, які первісно мають формат SDR."
 
 #. Description of setting with label #37021 "Set GUI resolution limit"
 msgctxt "#36548"
@@ -17490,7 +17492,7 @@ msgstr "Обмежувати роздільну здатність інтерф�
 #. Description of setting with label #1268 "iOS 8 compatibility mode"
 msgctxt "#36549"
 msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
-msgstr ""
+msgstr "Дозволяє отримувати відео та фотографії через AirPlay. Для клієнтів iOS 9 і новіших версій цю функцію треба вимкнути, аби відновити потокову передачу музики через AirPlay. Відео та фотографії підтримуються лише для клієнтів iOS 8.x та старіших версій."
 
 #. Name of a setting
 msgctxt "#36550"
@@ -17500,42 +17502,42 @@ msgstr "Сила стереоскопічного 3D ефекту"
 #. Description of setting with label #36550 "Stereoscopic 3D effect strength"
 msgctxt "#36551"
 msgid "Defines the strength of the stereoscopic 3D effect in the GUI. This is done by controlling the depth of perception within the GUI, so the higher the value, the more elements will pop out of the screen. [Zero] Disables the stereoscopic 3D effect of the GUI.[CR]For a good visual experience, the value should be higher for small screens and lower for large screens. Note: this is not supported by all skins."
-msgstr ""
+msgstr "Визначає силу стереоскопічного 3D-ефекту в графічному інтерфейсі. Це досягається шляхом контролю глибини сприйняття в графічному інтерфейсі. Тому чим вище значення, тим більше елементи виступатимуть з екрану. [Нуль] вимикає стереоскопічний 3D-ефект для графічного інтерфейсу. [CR]Для гарного візуального сприйняття значення має бути вищим для малих екранів і нижчим для великих. Примітка: це підтримується не всіма обкладинками."
 
 #. Description of setting "System -> Video output -> NoOfBuffers" with label #36043
 msgctxt "#36552"
 msgid "Defines the number of presentation buffers used by the graphics driver. Select 2 if the driver uses double buffering or 3 for triple buffering."
-msgstr ""
+msgstr "Визначає кількість буферів представлення для використання графічним драйвером. Для подвійної буферизації в драйвері виберіть 2, а для потрійної — 3."
 
 #. label of a setting, allowing to specify tonemap method
 msgctxt "#36553"
 msgid "Tone mapping"
-msgstr ""
+msgstr "Тональне відображення"
 
 #. label of a setting, tone mapping method
 msgctxt "#36554"
 msgid "off"
-msgstr ""
+msgstr "вимк."
 
 #. label of a setting, tone mapping method
 msgctxt "#36555"
 msgid "Reinhard"
-msgstr ""
+msgstr "Reinhard"
 
 #. label of a setting, allowing to specify tone mapping parameter
 msgctxt "#36556"
 msgid "Tone mapping parameter"
-msgstr ""
+msgstr "Варіанти тонального відображення"
 
 #. label of a setting, tone mapping method
 msgctxt "#36557"
 msgid "ACES Filmic"
-msgstr ""
+msgstr "ACES Filmic"
 
 #. label of a setting, tone mapping method
 msgctxt "#36558"
 msgid "Hable"
-msgstr ""
+msgstr "Hable"
 
 msgctxt "#36560"
 msgid "Colour management"
@@ -17544,7 +17546,7 @@ msgstr "Керування кольором"
 #. Description of setting "System -> Video output -> Colour management" with label #36560
 msgctxt "#36561"
 msgid "Reproduce video colours accurately using a display profile or a 3D lookup table."
-msgstr ""
+msgstr "Точне відтворення кольорів відео з використанням профілю екрана або тривимірної таблиці пошуку."
 
 msgctxt "#36562"
 msgid "Colour management mode"
@@ -17553,25 +17555,25 @@ msgstr "Режим керування кольором"
 #. Description of setting "System -> Video output -> Colour management mode" with label #36562
 msgctxt "#36563"
 msgid "Use a precalculated 3D lookup table for video colour correction, or calculate the transformation for each video from a profile of your display. A precalculated 3D lookup table is preferred as it allows you to take advantage of the advanced features and high precision in ArgyllCMS. Display profile based correction is useful for testing different parameters, or emulating display settings that you don't have a 3D LUT prepared for."
-msgstr ""
+msgstr "Застосування попередньо розрахованої тривимірної таблиці пошуку (3D-LUT) для корекції кольорів відео або розрахунок перетворення для кожного відео на основі профілю вашого екрану. Перевага віддається попередньо розрахованій 3D-таблиці пошуку, оскільки вона забезпечує розширені функції та високу точність в ArgyllCMS. Корекція на основі профілю екрану підходить для тестування різних параметрів або емуляції налаштувань екрану, для яких немає підготовленої 3D-LUT."
 
 msgctxt "#36564"
 msgid "3D LUT"
-msgstr ""
+msgstr "3D LUT"
 
 #. Description of setting "System -> Video output -> 3D LUT" with label #36564
 msgctxt "#36565"
 msgid "Select the 3DLUT file to be used by default. If you place multiple 3DLUT files in the same directory, then you can switch between them in the OSD menu during video playback. This allows for multiple display profiles to account for different viewing environments and source materials, for example gamma 2.2 for daytime viewing and 2.4 for nighttime."
-msgstr ""
+msgstr "Виберіть файл 3DLUT для використання за замовчуванням. Якщо каталозі буде кілька файлів 3DLUT , між ними можна буде перемикатись в екранному меню під час відтворення відео. Таким чином можна використовувати кілька профілів екрану для різних умов перегляду та вихідних матеріалів, наприклад, гамма 2,2 для денного перегляду і 2,4 для нічного."
 
 msgctxt "#36566"
 msgid "ICC display profile"
-msgstr "Профіль дисплею ICC"
+msgstr "Профіль ICC екрану"
 
 #. Description of setting "System -> Video output -> ICC display profile" with label #36566
 msgctxt "#36567"
 msgid "By providing a display profile, you can modify video parameters such as gamma, color primaries and whitepoint during playback. An ICC source profile is created based on the parameters and linked with the display ICC profile set here. This support is experimental and lacks near black adjustment towards display native black (causing raised black level) and white level scaling when a different whitepoint from display native is selected (as a workaround, adjust video brightness down to avoid clipping)."
-msgstr ""
+msgstr "За допомогою профілю екрану під час відтворення можна змінювати такі параметри відео як гама, основні кольори та біла точка. На основі параметрів буде створено вихідний профіль ICC, котрий потім буде пов'язано зі встановленим тут профілем ICC екрану. Ця підтримка є експериментальною і в ній немає коригування майже чорного кольору в бік рідного чорного кольору екрану (це призводить до підвищення рівня чорного), а також немає коригування рівня білого, коли вибрано білу точку екрану, відмінну від рідної, (в якості тимчасового рішення можна зменшити яскравість відео, щоб уникнути кліпінгу)."
 
 msgctxt "#36568"
 msgid "Whitepoint"
@@ -17580,7 +17582,7 @@ msgstr "Точка білого"
 #. Description of setting "System -> Video output -> Whitepoint" with label #36568
 msgctxt "#36569"
 msgid "Changing video whitepoint to D93 is mainly useful for older Japanese NTSC material which looks too red when played back on a D65 display. Adjust video brightness setting down to avoid clipping to display native whitepoint."
-msgstr ""
+msgstr "Зміна точки білого у відеофайлі на D93 має сенс для старих японських відеозаписів NTSC, які виглядають занадто червоними під час відтворення на екранах D65. Зменште яскравість відео, щоб уникнути кліпінгу для відображення рідної точки білого."
 
 msgctxt "#36570"
 msgid "Primaries"
@@ -17589,39 +17591,39 @@ msgstr "Основні"
 #. Description of setting "System -> Video output -> Primaries" with label #36570
 msgctxt "#36571"
 msgid "Select the primary color coordinates according to source material. Older HD material may have been mastered on displays with BT.601 primaries."
-msgstr ""
+msgstr "Виберіть координати основних кольорів відповідно до вихідного матеріалу. Старий HD-матеріал міг бути оброблений на екранах з основними кольорами BT.601."
 
 msgctxt "#36572"
 msgid "Gamma mode"
-msgstr "Режим гама"
+msgstr "Режим гамми"
 
 #. Description of setting "System -> Video output -> Gamma mode" with label #36572
 msgctxt "#36573"
 msgid "Select the gamma curve formula. Use BT.1886 for gamma curve that accounts for display black and white levels and avoids perceptual clipping. Use input offset for a similar curve with a manually specified effective gamma. Output offset allows for perceptual clipping, but can be used to compensate for incorrect mastering monitor settings that lead to too bright dark details. Absolute gamma does not account for display black at all and will clip the lowest levels to display black on any display with higher than zero black level."
-msgstr ""
+msgstr "Вибір формули гамма-кривої. BT.1886 враховує рівні чорного та білого кольорів екрану та уникає перцептивного кліппінгу. Вхідне зміщення використовується для подібної кривої з вручну заданою ефективною гаммою. Вихідне зміщення допускає перцептивний кліппінг, але з його допомогою можна компенсувати неправильні налаштування мастерингу екрану, які призводять до занадто яскравих темних деталей. Абсолютна гамма взагалі не враховує чорний колір екрану та відсікатиме найнижчі рівні, щоб показувати чорний колір на будь-якому екрані з рівнем чорного вищим за нуль."
 
 msgctxt "#36574"
 msgid "Gamma"
-msgstr "Гама"
+msgstr "Гамма"
 
 #. Description of setting "System -> Video output -> Gamma" with label #36574
 msgctxt "#36575"
 msgid "Gamma for selected gamma curve type. For input and output offset, the result at 50% will match an absolute gamma curve with this gamma value."
-msgstr ""
+msgstr "Гамма для вибраного типу гамма-кривої. Для вхідного та вихідного зміщення результат на рівні 50% відповідатиме абсолютній гамма-кривій з цим значенням гамми."
 
 msgctxt "#36576"
 msgid "Lookup table size"
-msgstr ""
+msgstr "Розмір таблиці пошуку"
 
 #. Description of setting "System -> Video output -> Lookup table size" with label #36576
 msgctxt "#36577"
 msgid "Specify the resolution for the 3D lookup table. Use a lower resolution for quick preview and higher resolution for more accurate picture. Using a high resolution may take seconds to prepare when parameters are changed or a new video is started."
-msgstr ""
+msgstr "Роздільна здатність для 3D-таблиці пошуку. Нижча роздільна здатність дає швидкий попередній перегляд, а вища — більш точне зображення. Для високої роздільної здатності підготовка після зміни параметрів або початку нового відео може зайняти кілька секунд."
 
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr ""
+msgstr "Покращує якість відео завдяки використанню 10-бітних відеоповерхонь для відео зі стандартним динамічним діапазоном (SDR).[CR][Автовизначення] вмикає 10-бітну глибину для SDR, тільки якщо підключений екран підтримує HDR.[CR][Завжди] вмикає 10-бітну глибину для SDR, навіть якщо підключений екран не підтримує HDR.[CR][Ніколи] не використовує 10-бітну глибину для SDR.[CR]В режимі прямої передачі HDR цей параметр ігнорується і завжди використовується 10-бітна глибина."
 
 #. primaries labels
 msgctxt "#36579"
@@ -17636,7 +17638,7 @@ msgstr "Файл 3D LUT"
 #. Dialog title for ICC display profile file picker
 msgctxt "#36581"
 msgid "ICC Profile"
-msgstr "ICC профіль"
+msgstr "ICC-профіль"
 
 #. gamma type labels
 msgctxt "#36582"
@@ -17645,11 +17647,11 @@ msgstr "BT.1886"
 
 msgctxt "#36583"
 msgid "Input offset"
-msgstr "Зміщенна вводу"
+msgstr "Вхідне зміщення"
 
 msgctxt "#36584"
 msgid "Output offset"
-msgstr "Зміщення виводу"
+msgstr "Вихідне зміщення"
 
 msgctxt "#36585"
 msgid "Absolute"
@@ -17709,12 +17711,12 @@ msgstr "{0:1.2f}"
 #. Description of setting with label #36099 "Dither"
 msgctxt "#36598"
 msgid "Eliminate banding caused by RGB level conversion or other processing by adding a small amount of noise to the picture. This can be disabled for slower systems, or when Kodi is set to limited range RGB output and no video processing is needed."
-msgstr ""
+msgstr "Прибирає смуги, спричинені перетворенням рівнів RGB або іншою обробкою шляхом додавання до зображення трохи шуму. Це можна вимкнути для більш повільних систем або якщо в Kodi увімкнено обмежений діапазон виводу RGB і обробка відео не потрібна."
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr ""
+msgstr "Точність виводу згладжування відео в бітах. Найвище значення прибирає смуги. Для більшості систем рекомендується стандартне значення — 8. Якщо графічний процесор налаштовано на масштабування вихідних рівнів RGB або використовується екран ноутбука, значення 7 або 6 біт може прибрати більшість смуг. Більш низькі значення використовуються здебільшого для тестування, щоб можна було легко побачити, чи застосовується згладжування, і чи розмір пікселя шуму згладжування відповідає роздільній здатності дисплея."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -17724,7 +17726,7 @@ msgstr "Налаштування музичної медіатеки."
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
 msgid "This category contains the settings for how music file lists are handled."
-msgstr "Налаштування показу списків музичних файлів."
+msgstr "Налаштування списків музичних файлів."
 
 #. Description of settings category with label #1273 "AirPlay"
 msgctxt "#36602"
@@ -17734,7 +17736,7 @@ msgstr "Налаштування служби AirPlay."
 #. Description of settings category with label #14220 Display
 msgctxt "#36603"
 msgid "This category contains the settings for displays."
-msgstr ""
+msgstr "Налаштування екрану."
 
 msgctxt "#36605"
 msgid "Updates"
@@ -17762,27 +17764,27 @@ msgstr "Показати сповіщення"
 #. Description of settings category "Add-ons"
 msgctxt "#36610"
 msgid "This category contains settings for the add-on system."
-msgstr ""
+msgstr "Налаштування системи додатків."
 
 #. Description of setting with label #36605 "Updates"
 msgctxt "#36611"
 msgid "Change how auto updating of add-ons are handled."
-msgstr ""
+msgstr "Тут можна налаштувати автоматичне оновлення додатків."
 
 #. Description of setting with label #36609 "Show notifications"
 msgctxt "#36612"
 msgid "Show notification when an add-on have been updated."
-msgstr ""
+msgstr "Показувати сповіщення після оновлення додатка."
 
 #. Description of setting with label #24996 "Manage dependencies"
 msgctxt "#36613"
 msgid "Manage modules and support libraries that have been automatically installed as a dependency to other add-ons. Items listed as \"Orphaned\" are no longer required by any add-ons and are safe to uninstall."
-msgstr ""
+msgstr "Керування додатковими модулями та бібліотеками, які були автоматично встановлені як залежності для інших додатків. Елементи, позначені як осиротілі, більше не потрібні для будь-яких додатків і їх можна безпечно видалити."
 
 #. Description of setting with label #24994 "Running"
 msgctxt "#36614"
 msgid "Show add-ons that are currently running in the background."
-msgstr ""
+msgstr "Показує поточні фонові додатки."
 
 #. Label of a setting or option referring to the source/origin of e.g. add-ons.
 msgctxt "#36615"
@@ -17792,27 +17794,27 @@ msgstr "Невідомі джерела"
 #. Description of setting with label #36615 "Unknown sources"
 msgctxt "#36616"
 msgid "Allow installation of add-ons from unknown sources."
-msgstr ""
+msgstr "Дозволити встановлювати додатки з невідомих джерел."
 
 #. Text in warning dialog when attempting to install add-ons from zip file.
 msgctxt "#36617"
 msgid "For security, installation of add-ons from unknown sources is disabled."
-msgstr ""
+msgstr "З міркувань безпеки встановлення додатків з невідомих джерел заборонено."
 
 #. Text in confirm dialog when enabling setting "System -> Add-ons -> Unknown sources"
 msgctxt "#36618"
 msgid "Add-ons will be given access to personal data stored on this device. By allowing, you agree that you are solely responsible for any loss of data, unwanted behaviour, or damage to your device. Proceed?"
-msgstr ""
+msgstr "Додаткам буде надано доступ до персональних даних, що зберігаються на цьому пристрої. Дозволяючи це, ви погоджуєтесь з тим, що несете повну відповідальність за будь -яку втрату даних, небажану поведінку або пошкодження вашого пристрою. Продовжити?"
 
 #. Label of a setting, allow the user to specify high quality downscaling of pictures
 msgctxt "#36619"
 msgid "High quality downscaling"
-msgstr ""
+msgstr "Високоякісне зменшення масштабу"
 
 #. Description of setting "Pictures -> Slideshow -> High Quality Downscaling" with label #36619
 msgctxt "#36620"
 msgid "Enable high quality downscaling of pictures (uses more memory and has moderate performance impact)."
-msgstr ""
+msgstr "Вмикає зменшення масштабу високої якості для зображень (використовує більше пам'яті та має помірний вплив на продуктивність)."
 
 #. Label of a setting, allow the maximum smbclient protocol to be configured
 msgctxt "#36621"
@@ -17822,7 +17824,7 @@ msgstr "Максимальна версія протоколу"
 #. Description of setting with label #36621 "Maximum protocol version"
 msgctxt "#36622"
 msgid "Set the maximum SMB protocol version to negotiate when making connections. Forcing SMBv2 or SMBv1 compatibility may be required with older NAS and Windows shares."
-msgstr ""
+msgstr "Вкажіть максимальну версію протоколу SMB для встановлення з'єднань. Для деяких старих NAS та Windows може знадобитись примусово увімкнути SMBV2 або SMBV1."
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version" - none means "no protocol version is forced"
 msgctxt "#36623"
@@ -17857,7 +17859,7 @@ msgstr "Мінімальна версія протоколу"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Вкажіть мінімальну версію протоколу SMB для встановлення з'єднання. У деяких системах щоб заблокувати SMBV1, може знадобитись примусово увімкнути SMBV2. Великий MTU (блоки даних більше 64 КБ) підтримується тільки в SMBV2.1 та SMBV3."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17897,7 +17899,7 @@ msgstr "Перш ніж увімкнути автентифікацію на в�
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 та великий MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -18034,12 +18036,12 @@ msgstr "(Коментар режисера 2)"
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "моно"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "стерео"
 
 msgctxt "#37014"
 msgid "Last used profile"
@@ -18104,7 +18106,7 @@ msgstr "Спеціальні[CR]можливості"
 #. Description of category #287 Subtitles
 msgctxt "#37033"
 msgid "This category contains the settings for subtitles"
-msgstr "У цій категорії містяться налаштування субтитрів"
+msgstr "Налаштування субтитрів"
 
 #. Setting #37034 Accessibility
 msgctxt "#37034"
@@ -18202,160 +18204,160 @@ msgstr "Версію протоколу NFS використовувати пр�
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "Розмір блоку даних"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "Розмір блоку даних для NFS"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "Розмір блоку даних, що використовується у з'єднаннях через NFS"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "Розмір блоку даних для SMB"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "Розмір блоку даних, що використовується у з'єднаннях через SMB"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "Кешування"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "Налаштування кешування локальних і мережевих файлів, а також інтернет-потоків."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "Режим буфера"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "Налаштування буферизації медіаконтенту."
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "Об'єм пам'яті"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "Розмір буфера пам'яті в мегабайтах. Якщо вказати нуль (0), буфер одразу буде скидатись на диск, що не рекомендується для флеш-пристроїв (eMMC, SD-карти, SSD)."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "Коефіцієнт читання"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "Визначає швидкість заповнення кешу за формулою 'середній бітрейт потоку X коефіцієнт читання'. Чим більше це значення, тим швидше заповнюється кеш. Великі значення коефіцієнту на деяких пристроях можуть призвести до пікових навантажень на процесор, забивання каналу зв'язку та зниження продуктивності.[CR][Адаптивний] використовує динамічно обчислюваний коефіцієнт читання на основі рівня заповнення кешу."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "Розмір блоку даних, котрий використовується, коли для файлової системи або протоколу не вказано примусове значення, наприклад NFS замінить це на своє значення."
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "Без буфера"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "Буферизувати тільки справжні Інтернет-потоки: HTTP, HTTPS тощо."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "Буферизувати усі файлові системи Інтернету, включаючи FTP, WebDav тощо."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "Буферизувати усі мережеві файлові системи, включаючи SMB, NFS тощо."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "Буферизувати усі файлові системи, включаючи локальні файли"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Кешує на диск увесь файл"
 
 #. Value of setting #37107 "Read Factor"
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr ""
+msgstr "Адаптивний"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} байт"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} КБ"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} МБ"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} ГБ"
 
 # empty strings from id 37124 to 37127
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} секунда"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} секунд"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Час черги аудіо/відео"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Тривалість у секундах черг аудіо/відео. Цей час визначає об'єм даних, що зберігається в пам'яті."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Максимальний розмір черги відео"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Обмежує максимальне використання пам'яті для черги відео. Об'єм задіяної пам’яті залежить від бітрейту відео та довжини черги. В разі досягнення обмеження пам'яті час черги буде скорочено відповідним чином."
 
 # empty strings from id 37047 to 38010
 #. Setting #38011 "Show All Items entry"
@@ -18502,7 +18504,7 @@ msgstr "Всі ролі"
 #. Question when forced rescan of music tags needed after upgrade from previous version of Kodi
 msgctxt "#38060"
 msgid "Music library needs to rescan tags from files. Would you like to scan now?"
-msgstr "Потрібне повторне сканування тегів музичних файлів. ВІдсканувати?"
+msgstr "Для музичної медіатеки потрібно повторно зчитати теги з музичних файлів. Просканувати зараз?"
 
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
@@ -18517,17 +18519,17 @@ msgstr "Чи виконувати повне сканування тегів, н
 #. Item in selection list #38338. Settings will change the default addon used to fetch artist or album information, related to #20195, #20193 and #20194
 msgctxt "#38063"
 msgid "Set default information provider"
-msgstr "Встановлення постачальника інформації за замовчуванням"
+msgstr "Встановлення постачальника відомостей за замовчуванням"
 
 #. Item in selection list #38338 to change the information provider for a specific artist, related to #20195
 msgctxt "#38064"
 msgid "Set for this artist"
-msgstr "Застосувати для цього виконавця"
+msgstr "Встановити для цього виконавця"
 
 #. Item in selection list #38338 to change the information provider for all artists in node, related to #20195
 msgctxt "#38065"
 msgid "Set for all artists shown"
-msgstr "Застосувати для усіх показаних виконавців"
+msgstr "Встановити для всіх показаних виконавців"
 
 #. Item in selection list #38338 to change the information provider for a specific album, related to #20195
 msgctxt "#38066"
@@ -18542,32 +18544,32 @@ msgstr "Встановити для всіх показаних альбомів
 #. Dialog message asking for confirmation of change the information provider for all artists shown in node, after #38065
 msgctxt "#38068"
 msgid "Use this information provider for all the artists shown here?"
-msgstr "Чи використовувати ви цього постачальника інформації для всіх артистів, представлених тут?"
+msgstr "Використовувати цього постачальника відомостей для всіх представлених тут виконавців?"
 
 #. Dialog message asking for confirmation of change the information provider for all albums shown in node, after #38067
 msgctxt "#38069"
 msgid "Use this information provider for all the albums shown here?"
-msgstr "Використовувати цього постачальника інформації для всіх представлених тут альбомів?"
+msgstr "Використовувати цього постачальника відомостей для всіх представлених тут альбомів?"
 
 #. Dialog message asking for confirmation of change to the default artist information provider, after #38063
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr "Використовувати цього постачальника інформації для всіх виконавців, видаливши всі попередні налаштування для конкретних виконавців?"
+msgstr "Використовувати цього постачальника відомостей для всіх виконавців, видаливши всі попередні налаштування для конкретних виконавців?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 msgctxt "#38071"
 msgid "Use this information provider for all albums, clearing any previous settings for specific albums?"
-msgstr "Використовувати цього постачальника інформації для всіх альбомів, видаливши всі попередні налаштування для конкретних альбомів?"
+msgstr "Використовувати цього постачальника відомостей для всіх альбомів, видаливши всі попередні налаштування для конкретних альбомів?"
 
 #. Dialog message asking for confirmation to get additional info for all the artists or albums in the node immediately
 msgctxt "#38072"
 msgid "Do you want to refresh information for all these items now?"
-msgstr "Хочете оновити інформацію по всіх цих елементів зараз?"
+msgstr "Оновити зараз відомості для всіх цих елементів?"
 
 #. Dialog message asking for confirmation to get additional info for the current artist or album immediately
 msgctxt "#38073"
 msgid "Do you want to refresh information for this item now?"
-msgstr "Ви хочете оновити інформацію для цього елементу зараз?"
+msgstr "Оновити зараз відомості для цього елементу?"
 
 msgctxt "#38074"
 msgid "Boxsets"
@@ -18575,120 +18577,120 @@ msgstr "Комплекти"
 
 msgctxt "#38075"
 msgid "* All discs"
-msgstr ""
+msgstr "* Усі диски"
 
 msgctxt "#38076"
 msgid "Disc title"
-msgstr ""
+msgstr "Заголовок диску"
 
 msgctxt "#38077"
 msgid "Total discs"
-msgstr ""
+msgstr "Всього дисків"
 
 msgctxt "#38078"
 msgid "Original year"
-msgstr ""
+msgstr "Оригінальний рік"
 
 msgctxt "#38079"
 msgid "Original date"
-msgstr ""
+msgstr "Оригінальна дата"
 
 #. Music property - Beats Per Minute
 msgctxt "#38080"
 msgid "BPM"
-msgstr ""
+msgstr "BPM"
 
 #. Music property - Album release status
 msgctxt "#38081"
 msgid "Release status"
-msgstr ""
+msgstr "Статус випуску"
 
 #. Displayed in a toast notification when music items are added to a playlist
 msgctxt "#38082"
 msgid "Added to end of playlist"
-msgstr ""
+msgstr "Додано в кінець списку відтворення"
 
 #. Displayed in a toast notification when music items are added to a playlist to play next
 msgctxt "#38083"
 msgid "Added to playlist to play next"
-msgstr ""
+msgstr "Додано в список для відтворення наступним"
 
 # empty strings from id 38082 to 38099
 # strings 38082 to 38099 reserved for music library
 #. Description of section #14200 "Player""
 msgctxt "#38100"
 msgid "Section that contains the settings for the playback of media"
-msgstr ""
+msgstr "Налаштування для відтворення медіа"
 
 #. Description of section #14201 "Media"
 msgctxt "#38101"
 msgid "Section that contains the settings for sources and how media information is collected, stored, shown and navigated"
-msgstr ""
+msgstr "Налаштування для джерел та способу збору, зберігання, показу медіафайлів і навігації по них"
 
 #. Description of section #14203 "Customise"
 msgctxt "#38102"
 msgid "Section that contains the settings influencing the GUI experience and for controlling the GUI/system"
-msgstr ""
+msgstr "Налаштування, що впливають на графічний інтерфейс та для управління ним і системою"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38103"
 msgid "This category contains the settings for the playback of videos"
-msgstr ""
+msgstr "Налаштування відтворення відео."
 
 #. Description of category #14211 "Music"
 msgctxt "#38104"
 msgid "This category contains the settings for the playback of music"
-msgstr ""
+msgstr "Налаштування відтворення музики."
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38105"
 msgid "This category contains the settings for playback of pictures via a slideshow"
-msgstr ""
+msgstr "Налаштування показу слайд-шоу з фотографій."
 
 #. Description of category #14213 "Language"
 msgctxt "#38106"
 msgid "This category contains the settings for audio / subtitles language and accessibility"
-msgstr ""
+msgstr "Налаштування мови для аудіо і субтитрів, а також спеціальних можливостей."
 
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr ""
+msgstr "Налаштування збору, зберігання, показу відомостей про відео і навігації по ним."
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr ""
+msgstr "Налаштування збору, зберігання, показу відомостей про музичні файли і навігації по ним"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr ""
+msgstr "Налаштування показу фотографій і навігації по ним"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
 msgid "This category contains the settings for the library databases"
-msgstr ""
+msgstr "Налаштування баз даних медіатеки"
 
 #. Description of category #14224 "Other"
 msgctxt "#38111"
 msgid "This category contains other settings for the GUI interface"
-msgstr ""
+msgstr "Інші налаштування графічного інтерфейсу"
 
 #. Description of setting with label #12381 "Switch to visualisation on playback"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
-msgstr ""
+msgstr "Автоматично переходити до вікна візуалізації, коли починається відтворення аудіо"
 
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Додаткові налаштування відтворення відео"
 
 # empty strings from id 38113 to 38189
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
-msgstr ""
+msgstr "Витягувати ескізи з відеофайлів"
 
 #. Description of setting "Pictures -> Show EXIF picture information" with label #38207
 msgctxt "#38207"
@@ -18703,13 +18705,13 @@ msgstr "Показ відомостей EXIF (дата, час, використ
 #. Contextmenu entry to remove the resume point of the currently selected item
 msgctxt "#38209"
 msgid "Reset resume position"
-msgstr ""
+msgstr "Скинути позицію для продовження"
 
 # empty strings from id 38210 to 38299
 #. Dialog header for settings for how to export specific music library data
 msgctxt "#38300"
 msgid "Export Music Library"
-msgstr ""
+msgstr "Експорт музичної медіатеки"
 
 #. Kind of export output, see #38304
 msgctxt "#38301"
@@ -18719,69 +18721,69 @@ msgstr "Одним файлом"
 #. Kind of export output, see #38304
 msgctxt "#38302"
 msgid "Separate files for each item"
-msgstr ""
+msgstr "Окремі файли для кожного елемента"
 
 #. Kind of export output, see #38304
 msgctxt "#38303"
 msgid "To library folders"
-msgstr ""
+msgstr "В теки медіатек"
 
 #. Selection of export to a single file, many separate files or the library folder(s)
 msgctxt "#38304"
 msgid "Choose kind of export output"
-msgstr ""
+msgstr "Вкажіть формат експорту"
 
 #. Folder path for export output file or files
 msgctxt "#38305"
 msgid "Destination folder"
-msgstr ""
+msgstr "Тека призначення"
 
 #. Section of music items to export - albums, album artists, song artists etc.
 msgctxt "#38306"
 msgid "Items to export"
-msgstr ""
+msgstr "Елементи для експорту"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr ""
+msgstr "Включити картинки, такі як ескізи та фанарт"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
-msgstr ""
+msgstr "Включити елементи, які не були отримані через екстрактори (для створення шаблонів NFO-файлів)"
 
 msgctxt "#38309"
 msgid "Output information to NFO files"
-msgstr ""
+msgstr "Експорт інформації в NFO-файли"
 
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr ""
+msgstr "Експорт інформації в NFO-файли (наразі експортуються тільки теки виконавців)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
-msgstr ""
+msgstr "Перезаписувати наявні файли"
 
 #. Music item to export output, see #38306
 msgctxt "#38312"
 msgid "Song artists"
-msgstr ""
+msgstr "Виконавці пісень"
 
 #. Music item to export output, see #38306
 msgctxt "#38313"
 msgid "Other artists"
-msgstr ""
+msgstr "Інші виконавці"
 
 # empty strings from id 38314 to 38316
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr ""
+msgstr "Не вдається експортувати в теки медіатеки, оскільки в налаштуваннях системи не вказано теку відомостей про виконавців"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
 msgid "Unable to export data as the destination folder does not exist"
-msgstr ""
+msgstr "Не вдається експортувати дані, оскільки тека призначення не існує"
 
 #. Button text to start export
 msgctxt "#38319"
@@ -18791,151 +18793,151 @@ msgstr "Експорт"
 #. Message when adding music source and setting #20223 is empty
 msgctxt "#38320"
 msgid "Do you have local artist information (NFO) and art files that you want to fetch? Set the location of these artist folders now"
-msgstr ""
+msgstr "Чи є у вас локальна інформація про виконавців (NFO-файл) та файли обкладинок для завантаження? Вкажіть зараз розташування цих тек виконавців"
 
 #. Kind of export output, see #38304
 msgctxt "#38321"
 msgid "Artist folders only"
-msgstr ""
+msgstr "Тільки теки виконавців"
 
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr ""
+msgstr "Виконавців було експортовано до теки відомостей про виконавців, а альбоми — у теки з музикою"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 msgctxt "#38323"
 msgid "Albums exported to music folders"
-msgstr ""
+msgstr "Альбоми було експортовано у теки з музикою"
 
 #. Explanation of what export to library folders means see #38303 when only artists selected
 msgctxt "#38324"
 msgid "Artists exported to Artist Information Folder"
-msgstr ""
+msgstr "Виконавців було експортовано до теки відомостей про виконавців"
 
 #. Explanation of what export artist folders only means see #38304
 msgctxt "#38325"
 msgid "Artist subfolders created in Artist Information Folder"
-msgstr ""
+msgstr "В теці відомостей про виконавців було створено вкладені теки для виконавців"
 
 # empty strings from id 38326 to 38329
 #. Dialog heading when editing default settings for fetching additional music information
 msgctxt "#38330"
 msgid "Set Music Information Providers"
-msgstr ""
+msgstr "Налаштування постачальників відомостей про музику"
 
 #. Dialog heading when editing album information provider
 msgctxt "#38331"
 msgid "Set Album Information Provider"
-msgstr ""
+msgstr "Налаштування постачальників відомостей про альбоми"
 
 #. Dialog heading when editing artist information provider
 msgctxt "#38332"
 msgid "Set Artist Information Provider"
-msgstr ""
+msgstr "Налаштування постачальників відомостей про виконавців"
 
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
 msgid "Fetch additional information and art during scan"
-msgstr ""
+msgstr "Отримувати додаткові відомості та обкладинки під час сканування"
 
 #. Scraper to use for additional album information. See #20193
 msgctxt "#38334"
 msgid "Album information provider"
-msgstr ""
+msgstr "Постачальник відомостей про альбоми"
 
 #. Scraper to use for additional artist information. See #20194
 msgctxt "#38335"
 msgid "Artist information provider"
-msgstr ""
+msgstr "Постачальник відомостей про виконавців"
 
 #. Location of folder where local art and nfo files can be found for artists. See #20223
 msgctxt "#38336"
 msgid "Local artist information folder"
-msgstr ""
+msgstr "Локальна тека відомостей про виконавців"
 
 #. Group header describing the settings
 msgctxt "#38337"
 msgid "Options for fetching additional information"
-msgstr ""
+msgstr "Параметри отримання додаткових відомостей"
 
 #. Selecting what items the settings will be used for, selecting from #38064 to 38067
 msgctxt "#38338"
 msgid "Choose how to apply settings"
-msgstr ""
+msgstr "Вкажіть, як застосовувати налаштування"
 
 #. Heading when selecting from list for #38338
 msgctxt "#38339"
 msgid "How to apply information provider settings"
-msgstr ""
+msgstr "Як застосовувати налаштування постачальника відомостей"
 
 # empty strings from id 38340 to 38349
 #. Progress statement when importing music library is processing song playback history data
 msgctxt "#38350"
 msgid "Importing song playback history"
-msgstr ""
+msgstr "Імпорт історії відтворення пісень"
 
 #. Progress statement when importing music library - data matching phase
 msgctxt "#38351"
 msgid "Matching data"
-msgstr ""
+msgstr "Зіставлення даних"
 
 #. Progress statement when importing music library - song history being updated
 msgctxt "#38352"
 msgid "Updating songs"
-msgstr ""
+msgstr "Оновлення пісень"
 
 #. Notification of import success "Importing song history - <number of songs matched> updated out of <total songs in xml> imported songs"
 msgctxt "#38353"
 msgid "Importing song history - {0:d} updated out of {0:d} imported songs"
-msgstr ""
+msgstr "Імпорт історії пісень — оновлено {0:d} з {0:d} імпортованих пісень"
 
 #. Message when reading the user specified XML for import to library fails
 msgctxt "#38354"
 msgid "Unable to read xml file"
-msgstr ""
+msgstr "Не вдається прочитати XML-файл"
 
 # empty strings from id 38355 to 39003
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
 msgid "This category provides access to the windows for source management and library management facilities"
-msgstr ""
+msgstr "Доступ до вікон для керування медіатеками та джерелами"
 
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"
 msgid "This provides access to where video sources can be added and otherwise managed."
-msgstr ""
+msgstr "Додавання джерел відеофайлів та керування ними."
 
 #. Description of setting "Music... with label #14243
 msgctxt "#39006"
 msgid "This provides access to where music sources can be added and otherwise managed."
-msgstr ""
+msgstr "Додавання джерел музичних файлів та керування ними."
 
 #. Description of setting "Pictures... with label #14244
 msgctxt "#39007"
 msgid "This provides access to where picture sources can be added and otherwise managed."
-msgstr ""
+msgstr "Додавання джерел фотографій та керування ними."
 
 msgctxt "#39008"
 msgid "Zoom - 120% width"
-msgstr ""
+msgstr "Збільшення – 120% по ширині"
 
 msgctxt "#39009"
 msgid "Zoom - 110% width"
-msgstr ""
+msgstr "Збільшення – 110% по ширині"
 
 msgctxt "#39010"
 msgid "Select sort method"
-msgstr ""
+msgstr "Вибрати метод сортування"
 
 msgctxt "#39011"
 msgid "Maximum wait time for network"
-msgstr ""
+msgstr "Максимальний час очікування мережі"
 
 #. Description of setting with label #39011 "Maximum wait time for network"
 msgctxt "#39012"
 msgid "Set the maximum time to wait for the network to come up after starting or waking up. When time has passed before network is up startup will continue."
-msgstr ""
+msgstr "Встановіть максимальний час очікування підключення до мережі після запуску або прокидання. Якщо за цей час мережа не підніметься, запуск продовжиться."
 
 msgctxt "#39013"
 msgid "Virtual filesystems"
@@ -18944,24 +18946,24 @@ msgstr "Віртуальні файлові системи"
 #. Message of a dialog, asking if related data of an add-on should also be removed on uninstall
 msgctxt "#39014"
 msgid "Would you also like to remove all related data (e.g. settings) of this add-on?"
-msgstr ""
+msgstr "Видалити також всі пов'язані дані (наприклад, налаштування) цього додатку?"
 
 msgctxt "#39015"
 msgid "Image decoder"
-msgstr ""
+msgstr "Декодер зображень"
 
 msgctxt "#39016"
 msgid "Resume audiobook"
-msgstr ""
+msgstr "Продовжити аудіокнигу"
 
 #. Description of setting with label #21358 "Share my libraries"
 msgctxt "#39017"
 msgid "Enables UPnP. This allows you to stream media in your libraries to a UPnP client and to detect remote UPnP servers."
-msgstr ""
+msgstr "Вмикає UPnP. Це дозволяє транслювати медіафайли з медіатек на UPnP-клієнт, а також виявляти віддалені UPnP-сервери."
 
 msgctxt "#39018"
 msgid "optional"
-msgstr ""
+msgstr "необов'язково"
 
 msgctxt "#39019"
 msgid "installed"
@@ -18969,7 +18971,7 @@ msgstr "Встановлено"
 
 msgctxt "#39020"
 msgid "The following additional add-ons will be installed"
-msgstr ""
+msgstr "Будуть встановлені наступні допоміжні додатки"
 
 msgctxt "#39021"
 msgid "Proceed with installation?"
@@ -18995,22 +18997,22 @@ msgstr "Стать"
 #. Brief comment to distinguish artists with the same name e.g "former bassist with Journey"
 msgctxt "#39026"
 msgid "Disambiguation"
-msgstr ""
+msgstr "Усунення розбіжностей"
 
 #. Sort name of artist (e.g. Jackson, Michael)
 msgctxt "#39027"
 msgid "Sortname"
-msgstr ""
+msgstr "Прізвище"
 
 #. Text for yes/no dialog when silently uninstalling an add-on
 msgctxt "#39028"
 msgid "Add-on: {0:s}[CR]Origin: {1:s}[CR]Version: {2:s}[CR]- will be uninstalled and replaced. Would you like to proceed?"
-msgstr ""
+msgstr "Додаток: {0:s}[CR]Джерело: {1:s}[CR]Версія: {2:s}[CR]– буде видалено та замінено. Продовжити?"
 
 #. Text for yes/no dialog to indicate that an add-on was manually installed
 msgctxt "#39029"
 msgid "Manually installed"
-msgstr ""
+msgstr "Встановлено вручну"
 
 #. Media source, a filter and smart playlist rule option
 msgctxt "#39030"
@@ -19030,19 +19032,19 @@ msgstr "Виконати при запуску"
 #. Startup action option label
 msgctxt "#39101"
 msgid "Play TV"
-msgstr ""
+msgstr "Відтворити ТБ"
 
 msgctxt "#39102"
 msgid "Play Radio"
-msgstr ""
+msgstr "Відтворити радіо"
 
 msgctxt "#39103"
 msgid "Unable to configure network location. Invalid path given."
-msgstr ""
+msgstr "Не вдається налаштувати місцезнаходження мережі. Вказано недійсний шлях."
 
 msgctxt "#39104"
 msgid "View as text"
-msgstr ""
+msgstr "Переглянути як текст"
 
 #. audio/video/subtitle flag - FLAG_DEFAULT
 msgctxt "#39105"
@@ -19081,12 +19083,12 @@ msgstr "оригінал"
 #. Used for a setting which allows centre channel (voice/speech) volume to be adjusted when downmixing.
 msgctxt "#39112"
 msgid "Downmix: Center Mix Level"
-msgstr ""
+msgstr "Змішування: гучність центрального каналу"
 
 #. Help text for 39112
 msgctxt "#39113"
 msgid "Center Mix Level in dB relative to metadata or default (-3 dB)"
-msgstr ""
+msgstr "Гучність центрального каналу в дБ відносно до метаданих або за замовчуванням (-3 дБ)"
 
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39114"
@@ -19106,30 +19108,30 @@ msgstr "Сюжет серії"
 #. Label for component level debug logging setting
 msgctxt "#39117"
 msgid "Verbose logging for the [B]Announcer[/B] component"
-msgstr ""
+msgstr "Детальний журнал для компонента [b]Диктор[/b]"
 
 #. Label for action to present native iOS sharing sheet
 msgctxt "#39118"
 msgid "Share debug log"
-msgstr ""
+msgstr "Надіслати журнал налагодження"
 
 msgctxt "#39119"
 msgid "Last modified"
-msgstr ""
+msgstr "Остання зміна"
 
 msgctxt "#39120"
 msgid "Skip filename matching for external audio tracks"
-msgstr ""
+msgstr "Не перевіряти відповідність імен файлів для зовнішніх аудіодоріжок"
 
 #. Label for section of settings controling what is shown on the library windows
 msgctxt "#39121"
 msgid "Library Display and Navigation"
-msgstr ""
+msgstr "Показ медіатеки та навігація по ній"
 
 #. Label for section of settings controling how library is populated
 msgctxt "#39122"
 msgid "Library Information Sources"
-msgstr ""
+msgstr "Джерела відомостей для медіатеки"
 
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
@@ -19139,147 +19141,137 @@ msgstr "Картинки"
 #. Label for component level debug logging setting
 msgctxt "#39124"
 msgid "Verbose logging for the [B]Add-ons[/B] component"
-msgstr ""
+msgstr "Детальний журнал для компонента [B]Додатки[/B]"
 
 # empty string with id 39124
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
-msgstr ""
+msgstr "Увімкнути читання тегів в режимі перегляду файлів"
 
 # empty string with id 39126
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
-msgstr ""
+msgstr "Використовувати в якості обкладинок локальні файли зображень"
 
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr ""
+msgstr "Під час сканування медіатеки усі файли зображень, розташовані поруч із медіафайлами, використовуються в якості обкладинок. Тип обкладинки визначається з імені файлу."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
-msgstr ""
+msgstr "Використовувати віддалені обкладинки, отримані екстракторами"
 
 #. Description of setting with label #39129 "Use all remote artwork fetched by scrapers"
 msgctxt "#39130"
 msgid "Use the first of each art type of the remote artwork in scraper results to fill any missing art not populated with local art."
-msgstr ""
+msgstr "Використовувати перше зображення в результатах екстрактора для кожного з типів віддалених обкладинок, щоб заповнити відсутні обкладинки, які не було отримано з локальних файлів."
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок виконавців"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Обмежує обкладинки виконавців, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок альбомів"
 
 #. Description of setting with label #39133 "Album art types whitelist"
 msgctxt "#39134"
 msgid "Limit the album artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Обмежує обкладинки альбомів, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
-msgstr ""
+msgstr "Файли ескізів зображень"
 
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr ""
+msgstr "Назви файлів з первинними обкладинками (ескізами), котрі, як правило, мають квадратну форму та використовуються як в повному, так і в зменшеному розмірі, щоб візуально визначити теку, виконавця, альбом чи пісню"
 
 msgctxt "#39137"
 msgid "Artwork level"
-msgstr ""
+msgstr "Кількість ескізів"
 
 #. Description of setting with label #39137 "Artwork level"
 msgctxt "#39138"
 msgid "The amount of artwork automatically selected - [Maximum] all local images and remote art; [Basic] save space on limited devices or when using a simple skin; [Custom] configured by user for detailed control; [None] no art"
-msgstr ""
+msgstr "Кількість автоматично обраних ескізів. [Максимум] всі локальні зображення та віддалені обкладинки; [Основні] заощаджує місце на обмежених пристроях або при використанні простої обкладинки Kodi; [Власні] налаштовується користувачем для більш детального контролю; [Немає] без ескізів"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
 msgid "Maximum"
-msgstr "Максимальна"
+msgstr "Максимум"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39141"
 msgid "Basic"
-msgstr "Базовий"
+msgstr "Основні"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39142"
 msgid "Custom"
-msgstr "Додатково"
+msgstr "Власні"
 
 msgctxt "#39143"
 msgid "Movie art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок для фільмів"
 
 #. Description of setting with label #39150 "Movie art types whitelist"
 msgctxt "#39144"
 msgid "Limit the movie and movie set artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Обмежує обкладинки фільмів та кіноциклів, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок для серіалів"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Обмежує обкладинки серіалів і сезонів, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок для епізодів"
 
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Обмежує обкладинки епізодів, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
-msgstr ""
+msgstr "Білий список типів обкладинок для музичних відео"
 
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
-
-#. Display Hardware scaling filter setting toggle
-msgctxt "#39151"
-msgid "Display hardware scaling filter"
-msgstr ""
-
-#. Description
-msgctxt "#39152"
-msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr ""
+msgstr "Обмежує обкладинки музичних відео, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39153"
 msgid "Windowing system:"
-msgstr ""
+msgstr "Віконна система:"
 
 #. Override subtitles styles setting list
 msgctxt "#39154"
 msgid "Override subtitles styles"
-msgstr ""
+msgstr "Перевизначити стилі субтитрів"
 
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr ""
+msgstr "Деякі формати субтитрів, наприклад SSA, ASS, WebVTT, можуть містити метадані, такі як стиль шрифту, кольори, розмір, вирівнювання, розміщення тощо. Ці стилі можна перевизначити своїми налаштуваннями (зверніть увагу, що в деяких випадках можуть виникнути побічні ефекти)."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
 msgid "Positions"
-msgstr ""
+msgstr "Розташування"
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39157"
@@ -19289,256 +19281,256 @@ msgstr "Стилі"
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39158"
 msgid "Styles and positions"
-msgstr ""
+msgstr "Стилі і розташування"
 
 #. Subtitle border size setting toggle
 msgctxt "#39159"
 msgid "Border size"
-msgstr ""
+msgstr "Розмір рамки"
 
 #. Subtitle border colour setting
 msgctxt "#39160"
 msgid "Border colour"
-msgstr "Колір рамки субтитрів"
+msgstr "Колір рамки"
 
 #. CC Subtitles text alignment setting list
 msgctxt "#39161"
 msgid "Text alignment"
-msgstr ""
+msgstr "Вирівнювання тексту"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39162"
 msgid "Left"
-msgstr ""
+msgstr "По лівому краю"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39163"
 msgid "Center"
-msgstr ""
+msgstr "По центру"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39164"
 msgid "Right"
-msgstr ""
+msgstr "По правому краю"
 
 #. Type of background for displaying the subtitles
 msgctxt "#39165"
 msgid "Background type"
-msgstr ""
+msgstr "Тип тла"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39166"
 msgid "Shadow"
-msgstr ""
+msgstr "Тіні"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39167"
 msgid "Box"
-msgstr ""
+msgstr "Рамка"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39168"
 msgid "Square box"
-msgstr ""
+msgstr "Квадратна рамка"
 
 #. Description of setting with label #39166 "Background type"
 msgctxt "#39169"
 msgid "Type of background to apply to subtitles."
-msgstr ""
+msgstr "Тип тла субтитрів."
 
 #. Subtitle shadow size setting
 msgctxt "#39170"
 msgid "Shadow size"
-msgstr ""
+msgstr "Розмір тіні"
 
 #. Subtitle shadow colour setting
 msgctxt "#39171"
 msgid "Shadow colour"
-msgstr ""
+msgstr "Цвіт тіні"
 
 #. Subtitle shadow opacity setting
 msgctxt "#39172"
 msgid "Shadow opacity"
-msgstr ""
+msgstr "Прозорість тіні"
 
 #. Subtitle blur setting
 msgctxt "#39173"
 msgid "Blur"
-msgstr "Блюр"
+msgstr "Розмиття"
 
 #. SystemInfo string for the display's supported HDR types
 msgctxt "#39174"
 msgid "Display supported HDR types"
-msgstr ""
+msgstr "Підтримувані типи HDR"
 
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
 msgid "Building font cache in progress - please wait"
-msgstr ""
+msgstr "Будується кеш шрифтів. Зачекайте"
 
 #. Helper text for gui sound volume setting
 msgctxt "#39176"
 msgid "Relative volume for gui sounds"
-msgstr ""
+msgstr "Відносна гучність звуків інтерфейсу"
 
 #. Dialog caption related to the speech to text process
 msgctxt "#39177"
 msgid "Speech to text"
-msgstr ""
+msgstr "Перетворення мови на текст"
 
 #. Dialog text to notify that the speech service is not available
 msgctxt "#39178"
 msgid "Speech recognition service not available"
-msgstr ""
+msgstr "Служба розпізнавання мовлення недоступна"
 
 #. Dialog text to notify that microphone is listening
 msgctxt "#39179"
 msgid "Listening..."
-msgstr ""
+msgstr "Слухання..."
 
 #. Dialog text to notify that there has been no matching recognition result
 msgctxt "#39180"
 msgid "No recognition result matched"
-msgstr ""
+msgstr "Немає збігу з результатом розпізнавання"
 
 #. Dialog text to notify that there has been a speech recognition error
 msgctxt "#39181"
 msgid "Speech recognition error"
-msgstr ""
+msgstr "Помилка розпізнавання мовлення"
 
 #. Subtitle vertical margin setting
 msgctxt "#39182"
 msgid "Vertical margin"
-msgstr ""
+msgstr "Вертикальне поле"
 
 #. Help text for setting "Vertical margin" of label #39182
 msgctxt "#39183"
 msgid "Allows you to add a margin in top and bottom aligned text. Changing this setting will affect also subtitle position set with the Video calibration."
-msgstr ""
+msgstr "Додає поле у вирівняному зверху та знизу тексті. Зміна цього налаштування також вплине на положення субтитрів, встановлене під час калібрування відео."
 
 #. Window screen calibration: the current subtitle calibration value with vertical margin
 msgctxt "#39184"
 msgid "Current value: {0:d} (with vertical margin: {1:d})"
-msgstr ""
+msgstr "Поточне значення: {0:d} (з вертикальним полем: {1:d})"
 
 #. Dialog text to notify that there are insufficient permissions for speech recognition
 msgctxt "#39185"
 msgid "Insufficient permissions for speech recognition"
-msgstr ""
+msgstr "Недостатньо прав доступу для розпізнавання мовлення"
 
 #. Title of group menu subtitles
 msgctxt "#39186"
 msgid "Styles for text based subtitles"
-msgstr ""
+msgstr "Стилі для текстових субтитрів"
 
 #. Title of group menu subtitles
 msgctxt "#39187"
 msgid "Closed caption subtitles"
-msgstr ""
+msgstr "Приховані субтитри"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39188"
 msgid "No background"
-msgstr ""
+msgstr "Без тла"
 
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr ""
+msgstr "Доступно лише для розташування субтитрів вручну"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr ""
+msgstr "[Увімкнено] яскравість графічного інтерфейсу в режимі HDR відповідає налаштуванням системи. Це впливає на всі екранні меню, субтитри та графіку, які первісно мають формат SDR.[CR][Вимкнено] вкажіть максимальну яскравість вручну."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
 msgid "HDR"
-msgstr ""
+msgstr "HDR"
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "Вимкнути заставку під час відтворення музики"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "Під час відтворення музики заставка не буде вмикатись"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Вмикає розширений апскейлер DXVA з використанням технології NVIDIA \"RTX Video Super Resolution\" або \"Intel Video Super Resolution\".[CR]Використовується, коли джерело відео має роздільну здатність 2560x1440 або менше і роздільна здатність джерела нижча роздільної здатності екрану.[CR]Доступно тільки на певному обладнанні: Nvidia RTX та Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Увімкніть цей параметр, щоб отримати найкращу якість зображення. Якщо вимкнути, це зменшить навантаження на систему."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "Режим сумісності з Dolby Vision"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "Якщо увімкнено, профіль 7 Dolby Vision буде перетворено на профіль 8.1, який краще підтримується різними пристроями. Також це можна увімкнути, якщо ваш пристрій підтримує Dolby Vision, але має проблеми з деякими відео."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Дозволені формати динамічних метаданих HDR"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "Змінює відеопотік, видаляючи з нього динамічні метадані HDR. Виберіть формати HDR, які підтримуються ваш пристроєм та екраном."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Відстань між рядками"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Налаштування відстані між рядками тексту. Занадто мале значення може привести до накладання блоків тексту друг на друга, коли використовується налаштування 'Тип тла'."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Встановити приховані субтитри тільки для людей з вадами слуху"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Якщо увімкнено, приховані субтитри будуть позначені як для людей з вадами слуху. Це вплине на автоматичний вибір субтитрів, які за замовчуванням не будуть показуватись, якщо не вказано інше."
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "Приховані субтитри"
 
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Використовувати декодер Starfish"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish — це апаратний декодер відео для WebOS від LG. Його можна вимкнути в разі тестування або для усунення несправностей."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19549,12 +19541,12 @@ msgstr "Версії"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "Керування версіями"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "Додати як версію до..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19564,122 +19556,122 @@ msgstr "Версія"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Виберіть тип"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "Операція не підтримується"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "Вибраний фільм має кілька версій, що не дозволяє перетворити його в версію іншого фільму. Видаліть версії з фільму, перескануйте медіатеку та перетворіть їх окремо."
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "Версія \"{0:s}\" все існує!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "Знайдено іншу версію фільму"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "Знайдено іншу версію фільму \"{0:s}\":{1:s}. Перетворити її у додаткову версію оригіналу?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "версія відео"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "версії відео"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "Версія відео"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "Версії відео"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "Додати версію"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "Додати додатково"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Вибране відео вже є версією \"{0:s}\" фільму."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Вибране відео є версією \"{0:s}\" фільму \"{1:s}\". Перенести версію до цього фільму?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "Видалити відео версію"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Стандартну версію фільму неможливо видалити. Встановіть іншу стандартну версію і спробуйте ще раз."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "Дійсно видалити версію \"{0:s}\"?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Дійсно видалити з медіатеки \"{0:s}\" та всі його версії?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "Керування {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
 msgid "Set as default"
-msgstr ""
+msgstr "Встановити як стандартну"
 
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Менеджер версій: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Менеджер додаткових матеріалів: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "Вибране відео вже є додатковим матеріалом \"{0:s}\" для фільму."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "Вибране відео є додатковим матеріалом \"{0:s}\" для фільму \"{1:s}\". Перемістити додатковий матеріал до цього фільму?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19689,83 +19681,83 @@ msgstr "Огляд файлів"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "Перегляд медіатеки"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "Виберіть фільм, щоб додати його як версію"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "Інших фільмів у медіатеці не знайдено."
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "Подібних фільмів у медіатеці не знайдено."
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Стандартна версія фільму з декількома версіями не може бути додана як додатковий матеріал до іншого фільму. Спочатку перемістіть або видаліть інші версії."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Ви збираєтеся перетворити додатковий матеріал фільму у версію фільму. Ви впевнені?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Ви збираєтеся перетворити версію фільму у додатковий матеріал фільму. Ви впевнені?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "Фільм, що додається, має кілька версій.[CR]В наступному діалоговому вікні буде вибрано тип для стандартної версії. Типи інших версії остануться без змін.[CR]Продовжити?"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Стандартну версію фільму з декількома версіями не можна додати до іншого фільму. Спочатку перемістіть або видаліть інші версії."
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Видалити додатковий відеоматеріал"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Дійсно видалити додатковий матеріал \"{0:s}\"?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ігнорувати різні версії відео під час сканування"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "Виберіть дію сканера для різних версій відео.[CR][Увімкнено] додавати різні відео версії до медіатеки окремо і без підтвердження.[CR][Вимкнено] запитувати про перетворення різних версій відео на додаткові версії оригіналу."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "Ігнорувати додаткові відеоматеріали під час сканування"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "Виберіть дію сканера для додаткових відеоматеріалів у теці 'Додаткові матеріали'.[CR][Увімкнено] сканує додаткові відеоматеріали, як звичайні відео.[CR][Вимкнено] додає додаткові відеоматеріали до медіатеки для пов'язаного відео."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Ресурси"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19775,174 +19767,182 @@ msgstr "Версії"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "Додаткові матеріали"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Синхронізувати рівень гучності на віддалених UPnP-програвачах"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "Якщо увімкнено, рівень гучності на віддаленому програвачі буде синхронізований з гучністю цієї програми.[CR]Попередження: глобальний рівень гучності системи може відрізнятися від рівня гучності програми — вони змінюються незалежно.[CR]Це може призвести до того, що на віддаленому програвачі буде встановлено 100% гучності як і у програмі, що теж має 100% гучності, але загальний рівень гучність системи буде меншим."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Виберіть тип версії"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Новий тип..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Новий тип версії"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Виберіть назву для додаткового матеріалу"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Нова назва..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "Назва нового додаткового матеріалу"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Стандартне видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Розширене видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Видання без цензури"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Необрізана версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Реставрована версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Театральна версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Режисерська версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Спеціальне видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Обмежене видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Повне видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Остаточна версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Супер-пупер версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Колекційне видання"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Колекційне видання Ultimate"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Колекційне видання Criterion"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Фанатська версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Чорно-біла версія"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 10-ї річниці"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 20-ї річниці"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 25-ї річниці"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 30-ї річниці"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 40-ї річниці"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "Видання до 50-ї річниці"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Підтвердить видалення файлу"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Якщо увімкнено, для видалення файлів буде відкриватись діалогове вікно з підтвердженням. Якщо вимкнено, файли будуть видалятись без підтвердження."
+
+#~ msgctxt "#16298"
+#~ msgid "Shows the game's pixels without any modifications."
+#~ msgstr "Показати ігрові пікселі без будь-яких змін."
+
+#~ msgctxt "#16299"
+#~ msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
+#~ msgstr "Згладжування зазубрених країв шляхом вирівнювання яскравості сусідніх пікселів."
 
 #~ msgctxt "#12015"
 #~ msgid "Select video version"

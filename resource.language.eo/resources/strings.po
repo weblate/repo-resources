@@ -7911,16 +7911,6 @@ msgctxt "#16297"
 msgid "Smooth"
 msgstr ""
 
-#. Description of the video filter that uses jagged pixels without smoothing
-msgctxt "#16298"
-msgid "Shows the game's pixels without any modifications."
-msgstr ""
-
-#. Description of the video filter that smooths pixels to remove jagged edges
-msgctxt "#16299"
-msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr ""
-
 msgctxt "#16300"
 msgid "Video scaling method"
 msgstr ""
@@ -15704,6 +15694,21 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr ""
 
+#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35237"
+msgid "Normal (1:1 PAR)"
+msgstr ""
+
+#. Label of thumbnail in the in-game menu for integer underscaling
+msgctxt "#35238"
+msgid "Integer"
+msgstr ""
+
+#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35239"
+msgid "Integer (1:1 PAR)"
+msgstr ""
+
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
 msgctxt "#35249"
@@ -19695,16 +19700,6 @@ msgstr ""
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
-
-#. Display Hardware scaling filter setting toggle
-msgctxt "#39151"
-msgid "Display hardware scaling filter"
-msgstr ""
-
-#. Description
-msgctxt "#39152"
-msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
 msgstr ""
 
 #, fuzzy

@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-06-18 17:29+0000\n"
-"Last-Translator: Linerly <linerly@proton.me>\n"
+"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -726,7 +726,7 @@ msgstr "Meminta informasi {0:s}"
 
 msgctxt "#198"
 msgid "Loading movie details"
-msgstr "Memuat keterangan film"
+msgstr "Memuat rincian film"
 
 msgctxt "#199"
 msgid "Web interface"
@@ -1811,7 +1811,7 @@ msgstr "Subs"
 
 msgctxt "#460"
 msgid "Audio stream"
-msgstr "Audio Stream"
+msgstr "Aliran audio"
 
 msgctxt "#461"
 msgid "[active]"
@@ -1819,7 +1819,7 @@ msgstr "[aktif]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr "Saluran takarir"
+msgstr "Aliran takarir"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -6093,7 +6093,7 @@ msgstr "Mode pengaturan HDR penampil"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
-msgstr "Pilih Mixer Video VDPAU"
+msgstr "Lebih memilih Mixer Video VDPAU"
 
 msgctxt "#13438"
 msgid "Allow hardware acceleration with DRM PRIME"
@@ -6182,7 +6182,7 @@ msgstr "Aktifkan opsi ini untuk mengunakan akselerasi perangkat keras untuk kode
 #. Option for video related setting #13454: sw filter
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
-msgstr "Utamakan metode render VAAPI"
+msgstr "Lebih memilih metode render VAAPI"
 
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
@@ -7635,16 +7635,6 @@ msgstr "Piksel"
 msgctxt "#16297"
 msgid "Smooth"
 msgstr "Halus"
-
-#. Description of the video filter that uses jagged pixels without smoothing
-msgctxt "#16298"
-msgid "Shows the game's pixels without any modifications."
-msgstr "Menampilkan piksel game tanpa modifikasi apa pun."
-
-#. Description of the video filter that smooths pixels to remove jagged edges
-msgctxt "#16299"
-msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
-msgstr "Menghapus tepi piksel yang bergerigi dengan memudarkan secara merata di antara piksel yang berdekatan."
 
 msgctxt "#16300"
 msgid "Video scaling method"
@@ -10283,7 +10273,7 @@ msgstr "Gambar Profil"
 
 msgctxt "#20066"
 msgid "Lock preferences"
-msgstr "Kunci pilihan"
+msgstr "Preferensi kunci"
 
 msgctxt "#20067"
 msgid "Edit profile"
@@ -10794,7 +10784,7 @@ msgstr "Pengunduhan informasi artis gagal"
 # string id's 20200 thru 20211 are reserved for speedstrings (LocalizeStrings.cpp)
 msgctxt "#20220"
 msgid "Prefer online information"
-msgstr "Lebih milih informasi online"
+msgstr "Lebih memilih informasi daring"
 
 #. Description of setting with label #20220 "Prefer online information"
 msgctxt "#20221"
@@ -10811,7 +10801,7 @@ msgstr "Folder informasi artis"
 
 msgctxt "#20224"
 msgid "Prefer online album art"
-msgstr "Lebih milih seni album daring"
+msgstr "Lebih memilih seni album daring"
 
 #. Description of setting with label #20224 "Prefer online album art"
 msgctxt "#20225"
@@ -11096,7 +11086,7 @@ msgstr "Informasi Episode"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
-msgstr "Memuat detail acara TV"
+msgstr "Memuat rincian acara TV"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
@@ -11128,7 +11118,7 @@ msgstr "Episode"
 
 msgctxt "#20361"
 msgid "Loading episode details"
-msgstr "Memuat detail episode"
+msgstr "Memuat rincian episode"
 
 msgctxt "#20362"
 msgid "Remove episode from library"
@@ -12937,7 +12927,7 @@ msgstr "Pengaya ini tidak dapat dilepas"
 
 msgctxt "#24048"
 msgid "VideoPlayer InputStream"
-msgstr "Aliran Masukan Pemutar Video"
+msgstr "Aliran Masukan PemutarVideo"
 
 #. To show addon as deprecated over icon
 msgctxt "#24049"
@@ -14216,7 +14206,7 @@ msgstr "Matahari terbenam"
 
 msgctxt "#33029"
 msgid "Details"
-msgstr "Detail"
+msgstr "Rincian"
 
 msgctxt "#33030"
 msgid "Outlook"
@@ -15336,6 +15326,21 @@ msgstr "Tekan {0:s} untuk membuka menu dalam game."
 msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "Dalam rilis ini, hanya pengontrol yang dapat digunakan untuk bermain game."
+
+#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35237"
+msgid "Normal (1:1 PAR)"
+msgstr "Normal (1:1 PAR)"
+
+#. Label of thumbnail in the in-game menu for integer underscaling
+msgctxt "#35238"
+msgid "Integer"
+msgstr "Pembulatan"
+
+#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+msgctxt "#35239"
+msgid "Integer (1:1 PAR)"
+msgstr "Pembulatan (1:1 PAR)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -16971,7 +16976,7 @@ msgstr "Pilih jumlah maksimum saluran audio / speaker yang tersedia untuk audio 
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "Pilih untuk mengizinkan audio passthrough untuk pemutaran audio terkompresi seperti Dolby Digital (AC3), DTS, dll. Klien AudioEngine, misalnya Videoplayer, mungkin memutuskan untuk memecahkan kode aliran audio dalam kondisi tertentu. Dalam kasus Pemutar Video, passthrough tidak akan digunakan untuk streaming langsung dan saat Anda menyinkronkan pemutaran untuk ditampilkan."
+msgstr "Pilih untuk mengizinkan audio passthrough untuk pemutaran audio terkompresi seperti Dolby Digital (AC3), DTS, dll. Klien AudioEngine, misalnya Pemutarvideo, mungkin memutuskan untuk memecahkan kode aliran audio dalam kondisi tertentu. Dalam kasus Pemutarvideo, passthrough tidak akan digunakan untuk streaming langsung dan saat Anda menyinkronkan pemutaran untuk ditampilkan."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -17286,7 +17291,7 @@ msgstr "Pilih tata letak papanketik virtual."
 #. Description for video related setting #13457: "vaapi sw filter"
 msgctxt "#36433"
 msgid "When enabled, VAAPI render method is preferred and the CPU has less load. If you experience hangs, disable this option."
-msgstr "Saat diaktifkan, metode render VAAPI lebih disukai dan beban CPU lebih sedikit. Jika Anda mengalami hang, nonaktifkan opsi ini."
+msgstr "Saat diaktifkan, metode render VAAPI lebih dipilih dan beban CPU lebih sedikit. Jika Anda mengalami hang, nonaktifkan opsi ini."
 
 msgctxt "#36434"
 msgid "If enabled, switch to the channel with the programme to remind when auto-closing the reminder popup."
@@ -17502,7 +17507,7 @@ msgstr "Ubah modus stereoskpis 3D pada antarmuka pengguna."
 #. Description of setting with label #36524 "Preferred mode"
 msgctxt "#36540"
 msgid "The preferred mode in which stereoscopic 3D media such as videos should be played."
-msgstr "Modus yang diutamakan ketika memutar media 3D stereoskopis seperti video."
+msgstr "Mode yang dipilih ketika memutar media 3D stereoskopis seperti video."
 
 #. Description of setting with label #1269 "Allow volume control"
 msgctxt "#36541"
@@ -18158,22 +18163,22 @@ msgstr "Kategori ini berisi pengaturan untuk takarir"
 #. Setting #37034 Accessibility
 msgctxt "#37034"
 msgid "Prefer audio stream for the visually impaired"
-msgstr "Lebih milih stream audio untuk tunanetra"
+msgstr "Lebih memilih aliran audio untuk tunanetra"
 
 #. Description of setting #37034 Accessibility
 msgctxt "#37035"
 msgid "Prefer the audio stream for the visually impaired to other audio streams of the same language"
-msgstr "Lebih milih stream audio untuk tunanetra ke stream audio lain dari bahasa yang sama"
+msgstr "Lebih memilih aliran audio untuk tunanetra ke aliran audio lain dari bahasa yang sama"
 
 #. Setting #37036 Settings -> Video -> Accessibility
 msgctxt "#37036"
 msgid "Prefer audio stream for the hearing impaired"
-msgstr "Lebih milih stream audio untuk tunarungu"
+msgstr "Lebih memilih aliran audio untuk tunarungu"
 
 #. Description of setting #37036 Accessibility
 msgctxt "#37037"
 msgid "Prefer the audio stream for the hearing impaired to other audio streams of the same language"
-msgstr "Lebih milih stream audio untuk tuna rungu ke stream audio lain dari bahasa yang sama"
+msgstr "Lebih memilih aliran audio untuk tunarungu ke aliran audio lain dari bahasa yang sama"
 
 #. Setting #37038 Accessibility
 msgctxt "#37038"
@@ -18183,17 +18188,17 @@ msgstr "Sarankan takarir untuk tuna rungu"
 #. Description of setting #37038 Accessibility
 msgctxt "#37039"
 msgid "Prefer the subtitle stream for the hearing impaired to other subtitle streams of the same language"
-msgstr "Sarankan takarir stream untuk tuna rungu ke takarir stream lain dari bahasa yang sama"
+msgstr "Sarankan aliran takarir untuk tuna rungu ke aliran takarir lain dari bahasa yang sama"
 
 #. Setting #37040 Playback
 msgctxt "#37040"
 msgid "Prefer default audio streams"
-msgstr "Lebih milih stream audio bawaan"
+msgstr "Lebih memilih aliran audio bawaan"
 
 #. Description of setting #37040 Playback
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr "Jika diaktifkan, stream audio yang ditandai sebagai bawaan (dan cocok dengan bahasa pilihan) lebih dipilih daripada stream audio dengan kualitas lebih tinggi (jumlah saluran, kodek, ...)."
+msgstr "Jika diaktifkan, aliran audio yang ditandai sebagai bawaan (dan cocok dengan bahasa pilihan) lebih dipilih daripada aliran audio dengan kualitas lebih tinggi (jumlah saluran, kodek, ...)."
 
 #. Description of setting Skip steps
 msgctxt "#37042"
@@ -19303,16 +19308,6 @@ msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
 msgstr "Batasi karya seni video musik yang diambil secara lokal atau diterapkan dari hasil seni jarak jauh scraper hanya untuk jenis seni yang ada dalam daftar putih"
 
-#. Display Hardware scaling filter setting toggle
-msgctxt "#39151"
-msgid "Display hardware scaling filter"
-msgstr "Tampilkan filter penskalaan perangkat keras"
-
-#. Description
-msgctxt "#39152"
-msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
-msgstr "Penskalaan bilangan bulat (IS) adalah teknik peningkatan skala Tetangga Terdekat (NN) menggunakan Display Engine"
-
 msgctxt "#39153"
 msgid "Windowing system:"
 msgstr "Sistem jendela:"
@@ -19994,6 +19989,22 @@ msgstr "Konfirmasi hapus berkas"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jika diaktifkan, dialog konfirmasi akan ditampilkan ketika berkas akan dihapus. Jika dinonaktifkan, berkas akan dihapus tanpa konfirmasi pengguna."
+
+#~ msgctxt "#16298"
+#~ msgid "Shows the game's pixels without any modifications."
+#~ msgstr "Menampilkan piksel game tanpa modifikasi apa pun."
+
+#~ msgctxt "#16299"
+#~ msgid "Removes the jagged edges of pixels by evenly fading between adjacent pixels."
+#~ msgstr "Menghapus tepi piksel yang bergerigi dengan memudarkan secara merata di antara piksel yang berdekatan."
+
+#~ msgctxt "#39151"
+#~ msgid "Display hardware scaling filter"
+#~ msgstr "Tampilkan filter penskalaan perangkat keras"
+
+#~ msgctxt "#39152"
+#~ msgid "Integer scaling (IS) is a Nearest-Neighbor(NN) upscaling technique using Display Engine"
+#~ msgstr "Penskalaan bilangan bulat (IS) adalah teknik peningkatan skala Tetangga Terdekat (NN) menggunakan Display Engine"
 
 #~ msgctxt "#39194"
 #~ msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 1920x1080 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX 20xx, 30xx, 40xx and above, Intel Arc A770, A750."
