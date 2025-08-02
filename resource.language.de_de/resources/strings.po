@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"PO-Revision-Date: 2025-07-23 07:30+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -18268,7 +18268,7 @@ msgstr "Kein Puffer"
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr "Nur echte Internetstream puffern: HTTP, HTTPS, etc."
+msgstr "Nur echte Internetstreams puffern: HTTP, HTTPS, etc."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
