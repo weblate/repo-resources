@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"PO-Revision-Date: 2025-08-08 12:29+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -5435,6 +5435,11 @@ msgstr "用户配置"
 msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "删除用户配置 '{0:s}'？"
+
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
 
 #. used by several skins
 msgctxt "#13204"
@@ -19674,6 +19679,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "在媒体库中没有找到类似的电影。"
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr "从该光盘添加另一个版本？"
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19708,6 +19718,11 @@ msgstr "删除额外视频"
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "是否确实要删除额外的\"{0:s}\"？"
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
+msgstr "将播放列表分配给当前电影版本？"
 
 #. Ignore different video versions settting
 msgctxt "#40202"

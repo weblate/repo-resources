@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"PO-Revision-Date: 2025-08-08 12:29+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -5438,6 +5438,11 @@ msgstr "Профілі"
 msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "Видалити профіль \"{0:s}\"?"
+
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
 
 #. used by several skins
 msgctxt "#13204"
@@ -19698,6 +19703,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "Подібних фільмів у медіатеці не знайдено."
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr "Додати іншу версію з цього диска?"
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19732,6 +19742,11 @@ msgstr "Видалити додатковий відеоматеріал"
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Дійсно видалити додатковий матеріал \"{0:s}\"?"
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
+msgstr "Призначити список відтворення поточній версії фільму?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"

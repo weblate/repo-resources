@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"PO-Revision-Date: 2025-08-08 12:29+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -5437,6 +5437,11 @@ msgstr "Profile"
 msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "Czy usunąć profil '{0:s}'?"
+
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
 
 #. used by several skins
 msgctxt "#13204"
@@ -19685,6 +19690,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "W bibliotece nie znaleziono podobnych filmów."
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr "Dodać inną wersję z tego dysku?"
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19719,6 +19729,11 @@ msgstr "Usuń dodatek wideo"
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Czy na pewno chcesz usunąć dodatek \"{0:s}\"?"
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
+msgstr "Przypisać listę odtwarzania do bieżącej wersji filmu?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
