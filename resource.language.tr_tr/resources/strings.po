@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-01-11 23:26+0000\n"
+"PO-Revision-Date: 2025-08-08 12:29+0000\n"
 "Last-Translator: queeup <queeup@zoho.com>\n"
 "Language-Team: Turkish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/tr_tr/>\n"
 "Language: tr_tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3242,47 +3242,47 @@ msgstr ""
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "İstemci"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Kullanıcı"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Tüm kanallar]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "İzledikten sonra sil"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Kayıtların izlendikten sonra silinip silinmeyeceğini yapılandırın."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Sor"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
@@ -5436,6 +5436,11 @@ msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "'{0:s}' profili silinsin mi?"
 
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
+
 #. used by several skins
 msgctxt "#13204"
 msgid "Last loaded profile:"
@@ -6243,17 +6248,17 @@ msgstr ""
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "Kanal başına 8 bit"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "Kanal başına 10 bit"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "Kanal başına 16 bit"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6905,7 +6910,7 @@ msgstr "Çift yenileme hızına izin ver"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Gelişmiş"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
@@ -14483,17 +14488,17 @@ msgstr ""
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Kapalı"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "%50"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "%100"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -18954,7 +18959,7 @@ msgstr "Aşağıdaki ek eklentiler yüklenecektir"
 
 msgctxt "#39021"
 msgid "Proceed with installation?"
-msgstr "Yüklemeye devam edilsin mi?"
+msgstr "Yükleme işlemine geçilsin mi?"
 
 msgctxt "#39022"
 msgid "({0:s})"
@@ -19466,22 +19471,22 @@ msgstr ""
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Satır aralığı"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Metin satırları arasındaki boşluğu ayarlayın. Çok düşük bir değer ayarlamak, \"Arka plan türü\" ayarı kullanıldığında kutuların üst üste binmesine neden olabilir."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
@@ -19557,7 +19562,7 @@ msgstr "Filmin faklı bir sürümü bulundu"
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr "\"{0:s}\" filminin farklı bir sürümü buldum: {1:s}. Orijinalin ek bir sürüme dönüştürmek ister misiniz?"
+msgstr "\"{0:s}\" filminin farklı bir sürümü buldum: {1:s}. Orijinal filmin ek bir sürümüne dönüştürmek ister misiniz?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
@@ -19674,6 +19679,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "Kitaplıkta benzer bir film bulunamadı."
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr ""
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19707,6 +19717,11 @@ msgstr ""
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
 msgstr ""
 
 #. Ignore different video versions settting

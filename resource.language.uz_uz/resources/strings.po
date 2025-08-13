@@ -5513,6 +5513,11 @@ msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr ""
 
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
+
 # empty strings from id 13202 to 13203
 #. used by several skins
 msgctxt "#13204"
@@ -19940,6 +19945,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr ""
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr ""
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19973,6 +19983,11 @@ msgstr ""
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
 msgstr ""
 
 #. Ignore different video versions settting

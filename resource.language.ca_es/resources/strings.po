@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-30 16:29+0000\n"
+"PO-Revision-Date: 2025-08-08 12:29+0000\n"
 "Last-Translator: Elvis Gallegos <elvis.gallegos@gmail.com>\n"
 "Language-Team: Catalan (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ca_es/>\n"
 "Language: ca_es\n"
@@ -36,7 +36,7 @@ msgstr "Guia de TV"
 
 msgctxt "#5"
 msgid "Settings"
-msgstr "Opcions"
+msgstr "Configuració"
 
 msgctxt "#6"
 msgid "Kodi GIT"
@@ -1763,7 +1763,7 @@ msgstr "Executa automàticament els suports"
 
 msgctxt "#448"
 msgid "Dolby Digital Plus (E-AC3) capable receiver"
-msgstr "Receptor apte per a Dolby Digital Plus (E-AC3)"
+msgstr "Receptor compatible amb Dolby Digital Plus (E-AC3)"
 
 msgctxt "#449"
 msgid "Enabled"
@@ -1819,7 +1819,7 @@ msgstr "[actiu]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Pista de subtítols"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2643,32 +2643,32 @@ msgstr "De les metadades"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Estableix la mida de la vora."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Estableix el color de la vora."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Estableix el desenfocament."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Estableix el color de l'ombra."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Estableix l'opacitat de l'ombra."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Estableix la mida de l'ombra."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -3227,47 +3227,47 @@ msgstr "El rang de ports vàlid és 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr ""
+msgstr "Qualsevol canal del client \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "Qualsevol canal de qualsevol client"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Canals afegits recentment"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Client"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Usuari"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Tots els canals]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Elimina després del visionament"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Configura si les gravacions s'han d'esborrar després de visionar-les."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
@@ -3277,7 +3277,7 @@ msgstr "No"
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Pregunta"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
@@ -3287,12 +3287,12 @@ msgstr "Sí"
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Voleu esborrar aquesta gravació?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Gravació esborrada: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3377,7 +3377,7 @@ msgstr "Introduïu el nom d'usuari"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Introduïu la ruta..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -5116,17 +5116,18 @@ msgstr "Nivell de la bateria"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Gràcies!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Us portem el Kodi amb afecte des de la Kodi Foundation, una organització 501(c)(3) sense ànim de lucre. Gràcies per utilitzar el nostre programari!"
 
 #. URL for donations. Do not translate.
+#, fuzzy
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5448,6 +5449,11 @@ msgstr "Perfils"
 msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "Voleu suprimir el perfil '{0:s}'?"
+
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
 
 #. used by several skins
 msgctxt "#13204"
@@ -5905,7 +5911,7 @@ msgstr "Expulsa / Carrega"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Selecció de pista"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6182,12 +6188,12 @@ msgstr "Prefereix el mètode de renderització de VAAPI"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Filtra els Descodificadors"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Activa/Desactiva el filtre que bloqueja certs descodificadors per programari d'Android. Aquest filtre es pot configurar al fitxer [userdata]/decoderfilter.xml."
 
 # empty strings from id 13458 to 13459
 msgctxt "#13460"
@@ -6238,16 +6244,16 @@ msgstr "Habiliteu aquesta opció per a utilitzar l'acceleració per maquinari pe
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Utilitza VAAPI amb AVC"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Activeu aquesta opció per utilitzar acceleració per maquinari amb el còdec AVC. Si la desactiveu s'utilitzarà la CPU."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "Format intermedi de redimensionat HQ"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
@@ -11329,11 +11335,11 @@ msgstr "Primera emissió"
 
 msgctxt "#20417"
 msgid "Writer"
-msgstr "Escriptor"
+msgstr "Guionista"
 
 msgctxt "#20418"
 msgid "Writers"
-msgstr "Escriptors"
+msgstr "Guionistes"
 
 msgctxt "#20419"
 msgid "Replace file names with library titles"
@@ -14255,7 +14261,7 @@ msgstr "Configureu el"
 
 msgctxt "#33054"
 msgid "Seasons"
-msgstr "Estacions"
+msgstr "Temporades"
 
 msgctxt "#33055"
 msgid "Use your"
@@ -19716,6 +19722,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr ""
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr ""
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19749,6 +19760,11 @@ msgstr ""
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
+msgstr ""
+
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
 msgstr ""
 
 #. Ignore different video versions settting

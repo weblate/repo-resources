@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-15 15:52+0000\n"
-"Last-Translator: vgbsd <vg72i@protonmail.com>\n"
+"PO-Revision-Date: 2025-08-11 20:32+0000\n"
+"Last-Translator: qazerr <qazerr@ya.ru>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4830,7 +4830,7 @@ msgstr "Последнее использованное"
 
 msgctxt "#12013"
 msgid "Install date"
-msgstr "Установить дату"
+msgstr "Дата установки"
 
 msgctxt "#12014"
 msgid "Last updated"
@@ -5438,6 +5438,11 @@ msgstr "Профили"
 msgctxt "#13201"
 msgid "Delete profile '{0:s}'?"
 msgstr "Удалить профиль '{0:s}'?"
+
+#. Label for reload profile confirmation dialog
+msgctxt "#13202"
+msgid "Reload profile '{0:s}'?"
+msgstr ""
 
 #. used by several skins
 msgctxt "#13204"
@@ -11432,7 +11437,7 @@ msgstr "Обновить сведения для всех объектов по 
 
 msgctxt "#20444"
 msgid "Add to library"
-msgstr "Добавиьт в медиатеку"
+msgstr "Добавить в медиатеку"
 
 #. Name of an artwork type
 msgctxt "#20445"
@@ -13587,7 +13592,7 @@ msgstr "Вручную"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "Выбранный плейлист уже используется. Хотите связать его с этим выпуском?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
@@ -15288,17 +15293,17 @@ msgstr "В этой версии для управления в играх мо�
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr ""
+msgstr "Нормальный (1:1 PAR)"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Целочисленное"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr ""
+msgstr "Целочисленное (1:1 PAR)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -19448,7 +19453,7 @@ msgstr "При воспроизведении музыки заставка не
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Включает расширенный апскейлер DXVA с использованием NVIDIA «RTX Video Super Resolution» или «Intel Video Super Resolution».[CR]Используется, когда разрешение источника видео составляет 2560x1440 или меньше, а разрешение источника ниже разрешения дисплея.[CR]Доступно только на определённом оборудовании: NVIDIA RTX и Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19513,12 +19518,12 @@ msgstr "ВС"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Использовать декодер Starfish"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish — это аппаратный видеодекодер для webOS от LG. Отключите его для устранения неполадок или тестирования."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19686,6 +19691,11 @@ msgctxt "#40032"
 msgid "No similar movies were found in the library."
 msgstr "В медиатеке не нашлось ни одного похожего фильма."
 
+#. Add version: Add another version from this disc - for Blurays
+msgctxt "#40033"
+msgid "Add another version from this disc?"
+msgstr "Добавить еще одну версию с этого диска?"
+
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
@@ -19721,6 +19731,11 @@ msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
 msgstr "Подтвердите удаление \"{0:s}\"?"
 
+#. Prompt to assign playlist to current movie version
+msgctxt "#40041"
+msgid "Assign playlist to current movie version?"
+msgstr "Назначить плейлист текущей версии фильма?"
+
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19745,7 +19760,7 @@ msgstr "Выберите действие при сканировании для
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Ресурсы"
 
 #. Button label for video versions
 msgctxt "#40210"
