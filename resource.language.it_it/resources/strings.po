@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-08 12:29+0000\n"
+"PO-Revision-Date: 2025-08-22 19:29+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5439,7 +5439,7 @@ msgstr "Eliminare il profilo '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Ricaricare il profilo '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -12481,7 +12481,7 @@ msgstr "Nato"
 
 msgctxt "#21894"
 msgid "Formed"
-msgstr "Cresciuto"
+msgstr "Formazione"
 
 msgctxt "#21895"
 msgid "Themes"
@@ -12505,7 +12505,7 @@ msgstr "Etichetta"
 
 msgctxt "#21900"
 msgid "Born / Formed"
-msgstr "Nato / Cresciuto"
+msgstr "Nato / Formazione"
 
 msgctxt "#22000"
 msgid "Update library on startup"
