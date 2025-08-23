@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-08 12:29+0000\n"
+"PO-Revision-Date: 2025-08-13 15:18+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
@@ -5439,7 +5439,7 @@ msgstr "¿Eliminar perfil '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "¿Recargar perfil '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"

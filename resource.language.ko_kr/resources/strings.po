@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-16 22:29+0000\n"
+"PO-Revision-Date: 2025-08-13 15:18+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -5439,7 +5439,7 @@ msgstr "'{0:s}' 프로파일을 삭제할까요?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "프로필 '{0:s}'을 다시 읽을까요?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -19682,7 +19682,7 @@ msgstr "라이브러리에 유사한 영화를 찾을 수 없습니다."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "이 디스크의 다른 버전을 추가할까요?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19722,7 +19722,7 @@ msgstr "추가 \"{0:s}\"을 지울까요?"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "현재 영화 버전에 재생 목록을 할당할까요?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
