@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-04-21 16:05+0000\n"
-"Last-Translator: skypichat <skypichat@hotmail.fr>\n"
+"PO-Revision-Date: 2025-08-30 10:12+0000\n"
+"Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.13\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -470,7 +470,7 @@ msgstr "Artistes"
 
 msgctxt "#134"
 msgid "Songs"
-msgstr "Chansons"
+msgstr "Titres"
 
 msgctxt "#135"
 msgid "Genres"
@@ -648,7 +648,7 @@ msgstr "{0:s} a démarré avec succès."
 
 msgctxt "#179"
 msgid "Song"
-msgstr "Chanson"
+msgstr "Titre"
 
 #. generic "duration" label used in different places
 msgctxt "#180"
@@ -1213,7 +1213,7 @@ msgstr "Erreur de la base de données"
 
 msgctxt "#316"
 msgid "Searching songs..."
-msgstr "Recherche de chansons…"
+msgstr "Recherche de titres…"
 
 msgctxt "#317"
 msgid "Cleaned database successfully"
@@ -1221,11 +1221,11 @@ msgstr "Base de données nettoyée avec succès"
 
 msgctxt "#318"
 msgid "Cleaning songs..."
-msgstr "Nettoyage des chansons…"
+msgstr "Nettoyage des titres…"
 
 msgctxt "#319"
 msgid "Error cleaning songs"
-msgstr "Erreur lors du nettoyage des chansons"
+msgstr "Erreur lors du nettoyage des titres"
 
 msgctxt "#320"
 msgid "Cleaning artists..."
@@ -1907,7 +1907,7 @@ msgstr "Répéter le dossier"
 
 msgctxt "#489"
 msgid "Play next song automatically"
-msgstr "Lire la chanson suivante automatiquement"
+msgstr "Lire le titre suivante automatiquement"
 
 msgctxt "#491"
 msgid "- Use big icons"
@@ -2157,7 +2157,7 @@ msgstr "Piste"
 
 msgctxt "#555"
 msgid "Time"
-msgstr "Durée"
+msgstr "Heure"
 
 msgctxt "#556"
 msgid "Title"
@@ -2400,11 +2400,11 @@ msgstr "Inclure le numéro de la piste"
 
 msgctxt "#625"
 msgid "All songs of"
-msgstr "Toutes les chansons de"
+msgstr "Toutes les titres de"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "Séries TV en cours"
+msgstr "Séries en cours"
 
 msgctxt "#629"
 msgid "View mode"
@@ -2530,7 +2530,7 @@ msgstr "Rechercher un dossier"
 
 msgctxt "#658"
 msgid "Song information"
-msgstr "Informations sur la chanson"
+msgstr "Informations sur le titre"
 
 msgctxt "#659"
 msgid "Non-linear stretch"
@@ -2676,7 +2676,7 @@ msgstr "Nettoyage de la médiathèque"
 
 msgctxt "#701"
 msgid "Removing old songs from the library"
-msgstr "Suppression des anciennes chansons de la médiathèque"
+msgstr "Suppression des anciens titres de la médiathèque"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
@@ -2944,7 +2944,7 @@ msgstr "Port"
 
 msgctxt "#793"
 msgid "Port range"
-msgstr "Port série"
+msgstr "Plage de ports"
 
 msgctxt "#794"
 msgid "Allow remote control by programs on other systems"
@@ -2983,22 +2983,22 @@ msgstr "Type"
 #. Label of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#804"
 msgid "Search guide for"
-msgstr "Rechercher dans le guide TV pour"
+msgstr "Texte à rechercher dans le guide"
 
 #. Help of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#805"
 msgid "Enter the search string to use to lookup matching events in the guide"
-msgstr "Saisir le texte à rechercher pour trouver des évènements qui correspondent dans le guide"
+msgstr "Saisir le texte à rechercher pour trouver des évènements dans le guide"
 
 #. Label of "Fulltext search" edit field in PVR timer settings dialog
 msgctxt "#806"
 msgid "Fulltext search (or title search only)"
-msgstr "Rechercher sur le texte entier (ou sur le titre seulement)"
+msgstr "Rechercher dans tous les textes (sinon : dans le titre uniquement)"
 
 #. special days of week representation value for a timer rule
 msgctxt "#807"
 msgid "Any day"
-msgstr "Jour quelconque"
+msgstr "N'importe quel jour"
 
 #. special days of week representation for a timer rule
 msgctxt "#808"
@@ -3013,7 +3013,7 @@ msgstr "Canal quelconque"
 #. Label of "Start any time" radio button in PVR timer settings dialog
 msgctxt "#810"
 msgid "Start any time"
-msgstr "Démarrer aléatoirement"
+msgstr "Début à n'importe quelle heure"
 
 #. Label of recording group list control in the PVR timer settings dialog
 #. Part of value of recording group list control in the PVR timer settings dialog (e.g. "Recording Group 1")
@@ -3025,17 +3025,17 @@ msgstr "Groupe d'enregistrements"
 #. Label of prevent duplicate episodes list control (if user does not want to record the same episode multiple times) in PVR timer settings dialog
 msgctxt "#812"
 msgid "Prevent duplicate episodes"
-msgstr "Éviter les doublons d'épisodes"
+msgstr "Éviter les épisodes en double"
 
 #. Label of start padding time list control in PVR timer settings dialog
 msgctxt "#813"
 msgid "Start padding time"
-msgstr "Ajustement du temps de début"
+msgstr "Ajustement de l'heure de début"
 
 #. Label of end padding time list control in PVR timer settings dialog
 msgctxt "#814"
 msgid "End padding time"
-msgstr "Ajustement du temps de fin"
+msgstr "Ajustement de l'heure de fin"
 
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#815"
@@ -3050,7 +3050,7 @@ msgstr "Enregistrer seulement les nouveaux épisodes"
 #. Label of "End any time" radio button in PVR timer settings dialog
 msgctxt "#817"
 msgid "End any time"
-msgstr "Arrêter aléatoirement"
+msgstr "Fin à n'importe quelle heure"
 
 #. Label of "MaxRecordings" list in the PVR timer settings dialog
 msgctxt "#818"
@@ -3165,7 +3165,7 @@ msgstr "En direct"
 #. Message in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#840"
 msgid "Do you only want to delete this timer or also the timer rule that has scheduled it?"
-msgstr "Faut-il seulement supprimer cette programmation ou bien aussi la programmation répétée qui l'a planifiée ?"
+msgstr "Faut-il seulement supprimer cette programmation ou bien aussi la règle de programmation qui l'a planifiée ?"
 
 #. Label for No button in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#841"
@@ -3190,7 +3190,7 @@ msgstr "Désactiver"
 #. Message in a dialog when a user wants to delete a timer rule
 msgctxt "#845"
 msgid "Are you sure you want to delete this timer rule and all timers it has scheduled?"
-msgstr "Faut-il vraiment supprimer cette règle de programmation et toutes les répétitions qu'elle a planifiées ?"
+msgstr "Faut-il vraiment supprimer cette règle de programmation et toutes les programmations qu'elle a planifiées ?"
 
 #. Message in a dialog when a user wants to delete a timer
 msgctxt "#846"
@@ -4470,7 +4470,7 @@ msgstr "Favoris"
 
 msgctxt "#10135"
 msgid "Song info"
-msgstr "Infos de chanson"
+msgstr "Informations sur le titre"
 
 msgctxt "#10136"
 msgid "Smart playlist editor"
@@ -4562,7 +4562,7 @@ msgstr "Éditeur de liste de lecture de musique"
 
 msgctxt "#10504"
 msgid "Top 100 songs"
-msgstr "Top 100 chansons"
+msgstr "Top 100 titres"
 
 msgctxt "#10505"
 msgid "Top 100 albums"
@@ -5113,7 +5113,7 @@ msgstr "Kodi vous est présenté avec amour par la Fondation Kodi, une organisat
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr "kodi.tv/faire un don"
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5439,7 +5439,7 @@ msgstr "Faut-il vraiment supprimer le profil « {0:s} » ?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Recharger le profil '{0:s}' ?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -5650,7 +5650,7 @@ msgstr "Redémarrer"
 
 msgctxt "#13314"
 msgid "Crossfade between songs"
-msgstr "Fondu-enchainé entre les chansons"
+msgstr "Fondu enchaîné entre les titres"
 
 msgctxt "#13315"
 msgid "Regenerate thumbnails"
@@ -5769,6 +5769,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Rechercher sur IMDb…"
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Rechercher du nouveau contenu"
@@ -5929,7 +5930,7 @@ msgstr "Ignorer les articles lors du tri"
 
 msgctxt "#13400"
 msgid "Crossfade between songs on the same album"
-msgstr "Fondu-enchainé des chansons d'un même album"
+msgstr "Fondu-enchainé des titres d'un même album"
 
 msgctxt "#13401"
 msgid "Browse for {0:s}"
@@ -5986,7 +5987,7 @@ msgstr "Téléchargement"
 
 msgctxt "#13414"
 msgid "Show song and album artists"
-msgstr "Afficher les artistes de l'album et de la chanson"
+msgstr "Afficher les artistes de l'album et du titre"
 
 msgctxt "#13415"
 msgid "Render method"
@@ -6338,7 +6339,7 @@ msgstr "Séparer les albums en disques individuels"
 #. Description of setting with label #13522 "Split albums into individual discs"
 msgctxt "#13523"
 msgid "When enabled, opening a multi-disc album shows the discs as individual items instead of all the songs. Opening a disc then shows the songs on that disc."
-msgstr "Si activé, l'ouverture d'un album multidisques affichera les disques en éléments individuels plutôt que toutes les chansons. Ouvrir un disque affichera ensuite les chansons de ce disque."
+msgstr "Si activé, l'ouverture d'un album multidisques affichera les disques en éléments individuels plutôt que tous les titres. Ouvrir un disque affichera ensuite les titres de ce disque."
 
 #. Label of a setting that allows original release dates to be used instead of album release date
 msgctxt "#13524"
@@ -6714,7 +6715,7 @@ msgstr "Utiliser une fenêtre plein écran"
 
 msgctxt "#14084"
 msgid "Queue songs on selection"
-msgstr "Placer en file d'attente les chansons sélectionnées"
+msgstr "Placer les titres sélectionnés en file d'attente"
 
 msgctxt "#14086"
 msgid "Playback"
@@ -7877,7 +7878,7 @@ msgstr "Chaînes"
 #. generic label for 'Live TV' used in different places
 msgctxt "#19020"
 msgid "TV"
-msgstr "TV"
+msgstr "Télévision"
 
 #. generic label for pvr-provided 'Radio' used in different places
 msgctxt "#19021"
@@ -8074,7 +8075,7 @@ msgstr "Supprimer la programmation"
 #. Label for a context menu entry to open the timer settings dialog
 msgctxt "#19061"
 msgid "Add timer"
-msgstr "Ajouter une programmation"
+msgstr "Programmer"
 
 msgctxt "#19062"
 msgid "Sort by: Channel"
@@ -8162,7 +8163,7 @@ msgstr "Chaîne"
 #. Label of days of week button in PVR timer settings dialog
 msgctxt "#19079"
 msgid "Days of week"
-msgstr "Jours de semaine"
+msgstr "Jours de la semaine"
 
 #. used by several skins
 msgctxt "#19080"
@@ -8276,7 +8277,7 @@ msgstr "Fournisseur"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
-msgstr "Merci de changer de chaîne."
+msgstr "Veuillez changer de chaîne."
 
 #. Title of numeric dialog for choosing a channel by entering a number
 msgctxt "#19103"
@@ -8331,7 +8332,7 @@ msgstr "Faut-il supprimer cet enregistrement ?"
 #. delete multiple recordings confirmation message box text
 msgctxt "#19113"
 msgid "Delete all recordings in this folder?"
-msgstr "Faut-il supprimer tous les enregistrements de ce dossier ?"
+msgstr "Faut-il supprimer tous les enregistrements de ce dossier ?"
 
 #. label for PVR backend version in system information's PVR section
 msgctxt "#19114"
@@ -9205,7 +9206,7 @@ msgstr "Tout supprimer définitivement"
 #. "remove deleted recordings from trash" dialog text
 msgctxt "#19293"
 msgid "Remove all deleted recordings from trash? This operation cannot be reverted."
-msgstr "Faut-il retirer tous les enregistrements supprimés de la poubelle ? Cette opération ne peut pas être annulée."
+msgstr "Faut-il supprimer définitivement tous les enregistrements de la poubelle ? Cette opération ne peut pas être annulée."
 
 #. "remove deleted recording from trash" dialog text
 msgctxt "#19294"
@@ -10698,7 +10699,7 @@ msgstr "Recharger l'habillage"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "Utiliser la vue affiche pour les séries TV"
+msgstr "Utiliser la vue affiches pour les séries"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -11016,7 +11017,7 @@ msgstr "Films"
 
 msgctxt "#20343"
 msgid "TV shows"
-msgstr "Séries TV"
+msgstr "Séries"
 
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20344"
@@ -11050,7 +11051,7 @@ msgstr "{0:s} ({1:s} votes)"
 
 msgctxt "#20351"
 msgid "TV show information"
-msgstr "Informations de la série TV"
+msgstr "Informations sur la série"
 
 msgctxt "#20352"
 msgid "Episode information"
@@ -11058,7 +11059,7 @@ msgstr "Informations de l'épisode"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
-msgstr "Chargement des détails de la série TV"
+msgstr "Chargement des détails à propos de la série"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
@@ -11070,11 +11071,11 @@ msgstr "Chargement des informations pour les épisodes dans le dossier"
 
 msgctxt "#20356"
 msgid "Select TV show:"
-msgstr "Sélectionner la série TV :"
+msgstr "Sélectionner la série :"
 
 msgctxt "#20357"
 msgid "Enter the TV show name"
-msgstr "Saisir le nom de la série TV"
+msgstr "Saisir le nom de la série"
 
 msgctxt "#20358"
 msgid "Season {0:d}"
@@ -11098,11 +11099,11 @@ msgstr "Retirer l'épisode de la médiathèque"
 
 msgctxt "#20363"
 msgid "Remove TV show from library"
-msgstr "Retirer la série TV de la médiathèque"
+msgstr "Retirer la série de la médiathèque"
 
 msgctxt "#20364"
 msgid "TV show"
-msgstr "Série TV"
+msgstr "Série"
 
 msgctxt "#20365"
 msgid "Episode plot"
@@ -11114,7 +11115,7 @@ msgstr "* Toutes les saisons"
 
 msgctxt "#20367"
 msgid "Hide watched"
-msgstr "Masquer déjà vu"
+msgstr "Masquer déjà vus"
 
 msgctxt "#20368"
 msgid "Prod code"
@@ -11142,7 +11143,7 @@ msgstr "Saison"
 
 msgctxt "#20374"
 msgid "Downloading movie information"
-msgstr "Téléchargement des informations du film"
+msgstr "Téléchargement des informations sur le film"
 
 msgctxt "#20375"
 msgid "Unassign content"
@@ -11155,7 +11156,7 @@ msgstr "Titre d'origine"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
-msgstr "Rafraîchir les infos des séries TV"
+msgstr "Rafraîchir les infos sur les séries"
 
 msgctxt "#20378"
 msgid "Refresh information for all episodes?"
@@ -11164,7 +11165,7 @@ msgstr "Faut-il rafraîchir les informations de tous les épisodes ?"
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20379"
 msgid "Selected folder contains a single TV show"
-msgstr "Le dossier sélectionné contient une seule série TV"
+msgstr "Le dossier sélectionné contient une seule série"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
@@ -11184,11 +11185,11 @@ msgstr "Le dossier sélectionné contient une seule vidéo"
 
 msgctxt "#20384"
 msgid "Link to TV show"
-msgstr "Lien vers une série TV"
+msgstr "Lien vers la série"
 
 msgctxt "#20385"
 msgid "Remove link to TV show"
-msgstr "Retirer le lien vers la série TV"
+msgstr "Retirer le lien vers la série"
 
 msgctxt "#20386"
 msgid "Recently added movies"
@@ -11232,7 +11233,7 @@ msgstr "Mixte"
 
 msgctxt "#20396"
 msgid "Go to albums by artist"
-msgstr "Aller aux albums par artiste"
+msgstr "Aller aux albums de l'artiste"
 
 msgctxt "#20397"
 msgid "Go to album"
@@ -11284,7 +11285,7 @@ msgstr "Téléchargement des informations de vidéo musicale"
 
 msgctxt "#20409"
 msgid "Downloading TV show information"
-msgstr "Téléchargement des informations de série TV"
+msgstr "Téléchargement des informations sur la série"
 
 msgctxt "#20410"
 msgid "Trailer"
@@ -11296,7 +11297,7 @@ msgstr "Réduire"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "Réduire l'arborescence des saisons de séries TV"
+msgstr "Réduire l'arborescence des saisons de séries"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -11544,7 +11545,7 @@ msgstr "Inclure les sagas ne comportant qu'un seul film"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
-msgstr "Afficher les séries TV vides"
+msgstr "Afficher les séries vides"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
@@ -11648,17 +11649,17 @@ msgstr "Type MIME : « {0:s} »"
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Épisode spécial {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Épisode {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Épisode spécial"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -11883,7 +11884,7 @@ msgstr "Fournisseur prédéfini pour les informations de films"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr "Fournisseur prédéfini pour les informations de séries TV"
+msgstr "Fournisseur prédéfini d'informations sur les séries"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
@@ -11891,7 +11892,7 @@ msgstr "Fournisseur prédéfini pour les informations de vidéos musicales"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
-msgstr "Sélectionner 1er épisode/saison non vu d'une série TV"
+msgstr "Sélectionner la première saison ou le premier épisode non vu de la série"
 
 msgctxt "#21417"
 msgid "Settings"
@@ -12099,7 +12100,7 @@ msgstr "En haut de l'écran"
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
 msgid "When entering a TV show season or episode view automatically select the first unwatched season or episode.[CR][On first entry] The first unwatched item will be selected only when a view is entered for the first time.[CR][Always] The first unwatched item will be selected every time a view is entered."
-msgstr "En accédant à une vue saison ou épisode de série TV, sélectionne automatiquement la première saison ou épisode non vu.[CR][Au premier accès] Sélectionne le premier élément non vu lors du premier accès à la vue.[CR][Toujours] Sélectionne le premier élément non vu à chaque accès à la vue."
+msgstr "En accédant à la vue saison ou épisode d'une série, sélectionne automatiquement la première saison ou le premier épisode non vu.[CR][Au premier accès] Sélectionne le premier élément non vu lors du premier accès à la vue.[CR][Toujours] Sélectionne le premier élément non vu à chaque accès à la vue."
 
 #. Filter (media data) from float value to float value
 msgctxt "#21467"
@@ -13192,12 +13193,12 @@ msgstr "Emplacement de stockage des sous-titres"
 
 msgctxt "#24116"
 msgid "Default TV show service"
-msgstr "Service prédéfini pour les séries TV"
+msgstr "Service prédéfini pour les séries"
 
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
 msgid "Select the service that will be used as default to search for TV show subtitles."
-msgstr "Sélection du service prédéfini pour rechercher les sous-titres des séries TV."
+msgstr "Sélection du service prédéfini pour la recherche de sous-titres de séries."
 
 msgctxt "#24118"
 msgid "Default movie service"
@@ -13586,17 +13587,17 @@ msgstr "Manuel"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "La playlist sélectionnée est déjà utilisée. Voulez-vous l'associer à cet épisode ?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "Aucune liste de lecture de films valide n'a été trouvée."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "Aucune playlist d'épisode valide n'a été trouvée."
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15284,17 +15285,17 @@ msgstr "Dans cette version, seules des manettes peuvent être utilisées pour jo
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr ""
+msgstr "Normale (aspect de pixel 1:1)"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Entier"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr ""
+msgstr "Entier (aspect de pixel 1:1)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15875,7 +15876,7 @@ msgstr "Récupère les miniatures des acteurs lors de l'ajout de médias à la m
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Permet de choisir dans quels cas les saisons des séries TV doivent être affichées. Si masquées, la sélection d'une série TV affichera directement la vue des épisodes."
+msgstr "Permet de choisir dans quels cas les saisons des séries doivent être affichées. Si masquées, la sélection d'une série affichera directement la vue des épisodes."
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15965,7 +15966,7 @@ msgstr "Activer le décodage matériel VideoToolBox pour les fichiers vidéos."
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "Affiche les séries TV sans épisode lors du parcours de la vidéothèque."
+msgstr "Affiche les séries sans épisode lors du parcours de la vidéothèque."
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -16141,7 +16142,7 @@ msgstr "Sélectionne la source d'informations prédéfinie pour les films. Voir 
 
 msgctxt "#36199"
 msgid "Select the default TV show information source. See the add-ons manager for options."
-msgstr "Sélectionne la source d'informations prédéfinie pour les séries TV. Voir le gestionnaire d'extensions pour les options."
+msgstr "Sélectionne la source d'informations prédéfinie pour les séries. Voir le gestionnaire d'extensions pour les options."
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
@@ -17936,11 +17937,11 @@ msgstr "films"
 
 msgctxt "#36902"
 msgid "TV show"
-msgstr "série TV"
+msgstr "série"
 
 msgctxt "#36903"
 msgid "TV shows"
-msgstr "séries TV"
+msgstr "séries"
 
 msgctxt "#36904"
 msgid "season"
@@ -19210,12 +19211,12 @@ msgstr "Limite les illustrations de film et de saga récupérées localement ou 
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr "Liste blanche des types d'illustration de série TV"
+msgstr "Liste blanche des types d'illustration de série"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limite les illustrations de séries TV et de saisons récupérées localement ou appliquées depuis les résultats distants d'un collecteur aux seuls types en liste blanche"
+msgstr "Limite les illustrations de séries et de saisons récupérées localement ou appliquées depuis les résultats distants d'un collecteur aux seuls types en liste blanche"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
@@ -19506,12 +19507,12 @@ msgstr "CC"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Utiliser le décodeur Starfish"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish est le décodeur matériel des systèmes LG webOS. Désactivez le pour corriger des problèmes ou pour tester."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19682,7 +19683,7 @@ msgstr "Aucun film similaire n'a été trouvé dans la médiathèque."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Ajouter une version à partir de ce disque ?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19722,7 +19723,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer le \"{0:s}\" supplémentaire ?"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Affecter une liste de lecture à la version en cours du film ?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"

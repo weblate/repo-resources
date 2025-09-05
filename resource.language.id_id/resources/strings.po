@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-08 12:29+0000\n"
-"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
+"PO-Revision-Date: 2025-09-05 22:23+0000\n"
+"Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5457,7 +5457,7 @@ msgstr "Hapus profil '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Muat ulang profil '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -5787,6 +5787,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Cari IMDb..."
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Pindai untuk konten baru"

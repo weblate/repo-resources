@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2025-08-13 15:18+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
@@ -5772,6 +5772,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Пошук в IMDb…"
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Сканувати вміст"
