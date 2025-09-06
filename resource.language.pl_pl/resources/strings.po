@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-13 15:18+0000\n"
-"Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
+"PO-Revision-Date: 2025-08-30 10:12+0000\n"
+"Last-Translator: Sebastian Kiernozek <sebastian.kiernozek70@gmail.com>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -991,7 +991,7 @@ msgstr "Zezwalaj na zdalne sterowanie przez HTTP"
 #. Label for a context menu entry / button to start/schedule a recording
 msgctxt "#264"
 msgid "Record"
-msgstr "Nagrywaj"
+msgstr "Nagraj"
 
 msgctxt "#265"
 msgid "Stop Rec."
@@ -3060,17 +3060,17 @@ msgstr "Maksymalna liczba nagrań"
 #. Representation of a one-time timer which has been scheduled by a timer rule.
 msgctxt "#819"
 msgid "One time (Scheduled by timer rule)"
-msgstr "Jednorazowo (zaplanowane według reguły timera)"
+msgstr "Jednorazowo (zaplanowane według reguły)"
 
 #. Representation of a one-time timer.
 msgctxt "#820"
 msgid "One time"
-msgstr "Raz"
+msgstr "Jednorazowo"
 
 #. Representation of an epg-based one-time timer.
 msgctxt "#821"
 msgid "One time (guide-based)"
-msgstr "Raz (wg przednika)"
+msgstr "Jednorazowo (według przewodnika)"
 
 #. Representation of a timer rule
 msgctxt "#822"
@@ -3080,7 +3080,7 @@ msgstr "Reguła harmonogramu"
 #. Representation of an epg-based timer rule.
 msgctxt "#823"
 msgid "Timer rule (guide-based)"
-msgstr "Reguła harmonogramu (bazująca na przewodniku)"
+msgstr "Reguła harmonogramu (według przewodnika)"
 
 #. Complete prefixed representation of a reminder timer type.
 msgctxt "#824"
@@ -3095,7 +3095,7 @@ msgstr "Nagranie: {0:s}"
 #. Label for buttons to add a PVR reminder timer
 msgctxt "#826"
 msgid "Set reminder"
-msgstr "Ustaw przypomnienie"
+msgstr "Przypomnij"
 
 #. Label for a context menu entry to delete a reminder timer
 msgctxt "#827"
@@ -5771,6 +5771,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Wyszukiwanie w IMDb..."
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Szukaj nowej zawartości"
@@ -7136,7 +7137,7 @@ msgstr "Zezwalaj lokalnym programom na sterowanie aplikacją"
 
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
-msgstr "Zezwalaj zdalnym programom na sterowanie aplikacją"
+msgstr "Zezwalaj na sterowanie zdalne z aplikacji na innych systemach"
 
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
@@ -8076,7 +8077,7 @@ msgstr "Usuń zadanie"
 #. Label for a context menu entry to open the timer settings dialog
 msgctxt "#19061"
 msgid "Add timer"
-msgstr "Nagrywaj"
+msgstr "Dodaj zadanie"
 
 msgctxt "#19062"
 msgid "Sort by: Channel"
@@ -13572,7 +13573,7 @@ msgstr "Rozdział {0:d}"
 
 msgctxt "#25011"
 msgid "Commercial"
-msgstr "Komercyjny"
+msgstr "Reklama"
 
 msgctxt "#25012"
 msgid "Auto-skip off"
@@ -15358,7 +15359,7 @@ msgstr "Wybierz stan zapisu"
 #. Button for creating a new save state from the select savestate dialog
 msgctxt "#35261"
 msgid "New"
-msgstr "Nowy"
+msgstr "Nowe"
 
 #. Help text for RetroAchievements username input setting
 msgctxt "#35262"

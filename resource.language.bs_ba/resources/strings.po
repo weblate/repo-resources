@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-22 19:29+0000\n"
+"PO-Revision-Date: 2025-09-05 22:23+0000\n"
 "Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Bosnian (Bosnia and Herzegovina) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/bs_ba/>\n"
 "Language: bs_ba\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -44,7 +44,7 @@ msgstr "Kodi GIT"
 
 msgctxt "#7"
 msgid "File manager"
-msgstr "Datoteka"
+msgstr "Upravitelj datoteka"
 
 msgctxt "#8"
 msgid "Weather"
@@ -91,51 +91,51 @@ msgstr "Nedjelja"
 
 msgctxt "#21"
 msgid "January"
-msgstr "januar"
+msgstr "Januar"
 
 msgctxt "#22"
 msgid "February"
-msgstr "februar"
+msgstr "Februar"
 
 msgctxt "#23"
 msgid "March"
-msgstr "mart"
+msgstr "Mart"
 
 msgctxt "#24"
 msgid "April"
-msgstr "april"
+msgstr "April"
 
 msgctxt "#25"
 msgid "May"
-msgstr "maj"
+msgstr "Maj"
 
 msgctxt "#26"
 msgid "June"
-msgstr "juni"
+msgstr "Juni"
 
 msgctxt "#27"
 msgid "July"
-msgstr "juli"
+msgstr "Juli"
 
 msgctxt "#28"
 msgid "August"
-msgstr "august"
+msgstr "Avgust"
 
 msgctxt "#29"
 msgid "September"
-msgstr "septembar"
+msgstr "Septembar"
 
 msgctxt "#30"
 msgid "October"
-msgstr "oktobar"
+msgstr "Oktobar"
 
 msgctxt "#31"
 msgid "November"
-msgstr "novembar"
+msgstr "Novembar"
 
 msgctxt "#32"
 msgid "December"
-msgstr "decembar"
+msgstr "Decembar"
 
 msgctxt "#41"
 msgid "Mon"
@@ -167,51 +167,51 @@ msgstr "Ned"
 
 msgctxt "#51"
 msgid "Jan"
-msgstr "jan"
+msgstr "Jan"
 
 msgctxt "#52"
 msgid "Feb"
-msgstr "feb"
+msgstr "Feb"
 
 msgctxt "#53"
 msgid "Mar"
-msgstr "mar"
+msgstr "Mar"
 
 msgctxt "#54"
 msgid "Apr"
-msgstr "apr"
+msgstr "Apr"
 
 msgctxt "#55"
 msgid "May"
-msgstr "maj"
+msgstr "Maj"
 
 msgctxt "#56"
 msgid "Jun"
-msgstr "jun"
+msgstr "Jun"
 
 msgctxt "#57"
 msgid "Jul"
-msgstr "jul"
+msgstr "Jul"
 
 msgctxt "#58"
 msgid "Aug"
-msgstr "aug"
+msgstr "Avg"
 
 msgctxt "#59"
 msgid "Sep"
-msgstr "sep"
+msgstr "Sep"
 
 msgctxt "#60"
 msgid "Oct"
-msgstr "okt"
+msgstr "Okt"
 
 msgctxt "#61"
 msgid "Nov"
-msgstr "nov"
+msgstr "Nov"
 
 msgctxt "#62"
 msgid "Dec"
-msgstr "dec"
+msgstr "Dec"
 
 #. Weather token
 msgctxt "#71"
@@ -665,7 +665,7 @@ msgstr "Numere"
 
 msgctxt "#183"
 msgid "Review"
-msgstr "Pregled"
+msgstr "Razgled"
 
 msgctxt "#184"
 msgid "Refresh"
@@ -760,7 +760,7 @@ msgstr "Glasova"
 
 msgctxt "#206"
 msgid "Cast"
-msgstr "Uloge"
+msgstr "Postava"
 
 msgctxt "#207"
 msgid "Plot"
@@ -1432,42 +1432,42 @@ msgstr "Naziv"
 #. Weather token
 msgctxt "#370"
 msgid "Thunderstorms"
-msgstr "grmljavina"
+msgstr "Grmljavinske oluje"
 
 #. Weather token
 msgctxt "#371"
 msgid "Partly"
-msgstr "djelimično"
+msgstr "Djelimično"
 
 #. Weather token
 msgctxt "#372"
 msgid "Mostly"
-msgstr "uglavnom"
+msgstr "Uglavnom"
 
 #. Weather token
 msgctxt "#373"
 msgid "Sunny"
-msgstr "sunčano"
+msgstr "Sunčano"
 
 #. Weather token
 msgctxt "#374"
 msgid "Cloudy"
-msgstr "oblačno"
+msgstr "Oblačno"
 
 #. Weather token
 msgctxt "#375"
 msgid "Snow"
-msgstr "snijeg"
+msgstr "Snijeg"
 
 #. Weather token
 msgctxt "#376"
 msgid "Rain"
-msgstr "kiša"
+msgstr "Kiša"
 
 #. Weather token
 msgctxt "#377"
 msgid "Light"
-msgstr "slab(a)"
+msgstr "Slabo"
 
 #. Weather token
 msgctxt "#378"
@@ -1482,52 +1482,52 @@ msgstr "popodne"
 #. Weather token
 msgctxt "#380"
 msgid "Showers"
-msgstr "pljuskovi"
+msgstr "Pljuskovi"
 
 #. Weather token
 msgctxt "#381"
 msgid "Few"
-msgstr "nekoliko"
+msgstr "Nekoliko"
 
 #. Weather token
 msgctxt "#382"
 msgid "Scattered"
-msgstr "mjestimično"
+msgstr "Raspršeno"
 
 #. Weather token
 msgctxt "#383"
 msgid "Wind"
-msgstr "vjetrovito"
+msgstr "Vjetrovito"
 
 #. Weather token
 msgctxt "#384"
 msgid "Strong"
-msgstr "izuzetno"
+msgstr "Izuzetno"
 
 #. Weather token
 msgctxt "#385"
 msgid "Fair"
-msgstr "umjereno"
+msgstr "Pošteno"
 
 #. Weather token
 msgctxt "#386"
 msgid "Clear"
-msgstr "vedro"
+msgstr "Vedro"
 
 #. Weather token
 msgctxt "#387"
 msgid "Clouds"
-msgstr "oblačno"
+msgstr "Oblaci"
 
 #. Weather token
 msgctxt "#388"
 msgid "Early"
-msgstr "rani"
+msgstr "Rano"
 
 #. Weather token
 msgctxt "#389"
 msgid "Shower"
-msgstr "pljusak"
+msgstr "Pljusak"
 
 #. Weather token
 msgctxt "#390"
@@ -1537,27 +1537,27 @@ msgstr "Susnježica"
 #. Weather token
 msgctxt "#391"
 msgid "Low"
-msgstr "nizak"
+msgstr "Nisko"
 
 #. Weather token
 msgctxt "#392"
 msgid "Medium"
-msgstr "umjeren"
+msgstr "Umjereno"
 
 #. Weather token
 msgctxt "#393"
 msgid "High"
-msgstr "visok"
+msgstr "Visoko"
 
 #. Weather token
 msgctxt "#394"
 msgid "Fog"
-msgstr "magla"
+msgstr "Magla"
 
 #. Weather token
 msgctxt "#395"
 msgid "Haze"
-msgstr "izmaglica"
+msgstr "Izmaglica"
 
 msgctxt "#396"
 msgid "Select location"
@@ -1581,7 +1581,7 @@ msgstr "Vijreme"
 
 msgctxt "#401"
 msgid "Temp"
-msgstr "Temper."
+msgstr "Temp."
 
 msgctxt "#402"
 msgid "Feels like"
@@ -1609,7 +1609,7 @@ msgstr "Hardverski rasporedi tastature"
 
 msgctxt "#409"
 msgid "Defaults"
-msgstr "Podrazumjevano"
+msgstr "Zadane postavke"
 
 msgctxt "#410"
 msgid "Accessing weather service"
@@ -1685,7 +1685,7 @@ msgstr "Umetnite ispravan CD / DVD"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Molimo, umetnite sljedeći CD/DVD"
+msgstr "Molimo, umetnite sljedeći CD/DVD:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -1764,7 +1764,7 @@ msgstr "Automatska reprod. medija"
 
 msgctxt "#448"
 msgid "Dolby Digital Plus (E-AC3) capable receiver"
-msgstr "Prijemnik koji podržava Dolby Digital Plus (E-AC3)."
+msgstr "Prijemnik koji podržava Dolby Digital Plus (E-AC3)"
 
 msgctxt "#449"
 msgid "Enabled"
@@ -2175,7 +2175,7 @@ msgstr "Album"
 
 msgctxt "#559"
 msgid "Playlist"
-msgstr "Spisak za rep."
+msgstr "Popis za rep."
 
 msgctxt "#560"
 msgid "ID"
@@ -2183,7 +2183,7 @@ msgstr "ID"
 
 msgctxt "#561"
 msgid "File"
-msgstr "Datote."
+msgstr "Datoteka"
 
 msgctxt "#562"
 msgid "Year"
@@ -2199,7 +2199,7 @@ msgstr "Tip"
 
 msgctxt "#565"
 msgid "Usage"
-msgstr "Koriš."
+msgstr "Upotreba"
 
 msgctxt "#566"
 msgid "Album artist"
@@ -2225,7 +2225,7 @@ msgstr "Datum dodavanja"
 
 msgctxt "#571"
 msgid "Default"
-msgstr "Podrazumjevano"
+msgstr "Zadano"
 
 msgctxt "#572"
 msgid "Studio"
@@ -2241,7 +2241,7 @@ msgstr "Država"
 
 msgctxt "#575"
 msgid "In progress"
-msgstr "u toku"
+msgstr "U prijenosu"
 
 msgctxt "#576"
 msgid "Times played"
@@ -2281,7 +2281,7 @@ msgstr "Silazno"
 
 msgctxt "#586"
 msgid "Edit playlist"
-msgstr "Uredi spisak za rep."
+msgstr "Uredi popis za rep."
 
 msgctxt "#587"
 msgid "Filter"
@@ -2406,7 +2406,7 @@ msgstr "Sve pjesme od"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "TV programi u toku"
+msgstr "TV programi u prijenosu"
 
 msgctxt "#629"
 msgid "View mode"
@@ -2495,12 +2495,12 @@ msgstr "Uvezi biblioteku filmova"
 #. unused?
 msgctxt "#649"
 msgid "Importing"
-msgstr "Uvoz je u toku"
+msgstr "Uvoz je u prijenosu"
 
 #. unused?
 msgctxt "#650"
 msgid "Exporting"
-msgstr "Izvoz je u toku"
+msgstr "Izvoz je u prijenosu"
 
 msgctxt "#651"
 msgid "Browse for library"
@@ -3218,7 +3218,7 @@ msgstr "Jeste li sigurni da želite zaustaviti ovo snimanje?"
 #. Label for a finale of a TV show
 msgctxt "#849"
 msgid "Finale"
-msgstr "Finale"
+msgstr "Finala"
 
 msgctxt "#850"
 msgid "Invalid port number entered"
@@ -3255,7 +3255,7 @@ msgstr "Klijent"
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr "Sustav"
+msgstr "Sistem"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
@@ -3550,11 +3550,11 @@ msgstr "Radna grupa"
 
 msgctxt "#1203"
 msgid "Default username"
-msgstr "Podrazumjevano korisničko ime"
+msgstr "Zadano korisničko ime"
 
 msgctxt "#1204"
 msgid "Default password"
-msgstr "Podrazumjevana lozinka"
+msgstr "Zadana lozinka"
 
 msgctxt "#1207"
 msgid "WINS server"
@@ -3829,7 +3829,7 @@ msgstr "Nasilno"
 #. Weather token
 msgctxt "#1396"
 msgid "Drifting"
-msgstr "klizavo"
+msgstr "Driftanje"
 
 #. Weather token
 msgctxt "#1397"
@@ -3839,37 +3839,37 @@ msgstr "i"
 #. Weather token
 msgctxt "#1398"
 msgid "Freezing"
-msgstr "poledica"
+msgstr "Poledica"
 
 #. Weather token
 msgctxt "#1399"
 msgid "Late"
-msgstr "zakašnjeli"
+msgstr "Kasno"
 
 #. Weather token
 msgctxt "#1400"
 msgid "Isolated"
-msgstr "izolovani"
+msgstr "Izolirano"
 
 #. Weather token
 msgctxt "#1401"
 msgid "Thundershowers"
-msgstr "pljuskovi sa grmljavinom"
+msgstr "Pljuskovi s grmljavinom"
 
 #. Weather token
 msgctxt "#1402"
 msgid "Thunder"
-msgstr "grmljavina"
+msgstr "Grmljavina"
 
 #. Weather token
 msgctxt "#1403"
 msgid "Sun"
-msgstr "sunčano"
+msgstr "Sunce"
 
 #. Weather token
 msgctxt "#1404"
 msgid "Heavy"
-msgstr "jak(a)"
+msgstr "Jako"
 
 #. Weather token
 msgctxt "#1405"
@@ -3884,22 +3884,22 @@ msgstr "  "
 #. Weather token
 msgctxt "#1407"
 msgid "Vicinity"
-msgstr "blizini"
+msgstr "Okružje"
 
 #. Weather token
 msgctxt "#1408"
 msgid "Ice"
-msgstr "led"
+msgstr "Led"
 
 #. Weather token
 msgctxt "#1409"
 msgid "Crystals"
-msgstr "kristali"
+msgstr "Kristali"
 
 #. Weather token
 msgctxt "#1410"
 msgid "Calm"
-msgstr "blago"
+msgstr "Blago"
 
 #. Weather token
 msgctxt "#1411"
@@ -3919,27 +3919,27 @@ msgstr "Zakrpe"
 #. Weather token
 msgctxt "#1414"
 msgid "Thunderstorm"
-msgstr "oluja"
+msgstr "Grmljavinska oluja"
 
 #. Weather token
 msgctxt "#1415"
 msgid "Drizzle"
-msgstr "rosulja kupusarka"
+msgstr "Rosulja"
 
 #. Weather token
 msgctxt "#1416"
 msgid "Foggy"
-msgstr "maglovito"
+msgstr "Maglovito"
 
 #. Weather token
 msgctxt "#1417"
 msgid "Grains"
-msgstr "grad"
+msgstr "Grad"
 
 #. Weather token
 msgctxt "#1418"
 msgid "Thunderstorms"
-msgstr "grmljavina"
+msgstr "Grmljavinske oluje"
 
 #. Weather token
 msgctxt "#1419"
@@ -4139,7 +4139,7 @@ msgstr "Koristite DTS Core"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr "Odaberite ovu opciju ako želite propuštati DTS-HD formate kao DTS, u suprotnom će se DTS-HD formati reproducirati putem PCM-a."
+msgstr "Odaberite ovu opciju ako želite propuštati DTS-HD formate kao DTS, u suprotnom će se DTS-HD formati reproducirati putem PCM-a"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4298,7 +4298,7 @@ msgstr "Napredno"
 
 msgctxt "#10039"
 msgid "Expert"
-msgstr "Stručnjak"
+msgstr "Stručno"
 
 msgctxt "#10040"
 msgid "Add-on browser"
@@ -4626,7 +4626,7 @@ msgstr "Podaci o sistemu"
 
 msgctxt "#10516"
 msgid "Music - Library"
-msgstr "Muzička bibliote."
+msgstr "Muzika - Biblioteka"
 
 msgctxt "#10517"
 msgid "Now playing - Music"
@@ -5125,15 +5125,15 @@ msgstr "Sistem je aktivan"
 
 msgctxt "#12391"
 msgid "Minutes"
-msgstr "minuta"
+msgstr "Minuta"
 
 msgctxt "#12392"
 msgid "Hours"
-msgstr "sati"
+msgstr "Sati"
 
 msgctxt "#12393"
 msgid "Days"
-msgstr "dana"
+msgstr "Dana"
 
 msgctxt "#12394"
 msgid "Total uptime"
@@ -5178,7 +5178,7 @@ msgstr "Igra preko cijelog ekrana"
 # empty strings from id 12907 to 12998
 msgctxt "#12999"
 msgid "Startup"
-msgstr "Startup"
+msgstr "Pokretanje"
 
 msgctxt "#13000"
 msgid "System"
@@ -5336,7 +5336,7 @@ msgstr "Onemogućeno"
 
 msgctxt "#13107"
 msgid "Enabled during video playback"
-msgstr "Omogućeno tokom reprodukcije filma"
+msgstr "Omogućeno prijenosom reprodukcije filma"
 
 msgctxt "#13108"
 msgid "Always enabled"
@@ -5584,7 +5584,7 @@ msgstr "Skladište"
 
 msgctxt "#13278"
 msgid "Default"
-msgstr "Podrazumjevano"
+msgstr "Zadano"
 
 msgctxt "#13279"
 msgid "Network"
@@ -5817,6 +5817,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Pretraži IMDb..."
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Potraži novi sadržaj"
@@ -5884,19 +5885,19 @@ msgstr "Jačina zvuka"
 
 msgctxt "#13377"
 msgid "Default view mode"
-msgstr "Podrazumjevani režim prikaza"
+msgstr "Zadani način prikaza"
 
 msgctxt "#13378"
 msgid "Default brightness"
-msgstr "Podrazumjevana svjetlina"
+msgstr "Zadana svjetlina"
 
 msgctxt "#13379"
 msgid "Default contrast"
-msgstr "Podrazumjevani kontrast"
+msgstr "Zadani kontrast"
 
 msgctxt "#13380"
 msgid "Default gamma"
-msgstr "Podrazumjevani opseg boja"
+msgstr "Zadani opseg boja"
 
 msgctxt "#13381"
 msgid "Resume video"
@@ -5945,7 +5946,7 @@ msgstr "Izbacivanje / Učitavanje"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr "Odabir streama"
+msgstr "Odabir prijenosa"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6312,7 +6313,7 @@ msgstr "16 bita po kanalu"
 
 msgctxt "#13505"
 msgid "Resample quality"
-msgstr "Kvalitet ponov. odab."
+msgstr "Kvalitet ponov. uzork."
 
 msgctxt "#13506"
 msgid "Low (fast)"
@@ -6365,7 +6366,7 @@ msgstr "Prag za korekciju visine tona"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr "Kada promjena brzine pređe ovaj prag, primijenit će se filter za korekciju visine tona. Ovo izbjegava \"glasove vjeverica\" koji obično nastaju ubrzavanjem videa."
+msgstr "Kada promjena brzine pređe ovaj prag, primijenit će se filter za korekciju visine tona. Ovo izbjegava \"glasove vjeverica\" koji obično nastaju ubrzavanjem videa"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6797,7 +6798,7 @@ msgstr "Skup znakova"
 
 msgctxt "#14092"
 msgid "Logging"
-msgstr "Sječa drva"
+msgstr "Zapisivanje"
 
 msgctxt "#14093"
 msgid "Security"
@@ -6813,7 +6814,7 @@ msgstr "Ušteda energije"
 
 msgctxt "#14096"
 msgid "Rip"
-msgstr "Rip"
+msgstr "Izcjepa"
 
 msgctxt "#14097"
 msgid "Audio CD insert action"
@@ -7060,7 +7061,7 @@ msgstr "Kontrola"
 
 msgctxt "#14224"
 msgid "Startup"
-msgstr "Startup"
+msgstr "Pokretanje"
 
 msgctxt "#14225"
 msgid "Network Control"
@@ -7322,7 +7323,7 @@ msgstr "Zvukovi grafičkog korisničkog interfejsa"
 
 msgctxt "#15109"
 msgid "Skin default"
-msgstr "Podrazumjevana maska"
+msgstr "Zadana koža"
 
 msgctxt "#15110"
 msgid "Larger font size"
@@ -7334,7 +7335,7 @@ msgstr "Tema"
 
 msgctxt "#15112"
 msgid "Default theme"
-msgstr "Podrazumjevana tema"
+msgstr "Zadana tema"
 
 msgctxt "#15200"
 msgid "Last.fm"
@@ -7493,7 +7494,7 @@ msgstr "Unesite ime albuma"
 
 msgctxt "#16012"
 msgid "Enter the playlist name"
-msgstr "Unesite ime spiska za rep."
+msgstr "Unesite naziv popisa"
 
 msgctxt "#16013"
 msgid "Enter new filename"
@@ -7616,11 +7617,11 @@ msgstr "Svi videozapisi"
 
 msgctxt "#16101"
 msgid "Unwatched"
-msgstr "neodgledanih"
+msgstr "Negledano"
 
 msgctxt "#16102"
 msgid "Watched"
-msgstr "odgledanih"
+msgstr "Gledano"
 
 #. Label for a context menu entry to mark an item as watched
 msgctxt "#16103"
@@ -8509,7 +8510,7 @@ msgstr "Kanal nedostupan"
 #. channel group manager dialog error message box text
 msgctxt "#19137"
 msgid "No groups defined. Please create a group first"
-msgstr "Nema definiranih grupa. Prvo kreirajte grupu."
+msgstr "Nema definiranih grupa. Molimo vas da prvo kreirate grupu"
 
 #. Label of timer rules tv/radio home submenu item
 msgctxt "#19138"
@@ -8522,10 +8523,9 @@ msgid "Name of the new group"
 msgstr "Ime nove grupe"
 
 #. PVR search window 'search' list item label
-#, fuzzy
 msgctxt "#19140"
 msgid "Search..."
-msgstr "Traži..."
+msgstr "Pretraži..."
 
 #. generic PVR channel 'group' label used in different places
 msgctxt "#19141"
@@ -8714,7 +8714,6 @@ msgid "Show channel information when switching channels"
 msgstr "Pokaži informacije o kanalu kada mjenjam kanale"
 
 #. header used in pvr recordings window
-#, fuzzy
 msgctxt "#19179"
 msgid "Deleted"
 msgstr "Izbrisano"
@@ -8866,7 +8865,6 @@ msgid "Kodi virtual backend"
 msgstr "Kodi virtuelni backend"
 
 #. pvr channel manager "epg source" selector value
-#, fuzzy
 msgctxt "#19210"
 msgid "Client"
 msgstr "Klijent"
@@ -8907,7 +8905,6 @@ msgid "All TV channels"
 msgstr "Svi TV kanali"
 
 #. 'visible' label used as prefix for 'group' control label in pvr channel group manager dialog, e.g. "Visible TV groups"
-#, fuzzy
 msgctxt "#19218"
 msgid "Visible"
 msgstr "Vidljivo"
@@ -9092,7 +9089,6 @@ msgid "{0:d} scheduled"
 msgstr "{0:d} zakazano"
 
 #. for a timer rule or timer to indicate this item has completed the intended recordings. For use in "status" fields.
-#, fuzzy
 msgctxt "#19256"
 msgid "Completed"
 msgstr "Završeno"
@@ -9267,7 +9263,6 @@ msgid "Undelete"
 msgstr "Poništi brisanje"
 
 #. Label for a context menu entry of a recording to permanently delete a deleted recording
-#, fuzzy
 msgctxt "#19291"
 msgid "Delete permanently"
 msgstr "Ukloni trajno"
@@ -9308,7 +9303,6 @@ msgid "Horizontal channels"
 msgstr "Horizontalni kanali"
 
 #. generic "expiration" label used in different places
-#, fuzzy
 msgctxt "#19299"
 msgid "Expires"
 msgstr "Ističe"
@@ -9589,7 +9583,6 @@ msgid "Play only this programme"
 msgstr "Reprodukuj samo ovaj program"
 
 #. Label of a context menu entry to create a copy of an EPG saved saerch
-#, fuzzy
 msgctxt "#19355"
 msgid "Duplicate"
 msgstr "Umnoži"
@@ -9690,7 +9683,7 @@ msgstr "Emisija / Kviz"
 #. label for "show/game show" epg subgenre value
 msgctxt "#19533"
 msgid "Game show / Quiz / Contest"
-msgstr "Kviz / Kviz / Takmičenje"
+msgstr "Kviz / Takmičenje"
 
 #. label for "show/game show" epg subgenre value
 msgctxt "#19534"
@@ -9700,7 +9693,7 @@ msgstr "Varijete"
 #. label for "show/game show" epg subgenre value
 msgctxt "#19535"
 msgid "Talk show"
-msgstr "Talk show"
+msgstr "Razgovorna emisija"
 
 # empty strings from id 19536 to 19547
 #. label for "sports" epg genre value
@@ -10123,11 +10116,11 @@ msgstr "Fascikla sa sačuvanom muzikom"
 
 msgctxt "#20001"
 msgid "Use external DVD player"
-msgstr "Koristi spoljni DVD uređaj za rep."
+msgstr "Koristite eksterni DVD uređaj"
 
 msgctxt "#20002"
 msgid "External DVD player"
-msgstr "Spoljni DVD uređaj za rep."
+msgstr "Spoljni DVD uređaj"
 
 msgctxt "#20003"
 msgid "Trainers folder"
@@ -10139,7 +10132,7 @@ msgstr "Fascikla sa slikama ekrana"
 
 msgctxt "#20006"
 msgid "Playlists folder"
-msgstr "Fascikla sa spiskovima za rep."
+msgstr "Fascikla sa popisima"
 
 msgctxt "#20007"
 msgid "Recordings"
@@ -10325,15 +10318,15 @@ msgstr "Odvojeno"
 
 msgctxt "#20062"
 msgid "Shares with default"
-msgstr "Podrazumjevano djeljenje"
+msgstr "Dijeljenja sa zadanim postavkama"
 
 msgctxt "#20063"
 msgid "Shares with default (read only)"
-msgstr "Podrazumjevano djeljenje (samo čitanje)"
+msgstr "Dijeljenja sa zadanim postavkama (samo za čitanje)"
 
 msgctxt "#20064"
 msgid "Copy default"
-msgstr "Podrazumjevano kopiranje"
+msgstr "Kopiraj zadano"
 
 msgctxt "#20065"
 msgid "Profile picture"
@@ -10377,7 +10370,7 @@ msgstr "Unesite glavni kôd za otključavanje"
 
 msgctxt "#20076"
 msgid "Ask for master lock code on startup"
-msgstr "Pitaj za glavni kôd prilikom pokretanja apl."
+msgstr "Traži glavni kod za zaključavanje pri pokretanju"
 
 msgctxt "#20077"
 msgid "Skin settings"
@@ -10875,7 +10868,7 @@ msgstr "Preferirajte omote albuma online"
 #. Description of setting with label #20224 "Prefer online album art"
 msgctxt "#20225"
 msgid "Where no local album cover exists, online art will be used. Where neither is available, cover images embedded in music files will be used"
-msgstr "Tamo gdje ne postoji lokalni omot albuma, koristit će se online ilustracije. Tamo gdje nijedno nije dostupno, koristit će se slike omota ugrađene u muzičke datoteke."
+msgstr "Tamo gdje ne postoji lokalni omot albuma, koristit će se online ilustracije. Tamo gdje nijedno nije dostupno, koristit će se slike omota ugrađene u muzičke datoteke"
 
 msgctxt "#20226"
 msgid "Movie set information folder"
@@ -11214,7 +11207,7 @@ msgstr "* Sve sezone"
 
 msgctxt "#20367"
 msgid "Hide watched"
-msgstr "Sakr. odgled."
+msgstr "Sakrij gledano"
 
 msgctxt "#20368"
 msgid "Prod code"
@@ -11292,7 +11285,7 @@ msgstr "Ukloni vezu ka TV seriji"
 
 msgctxt "#20386"
 msgid "Recently added movies"
-msgstr "Nedav. dodati film."
+msgstr "Nedavno dodati filmovi"
 
 msgctxt "#20387"
 msgid "Recently added episodes"
@@ -11555,7 +11548,7 @@ msgstr "Preuzimanje informacija nije uspjelo"
 
 msgctxt "#20449"
 msgid "Unable to connect to remote server"
-msgstr "Server je najvjerovatnije nedostupan."
+msgstr "Nije moguće povezati se s udaljenim serverom"
 
 msgctxt "#20450"
 msgid "Unable to connect to remote server. Would you like to continue scanning?"
@@ -11567,11 +11560,11 @@ msgstr "Zemlje"
 
 msgctxt "#20452"
 msgid "episode"
-msgstr "Epizoda"
+msgstr "epizoda"
 
 msgctxt "#20453"
 msgid "episodes"
-msgstr "Epizoda"
+msgstr "epizoda"
 
 msgctxt "#20454"
 msgid "Listener"
@@ -11594,7 +11587,6 @@ msgctxt "#20458"
 msgid "Show movie sets"
 msgstr "Prikaži filmske setove"
 
-#, fuzzy
 msgctxt "#20459"
 msgid "Tags"
 msgstr "Oznake"
@@ -11749,7 +11741,7 @@ msgstr "MIME tip: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr "Specijalno {0:d} - {1:s}"
+msgstr "Posebno {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
@@ -11759,7 +11751,7 @@ msgstr "Epizoda {0:d} - {1:s}"
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr "Specijalno"
+msgstr "Posebno"
 
 # empty strings from id 21346 to 21357
 msgctxt "#21358"
@@ -12013,7 +12005,7 @@ msgstr "Vrijednosti se ne podudaraju"
 
 msgctxt "#21421"
 msgid "Smart playlist rule"
-msgstr "Pravilo pametnog spis. za rep."
+msgstr "Pravilo pametne liste pjesama"
 
 msgctxt "#21422"
 msgid "Match items where"
@@ -12243,7 +12235,6 @@ msgid "Neither"
 msgstr "Ni jedno ni drugo"
 
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
-#, fuzzy
 msgctxt "#21475"
 msgid "Both"
 msgstr "Oboje"
@@ -12279,10 +12270,9 @@ msgid "Subtitle track count"
 msgstr "Broj pjesama u titlovima"
 
 #. Label for controls used to view something (e.g. a context menu entry to open read-only timer settings dialog)
-#, fuzzy
 msgctxt "#21483"
 msgid "View"
-msgstr "Prikaz"
+msgstr "Pregled"
 
 #. Button label to show list of supported types, e.g. supported file extensions
 msgctxt "#21484"
@@ -12648,7 +12638,7 @@ msgstr "OpenGL proizvođač:"
 
 msgctxt "#22008"
 msgid "OpenGL renderer:"
-msgstr "OpenGL renderer:"
+msgstr "OpenGL prikazivač:"
 
 msgctxt "#22009"
 msgid "OpenGL version:"
@@ -12743,7 +12733,6 @@ msgctxt "#22079"
 msgid "Default select action"
 msgstr "Zadana radnja odabira"
 
-#, fuzzy
 msgctxt "#22080"
 msgid "Choose"
 msgstr "Odabrati"
@@ -12786,7 +12775,7 @@ msgstr "Zaustavljanje"
 
 msgctxt "#23054"
 msgid "Running"
-msgstr "Pokretanje"
+msgstr "U pokretu"
 
 msgctxt "#23055"
 msgid "Scale teletext to 4:3"
@@ -12800,7 +12789,7 @@ msgstr "Vanjski uređaj je aktivan"
 
 msgctxt "#23101"
 msgid "Click \"OK\" to terminate the player"
-msgstr "Kliknite na \"OK\" da biste prekinuli igru."
+msgstr "Kliknite na \"OK\" da biste prekinuli pokretnik"
 
 # empty strings from id 23102 to 23103
 msgctxt "#23104"
@@ -12809,15 +12798,15 @@ msgstr "Kliknite na \"OK\" kada se reprodukcija završi"
 
 msgctxt "#24000"
 msgid "Add-on"
-msgstr "Dodatni prog."
+msgstr "Dodatak"
 
 msgctxt "#24001"
 msgid "Add-ons"
-msgstr "Dodatni prog."
+msgstr "Dodaci"
 
 msgctxt "#24002"
 msgid "Add-on options"
-msgstr "Opcije dodatnog prog."
+msgstr "Opcije dodataka"
 
 msgctxt "#24003"
 msgid "Add-on information"
@@ -12855,7 +12844,7 @@ msgstr "Vizualizacija"
 
 msgctxt "#24011"
 msgid "Add-on repository"
-msgstr "Spremište dodatnog prog."
+msgstr "Spremište dodataka"
 
 msgctxt "#24012"
 msgid "Subtitles"
@@ -12892,15 +12881,15 @@ msgstr "PVR klijenti"
 
 msgctxt "#24020"
 msgid "Configure"
-msgstr "Podešavanje dodatnog prog."
+msgstr "Konfiguriraj"
 
 msgctxt "#24021"
 msgid "Disable"
-msgstr "Onemogući dodatni prog."
+msgstr "Onemogući"
 
 msgctxt "#24022"
 msgid "Enable"
-msgstr "Omogući dodatni prog."
+msgstr "Omogući"
 
 #. Defines the state of the add-on in the add-on manager window
 msgctxt "#24023"
@@ -12961,12 +12950,10 @@ msgctxt "#24036"
 msgid "Changelog"
 msgstr "Dnevnik promjena"
 
-#, fuzzy
 msgctxt "#24037"
 msgid "Uninstall"
 msgstr "Ukloni"
 
-#, fuzzy
 msgctxt "#24038"
 msgid "Install"
 msgstr "Instaliraj"
@@ -13029,7 +13016,7 @@ msgstr "Verzija:"
 
 msgctxt "#24052"
 msgid "Disclaimer"
-msgstr "Odricanje:"
+msgstr "Odricanje"
 
 msgctxt "#24053"
 msgid "License:"
@@ -13110,7 +13097,7 @@ msgstr "Dodatak nije mogao biti učitan."
 
 msgctxt "#24071"
 msgid "An unknown error has occurred."
-msgstr "Dogodila se nepoznata greška"
+msgstr "Došlo je do nepoznate greške."
 
 msgctxt "#24072"
 msgid "Settings required"
@@ -13126,7 +13113,7 @@ msgstr "Ponovno pokretanje je neophodno"
 
 msgctxt "#24075"
 msgid "Disable"
-msgstr "Onemogući dodatni prog."
+msgstr "Onemogući"
 
 msgctxt "#24076"
 msgid "Add-on required"
@@ -13363,7 +13350,7 @@ msgstr "Omogući parsiranje za titlove"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
-msgstr "Omogući parsiranje za CC u video streamu. Stavlja malo više opterećenja na CPU."
+msgstr "Omogući parsiranje za CC u video prijenosu. Stavlja malo više opterećenja na CPU"
 
 msgctxt "#24132"
 msgid "Would you like to switch to this language?"
@@ -13391,7 +13378,6 @@ msgid "Install auto updates only"
 msgstr "Instaliraj samo automatska ažuriranja"
 
 #. Button caption in DialogAddoninfo
-#, fuzzy
 msgctxt "#24138"
 msgid "Update"
 msgstr "Ažuriraj"
@@ -13402,10 +13388,9 @@ msgid "View add-on"
 msgstr "Pogledajte dodatak"
 
 #. Label for the action provided by media library events to jump to a specific path/file
-#, fuzzy
 msgctxt "#24140"
 msgid "View"
-msgstr "Prikaz"
+msgstr "Pregled"
 
 #. Used as an event log description for add-ons that have been disabled
 msgctxt "#24141"
@@ -13500,7 +13485,7 @@ msgstr "Ignoriraj prvi dodir/prevlačenje/pomicanje Siri daljinskog upravljača 
 
 msgctxt "#24161"
 msgid "This prevents you from accidental tap/swipe/pan action when you grab the remote in your hand"
-msgstr "Ovo vas sprečava da slučajno dodirnete/prevučete/pomaknete daljinski upravljač kada ga uzmete u ruku."
+msgstr "Ovo vas spr(j)ečava da slučajno dodirnete/prevučete/pomaknete daljinski upravljač kada ga uzmete u ruku"
 
 msgctxt "#24162"
 msgid "Use Kodi virtual keyboard"
@@ -13508,7 +13493,7 @@ msgstr "Koristite Kodi virtuelnu tastaturu"
 
 msgctxt "#24163"
 msgid "The higher the value, the more sensitive the pan gesture"
-msgstr "Što je veća vrijednost, to je osjetljiviji pokret panoramiranja."
+msgstr "Što je veća vrijednost, to je osjetljiviji pokret panoramiranja"
 
 # empty string with id 24163
 #. Header text for yes/no dialog about enable of broken add-on
@@ -13580,7 +13565,7 @@ msgstr "Minimum: {0:s} / Instalirano: {1:s} => Ažuriraj na: {2:s}{3:s}"
 #. used in #24180 - #24183 as {3:s}
 msgctxt "#24184"
 msgid " (optional)"
-msgstr " (opciono)"
+msgstr " (odabirno)"
 
 #. The minimum version, only lower versions are available for install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
@@ -13614,7 +13599,7 @@ msgstr "Pružaoci informacija"
 
 msgctxt "#24994"
 msgid "Running"
-msgstr "Pokretanje"
+msgstr "U pokretu"
 
 msgctxt "#24995"
 msgid "Orphaned"
@@ -13638,7 +13623,6 @@ msgid "Hide incompatible"
 msgstr "Sakrij nekompatibilno"
 
 #. Used in add-on browser
-#, fuzzy
 msgctxt "#25000"
 msgid "Notifications"
 msgstr "Obavijesti"
@@ -13679,7 +13663,7 @@ msgstr "Reprodukcija Blu-ray diska nije uspjela"
 
 msgctxt "#25009"
 msgid "The menu of this Blu-ray is not supported"
-msgstr "Meni ovog Blu-ray diska nije podržan."
+msgstr "Meni ovog Blu-ray diska nije podržan"
 
 msgctxt "#25010"
 msgid "Chapter {0:d}"
@@ -13793,7 +13777,6 @@ msgid "Studio"
 msgstr "Studio"
 
 #. Phone number (if present)
-#, fuzzy
 msgctxt "#29910"
 msgid "Phone"
 msgstr "Telefon"
@@ -13804,10 +13787,9 @@ msgid "EMail"
 msgstr "E-pošta"
 
 #. SMS message number (if present)
-#, fuzzy
 msgctxt "#29912"
 msgid "SMS"
-msgstr "Sms"
+msgstr "SMS"
 
 #. Hotline phone (if present)
 msgctxt "#29913"
@@ -13815,13 +13797,11 @@ msgid "Hotline"
 msgstr "Vruća linija"
 
 #. Website address (if present)
-#, fuzzy
 msgctxt "#29914"
 msgid "Website"
 msgstr "Web stranica"
 
 #. General information news, in list selector (if present)
-#, fuzzy
 msgctxt "#29915"
 msgid "Info"
 msgstr "Info"
@@ -13847,13 +13827,11 @@ msgid "Lottery"
 msgstr "Lutrija"
 
 #. Stock information, in list selector (if present)
-#, fuzzy
 msgctxt "#29920"
 msgid "Stock"
 msgstr "Zaliha"
 
 #. Other informations, in list selector (if present)
-#, fuzzy
 msgctxt "#29921"
 msgid "Other"
 msgstr "Drugo"
@@ -13910,7 +13888,6 @@ msgid "Personality"
 msgstr "Ličnost"
 
 #. Program style name
-#, fuzzy
 msgctxt "#29935"
 msgid "Public"
 msgstr "Javno"
@@ -13961,7 +13938,6 @@ msgid "Sport"
 msgstr "Sport"
 
 #. Program style name
-#, fuzzy
 msgctxt "#29945"
 msgid "Education"
 msgstr "Obrazovanje"
@@ -14179,7 +14155,6 @@ msgid "Orchestras"
 msgstr "Orkestri"
 
 #. Title for music artist roles node
-#, fuzzy
 msgctxt "#29994"
 msgid "Roles"
 msgstr "Uloge"
@@ -14467,10 +14442,9 @@ msgctxt "#33083"
 msgid "Enable custom script button"
 msgstr "Omogući prilagođeni taster za sjruotu"
 
-#, fuzzy
 msgctxt "#33084"
 msgid "Auto login"
-msgstr "Automatsko prijavljivanje"
+msgstr "Auto-prijavljivanje"
 
 # empty strings from id 33085 to 33099
 msgctxt "#33100"
@@ -14532,7 +14506,7 @@ msgstr "Windows Media Audio 2 (FFmpeg wmav2)"
 
 msgctxt "#34008"
 msgid "When you need to enter some text, Kodi virtual keyboard will show up instead of the built-in tvOS keyboard"
-msgstr "Kada trebate unijeti neki tekst, umjesto ugrađene tvOS tastature će se pojaviti Kodi virtuelna tastatura."
+msgstr "Kada trebate unijeti neki tekst, umjesto ugrađene tvOS tastature će se pojaviti Kodi virtuelna tastatura"
 
 msgctxt "#34009"
 msgid "Siri remote pan gesture horizontal sensitivity"
@@ -14622,10 +14596,9 @@ msgid "If enabled, this setting will include lfe channel into the mixing when th
 msgstr "Ako je omogućeno, ova postavka će uključiti LFE kanal u miks kada nema dostupnog namjenskog LFE izlaznog kanala. Ovo ima smisla samo za zvučnike punog opsega."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
-#, fuzzy
 msgctxt "#34116"
 msgid "Off"
-msgstr "Ugašeno"
+msgstr "Isklj."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
@@ -15485,7 +15458,6 @@ msgid "Failed to install add-on."
 msgstr "Instaliranje dodatka nije uspjelo."
 
 #. Label on installed emulators in the emulator selection dialog
-#, fuzzy
 msgctxt "#35257"
 msgid "Installed"
 msgstr "Instalirano"
@@ -15496,7 +15468,6 @@ msgid "Select emulator for {0:s} file"
 msgstr "Odaberite emulator za {0:s} datoteku"
 
 #. Label on emulators with a savestate in the emulator selection dialog
-#, fuzzy
 msgctxt "#35259"
 msgid "Saved"
 msgstr "Spašeno"
@@ -15507,10 +15478,9 @@ msgid "Select savestate"
 msgstr "Odaberite stanje spremanja"
 
 #. Button for creating a new save state from the select savestate dialog
-#, fuzzy
 msgctxt "#35261"
 msgid "New"
-msgstr "Novo u ponudu"
+msgstr "Novo u ponudi"
 
 #. Help text for RetroAchievements username input setting
 msgctxt "#35262"
@@ -15593,7 +15563,7 @@ msgstr "Povezivanje sa pozadinskim sistemom."
 # empty strings from id 35510 to 35999
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
-msgstr "Pulse-Eight CEC adapter"
+msgstr "Pulse-8 CEC adapter"
 
 msgctxt "#36001"
 msgid "Pulse-Eight Nyxboard"
@@ -15719,7 +15689,7 @@ msgstr "Ovaj korisnik nema dozvole za otvaranje CEC adaptera"
 
 msgctxt "#36032"
 msgid "The port is busy. Only one program can access the CEC adapter"
-msgstr "Port je zauzet. Samo jedan program može pristupiti CEC adapteru."
+msgstr "Port je zauzet. Samo jedan program može pristupiti CEC adapteru"
 
 msgctxt "#36033"
 msgid "Action when switching to another source"
@@ -15834,7 +15804,7 @@ msgstr "Koristite 10 bita za SDR"
 # empty strings from id 36051 to 36098
 msgctxt "#36099"
 msgid "Dithering"
-msgstr "Dithering"
+msgstr "Treperenje"
 
 msgctxt "#36100"
 msgid "Dither depth"
@@ -16452,7 +16422,7 @@ msgstr "Ova kategorija sadrži postavke za snimke."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
-msgstr "Trajanje trenutnih snimaka pri pritisku na dugme za snimanje. Ova vrijednost će se uzeti u obzir ako je \"Akcija trenutnog snimanja\" postavljena na \"Snimanje u određenom vremenskom periodu\"."
+msgstr "Trajanje trenutnih snimaka pri pritisku na dugme za snimanje. Ova vrijednost će se uzeti u obzir ako je \"Akcija trenutnog snimanja\" postavljena na \"Snimanje u određenom vremenskom periodu\""
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
@@ -16567,7 +16537,7 @@ msgstr "Još nema dostupnih informacija."
 #. Description of setting with label #19108 "Refreshrate"
 msgctxt "#36261"
 msgid "If enabled, this framerate is used for streams we were not able to detect fps."
-msgstr "Ako je omogućeno, ova brzina kadrova se koristi za streamove kod kojih nismo uspjeli detektovati broj kadrova u sekundi."
+msgstr "Ako je omogućeno, ova brzina kadrova se koristi za prijenose kod kojih nismo uspjeli detektovati broj kadrova u sekundi."
 
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
@@ -17065,11 +17035,11 @@ msgstr "Odaberite kako se postavljaju svojstva audio izlaza: [Fiksno] Svojstva i
 #. Description of setting with label #34100 "Number of channels"
 msgctxt "#36362"
 msgid "Select the number of channels supported by the audio connection, or the number of speakers if connected by analogue connections. This setting does not apply to passthrough audio. Note: S/PDIF supports 2.0 channels only but can still output multichannel audio using a format supported by passthrough."
-msgstr "Odaberite broj kanala koje podržava audio priključak ili broj zvučnika ako su povezani analognim priključcima. Ova postavka se ne odnosi na prolazni audio. Napomena: S/PDIF podržava samo 2.0 kanala, ali i dalje može reproducirati višekanalni audio koristeći format koji podržava prolazni audio."
+msgstr "Odaberite broj kanala koje podržava audio priključak ili broj zvučnika ako su povezani analognim priključcima. Ova postavka se ne odnosi na prolazni audio. Napomena: S/PDIF podržava samo 2.0 kanale, ali i dalje može reproducirati višekanalni audio koristeći format koji podržava prolazni zvuk."
 
 msgctxt "#36363"
 msgid "Boost AC3 streams that have been downmixed to 2 channels."
-msgstr "Pojačajte AC3 streamove koji su svedeni na 2 kanala."
+msgstr "Pojačajte AC3 prijenose koji su svedeni na 2 kanala."
 
 #. Description of setting with label #252 "Stereo upmix"
 msgctxt "#36364"
@@ -17079,12 +17049,12 @@ msgstr "Odaberite da biste omogućili miksovanje dvokanalnog zvuka na broj audio
 #. Description of setting with label #364 "Dolby Digital (AC3) capable receiver"
 msgctxt "#36365"
 msgid "Select this option if your receiver is capable of decoding Dolby Digital (AC3) streams."
-msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati Dolby Digital (AC3) streamove."
+msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati Dolby Digital (AC3) prijenose."
 
 #. Description of setting with label #254 "DTS capable receiver"
 msgctxt "#36366"
 msgid "Select this option if your receiver is capable of decoding DTS streams."
-msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati DTS streamove."
+msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati DTS prijenose."
 
 msgctxt "#36367"
 msgid "Select the maximum number of audio channels / speakers available for decoded audio. If optical / coax digital outputs are used, this must be set to 2.0"
@@ -17093,17 +17063,17 @@ msgstr "Odaberite maksimalan broj audio kanala / zvučnika dostupnih za dekodira
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "Odaberite da biste omogućili prolaz zvuka za reprodukciju komprimiranog zvuka kao što je Dolby Digital (AC3), DTS itd. Klijent AudioEngine-a, na primjer Videoplayer, može odlučiti dekodirati audio stream pod određenim uvjetima. U slučaju Videoplayera, prolaz se neće koristiti za prijenose uživo i kada sinhronizirate reprodukciju s prikazom."
+msgstr "Odaberite da biste omogućili prolaz zvuka za reprodukciju komprimiranog zvuka kao što je Dolby Digital (AC3), DTS itd. Klijent AudioEngine-a, na primjer Videoplayer, može odlučiti dekodirati audio prijenos pod određenim uvjetima. U slučaju Videoplayera, prolaz se neće koristiti za prijenose uživo i kada sinhronizirate reprodukciju s prikazom."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
 msgid "Select this option if your receiver is capable of decoding TrueHD streams."
-msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati TrueHD streamove."
+msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati TrueHD prijenose."
 
 #. Description of setting with label #347 "DTS-HD capable receiver"
 msgctxt "#36370"
 msgid "Select this option if your receiver is capable of decoding DTS-HD streams."
-msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati DTS-HD streamove."
+msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati DTS-HD prijenose."
 
 #. Description of setting with label #545 "Audio output device"
 msgctxt "#36371"
@@ -17416,7 +17386,7 @@ msgstr "Ako je omogućeno, prebacite se na kanal s programom za podsjetnik prili
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr "Sortiraj grupe kanala prema redoslijedu koji je odredio backend(ovi). Ako je omogućeno, grupe se ne mogu mijenjati u Upravitelju grupa."
+msgstr "Sortiraj grupe kanala prema redoslijedu koji je određen od izakraja. Ako je omogućeno, grupe se ne mogu mijenjati u upravitelju grupa"
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -17592,7 +17562,7 @@ msgstr "Isto kao i film"
 #. Description of setting with label #346 "Normalize levels on downmix"
 msgctxt "#36533"
 msgid "Select how audio is downmixed, e.g. from 5.1 to 2.0.[CR][Enabled] Maintains volume level of the original audio source however the dynamic range is compressed.[CR][Disabled] Maintains the dynamic range of the original audio source when downmixed however volume will be lower. Note: Dynamic range is the difference between the quietest and loudest sounds in an audio source. Enable this setting if movie dialogues are barely audible."
-msgstr ""
+msgstr "Odaberite način smanjenja jačine zvuka, npr. sa 5.1 na 2.0. [CR][Omogućeno] Održava nivo jačine zvuka originalnog audio izvora, međutim, dinamički raspon je komprimiran. [CR][Onemogućeno] Održava dinamički raspon originalnog audio izvora prilikom smanjenja jačine zvuka, međutim, jačina zvuka će biti niža. Napomena: Dinamički raspon je razlika između najtiših i najglasnijih zvukova u audio izvoru. Omogućite ovu postavku ako su dijalozi u filmu jedva čujni."
 
 #. Description of setting with label #668 "Component-specific logging..."
 msgctxt "#36534"
@@ -17889,31 +17859,30 @@ msgstr "Uklonite bendiranje uzrokovano konverzijom RGB nivoa ili drugom obradom 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr ""
+msgstr "Preciznost izlaza podrhtavanja videa u bitovima. Koristite najvišu postavku koja ne prikazuje bending. Za većinu sistema preporučuje se zadana postavka od 8. Ako je vaša grafička kartica postavljena za skaliranje izlaznih RGB nivoa ili koristite ekran laptopa, postavka od 7 ili 6 bita može eliminirati više bendinga. Niže postavke su dostupne samo u svrhu testiranja kako bi se lakše vidjelo da li se primjenjuje podrhtavanje i da li veličina piksela šuma podrhtavanja odgovara rezoluciji ekrana."
 
 # reserved strings 365XX
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za način rukovanja muzičkom bibliotekom."
 
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
 msgid "This category contains the settings for how music file lists are handled."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za način rukovanja listama muzičkih datoteka."
 
 #. Description of settings category with label #1273 "AirPlay"
 msgctxt "#36602"
 msgid "This category contains the settings for how the AirPlay service is handled."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za način rukovanja AirPlay uslugom."
 
 #. Description of settings category with label #14220 Display
 msgctxt "#36603"
 msgid "This category contains the settings for displays."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za ekrane."
 
 # empty string with id 36604
-#, fuzzy
 msgctxt "#36605"
 msgid "Updates"
 msgstr "Nadogradnje"
@@ -17921,86 +17890,86 @@ msgstr "Nadogradnje"
 #. Option for setting "System -> Add-ons -> Updates"
 msgctxt "#36606"
 msgid "Install updates automatically"
-msgstr ""
+msgstr "Automatski instaliraj ažuriranja"
 
 #. Option for setting "System -> Add-ons -> Updates"
 msgctxt "#36607"
 msgid "Notify, but don't install updates"
-msgstr ""
+msgstr "Obavijesti, ali nemoj instalirati ažuriranja"
 
 #. Option for setting "System -> Add-ons -> Updates"
 msgctxt "#36608"
 msgid "Never check for updates"
-msgstr ""
+msgstr "Nikad ne provjeravaj ažuriranja"
 
 msgctxt "#36609"
 msgid "Show notifications"
-msgstr ""
+msgstr "Prikaži obavještenja"
 
 #. Description of settings category "Add-ons"
 msgctxt "#36610"
 msgid "This category contains settings for the add-on system."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za sistem dodataka."
 
 #. Description of setting with label #36605 "Updates"
 msgctxt "#36611"
 msgid "Change how auto updating of add-ons are handled."
-msgstr ""
+msgstr "Promijenite način na koji se obrađuju automatska ažuriranja dodataka."
 
 #. Description of setting with label #36609 "Show notifications"
 msgctxt "#36612"
 msgid "Show notification when an add-on have been updated."
-msgstr ""
+msgstr "Prikaži obavještenje kada je dodatak ažuriran."
 
 #. Description of setting with label #24996 "Manage dependencies"
 msgctxt "#36613"
 msgid "Manage modules and support libraries that have been automatically installed as a dependency to other add-ons. Items listed as \"Orphaned\" are no longer required by any add-ons and are safe to uninstall."
-msgstr ""
+msgstr "Upravljajte modulima i bibliotekama podrške koje su automatski instalirane kao zavisnost od drugih dodataka. Stavke navedene kao \"Orphaned\" više nisu potrebne nijednom dodatku i sigurno ih je deinstalirati."
 
 #. Description of setting with label #24994 "Running"
 msgctxt "#36614"
 msgid "Show add-ons that are currently running in the background."
-msgstr ""
+msgstr "Prikaži dodatke koji se trenutno izvršavaju u pozadini."
 
 #. Label of a setting or option referring to the source/origin of e.g. add-ons.
 msgctxt "#36615"
 msgid "Unknown sources"
-msgstr ""
+msgstr "Nepoznati izvori"
 
 #. Description of setting with label #36615 "Unknown sources"
 msgctxt "#36616"
 msgid "Allow installation of add-ons from unknown sources."
-msgstr ""
+msgstr "Dozvoli instalaciju dodataka iz nepoznatih izvora."
 
 #. Text in warning dialog when attempting to install add-ons from zip file.
 msgctxt "#36617"
 msgid "For security, installation of add-ons from unknown sources is disabled."
-msgstr ""
+msgstr "Iz sigurnosnih razloga, instalacija dodataka iz nepoznatih izvora je onemogućena."
 
 #. Text in confirm dialog when enabling setting "System -> Add-ons -> Unknown sources"
 msgctxt "#36618"
 msgid "Add-ons will be given access to personal data stored on this device. By allowing, you agree that you are solely responsible for any loss of data, unwanted behaviour, or damage to your device. Proceed?"
-msgstr ""
+msgstr "Dodacima će biti dat pristup ličnim podacima pohranjenim na ovom uređaju. Dozvoljavanjem pristupa, slažete se da ste isključivo odgovorni za bilo kakav gubitak podataka, neželjeno ponašanje ili oštećenje vašeg uređaja. Želite li nastaviti?"
 
 #. Label of a setting, allow the user to specify high quality downscaling of pictures
 msgctxt "#36619"
 msgid "High quality downscaling"
-msgstr ""
+msgstr "Visokokvalitetno smanjenje skale"
 
 #. Description of setting "Pictures -> Slideshow -> High Quality Downscaling" with label #36619
 msgctxt "#36620"
 msgid "Enable high quality downscaling of pictures (uses more memory and has moderate performance impact)."
-msgstr ""
+msgstr "Omogući smanjenje rezolucije slika visokog kvaliteta (koristi više memorije i ima umjeren utjecaj na performanse)."
 
 #. Label of a setting, allow the maximum smbclient protocol to be configured
 msgctxt "#36621"
 msgid "Maximum protocol version"
-msgstr ""
+msgstr "Maksimalna verzija protokola"
 
 #. Description of setting with label #36621 "Maximum protocol version"
 msgctxt "#36622"
 msgid "Set the maximum SMB protocol version to negotiate when making connections. Forcing SMBv2 or SMBv1 compatibility may be required with older NAS and Windows shares."
-msgstr ""
+msgstr "Postavite maksimalnu verziju SMB protokola za pregovore prilikom uspostavljanja veza. Forsiranje kompatibilnosti sa SMBv2 ili SMBv1 može biti potrebno za starije NAS i Windows dijeljene resurse."
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version" - none means "no protocol version is forced"
 msgctxt "#36623"
@@ -18010,20 +17979,19 @@ msgstr "Ništa"
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36624"
 msgid "SMBv1"
-msgstr ""
+msgstr "SMBv1"
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36625"
 msgid "SMBv2"
-msgstr ""
+msgstr "SMBv2"
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36626"
 msgid "SMBv3"
-msgstr ""
+msgstr "SMBv3"
 
 #. Label of a group, that allows configuration of the system SMB client
-#, fuzzy
 msgctxt "#36627"
 msgid "Client"
 msgstr "Klijent"
@@ -18031,91 +17999,91 @@ msgstr "Klijent"
 #. Label of a setting, allow the minimum smbclient protocol to be configured
 msgctxt "#36628"
 msgid "Minimum protocol version"
-msgstr ""
+msgstr "Minimalna verzija protokola"
 
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Postavite minimalnu verziju SMB protokola za pregovore prilikom uspostavljanja veza. Forsiranje SMBv2 može biti potrebno kako bi se spriječila upotreba SMBv1 na nekim sistemima. Samo SMBv2.1 i SMBv3 podržavaju veliki MTU (veličina bloka > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
 msgid "Use legacy security"
-msgstr ""
+msgstr "Koristite naslijeđenu sigurnost"
 
 #. Description of setting with label #36630 "Use legacy security"
 msgctxt "#36631"
 msgid "Force weak SMBv1 security for compatibility with the USB sharing features on some WiFi routers and NAS devices."
-msgstr ""
+msgstr "Nametnite slabu SMBv1 sigurnost radi kompatibilnosti s funkcijama dijeljenja USB-a na nekim WiFi ruterima i NAS uređajima."
 
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control via HTTP"
 msgctxt "#36632"
 msgid "Anyone who has access to the web interface will be able to completely control this application and, therefore, this device, so it should never be exposed on the Internet. A password should be set below. Proceed?"
-msgstr ""
+msgstr "Svako ko ima pristup web interfejsu moći će u potpunosti kontrolirati ovu aplikaciju i, prema tome, ovaj uređaj, tako da nikada ne bi trebao biti izložen na internetu. Lozinka treba biti postavljena ispod. Nastaviti?"
 
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control from applications on other systems"
 msgctxt "#36633"
 msgid "These services offer neither authentication nor encryption. Anyone who can connect to them will be able to completely control this application and, therefore, this device, so they should never be exposed to the Internet. Proceed?"
-msgstr ""
+msgstr "Ove usluge ne nude ni autentifikaciju ni enkripciju. Svako ko se može povezati s njima moći će u potpunosti kontrolirati ovu aplikaciju i, prema tome, ovaj uređaj, tako da nikada ne bi trebao biti izložen internetu. Želite li nastaviti?"
 
 #. Text in confirm dialog when disabling setting "Services -> Control -> Require authentication"
 msgctxt "#36634"
 msgid "Anyone who has access to the web interface will be able to completely control this application and, therefore, this device, so it should be secured by a password. Are you sure you want to disable authentication?"
-msgstr ""
+msgstr "Svako ko ima pristup web interfejsu moći će u potpunosti kontrolirati ovu aplikaciju i, prema tome, ovaj uređaj, tako da bi trebao biti zaštićen lozinkom. Jeste li sigurni da želite onemogućiti autentifikaciju?"
 
 #. Text in error dialog when trying to enter an invalid web server configuration
 msgctxt "#36635"
 msgid "If web server authentication is enabled, a password must be entered as well."
-msgstr ""
+msgstr "Ako je omogućena autentifikacija web servera, potrebno je unijeti i lozinku."
 
 #. Text in error dialog when trying to enter an invalid web server configuration by enabling authentication without a password set
 msgctxt "#36636"
 msgid "You must first enter a password before web server authentication can be enabled."
-msgstr ""
+msgstr "Prvo morate unijeti lozinku prije nego što se omogući autentifikacija web servera."
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 i veliki MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
 msgid "Remove all orphaned add-ons"
-msgstr ""
+msgstr "Uklonite sve napuštene dodatke"
 
 #. Description of setting with label #36638 "Remove all orphaned dependencies"
 msgctxt "#36639"
 msgid "Remove all modules and support libraries that have been automatically installed and are in an orphaned state."
-msgstr ""
+msgstr "Uklonite sve module i biblioteke podrške koje su automatski instalirane i nalaze se u napuštenom stanju."
 
 #. Dialog caption
 msgctxt "#36640"
 msgid "Orphaned add-ons"
-msgstr ""
+msgstr "Napušteni dodaci"
 
 #. Dialog text if orphaned add-ons were found and removed
 msgctxt "#36641"
 msgid "The following orphaned add-ons were removed from your system: {0:s}."
-msgstr ""
+msgstr "Sljedeći napušteni dodaci su uklonjeni sa vašeg sistema: {0:s}."
 
 #. Dialog text if no more orphaned add-ons left on the system
 msgctxt "#36642"
 msgid "No orphaned add-ons to remove."
-msgstr ""
+msgstr "Nema osirotelih dodataka za uklanjanje."
 
 # empty strings from id 36643 to 36898
 #. Description of setting with label #729 "Enable SSL"
 msgctxt "#36899"
 msgid "Enables SSL encryption in the webserver. Certificate special://userdata/server.pem and Key special://userdata/server.key must be created manually"
-msgstr ""
+msgstr "Omogućava SSL enkripciju na web serveru. Certifikat special://userdata/server.pem i ključ special://userdata/server.key moraju se kreirati ručno"
 
 msgctxt "#36900"
 msgid "movie"
-msgstr ""
+msgstr "film"
 
 msgctxt "#36901"
 msgid "movies"
-msgstr ""
+msgstr "filmovi"
 
 msgctxt "#36902"
 msgid "TV show"
@@ -18127,131 +18095,131 @@ msgstr "TV serije"
 
 msgctxt "#36904"
 msgid "season"
-msgstr ""
+msgstr "sezona"
 
 msgctxt "#36905"
 msgid "seasons"
-msgstr ""
+msgstr "godišnja doba"
 
 msgctxt "#36906"
 msgid "episode"
-msgstr "Epizoda"
+msgstr "epizoda"
 
 msgctxt "#36907"
 msgid "episodes"
-msgstr "Epizoda"
+msgstr "epizoda"
 
 msgctxt "#36908"
 msgid "music video"
-msgstr ""
+msgstr "muzički spot"
 
 msgctxt "#36909"
 msgid "music videos"
-msgstr ""
+msgstr "muzički spotovi"
 
 msgctxt "#36910"
 msgid "set"
-msgstr "Postavi"
+msgstr "postavak"
 
 msgctxt "#36911"
 msgid "sets"
-msgstr "Postavke scene"
+msgstr "postavke scene"
 
 msgctxt "#36912"
 msgid "video"
-msgstr "Video"
+msgstr "video"
 
 msgctxt "#36913"
 msgid "videos"
-msgstr "Filmovi"
+msgstr "videozapisi"
 
 msgctxt "#36914"
 msgid "music"
-msgstr ""
+msgstr "muzika"
 
 msgctxt "#36915"
 msgid "music"
-msgstr ""
+msgstr "muzika"
 
 msgctxt "#36916"
 msgid "artist"
-msgstr ""
+msgstr "umjetnik"
 
 msgctxt "#36917"
 msgid "artists"
-msgstr ""
+msgstr "umjetnici"
 
 msgctxt "#36918"
 msgid "album"
-msgstr "Album"
+msgstr "album"
 
 msgctxt "#36919"
 msgid "albums"
-msgstr "Album"
+msgstr "albuma"
 
 msgctxt "#36920"
 msgid "song"
-msgstr "Pjesma"
+msgstr "pjesma"
 
 msgctxt "#36921"
 msgid "songs"
-msgstr "Pjesme"
+msgstr "pjesme"
 
 # empty strings from id 36922 to 36999
 msgctxt "#37000"
 msgid "(Visually impaired)"
-msgstr ""
+msgstr "(Oštećen vid)"
 
 msgctxt "#37001"
 msgid "(Director's comments)"
-msgstr ""
+msgstr "(Komentari direktora)"
 
 msgctxt "#37002"
 msgid "(Director's comments 2)"
-msgstr ""
+msgstr "(Komentari direktora 2)"
 
 #. DVD short name for 1.0 channel layout
 msgctxt "#37003"
 msgid "mono"
-msgstr ""
+msgstr "mono"
 
 #. DVD short name for 2.0 channel layout
 msgctxt "#37004"
 msgid "stereo"
-msgstr ""
+msgstr "stereo"
 
 # empty strings from id 37003 to 37013
 msgctxt "#37014"
 msgid "Last used profile"
-msgstr ""
+msgstr "Posljednji korišteni profil"
 
 #. Label used in different places to denote the function to open a folder to list its content
 msgctxt "#37015"
 msgid "Browse into"
-msgstr ""
+msgstr "Pregledajte"
 
 #. Description of setting with label #448 "Dolby Digital Plus (E-AC3) capable receiver"
 msgctxt "#37016"
 msgid "Select this option if your receiver is capable of decoding Dolby Digital Plus (E-AC3) streams."
-msgstr ""
+msgstr "Odaberite ovu opciju ako vaš prijemnik može dekodirati Dolby Digital Plus (E-AC3) prijenose."
 
 # empty strings from id 37017 to 37020
 msgctxt "#37021"
 msgid "Set GUI resolution limit"
-msgstr ""
+msgstr "Postavi ograničenje rezolucije GUI-ja"
 
 msgctxt "#37022"
 msgid "UPnP player"
-msgstr ""
+msgstr "UPnP plejer"
 
 msgctxt "#37023"
 msgid "Do you wish to stop playback on the remote device?"
-msgstr ""
+msgstr "Želite li zaustaviti reprodukciju na udaljenom uređaju?"
 
 # empty string with id 37024
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
-msgstr ""
+msgstr "Konfigurišite postavke audio kodera kao što su kvalitet i nivo kompresije"
 
 msgctxt "#37026"
 msgid "Auto"
@@ -18259,17 +18227,16 @@ msgstr "Automatski"
 
 msgctxt "#37027"
 msgid "540"
-msgstr ""
+msgstr "540"
 
 msgctxt "#37028"
 msgid "720"
-msgstr ""
+msgstr "720"
 
 msgctxt "#37029"
 msgid "900"
-msgstr ""
+msgstr "900"
 
-#, fuzzy
 msgctxt "#37030"
 msgid "Unlimited"
 msgstr "Neograničeno"
@@ -18277,7 +18244,7 @@ msgstr "Neograničeno"
 #. Description of setting #14102 Blu-ray playback mode
 msgctxt "#37031"
 msgid "Specifies how Blu-rays should be opened / played back. Note: Some disc menus are not fully supported and may cause problems."
-msgstr ""
+msgstr "Određuje kako se Blu-ray diskovi trebaju otvarati/reproducirati. Napomena: Neki meniji diska nisu u potpunosti podržani i mogu uzrokovati probleme."
 
 #. Title of accessibility menu group
 msgctxt "#37032"
@@ -18287,283 +18254,281 @@ msgstr "Pristupačnost"
 #. Description of category #287 Subtitles
 msgctxt "#37033"
 msgid "This category contains the settings for subtitles"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za titlove"
 
 #. Setting #37034 Accessibility
 msgctxt "#37034"
 msgid "Prefer audio stream for the visually impaired"
-msgstr ""
+msgstr "Preferirani audio prijenos za slabovidne osobe"
 
 #. Description of setting #37034 Accessibility
 msgctxt "#37035"
 msgid "Prefer the audio stream for the visually impaired to other audio streams of the same language"
-msgstr ""
+msgstr "Preferiraj audio prijenos za slabovidne osobe u odnosu na druge audio prijenose istog jezika"
 
 #. Setting #37036 Settings -> Video -> Accessibility
 msgctxt "#37036"
 msgid "Prefer audio stream for the hearing impaired"
-msgstr ""
+msgstr "Preferirani audio prijenos za osobe s oštećenim sluhom"
 
 #. Description of setting #37036 Accessibility
 msgctxt "#37037"
 msgid "Prefer the audio stream for the hearing impaired to other audio streams of the same language"
-msgstr ""
+msgstr "Preferirajte audio prijenos za osobe s oštećenim sluhom u odnosu na druge audio prijenose istog jezika"
 
 #. Setting #37038 Accessibility
 msgctxt "#37038"
 msgid "Prefer subtitles for the hearing impaired"
-msgstr ""
+msgstr "Preferirajte titlove za osobe s oštećenim sluhom"
 
 #. Description of setting #37038 Accessibility
 msgctxt "#37039"
 msgid "Prefer the subtitle stream for the hearing impaired to other subtitle streams of the same language"
-msgstr ""
+msgstr "Preferiraj titl za osobe s oštećenim sluhom u odnosu na druge titlove istog jezika"
 
 #. Setting #37040 Playback
 msgctxt "#37040"
 msgid "Prefer default audio streams"
-msgstr ""
+msgstr "Preferiraj zadane audio prijenose"
 
 #. Description of setting #37040 Playback
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr ""
+msgstr "Ako je omogućeno, audio prijenosi koji su označeni kao zadani (i odgovaraju željenom jeziku) imaju prednost u odnosu na audio prijenose višeg kvaliteta (broj kanala, kodek, ...)."
 
 #. Description of setting Skip steps
 msgctxt "#37042"
 msgid "Defines which step sizes to use when pressing the skip buttons. If more steps are selected for a skip direction, these can be applied by subsequent presses on the skip button within the defined skip delay. Forward (positive) and backward (negative) steps can be defined independently."
-msgstr ""
+msgstr "Definira koje veličine koraka treba koristiti pri pritiskanju tipki za preskakanje. Ako je odabrano više koraka za smjer preskakanja, oni se mogu primijeniti uzastopnim pritiscima tipke za preskakanje unutar definiranog kašnjenja preskakanja. Koraci naprijed (pozitivni) i nazad (negativni) mogu se definirati nezavisno."
 
 #. Description of setting Skip delay
 msgctxt "#37043"
 msgid "Defines the time to wait for subsequent key presses before performing the skip. Only applies when using smart skipping (when using more than one skip step for a direction)."
-msgstr ""
+msgstr "Definira vrijeme čekanja na sljedeće pritiske tipki prije izvršenja preskakanja. Primjenjuje se samo pri korištenju pametnog preskakanja (kada se koristi više od jednog koraka preskakanja za smjer)."
 
 #. Setting #37044 Extract chapter thumbnails
 msgctxt "#37044"
 msgid "Extract chapter thumbnails"
-msgstr ""
+msgstr "Izdvoji sličice poglavlja"
 
 #. Description of setting #37044 Extract chapter thumbnails"
 msgctxt "#37045"
 msgid "Extract chapter thumbnails for presentation in the chapters / bookmarks dialogue. This might increase CPU load."
-msgstr ""
+msgstr "Izdvoji sličice poglavlja za prikaz u dijalogu za poglavlja / oznake. Ovo može povećati opterećenje CPU-a."
 
 msgctxt "#37046"
 msgid "1080"
-msgstr ""
+msgstr "1080"
 
 msgctxt "#37047"
 msgid "WS-Discovery"
-msgstr ""
+msgstr "WS-Discovery"
 
 #. Setting #37048 Enable WS-Discovery Service"
 msgctxt "#37048"
 msgid "Enable WS-Discovery Service"
-msgstr ""
+msgstr "Omogući WS-Discovery uslugu"
 
 #. Description of setting #37048 Enable WS-Discovery Service"
 msgctxt "#37049"
 msgid "Enable service to search for SMB services using the WS-Discovery protocol"
-msgstr ""
+msgstr "Omogućite servisu da traži SMB servise koristeći WS-Discovery protokol"
 
 #. Label for component level debug logging setting
 msgctxt "#37050"
 msgid "Verbose logging for the [B]WS-Discovery[/B] component"
-msgstr ""
+msgstr "Detaljno evidentiranje za komponentu [B]WS-Discovery[/B]"
 
 #. Setting #37051 NFS Protocol Version"
 msgctxt "#37051"
 msgid "NFS Protocol Version"
-msgstr ""
+msgstr "Verzija NFS protokola"
 
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr ""
+msgstr "Verzija NFS protokola koja se koristi prilikom uspostavljanja NFS veza"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
 msgid "Chunk Size"
-msgstr ""
+msgstr "Veličina komada"
 
 #. Setting #37054 "NFS Chunk Size"
 msgctxt "#37054"
 msgid "NFS Chunk Size"
-msgstr ""
+msgstr "Veličina NFS bloka"
 
 #. Description of setting #37054 "NFS Chunk Size"
 msgctxt "#37055"
 msgid "Data chunk size used on NFS connections"
-msgstr ""
+msgstr "Veličina bloka podataka koja se koristi na NFS konekcijama"
 
 #. Setting #37056 "SMB Chunk Size"
 msgctxt "#37056"
 msgid "SMB Chunk Size"
-msgstr ""
+msgstr "Veličina SMB bloka"
 
 #. Description of setting #37056 "SMB Chunk Size"
 msgctxt "#37057"
 msgid "Data chunk size used on SMB connections"
-msgstr ""
+msgstr "Veličina bloka podataka koja se koristi na SMB vezama"
 
 # empty strings from id 37058 to 37100
 #. Settings / Services "Caching" category label
 msgctxt "#37101"
 msgid "Caching"
-msgstr ""
+msgstr "Keširanje"
 
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr ""
+msgstr "Ova kategorija sadrži postavke koje konfigurišu keširanje lokalnih i mrežnih datoteka i internet prijenosa."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
 msgid "Buffer Mode"
-msgstr ""
+msgstr "Način međuspremnika"
 
 #. Description of setting #37103 "Buffer Mode"
 msgctxt "#37104"
 msgid "Configure the media content to buffer."
-msgstr ""
+msgstr "Konfigurišite medijski sadržaj za baferovanje."
 
 #. Setting #37105 "Memory Size"
 msgctxt "#37105"
 msgid "Memory Size"
-msgstr ""
+msgstr "Veličina memorije"
 
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr ""
+msgstr "Veličina memorijskog bafera u MB. Postavljanje nule (0) prisiljava baferovanje na disk, što se ne preporučuje na uređajima za fleš pohranu (eMMC, SD kartice, SSD)."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
 msgid "Read Factor"
-msgstr ""
+msgstr "Faktor čitanja"
 
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr ""
+msgstr "Određuje brzinu popunjavanja keš memorije u smislu prosječne brzine prijenosa podataka x faktor čitanja. Povećanjem ovog višekratnika, keš memorija se brže puni. Veliki višekratnici mogu uzrokovati skokove opterećenja CPU-a na nekim uređajima, prezasititi vezu i pogoršati performanse.[CR][Adaptive] Koristi dinamički izračunati faktor čitanja na osnovu nivoa keš memorije."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr ""
+msgstr "Veličina bloka podataka koja se koristi kada datotečni sistem ili protokol ne nameće tu vrijednost, npr. NFS će ovo prepisati svojom vlastitom vrijednošću."
 
 #. Value of setting - NONE
 msgctxt "#37110"
 msgid "No buffer"
-msgstr ""
+msgstr "Nema međuspremnika"
 
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr ""
+msgstr "Baferuje samo prave internet prijenose: HTTP, HTTPS, itd."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr ""
+msgstr "Baferovanje svih internet datotečnih sistema, uključujući: FTP, WebDAV, itd."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr ""
+msgstr "Baferovanje svih mrežnih datotečnih sistema, uključujući: SMB, NFS, itd."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr ""
+msgstr "Baferovanje svih datotečnih sistema, uključujući lokalne datoteke"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
 msgid "Caches entire file on disk storage"
-msgstr ""
+msgstr "Kešira cijelu datoteku na disku"
 
 #. Value of setting #37107 "Read Factor"
-#, fuzzy
 msgctxt "#37116"
 msgid "Adaptive"
-msgstr "Adaptivna"
+msgstr "Adaptivno"
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
 msgctxt "#37120"
 msgid "{0:d} Byte"
-msgstr ""
+msgstr "{0:d} bajt"
 
 #. Value of setting - KByte
 msgctxt "#37121"
 msgid "{0:d} KB"
-msgstr ""
+msgstr "{0:d} KB"
 
 #. Value of setting - MByte
 msgctxt "#37122"
 msgid "{0:d} MB"
-msgstr ""
+msgstr "{0:d} MB"
 
 #. Value of setting - GByte
 msgctxt "#37123"
 msgid "{0:d} GB"
-msgstr ""
+msgstr "{0:d} GB"
 
 # empty strings from id 37124 to 37127
 #. Value of setting - second
 msgctxt "#37128"
 msgid "{0:d} second"
-msgstr ""
+msgstr "{0:d} sekunda"
 
 #. Value of setting - seconds
 msgctxt "#37129"
 msgid "{0:d} seconds"
-msgstr ""
+msgstr "{0:d} sekundi"
 
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Vrijeme čekanja za audio/video"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Trajanje audio/video redova u sekundama. Trajanje određuje količinu podataka pohranjenih u memoriji."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Maksimalna veličina reda čekanja za video"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Ograničava maksimalnu upotrebu memorije za video red. Količina korištene memorije zavisi od brzine prijenosa videa i dužine reda. Ako se dostigne ograničenje memorije, vrijeme čekanja u redu se smanjuje po potrebi."
 
 # empty strings from id 37047 to 38010
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
-msgstr ""
+msgstr "Prikaži unos \"Sve stavke\""
 
 #. Description of setting "Show All Items entry"
 msgctxt "#38012"
 msgid "Show \"All items\" entry in directory, e.g. \"All albums\" or \"All seasons\"."
-msgstr ""
+msgstr "Prikaži unos \"Sve stavke\" u direktoriju, npr. \"Svi albumi\" ili \"Sve sezone\"."
 
 #. Label of a setting to limit the number of fps used for updating the GUI while playing videos. This is useful for slow systems that have problems rendering GUI and video at the same time in full speed.
 msgctxt "#38013"
 msgid "Limit GUI updates during playback"
-msgstr ""
+msgstr "Ograniči ažuriranja GUI-ja tokom reprodukcije"
 
 #. Description for the setting with label #38013 "Limit GUI updates when playing video"
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr ""
+msgstr "Ograničava brzinu (fps) koja se koristi za ažuriranje GUI-ja prijenosom reprodukcije videa. Ovo može smanjiti opterećenje CPU-a i riješiti probleme s reprodukcijom dok je GUI prikazan."
 
 #. Label of a settings value to indicate the "disabled" state of an otherwise limiting setting (like fps limit, bandwidth limit, etc.)
-#, fuzzy
 msgctxt "#38015"
 msgid "Unlimited"
 msgstr "Neograničeno"
@@ -18571,53 +18536,52 @@ msgstr "Neograničeno"
 #. Used to format framerate values. {0:d} will be replaced with the according number/integer, like "24 fps", "50 fps"
 msgctxt "#38016"
 msgid "{0:d} fps"
-msgstr ""
+msgstr "{0:d} fps"
 
 #. Description of setting #14111 "Blu-ray region code"
 msgctxt "#38017"
 msgid "Region A - Americas, East Asia and Southeast Asia. Region B - Africa, Middle East, Southwest Asia, Europe, Australia, New Zealand. Region C - Central Asia, mainland China, Mongolia, South Asia, Belarus, Russia, Ukraine, Kazakhstan."
-msgstr ""
+msgstr "Regija A - Amerika, Istočna Azija i Jugoistočna Azija. Regija B - Afrika, Bliski istok, Jugozapadna Azija, Evropa, Australija, Novi Zeland. Regija C - Centralna Azija, kontinentalna Kina, Mongolija, Južna Azija, Bjelorusija, Rusija, Ukrajina, Kazahstan."
 
 #. Used for the viewstate selection
 msgctxt "#38018"
 msgid "My rating"
-msgstr ""
+msgstr "Moja ocjena"
 
 # empty strings from id 38019 to 38021
 #. Used for the rating selection
 msgctxt "#38022"
 msgid "No rating"
-msgstr ""
+msgstr "Nema ocjene"
 
 #. Used for the rating selection
 msgctxt "#38023"
 msgid "Set my rating"
-msgstr ""
+msgstr "Postavi moju ocjenu"
 
 msgctxt "#38024"
 msgid "Information provider selection"
-msgstr ""
+msgstr "Odabir pružatelja informacija"
 
 msgctxt "#38025"
 msgid "Choose information provider"
-msgstr ""
+msgstr "Odaberite pružatelja informacija"
 
 msgctxt "#38026"
 msgid "Appearances"
-msgstr ""
+msgstr "Nastupi"
 
 # empty strings from id 38027 to 38030
 #. Label for an option to select the video stream to play if current video has more than one video stream
 msgctxt "#38031"
 msgid "Video stream"
-msgstr ""
+msgstr "Video prijenos"
 
 #. Label for an option to select the angle to play if current disc has more than one angle
 msgctxt "#38032"
 msgid "Angle"
-msgstr ""
+msgstr "Ugao"
 
-#, fuzzy
 msgctxt "#38033"
 msgid "Role"
 msgstr "Uloga"
@@ -18625,261 +18589,260 @@ msgstr "Uloga"
 #. Orchestra playing on the recording (if present)
 msgctxt "#38034"
 msgid "Orchestra"
-msgstr ""
+msgstr "Orkestar"
 
 #. Lyricist that wrote the lyrics of the song (if present)
 msgctxt "#38035"
 msgid "Lyricist"
-msgstr ""
+msgstr "Tekstopisac"
 
 #. Remixer of the song (if present)
 msgctxt "#38036"
 msgid "Remixer"
-msgstr ""
+msgstr "Remikser"
 
 #. Arranger of the song (if present)
 msgctxt "#38037"
 msgid "Arranger"
-msgstr ""
+msgstr "Aranžer"
 
 #. Engineer of the song (if present)
 msgctxt "#38038"
 msgid "Engineer"
-msgstr ""
+msgstr "Inženjer"
 
 #. Producer of the song (if present)
 msgctxt "#38039"
 msgid "Producer"
-msgstr ""
+msgstr "Producent"
 
 #. DJMixer of the song (if present)
 msgctxt "#38040"
 msgid "DJMixer"
-msgstr ""
+msgstr "DJ mikser"
 
 #. Mixer of the song (if present)
 msgctxt "#38041"
 msgid "Mixer"
-msgstr ""
+msgstr "Mikser"
 
 #. Name used when artist name is missing from music file tags
-#, fuzzy
 msgctxt "#38042"
 msgid "[Missing]"
-msgstr "Ovaj multiplekser nedostaje. Korištenje ovog profila neće uspjeti"
+msgstr "[Nedostaje]"
 
 #. Title album artists node, and music item to export output, see #38306
 msgctxt "#38043"
 msgid "Album artists"
-msgstr ""
+msgstr "Izvođači albuma"
 
 #. Title all artists node
 msgctxt "#38044"
 msgid "Song & album artists"
-msgstr ""
+msgstr "Izvođači pjesama i albuma"
 
 #. Title all contributors node (any role e.g. composer, piano, producer, engineer)
 msgctxt "#38045"
 msgid "All contributors"
-msgstr ""
+msgstr "Svi saradnici"
 
 #. Title all roles node
 msgctxt "#38046"
 msgid "All roles"
-msgstr ""
+msgstr "Sve uloge"
 
 # empty strings from id 38047 to 38059
 # strings 38047 to 38059 reserved for music library roles
 #. Question when forced rescan of music tags needed after upgrade from previous version of Kodi
 msgctxt "#38060"
 msgid "Music library needs to rescan tags from files. Would you like to scan now?"
-msgstr ""
+msgstr "Muzička biblioteka treba ponovo skenirati oznake iz datoteka. Želite li skenirati sada?"
 
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
 msgid "Fetch additional information for albums and artists? This could take some time so you may prefer to do this later"
-msgstr ""
+msgstr "Želite li preuzeti dodatne informacije o albumima i izvođačima? Ovo bi moglo potrajati, pa biste možda radije to učinili kasnije"
 
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
 msgid "Do full tag scan even when music files are unchanged?"
-msgstr ""
+msgstr "Radi li potpuno skeniranje oznaka čak i kada su muzičke datoteke nepromijenjene?"
 
 #. Item in selection list #38338. Settings will change the default addon used to fetch artist or album information, related to #20195, #20193 and #20194
 msgctxt "#38063"
 msgid "Set default information provider"
-msgstr ""
+msgstr "Postavi zadanog pružatelja informacija"
 
 #. Item in selection list #38338 to change the information provider for a specific artist, related to #20195
 msgctxt "#38064"
 msgid "Set for this artist"
-msgstr ""
+msgstr "Set za ovog izvođača"
 
 #. Item in selection list #38338 to change the information provider for all artists in node, related to #20195
 msgctxt "#38065"
 msgid "Set for all artists shown"
-msgstr ""
+msgstr "Set za sve prikazane umjetnike"
 
 #. Item in selection list #38338 to change the information provider for a specific album, related to #20195
 msgctxt "#38066"
 msgid "Set for this album"
-msgstr ""
+msgstr "Set za ovaj album"
 
 #. Item in selection list #38338 to change the information provider for all albums in node, related to #20195
 msgctxt "#38067"
 msgid "Set for all albums shown"
-msgstr ""
+msgstr "Postavljeno za sve prikazane albume"
 
 #. Dialog message asking for confirmation of change the information provider for all artists shown in node, after #38065
 msgctxt "#38068"
 msgid "Use this information provider for all the artists shown here?"
-msgstr ""
+msgstr "Koristiti ovog dobavljača informacija za sve umjetnike prikazane ovdje?"
 
 #. Dialog message asking for confirmation of change the information provider for all albums shown in node, after #38067
 msgctxt "#38069"
 msgid "Use this information provider for all the albums shown here?"
-msgstr ""
+msgstr "Koristiti ovog dobavljača informacija za sve ovdje prikazane albume?"
 
 #. Dialog message asking for confirmation of change to the default artist information provider, after #38063
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr ""
+msgstr "Koristiti ovog dobavljača informacija za sve izvođače, brišući sve prethodne postavke za određene izvođače?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 msgctxt "#38071"
 msgid "Use this information provider for all albums, clearing any previous settings for specific albums?"
-msgstr ""
+msgstr "Koristiti ovog dobavljača informacija za sve albume, brišući sve prethodne postavke za određene albume?"
 
 #. Dialog message asking for confirmation to get additional info for all the artists or albums in the node immediately
 msgctxt "#38072"
 msgid "Do you want to refresh information for all these items now?"
-msgstr ""
+msgstr "Želite li sada osvježiti informacije za sve ove stavke?"
 
 #. Dialog message asking for confirmation to get additional info for the current artist or album immediately
 msgctxt "#38073"
 msgid "Do you want to refresh information for this item now?"
-msgstr ""
+msgstr "Želite li sada osvježiti informacije za ovu stavku?"
 
 msgctxt "#38074"
 msgid "Boxsets"
-msgstr ""
+msgstr "Kutije"
 
 msgctxt "#38075"
 msgid "* All discs"
-msgstr ""
+msgstr "* Svi diskovi"
 
 msgctxt "#38076"
 msgid "Disc title"
-msgstr ""
+msgstr "Naslov diska"
 
 msgctxt "#38077"
 msgid "Total discs"
-msgstr ""
+msgstr "Ukupno diskova"
 
 msgctxt "#38078"
 msgid "Original year"
-msgstr ""
+msgstr "Originalna godina"
 
 msgctxt "#38079"
 msgid "Original date"
-msgstr ""
+msgstr "Originalni datum"
 
 #. Music property - Beats Per Minute
 msgctxt "#38080"
 msgid "BPM"
-msgstr ""
+msgstr "BPM"
 
 #. Music property - Album release status
 msgctxt "#38081"
 msgid "Release status"
-msgstr ""
+msgstr "Status izdanja"
 
 #. Displayed in a toast notification when music items are added to a playlist
 msgctxt "#38082"
 msgid "Added to end of playlist"
-msgstr ""
+msgstr "Dodano na kraj playliste"
 
 #. Displayed in a toast notification when music items are added to a playlist to play next
 msgctxt "#38083"
 msgid "Added to playlist to play next"
-msgstr ""
+msgstr "Dodano na plejlistu za sljedeće reproduciranje"
 
 # empty strings from id 38082 to 38099
 # strings 38082 to 38099 reserved for music library
 #. Description of section #14200 "Player""
 msgctxt "#38100"
 msgid "Section that contains the settings for the playback of media"
-msgstr ""
+msgstr "Odjeljak koji sadrži postavke za reprodukciju medija"
 
 #. Description of section #14201 "Media"
 msgctxt "#38101"
 msgid "Section that contains the settings for sources and how media information is collected, stored, shown and navigated"
-msgstr ""
+msgstr "Odjeljak koji sadrži postavke za izvore i način prikupljanja, pohranjivanja, prikazivanja i navigacije medijskih informacija"
 
 #. Description of section #14203 "Customise"
 msgctxt "#38102"
 msgid "Section that contains the settings influencing the GUI experience and for controlling the GUI/system"
-msgstr ""
+msgstr "Odjeljak koji sadrži postavke koje utiču na iskustvo korištenja grafičkog korisničkog interfejsa (GUI) i za kontrolu grafičkog korisničkog interfejsa/sistema"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38103"
 msgid "This category contains the settings for the playback of videos"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za reprodukciju videa"
 
 #. Description of category #14211 "Music"
 msgctxt "#38104"
 msgid "This category contains the settings for the playback of music"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za reprodukciju muzike"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38105"
 msgid "This category contains the settings for playback of pictures via a slideshow"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za reprodukciju slika putem klizajke"
 
 #. Description of category #14213 "Language"
 msgctxt "#38106"
 msgid "This category contains the settings for audio / subtitles language and accessibility"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za jezik zvuka/titlova i pristupačnost"
 
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za način prikupljanja, pohranjivanja, prikazivanja i navigacije informacija o videozapisima"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za način prikupljanja, pohranjivanja, prikazivanja i navigacije informacija o muzici"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za prikaz i navigaciju informacija o slikama"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
 msgid "This category contains the settings for the library databases"
-msgstr ""
+msgstr "Ova kategorija sadrži postavke za bibliotečke baze podataka"
 
 #. Description of category #14224 "Other"
 msgctxt "#38111"
 msgid "This category contains other settings for the GUI interface"
-msgstr ""
+msgstr "Ova kategorija sadrži ostale postavke za GUI interfejs"
 
 #. Description of setting with label #12381 "Switch to visualisation on playback"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
-msgstr ""
+msgstr "Automatski pređi na prozor za vizualizaciju kada počne reprodukcija zvuka"
 
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Ova kategorija sadrži napredne postavke za reprodukciju videa"
 
 # empty strings from id 38113 to 38189
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
-msgstr ""
+msgstr "Izdvajanje sličica iz video datoteka"
 
 #. Description of setting "Pictures -> Show EXIF picture information" with label #38207
 msgctxt "#38207"
@@ -18889,18 +18852,18 @@ msgstr "Prikaži EXIF specifikaciju slike"
 #. Help text of setting "Pictures -> Show EXIF picture information" with label #38208
 msgctxt "#38208"
 msgid "If EXIF information exists (date, time, camera used, etc.), it will be displayed."
-msgstr ""
+msgstr "Ako postoje EXIF informacije (datum, vrijeme, korištena kamera itd.), one će biti prikazane."
 
 #. Contextmenu entry to remove the resume point of the currently selected item
 msgctxt "#38209"
 msgid "Reset resume position"
-msgstr ""
+msgstr "Resetiraj poziciju u životopisu"
 
 # empty strings from id 38210 to 38299
 #. Dialog header for settings for how to export specific music library data
 msgctxt "#38300"
 msgid "Export Music Library"
-msgstr ""
+msgstr "Izvoz muzičke biblioteke"
 
 #. Kind of export output, see #38304
 msgctxt "#38301"
@@ -18910,72 +18873,71 @@ msgstr "Jedna datoteka"
 #. Kind of export output, see #38304
 msgctxt "#38302"
 msgid "Separate files for each item"
-msgstr ""
+msgstr "Odvojene datoteke za svaku stavku"
 
 #. Kind of export output, see #38304
 msgctxt "#38303"
 msgid "To library folders"
-msgstr ""
+msgstr "U bibliotečke mape"
 
 #. Selection of export to a single file, many separate files or the library folder(s)
 msgctxt "#38304"
 msgid "Choose kind of export output"
-msgstr ""
+msgstr "Odaberite vrstu izvoznog proizvoda"
 
 #. Folder path for export output file or files
 msgctxt "#38305"
 msgid "Destination folder"
-msgstr ""
+msgstr "Odredišna mapa"
 
 #. Section of music items to export - albums, album artists, song artists etc.
 msgctxt "#38306"
 msgid "Items to export"
-msgstr ""
+msgstr "Stavke za izvoz"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr ""
+msgstr "Uključite umjetnička djela kao što su sličice i fanart"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
-msgstr ""
+msgstr "Uključite stavke koje nisu skraćene (za kreiranje predložaka NFO datoteka)"
 
 msgctxt "#38309"
 msgid "Output information to NFO files"
-msgstr ""
+msgstr "Izlazne informacije u NFO datoteke"
 
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr ""
+msgstr "Iznos informacija u NFO datoteke (trenutno se izvoze samo mape izvođača)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
-msgstr ""
+msgstr "Prepiši postojeće datoteke"
 
 #. Music item to export output, see #38306
 msgctxt "#38312"
 msgid "Song artists"
-msgstr ""
+msgstr "Izvođači pjesama"
 
 #. Music item to export output, see #38306
 msgctxt "#38313"
 msgid "Other artists"
-msgstr ""
+msgstr "Drugi umjetnici"
 
 # empty strings from id 38314 to 38316
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr ""
+msgstr "Nije moguće izvesti u fascikle biblioteke jer je postavka sistemske fascikle s informacijama o izvođaču prazna"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
 msgid "Unable to export data as the destination folder does not exist"
-msgstr ""
+msgstr "Nije moguće izvesti podatke jer odredišna mapa ne postoji"
 
 #. Button text to start export
-#, fuzzy
 msgctxt "#38319"
 msgid "Export"
 msgstr "Izvoz"
@@ -18983,205 +18945,203 @@ msgstr "Izvoz"
 #. Message when adding music source and setting #20223 is empty
 msgctxt "#38320"
 msgid "Do you have local artist information (NFO) and art files that you want to fetch? Set the location of these artist folders now"
-msgstr ""
+msgstr "Imate li lokalne informacije o umjetniku (NFO) i umjetničke datoteke koje želite preuzeti? Postavite lokaciju ovih mapa s umjetnicima sada"
 
 #. Kind of export output, see #38304
 msgctxt "#38321"
 msgid "Artist folders only"
-msgstr ""
+msgstr "Samo mape izvođača"
 
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr ""
+msgstr "Izvođači izvezeni u mapu s informacijama o izvođaču, a albumi u mape s muzikom"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 msgctxt "#38323"
 msgid "Albums exported to music folders"
-msgstr ""
+msgstr "Albumi izvezeni u muzičke mape"
 
 #. Explanation of what export to library folders means see #38303 when only artists selected
 msgctxt "#38324"
 msgid "Artists exported to Artist Information Folder"
-msgstr ""
+msgstr "Izvoženi izvođači u mapu s informacijama o izvođaču"
 
 #. Explanation of what export artist folders only means see #38304
 msgctxt "#38325"
 msgid "Artist subfolders created in Artist Information Folder"
-msgstr ""
+msgstr "Podmape izvođača kreirane u mapi s informacijama o izvođaču"
 
 # empty strings from id 38326 to 38329
 #. Dialog heading when editing default settings for fetching additional music information
 msgctxt "#38330"
 msgid "Set Music Information Providers"
-msgstr ""
+msgstr "Postavi pružatelje informacija o muzici"
 
 #. Dialog heading when editing album information provider
 msgctxt "#38331"
 msgid "Set Album Information Provider"
-msgstr ""
+msgstr "Postavi dobavljača informacija o albumu"
 
 #. Dialog heading when editing artist information provider
 msgctxt "#38332"
 msgid "Set Artist Information Provider"
-msgstr ""
+msgstr "Postavi dobavljača informacija o izvođaču"
 
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
 msgid "Fetch additional information and art during scan"
-msgstr ""
+msgstr "Dohvati dodatne informacije i ilustracije tokom skeniranja"
 
 #. Scraper to use for additional album information. See #20193
 msgctxt "#38334"
 msgid "Album information provider"
-msgstr ""
+msgstr "Pružatelj informacija o albumu"
 
 #. Scraper to use for additional artist information. See #20194
 msgctxt "#38335"
 msgid "Artist information provider"
-msgstr ""
+msgstr "Pružatelj informacija o umjetniku"
 
 #. Location of folder where local art and nfo files can be found for artists. See #20223
 msgctxt "#38336"
 msgid "Local artist information folder"
-msgstr ""
+msgstr "Mapa s informacijama o lokalnom umjetniku"
 
 #. Group header describing the settings
 msgctxt "#38337"
 msgid "Options for fetching additional information"
-msgstr ""
+msgstr "Opcije za preuzimanje dodatnih informacija"
 
 #. Selecting what items the settings will be used for, selecting from #38064 to 38067
 msgctxt "#38338"
 msgid "Choose how to apply settings"
-msgstr ""
+msgstr "Odaberite kako primijeniti postavke"
 
 #. Heading when selecting from list for #38338
 msgctxt "#38339"
 msgid "How to apply information provider settings"
-msgstr ""
+msgstr "Kako primijeniti postavke dobavljača informacija"
 
 # empty strings from id 38340 to 38349
 #. Progress statement when importing music library is processing song playback history data
 msgctxt "#38350"
 msgid "Importing song playback history"
-msgstr ""
+msgstr "Uvoz historije reprodukcije pjesama"
 
 #. Progress statement when importing music library - data matching phase
 msgctxt "#38351"
 msgid "Matching data"
-msgstr ""
+msgstr "Podudarni podaci"
 
 #. Progress statement when importing music library - song history being updated
 msgctxt "#38352"
 msgid "Updating songs"
-msgstr ""
+msgstr "Ažuriranje pjesama"
 
 #. Notification of import success "Importing song history - <number of songs matched> updated out of <total songs in xml> imported songs"
 msgctxt "#38353"
 msgid "Importing song history - {0:d} updated out of {0:d} imported songs"
-msgstr ""
+msgstr "Uvoz historije pjesama - ažurirano {0:d} od {0:d} uvezenih pjesama"
 
 #. Message when reading the user specified XML for import to library fails
 msgctxt "#38354"
 msgid "Unable to read xml file"
-msgstr ""
+msgstr "Nije moguće pročitati xml datoteku"
 
 # empty strings from id 38355 to 39003
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
 msgid "This category provides access to the windows for source management and library management facilities"
-msgstr ""
+msgstr "Ova kategorija omogućava pristup prozorima za upravljanje izvornim kodom i bibliotekama"
 
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"
 msgid "This provides access to where video sources can be added and otherwise managed."
-msgstr ""
+msgstr "Ovo omogućava pristup mjestima gdje se mogu dodavati i na drugi način upravljati video izvori."
 
 #. Description of setting "Music... with label #14243
 msgctxt "#39006"
 msgid "This provides access to where music sources can be added and otherwise managed."
-msgstr ""
+msgstr "Ovo omogućava pristup mjestima gdje se mogu dodavati i na drugi način upravljati izvori muzike."
 
 #. Description of setting "Pictures... with label #14244
 msgctxt "#39007"
 msgid "This provides access to where picture sources can be added and otherwise managed."
-msgstr ""
+msgstr "Ovo omogućava pristup mjestima gdje se izvori slika mogu dodavati i na drugi način upravljati."
 
 msgctxt "#39008"
 msgid "Zoom - 120% width"
-msgstr ""
+msgstr "Zumiranje - 120% širine"
 
 msgctxt "#39009"
 msgid "Zoom - 110% width"
-msgstr ""
+msgstr "Zumiranje - 110% širine"
 
 msgctxt "#39010"
 msgid "Select sort method"
-msgstr ""
+msgstr "Odaberite metodu sortiranja"
 
 msgctxt "#39011"
 msgid "Maximum wait time for network"
-msgstr ""
+msgstr "Maksimalno vrijeme čekanja za mrežu"
 
 #. Description of setting with label #39011 "Maximum wait time for network"
 msgctxt "#39012"
 msgid "Set the maximum time to wait for the network to come up after starting or waking up. When time has passed before network is up startup will continue."
-msgstr ""
+msgstr "Postavite maksimalno vrijeme čekanja da se mreža aktivira nakon pokretanja ili buđenja. Kada prođe vrijeme prije nego što se mreža aktivira, pokretanje će se nastaviti."
 
 msgctxt "#39013"
 msgid "Virtual filesystems"
-msgstr ""
+msgstr "Virtuelni datotečni sistemi"
 
 #. Message of a dialog, asking if related data of an add-on should also be removed on uninstall
 msgctxt "#39014"
 msgid "Would you also like to remove all related data (e.g. settings) of this add-on?"
-msgstr ""
+msgstr "Želite li ukloniti i sve povezane podatke (npr. postavke) ovog dodatka?"
 
 msgctxt "#39015"
 msgid "Image decoder"
-msgstr ""
+msgstr "Dekoder slike"
 
 msgctxt "#39016"
 msgid "Resume audiobook"
-msgstr ""
+msgstr "Nastavi audio knjigu"
 
 #. Description of setting with label #21358 "Share my libraries"
 msgctxt "#39017"
 msgid "Enables UPnP. This allows you to stream media in your libraries to a UPnP client and to detect remote UPnP servers."
-msgstr ""
+msgstr "Omogućava UPnP. Ovo vam omogućava strimovanje medija iz vaših biblioteka na UPnP klijent i detekciju udaljenih UPnP servera."
 
-#, fuzzy
 msgctxt "#39018"
 msgid "optional"
-msgstr "opciono"
+msgstr "odabirno"
 
 msgctxt "#39019"
 msgid "installed"
-msgstr ""
+msgstr "instaliran"
 
 msgctxt "#39020"
 msgid "The following additional add-ons will be installed"
-msgstr ""
+msgstr "Sljedeći dodatni dodaci će biti instalirani"
 
 msgctxt "#39021"
 msgid "Proceed with installation?"
-msgstr ""
+msgstr "Nastaviti s instalacijom?"
 
 msgctxt "#39022"
 msgid "({0:s})"
-msgstr ""
+msgstr "({0:s})"
 
 msgctxt "#39023"
 msgid "({0:s}, {1:s})"
-msgstr ""
+msgstr "({0:s}, {1:s})"
 
 msgctxt "#39024"
 msgid "Dependencies"
-msgstr ""
+msgstr "Zavisnosti"
 
 #. Artist gender - male, female, other
-#, fuzzy
 msgctxt "#39025"
 msgid "Gender"
 msgstr "Spol"
@@ -19189,22 +19149,22 @@ msgstr "Spol"
 #. Brief comment to distinguish artists with the same name e.g "former bassist with Journey"
 msgctxt "#39026"
 msgid "Disambiguation"
-msgstr ""
+msgstr "Višeznačnost"
 
 #. Sort name of artist (e.g. Jackson, Michael)
 msgctxt "#39027"
 msgid "Sortname"
-msgstr ""
+msgstr "Sortni naziv"
 
 #. Text for yes/no dialog when silently uninstalling an add-on
 msgctxt "#39028"
 msgid "Add-on: {0:s}[CR]Origin: {1:s}[CR]Version: {2:s}[CR]- will be uninstalled and replaced. Would you like to proceed?"
-msgstr ""
+msgstr "Dodatak: {0:s}[CR]Porijeklo: {1:s}[CR]Verzija: {2:s}[CR]- bit će deinstaliran i zamijenjen. Želite li nastaviti?"
 
 #. Text for yes/no dialog to indicate that an add-on was manually installed
 msgctxt "#39029"
 msgid "Manually installed"
-msgstr ""
+msgstr "Ručno instalirano"
 
 #. Media source, a filter and smart playlist rule option
 msgctxt "#39030"
@@ -19214,79 +19174,78 @@ msgstr "Izvor"
 #. Node title, plural of #39030
 msgctxt "#39031"
 msgid "Sources"
-msgstr ""
+msgstr "Izvori"
 
 # empty strings from id 39032 to 39099
 msgctxt "#39100"
 msgid "Perform on startup"
-msgstr ""
+msgstr "Izvrši pri pokretanju"
 
 #. Startup action option label
 msgctxt "#39101"
 msgid "Play TV"
-msgstr ""
+msgstr "Reprodukuj TV"
 
 msgctxt "#39102"
 msgid "Play Radio"
-msgstr ""
+msgstr "Pusti radio"
 
 msgctxt "#39103"
 msgid "Unable to configure network location. Invalid path given."
-msgstr ""
+msgstr "Nije moguće konfigurirati mrežnu lokaciju. Navedena je nevažeća putanja."
 
 msgctxt "#39104"
 msgid "View as text"
-msgstr ""
+msgstr "Prikaži kao tekst"
 
 #. audio/video/subtitle flag - FLAG_DEFAULT
-#, fuzzy
 msgctxt "#39105"
 msgid "default"
-msgstr "Podrazumijevano, uključeni su i netačni rezultati, ali su označeni kao da zahtijevaju doradu. Označite ovu opciju da biste uključili samo savršena podudaranja."
+msgstr "zadano"
 
 #. audio/video/subtitle flag - FLAG_FORCED
 msgctxt "#39106"
 msgid "forced"
-msgstr ""
+msgstr "prisilno"
 
 #. audio/video/subtitle flag - FLAG_HEARING_IMPAIRED
 msgctxt "#39107"
 msgid "captions"
-msgstr ""
+msgstr "titlovi"
 
 #. audio/video/subtitle flag - FLAG_VISUAL_IMPAIRED
 msgctxt "#39108"
 msgid "audio description"
-msgstr ""
+msgstr "audio opis"
 
 msgctxt "#39109"
 msgid "Select Program"
-msgstr ""
+msgstr "Odaberite program"
 
 msgctxt "#39110"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Odaberite rezoluciju"
 
 #. audio flag - FLAG_ORIGINAL
 #. language prefix displayed in audio settings stream selection
 msgctxt "#39111"
 msgid "original"
-msgstr ""
+msgstr "original"
 
 #. Used for a setting which allows centre channel (voice/speech) volume to be adjusted when downmixing.
 msgctxt "#39112"
 msgid "Downmix: Center Mix Level"
-msgstr ""
+msgstr "Downmix: Centralni nivo miksa"
 
 #. Help text for 39112
 msgctxt "#39113"
 msgid "Center Mix Level in dB relative to metadata or default (-3 dB)"
-msgstr ""
+msgstr "Nivo centralnog miksa u dB u odnosu na metapodatke ili zadane vrijednosti (-3 dB)"
 
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39114"
 msgid "Episode thumb"
-msgstr ""
+msgstr "Sličica epizode"
 
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39115"
@@ -19301,12 +19260,12 @@ msgstr "Opis epizode"
 #. Label for component level debug logging setting
 msgctxt "#39117"
 msgid "Verbose logging for the [B]Announcer[/B] component"
-msgstr ""
+msgstr "Detaljno evidentiranje za komponentu [B]Spiker[/B]"
 
 #. Label for action to present native iOS sharing sheet
 msgctxt "#39118"
 msgid "Share debug log"
-msgstr ""
+msgstr "Podijeli zapisnik o otklanjanju grešaka"
 
 msgctxt "#39119"
 msgid "Last modified"
@@ -19314,96 +19273,95 @@ msgstr "Posljednja izmjena"
 
 msgctxt "#39120"
 msgid "Skip filename matching for external audio tracks"
-msgstr ""
+msgstr "Preskoči podudaranje naziva datoteka za eksterne audio zapise"
 
 #. Label for section of settings controling what is shown on the library windows
 msgctxt "#39121"
 msgid "Library Display and Navigation"
-msgstr ""
+msgstr "Prikaz i navigacija u biblioteci"
 
 #. Label for section of settings controling how library is populated
 msgctxt "#39122"
 msgid "Library Information Sources"
-msgstr ""
+msgstr "Izvori informacija biblioteke"
 
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
 msgid "Artwork"
-msgstr ""
+msgstr "Umjetničko djelo"
 
 #. Label for component level debug logging setting
 msgctxt "#39124"
 msgid "Verbose logging for the [B]Add-ons[/B] component"
-msgstr ""
+msgstr "Detaljno evidentiranje za komponentu [B]Dodaci[/B]"
 
 # empty string with id 39124
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
-msgstr ""
+msgstr "Omogući čitanje oznaka u prikazu datoteke"
 
 # empty string with id 39126
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
-msgstr ""
+msgstr "Koristite sve lokalne slikovne datoteke kao umjetničko djelo"
 
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr ""
+msgstr "Sve slikovne datoteke koje se nalaze uz medijske datoteke prepoznaju se kao umjetnička djela tokom skeniranja biblioteke, a naziv datoteke označava vrstu umjetničkog djela."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
-msgstr ""
+msgstr "Koristi sve udaljene umjetničke radove koje su preuzeli scraperi"
 
 #. Description of setting with label #39129 "Use all remote artwork fetched by scrapers"
 msgctxt "#39130"
 msgid "Use the first of each art type of the remote artwork in scraper results to fill any missing art not populated with local art."
-msgstr ""
+msgstr "Koristite prvi od svake vrste umjetničkog djela udaljenog umjetničkog djela u rezultatima struganja da biste popunili bilo koje nedostajuće umjetničko djelo koje nije popunjeno lokalnim umjetničkim djelom."
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr ""
+msgstr "Bijela lista vrsta umjetničkih djela umjetnika"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite umjetnička djela preuzeta lokalno ili primijenjena iz rezultata udaljene umjetnosti scraper-a samo na one vrste umjetničkih djela na bijeloj listi"
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
-msgstr ""
+msgstr "Bijela lista tipova omotova albuma"
 
 #. Description of setting with label #39133 "Album art types whitelist"
 msgctxt "#39134"
 msgid "Limit the album artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite lokalno preuzete ili primijenjene omote albuma iz rezultata udaljenih omota scrapera samo na one vrste omota na bijeloj listi"
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
-msgstr ""
+msgstr "Datoteke sličica"
 
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr ""
+msgstr "Nazivi datoteka koje sadrže primarne ilustracije (sličice), uglavnom kvadratnog oblika i koriste se i u punoj i u smanjenoj veličini za vizualnu identifikaciju mape, izvođača, albuma ili pjesme"
 
 msgctxt "#39137"
 msgid "Artwork level"
-msgstr ""
+msgstr "Nivo umjetničkog djela"
 
 #. Description of setting with label #39137 "Artwork level"
 msgctxt "#39138"
 msgid "The amount of artwork automatically selected - [Maximum] all local images and remote art; [Basic] save space on limited devices or when using a simple skin; [Custom] configured by user for detailed control; [None] no art"
-msgstr ""
+msgstr "Količina automatski odabranih umjetničkih djela - [Maksimalno] sve lokalne slike i udaljena umjetnička djela; [Osnovno] ušteda prostora na ograničenom broju uređaja ili pri korištenju jednostavne skinove; [Prilagođeno] konfigurirano od strane korisnika za detaljnu kontrolu; [Nijedan] bez umjetničkih djela"
 
 # empty string with id 39139
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
 msgid "Maximum"
-msgstr ""
+msgstr "Maksimalno"
 
 #. Value of setting with label #39137 "Artwork level"
-#, fuzzy
 msgctxt "#39141"
 msgid "Basic"
 msgstr "Osnovno"
@@ -19415,58 +19373,58 @@ msgstr "Prilagođeno"
 
 msgctxt "#39143"
 msgid "Movie art types whitelist"
-msgstr ""
+msgstr "Bijela lista vrsta filmske umjetnosti"
 
 #. Description of setting with label #39150 "Movie art types whitelist"
 msgctxt "#39144"
 msgid "Limit the movie and movie set artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite lokalno preuzete ili primijenjene ilustracije filmova i filmskih setova iz rezultata scraper udaljenih ilustracija samo na one vrste ilustracija na bijeloj listi"
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr ""
+msgstr "Bijela lista tipova umjetničkih djela TV emisija"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite lokalno preuzete ili primijenjene ilustracije TV emisija i sezona iz rezultata scraper udaljenih ilustracija samo na one vrste ilustracija na bijeloj listi"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
-msgstr ""
+msgstr "Bijela lista tipova ilustracija epizoda"
 
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite lokalno preuzete ili primijenjene ilustracije epizode iz rezultata scraper udaljenih ilustracija samo na one vrste ilustracija na bijeloj listi"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
-msgstr ""
+msgstr "Bijela lista vrsta muzičkih video umjetnina"
 
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr ""
+msgstr "Ograničite lokalno preuzete ili primijenjene umjetničke slike iz muzičkih spotova iz programa scraper na samo one vrste umjetničkih djela na bijeloj listi"
 
 msgctxt "#39153"
 msgid "Windowing system:"
-msgstr ""
+msgstr "Sistem prozora:"
 
 #. Override subtitles styles setting list
 msgctxt "#39154"
 msgid "Override subtitles styles"
-msgstr ""
+msgstr "Prekriži stilove titlova"
 
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr ""
+msgstr "Neki formati titlova kao što su SSA / ASS / WebVTT mogu uključivati metapodatke poput stila fonta, boja, veličine, poravnanja, pozicija itd. Stilove možete prepisati svojim prilagodbama (imajte na umu da se u nekim slučajevima mogu javiti nuspojave)."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
 msgid "Positions"
-msgstr ""
+msgstr "Pozicije"
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39157"
@@ -19476,22 +19434,22 @@ msgstr "Stilovi"
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39158"
 msgid "Styles and positions"
-msgstr ""
+msgstr "Stilovi i pozicije"
 
 #. Subtitle border size setting toggle
 msgctxt "#39159"
 msgid "Border size"
-msgstr ""
+msgstr "Veličina obruba"
 
 #. Subtitle border colour setting
 msgctxt "#39160"
 msgid "Border colour"
-msgstr ""
+msgstr "Boja obruba"
 
 #. CC Subtitles text alignment setting list
 msgctxt "#39161"
 msgid "Text alignment"
-msgstr ""
+msgstr "Poravnanje teksta"
 
 #. Item list value of setting with label #39161 "Text alignment"
 msgctxt "#39162"
@@ -19499,7 +19457,6 @@ msgid "Left"
 msgstr "Lijevo"
 
 #. Item list value of setting with label #39161 "Text alignment"
-#, fuzzy
 msgctxt "#39163"
 msgid "Center"
 msgstr "Centar"
@@ -19512,222 +19469,221 @@ msgstr "Desno"
 #. Type of background for displaying the subtitles
 msgctxt "#39165"
 msgid "Background type"
-msgstr ""
+msgstr "Vrsta pozadine"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39166"
 msgid "Shadow"
-msgstr ""
+msgstr "Sjena"
 
 #. Item list value of setting with label #39166 "Background type"
-#, fuzzy
 msgctxt "#39167"
 msgid "Box"
-msgstr "x                      Okvir za prikaz/sakrij objekte"
+msgstr "Kutija"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39168"
 msgid "Square box"
-msgstr ""
+msgstr "Kvadratna kutija"
 
 #. Description of setting with label #39166 "Background type"
 msgctxt "#39169"
 msgid "Type of background to apply to subtitles."
-msgstr ""
+msgstr "Vrsta pozadine koja će se primijeniti na titlove."
 
 #. Subtitle shadow size setting
 msgctxt "#39170"
 msgid "Shadow size"
-msgstr ""
+msgstr "Veličina sjene"
 
 #. Subtitle shadow colour setting
 msgctxt "#39171"
 msgid "Shadow colour"
-msgstr ""
+msgstr "Boja sjene"
 
 #. Subtitle shadow opacity setting
 msgctxt "#39172"
 msgid "Shadow opacity"
-msgstr ""
+msgstr "Neprozirnost sjene"
 
 #. Subtitle blur setting
 msgctxt "#39173"
 msgid "Blur"
-msgstr ""
+msgstr "Zamućenje"
 
 #. SystemInfo string for the display's supported HDR types
 msgctxt "#39174"
 msgid "Display supported HDR types"
-msgstr ""
+msgstr "Podržani tipovi HDR-a na ekranu"
 
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
 msgid "Building font cache in progress - please wait"
-msgstr ""
+msgstr "Izrada keš memorije fontova je u toku - molimo pričekajte"
 
 #. Helper text for gui sound volume setting
 msgctxt "#39176"
 msgid "Relative volume for gui sounds"
-msgstr ""
+msgstr "Relativna jačina zvuka za zvukove grafičkog korisničkog interfejsa"
 
 #. Dialog caption related to the speech to text process
 msgctxt "#39177"
 msgid "Speech to text"
-msgstr ""
+msgstr "Govor u tekst"
 
 #. Dialog text to notify that the speech service is not available
 msgctxt "#39178"
 msgid "Speech recognition service not available"
-msgstr ""
+msgstr "Usluga prepoznavanja govora nije dostupna"
 
 #. Dialog text to notify that microphone is listening
 msgctxt "#39179"
 msgid "Listening..."
-msgstr ""
+msgstr "Slušanje..."
 
 #. Dialog text to notify that there has been no matching recognition result
 msgctxt "#39180"
 msgid "No recognition result matched"
-msgstr ""
+msgstr "Nema podudaranja rezultata prepoznavanja"
 
 #. Dialog text to notify that there has been a speech recognition error
 msgctxt "#39181"
 msgid "Speech recognition error"
-msgstr ""
+msgstr "Greška u prepoznavanju govora"
 
 #. Subtitle vertical margin setting
 msgctxt "#39182"
 msgid "Vertical margin"
-msgstr ""
+msgstr "Vertikalna margina"
 
 #. Help text for setting "Vertical margin" of label #39182
 msgctxt "#39183"
 msgid "Allows you to add a margin in top and bottom aligned text. Changing this setting will affect also subtitle position set with the Video calibration."
-msgstr ""
+msgstr "Omogućava vam dodavanje margine u tekstu poravnatom gore i dolje. Promjena ove postavke će također utjecati na položaj titla postavljen kalibracijom videa."
 
 #. Window screen calibration: the current subtitle calibration value with vertical margin
 msgctxt "#39184"
 msgid "Current value: {0:d} (with vertical margin: {1:d})"
-msgstr ""
+msgstr "Trenutna vrijednost: {0:d} (sa vertikalnom marginom: {1:d})"
 
 #. Dialog text to notify that there are insufficient permissions for speech recognition
 msgctxt "#39185"
 msgid "Insufficient permissions for speech recognition"
-msgstr ""
+msgstr "Nedovoljna odobrenja za prepoznavanje govora"
 
 #. Title of group menu subtitles
 msgctxt "#39186"
 msgid "Styles for text based subtitles"
-msgstr ""
+msgstr "Stilovi za tekstualne titlove"
 
 #. Title of group menu subtitles
 msgctxt "#39187"
 msgid "Closed caption subtitles"
-msgstr ""
+msgstr "Titlovi sa skrivenim titlovima"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39188"
 msgid "No background"
-msgstr ""
+msgstr "Bez pozadine"
 
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr ""
+msgstr "Dostupno samo s ručnim pozicioniranjem titlova"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr ""
+msgstr "[UKLJUČENO] Osvjetljenje GUI-ja u HDR režimu prati postavke sistema. Ovo utiče na sve OSD menije, titlove i grafiku SDR porijekla. [CR][ISKLJUČENO] Ručno podesite maksimalnu svjetlinu."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
 msgid "HDR"
-msgstr ""
+msgstr "HDR"
 
 msgctxt "#39192"
 msgid "Disable screensaver when playing audio"
-msgstr ""
+msgstr "Onemogućite čuvar ekrana prilikom reprodukcije zvuka"
 
 #. Description of setting with label #39192 "Disable screensaver when playing audio"
 msgctxt "#39193"
 msgid "If music is being played, the screensaver will never be activated"
-msgstr ""
+msgstr "Ako se reprodukuje muzika, čuvar ekrana se nikada neće aktivirati"
 
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Omogućava napredni DXVA upscaler koristeći NVIDIA \"RTX Video Super Resolution\" ili \"Intel Video Super Resolution\".[CR]Koristi se kada je video izvor 2560x1440 ili manji, a rezolucija izvora je niža od rezolucije ekrana.[CR]Dostupno samo na određenom hardveru: NVIDIA RTX i Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
 msgid "Enable this option for the best picture quality. Disabling reduces the load on resource-limited systems."
-msgstr ""
+msgstr "Omogućite ovu opciju za najbolji kvalitet slike. Onemogućavanje smanjuje opterećenje sistema s ograničenim resursima."
 
 #. Title of Dolby Vision RPU conversion setting
 msgctxt "#39196"
 msgid "Dolby Vision compatibility mode"
-msgstr ""
+msgstr "Režim kompatibilnosti sa Dolby Vision-om"
 
 #. Help text for setting "Convert Dolby Vision for compatibility" of label #39196
 msgctxt "#39197"
 msgid "If enabled, Dolby Vision profile 7 will be converted to profile 8.1, which is more commonly supported by devices. Enable if your device supports Dolby Vision, but has issues with some videos."
-msgstr ""
+msgstr "Ako je omogućeno, Dolby Vision profil 7 će se pretvoriti u profil 8.1, koji uređaji češće podržavaju. Omogućite ako vaš uređaj podržava Dolby Vision, ali ima problema s nekim videozapisima."
 
 #. Title of "Allowed HDR dynamic metadata formats" setting
 msgctxt "#39198"
 msgid "Allowed HDR dynamic metadata formats"
-msgstr ""
+msgstr "Dozvoljeni formati HDR dinamičkih metapodataka"
 
 #. Help text for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39199"
 msgid "Alters the video bitstream to remove dynamic HDR metadata. Select the HDR formats your device and display supports."
-msgstr ""
+msgstr "Mijenja video bitprijenos kako bi uklonio dinamičke HDR metapodatke. Odaberite HDR formate koje vaš uređaj i ekran podržavaju."
 
 #. Label of Dolby Vision option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39200"
 msgid "Dolby Vision"
-msgstr ""
+msgstr "Dolby Vision"
 
 #. Label of HDR10+ option for setting "Allowed HDR dynamic metadata formats" of label #39198
 msgctxt "#39201"
 msgid "HDR10+"
-msgstr ""
+msgstr "HDR10+"
 
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Razmak između redova"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Podesite razmak između redova teksta. Postavljanje preniske vrijednosti može uzrokovati preklapanje okvira kada se koristi postavka \"Vrsta pozadine\"."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "Postavite CC titlove samo za osobe s oštećenim sluhom"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "Omogućavanjem ove opcije, CC titlovi će biti označeni za osobe s oštećenim sluhom; ovo će utjecati na automatski odabir titlova, koji se, osim ako nije drugačije navedeno, neće prikazivati prema zadanim postavkama."
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "KK"
 
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Koristite dekoder Starfish"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish je hardverski video dekoder za LG-jev webOS. Onemogućite ga za rješavanje problema ili testiranje."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19738,12 +19694,12 @@ msgstr "Verzije"
 #. Manage video versions context menu item
 msgctxt "#40001"
 msgid "Manage versions"
-msgstr ""
+msgstr "Upravljanje verzijama"
 
 #. Manage video version dialog title
 msgctxt "#40002"
 msgid "Add as version to..."
-msgstr ""
+msgstr "Dodaj kao verziju u..."
 
 #. Generic video version label (singular)
 msgctxt "#40003"
@@ -19753,97 +19709,97 @@ msgstr "Verzija"
 #. Button to change the version type of a version in Versions Manager
 msgctxt "#40004"
 msgid "Choose type"
-msgstr ""
+msgstr "Odaberite vrstu"
 
 #. Warning dialog title
 msgctxt "#40005"
 msgid "Operation not supported"
-msgstr ""
+msgstr "Operacija nije podržana"
 
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr ""
+msgstr "Odabrani film ima više verzija, što sprečava njegovo pretvaranje u verziju drugog filma. Uklonite verzije iz filma, ponovo skenirajte biblioteku i konvertujte ih pojedinačno."
 
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr ""
+msgstr "Verzija \"{0:s}\" već postoji!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
 msgid "Different movie version found"
-msgstr ""
+msgstr "Pronađena je drugačija verzija filma"
 
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "Pronađena je druga verzija filma \"{0:s}\": {1:s}. Želite li je pretvoriti u dodatnu verziju originala?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
 msgid "video version"
-msgstr ""
+msgstr "video verzija"
 
 #. "video version" string in plural format
 msgctxt "#40011"
 msgid "video versions"
-msgstr ""
+msgstr "video verzije"
 
 #. "video version" string in singular capital format
 msgctxt "#40012"
 msgid "Video version"
-msgstr ""
+msgstr "Video verzija"
 
 #. "video version" string in plural capital format
 msgctxt "#40013"
 msgid "Video versions"
-msgstr ""
+msgstr "Video verzije"
 
 #. Add video version dialog title
 msgctxt "#40014"
 msgid "Add version"
-msgstr ""
+msgstr "Dodaj verziju"
 
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr ""
+msgstr "Dodajte dodatno"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr ""
+msgstr "Odabrani video već je verzija filma \"{0:s}\"."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr ""
+msgstr "Odabrani video je verzija filma \"{1:s}\" u formatu \"{0:s}\". Želite li premjestiti verziju u ovaj film?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
 msgid "Remove video version"
-msgstr ""
+msgstr "Ukloni verziju videa"
 
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr ""
+msgstr "Zadana verzija filma se ne može ukloniti. Postavite drugu zadanu verziju i pokušajte ponovo."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr ""
+msgstr "Jeste li sigurni da želite ukloniti verziju \"{0:s}\"?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr ""
+msgstr "Da li zaista želite ukloniti '{0:s}' i sve njegove verzije iz biblioteke?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
 msgid "Manage {0:s}"
-msgstr ""
+msgstr "Upravljaj {0:s}"
 
 #. Button label to make a video version the default version
 msgctxt "#40023"
@@ -19853,22 +19809,22 @@ msgstr "Postavi kao zadano"
 #. Choose/Manage video version dialog title
 msgctxt "#40024"
 msgid "Versions Manager: {0:s}"
-msgstr ""
+msgstr "Upravitelj verzija: {0:s}"
 
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr ""
+msgstr "Voditelj dodataka: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr ""
+msgstr "Odabrani video već je dodatni dio filma \"{0:s}\"."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr ""
+msgstr "Odabrani video je dodatni video \"{0:s}\" iz filma \"{1:s}\". Želite li premjestiti dodatni video u ovaj film?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19878,93 +19834,93 @@ msgstr "Pregledaj datoteke"
 #. Browse the library for the movie to be added as version
 msgctxt "#40029"
 msgid "Browse library"
-msgstr ""
+msgstr "Pregledaj biblioteku"
 
 #. Select the movie to be added as a version
 msgctxt "#40030"
 msgid "Select movie to add as a version"
-msgstr ""
+msgstr "Odaberite film koji želite dodati kao verziju"
 
 #. No other movies found in the library
 msgctxt "#40031"
 msgid "No other movies found in the library."
-msgstr ""
+msgstr "Nije pronađen nijedan drugi film u biblioteci."
 
 #. Add version: no similar movies were found in the library.
 msgctxt "#40032"
 msgid "No similar movies were found in the library."
-msgstr ""
+msgstr "U biblioteci nisu pronađeni slični filmovi."
 
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Dodati još jednu verziju sa ovog diska?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Zadana verzija filma s više verzija ne može se dodati kao dodatni sadržaj drugom filmu. Molimo vas da prvo premjestite ili uklonite ostale verzije."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Namjeravate pretvoriti filmski dodatak u filmsku verziju. Jeste li sigurni?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Namjeravate pretvoriti filmsku verziju u filmski dodatak. Jeste li sigurni?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "Film koji treba dodati ima više verzija.[CR]Tip zadane verzije bit će odabran u sljedećem dijalogu. Ostale verzije će zadržati svoj trenutni tip.[CR]Želite li nastaviti?"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "Zadana verzija filma s više verzija ne može se dodati drugom filmu. Prvo premjestite ili uklonite ostale verzije."
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Uklonite dodatni video"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Jeste li sigurni da želite ukloniti dodatni \"{0:s}\"?"
 
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Dodijeliti listu za reprodukciju trenutnoj verziji filma?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ignoriraj različite verzije videa prilikom skeniranja"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "Odaberite radnju skenera za različite verzije videa.[CR][Omogućeno] Dodajte različite verzije videa u biblioteku odvojeno bez potvrde.[CR][Onemogućeno] Upit za pretvaranje različitih verzija videa u dodatne verzije originala."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "Ignoriraj video dodatke prilikom skeniranja"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "Odaberite radnju skeniranja za video dodatke u mapi \"dodaci\".[CR][Omogućeno] Skenirajte video dodatke kao i obične videozapise.[CR][Onemogućeno] Dodajte video dodatke u biblioteku za povezani videozapis."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Imovina"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19979,169 +19935,169 @@ msgstr "Dodaci"
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Sinhronizacija nivoa jačine zvuka sa udaljenim UPnP plejerima"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "Ako je odabrano, nivo jačine zvuka udaljenog plejera bit će sinhroniziran s jačinom zvuka ove aplikacije.[CR]Upozorenje: Globalni nivo jačine zvuka sistema može se razlikovati od nivoa jačine zvuka aplikacije - oni se kontroliraju nezavisno.[CR]Ovo može dovesti do toga da udaljeni plejer bude postavljen na nivo jačine zvuka od 100% ako aplikacija ima nivo jačine zvuka od 100%, ali je ukupni nivo jačine zvuka sistema manji."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Odaberite vrstu verzije"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Novi tip..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Nova vrsta verzije"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Odaberite dodatno ime"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Novo ime..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "Novo dodatno ime"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Standardno izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Prošireno izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Neocjenjena verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Neobrezana verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Remasterirana verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Kino verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Režiserska verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Posebno izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Limitirano izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Kompletno izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Konačna verzija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
 msgid "Super Duper Cut"
-msgstr ""
+msgstr "Super-duper izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Kolekcionarsko izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Ultimativno kolekcionarsko izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Izdanje kolekcije kriterija"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Uredi obožavatelja"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Crno-bijelo izdanje"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 10. godišnjice"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 20. godišnjice"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 25. godišnjice"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 30. godišnjice"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 40. godišnjice"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "Izdanje povodom 50. godišnjice"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Potvrdi brisanje datoteke"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Ako je omogućeno, prikazat će se dijalog za potvrdu kada datoteke treba izbrisati. Ako je onemogućeno, datoteke će biti izbrisane bez potvrde korisnika."
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

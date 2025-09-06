@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-22 19:29+0000\n"
-"Last-Translator: Feruk <feruk.v@gmail.com>\n"
+"PO-Revision-Date: 2025-09-05 22:23+0000\n"
+"Last-Translator: Alexey <signfinder@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5772,6 +5772,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Поиск в IMDb…"
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Сканировать содержимое"
@@ -6359,7 +6360,7 @@ msgstr "Задержка после изменения частоты обнов
 
 msgctxt "#13551"
 msgid "Off"
-msgstr "Откл."
+msgstr "Выкл."
 
 msgctxt "#13552"
 msgid "{0:.1f} second"
@@ -14562,11 +14563,11 @@ msgstr "384.0"
 
 msgctxt "#34201"
 msgid "Can't find a next item to play"
-msgstr "Не удается найти следующий файл"
+msgstr "Не удается найти предыдущий элемент для воспроизведения"
 
 msgctxt "#34202"
 msgid "Can't find a previous item to play"
-msgstr "Не удается найти предыдущий файл"
+msgstr "Не удается найти предыдущий элемент для воспроизведения"
 
 # empty strings from id 34203 to 34219
 #. Manual HDR toggle (ACTION_HDR_TOGGLE) - HDR On/Off toast caption
@@ -15904,7 +15905,7 @@ msgstr "Скрывать индикатор сканирования медиа�
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
 msgid "Remove items from your library that can't be found (either renamed, deleted, or on removable storage that is currently unplugged)."
-msgstr "Удалить отсутствующие объекты из медиатеки (файлы, которые были переименованы, удалены или находятся на съёмном носителе, который в данный момент отключен)."
+msgstr "Убрать из медиатеки недоступные объекты: переименованные, удалённые или находящиеся на отключённых носителях."
 
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"

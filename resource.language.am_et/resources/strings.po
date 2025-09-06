@@ -5804,6 +5804,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr ""
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "አዲስ ይዞታዎች ማሰሻ "

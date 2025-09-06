@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-08 12:29+0000\n"
+"PO-Revision-Date: 2025-08-27 21:07+0000\n"
 "Last-Translator: Elvis Gallegos <elvis.gallegos@gmail.com>\n"
 "Language-Team: Catalan (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ca_es/>\n"
 "Language: ca_es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5453,7 +5453,7 @@ msgstr "Voleu suprimir el perfil '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Tornar a carregar el perfil '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -5783,6 +5783,7 @@ msgctxt "#13348"
 msgid "Search IMDb..."
 msgstr "Cerca a IMDb..."
 
+#. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
 msgstr "Explora per si hi ha contingut nou"
@@ -6258,22 +6259,22 @@ msgstr "Format intermedi de redimensionat HQ"
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Estableix la precisió del buffer d'escalat intermedi utilitzat a la ruta de renderització de la GPU. Una precisió de 16 bits probablement requereix més rendiment. Si el maquinari no admet el format seleccionat, Kodi seleccionarà el següent millor format."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 bits per canal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 bits per canal"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 bits per canal"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6330,7 +6331,7 @@ msgstr "Llindar per a la correcció de to"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "Quan el canvi de velocitat supera aquest llindar, s'aplicarà un filtre de correcció de to. Això evita les \"veus d'esquirol\" que normalment resulten d'accelerar un vídeo"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6925,11 +6926,11 @@ msgstr "Permet freqüències d'actualització dobles"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Avançat"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Cues d'àudio/vídeo del reproductor"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7154,15 +7155,15 @@ msgstr "Permet el control remot des de les aplicacions en altres sistemes"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Manteniment"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Neteja la memòria cau d'imatges"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Elimina immediatament les imatges no utilitzades de la memòria cau - imatges no associades a cap element de la biblioteca multimèdia ni visualitzades recentment. El Kodi fa això en segon pla amb el pas del temps."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7969,11 +7970,11 @@ msgstr "Ja hi ha un temporitzador configurat per a aquest esdeveniment"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "No es pot reproduir {0:s}."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Aquesta gravació no es pot reproduir."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -8011,7 +8012,7 @@ msgstr "Enregistrament"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Si us plau, comproveu la vostra configuració."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
@@ -19725,73 +19726,73 @@ msgstr ""
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Voleu afegir una altra versió a partir d'aquest disc?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "La versió predeterminada d'una pel·lícula amb diverses versions no es pot afegir com a extra a una altra pel·lícula. Primer, moveu o elimineu les altres versions."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr ""
+msgstr "Esteu a punt de convertir un extra en una versió de la pel·lícula. N'esteu segur?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr ""
+msgstr "Esteu a punt de convertir una versió cinematogràfica en un extra. N'esteu segur?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
 msgid "The movie to be added has multiple versions.[CR]The type of the default version will be selected in the next dialog. The other versions will keep their current type.[CR]Do you want to continue?"
-msgstr ""
+msgstr "La pel·lícula que s'afegirà té diverses versions.[CR]El tipus de la versió predeterminada es seleccionarà al següent quadre de diàleg. Les altres versions mantindran el seu tipus actual.[CR]Voleu continuar?"
 
 #. Addition of new version: the default version of a movie with multiple versions cannot be turned into a version of another movie.
 msgctxt "#40038"
 msgid "The default version of a movie with multiple versions cannot be added to another movie. Please move or remove the other versions first."
-msgstr ""
+msgstr "La versió predeterminada d'una pel·lícula amb diverses versions no es pot afegir a una altra pel·lícula. Primer, moveu o elimineu les altres versions."
 
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr ""
+msgstr "Suprimeix l'extra del vídeo"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr ""
+msgstr "Esteu segur que voleu suprimir l'extra \"{0:s}\"?"
 
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Voleu assignar la llista de reproducció a la versió actual de la pel·lícula?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr ""
+msgstr "Ignora les diferents versions de vídeo durant l'escaneig"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr ""
+msgstr "Seleccioneu l'acció de l'escàner per a diferents versions de vídeo.[CR][Activat] Afegeix diferents versions del vídeo a la biblioteca per separat sense confirmació.[CR][Desactivat] Demana la conversió de diferents versions de vídeo en versions addicionals de l'original."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr ""
+msgstr "Ignora els extres del vídeo durant l'escaneig"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr ""
+msgstr "Seleccioneu l'acció de l'escàner per als extres del vídeo a la carpeta \"extres\".[CR][Activat] Escaneja els extres de vídeo com a vídeos normals.[CR][Desactivat] Afegeix els extres del vídeo a la biblioteca per al vídeo associat."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Actius"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19801,103 +19802,103 @@ msgstr "Versions"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr ""
+msgstr "Extres"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr ""
+msgstr "Sincronitza el nivell de volum amb els reproductors UPnP remots"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr ""
+msgstr "Si es selecciona, el nivell de volum del reproductor remot es sincronitzarà amb el volum d'aquesta aplicació.[CR]Avís: El nivell de volum global del sistema pot ser diferent del nivell de volum de l'aplicació - es controlen independentment.[CR]Això pot fer que el reproductor remot es configuri al 100% del volum si l'aplicació té un nivell de volum del 100% però el nivell de volum general del sistema sigui menor."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
 msgid "Choose version type"
-msgstr ""
+msgstr "Seleccioneu el tipus de versió"
 
 #. Caption of the button to create a new version type (Versions Manager > Rename)
 msgctxt "#40216"
 msgid "New type..."
-msgstr ""
+msgstr "Nou tipus..."
 
 #. Caption of the dialog for keyboard entry of a new version type
 msgctxt "#40217"
 msgid "New version type"
-msgstr ""
+msgstr "Nou tipus de versió"
 
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr ""
+msgstr "Trieu el nom de l'extra"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
 msgid "New name..."
-msgstr ""
+msgstr "Nom nou..."
 
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr ""
+msgstr "Nou nom de l'extra"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40400"
 msgid "Standard Edition"
-msgstr ""
+msgstr "Edició Estàndard"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40401"
 msgid "Extended Edition"
-msgstr ""
+msgstr "Edició Estesa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr ""
+msgstr "Versió Sense Classificació"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"
 msgid "Uncut Version"
-msgstr ""
+msgstr "Versió Sense Retallar"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40404"
 msgid "Remastered Version"
-msgstr ""
+msgstr "Versió Remasteritzada"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40406"
 msgid "Theatrical Cut"
-msgstr ""
+msgstr "Versió Cinematogràfica"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40407"
 msgid "Director's Cut"
-msgstr ""
+msgstr "Muntatge del Director"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40408"
 msgid "Special Edition"
-msgstr ""
+msgstr "Edició Especial"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40409"
 msgid "Limited Edition"
-msgstr ""
+msgstr "Edició Limitada"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40410"
 msgid "Complete Edition"
-msgstr ""
+msgstr "Edició Completa"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40411"
 msgid "The Final Cut"
-msgstr ""
+msgstr "Muntatge Final"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40412"
@@ -19907,68 +19908,68 @@ msgstr ""
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40413"
 msgid "Collector's Edition"
-msgstr ""
+msgstr "Edició de Col·leccionista"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40414"
 msgid "Ultimate Collector's Edition"
-msgstr ""
+msgstr "Edició de Col·leccionista Definitiva"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr ""
+msgstr "Edició Criterion Collection"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"
 msgid "Fan Edit"
-msgstr ""
+msgstr "Edició de Fans"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40417"
 msgid "Black and White Edition"
-msgstr ""
+msgstr "Edició en Blanc i Negre"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40431"
 msgid "10th Anniversary Edition"
-msgstr ""
+msgstr "Edició 10è Aniversari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40432"
 msgid "20th Anniversary Edition"
-msgstr ""
+msgstr "Edició 20è Aniversari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40433"
 msgid "25th Anniversary Edition"
-msgstr ""
+msgstr "Edició 25è Aniversari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40434"
 msgid "30th Anniversary Edition"
-msgstr ""
+msgstr "Edició 30è Aniversari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40435"
 msgid "40th Anniversary Edition"
-msgstr ""
+msgstr "Edició 40è Aniversari"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40436"
 msgid "50th Anniversary Edition"
-msgstr ""
+msgstr "Edició 50è Aniversari"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Confirmeu la supressió del fitxer"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Si està activat, es mostrarà un quadre de diàleg de confirmació quan s'hagin d'eliminar els fitxers. Si està desactivat, els fitxers s'eliminaran sense la confirmació de l'usuari."
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."
