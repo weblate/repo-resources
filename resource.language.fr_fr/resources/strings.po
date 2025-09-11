@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-30 10:12+0000\n"
+"PO-Revision-Date: 2025-09-11 09:29+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3008,7 +3008,7 @@ msgstr "Tous les jours"
 #. special channel representation value for a timer rule
 msgctxt "#809"
 msgid "Any channel"
-msgstr "Canal quelconque"
+msgstr "N'importe quelle chaîne"
 
 #. Label of "Start any time" radio button in PVR timer settings dialog
 msgctxt "#810"
@@ -3030,12 +3030,12 @@ msgstr "Éviter les épisodes en double"
 #. Label of start padding time list control in PVR timer settings dialog
 msgctxt "#813"
 msgid "Start padding time"
-msgstr "Ajustement de l'heure de début"
+msgstr "Avancer l'heure de début"
 
 #. Label of end padding time list control in PVR timer settings dialog
 msgctxt "#814"
 msgid "End padding time"
-msgstr "Ajustement de l'heure de fin"
+msgstr "Retarder l'heure de fin"
 
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#815"
@@ -3227,12 +3227,12 @@ msgstr "Port autorisé compris entre 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr "N'importe quel canal du client \"{0:s}\""
+msgstr "N'importe quelle chaîne du client \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr "N’importe quel canal de n’importe quel client"
+msgstr "N’importe quelle chaîne de n’importe quel client"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
@@ -5930,7 +5930,7 @@ msgstr "Ignorer les articles lors du tri"
 
 msgctxt "#13400"
 msgid "Crossfade between songs on the same album"
-msgstr "Fondu-enchainé des titres d'un même album"
+msgstr "Fondu-enchaîné entre les titres d'un même album"
 
 msgctxt "#13401"
 msgid "Browse for {0:s}"
@@ -6715,7 +6715,7 @@ msgstr "Utiliser une fenêtre plein écran"
 
 msgctxt "#14084"
 msgid "Queue songs on selection"
-msgstr "Placer les titres sélectionnés en file d'attente"
+msgstr "Ajouter la sélection à la file d'attente"
 
 msgctxt "#14086"
 msgid "Playback"
@@ -11297,7 +11297,7 @@ msgstr "Réduire"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "Réduire l'arborescence des saisons de séries"
+msgstr "Réduire l'arborescence des saisons des séries"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -13198,7 +13198,7 @@ msgstr "Service prédéfini pour les séries"
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
 msgid "Select the service that will be used as default to search for TV show subtitles."
-msgstr "Sélection du service prédéfini pour la recherche de sous-titres de séries."
+msgstr "Sélection du service prédéfini pour la recherche de sous-titres des séries."
 
 msgctxt "#24118"
 msgid "Default movie service"
@@ -15966,7 +15966,7 @@ msgstr "Activer le décodage matériel VideoToolBox pour les fichiers vidéos."
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "Affiche les séries sans épisode lors du parcours de la vidéothèque."
+msgstr "Afficher les séries sans épisode lors du parcours de la vidéothèque."
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
