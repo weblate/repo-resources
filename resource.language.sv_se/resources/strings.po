@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-05 22:23+0000\n"
+"PO-Revision-Date: 2025-09-11 09:29+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -769,7 +769,7 @@ msgstr "Handling"
 #. generic "play" (some sort of media) label used in different places
 msgctxt "#208"
 msgid "Play"
-msgstr "Spela"
+msgstr "Spela upp"
 
 #. used as label for an action/button to play or navigate to the next item
 msgctxt "#209"
@@ -6770,7 +6770,7 @@ msgstr "Åtgärd vid inmatning av ljud-CD"
 
 msgctxt "#14098"
 msgid "Play"
-msgstr "Spela"
+msgstr "Spela upp"
 
 msgctxt "#14099"
 msgid "Eject disc when the CD ripping is complete"
@@ -14271,7 +14271,7 @@ msgstr "Meny"
 
 msgctxt "#33062"
 msgid "Play the"
-msgstr "Spela"
+msgstr "Spela upp"
 
 msgctxt "#33063"
 msgid "Options"

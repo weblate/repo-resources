@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-07-10 08:29+0000\n"
+"PO-Revision-Date: 2025-09-11 09:29+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ga_ie/>\n"
 "Language: ga_ie\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.1\n"
 
 # [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
 # [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
@@ -2543,7 +2543,7 @@ msgstr "Blianta"
 
 msgctxt "#653"
 msgid "Update library"
-msgstr "Leabharlann a nu"
+msgstr "Nuashonraigh an leabharlann"
 
 msgctxt "#654"
 msgid "Show debug information"
@@ -3015,7 +3015,7 @@ msgstr "Rochtain Idirlín"
 
 msgctxt "#799"
 msgid "Library update"
-msgstr "Nuashonrú leabharlan"
+msgstr "Nuashonrú leabharlainne"
 
 # empty strings from id 800 to 801
 #. Label of progress bar which shows the available/total space of pvr backend
@@ -5567,7 +5567,7 @@ msgstr "Scrios an phróifíl '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Athlódáil próifíl '{0:s}'?"
 
 # empty strings from id 13202 to 13203
 #. used by several skins
@@ -7238,11 +7238,11 @@ msgstr "Pictiúir..."
 
 msgctxt "#14245"
 msgid "Update library on startup"
-msgstr "Nuashonraigh an leabharlann ar"
+msgstr "Nuashonraigh an leabharlann ag am tosaithe"
 
 msgctxt "#14246"
 msgid "Hide progress of library updates"
-msgstr "Folaigh an dul chun cinn na nuashonruithe"
+msgstr "Folaigh dul chun cinn nuashonruithe leabharlainne"
 
 msgctxt "#14247"
 msgid "Clean library"
@@ -10930,7 +10930,7 @@ msgstr "UPnP / DLNA"
 
 msgctxt "#20188"
 msgid "Announce library updates"
-msgstr "Nuashonruithe leabharlainne"
+msgstr "Fógraigh nuashonruithe leabharlainne"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
@@ -11618,7 +11618,7 @@ msgstr "Sean-chomhaid a fhorscríobh?"
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20432"
 msgid "Exclude path from library updates"
-msgstr "Gan cosán a eisiamh ó nuashonruithe"
+msgstr "Eisiamh an chonair ó nuashonruithe leabharlainne"
 
 msgctxt "#20433"
 msgid "Extract video information from files"
@@ -12753,11 +12753,11 @@ msgstr "Rugadh / Foirmithe"
 # strings 21900 thru 21999 reserved for slideshow info
 msgctxt "#22000"
 msgid "Update library on startup"
-msgstr "Nuashonraigh an leabharlann ar"
+msgstr "Nuashonraigh an leabharlann ag am tosaithe"
 
 msgctxt "#22001"
 msgid "Hide progress of library updates"
-msgstr "Folaigh an dul chun cinn na nuashonruithe"
+msgstr "Folaigh dul chun cinn nuashonruithe leabharlainne"
 
 msgctxt "#22002"
 msgid "DNS suffix"
@@ -15577,17 +15577,17 @@ msgstr "Sa scaoileadh seo, ní féidir ach rialaitheoirí a úsáid chun cluich�
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr ""
+msgstr "Gnáth (1:1 PAR)"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Slánuimhir"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr ""
+msgstr "Slánuimhir (1:1 PAR)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -17009,7 +17009,7 @@ msgstr "Cumasaíonn an fhreastalaí UPnP. Ligeann sé seo duit meáin a shruthl�
 #. Description of setting with label #20188 "Announce library updates"
 msgctxt "#36324"
 msgid "When a manual or automatic library update occurs, notify UPnP clients."
-msgstr "Nuair a tharlaíonn nuashonrú láimhe nó uathoibríoch leabharlainne, cuir cliaint UPnP ar an eolas."
+msgstr "Nuair a tharlaíonn nuashonrú leabharlainne de láimh nó uathoibríoch, cuir cliaint UPnP ar an eolas."
 
 #. Description of setting with label #21881 "Allow playback control via UPnP"
 msgctxt "#36325"
@@ -20016,7 +20016,7 @@ msgstr "Níor aimsíodh aon scannáin den chineál céanna sa leabharlann."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Cuir leagan eile ón diosca seo leis?"
 
 # empty string id 40033
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
@@ -20057,7 +20057,7 @@ msgstr "An bhfuil tú cinnte go mbainfidh tú an \"{0:s}\" breise?"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Sannadh seinmliosta don leagan reatha den scannán?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
