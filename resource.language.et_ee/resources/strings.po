@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-05 22:23+0000\n"
+"PO-Revision-Date: 2025-09-14 05:58+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.1\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -19502,7 +19502,7 @@ msgstr "Selle lubamisel määratakse CC subtiitrid vaegkuuljatele; see mõjutab 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # Use Starfish decoder
 msgctxt "#39207"

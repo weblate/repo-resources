@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-11 09:29+0000\n"
+"PO-Revision-Date: 2025-09-14 23:39+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.1\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1652,7 +1652,7 @@ msgstr "Meilleure concordance"
 
 msgctxt "#421"
 msgid "Keep audio device alive"
-msgstr "Garder le dispositif audio actif"
+msgstr "Maintenir le périphérique audio actif"
 
 msgctxt "#422"
 msgid "Delete album information"
@@ -2114,11 +2114,11 @@ msgstr "Informations du média"
 
 msgctxt "#545"
 msgid "Audio output device"
-msgstr "Dispositif de sortie audio"
+msgstr "Périphérique de sortie audio"
 
 msgctxt "#546"
 msgid "Passthrough output device"
-msgstr "Dispositif de sortie en laisser-passer"
+msgstr "Périphérique de sortie en laisser-passer"
 
 msgctxt "#547"
 msgid "No biography for this artist"
@@ -3673,7 +3673,7 @@ msgstr "Activer la gestion d'AirPlay"
 
 msgctxt "#1271"
 msgid "Device name"
-msgstr "Nom du dispositif"
+msgstr "Nom de l'appareil"
 
 msgctxt "#1272"
 msgid "Use password protection"
@@ -3694,11 +3694,11 @@ msgstr "Filtrer {0:s}"
 
 msgctxt "#1300"
 msgid "Custom audio device"
-msgstr "Dispositif audio personnalisé"
+msgstr "Périphérique audio personnalisé"
 
 msgctxt "#1301"
 msgid "Custom passthrough device"
-msgstr "Dispositif laisser-passer (Passthrough) personnalisé"
+msgstr "Périphérique laisser-passer (passthrough) personnalisé"
 
 msgctxt "#1302"
 msgid "Volume control steps"
@@ -5217,15 +5217,15 @@ msgstr "Autre session en cours, peut-être en SSH ?"
 
 msgctxt "#13021"
 msgid "Mounted removable storage device"
-msgstr "Dispositif de stockage amovible connecté"
+msgstr "Périphérique de stockage amovible connecté"
 
 msgctxt "#13022"
 msgid "Unsafe storage device removal"
-msgstr "Retrait du dispositif de stockage risqué"
+msgstr "Retrait risqué du périphérique de stockage"
 
 msgctxt "#13023"
 msgid "Successfully removed storage device"
-msgstr "Retrait du dispositif de stockage réussi"
+msgstr "Retrait du périphérique de stockage réussi"
 
 msgctxt "#13026"
 msgid "Try to wakeup remote servers on access"
@@ -5829,7 +5829,7 @@ msgstr "Continuer à regarder"
 
 msgctxt "#13375"
 msgid "Enable device"
-msgstr "Activer le dispositif"
+msgstr "Activer l'appareil"
 
 msgctxt "#13376"
 msgid "Volume"
@@ -6752,7 +6752,7 @@ msgstr "Sécurité"
 
 msgctxt "#14094"
 msgid "Devices"
-msgstr "Dispositifs"
+msgstr "Périphériques"
 
 msgctxt "#14095"
 msgid "Power saving"
@@ -7808,12 +7808,12 @@ msgstr "Informations du flux de l'enregistreur vidéo"
 #. label for 'tuner name' in pvr player information dialog
 msgctxt "#19006"
 msgid "Receiving device"
-msgstr "Dispositif de réception"
+msgstr "Appareil récepteur"
 
 #. label for 'device status' in pvr player information dialog
 msgctxt "#19007"
 msgid "Device status"
-msgstr "État du dispositif"
+msgstr "État de l'appareil"
 
 #. label for 'signal quality' in pvr player information dialog
 msgctxt "#19008"
@@ -7933,7 +7933,7 @@ msgstr "Maintenant"
 #. generic 'next' label used in different places in pvr context
 msgctxt "#19031"
 msgid "Next"
-msgstr "Suivant"
+msgstr "Ensuite"
 
 #. 'timeline' label used in pvr guide window
 msgctxt "#19032"
@@ -8577,7 +8577,7 @@ msgstr "Impossible de démarrer l'enregistrement."
 #. Label for "switch to channel" button""
 msgctxt "#19165"
 msgid "Switch"
-msgstr "Changer"
+msgstr "Regarder"
 
 #. label for header of misc PVR GUI elements
 msgctxt "#19166"
@@ -14464,7 +14464,7 @@ msgstr "7.1"
 #. Description of setting with label #421 "Keep audio device alive"
 msgctxt "#34111"
 msgid "Select the behaviour when no sound is required for either playback or GUI sounds.[CR][Always] Continuous inaudible signal is output, this keeps the receiving audio device alive for any new sounds, however this might also block sound from other applications.[CR][1-10 Minutes] Same as [Always] except that after the selected period of time audio enters a suspended state.[CR][Off] Audio output enters a suspended state. Note: Sounds can be missed if audio enters suspended state."
-msgstr "Sélection du comportement quand aucun son n'est requis ni pour la lecture ni pour les sons de l'interface utilisateur.[CR][Toujours] Un signal inaudible continu est émis pour conserver le dispositif audio disponible pour la suite, cependant cela peut bloquer les sons des autres applications.[CR][1-10 minutes] Identique à [Toujours], puis l'audio passe en veille après le délai sélectionné.[CR][Non] La sortie audio passe en veille.[CR]NB : des sons peuvent être manqués si l'audio passe en veille."
+msgstr "Sélection du comportement quand aucun son n'est requis ni pour la lecture ni pour les sons de l'interface utilisateur.[CR][Toujours] Un signal inaudible continu est émis pour conserver le périphérique audio disponible pour la suite, cependant cela peut bloquer les sons des autres applications.[CR][1-10 minutes] Identique à [Toujours], puis l'audio passe en veille après le délai sélectionné.[CR][Non] La sortie audio passe en veille.[CR]NB : des sons peuvent être manqués si l'audio passe en veille."
 
 #. Indicates if Audio Engine should transmit noise or real silence
 msgctxt "#34112"
@@ -14608,7 +14608,7 @@ msgstr "Échec des filtres/redimensionnements vidéo, utilisation du redimension
 
 msgctxt "#34402"
 msgid "Failed to initialise audio device"
-msgstr "Échec lors de l'initialisation du dispositif audio"
+msgstr "Échec lors de l'initialisation du périphérique audio"
 
 msgctxt "#34403"
 msgid "Check your audio settings"
@@ -14640,7 +14640,7 @@ msgstr "Périphériques"
 
 msgctxt "#35001"
 msgid "Generic HID device"
-msgstr "Dispositif HID générique"
+msgstr "Périphérique HID générique"
 
 msgctxt "#35002"
 msgid "Generic network adapter"
@@ -14656,15 +14656,15 @@ msgstr "Il n'existe pas de paramètres disponibles pour ce périphérique."
 
 msgctxt "#35005"
 msgid "New device configured"
-msgstr "Nouveau dispositif configuré"
+msgstr "Nouveau périphérique configuré"
 
 msgctxt "#35006"
 msgid "Device removed"
-msgstr "Dispositif déconnecté"
+msgstr "Périphérique déconnecté"
 
 msgctxt "#35007"
 msgid "Keymap to use for this device"
-msgstr "Mappage clavier à utiliser pour ce dispositif"
+msgstr "Mappage clavier à utiliser pour ce périphérique"
 
 msgctxt "#35008"
 msgid "Keymap enabled"
@@ -14672,7 +14672,7 @@ msgstr "Mappage clavier activé"
 
 msgctxt "#35009"
 msgid "Don't use the custom keymap for this device"
-msgstr "Ne pas utiliser de mappage clavier personnalisé pour ce dispositif"
+msgstr "Ne pas utiliser de mappage clavier personnalisé pour ce périphérique"
 
 #. Name of add-ons extending the kodi.peripheral extension point
 msgctxt "#35010"
@@ -14797,7 +14797,7 @@ msgstr "Réinitialiser le profil de manette"
 #. Prompt to reset a controller profile for all devices
 msgctxt "#35061"
 msgid "Would you like to reset this controller profile for all attached devices?"
-msgstr "Faut-il réinitialiser ce profil de manette pour tous les dispositifs connectés ?"
+msgstr "Faut-il réinitialiser ce profil de manette pour tous les périphériques connectés ?"
 
 #. Notice that all controller profiles are installed
 msgctxt "#35062"
@@ -14812,7 +14812,7 @@ msgstr "Configurer les manettes connectées"
 #. Description for the controller window setting
 msgctxt "#35064"
 msgid "Pair your controllers with the various input devices of different game systems."
-msgstr "Associe les manettes avec les divers dispositifs d'entrée des différents systèmes de jeux."
+msgstr "Associe les manettes avec les divers périphériques d'entrée des différents systèmes de jeux."
 
 #. Label for buttons that appear on a racing wheel for games. Used in the controller mapping dialog.
 msgctxt "#35071"
@@ -15464,7 +15464,7 @@ msgstr "Appareils à allumer au démarrage de l'application"
 
 msgctxt "#36008"
 msgid "Devices to power off during shutdown"
-msgstr "Dispositifs à éteindre à l'arrêt de l'application"
+msgstr "Appareils à éteindre à l'arrêt de l'application"
 
 msgctxt "#36009"
 msgid "Put devices in standby mode when activating the screensaver"
@@ -15485,7 +15485,7 @@ msgstr "Impossible d'initialiser l'adaptateur CEC. Merci de vérifier les param�
 #. CEC adapter setting to set the type of device that libCEC reports to the TV (Recording, Playback or Tuner Device)
 msgctxt "#36013"
 msgid "CEC client device mode"
-msgstr "Mode d'appareil du client CEC"
+msgstr "Type d'appareil du client CEC"
 
 msgctxt "#36015"
 msgid "HDMI port number"
@@ -15502,15 +15502,15 @@ msgstr "Impossible d'initialiser l'adaptateur CEC. libCEC n'a pas été trouvée
 
 msgctxt "#36018"
 msgid "Use the TV's language setting"
-msgstr "Utiliser le paramètre de langage du TV"
+msgstr "Utiliser le paramètre de langue de la TV"
 
 msgctxt "#36019"
 msgid "Connected to HDMI device"
-msgstr "Connecté à un dispositif HDMI"
+msgstr "Connecté à un appareil HDMI"
 
 msgctxt "#36020"
 msgid "Switch source to this device on startup"
-msgstr "Commuter la source vers ce dispositif au démarrage"
+msgstr "Commuter la source vers cet appareil au démarrage"
 
 msgctxt "#36021"
 msgid "Physical address (overrules HDMI port)"
@@ -15522,19 +15522,19 @@ msgstr "Configuration mise à jour"
 
 msgctxt "#36024"
 msgid "Failed to set the new configuration. Please check your settings."
-msgstr "Échec de l'application de la nouvelle configuration. Merci de vérifier les paramètres."
+msgstr "Échec de l'application de la nouvelle configuration. Veuillez vérifier les paramètres."
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
-msgstr "Envoyer la commande « Source inactive » durant l'arrêt"
+msgstr "Envoyer la commande « Source inactive » lors de l'arrêt"
 
 msgctxt "#36026"
 msgid "Devices to also put in standby mode"
-msgstr "Dispositifs à mettre également en veille"
+msgstr "Appareils à mettre également en veille"
 
 msgctxt "#36027"
 msgid "This device needs servicing"
-msgstr "Ce dispositif nécessite une maintenance"
+msgstr "Cet appareil nécessite une maintenance"
 
 #. Label for a select option
 msgctxt "#36028"
@@ -15543,7 +15543,7 @@ msgstr "Ignorer"
 
 msgctxt "#36029"
 msgid "When the TV is switched off"
-msgstr "En éteignant le TV"
+msgstr "Lorsque la TV est éteinte"
 
 #. connection state "connection lost"
 msgctxt "#36030"
@@ -15575,7 +15575,7 @@ msgstr "Toujours"
 #. adjust refreshrate
 msgctxt "#36036"
 msgid "On start / stop"
-msgstr "Au départ / à l'arrêt"
+msgstr "Au démarrage / à l'arrêt"
 
 msgctxt "#36037"
 msgid "TV"
@@ -15583,11 +15583,11 @@ msgstr "TV"
 
 msgctxt "#36038"
 msgid "Amplifier / AVR device"
-msgstr "Amplificateur / Receveur audio vidéo"
+msgstr "Amplificateur / Récepteur audio vidéo"
 
 msgctxt "#36039"
 msgid "TV and AVR device (explicit)"
-msgstr "TV et receveur audio vidéo (explicite)"
+msgstr "TV et récepteur audio vidéo (explicite)"
 
 msgctxt "#36040"
 msgid "Detected version of libCEC interface ({0:x}) is lower than the supported version {1:x}."
@@ -15599,7 +15599,7 @@ msgstr "* Dossier de l'élément"
 
 msgctxt "#36042"
 msgid "Use limited colour range (16-235)"
-msgstr "Utiliser l'espace colorimétrique restreint (16-235)"
+msgstr "Utiliser un espace colorimétrique restreint (16-235)"
 
 msgctxt "#36043"
 msgid "Number of buffers used by graphics driver"
@@ -15608,7 +15608,7 @@ msgstr "Nombre de tampons utilisés par le pilote graphique"
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#36044"
 msgid "Stop Playback"
-msgstr "Stopper la lecture"
+msgstr "Arrêter la lecture"
 
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#36045"
@@ -15633,22 +15633,22 @@ msgstr "Temps de relâchement du bouton de la télécommande (ms)"
 
 msgctxt "#36050"
 msgid "On start"
-msgstr "Au départ"
+msgstr "Au démarrage"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36051"
 msgid "Recording Device"
-msgstr "Périphérique d'enregistrement"
+msgstr "Appareil enregistreur"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36052"
 msgid "Playback Device"
-msgstr "Périphérique de lecture"
+msgstr "Appareil de lecture"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36053"
 msgid "Tuner Device"
-msgstr "Périphérique Tuner"
+msgstr "Appareil Tuner"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -16522,7 +16522,7 @@ msgstr "Retrouve les informations d'un CD Audio, comme le titre et l'artiste, de
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
 msgid "Select the location on your hard drive where ripped tracks will be saved to."
-msgstr "Sélectionne l'emplacement du dispositif de stockage où seront enregistrées les pistes copiées."
+msgstr "Sélectionne l'emplacement du périphérique de stockage où seront enregistrées les pistes copiées."
 
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
@@ -16695,7 +16695,7 @@ msgstr "Cette catégorie contient les paramètres pour l'ensemble des services."
 #. Description of setting with label #1271 "Device name"
 msgctxt "#36321"
 msgid "The name to display for this device when using various network services."
-msgstr "Le nom de ce dispositif à afficher lors de l'utilisation de divers services réseau."
+msgstr "Le nom de cet appareil à afficher lors de l'utilisation de divers services réseau."
 
 #. Description of settings category with label #20187 "UPnP/DLNA"
 msgctxt "#36322"
@@ -16805,7 +16805,7 @@ msgstr "Autorise les applications sur le réseau à découvrir les services acti
 #. Description of setting with label #1270 "Enable AirPlay support"
 msgctxt "#36343"
 msgid "If enabled, the content from other AirPlay devices or applications can be received."
-msgstr "Si activé, le contenu d'autres dispositifs ou applications AirPlay peut être reçu."
+msgstr "Si activé, le contenu d'autres appareils ou applications AirPlay peut être reçu."
 
 #. Description of setting with label #1272 "Use password protection"
 msgctxt "#36344"
@@ -16942,12 +16942,12 @@ msgstr "Sélectionner cette option si le matériel est capable de décoder les f
 #. Description of setting with label #545 "Audio output device"
 msgctxt "#36371"
 msgid "Select the device to be used for playback of audio that has been decoded such as mp3."
-msgstr "Sélection du dispositif à utiliser pour la lecture des fichiers audio à décoder tels que MP3."
+msgstr "Sélection du périphérique à utiliser pour la lecture des fichiers audio à décoder tels que MP3."
 
 #. Description of setting with label #546 "Passthrough output device"
 msgctxt "#36372"
 msgid "Select the device to be used for playback of encoded formats, these are any of the formats below in the capable receiver options."
-msgstr "Sélection du dispositif à utiliser pour la lecture des formats encodés, qui peuvent être n'importe lesquels des formats ci-dessous dans les options des appareils les prenant en charge."
+msgstr "Sélection du périphérique à utiliser pour la lecture des formats encodés, qui peuvent être n'importe lesquels des formats ci-dessous dans les options des appareils les prenant en charge."
 
 #. Description of setting with label #34120 "Play GUI sounds"
 msgctxt "#36373"
@@ -16957,12 +16957,12 @@ msgstr "Configure la gestion des sons de l'interface, telle que la navigation da
 #. Description of settings category with label #15087 "Input"
 msgctxt "#36374"
 msgid "This category contains the settings for how input devices are handled."
-msgstr "Cette catégorie contient les paramètres relatifs à la gestion des dispositifs de saisie."
+msgstr "Cette catégorie contient les paramètres relatifs à la gestion des périphériques de saisie."
 
 #. Description of setting with label #35000 "Peripherals"
 msgctxt "#36375"
 msgid "Configure any attached peripheral devices."
-msgstr "Configure tous les dispositifs connectés."
+msgstr "Configure tous les périphériques connectés."
 
 #. Description of setting with label #21449 "Remote control sends keyboard presses"
 msgctxt "#36376"
@@ -18061,7 +18061,7 @@ msgstr "Lecteur UPnP"
 
 msgctxt "#37023"
 msgid "Do you wish to stop playback on the remote device?"
-msgstr "Faut-il stopper la lecture sur le dispositif distant ?"
+msgstr "Faut-il arrêter la lecture sur l'appareil distant ?"
 
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
