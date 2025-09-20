@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-30 10:12+0000\n"
-"Last-Translator: Sebastian Kiernozek <sebastian.kiernozek70@gmail.com>\n"
+"PO-Revision-Date: 2025-09-15 11:56+0000\n"
+"Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -8395,12 +8395,12 @@ msgstr "Ignoruj istniejące nagrania"
 #. Label of "Start time" spinner in PVR timer settings dialog
 msgctxt "#19126"
 msgid "Start time"
-msgstr "Początek"
+msgstr "Godzina rozpoczęcia"
 
 #. Label of "End time" edit field in PVR timer settings dialog
 msgctxt "#19127"
 msgid "End time"
-msgstr "Koniec"
+msgstr "Godzina zakończenia"
 
 #. Label of "Start date" spinner field in PVR timer settings dialog
 msgctxt "#19128"
