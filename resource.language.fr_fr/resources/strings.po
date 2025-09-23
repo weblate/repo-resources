@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-14 23:39+0000\n"
+"PO-Revision-Date: 2025-09-23 13:19+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -614,7 +614,7 @@ msgstr "Ajuster le taux de rafraîchissement d'affichage"
 
 msgctxt "#171"
 msgid "Sort title"
-msgstr "Trier les titres"
+msgstr "Titre de tri"
 
 msgctxt "#172"
 msgid "Release date"
@@ -1418,7 +1418,7 @@ msgstr "Trier par : Année"
 
 msgctxt "#367"
 msgid "Sort by: Rating"
-msgstr "Trier par : Notation"
+msgstr "Trier par : Note"
 
 msgctxt "#368"
 msgid "IMDb"
@@ -2189,7 +2189,7 @@ msgstr "Année"
 
 msgctxt "#563"
 msgid "Rating"
-msgstr "Notation"
+msgstr "Note"
 
 msgctxt "#564"
 msgid "Type"
@@ -2283,7 +2283,7 @@ msgstr "Éditer la liste de lecture"
 
 msgctxt "#587"
 msgid "Filter"
-msgstr "Filtre"
+msgstr "Filtrer"
 
 msgctxt "#588"
 msgid "Cancel party mode"
@@ -5963,7 +5963,7 @@ msgstr "{0:s} présélections"
 
 msgctxt "#13408"
 msgid "(IMDb user rating)"
-msgstr "(notation des utilisateurs IMDb)"
+msgstr "(note des utilisateurs IMDb)"
 
 msgctxt "#13409"
 msgid "Top 250"
@@ -9491,7 +9491,7 @@ msgstr "Préférence utilisateur"
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr "Utiliser l'ordre des groupes de canaux depuis le(s) backend(s)"
+msgstr "Utiliser l'ordre des groupes de chaînes du (des) backend(s)"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
@@ -14285,7 +14285,7 @@ msgstr "À propos du"
 
 msgctxt "#33067"
 msgid "Star rating"
-msgstr "Notation acteur vedette"
+msgstr "Note"
 
 msgctxt "#33068"
 msgid "Background"
@@ -18391,17 +18391,17 @@ msgstr "Région A - Amériques, Asie de l'Est et Asie du Sud-Est. Région B - Af
 #. Used for the viewstate selection
 msgctxt "#38018"
 msgid "My rating"
-msgstr "Ma notation"
+msgstr "Ma note"
 
 #. Used for the rating selection
 msgctxt "#38022"
 msgid "No rating"
-msgstr "Pas de notation"
+msgstr "Aucune note"
 
 #. Used for the rating selection
 msgctxt "#38023"
 msgid "Set my rating"
-msgstr "Définir ma notation"
+msgstr "Définir ma note"
 
 msgctxt "#38024"
 msgid "Information provider selection"

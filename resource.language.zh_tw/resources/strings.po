@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-03-27 10:45+0000\n"
+"PO-Revision-Date: 2025-09-20 07:11+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Traditional Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hant/>\n"
 "Language: zh_tw\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3377,7 +3377,7 @@ msgstr "輸入帳號"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "輸入路徑..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -5441,7 +5441,7 @@ msgstr "刪除設定檔 '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "是否重新載入設定檔 “{0:s}”？"
 
 #. used by several skins
 msgctxt "#13204"
@@ -11565,12 +11565,12 @@ msgstr "HDR類型"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "有多個版本"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "有額外的影片"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11651,17 +11651,17 @@ msgstr "MIME類別: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "番外篇 {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "第 {0:d} 集 - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "番外篇"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -13478,12 +13478,12 @@ msgstr "最低：{0:s} / 不可用{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "正在連接資料庫 - 請稍候"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "資料庫初始化失敗 - 將在 {} 秒後退出。"
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13591,17 +13591,17 @@ msgstr "手動"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "所選播放列表已在使用中。是否改為與本集關聯？"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "找不到可用的電影播放列表。"
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "找不到可用的影集播放列表。"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15292,17 +15292,17 @@ msgstr "在此版本中，僅能使用控制器來操作遊戲。"
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr ""
+msgstr "正常 (1:1 比例)"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "整數"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr ""
+msgstr "整數（1:1比例）"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -16043,7 +16043,7 @@ msgstr "此分類包含如何處理影片檔案列表的設定。"
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr ""
+msgstr "在[選擇]、[播放](預設值)、[顯示資訊]及[待播項目] 之間切換。[CR][選擇]會顯示選單以供選取單一項目，如：顯示資訊。[CR][播放]會依照\"預設播放動作\"來播放影片。[CR][顯示資訊]會打開影片的資訊對話框。[CR][待播項目]會把影片加入至播放列表中。"
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16170,7 +16170,7 @@ msgstr "啟動\"客制化影片錄製\"(PVR)功能，要開啟此功能需先安
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr ""
+msgstr "在[可續播時詢問](預設值)、[繼續播放]和[從頭開始播放]之間切換。[CR][可續播時詢問]：系統會詢問要從頭開始播或續播(若有恢復點可用)。[CR][繼續播放]：自動從上次暫停的位置繼續播放，若沒有恢復點可用，則會自動從頭開始播放。[CR][從頭開始播放]：忽略所有的恢復點，自動從頭開始播放。"
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -17861,7 +17861,7 @@ msgstr "最低通訊協定版本"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "設定建立連線時的 SMB 通訊協定最低版本。可能需要強制使用 SMBv2 以避免有些系統使用 SMBv1 。只有 SMBv2.1 和 SMB3 支援較大MTU (區塊 > 64kb)。"
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -17901,7 +17901,7 @@ msgstr "必須先輸入密碼，才能啟用web伺服器身份驗證。"
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36637"
 msgid "SMBv2 and Large MTU"
-msgstr ""
+msgstr "SMBv2 和大型 MTU"
 
 #. Menuitem at "Settings -> System -> Add-ons"
 msgctxt "#36638"
@@ -19452,7 +19452,7 @@ msgstr "播放音樂時，螢幕保護程式不會啟動"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "開啟使用 NVIDIA \"RTX影像超解析度\"或 \"Intel 影像超解析度\"的高階DXVA升頻器。[CR]當影像解析度等於或低於2560x1440並低於螢幕解析度時生效。[CR]僅支援特定硬體：NVIDIA RTX 系列顯卡與 Intel Arc 系列顯卡。"
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19502,27 +19502,27 @@ msgstr "調整行距。若設定值過低可能會在\"背景類型\"設定套�
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
 msgid "Set CC subtitles only for the hearing impaired"
-msgstr ""
+msgstr "專為聽障人士製作的 CC 字幕"
 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr ""
+msgstr "啟用後將標記CC字幕為聽障人士專用;這會影響字幕的自動選擇，除非另有說明，否則預設不顯示。"
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "使用 Starfish 解碼器"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish 是適用於 LG webOS 系統的硬體影像解碼器。在需要疑難排解或測試時，請將其關閉。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19693,7 +19693,7 @@ msgstr "在資料庫中找不到類似的電影。"
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "要從此光碟新增另一個版本？"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19733,7 +19733,7 @@ msgstr "您確定要移除額外資訊\"{0:s}\"嗎？"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "要將播放列表指派到當前這個電影版本？"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -19759,7 +19759,7 @@ msgstr "為「花絮」資料夾中的影片花絮選擇掃描動作。 [CR][Ena
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "資源檔"
 
 #. Button label for video versions
 msgctxt "#40210"
