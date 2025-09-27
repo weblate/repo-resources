@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-08-13 15:18+0000\n"
+"PO-Revision-Date: 2025-09-23 13:19+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -345,15 +345,15 @@ msgstr "Сканувати"
 
 msgctxt "#103"
 msgid "Sort by: Name"
-msgstr "Сортувати за: Назвою"
+msgstr "Сорт. за назвою"
 
 msgctxt "#104"
 msgid "Sort by: Date"
-msgstr "Сортувати за: Датою"
+msgstr "Сорт. за датою"
 
 msgctxt "#105"
 msgid "Sort by: Size"
-msgstr "Сортувати за: Розміром"
+msgstr "Сорт. за розміром"
 
 msgctxt "#106"
 msgid "No"
@@ -409,7 +409,7 @@ msgstr "Перейменувати"
 
 msgctxt "#119"
 msgid "New folder"
-msgstr "Нова папка"
+msgstr "Нова тека"
 
 msgctxt "#120"
 msgid "Confirm copy"
@@ -433,7 +433,7 @@ msgstr "Перемістити обрані файли?"
 
 msgctxt "#125"
 msgid "Would you like to delete the selected file(s)?[CR]Warning - this action can't be undone!"
-msgstr "Бажаєте видалити обрані файли?[CR]Увага - цю дію неможливо скасувати!"
+msgstr "Видалити обрані файли?[CR]Увага! Цю дію неможливо скасувати!"
 
 msgctxt "#126"
 msgid "Status"
@@ -478,7 +478,7 @@ msgstr "Жанри"
 
 msgctxt "#136"
 msgid "Playlists"
-msgstr "Плейлисти"
+msgstr "Списки відтворення"
 
 msgctxt "#137"
 msgid "Search"
@@ -618,7 +618,7 @@ msgstr "Сортувати назви"
 
 msgctxt "#172"
 msgid "Release date"
-msgstr "Дата релізу"
+msgstr "Дата виходу"
 
 msgctxt "#173"
 msgid "Display 4:3 videos as"
@@ -689,7 +689,7 @@ msgstr "Обрати все"
 
 msgctxt "#189"
 msgid "Scanning media information"
-msgstr "Сканування інформації про медіа"
+msgstr "Сканування інформації про медіафайи"
 
 msgctxt "#190"
 msgid "Save"
@@ -734,7 +734,7 @@ msgstr "Веб-інтерфейс"
 
 msgctxt "#200"
 msgid "Audio encoders"
-msgstr "Енкодери аудіо"
+msgstr "Кодери аудіо"
 
 msgctxt "#201"
 msgid "Audio decoders"
@@ -742,7 +742,7 @@ msgstr "Декодери аудіо"
 
 msgctxt "#202"
 msgid "Tagline"
-msgstr "Девіз"
+msgstr "Гасло"
 
 msgctxt "#203"
 msgid "Plot outline"
@@ -787,7 +787,7 @@ msgstr "50 Гц"
 
 msgctxt "#212"
 msgid "59.94 Hz"
-msgstr "59.94 Гц"
+msgstr "59,94 Гц"
 
 msgctxt "#213"
 msgid "Calibrate user interface..."
@@ -812,7 +812,7 @@ msgstr "Співвідношення пікселів"
 
 msgctxt "#218"
 msgid "DVD drive"
-msgstr "DVD привід"
+msgstr "DVD-привід"
 
 msgctxt "#219"
 msgid "Please insert disc"
@@ -844,7 +844,7 @@ msgstr "Завантажити інформацію про аудіо CD з он
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
-msgstr "Перемішати плейлист при завантаженні"
+msgstr "Перемішати список відтворення при завантаженні"
 
 msgctxt "#229"
 msgid "HDD spindown time"
@@ -966,7 +966,7 @@ msgstr "Помилка"
 
 msgctxt "#258"
 msgid "Enable tag reading"
-msgstr "Ввімкнути зчитування тегів"
+msgstr "Увімкнути зчитування тегів"
 
 msgctxt "#259"
 msgid "Opening"
@@ -999,23 +999,23 @@ msgstr "Зупинити запис."
 
 msgctxt "#266"
 msgid "Sort by: Track"
-msgstr "Сортувати за: Треками"
+msgstr "Сорт. за доріжками"
 
 msgctxt "#267"
 msgid "Sort by: Time"
-msgstr "Сортувати за: Часом"
+msgstr "Сорт. за часом"
 
 msgctxt "#268"
 msgid "Sort by: Title"
-msgstr "Сортувати за: Назвою"
+msgstr "Сорт. за назвою"
 
 msgctxt "#269"
 msgid "Sort by: Artist"
-msgstr "Сортувати за: Виконавцем"
+msgstr "Сорт. за виконавцем"
 
 msgctxt "#270"
 msgid "Sort by: Album"
-msgstr "Сортувати за: Альбомом"
+msgstr "Сорт. за альбомом"
 
 msgctxt "#271"
 msgid "Top 100"
@@ -1341,7 +1341,7 @@ msgstr "Виводити звук у форматі DTS-HD"
 
 msgctxt "#348"
 msgid "Allow passthrough"
-msgstr "Ввімкнути пряме виведення звуку"
+msgstr "Увімкнути пряме виведення звуку"
 
 msgctxt "#349"
 msgid "TrueHD capable receiver"
@@ -1402,7 +1402,7 @@ msgstr "Рівень затемнення екрану"
 
 msgctxt "#363"
 msgid "Sort by: File"
-msgstr "Сортувати за: Файлами"
+msgstr "Сорт. за файлами"
 
 msgctxt "#364"
 msgid "Dolby Digital (AC3) capable receiver"
@@ -1410,15 +1410,15 @@ msgstr "Виводити звук у форматі Dolby Digital (AC3)"
 
 msgctxt "#365"
 msgid "Sort by: Name"
-msgstr "Сортувати за: Іменем"
+msgstr "Сорт. за назвою"
 
 msgctxt "#366"
 msgid "Sort by: Year"
-msgstr "Сортувати за: Роком"
+msgstr "Сорт. за роком"
 
 msgctxt "#367"
 msgid "Sort by: Rating"
-msgstr "Сортувати за: Рейтингом"
+msgstr "Сорт. за рейтингом"
 
 msgctxt "#368"
 msgid "IMDb"
@@ -1867,7 +1867,7 @@ msgstr "Музика та відео"
 
 msgctxt "#477"
 msgid "Unable to load playlist"
-msgstr "Не вдалося завантажити плейлист"
+msgstr "Не вдалося завантажити список відтворення"
 
 msgctxt "#478"
 msgid "OSD"
@@ -1981,7 +1981,7 @@ msgstr "Сорт. за частотою"
 
 msgctxt "#510"
 msgid "Enable visualisations"
-msgstr "Ввімкнути візуалізації"
+msgstr "Увімкнути візуалізації"
 
 msgctxt "#511"
 msgid "Enable video mode switching"
@@ -2030,15 +2030,15 @@ msgstr "Перейти до розділу"
 
 msgctxt "#524"
 msgid "Select playlist"
-msgstr "Вибрати плейлист"
+msgstr "Вибрати список відтворення"
 
 msgctxt "#525"
 msgid "New playlist..."
-msgstr "Створити плейлист…"
+msgstr "Створити список відтворення…"
 
 msgctxt "#526"
 msgid "Add to playlist"
-msgstr "Додати до плейлиста"
+msgstr "Додати до списку відтворення"
 
 msgctxt "#527"
 msgid "Manually add to library"
@@ -2173,7 +2173,7 @@ msgstr "Альбом"
 
 msgctxt "#559"
 msgid "Playlist"
-msgstr "Плейлист"
+msgstr "Список відтворення"
 
 msgctxt "#560"
 msgid "ID"
@@ -2279,7 +2279,7 @@ msgstr "Низхідний"
 
 msgctxt "#586"
 msgid "Edit playlist"
-msgstr "Змінити плейлист"
+msgstr "Редагувати список відтворення"
 
 msgctxt "#587"
 msgid "Filter"
@@ -2522,7 +2522,7 @@ msgstr "Вкажіть програму"
 
 msgctxt "#656"
 msgid "Browse for playlist"
-msgstr "Вкажіть плейлист"
+msgstr "Вкажіть список відтворення"
 
 msgctxt "#657"
 msgid "Browse for folder"
@@ -2562,11 +2562,11 @@ msgstr "Ступінь стиснення"
 
 msgctxt "#666"
 msgid "Enable component-specific logging"
-msgstr "Ввімкнути журнали окремих компонентів"
+msgstr "Увімкнути журнали окремих компонентів"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Ввімкнути конвертування Dolby Digital (AC3)"
+msgstr "Увімкнути конвертування Dolby Digital (AC3)"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -2764,7 +2764,7 @@ msgstr "FTP сервер"
 
 msgctxt "#729"
 msgid "Enable SSL"
-msgstr "Ввімкнути SSL"
+msgstr "Увімкнути SSL"
 
 msgctxt "#730"
 msgid "Port"
@@ -3180,7 +3180,7 @@ msgstr "Новинка"
 #. Label for a context menu entry to activate a currently inactive timer
 msgctxt "#843"
 msgid "Activate"
-msgstr "Ввімкнути"
+msgstr "Увімкнути"
 
 #. Label for a context menu entry to deactivate a currently active timer
 msgctxt "#844"
@@ -3316,7 +3316,7 @@ msgstr "Не вдалося підключитися"
 
 msgctxt "#1002"
 msgid "The connection to the network location couldn't be established. This could be due to the network not being connected. Would you like to add it anyway?"
-msgstr "Не вдалося встановити з'єднання з віддаленим розташуванням. Це може бути пов'язано з відсутністю з'єднання з мережею. Бажаєте додати його в будь-якому випадку?"
+msgstr "Не вдалося встановити з'єднання з віддаленим розташуванням. Це може бути пов'язано з відсутністю з'єднання з мережею. Додати його в будь-якому випадку?"
 
 msgctxt "#1006"
 msgid "IP address"
@@ -3397,7 +3397,7 @@ msgstr "Огляд"
 
 msgctxt "#1025"
 msgid "Couldn't retrieve directory information. This could be due to the network not being connected. Would you like to add it anyway?"
-msgstr "Не вдалося отримати інформацію про директорію. Це може бути пов'язано з відсутністю з'єднання з мережею. Бажаєте додати її в будь-якому випадку?"
+msgstr "Не вдалося отримати інформацію про теку. Це може бути пов'язано з відсутністю з'єднання з мережею. Додати її в будь-якому випадку?"
 
 msgctxt "#1026"
 msgid "Add source"
@@ -3433,7 +3433,7 @@ msgstr "Підменю"
 
 msgctxt "#1035"
 msgid "Enable submenu buttons"
-msgstr "Ввімкнути пункти підменю"
+msgstr "Увімкнути пункти підменю"
 
 msgctxt "#1036"
 msgid "Favourites"
@@ -3441,7 +3441,7 @@ msgstr "Обране"
 
 msgctxt "#1037"
 msgid "Video add-ons"
-msgstr "Відео додатки"
+msgstr "Відеододатки"
 
 msgctxt "#1038"
 msgid "Music add-ons"
@@ -3661,7 +3661,7 @@ msgstr "Анонс послуги іншим системам"
 
 msgctxt "#1268"
 msgid "Enable AirPlay \"Videos\" and \"Pictures\" support"
-msgstr "Ввімкнути підтримку відео та фото через AirPlay"
+msgstr "Увімкнути підтримку відео та фото через AirPlay"
 
 msgctxt "#1269"
 msgid "Allow volume control"
@@ -3669,7 +3669,7 @@ msgstr "Дозволити керування гучністю"
 
 msgctxt "#1270"
 msgid "Enable AirPlay support"
-msgstr "Ввімкнути підтримку"
+msgstr "Увімкнути підтримку"
 
 msgctxt "#1271"
 msgid "Device name"
@@ -4128,7 +4128,7 @@ msgstr "Використовувати DTS Core"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr "Виберіть цю опцію, якщо ви хочете відтворювати формати DTS-HD як DTS, інакше формати DTS-HD відтворюватимуться через PCM"
+msgstr "Виберіть цей параметр, щоб відтворювати формати DTS-HD як DTS, інакше формати DTS-HD відтворюватимуться через PCM"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4179,7 +4179,7 @@ msgstr "Оберіть конфігурації додатку для видал
 
 msgctxt "#10011"
 msgid "Settings - Videos - Screen calibration"
-msgstr "Налаштування - Відео - Калібрування дисплею"
+msgstr "Налаштування - Відео - Калібрування екрану"
 
 #. Header label for add-on configuration selection dialog
 msgctxt "#10012"
@@ -4217,7 +4217,7 @@ msgstr "Налаштування - Служби"
 #. Item label for add-on configuration removal dialog
 msgctxt "#10019"
 msgid "Do you want to remove the add-on configuration \"{0:s}\"?"
-msgstr "Чи бажаєте ви видалити конфігурацію додатка \"{0:s}\"?"
+msgstr "Видалити конфігурацію додатка \"{0:s}\"?"
 
 #. Item label used in add-on setup selection dialog
 msgctxt "#10020"
@@ -4242,7 +4242,7 @@ msgstr "Відео"
 
 msgctxt "#10028"
 msgid "Videos / Playlist"
-msgstr "Відео / Плейлисти"
+msgstr "Відео/список відтворення"
 
 msgctxt "#10029"
 msgid "Login screen"
@@ -4306,7 +4306,7 @@ msgstr "Довідка відсутня"
 
 msgctxt "#10045"
 msgid "Resets all the visible settings to their default values."
-msgstr "Скинути всі досупні нашаштування до значень за замовчуванням."
+msgstr "Відновлює для всіх доступних налаштувань значення за замовчуванням."
 
 msgctxt "#10046"
 msgid "No categories available"
@@ -4552,7 +4552,7 @@ msgstr "Відкриття потоку"
 
 msgctxt "#10500"
 msgid "Music playlist"
-msgstr "Плейлист музики"
+msgstr "Музичний список відтворення"
 
 msgctxt "#10502"
 msgid "Music"
@@ -4560,7 +4560,7 @@ msgstr "Музика"
 
 msgctxt "#10503"
 msgid "Music playlist editor"
-msgstr "Редактор плейлиста музики"
+msgstr "Редактор музичного списку відтворення"
 
 msgctxt "#10504"
 msgid "Top 100 songs"
@@ -5297,7 +5297,7 @@ msgstr "Лише при перегляді відео"
 
 msgctxt "#13108"
 msgid "Always enabled"
-msgstr "Завжди ввімкнена"
+msgstr "Завжди увімкнена"
 
 #. unused?
 msgctxt "#13109"
@@ -5330,7 +5330,7 @@ msgstr "Лише для SD-вмісту"
 #. unused?
 msgctxt "#13115"
 msgid "Always enabled"
-msgstr "Завжди ввімкнено"
+msgstr "Завжди увімкнено"
 
 #. unused?
 msgctxt "#13116"
@@ -5362,7 +5362,7 @@ msgstr "Зберегти обкладинку?"
 
 msgctxt "#13130"
 msgid "Blank other displays"
-msgstr "Гасити інші дисплеї"
+msgstr "Гасити інші екрани"
 
 #. unused?
 msgctxt "#13131"
@@ -5372,7 +5372,7 @@ msgstr "Вимкнено"
 #. unused?
 msgctxt "#13132"
 msgid "Blank displays"
-msgstr "Погасити дисплеї"
+msgstr "Погасити екрани"
 
 msgctxt "#13140"
 msgid "Active connections detected!"
@@ -5621,7 +5621,7 @@ msgstr "Дозволити зворотній напрямок рядків"
 
 msgctxt "#13305"
 msgid "Show RSS news feeds"
-msgstr "Ввімкнути RSS-новини"
+msgstr "Показувати новини з RSS"
 
 msgctxt "#13306"
 msgid "Show parent folder items"
@@ -5823,7 +5823,7 @@ msgstr "Автоматично створювати ескізи"
 
 msgctxt "#13361"
 msgid "Enable voice"
-msgstr "Ввімкнути мікрофон"
+msgstr "Увімкнути мікрофон"
 
 #. label for resume context menu item for video folders (like a TV show or a single season of a TV show)
 msgctxt "#13362"
@@ -5832,7 +5832,7 @@ msgstr "Продовжити перегляд"
 
 msgctxt "#13375"
 msgid "Enable device"
-msgstr "Ввімкнути пристрій"
+msgstr "Увімкнути пристрій"
 
 msgctxt "#13376"
 msgid "Volume"
@@ -5921,7 +5921,7 @@ msgstr "Налаштування звуку"
 
 msgctxt "#13397"
 msgid "Enable subtitles"
-msgstr "Ввімкнути субтитри"
+msgstr "Увімкнути субтитри"
 
 msgctxt "#13398"
 msgid "Shortcuts"
@@ -6039,19 +6039,19 @@ msgstr "Вибрати список відтворення"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
-msgstr "Ввімкнути апаратне прискорення - VDPAU"
+msgstr "Увімкнути апаратне прискорення — VDPAU"
 
 msgctxt "#13426"
 msgid "Allow hardware acceleration - VAAPI"
-msgstr "Ввімкнути апаратне прискорення - VAAPI"
+msgstr "Увімкнути апаратне прискорення — VAAPI"
 
 msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
-msgstr "Ввімкнути апаратне прискорення - DXVA2"
+msgstr "Увімкнути апаратне прискорення — DXVA2"
 
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
-msgstr "Ввімкнути апаратне прискорення — VTBDecoder"
+msgstr "Увімкнути апаратне прискорення — VTBDecoder"
 
 msgctxt "#13430"
 msgid "Allow using DRM PRIME decoder"
@@ -6063,7 +6063,7 @@ msgstr "Піксельні шейдери"
 
 msgctxt "#13432"
 msgid "Allow hardware acceleration - VideoToolbox"
-msgstr "Ввімкнути апаратне прискорення - VideoToolbox"
+msgstr "Увімкнути апаратне прискорення — VideoToolbox"
 
 msgctxt "#13433"
 msgid "Play next video automatically"
@@ -6105,7 +6105,7 @@ msgstr "Використовувати MPEG-2 VDPAU"
 #. Description of setting with label #13441 "Use MPEG-2 VDPAU"
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr "Ввімкнути апаратне прискорення для кодеків MPEG-(1/2). Якщо вимкнути опцію, декодування буде виконуватися програмно. Увімкнення опції може викликати проблеми на старих картах Radeon."
+msgstr "Увімкнути апаратне прискорення для кодеків MPEG-(1/2). Якщо вимкнути цей параметр, декодування буде виконуватись програмно. Увімкнення параметру може призвести до проблем на старих картах Radeon."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
@@ -6114,7 +6114,7 @@ msgstr "Використовувати MPEG-4 VDPAU"
 #. Description of setting with label #13443 "Use MPEG-4 VDPAU"
 msgctxt "#13444"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead. Some ION hardware has problems with this being enabled by default."
-msgstr "Ввімкнути апаратне прискорення для кодеків MPEG-4. Якщо вимкнути опцію, декодування буде виконуватися програмно. Якщо увімкнути опцію, можливі проблеми на старих картах ION."
+msgstr "Увімкнути апаратне прискорення для кодеків MPEG-4. Якщо вимкнути параметр, декодування буде виконуватись програмно. Якщо увімкнути параметр, це може призвести до проблем на старих картах ION."
 
 msgctxt "#13445"
 msgid "Use VC-1 VDPAU"
@@ -6123,7 +6123,7 @@ msgstr "Використовувати VC-1 VDPAU"
 #. Description of setting with label #13445 "Use VC-1 VDPAU"
 msgctxt "#13446"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. AMD hardware with VDPAU can't decode VC-1 Simple."
-msgstr "Ввімкнути апаратне прискорення для кодеків VC-1. Якщо вимкнути опцію, декодування буде виконуватися програмно. Карти AMD із VDPAU не декодують VC-1 Simple."
+msgstr "Увімкнути апаратне прискорення для кодеків VC-1. Якщо вимкнути параметр, декодування буде виконуватися програмно. Карти AMD із VDPAU не декодують VC-1 Simple."
 
 msgctxt "#13447"
 msgid "Use MPEG-2 VAAPI"
@@ -6132,7 +6132,7 @@ msgstr "Використовувати MPEG-2 VAAPI"
 #. Description of setting with label #13447 "Use MPEG-2 VAAPI"
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr "Ввімкнути апаратне прискорення для кодеків MPEG-(1/2). Якщо вимкнути опцію, декодування буде виконуватися програмно. На деяких відео MPEG-2 можливі зелені артефакти."
+msgstr "Увімкнути апаратне прискорення для кодеків MPEG-(1/2). Якщо вимкнути параметр, декодування буде виконуватися програмно. На деяких відео MPEG-2 можливі зелені артефакти."
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
@@ -6150,7 +6150,7 @@ msgstr "Використовувати VC-1 VAAPI"
 #. Description of setting with label #13451 "Use VC-1 VAAPI"
 msgctxt "#13452"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. Especially VC-1 interlaced fails hard on Intel hardware."
-msgstr "Ввімкнути апаратне прискорення для кодеків VC-1. Якщо вимкнути опцію, декодування буде виконуватися програмно. Відтворення черезрядкового відео на обладнанні Intel VC-1 може викликати збої."
+msgstr "Увімкнути апаратне прискорення для кодеків VC-1. Якщо вимкнути параметр, декодування буде виконуватися програмно. Відтворення черезрядкового відео на обладнанні Intel VC-1 може викликати збої."
 
 msgctxt "#13453"
 msgid "Use VP8 VAAPI"
@@ -6159,7 +6159,7 @@ msgstr "Використовувати VP8 VAAPI"
 #. Description of setting with label #13453 "Use VP8 VAAPI"
 msgctxt "#13454"
 msgid "Enable this option to use hardware acceleration for the VP8 codec. If disabled the CPU will be used instead."
-msgstr "Ввімкнути апаратне відтворення кодека VP8. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
+msgstr "Увімкнути апаратне відтворення кодека VP8. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
 
 msgctxt "#13455"
 msgid "Use VP9 VAAPI"
@@ -6168,7 +6168,7 @@ msgstr "Використовувати VP9 VAAPI"
 #. Description of setting with label #13453 "Use VP9 VAAPI"
 msgctxt "#13456"
 msgid "Enable this option to use hardware acceleration for the VP9 codec. If disabled the CPU will be used instead."
-msgstr "Ввімкнути апаратне відтворення кодека VP9. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
+msgstr "Увімкнути апаратне відтворення кодека VP9. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
 
 #. Option for video related setting #13454: sw filter
 msgctxt "#13457"
@@ -6192,7 +6192,7 @@ msgstr "Використовувати HEVC VAAPI"
 #. Description of setting with label #13460 "Use HEVC VAAPI"
 msgctxt "#13461"
 msgid "Enable this option to use hardware acceleration for the HEVC codec. If disabled the CPU will be used instead."
-msgstr "Ввімкнути апаратне відтворення кодека HEVC. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
+msgstr "Увімкнути апаратне відтворення кодека HEVC. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
 
 #. Option for setting the PRIME render method
 msgctxt "#13462"
@@ -6229,7 +6229,7 @@ msgstr "Використовувати AV1 VAAPI"
 #. Description of setting with label #13468 "Use AV1 VAAPI"
 msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
-msgstr "Ввімкнути апаратне відтворення кодека AV1. Якщо вимкнути налаштування, декодування буде виконуватися ЦП."
+msgstr "Увімкнути апаратне відтворення кодека AV1. Якщо вимкнути налаштування, декодування буде виконуватися програмно."
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
@@ -6286,7 +6286,7 @@ msgstr "Дуже висока (повільно)"
 
 msgctxt "#13510"
 msgid "Sync playback to display"
-msgstr "Синхронізувати відео із дисплеєм"
+msgstr "Синхронізувати відео із екраном"
 
 msgctxt "#13511"
 msgid "Choose art"
@@ -6438,7 +6438,7 @@ msgstr "Розгрупувати"
 
 msgctxt "#14003"
 msgid "Downloading playlist file..."
-msgstr "Завантаження плейлист…"
+msgstr "Завантаження списку відтворення…"
 
 msgctxt "#14004"
 msgid "Downloading streams list..."
@@ -6454,7 +6454,7 @@ msgstr "Не вдалося завантажити список потоків"
 
 msgctxt "#14007"
 msgid "Downloading playlist file failed"
-msgstr "Не вдалося завантажити плейлист"
+msgstr "Не вдалося завантажити список відтворення"
 
 msgctxt "#14009"
 msgid "Games directory"
@@ -6466,7 +6466,7 @@ msgstr "Автопереключення вигляду на ескізи за"
 
 msgctxt "#14011"
 msgid "Enable auto switching to thumbs view"
-msgstr "Ввімкнути автопереключення вигляду на ескізи"
+msgstr "Увімкнути автоматичне перемикання на ескізи"
 
 msgctxt "#14012"
 msgid "- Use large icons"
@@ -6570,7 +6570,7 @@ msgstr "Налаштування локальної мережі змінено"
 
 msgctxt "#14039"
 msgid "A restart is required to change your network setup. Would you like to restart now?"
-msgstr "Для зміни налаштувань мережі необхідно перезаваження. Бажаєте перезавантажити зараз?"
+msgstr "Для зміни налаштувань мережі необхідно перезавантаження. Перезавантажити зараз?"
 
 msgctxt "#14041"
 msgid "Internet connection bandwidth limitation"
@@ -6832,12 +6832,12 @@ msgstr "Події"
 #. Label of setting to enable/disable event logging
 msgctxt "#14112"
 msgid "Enable event logging"
-msgstr "Ввімкнути ведення журналу подій"
+msgstr "Увімкнути журнал подій"
 
 #. Label of setting to enable/disable event logging for notifications
 msgctxt "#14113"
 msgid "Enable notification event logging"
-msgstr "Ввімкнути журнал сповіщень"
+msgstr "Увімкнути журнал сповіщень"
 
 #. Label of setting to go into the event log window
 msgctxt "#14114"
@@ -7262,7 +7262,7 @@ msgstr "Звуки інтерфейсу"
 
 msgctxt "#15109"
 msgid "Skin default"
-msgstr "По замовчуванню"
+msgstr "Стандартна"
 
 msgctxt "#15110"
 msgid "Larger font size"
@@ -7526,7 +7526,7 @@ msgstr "Не вдалося отримати пісні з бази даних."
 
 msgctxt "#16035"
 msgid "Party mode playlist"
-msgstr "Плейлист режиму вечірки"
+msgstr "Список відтворення для режиму вечірки"
 
 msgctxt "#16036"
 msgid "Deinterlace (half)"
@@ -7546,7 +7546,7 @@ msgstr "Вимк."
 
 msgctxt "#16041"
 msgid "On"
-msgstr "Ввімк."
+msgstr "Увімк."
 
 msgctxt "#16100"
 msgid "All videos"
@@ -7766,7 +7766,7 @@ msgstr "Післяобробка"
 
 msgctxt "#17500"
 msgid "Display sleep timeout"
-msgstr "Перехід дисплею до режиму сну через"
+msgstr "Перехід екрану до режиму сну через"
 
 msgctxt "#17997"
 msgid "{0:d} MByte"
@@ -8082,7 +8082,7 @@ msgstr "Додати таймер"
 
 msgctxt "#19062"
 msgid "Sort by: Channel"
-msgstr "Сортувати за каналами"
+msgstr "Сорт. за каналами"
 
 #. Label for epg grid window "jump to grid start" (oldest available programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19063"
@@ -10173,7 +10173,7 @@ msgstr "Чистий старт"
 
 msgctxt "#20045"
 msgid "Enter master mode"
-msgstr "Ввімкнути режим повного доступу"
+msgstr "Увімкнути режим повного доступу"
 
 msgctxt "#20046"
 msgid "Leave master mode"
@@ -10266,7 +10266,7 @@ msgstr "Заблокувати профіль"
 
 msgctxt "#20069"
 msgid "Couldn't create folder"
-msgstr "Не вдалося створити папку"
+msgstr "Не вдалося створити теку"
 
 msgctxt "#20070"
 msgid "Profile directory"
@@ -10310,7 +10310,7 @@ msgstr "Вимкнути стрічку RSS під час відтворення
 
 msgctxt "#20081"
 msgid "Enable shortcut buttons"
-msgstr "Ввімкнути кнопки ярликів"
+msgstr "Увімкнути кнопки ярликів"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
@@ -10506,7 +10506,7 @@ msgstr "Видалити мережевий ресурс"
 
 msgctxt "#20135"
 msgid "Do you want to scan the folder?"
-msgstr "Сканувати папку?"
+msgstr "Сканувати теку?"
 
 msgctxt "#20136"
 msgid "Memory unit"
@@ -10719,7 +10719,7 @@ msgstr "Анонс оновлень медіатеки"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
-msgstr "Ввімкнути автопрокручування сюжетів і оглядів"
+msgstr "Увімкнути автоматичне прокручування сюжетів і оглядів"
 
 msgctxt "#20190"
 msgid "Custom"
@@ -10727,7 +10727,7 @@ msgstr "Додатково"
 
 msgctxt "#20191"
 msgid "Enable debug logging"
-msgstr "Ввімкнути журнал налагодження"
+msgstr "Увімкнути журнал налагодження"
 
 msgctxt "#20192"
 msgid "Fetch additional information during updates"
@@ -10768,7 +10768,7 @@ msgstr "Надавати перевагу онлайн інформації"
 #. Description of setting with label #20220 "Prefer online information"
 msgctxt "#20221"
 msgid "With this enabled, any information that is downloaded for albums and artists will override anything you have set in your song tags, such as genres, year, song artists etc. Useful if you have MusicBrainz identifiers in your song tags."
-msgstr "При ввімкненні налаштування всі відомості з тегів пісень буде замінено на відомості, завантажені з Інтернету (жанри, рік, виконавець тощо). Корисно при наявності ідентифікаторів MusicBrainz в тегах пісень."
+msgstr "Якщо увімкнено, всі відомості з тегів пісень буде замінено на відомості, завантажені з Інтернету (жанри, рік, виконавець тощо). Корисно при наявності ідентифікаторів MusicBrainz в тегах пісень."
 
 msgctxt "#20222"
 msgid "Look for external subtitles"
@@ -11667,7 +11667,7 @@ msgstr "Спеціальна"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
-msgstr "Ввімкнути підтримку UPnP"
+msgstr "Увімкнути підтримку UPnP"
 
 msgctxt "#21359"
 msgid "Add media share..."
@@ -11699,7 +11699,7 @@ msgstr "Видалити медіаресурс"
 
 msgctxt "#21366"
 msgid "Custom subtitle folder"
-msgstr "Вказати папку із субтитрами"
+msgstr "Вказати теку із субтитрами"
 
 msgctxt "#21367"
 msgid "Movie & alternate subtitle directory"
@@ -11711,7 +11711,7 @@ msgstr "Перевизначити шрифти субтитрів"
 
 msgctxt "#21369"
 msgid "Enable mouse and touch screen support"
-msgstr "Ввімкнути мишу та сенсорний екран"
+msgstr "Увімкнути мишу та сенсорний екран"
 
 msgctxt "#21370"
 msgid "Play GUI sounds during media playback"
@@ -11748,15 +11748,15 @@ msgstr "Широкоформатне"
 
 msgctxt "#21378"
 msgid "Enable 480p"
-msgstr "Ввімкнути 480p"
+msgstr "Увімкнути 480p"
 
 msgctxt "#21379"
 msgid "Enable 720p"
-msgstr "Ввімкнути 720p"
+msgstr "Увімкнути 720p"
 
 msgctxt "#21380"
 msgid "Enable 1080i"
-msgstr "Ввімкнути 1080i"
+msgstr "Увімкнути 1080i"
 
 msgctxt "#21381"
 msgid "Enter name of new playlist"
@@ -11768,7 +11768,7 @@ msgstr "Показувати кнопку \"Додати ресурс\""
 
 msgctxt "#21383"
 msgid "Enable scrollbars"
-msgstr "Ввімкнути смуги прокручування"
+msgstr "Увімкнути смуги прокручування"
 
 msgctxt "#21384"
 msgid "Make watched filtering a toggle in video library"
@@ -12793,7 +12793,7 @@ msgstr "Вимкнути"
 
 msgctxt "#24022"
 msgid "Enable"
-msgstr "Ввімкнути"
+msgstr "Увімкнути"
 
 #. Defines the state of the add-on in the add-on manager window
 msgctxt "#24023"
@@ -12952,7 +12952,7 @@ msgstr "Перевірка залежностей..."
 
 msgctxt "#24059"
 msgid "Would you like to enable this add-on?"
-msgstr "Ввімкнути цей додаток?"
+msgstr "Увімкнути цей додаток?"
 
 msgctxt "#24060"
 msgid "Would you like to disable this add-on?"
@@ -12973,7 +12973,7 @@ msgstr "Автооновлення"
 #. Used as an event log description for add-ons that have been installed/enabled
 msgctxt "#24064"
 msgid "Add-on enabled"
-msgstr "Додаток ввімкнено"
+msgstr "Додаток увімкнено"
 
 msgctxt "#24065"
 msgid "Add-on updated"
@@ -13250,15 +13250,15 @@ msgstr "Автоматично завантажувати перші знайд�
 
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
-msgstr "Ввімкнути парсинг субтитрів"
+msgstr "Увімкнути парсинг прихованих субтитрів"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
-msgstr "Ввімкнути аналіз CC у відеопотоці. Дещо збільшує навантаження на процесор"
+msgstr "Увімкнути аналіз CC у відеопотоці. Дещо збільшує навантаження на процесор"
 
 msgctxt "#24132"
 msgid "Would you like to switch to this language?"
-msgstr "Бажаєте увімкнути цю мову?"
+msgstr "Увімкнути цю мову?"
 
 msgctxt "#24133"
 msgid "Subtitle settings"
@@ -13469,7 +13469,7 @@ msgstr "Мінімум: {0:s} / Встановлено: {1:s} => Оновити 
 #. used in #24180 - #24183 as {3:s}
 msgctxt "#24184"
 msgid " (optional)"
-msgstr " (опціонально)"
+msgstr " (необов'язково)"
 
 #. The minimum version, only lower versions are available for install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
@@ -13582,7 +13582,7 @@ msgstr "Автопропущення вимкнуто"
 
 msgctxt "#25013"
 msgid "Auto-skip on"
-msgstr "Автопропущення ввімкнуто"
+msgstr "Автопропуск увімкнуто"
 
 #. Used to tell addon origin type
 #. xbmc/guilib/guiinfo/AddonsGUIInfo.cpp
@@ -13992,7 +13992,7 @@ msgstr "Ностальгія"
 #. Settings boolean value to enable/disable RDS
 msgctxt "#29980"
 msgid "Enable RDS for radio channels"
-msgstr "Ввімкнути RDS для радіо"
+msgstr "Увімкнути RDS для радіо"
 
 #. Help text for RDS enable/disable
 msgctxt "#29981"
@@ -14363,7 +14363,7 @@ msgstr "Сервер віддаленого доступу"
 
 msgctxt "#33104"
 msgid "You have previously enabled the web interface without setting up a password. The web server has been disabled until you either explicitly allow this or set up authentication. Please review your settings."
-msgstr "Раніше ви ввімкнули веб-інтерфейс, не встановивши пароль. Задля безпеки веб-сервер було вимкнено, доки ви явно не дозволите це або не налаштуєте автентифікацію. Перевірте налаштування."
+msgstr "Раніше ви увімкнули веб-інтерфейс, не встановивши пароль. Задля безпеки веб-сервер було вимкнено, доки ви явно не дозволите це або не налаштуєте автентифікацію. Перевірте налаштування."
 
 msgctxt "#33200"
 msgid "Detected new connection"
@@ -14583,7 +14583,7 @@ msgstr "Вимкн."
 #. Manual HDR toggle (ACTION_HDR_TOGGLE) - HDR On toast message
 msgctxt "#34222"
 msgid "On"
-msgstr "Ввімк."
+msgstr "Увімк."
 
 # empty string with id 34223
 msgctxt "#34224"
@@ -14616,7 +14616,7 @@ msgstr "Не вдалося активувати фільтри відео. Ви
 
 msgctxt "#34402"
 msgid "Failed to initialise audio device"
-msgstr "Не вдалося ввімкнути аудіопристрій"
+msgstr "Не вдалось увімкнути аудіопристрій"
 
 msgctxt "#34403"
 msgid "Check your audio settings"
@@ -14676,7 +14676,7 @@ msgstr "Розкладка для цього пристрою"
 
 msgctxt "#35008"
 msgid "Keymap enabled"
-msgstr "Розкладку ввімкнено"
+msgstr "Розкладку увімкнено"
 
 msgctxt "#35009"
 msgid "Don't use the custom keymap for this device"
@@ -14770,12 +14770,12 @@ msgstr "Тест вібрації"
 #. Description of setting to test rumble
 msgctxt "#35052"
 msgid "Activate the rumble motors of all controllers."
-msgstr "Ввімкнути вібромотрори на всіх контролерах."
+msgstr "Увімкнути вібромотрори на всіх контролерах."
 
 #. Setting to enable rumble for GUI notifications
 msgctxt "#35053"
 msgid "Enable rumble for notifications"
-msgstr "Ввімкнути вібрацію для сповіщень"
+msgstr "Увімкнути вібрацію для сповіщень"
 
 #. Description of setting to enable rumble for GUI notifications
 msgctxt "#35054"
@@ -14929,7 +14929,7 @@ msgstr "Рухайте {0:s} ліворуч ({1:d})"
 
 msgctxt "#35100"
 msgid "Enable controller support"
-msgstr "Ввімкнути підтримку контролера"
+msgstr "Увімкнути підтримку контролера"
 
 # empty string with id 35101
 msgctxt "#35102"
@@ -15009,7 +15009,7 @@ msgstr "Налаштування гравців"
 #. Name of setting for enabling the keyboard during gameplay
 msgctxt "#35152"
 msgid "Enable keyboard"
-msgstr "Ввімкнути клавіатуру"
+msgstr "Увімкнути клавіатуру"
 
 #. Description of setting with label #35152 "Enable keyboard"
 msgctxt "#35153"
@@ -15132,7 +15132,7 @@ msgstr "Увімкнути перемотку (якщо підтримуєтьс
 
 msgctxt "#35204"
 msgid "Enable real-time rewinding during game play, if supported. Press rewind or manually seek backwards using the seek bar."
-msgstr "Ввімкнути перемотку назад у реальному часі під час гри, якщо вона підтримується. Натисніть кнопку перемотки назад або вручну переміщайте повзунок перемотки."
+msgstr "Увімкнути перемотку назад у реальному часі під час гри, якщо вона підтримується. Натисніть кнопку перемотки назад або вручну переміщайте повзунок перемотки."
 
 msgctxt "#35205"
 msgid "Maximum rewind time"
@@ -15289,7 +15289,7 @@ msgstr "Натисніть {0:s}, щоб відкрити меню гри."
 #. Additional help text shown when the user first plays a game. This will be removed in the future.
 msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
-msgstr "У поточному релізі для ігор можна використовувати лише контролери."
+msgstr "У поточній версії для ігор можна використовувати лише контролери."
 
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
@@ -15449,11 +15449,11 @@ msgstr "Pulse-Eight Nyxboard"
 
 msgctxt "#36002"
 msgid "Switch to keyboard side command"
-msgstr "Ввімкнути додаткові команди клавіатури"
+msgstr "Увімкнути додаткові команди клавіатури"
 
 msgctxt "#36003"
 msgid "Switch to remote side command"
-msgstr "Ввімкнути додаткові команди ДК"
+msgstr "Увімкнути додаткові команди пульту ДК"
 
 msgctxt "#36004"
 msgid "Press \"user\" button command"
@@ -15753,12 +15753,12 @@ msgstr "Усі мовні та регіональні налаштування."
 #. Description of setting with label #248 "Language"
 msgctxt "#36114"
 msgid "Chooses the language of the user interface."
-msgstr "Вибрати мову інтерфейсу."
+msgstr "Виберіть мову інтерфейсу."
 
 #. Description of setting with label #20026 "Region"
 msgctxt "#36115"
 msgid "Select the formats for temperature, time and date. The available options depend on the selected language."
-msgstr "Вибір форматів температури, часу і дати. Доступні параметри залежать від обраної мови."
+msgstr "Виберіть формати температури, часу і дати. Доступні варіанти залежать від обраної мови."
 
 #. Description of setting with label #14091 "Character set"
 msgctxt "#36116"
@@ -15818,12 +15818,12 @@ msgstr "Налаштування додатків заставок."
 #. Description of setting with label #355 "Wait time"
 msgctxt "#36129"
 msgid "Set the time to wait for any activity to occur before displaying the screensaver."
-msgstr "Встановити час бездіяльності перед відображенням заставки."
+msgstr "Вкажіть час бездіяльності для запуску заставки."
 
 #. Description of setting with label #356 "Screensaver mode"
 msgctxt "#36130"
 msgid "Select the screensaver. The \"Dim\" screensaver will be forced when fullscreen video playback is paused or a dialogue box is active."
-msgstr "Вибір заставки. Під час паузи відтворення або активному діалоговому вікні буде відображено заставку \"Dim\"."
+msgstr "Виберіть заставку. Під час паузи відтворення або активному діалоговому вікні буде відображено заставку \"Dim\"."
 
 #. #. Description of setting with label #21417 "Settings"
 msgctxt "#36131"
@@ -15870,7 +15870,7 @@ msgstr "Виберіть одиниці вимірювання температ�
 #. Description of setting with label #20369 "Show information for unwatched items"
 msgctxt "#36141"
 msgid "Show information for unwatched media in the video library or hide them if not selected to prevent spoilers. Available options are 'Movie plot', 'Episode plot' and 'Episode thumb'."
-msgstr "Показувати інформацію про непереглянуті медіа/епізоди або приховувати її (якщо це налаштування вимкнено) щоб запобігти спойлерам. Доступні опції: \"Сюжет фільму\", \"Сюжет епізоду\" і \"Ескіз епізоду\"."
+msgstr "Показувати інформацію про непереглянуті медіафайли в медіатеці або приховувати її (якщо це налаштування вимкнено), щоб запобігти спойлерам. Доступні варіанти: «Сюжет фільму», «Сюжет серії» і «Ескіз серії»."
 
 #. Description of setting with label #14106 "Speed unit"
 msgctxt "#36142"
@@ -15885,7 +15885,7 @@ msgstr "Завантажувати ескізи акторів з онлайн �
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Виберіть, в яких випадках ви бажаєте приховати сезони серіалу. Якщо приховано, при виборі серіалу буде виконаний перехід до огляду серій."
+msgstr "Виберіть, в яких випадках треба приховати сезони серіалу. Якщо приховано, при виборі серіалу буде виконаний перехід до огляду серій."
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15940,12 +15940,12 @@ msgstr "Будуть використані високоякісні фільт�
 #. Description of setting with label #13425 "Allow hardware acceleration (VDPAU)"
 msgctxt "#36155"
 msgid "Enable VDPAU hardware decoding of video files, mainly used for NVIDIA graphics and in some circumstances AMD graphics."
-msgstr "Ввімкнути апаратне декодування відео VDPAU. Використовується переважно для карт NVIDIA та в деяких випадках AMD."
+msgstr "Увімкнути апаратне декодування відео VDPAU. Використовується переважно для карт NVIDIA та в деяких випадках AMD."
 
 #. Description of setting with label #13426 "Allow hardware acceleration (VAAPI)"
 msgctxt "#36156"
 msgid "Enable VAAPI hardware decoding of video files, mainly used for Intel graphics and in some circumstances AMD graphics."
-msgstr "Ввімкнути апаратне декодування відео VAAPI. Використовується переважно для карт Intel та в деяких випадках AMD."
+msgstr "Увімкнути апаратне декодування відео VAAPI. Використовується переважно для карт Intel та в деяких випадках AMD."
 
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
@@ -15955,12 +15955,12 @@ msgstr "Якщо увімкнено, \"Кіноцикл\" буде показа�
 #. Description of setting with label #13427 "Allow hardware acceleration (DXVA2)"
 msgctxt "#36158"
 msgid "Enable DXVA2 hardware decoding of video files."
-msgstr "Ввімкнути апаратне декодування відео DXVA2."
+msgstr "Увімкнути апаратне декодування відео DXVA2."
 
 #. Description of setting with label #13429 "Allow hardware acceleration (VDADecoder)"
 msgctxt "#36160"
 msgid "Enable VTB hardware decoding of video files."
-msgstr "Ввімкнути апаратне декодування відео VTB."
+msgstr "Увімкнути апаратне декодування відео VTB."
 
 #. Description of setting with label #508 "Startup action"
 msgctxt "#36161"
@@ -15970,7 +15970,7 @@ msgstr "Виберіть дію, що виконується при запуск
 #. Description of setting with label #13432 "Allow hardware acceleration (VideoToolbox)"
 msgctxt "#36162"
 msgid "Enable VideoToolbox hardware decoding of video files."
-msgstr "Ввімкнути апаратне декодування відео VideoToolbox."
+msgstr "Увімкнути апаратне декодування відео VideoToolbox."
 
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
@@ -15980,7 +15980,7 @@ msgstr "Показувати серіали без серій при перег�
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
 msgid "Allow the refresh rate of the display to be changed so that it best matches the video frame rate. This may yield smoother video playback."
-msgstr "Дозволити зміну частоти оновлення дисплею згідно з частотою кадрів відеофайла, щоб забезпечити плавне відтворення відео."
+msgstr "Дозволити зміну частоти оновлення екрану згідно з частотою кадрів відеофайла, щоб забезпечити плавне відтворення відео."
 
 #. Description of setting with label #13550 "Delay after change of refresh rate"
 msgctxt "#36165"
@@ -15990,7 +15990,7 @@ msgstr "Затримка перемикання після зміни часто
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Синхронізувати відео та звук із частотою оновлення дисплею. У цьому режимі неможливе пряме виведення звукового потоку, тому що може знадобитися ресемплінґ."
+msgstr "Синхронізувати відео та звук із частотою оновлення екрану. У цьому режимі неможливе пряме виведення звукового потоку, тому що може знадобитися ресемплінґ."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -16015,7 +16015,7 @@ msgstr "Розтягти зображення до заданого значен
 #. Description of setting with label #173 "Display 4:3 videos as"
 msgctxt "#36171"
 msgid "Select the zoom level that 4:3 videos are shown on widescreen displays."
-msgstr "Вибір налаштування пропорцій показу відео 4:3 на широкоформатних дисплеях."
+msgstr "Вибір налаштування пропорцій показу відео 4:3 на широкоформатних екранах."
 
 #. Description of setting with label #13430 "Allow hardware acceleration - PRIME"
 msgctxt "#36172"
@@ -16030,7 +16030,7 @@ msgstr "Виберіть скорочений формат дати для ві�
 #. Description of setting with label #23050 "Activate Teletext"
 msgctxt "#36174"
 msgid "Enable teletext when watching a live TV stream."
-msgstr "Ввімкнути телетекст при перегляді потокового ТБ."
+msgstr "Увімкнути телетекст при перегляді потокового ТБ."
 
 #. Description of setting with label #23055 "Scale Teletext to 4:3"
 msgctxt "#36175"
@@ -16714,7 +16714,7 @@ msgstr "Налаштування роботи служби UPnP. В більшо
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
 msgid "Enables the UPnP server. This allows you to stream media in your libraries to a UPnP client."
-msgstr "Ввімкнути сервер UPnP. Це дозволяє вам транслювати медіа з ваших медіатек на клієнт UPnP."
+msgstr "Увімкнути сервер UPnP. Це дозволяє транслювати медіафайли з ваших медіатек на клієнти UPnP."
 
 #. Description of setting with label #20188 "Announce library updates"
 msgctxt "#36324"
@@ -16724,7 +16724,7 @@ msgstr "Повідомляти клієнти UPnP при ручному або 
 #. Description of setting with label #21881 "Allow playback control via UPnP"
 msgctxt "#36325"
 msgid "Enable the UPnP client. This allows you to stream media from any UPnP server with a control point and control playback from that server."
-msgstr "Ввімкнути клієнт UPnP. Це дозволяє передавати мультимедійні файли з будь-якого серверу UPnP і керувати відтворенням із цього сервера."
+msgstr "Увімкнути клієнт UPnP. Це дозволяє транслювати медіафайли з будь-якого серверу UPnP і керувати відтворенням із цього сервера."
 
 #. Description of setting with label #21361 "Look for remote UPnP players"
 msgctxt "#36326"
@@ -16874,7 +16874,7 @@ msgstr "Якщо увімкнено, повноекранний режим бу�
 #. Description of setting with label #13130 "Blank other displays"
 msgctxt "#36355"
 msgid "In a multi-screen configuration, the screens not displaying this application are blacked out."
-msgstr "При наявності кількох дисплеїв, дисплеї, на яких не показується програма, буде затемнено."
+msgstr "При наявності кількох екранів, екрани, на яких не показується програма, буде затемнено."
 
 #. Description of settings category with label #1201 "NFS Client"
 msgctxt "#36356"
@@ -16884,7 +16884,7 @@ msgstr "Налаштування NFS-клієнта."
 #. Description of setting with label #214 "Video calibration..."
 msgctxt "#36357"
 msgid "Calibrate the user interface by adjusting the overscan. Use this tool if the image being displayed is too large or small for your display."
-msgstr "Калібрування інтерфейсу для налаштування масштабу відображення. Скористайтеся цим засобом, якщо зображення виходить за межі дисплею або відображається із чорними полями."
+msgstr "Калібрування інтерфейсу для налаштування масштабу відображення. Скористайтеся цим засобом, якщо зображення виходить за межі екрану або відображається із чорними полями."
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
@@ -16893,7 +16893,7 @@ msgstr "Дозволити використовувати нумерацію к�
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
 msgid "Use limited colour range (16-235) instead of full colour range (0-255). Limited range should be used if your display is a regular HDMI TV and doesn't have a PC or other mode to display full range colour, however if your display is a PC monitor then leave this disabled to get proper blacks."
-msgstr "Використовувати обмежений діапазон кольорів (16—235) замість повного діапазону (0—255). Обмежений діапазон слід використовувати зі звичайними телевізорами, підключеними по HDMI, що не мають режимів, здатних відображати повний діапазон. Якщо дисплеєм є монітор ПК, тоді вимкніть цей параметр, щоб отримати належний рівень чорного."
+msgstr "Використовувати обмежений діапазон кольорів (16–235) замість повного діапазону (0–255). Обмежений діапазон слід використовувати зі звичайними телевізорами, підключеними по HDMI, що не мають режимів, здатних відображати повний діапазон. Якщо екраном є монітор ПК, тоді вимкніть цей параметр, щоб отримати належний рівень чорного."
 
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
@@ -17036,7 +17036,7 @@ msgstr "Налаштування енергозбереження."
 #. Description of setting with label #1450 "Put display to sleep when idle"
 msgctxt "#36388"
 msgid "Turn off display when idle. Useful for TVs that turn off when there is no display signal detected."
-msgstr "Вимикати дисплеї при простої. Корисно, якщо телевізор вимикається при відсутності сигналу на вході."
+msgstr "Вимикати екрани при простої. Корисно, якщо телевізор вимикається при відсутності сигналу на вході."
 
 #. Description of setting with label #357 "Shutdown function timer"
 msgctxt "#36389"
@@ -17056,17 +17056,17 @@ msgstr "Налаштування журналу подій та налагодж
 #. Description of setting with label #20191 "Enable debug logging"
 msgctxt "#36392"
 msgid "Turn debug logging on or off. Useful for troubleshooting."
-msgstr "Увімкнення чи вимкнення журналу налагодження. Використовується при пошуку проблем."
+msgstr "Вмикає/вимикає журнал налагодження. Використовуйте для пошуку проблем."
 
 #. Description of setting with label #20004 "Screenshot folder"
 msgctxt "#36393"
 msgid "Select the folder where screenshots should be saved in."
-msgstr "Вибрати папку для збереження знімків екрану."
+msgstr "Виберіть теку для збереження знімків екрану."
 
 #. Description of setting with label #666 "Enable component-specific logging"
 msgctxt "#36394"
 msgid "Enables verbose messages from additional libraries to be included in the debug log."
-msgstr "Включати до журналу докладні повідомлення від додаткових бібліотек."
+msgstr "Включає до журналу детальні повідомлення від додаткових бібліотек."
 
 #. Description of settings category with label #12360 "Master lock"
 msgctxt "#36395"
@@ -17096,52 +17096,52 @@ msgstr "Налаштування функцій кешу."
 #. Description of settings category with label #14025 "Video/Audio/DVD cache - Hard disk"
 msgctxt "#36400"
 msgid "Enable cache for playback of video, audio or DVDs from hard disk."
-msgstr "Ввімкнути кеш при відтворенні відео, звуку або DVD із жорсткого диску."
+msgstr "Увімкнути кеш при відтворенні відео, звуку або DVD із жорсткого диску."
 
 #. Description of settings category with label #14026 "Video cache - DVD-ROM"
 msgctxt "#36401"
 msgid "Enable cache for playback of video from DVD-ROM."
-msgstr "Ввімкнути кеш при відтворенні відео із DVD-ROM."
+msgstr "Увімкнути кеш при відтворенні відео із DVD-ROM."
 
 #. Description of settings category with label #14027 "Video cache - Local Network"
 msgctxt "#36402"
 msgid "Enable cache for video playback from local network."
-msgstr "Ввімкнути кеш при відтворення відео із локальної мережі."
+msgstr "Увімкнути кеш при відтворення відео із локальної мережі."
 
 #. Description of settings category with label #14028 "Video cache - Internet"
 msgctxt "#36403"
 msgid "Enable cache for video playback from Internet."
-msgstr "Ввімкнути кеш при відтворенні відео з Інтернету."
+msgstr "Увімкнути кеш при відтворенні відео з Інтернету."
 
 #. Description of settings category with label #14030 "Audio cache - DVD-ROM"
 msgctxt "#36404"
 msgid "Enable cache for playback of audio from DVD-ROM."
-msgstr "Ввімкнути кеш при відтворенні звуку із DVD-ROM."
+msgstr "Увімкнути кеш при відтворенні звуку із DVD-ROM."
 
 #. Description of settings category with label #14031 "Audio cache - Local Network"
 msgctxt "#36405"
 msgid "Enable cache for audio playback from local network."
-msgstr "Ввімкнути кеш при відтворенні звуку із локальної мережі."
+msgstr "Увімкнути кеш при відтворенні звуку із локальної мережі."
 
 #. Description of settings category with label #14032 "Audio cache - Internet"
 msgctxt "#36406"
 msgid "Enable cache for audio playback from Internet."
-msgstr "Ввімкнути кеш при відтворенні звуку з Інтернету."
+msgstr "Увімкнути кеш при відтворенні звуку з Інтернету."
 
 #. Description of setting with label #14034 "DVD cache - DVD-ROM"
 msgctxt "#36407"
 msgid "Enable cache for playback of DVD from DVD-ROM."
-msgstr "Ввімкнути кеш при відтворенні DVD із DVD-ROM."
+msgstr "Увімкнути кеш при відтворенні DVD із DVD-ROM."
 
 #. Description of setting with label #14037 "DVD cache - Local Network"
 msgctxt "#36408"
 msgid "Enable cache for DVD playback from local network."
-msgstr "Ввімкнути кеш при відтворенні DVD із локальної мережі."
+msgstr "Увімкнути кеш при відтворенні DVD із локальної мережі."
 
 #. Description of setting with label #14060 "Unknown type cache - Internet"
 msgctxt "#36409"
 msgid "Enable cache of unknown types from Internet."
-msgstr "Ввімкнути кеш для невідомого вмісту з Інтернету."
+msgstr "Увімкнути кеш для невідомого вмісту з Інтернету."
 
 msgctxt "#36410"
 msgid "No info available yet."
@@ -17246,7 +17246,7 @@ msgstr "Показує всі події в журналі подій для п�
 #. Select the layout of a virtual keyboard
 msgctxt "#36432"
 msgid "Select virtual keyboard layouts."
-msgstr "Вибрати розкладки екранної клавіатури."
+msgstr "Виберіть розкладки екранної клавіатури."
 
 #. Description for video related setting #13457: "vaapi sw filter"
 msgctxt "#36433"
@@ -17473,7 +17473,7 @@ msgstr "Дозволяє регулятор гучності від AirPlay кл
 
 msgctxt "#36544"
 msgid "Enable hardware decoding of video files."
-msgstr "Ввімкнути апаратне декодування відеофайлів."
+msgstr "Увімкнути апаратне декодування відеофайлів."
 
 #. Label of a setting, allowing the user to adjust the visual depths of subtitles when watching stereoscopic 3D videos
 msgctxt "#36545"
@@ -17722,7 +17722,7 @@ msgstr "Прибирає смуги, спричинені перетворенн
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Точність виводу згладжування відео в бітах. Найвище значення прибирає смуги. Для більшості систем рекомендується стандартне значення — 8. Якщо графічний процесор налаштовано на масштабування вихідних рівнів RGB або використовується екран ноутбука, значення 7 або 6 біт може прибрати більшість смуг. Більш низькі значення використовуються здебільшого для тестування, щоб можна було легко побачити, чи застосовується згладжування, і чи розмір пікселя шуму згладжування відповідає роздільній здатності дисплея."
+msgstr "Точність виводу згладжування відео в бітах. Найвище значення прибирає смуги. Для більшості систем рекомендується стандартне значення — 8. Якщо графічний процесор налаштовано на масштабування вихідних рівнів RGB або використовується екран ноутбука, значення 7 або 6 біт може прибрати більшість смуг. Більш низькі значення використовуються здебільшого для тестування, щоб можна було легко побачити, чи застосовується згладжування, і чи розмір пікселя шуму згладжування відповідає роздільній здатності екрану."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -17780,7 +17780,7 @@ msgstr "Тут можна налаштувати автоматичне онов
 #. Description of setting with label #36609 "Show notifications"
 msgctxt "#36612"
 msgid "Show notification when an add-on have been updated."
-msgstr "Показувати сповіщення після оновлення додатка."
+msgstr "Показ сповіщень після оновлення додатка."
 
 #. Description of setting with label #24996 "Manage dependencies"
 msgctxt "#36613"
@@ -17915,7 +17915,7 @@ msgstr "Видалити всі неактуальні додатки"
 #. Description of setting with label #36638 "Remove all orphaned dependencies"
 msgctxt "#36639"
 msgid "Remove all modules and support libraries that have been automatically installed and are in an orphaned state."
-msgstr "Видалити всі модулі та бібліотеки підтримки, які були встановлені автоматично і є неактуальними."
+msgstr "Видаляє всі модулі та бібліотеки підтримки, які були встановлені автоматично і є неактуальними."
 
 #. Dialog caption
 msgctxt "#36640"
@@ -18185,12 +18185,12 @@ msgstr "WS-Discovery"
 #. Setting #37048 Enable WS-Discovery Service"
 msgctxt "#37048"
 msgid "Enable WS-Discovery Service"
-msgstr "Ввімкнути службу WS-Discovery"
+msgstr "Увімкнути службу WS-Discovery"
 
 #. Description of setting #37048 Enable WS-Discovery Service"
 msgctxt "#37049"
 msgid "Enable service to search for SMB services using the WS-Discovery protocol"
-msgstr "Ввімкнути послугу пошуку SMB-сервісів за протоколом WS-Discovery"
+msgstr "Увімкнути послугу пошуку служб SMB за протоколом WS-Discovery"
 
 #. Label for component level debug logging setting
 msgctxt "#37050"
@@ -19078,7 +19078,7 @@ msgstr "Вибрати програму"
 
 msgctxt "#39110"
 msgid "Select Resolution"
-msgstr "Вибрати Розширення"
+msgstr "Виберіть роздільну здатність"
 
 #. audio flag - FLAG_ORIGINAL
 #. language prefix displayed in audio settings stream selection
@@ -19244,12 +19244,12 @@ msgstr "Обмежує обкладинки серіалів і сезонів, 
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
-msgstr "Білий список типів обкладинок для епізодів"
+msgstr "Білий список типів обкладинок для серій"
 
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Обмежує обкладинки епізодів, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
+msgstr "Обмежує показ обкладинок серій, отримані локально або з екстрактора віддалених обкладинок, лише до тих типів, що вказані в білому списку"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
