@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-23 13:19+0000\n"
+"PO-Revision-Date: 2025-09-29 14:29+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -857,7 +857,7 @@ msgstr "Відеофільтри"
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#231"
 msgid "None"
-msgstr "Жоден"
+msgstr "Немає"
 
 msgctxt "#232"
 msgid "Point"
@@ -1418,7 +1418,7 @@ msgstr "Сорт. за роком"
 
 msgctxt "#367"
 msgid "Sort by: Rating"
-msgstr "Сорт. за рейтингом"
+msgstr "Сорт. за оцінкою"
 
 msgctxt "#368"
 msgid "IMDb"
@@ -2070,39 +2070,39 @@ msgstr "Введіть жанр"
 
 msgctxt "#534"
 msgid "View: {0:s}"
-msgstr "Вигляд: {0:s}"
+msgstr "Подання: {0:s}"
 
 msgctxt "#535"
 msgid "List"
-msgstr "Список"
+msgstr "список"
 
 msgctxt "#536"
 msgid "Icons"
-msgstr "Піктограми"
+msgstr "піктограми"
 
 msgctxt "#537"
 msgid "Big list"
-msgstr "Широкий список"
+msgstr "широкий список"
 
 msgctxt "#538"
 msgid "Big icons"
-msgstr "Великі піктограми"
+msgstr "великі піктограми"
 
 msgctxt "#539"
 msgid "Wide"
-msgstr "Банери"
+msgstr "банери"
 
 msgctxt "#540"
 msgid "Big wide"
-msgstr "Широкий великий"
+msgstr "широкий великий"
 
 msgctxt "#541"
 msgid "Album icons"
-msgstr "Піктограми альбомів"
+msgstr "піктограми альбомів"
 
 msgctxt "#542"
 msgid "DVD icons"
-msgstr "Піктограми DVD"
+msgstr "піктограми DVD"
 
 msgctxt "#543"
 msgid "DVD"
@@ -2110,7 +2110,7 @@ msgstr "DVD"
 
 msgctxt "#544"
 msgid "Media info"
-msgstr "Інформація"
+msgstr "інформація"
 
 msgctxt "#545"
 msgid "Audio output device"
@@ -2135,7 +2135,7 @@ msgstr "Номер"
 
 msgctxt "#550"
 msgid "Sort by: {0:s}"
-msgstr "Сорт. за: {0:s}"
+msgstr "Сортувати за: {0:s}"
 
 #. generic "name" label used in different places
 msgctxt "#551"
@@ -2153,7 +2153,7 @@ msgstr "Розмір"
 
 msgctxt "#554"
 msgid "Track"
-msgstr "Трек"
+msgstr "Доріжка"
 
 msgctxt "#555"
 msgid "Time"
@@ -2189,7 +2189,7 @@ msgstr "Рік"
 
 msgctxt "#563"
 msgid "Rating"
-msgstr "Рейтинг"
+msgstr "Оцінка"
 
 msgctxt "#564"
 msgid "Type"
@@ -2211,7 +2211,7 @@ msgstr "Кільк. відтворювань"
 #. generic "last played" label used in different places
 msgctxt "#568"
 msgid "Last played"
-msgstr "Останнє відтворювання"
+msgstr "Останнє відтворення"
 
 msgctxt "#569"
 msgid "Comment"
@@ -2239,7 +2239,7 @@ msgstr "Країна"
 
 msgctxt "#575"
 msgid "In progress"
-msgstr "В процесі"
+msgstr "Переглядаються"
 
 msgctxt "#576"
 msgid "Times played"
@@ -3493,11 +3493,11 @@ msgstr "Введіть веб-адресу"
 
 msgctxt "#1052"
 msgid "Require authentication"
-msgstr "Потрібна аутентифікація"
+msgstr "Потрібна автентифікація"
 
 msgctxt "#1053"
 msgid "Choose whether requests to the web server require a username and a password, which must be set below if enabled. It is recommended to always leave this setting enabled."
-msgstr "Виберіть, чи необхідні для запитів до веб-сервера ім'я користувача та пароль, які повинні бути встановлені нижче, якщо цей параметр увімкнений. Рекомендується завжди залишати це налаштування увімкненим."
+msgstr "Вкажіть, чи потрібно для доступу до веб-сервера вказувати ім'я користувача та пароль (задаються нижче), якщо цей параметр увімкнений. Рекомендується завжди залишати це налаштування увімкненим."
 
 msgctxt "#1180"
 msgid "Proxy type"
@@ -3533,7 +3533,7 @@ msgstr "SMB-клієнт"
 
 msgctxt "#1201"
 msgid "NFS Client"
-msgstr "NFS клієнт"
+msgstr "NFS-клієнт"
 
 msgctxt "#1202"
 msgid "Workgroup"
@@ -3657,7 +3657,7 @@ msgstr "Zeroconf"
 
 msgctxt "#1260"
 msgid "Announce services to other systems"
-msgstr "Анонс послуги іншим системам"
+msgstr "Анонсувати служби іншим системам"
 
 msgctxt "#1268"
 msgid "Enable AirPlay \"Videos\" and \"Pictures\" support"
@@ -5966,7 +5966,7 @@ msgstr "Шаблонів: {0:s}"
 
 msgctxt "#13408"
 msgid "(IMDb user rating)"
-msgstr "(Рейтинг користувачів IMDb)"
+msgstr "(Оцінка користувачів IMDb)"
 
 msgctxt "#13409"
 msgid "Top 250"
@@ -7130,15 +7130,15 @@ msgstr "Регіональний формат за замовчуванням"
 
 msgctxt "#14275"
 msgid "Application control"
-msgstr "Керування програмою"
+msgstr "Керування з інших програм"
 
 msgctxt "#14276"
 msgid "Allow remote control from applications on this system"
-msgstr "Дозволити віддалене керування програмам на цій системі"
+msgstr "Дозволити віддалене керування для програм з цієї системи"
 
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
-msgstr "Дозволити віддалене керування програмам на інших системах"
+msgstr "Дозволити віддалене керування для програм з інших систем"
 
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
@@ -7457,7 +7457,7 @@ msgstr "Рядок пошуку"
 
 msgctxt "#16018"
 msgid "None"
-msgstr "Жоден"
+msgstr "Немає"
 
 msgctxt "#16019"
 msgid "Auto select"
@@ -7554,11 +7554,11 @@ msgstr "Усі відео"
 
 msgctxt "#16101"
 msgid "Unwatched"
-msgstr "Не переглянуто"
+msgstr "Не переглянуті"
 
 msgctxt "#16102"
 msgid "Watched"
-msgstr "Переглянуто"
+msgstr "Переглянуті"
 
 #. Label for a context menu entry to mark an item as watched
 msgctxt "#16103"
@@ -8087,7 +8087,7 @@ msgstr "Сорт. за каналами"
 #. Label for epg grid window "jump to grid start" (oldest available programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19063"
 msgid "First programme"
-msgstr "Перша прграма"
+msgstr "Перша програма"
 
 #. Label for epg grid window "jump to grid end" (youngest available programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19064"
@@ -10282,7 +10282,7 @@ msgstr "Переконайтеся, що вибрана папка доступ�
 
 msgctxt "#20074"
 msgid "MPAA rating"
-msgstr "Рейтинг MPAA"
+msgstr "Оцінка MPAA"
 
 msgctxt "#20075"
 msgid "Enter master lock code"
@@ -10715,7 +10715,7 @@ msgstr "UPnP / DLNA"
 
 msgctxt "#20188"
 msgid "Announce library updates"
-msgstr "Анонс оновлень медіатеки"
+msgstr "Анонсувати оновлення медіатеки"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
@@ -10772,7 +10772,7 @@ msgstr "Якщо увімкнено, всі відомості з тегів п�
 
 msgctxt "#20222"
 msgid "Look for external subtitles"
-msgstr "Переглянути зовнішні субтитри"
+msgstr "Шукати зовнішні субтитри"
 
 msgctxt "#20223"
 msgid "Artist information folder"
@@ -11501,7 +11501,7 @@ msgstr "Показувати кіноцикли"
 
 msgctxt "#20459"
 msgid "Tags"
-msgstr "Теґи"
+msgstr "Теги"
 
 msgctxt "#20460"
 msgid "Add {0:s}"
@@ -11675,7 +11675,7 @@ msgstr "Додати медіаресурс…"
 
 msgctxt "#21360"
 msgid "Share my libraries"
-msgstr "Розшарити мої медіатеки"
+msgstr "Поділитись своїми медіатеками"
 
 msgctxt "#21361"
 msgid "Look for remote UPnP players"
@@ -14291,7 +14291,7 @@ msgstr "Відомості про"
 
 msgctxt "#33067"
 msgid "Star rating"
-msgstr "Рейтинг"
+msgstr "Оцінка"
 
 msgctxt "#33068"
 msgid "Background"
@@ -16536,7 +16536,7 @@ msgstr "Вибрати папку для збереження оцифрован
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
 msgid "Control how saved music is named from the tags. Tags: [B]%N[/B]: TrackNumber, [B]%S[/B]: DiscNumber, [B]%A[/B]: Artist, [B]%T[/B]: Title, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: Year, [B]%F[/B]: FileName, [B]%D[/B]: Duration, [B]%J[/B]: Date, [B]%R[/B]: Rating, [B]%I[/B]: FileSize."
-msgstr "Формування назв з тегів для музичних файлів. Теги: [B]%N[/B]: № доріжки, [B]%S[/B]: № диску, [B]%A[/B]: виконавець, [B]%T[/B]: назва, [B]%B[/B]: альбом, [B]%G[/B]: жанр, [B]%Y[/B]: рік, [B]%F[/B]: назва файлу, [B]%D[/B]: тривалість, [B]%J[/B]: дата, [B]%R[/B]: рейтинг, [B]%I[/B]: розмір файлу."
+msgstr "Формування назв з тегів для музичних файлів. Теги: [B]%N[/B]: № доріжки, [B]%S[/B]: № диску, [B]%A[/B]: виконавець, [B]%T[/B]: назва, [B]%B[/B]: альбом, [B]%G[/B]: жанр, [B]%Y[/B]: рік, [B]%F[/B]: назва файлу, [B]%D[/B]: тривалість, [B]%J[/B]: дата, [B]%R[/B]: оцінка, [B]%I[/B]: розмір файлу."
 
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
@@ -16704,7 +16704,7 @@ msgstr "Налаштування всіх служб."
 #. Description of setting with label #1271 "Device name"
 msgctxt "#36321"
 msgid "The name to display for this device when using various network services."
-msgstr "Ім’я, що позначатиме цей пристрій в пошуку через різні мережеві служби."
+msgstr "Назва, під якою цей пристрій буде показаний в пошуку для різних мережевих служб."
 
 #. Description of settings category with label #20187 "UPnP/DLNA"
 msgctxt "#36322"
@@ -16714,22 +16714,22 @@ msgstr "Налаштування роботи служби UPnP. В більшо
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
 msgid "Enables the UPnP server. This allows you to stream media in your libraries to a UPnP client."
-msgstr "Увімкнути сервер UPnP. Це дозволяє транслювати медіафайли з ваших медіатек на клієнти UPnP."
+msgstr "Вмикає сервер UPnP. Це дозволяє транслювати медіафайли з ваших медіатек на клієнти UPnP."
 
 #. Description of setting with label #20188 "Announce library updates"
 msgctxt "#36324"
 msgid "When a manual or automatic library update occurs, notify UPnP clients."
-msgstr "Повідомляти клієнти UPnP при ручному або автоматичному оновленні медіатеки."
+msgstr "Повідомляє клієнтам UPnP про ручне або автоматичне оновлення медіатеки."
 
 #. Description of setting with label #21881 "Allow playback control via UPnP"
 msgctxt "#36325"
 msgid "Enable the UPnP client. This allows you to stream media from any UPnP server with a control point and control playback from that server."
-msgstr "Увімкнути клієнт UPnP. Це дозволяє транслювати медіафайли з будь-якого серверу UPnP і керувати відтворенням із цього сервера."
+msgstr "Вмикає клієнт UPnP. Це дозволяє транслювати медіафайли з будь-якого серверу UPnP і керувати відтворенням із цього сервера."
 
 #. Description of setting with label #21361 "Look for remote UPnP players"
 msgctxt "#36326"
 msgid "Enable the UPnP control point. This allows you to stream media to any UPnP client and control its playback."
-msgstr "Увімкнути точку керування UPnP. Це дозволяє транслювати медіафайли на будь-який клієнт UPnP та керувати їх відтворенням."
+msgstr "Вмикає точку керування UPnP. Це дозволяє транслювати медіафайли на будь-який клієнт UPnP та керувати їх відтворенням."
 
 #. Description of settings category with label #20187 "Control"
 msgctxt "#36327"
@@ -16739,12 +16739,12 @@ msgstr "Налаштування служби веб-серверу і відд�
 #. Description of setting with label #263 "Allow remote control via HTTP"
 msgctxt "#36328"
 msgid "Enable remote users to control this application through the built-in web server. Never expose the web server port to the Internet."
-msgstr "Дозволити віддаленим користувачам керувати цим додатком через вбудований веб-сервер. Ніколи не відкривайте доступ до порту веб-сервера з Інтернету."
+msgstr "Дозволяє віддаленим користувачам керувати цією системою через вбудований веб-сервер. Ніколи не відкривайте доступ до порту веб-сервера для Інтернету."
 
 #. Description of setting with label #730 "Port"
 msgctxt "#36329"
 msgid "Define the web server port."
-msgstr "Визначте порт веб-серверу."
+msgstr "Вкажіть порт веб-серверу."
 
 #. Description of setting with label #1048 "Username"
 msgctxt "#36330"
@@ -16759,7 +16759,7 @@ msgstr "Вкажіть пароль користувача для веб-сер�
 #. Description of setting with label #199 "Web interface"
 msgctxt "#36332"
 msgid "Select between web interfaces installed via the add-on manager."
-msgstr "Оберіть серед веб-інтерфейсів, встановлених за допомогою менеджера додатків."
+msgstr "Виберіть один з веб-інтерфейсів, встановлених через менеджер додатків."
 
 #. Description of settings category with label #790 "Remote Control"
 msgctxt "#36333"
@@ -16769,7 +16769,7 @@ msgstr "Налаштування служби віддаленого керув�
 #. Description of setting with label #791 "Allow remote control from programs on this system"
 msgctxt "#36334"
 msgid "Allow programs on this device to control this application via the JSON-RPC over WebSocket, JSON-RPC over TCP, or EventServer protocol, without authentication."
-msgstr "Дозволити програмам на цьому пристрої керувати Kodi через JSON-RPC поверх WebSocket, JSON-RPC поверх TCP або через протокол EventServer без автентифікації."
+msgstr "Дозволяє програмам на цьому пристрої керувати Kodi через JSON-RPC через WebSocket, JSON-RPC через TCP або через протокол EventServer без автентифікації."
 
 #. Description of setting with label #792 "Port"
 msgctxt "#36335"
@@ -16789,7 +16789,7 @@ msgstr "Максимальна кількість клієнтів, що мож�
 #. Description of setting with label #794 "Allow remote control from programs on other systems"
 msgctxt "#36338"
 msgid "Allow programs on the network to control this application via the JSON-RPC over WebSocket, JSON-RPC over TCP, or EventServer protocol, without authentication. It allows anyone with access to the network to completely control this application and, therefore, this device. Never expose these interfaces to the Internet."
-msgstr "Дозволити мережевим програмам керувати цією програмою через протокол JSON-RPC поверх WebSocket, JSON-RPC поверх TCP або EventServer без автентифікації. Це дозволяє будь-кому, хто має доступ до мережі, повністю керувати цією програмою, а отже і цим пристроєм. Ніколи не відкривайте доступ до цих інтерфейсів для Інтернету."
+msgstr "Дозволяє програмам в мережі керувати цією системою через протокол JSON-RPC через WebSocket, JSON-RPC через TCP або EventServer без автентифікації. Це дозволяє будь-кому, хто має доступ до мережі, повністю керувати цією системою, а отже і цим пристроєм. Ніколи не відкривайте доступ до цих інтерфейсів для Інтернету."
 
 #. Description of setting with label #795 "Initial repeat delay (ms)"
 msgctxt "#36339"
@@ -16819,12 +16819,12 @@ msgstr "Якщо увімкнено, контент може бути отрим
 #. Description of setting with label #1272 "Use password protection"
 msgctxt "#36344"
 msgid "Enable AirPlay password protection."
-msgstr "Захистити AirPlay за допомогою паролю."
+msgstr "Вмикає для AirPlay захист паролем."
 
 #. Description of setting with label #733 "Password"
 msgctxt "#36345"
 msgid "Sets the AirPlay password."
-msgstr "Задати пароль AirPlay."
+msgstr "Вкажіть пароль для AirPlay."
 
 #. Description of settings category with label #1200 "SMB Client"
 msgctxt "#36346"
@@ -16834,12 +16834,12 @@ msgstr "Налаштування клієнта SMB (Samba)."
 #. Description of setting with label #1207 "WINS server"
 msgctxt "#36347"
 msgid "If a WINS server is running on the network, enter its IP address here. Otherwise, leave blank."
-msgstr "Якщо в мережі присутній сервер WINS, уведіть його IP-адресу тут. У протилежному випадку залиште поле пустим."
+msgstr "Якщо в мережі присутній сервер WINS, вкажіть тут його IP-адресу. Або залиште поле пустим."
 
 #. Description of setting with label #1202 "Workgroup"
 msgctxt "#36348"
 msgid "If a WINS server is running on the network, enter its workgroup name here. Otherwise, leave blank."
-msgstr "Якщо в мережі присутній сервер WINS, уведіть ім'я робочої групи тут. У протилежному випадку залиште поле пустим."
+msgstr "Якщо в мережі присутній сервер WINS, вкажіть тут назву робочої групи. Або залиште поле пустим."
 
 #. Description of settings section with label #13000 "System"
 msgctxt "#36349"
@@ -17190,7 +17190,7 @@ msgstr "Визначення розташувань, які використов
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
 msgid "Look for external subtitles for videos provided by the UPnP server. This can cause extensive CPU, filesystem and network load."
-msgstr "Шукати зовнішні субтитри для відео, що програється з сервера UPnP. Це може спричинити велике навантаження на ЦП, файлову систему та мережеве з’єднання."
+msgstr "Шукає зовнішні субтитри для відео, що відтворюються з сервера UPnP. Це може спричинити велике навантаження на ЦП, файлову систему та мережеве з’єднання."
 
 #. Description of setting with label #13437 "Prefer VDPAU Video Mixer"
 msgctxt "#36421"
@@ -17469,7 +17469,7 @@ msgstr "Бажаний режим відтворення стереоскопі�
 #. Description of setting with label #1269 "Allow volume control"
 msgctxt "#36541"
 msgid "Allows volume control from AirPlay clients."
-msgstr "Дозволяє регулятор гучності від AirPlay клієнтів."
+msgstr "Дозволяє клієнтам AirPlay керувати гучністю."
 
 msgctxt "#36544"
 msgid "Enable hardware decoding of video files."
@@ -17835,7 +17835,7 @@ msgstr "Вкажіть максимальну версію протоколу SM
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version" - none means "no protocol version is forced"
 msgctxt "#36623"
 msgid "None"
-msgstr "Ні"
+msgstr "Немає"
 
 #. Values for setting with label #36621 and #36628 "Minimum/Maximum protocol version"
 msgctxt "#36624"
@@ -17870,7 +17870,7 @@ msgstr "Вкажіть мінімальну версію протоколу SMB 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
 msgid "Use legacy security"
-msgstr "Використовуйте застарілі засоби захисту"
+msgstr "Використовувати застарілі засоби захисту"
 
 #. Description of setting with label #36630 "Use legacy security"
 msgctxt "#36631"
@@ -18190,7 +18190,7 @@ msgstr "Увімкнути службу WS-Discovery"
 #. Description of setting #37048 Enable WS-Discovery Service"
 msgctxt "#37049"
 msgid "Enable service to search for SMB services using the WS-Discovery protocol"
-msgstr "Увімкнути послугу пошуку служб SMB за протоколом WS-Discovery"
+msgstr "Вмикає службу пошуку служб SMB через протокол WS-Discovery"
 
 #. Label for component level debug logging setting
 msgctxt "#37050"
@@ -18205,7 +18205,7 @@ msgstr "Версія протоколу NFS"
 #. Description of setting #37051 NFS Protocol Version"
 msgctxt "#37052"
 msgid "NFS protocol version to use when establishing NFS connections"
-msgstr "Версію протоколу NFS використовувати при встановленні NFS-з'єднань"
+msgstr "Вкажіть версію протоколу для встановлення NFS-з'єднань"
 
 #. Settings / Services "Chunk Size" group label
 msgctxt "#37053"
@@ -18934,7 +18934,7 @@ msgstr "Збільшення – 110% по ширині"
 
 msgctxt "#39010"
 msgid "Select sort method"
-msgstr "Вибрати метод сортування"
+msgstr "Виберіть метод сортування"
 
 msgctxt "#39011"
 msgid "Maximum wait time for network"
@@ -19793,7 +19793,7 @@ msgstr "Синхронізувати рівень гучності на відд
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr "Якщо увімкнено, рівень гучності на віддаленому програвачі буде синхронізований з гучністю цієї програми.[CR]Попередження: глобальний рівень гучності системи може відрізнятися від рівня гучності програми — вони змінюються незалежно.[CR]Це може призвести до того, що на віддаленому програвачі буде встановлено 100% гучності як і у програмі, що теж має 100% гучності, але загальний рівень гучність системи буде меншим."
+msgstr "Якщо увімкнено, рівень гучності на віддаленому програвачі буде синхронізований з гучністю цієї програми.[CR]Попередження: глобальний рівень гучності системи може відрізнятися від рівня гучності програми — вони змінюються незалежно. Це може призвести до того, що на віддаленому програвачі буде встановлено 100% гучності як і у програмі, що теж має 100% гучності, але загальний рівень гучність системи буде меншим."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
