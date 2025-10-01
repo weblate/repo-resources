@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-23 13:19+0000\n"
+"PO-Revision-Date: 2025-09-29 14:29+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -995,7 +995,7 @@ msgstr "Enregistrer"
 
 msgctxt "#265"
 msgid "Stop Rec."
-msgstr "Stopper l'enregistr."
+msgstr "Arrêter l'enregistr."
 
 msgctxt "#266"
 msgid "Sort by: Track"
@@ -1907,7 +1907,7 @@ msgstr "Répéter le dossier"
 
 msgctxt "#489"
 msgid "Play next song automatically"
-msgstr "Lire le titre suivante automatiquement"
+msgstr "Lire le titre suivant automatiquement"
 
 msgctxt "#491"
 msgid "- Use big icons"
@@ -3200,12 +3200,12 @@ msgstr "Faut-il vraiment supprimer cette programmation ?"
 #. Heading for a dialog for confirming to stop an active recording
 msgctxt "#847"
 msgid "Confirm stop recording"
-msgstr "Confirmation de stopper l'enregistrement"
+msgstr "Confirmation de l'arrêt de l'enregistrement"
 
 #. Message in a dialog when a user wants to stop an active recording
 msgctxt "#848"
 msgid "Are you sure you want to stop this recording?"
-msgstr "Faut-il vraiment stopper cet enregistrement ?"
+msgstr "Faut-il vraiment arrêter cet enregistrement ?"
 
 #. Label for a finale of a TV show
 msgctxt "#849"
@@ -4163,7 +4163,7 @@ msgstr "Informations sur le système"
 
 msgctxt "#10008"
 msgid "Play next"
-msgstr "Lire suivant"
+msgstr "Lire ensuite"
 
 #. Header label for add-on configuration removal dialog
 msgctxt "#10009"
@@ -5377,7 +5377,7 @@ msgstr "Connexions actives détectées !"
 
 msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
-msgstr "En cas de poursuite, le contrôle de l'application pourrait être perdu. Faut-il vraiment stopper le serveur d'évènements ?"
+msgstr "En cas de poursuite, le contrôle de l'application pourrait être perdu. Faut-il vraiment arrêter le serveur d'évènements ?"
 
 msgctxt "#13144"
 msgid "Change Apple Remote mode?"
@@ -5788,7 +5788,7 @@ msgstr "Analyser pour la médiathèque"
 
 msgctxt "#13353"
 msgid "Stop scanning"
-msgstr "Stopper l'analyse"
+msgstr "Arrêter l'analyse"
 
 msgctxt "#13354"
 msgid "Render method"
@@ -6627,7 +6627,7 @@ msgstr "Analyser en tâche de fond"
 
 msgctxt "#14056"
 msgid "Stop scan"
-msgstr "Stopper l'analyse"
+msgstr "Arrêter l'analyse"
 
 msgctxt "#14057"
 msgid "Not possible while scanning for media information"
@@ -6776,7 +6776,7 @@ msgstr "Éjecter le CD à la fin de l'extraction"
 
 msgctxt "#14100"
 msgid "Stop ripping CD"
-msgstr "Stopper l'extraction du CD"
+msgstr "Arrêter l'extraction du CD"
 
 #. Name of a settings category related to video playback
 msgctxt "#14101"
@@ -8035,7 +8035,7 @@ msgstr "Déplacer la chaîne vers :"
 #. Label for a context menu entry to open recording info dialog
 msgctxt "#19053"
 msgid "Recording information"
-msgstr "Informations d'enregistrement"
+msgstr "Informations sur l'enregistrement"
 
 #. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
@@ -8045,7 +8045,7 @@ msgstr "Masquer la chaîne"
 #. generic text used in several places to state that there is no information available
 msgctxt "#19055"
 msgid "No information available"
-msgstr "Pas d'infos disponibles"
+msgstr "Aucune information disponible"
 
 #. Label for a new timer
 msgctxt "#19056"
@@ -8065,7 +8065,7 @@ msgstr "Programmation activée"
 #. Label for a context menu entry and for a button to stop a recording
 msgctxt "#19059"
 msgid "Stop recording"
-msgstr "Stopper l'enregistrement"
+msgstr "Arrêter l'enregistrement"
 
 #. Label for a context menu entry to delete a timer associated with an epg event and for a button to delete a timer in epg event info dialog
 msgctxt "#19060"
@@ -8461,7 +8461,7 @@ msgstr "Rechercher…"
 #. generic PVR channel 'group' label used in different places
 msgctxt "#19141"
 msgid "Group"
-msgstr "Grouper"
+msgstr "Groupe"
 
 msgctxt "#19142"
 msgid "Search guide"
@@ -14557,7 +14557,7 @@ msgstr "384.0"
 
 msgctxt "#34201"
 msgid "Can't find a next item to play"
-msgstr "Aucun élément suivant à lire"
+msgstr "Aucun élément à lire ensuite"
 
 msgctxt "#34202"
 msgid "Can't find a previous item to play"
@@ -14596,7 +14596,7 @@ msgstr "Échec du démarrage d'AirPlay qui nécessite l'activation de Zeroconf."
 
 msgctxt "#34303"
 msgid "Unable to stop Zeroconf. AirPlay and AirTunes depend on Zeroconf running."
-msgstr "Impossible de stopper Zeroconf. AirPlay et AirTunes nécessitent que Zeroconf soit lancé."
+msgstr "Impossible d'arrêter Zeroconf. AirPlay et AirTunes nécessitent que Zeroconf soit lancé."
 
 msgctxt "#34400"
 msgid "Video rendering"
