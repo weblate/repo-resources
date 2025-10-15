@@ -18029,16 +18029,6 @@ msgctxt "#37002"
 msgid "(Director's comments 2)"
 msgstr "(Regissörens kommentarer 2)"
 
-#. DVD short name for 1.0 channel layout
-msgctxt "#37003"
-msgid "mono"
-msgstr "mono"
-
-#. DVD short name for 2.0 channel layout
-msgctxt "#37004"
-msgid "stereo"
-msgstr "stereo"
-
 msgctxt "#37014"
 msgid "Last used profile"
 msgstr "Senast använda profil"
@@ -19929,6 +19919,14 @@ msgstr "Bekräfta borttagning av fil"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Om den är aktiverad visas en bekräftelsedialog när filer ska tas bort. Om den är inaktiverad tas filerna bort utan att användaren bekräftar detta."
+
+#~ msgctxt "#37003"
+#~ msgid "mono"
+#~ msgstr "mono"
+
+#~ msgctxt "#37004"
+#~ msgid "stereo"
+#~ msgstr "stereo"
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."

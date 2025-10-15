@@ -18027,16 +18027,6 @@ msgctxt "#37002"
 msgid "(Director's comments 2)"
 msgstr "（导演点评2）"
 
-#. DVD short name for 1.0 channel layout
-msgctxt "#37003"
-msgid "mono"
-msgstr "单声道"
-
-#. DVD short name for 2.0 channel layout
-msgctxt "#37004"
-msgid "stereo"
-msgstr "立体声"
-
 msgctxt "#37014"
 msgid "Last used profile"
 msgstr "最近使用的用户配置"
@@ -19927,6 +19917,14 @@ msgstr "确认删除文件"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
+
+#~ msgctxt "#37003"
+#~ msgid "mono"
+#~ msgstr "单声道"
+
+#~ msgctxt "#37004"
+#~ msgid "stereo"
+#~ msgstr "立体声"
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."

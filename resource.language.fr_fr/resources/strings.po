@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-29 14:29+0000\n"
+"PO-Revision-Date: 2025-10-05 01:29+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -8114,7 +8114,7 @@ msgstr "Paramètres d'enregistrement"
 #. generic label for the electronic program guide (EPG) used in different places
 msgctxt "#19069"
 msgid "Guide"
-msgstr "Guide TV"
+msgstr "Guide"
 
 #. Label for epg grid window "jump to now" (current programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19070"
@@ -8852,7 +8852,7 @@ msgstr "Chaînes dans"
 
 msgctxt "#19222"
 msgid "Guide"
-msgstr "Guide TV"
+msgstr "Guide"
 
 #. unused?
 msgctxt "#19223"
@@ -12586,7 +12586,7 @@ msgstr "Enregistrements par titre"
 
 msgctxt "#22020"
 msgid "Guide"
-msgstr "Guide TV"
+msgstr "Guide"
 
 msgctxt "#22021"
 msgid "Minimise black bars"
@@ -18027,16 +18027,6 @@ msgctxt "#37002"
 msgid "(Director's comments 2)"
 msgstr "(Commentaires du réalisateur 2)"
 
-#. DVD short name for 1.0 channel layout
-msgctxt "#37003"
-msgid "mono"
-msgstr "mono"
-
-#. DVD short name for 2.0 channel layout
-msgctxt "#37004"
-msgid "stereo"
-msgstr "stéréo"
-
 msgctxt "#37014"
 msgid "Last used profile"
 msgstr "Dernier profil utilisé"
@@ -19927,6 +19917,14 @@ msgstr "Confirmer la suppression du fichier"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si cette option est activée, une boîte de dialogue de confirmation s'affichera lorsque les fichiers seront supprimés. Si désactivée, les fichiers seront supprimés sans confirmation de l'utilisateur."
+
+#~ msgctxt "#37003"
+#~ msgid "mono"
+#~ msgstr "mono"
+
+#~ msgctxt "#37004"
+#~ msgid "stereo"
+#~ msgstr "stéréo"
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."
