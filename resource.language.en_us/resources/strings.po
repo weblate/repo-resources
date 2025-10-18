@@ -18031,16 +18031,6 @@ msgctxt "#37002"
 msgid "(Director's comments 2)"
 msgstr "(Director's comments 2)"
 
-#. DVD short name for 1.0 channel layout
-msgctxt "#37003"
-msgid "mono"
-msgstr ""
-
-#. DVD short name for 2.0 channel layout
-msgctxt "#37004"
-msgid "stereo"
-msgstr ""
-
 msgctxt "#37014"
 msgid "Last used profile"
 msgstr "Last used profile"
