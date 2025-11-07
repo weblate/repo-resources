@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-29 14:27+0000\n"
-"Last-Translator: A B <maxtherabbit85@gmail.com>\n"
+"PO-Revision-Date: 2025-11-07 11:14+0000\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fi_fi/>\n"
 "Language: fi_fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.14\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5439,7 +5439,7 @@ msgstr "Poistetaanko profiili '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Ladataanko profiili \"{0:s}\" uudelleen?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -15285,17 +15285,17 @@ msgstr "Tässä versiossa pelejä on mahdollista pelata vain peliohjaimilla."
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr ""
+msgstr "Normaali (1:1 PAR)"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Kokonaisluku"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr ""
+msgstr "Kokonaisluku (1:1 PAR)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -19121,6 +19121,11 @@ msgctxt "#39125"
 msgid "Enable tag reading in file view"
 msgstr "Lue tagit tiedostonäkymässä"
 
+#. Label for component level debug logging setting
+msgctxt "#39126"
+msgid "Verbose logging for the [B]Bluray[/B] component"
+msgstr "Laaja lokikirjaus [B]Bluray[/B]-komponentille"
+
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
 msgstr "Käytä kaikkia paikallisia kuvatiedostoja mediakuvituksina"
@@ -19497,12 +19502,12 @@ msgstr "CC"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Käytä Starfish-dekooderia"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish on LG:n webOS-käyttöjärjestelmän laitteistodekooderi. Poista käytöstä vianselvitystä tai testausta varten."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19673,7 +19678,7 @@ msgstr "Kirjastosta ei löytynyt vastaavia elokuvia."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Lisätäänkö tästä levystä toinen versio?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19713,7 +19718,7 @@ msgstr "Haluatko varmasti poistaa lisämateriaalin \"{0:s}\"?"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Liitetäänkö toistolista elokuvan nykyiseen versioon?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"

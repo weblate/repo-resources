@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-11 09:29+0000\n"
+"PO-Revision-Date: 2025-11-07 11:14+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.1\n"
+"X-Generator: Weblate 5.14\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5035,7 +5035,7 @@ msgstr "Inställningar & filhanterare"
 
 msgctxt "#12376"
 msgid "Set as default for all media"
-msgstr "Sätt som standard för all media"
+msgstr "Ställ in som standard för allt media"
 
 msgctxt "#12377"
 msgid "This will reset any previously saved values. Are you sure?"
@@ -6493,7 +6493,7 @@ msgstr "Procent av miniatyrbilder"
 
 msgctxt "#14018"
 msgid "View options"
-msgstr "Vyalternativ"
+msgstr "Visningsalternativ"
 
 msgctxt "#14019"
 msgid "Change area code 1"
@@ -11560,7 +11560,7 @@ msgstr "Premiärdatum"
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20474"
 msgid "HDR type"
-msgstr "HDR typ"
+msgstr "HDR-typ"
 
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
@@ -12010,11 +12010,11 @@ msgstr "Ljudkanaler"
 
 msgctxt "#21445"
 msgid "Video codec"
-msgstr "Videocodec"
+msgstr "Videokodek"
 
 msgctxt "#21446"
 msgid "Audio codec"
-msgstr "Ljudcodec"
+msgstr "Ljudkodek"
 
 msgctxt "#21447"
 msgid "Audio language"
@@ -13341,7 +13341,7 @@ msgstr "Följande tillägg är inkompatibelt med denna version av Kodi och har a
 #. Progress text on splash screen
 msgctxt "#24150"
 msgid "Database migration in progress - please wait"
-msgstr "Datasbasmigrering pågår - vänta"
+msgstr "Databasmigrering pågår - vänta"
 
 #. Progress text on splash screen
 msgctxt "#24151"
@@ -16043,7 +16043,7 @@ msgstr "Växla mellan [Välj], [Spela upp] (standard), [Visa information] och [L
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
 msgid "Extract metadata information such as codec and aspect ratio from videos."
-msgstr "Extrahera metadata-information som codec och bildförhållande från videor."
+msgstr "Extrahera metadata-information som kodek och bildförhållande från videor."
 
 #. Description of setting with label #20419 "Replace file names with library titles"
 msgctxt "#36179"
@@ -18132,7 +18132,7 @@ msgstr "Föredra standard ljudströmmar"
 #. Description of setting #37040 Playback
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr "Om aktiverat väljs ljudströmmar som är flaggade som standard (och matchar föredraget språk) framför ljudströmmar med högre ljudkvalitet (antal kanaler, codec, ...)."
+msgstr "Om aktiverat väljs ljudströmmar som är flaggade som standard (och matchar föredraget språk) framför ljudströmmar med högre ljudkvalitet (antal kanaler, kodek, ...)."
 
 #. Description of setting Skip steps
 msgctxt "#37042"
@@ -19122,6 +19122,11 @@ msgstr "Utförlig loggning för komponenten [B]Tillägg[/B]"
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
 msgstr "Aktivera läsning av taggar i filvy"
+
+#. Label for component level debug logging setting
+msgctxt "#39126"
+msgid "Verbose logging for the [B]Bluray[/B] component"
+msgstr "Utförlig loggning för [B]Bluray[/B]-komponenten"
 
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
