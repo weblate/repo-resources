@@ -19121,6 +19121,11 @@ msgctxt "#39125"
 msgid "Enable tag reading in file view"
 msgstr "Прочитане на информацията от етикетите във файловия изглед"
 
+#. Label for component level debug logging setting
+msgctxt "#39126"
+msgid "Verbose logging for the [B]Bluray[/B] component"
+msgstr ""
+
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
 msgstr "Използване на локални файлове за изображения"

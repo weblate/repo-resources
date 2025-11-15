@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-10-05 01:29+0000\n"
+"PO-Revision-Date: 2025-11-07 11:14+0000\n"
 "Last-Translator: Cutter <CutterXYZ@users.noreply.github.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -8557,7 +8557,7 @@ msgstr "à"
 #. timer rule presentation string. (start-day-date|days-of-week) "from" (start-day-time|"any time") "to" (end-day-time|"any time")
 msgctxt "#19161"
 msgid "any time"
-msgstr "heure quelconque"
+msgstr "n'importe quelle heure"
 
 #. timer status textual representation
 msgctxt "#19162"
@@ -19120,6 +19120,11 @@ msgstr "Journalisation détaillée pour le [B]Modules complémentaires[/B]"
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
 msgstr "Activer la lecture de balises en vue fichier"
+
+#. Label for component level debug logging setting
+msgctxt "#39126"
+msgid "Verbose logging for the [B]Bluray[/B] component"
+msgstr ""
 
 msgctxt "#39127"
 msgid "Use all local image files as artwork"

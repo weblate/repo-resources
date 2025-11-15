@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-02-11 18:11+0000\n"
-"Last-Translator: Jakub Fabijan <jakubfabijan@tuta.io>\n"
+"PO-Revision-Date: 2025-11-07 11:13+0000\n"
+"Last-Translator: Jakub Szafranek13 Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.14\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -52,7 +52,7 @@ msgstr "Vetero"
 
 msgctxt "#9"
 msgid "Kodi media center"
-msgstr "Plurmedia centro Kodi"
+msgstr "Aŭdvidaĵa centro Kodi"
 
 #. Weather token
 msgctxt "#11"
@@ -329,7 +329,7 @@ msgstr "Vido: Aŭtomata"
 
 msgctxt "#99"
 msgid "View: Auto big"
-msgstr "Vido: Aŭtomate granda"
+msgstr "Vido: Aŭtomata grando"
 
 msgctxt "#100"
 msgid "View: Icons"
@@ -389,7 +389,7 @@ msgstr "Ĝisdatigo fiaskis"
 
 msgctxt "#114"
 msgid "Installation failed"
-msgstr "Instalado fiaskis"
+msgstr "Instalado malsukcesis"
 
 msgctxt "#115"
 msgid "Copy"
@@ -425,15 +425,15 @@ msgstr "Konfirmu forigon"
 
 msgctxt "#123"
 msgid "Would you like to copy the selected file(s)?"
-msgstr "Ĉu vi volus kopii la elektita(j)n dosiero(j)n?"
+msgstr "Ĉu vi volas kopii la elektita(j)n dosiero(j)n?"
 
 msgctxt "#124"
 msgid "Would you like to move the selected file(s)?"
-msgstr "Ĉu vi volus movi la elektita(j)n dosiero(j)n?"
+msgstr "Ĉu vi volas movi la elektita(j)n dosiero(j)n?"
 
 msgctxt "#125"
 msgid "Would you like to delete the selected file(s)?[CR]Warning - this action can't be undone!"
-msgstr "Ĉu vi volus forigi la elektita(j)n dosiero(j)n? [CR]Averto - tiu ago ne povos esti malfarota!"
+msgstr "Ĉu vi volas forigi la elektita(j)n dosiero(j)n?[CR]Averto - tiu ago ne eblos esti malfarota!"
 
 msgctxt "#126"
 msgid "Status"
@@ -494,11 +494,11 @@ msgstr "Temperaturoj:"
 
 msgctxt "#140"
 msgid "CPU:"
-msgstr "Ĉefprocesoro:"
+msgstr "CPU:"
 
 msgctxt "#141"
 msgid "GPU:"
-msgstr "Grafika procesoro:"
+msgstr "GPU:"
 
 msgctxt "#142"
 msgid "Time:"
@@ -538,15 +538,15 @@ msgstr "IP-adreso"
 
 msgctxt "#151"
 msgid "Link:"
-msgstr "Ligilo:"
+msgstr "Ligo:"
 
 msgctxt "#152"
 msgid "Half duplex"
-msgstr "Alterne direkta"
+msgstr "Duondupleksa"
 
 msgctxt "#153"
 msgid "Full duplex"
-msgstr "Plene direkta"
+msgstr "Plendupleksa"
 
 msgctxt "#154"
 msgid "Storage"
@@ -570,7 +570,7 @@ msgstr "Libera memoro"
 
 msgctxt "#159"
 msgid "No link"
-msgstr "Sen ligilo"
+msgstr "Sen ligo"
 
 msgctxt "#160"
 msgid "Free"
@@ -578,7 +578,7 @@ msgstr "Libera"
 
 msgctxt "#162"
 msgid "Tray open"
-msgstr "KD-ingo elŝovita"
+msgstr "Diskpleto elŝovita"
 
 msgctxt "#163"
 msgid "Reading"
@@ -628,10 +628,9 @@ msgctxt "#174"
 msgid "Compiled:"
 msgstr "Kompilita:"
 
-#, fuzzy
 msgctxt "#175"
 msgid "Moods"
-msgstr "Sentemoj"
+msgstr "Etosoj"
 
 msgctxt "#176"
 msgid "Styles"
@@ -690,7 +689,7 @@ msgstr "Elekti ĉiujn"
 
 msgctxt "#189"
 msgid "Scanning media information"
-msgstr "Skanado de plurmediaj informoj"
+msgstr "Skanado de informoj pri aŭdvidaĵoj"
 
 msgctxt "#190"
 msgid "Save"
@@ -723,7 +722,7 @@ msgstr "Elektu filmon:"
 
 msgctxt "#197"
 msgid "Querying {0:s} information"
-msgstr "Petado de informoj pri {0:s}"
+msgstr "Informpetado pri {0:s}"
 
 msgctxt "#198"
 msgid "Loading movie details"
@@ -731,15 +730,15 @@ msgstr "Ŝargado de detaloj pri filmo"
 
 msgctxt "#199"
 msgid "Web interface"
-msgstr "Reta interfaco"
+msgstr "Reteja interfaco"
 
 msgctxt "#200"
 msgid "Audio encoders"
-msgstr "Aŭdiaj kodiloj"
+msgstr "Sonaj kodiloj"
 
 msgctxt "#201"
 msgid "Audio decoders"
-msgstr "Aŭdiaj malkodiloj"
+msgstr "Sonaj malkodiloj"
 
 msgctxt "#202"
 msgid "Tagline"
@@ -793,7 +792,7 @@ msgstr "59.94 Hz"
 
 msgctxt "#213"
 msgid "Calibrate user interface..."
-msgstr "Kalibri fasadon..."
+msgstr "Kalibri uzantinterfacon..."
 
 #. To open window screen calibration and as window title
 msgctxt "#214"
@@ -808,10 +807,9 @@ msgctxt "#216"
 msgid "Zoom amount"
 msgstr "Zoma nivelo"
 
-#, fuzzy
 msgctxt "#217"
 msgid "Pixel ratio"
-msgstr "Pixel Ratio"
+msgstr "Bildera proporcio"
 
 msgctxt "#218"
 msgid "DVD drive"
@@ -819,7 +817,7 @@ msgstr "DVD-ingo"
 
 msgctxt "#219"
 msgid "Please insert disc"
-msgstr "Bonvole enmetu diskon"
+msgstr "Bonvolu enmeti diskon"
 
 msgctxt "#220"
 msgid "Remote share"
@@ -844,15 +842,15 @@ msgstr "Vertikala ŝanĝo"
 # empty string with id 226
 msgctxt "#227"
 msgid "Load audio CD information from online service"
-msgstr "Ŝargi informojn pri Aŭdio-KD de reta servo"
+msgstr "Ŝargi informojn pri Son-KD de interreta servo"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
-msgstr "Miksi ludliston je ŝargo"
+msgstr "Miksi ludliston post ŝargo"
 
 msgctxt "#229"
 msgid "HDD spindown time"
-msgstr "Dormetigi diskon post"
+msgstr "Dormetigi fiksitan diskon post"
 
 msgctxt "#230"
 msgid "Video filters"
@@ -861,7 +859,7 @@ msgstr "Videaj filtriloj"
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#231"
 msgid "None"
-msgstr "Neniu"
+msgstr "Nenio"
 
 msgctxt "#232"
 msgid "Point"
@@ -893,7 +891,7 @@ msgstr "Grandigo"
 
 msgctxt "#239"
 msgid "Clear playlist on finish"
-msgstr "Vakigi ludliston je fino"
+msgstr "Vakigi ludliston post fino"
 
 msgctxt "#240"
 msgid "Display mode"
@@ -937,11 +935,11 @@ msgstr "Muziko"
 
 msgctxt "#250"
 msgid "Visualisation"
-msgstr "Videbligo"
+msgstr "Sonbildigo"
 
 msgctxt "#251"
 msgid "Select destination directory"
-msgstr "Elektu celdosierujon"
+msgstr "Elektu celan dosierujon"
 
 msgctxt "#252"
 msgid "Stereo upmix"
@@ -974,7 +972,7 @@ msgstr "Ŝalti legadon de etikedoj"
 
 msgctxt "#259"
 msgid "Opening"
-msgstr "Malfermas"
+msgstr "Malfermado"
 
 msgctxt "#260"
 msgid "Shoutcast"
@@ -982,7 +980,7 @@ msgstr "Shoutcast"
 
 msgctxt "#261"
 msgid "Waiting for start..."
-msgstr "Atendas por komenco..."
+msgstr "Atendado por komenco..."
 
 msgctxt "#262"
 msgid "Scripts output"
@@ -999,7 +997,7 @@ msgstr "Registri"
 
 msgctxt "#265"
 msgid "Stop Rec."
-msgstr "Haltigi registron"
+msgstr "Haltigi registradon"
 
 msgctxt "#266"
 msgid "Sort by: Track"
@@ -1021,6 +1019,7 @@ msgctxt "#270"
 msgid "Sort by: Album"
 msgstr "Ordigi laŭ: Albumo"
 
+#, fuzzy
 msgctxt "#271"
 msgid "Top 100"
 msgstr "100 plejaj"
@@ -1028,29 +1027,27 @@ msgstr "100 plejaj"
 #. Window screen calibration: calibration from the rectangle box
 msgctxt "#272"
 msgid "Pixel ratio adjustment"
-msgstr ""
+msgstr "Ĝustigi bilderan proporcion"
 
 #. Window screen calibration: calibration by using the rectangle box
-#, fuzzy
 msgctxt "#273"
 msgid "Adjust the rectangle so it is perfectly square"
-msgstr "Change la rectangle so that it is perfectly square"
+msgstr "Ĝustigu la ortangulon, por ke ĝi estu perfekte kvadrata"
 
 #. Window screen calibration: calibration from the top-left angle
 msgctxt "#274"
 msgid "Top-Left overscan compensation"
-msgstr ""
+msgstr "Kompenso de supre dekstra ekrana redundo"
 
 #. Window screen calibration: calibration from the bottom-right angle
 msgctxt "#275"
 msgid "Bottom-Right overscan compensation"
-msgstr ""
+msgstr "Kompenso de malsupre dekstra ekrana redundo"
 
 #. Window screen calibration: calibration by using the top-left or bottom-right arrows
-#, fuzzy
 msgctxt "#276"
 msgid "Adjust the arrow to change the amount of overscan"
-msgstr "Movi la arrow to change la amount of overscan"
+msgstr "Ĝustigi la sagon por ŝanĝi la grandon de redundo"
 
 #. Window screen calibration: calibration of subtitle bar
 msgctxt "#277"
@@ -1064,15 +1061,15 @@ msgstr "Ĝustigi la strion por ŝanĝi pozicion de subtekstoj"
 
 msgctxt "#279"
 msgid "Unable to load settings"
-msgstr "Agordoj ne ŝargeblas"
+msgstr "Ne eblas ŝargi agordojn"
 
 msgctxt "#280"
 msgid "Using default settings"
-msgstr "Uzado de aprioraj agordoj"
+msgstr "Uzado de defaŭltaj agordoj"
 
 msgctxt "#281"
 msgid "Please check the XML files"
-msgstr "Bonvole kontrolu la XML-dosierojn"
+msgstr "Bonvolu kontroli la XML-dosierojn"
 
 msgctxt "#282"
 msgid "Found {0:d} items"
@@ -1089,7 +1086,7 @@ msgstr "Neniu rezulto trovita"
 
 msgctxt "#285"
 msgid "Preferred audio language"
-msgstr "Preferata aŭdia lingvo"
+msgstr "Preferata sona lingvo"
 
 msgctxt "#286"
 msgid "Preferred subtitle language"
@@ -1108,18 +1105,17 @@ msgctxt "#289"
 msgid "Size"
 msgstr "Grando"
 
-#, fuzzy
 msgctxt "#290"
 msgid "Dynamic range compression"
-msgstr "Dynamic Range Compression"
+msgstr "Densigo de dinamika amplekso"
 
 msgctxt "#291"
 msgid "Video"
-msgstr "Video"
+msgstr "Videaĵo"
 
 msgctxt "#292"
 msgid "Audio"
-msgstr "Aŭdio"
+msgstr "Sono"
 
 msgctxt "#293"
 msgid "Browse for subtitles"
@@ -1131,11 +1127,11 @@ msgstr "Krei legosignon"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
-msgstr "Vakigi legosignojn"
+msgstr "Viŝi legosignojn"
 
 msgctxt "#297"
 msgid "Audio offset"
-msgstr "Aŭdia malfruigo"
+msgstr "Sona malfruigo"
 
 msgctxt "#298"
 msgid "Bookmarks"
@@ -1171,16 +1167,15 @@ msgctxt "#305"
 msgid "Enabled"
 msgstr "Ŝaltita"
 
-#, fuzzy
 msgctxt "#306"
 msgid "Non-interleaved"
-msgstr "Non-Interleaved"
+msgstr "Nealterne"
 
 #. Select option for the setting "Preferred audio language".
 #. Will prefer the stream marked as "default" if available.
 msgctxt "#307"
 msgid "Media default"
-msgstr "Defaŭlta por plurmedioj"
+msgstr "Defaŭlta por aŭdvidaĵoj"
 
 #. Select option for the setting "Preferred audio language".
 #. Will prefer the stream marked as "original" if available.
@@ -1190,12 +1185,12 @@ msgstr "Originala lingvo"
 
 msgctxt "#309"
 msgid "User interface language"
-msgstr "Fasada lingvo"
+msgstr "Uzantinterfaca lingvo"
 
 #. Setting in international settings
 msgctxt "#310"
 msgid "Virtual keyboard layouts"
-msgstr "Klavararanĝoj de virtuala klavaro"
+msgstr "Aranĝoj de virtuala klavaro"
 
 #. Keyboard layout name e.g. "English QWERTY"
 msgctxt "#311"
@@ -1209,11 +1204,11 @@ msgstr "(0=aŭtomata)"
 #. generic "cleaning database" label used in different places
 msgctxt "#313"
 msgid "Cleaning database"
-msgstr "Purigas datumbazon"
+msgstr "Datumbaza purigado"
 
 msgctxt "#314"
 msgid "Preparing..."
-msgstr "Preparas..."
+msgstr "Preparado..."
 
 msgctxt "#315"
 msgid "Database error"
@@ -1221,71 +1216,71 @@ msgstr "Datumbaza eraro"
 
 msgctxt "#316"
 msgid "Searching songs..."
-msgstr "Serĉas kantojn..."
+msgstr "Serĉado de kantoj..."
 
 msgctxt "#317"
 msgid "Cleaned database successfully"
-msgstr "Purigis datumbazon sukcese"
+msgstr "Datumbazo purigita sukcese"
 
 msgctxt "#318"
 msgid "Cleaning songs..."
-msgstr "Purigas kantojn..."
+msgstr "Purigado de kantoj..."
 
 msgctxt "#319"
 msgid "Error cleaning songs"
-msgstr "Eraro purigante kantojn"
+msgstr "Eraris purigante kantojn"
 
 msgctxt "#320"
 msgid "Cleaning artists..."
-msgstr "Purigas artistojn..."
+msgstr "Purigado de artistoj..."
 
 msgctxt "#321"
 msgid "Error cleaning artists"
-msgstr "Eraro purigante artistojn"
+msgstr "Eraris purigante artistojn"
 
 msgctxt "#322"
 msgid "Cleaning genres, roles etc...."
-msgstr "Purigas ĝenrojn, rolojn ktp..."
+msgstr "Purigado de ĝenroj, roloj ktp...."
 
 msgctxt "#323"
 msgid "Error cleaning genres, roles etc."
-msgstr "Eraro purigante ĝenrojn, rolojn ktp."
+msgstr "Eraris purigante ĝenrojn, rolojn ktp."
 
 msgctxt "#324"
 msgid "Cleaning paths..."
-msgstr "Purigas vojojn..."
+msgstr "Purigado de vojoj..."
 
 msgctxt "#325"
 msgid "Error cleaning paths"
-msgstr "Eraro purigante vojojn"
+msgstr "Eraris purigante vojojn"
 
 msgctxt "#326"
 msgid "Cleaning albums..."
-msgstr "Purigas albumojn..."
+msgstr "Purigado de albumoj..."
 
 msgctxt "#327"
 msgid "Error cleaning albums"
-msgstr "Eraro purigante albumojn"
+msgstr "Eraris purigante albumojn"
 
 msgctxt "#328"
 msgid "Writing changes..."
-msgstr "Skribas ŝanĝojn..."
+msgstr "Skribado de ŝanĝoj..."
 
 msgctxt "#329"
 msgid "Error writing changes"
-msgstr "Eraro skribante ŝanĝojn"
+msgstr "Eraris skribante ŝanĝojn"
 
 msgctxt "#330"
 msgid "This may take some time..."
-msgstr "Ĉi tio daŭregos..."
+msgstr "Ĉi tio bezonos iom da tempo..."
 
 msgctxt "#331"
 msgid "Compressing database..."
-msgstr "Kompaktigas datumbazon..."
+msgstr "Datumbaza kompaktigado..."
 
 msgctxt "#332"
 msgid "Error compressing database"
-msgstr "Eraro kompaktigante datumbazon"
+msgstr "Eraris kompaktigante datumbazon"
 
 msgctxt "#333"
 msgid "Do you want to clean the library?"
@@ -1299,10 +1294,9 @@ msgctxt "#335"
 msgid "Start"
 msgstr "Komenci"
 
-#, fuzzy
 msgctxt "#336"
 msgid "Framerate conversion"
-msgstr "Framerate Conversion"
+msgstr "Filmer-rapida konverto"
 
 msgctxt "#337"
 msgid "Output configuration"
@@ -1328,10 +1322,9 @@ msgctxt "#342"
 msgid "Movies"
 msgstr "Filmoj"
 
-#, fuzzy
 msgctxt "#343"
 msgid "Adjust framerate"
-msgstr "Adjust Framerate"
+msgstr "Ĝustigi filmer-rapidon"
 
 msgctxt "#344"
 msgid "Actors"
@@ -1349,9 +1342,10 @@ msgctxt "#347"
 msgid "DTS-HD capable receiver"
 msgstr "DTS-HD-kapabla ricevilo"
 
+#, fuzzy
 msgctxt "#348"
 msgid "Allow passthrough"
-msgstr ""
+msgstr "Permesi trapason"
 
 msgctxt "#349"
 msgid "TrueHD capable receiver"
@@ -1361,18 +1355,17 @@ msgctxt "#350"
 msgid "Programs"
 msgstr "Programoj"
 
-#, fuzzy
 msgctxt "#351"
 msgid "Off"
-msgstr "Ne"
+msgstr "Malŝalti"
 
 msgctxt "#352"
 msgid "Dim"
-msgstr "Malheligi"
+msgstr "Malheligo"
 
 msgctxt "#353"
 msgid "Black"
-msgstr "Nigra"
+msgstr "Nigro"
 
 msgctxt "#354"
 msgid "Matrix trails"
@@ -1387,10 +1380,9 @@ msgctxt "#356"
 msgid "Screensaver mode"
 msgstr "Ekrankurtena reĝimo"
 
-#, fuzzy
 msgctxt "#357"
 msgid "Shutdown function timer"
-msgstr "Shutdown Idle Timeout"
+msgstr "Prokrastilo de elŝalto"
 
 msgctxt "#358"
 msgid "All albums"
@@ -1404,10 +1396,9 @@ msgctxt "#360"
 msgid "Screensaver"
 msgstr "Ekrankurteno"
 
-#, fuzzy
 msgctxt "#361"
 msgid "Recursive slideshow"
-msgstr "Recursive Slideshow"
+msgstr "Rikura bildoprezento"
 
 msgctxt "#362"
 msgid "Screensaver dim level"
@@ -1477,10 +1468,9 @@ msgid "Rain"
 msgstr "Pluvo"
 
 #. Weather token
-#, fuzzy
 msgctxt "#377"
 msgid "Light"
-msgstr "KROTALOJ"
+msgstr "Malforta"
 
 #. Weather token
 msgctxt "#378"
@@ -1493,10 +1483,9 @@ msgid "PM"
 msgstr "PTM"
 
 #. Weather token
-#, fuzzy
 msgctxt "#380"
 msgid "Showers"
-msgstr "Showers"
+msgstr "Ŝaŭroj"
 
 #. Weather token
 msgctxt "#381"
@@ -1506,7 +1495,7 @@ msgstr "Iomete"
 #. Weather token
 msgctxt "#382"
 msgid "Scattered"
-msgstr ""
+msgstr "Sporada"
 
 #. Weather token
 msgctxt "#383"
@@ -1516,13 +1505,12 @@ msgstr "Vento"
 #. Weather token
 msgctxt "#384"
 msgid "Strong"
-msgstr "Intensa"
+msgstr "Forta"
 
 #. Weather token
-#, fuzzy
 msgctxt "#385"
 msgid "Fair"
-msgstr "Fair"
+msgstr "Bonvetere"
 
 #. Weather token
 msgctxt "#386"
@@ -1540,34 +1528,29 @@ msgid "Early"
 msgstr "Frua"
 
 #. Weather token
-#, fuzzy
 msgctxt "#389"
 msgid "Shower"
-msgstr "Shower"
+msgstr "Ŝaŭro"
 
 #. Weather token
-#, fuzzy
 msgctxt "#390"
 msgid "Flurries"
-msgstr "Flurries"
+msgstr "Neĝa ŝaŭro"
 
 #. Weather token
-#, fuzzy
 msgctxt "#391"
 msgid "Low"
-msgstr "Malnobla"
+msgstr "Malalta"
 
 #. Weather token
-#, fuzzy
 msgctxt "#392"
 msgid "Medium"
-msgstr "Mezgrada"
+msgstr "Mezalta"
 
 #. Weather token
-#, fuzzy
 msgctxt "#393"
 msgid "High"
-msgstr "Nobla"
+msgstr "Alta"
 
 #. Weather token
 msgctxt "#394"
@@ -1575,19 +1558,17 @@ msgid "Fog"
 msgstr "Nebulo"
 
 #. Weather token
-#, fuzzy
 msgctxt "#395"
 msgid "Haze"
-msgstr "Haze"
+msgstr "Suna nebulo"
 
 msgctxt "#396"
 msgid "Select location"
 msgstr "Elekti lokon"
 
-#, fuzzy
 msgctxt "#397"
 msgid "Refresh time"
-msgstr "Refresh Time"
+msgstr "Aktualiga horo"
 
 msgctxt "#398"
 msgid "Temperature units"
@@ -1605,24 +1586,21 @@ msgctxt "#401"
 msgid "Temp"
 msgstr "Temperaturo"
 
-#, fuzzy
 msgctxt "#402"
 msgid "Feels like"
-msgstr "Feels Like"
+msgstr "Sentata"
 
-#, fuzzy
 msgctxt "#403"
 msgid "UV index"
-msgstr "UV Index"
+msgstr "UV-indekso"
 
 msgctxt "#404"
 msgid "Wind"
 msgstr "Vento"
 
-#, fuzzy
 msgctxt "#405"
 msgid "Dew point"
-msgstr "Dew Point"
+msgstr "Rosopunkto"
 
 msgctxt "#406"
 msgid "Humidity"
@@ -1630,40 +1608,35 @@ msgstr "Humideco"
 
 msgctxt "#407"
 msgid "Hardware keyboard layouts"
-msgstr ""
+msgstr "Aranĝoj de fizika klavaro"
 
-#, fuzzy
 msgctxt "#409"
 msgid "Defaults"
-msgstr "Standard"
+msgstr "Defaŭltoj"
 
-#, fuzzy
 msgctxt "#410"
 msgid "Accessing weather service"
-msgstr "Accessing Wealar.com"
+msgstr "Atingado de vetera servo"
 
-#, fuzzy
 msgctxt "#411"
 msgid "Getting weather for:"
-msgstr "Getting Wealar For:"
+msgstr "Akirado de vetero por:"
 
-#, fuzzy
 msgctxt "#412"
 msgid "Unable to get weather data"
-msgstr "Unable to get wealar data"
+msgstr "Ne eblas akiri veteran datumon"
 
 msgctxt "#413"
 msgid "Manual"
 msgstr "Permane"
 
-#, fuzzy
 msgctxt "#414"
 msgid "No review for this album"
-msgstr "Ne review for this albumo"
+msgstr "Neniu recenzo por tiu albumo"
 
 msgctxt "#415"
 msgid "Downloading thumbnail..."
-msgstr "Elŝutas miniaturon..."
+msgstr "Elŝutado de miniaturo..."
 
 msgctxt "#417"
 msgid "View: Big icons"
@@ -1679,34 +1652,31 @@ msgstr "Alta"
 
 msgctxt "#420"
 msgid "Best match"
-msgstr ""
+msgstr "Plej bona kongruo"
 
 msgctxt "#421"
 msgid "Keep audio device alive"
-msgstr "Vivtenu aŭdiaparaton"
+msgstr "Vivtenu sonan aparaton"
 
 msgctxt "#422"
 msgid "Delete album information"
-msgstr ""
+msgstr "Forigi informojn pri albumo"
 
-#, fuzzy
 msgctxt "#423"
 msgid "Delete CD information"
-msgstr "Forviŝi CDDB Info"
+msgstr "Forigi informojn pri KD"
 
 msgctxt "#424"
 msgid "Select"
 msgstr "Elekti"
 
-#, fuzzy
 msgctxt "#425"
 msgid "No album information found"
-msgstr "No albumoinfo found."
+msgstr "Neniu informo pri albumo trovita"
 
-#, fuzzy
 msgctxt "#426"
 msgid "No CD information found"
-msgstr "No CDDB info found."
+msgstr "Neniu informo pri KD trovita"
 
 msgctxt "#427"
 msgid "Disc"
@@ -1714,53 +1684,50 @@ msgstr "Disko"
 
 msgctxt "#428"
 msgid "Insert correct CD / DVD"
-msgstr ""
+msgstr "Enmetu ĝustan diskon KD / DVD"
 
-#, fuzzy
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Plaĉi insert la following KD"
+msgstr "Bonvolu enmeti la jenan diskon:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
 msgstr "Ordigi laŭ: DVD#"
 
-#, fuzzy
 msgctxt "#431"
 msgid "No cache"
-msgstr "No Cache"
+msgstr "Sen kaŝmemoro"
 
 msgctxt "#432"
 msgid "Remove movie from library"
-msgstr "Forigi filmon de biblioteko"
+msgstr "Forigi filmon el biblioteko"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr "Ĉu vi vere volus forigi '{0:s}' de biblioteko?"
+msgstr "Ĉu vi vere volas forigi '{0:s}' el biblioteko?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
 msgid "From {0:s} at {1:d} {2:s}"
-msgstr ""
+msgstr "El {0:s} je {1:d} {2:s}"
 
 #. Headline of a dialog that pops up when a user tries to play a video that is located on an optical disc (Blu-ray, DVD) but the current KODI device doesn't have the according drive
 msgctxt "#435"
 msgid "No optical disc drive detected"
-msgstr "Ne detektis lumdisklegilon"
+msgstr "Neniu lumdisklegilo detektita"
 
 #. Message body of a dialog that pops up when a user tries to play a video that is located on an optical disc (Blu-ray, DVD) but the current KODI device doesn't have the according drive
 msgctxt "#436"
 msgid "This video is stored on an optical disc (e.g. DVD, Blu-ray) and cannot be played as your device does not have an appropriate drive."
-msgstr ""
+msgstr "Tiu videaĵo estas konservita sur lumdisko (ekz. DVD, Blu-ray) kaj ne eblas esti ludita, ĉar via aparato ne havas konvenan diskingon."
 
-#, fuzzy
 msgctxt "#437"
 msgid "Removable disk"
-msgstr "Tempo-amplekso:"
+msgstr "Demetebla disko"
 
 msgctxt "#438"
 msgid "Opening file"
-msgstr "Malfermas dosieron"
+msgstr "Malfermado de dosiero"
 
 msgctxt "#439"
 msgid "Cache"
@@ -1788,7 +1755,7 @@ msgstr "Videaĵo"
 
 msgctxt "#445"
 msgid "Audio"
-msgstr "Aŭdio"
+msgstr "Sono"
 
 msgctxt "#446"
 msgid "DVD"
@@ -1834,14 +1801,13 @@ msgctxt "#456"
 msgid "Mode"
 msgstr "Reĝimo"
 
-#, fuzzy
 msgctxt "#457"
 msgid "Switch view"
-msgstr "Switch Vido"
+msgstr "Ŝanĝi vidon"
 
 msgctxt "#458"
 msgid "Limit sampling rate (kHz)"
-msgstr ""
+msgstr "Limigi specimenrapidon (kHz)"
 
 msgctxt "#459"
 msgid "Subs"
@@ -1849,12 +1815,11 @@ msgstr "Subtekstoj"
 
 msgctxt "#460"
 msgid "Audio stream"
-msgstr "Aŭdia fluo"
+msgstr "Sona fluo"
 
-#, fuzzy
 msgctxt "#461"
 msgid "[active]"
-msgstr "[active]"
+msgstr "[aktiva]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
@@ -1874,31 +1839,27 @@ msgstr "Kontrasto"
 
 msgctxt "#466"
 msgid "Gamma"
-msgstr "Gama"
+msgstr "Gamo"
 
-#, fuzzy
 msgctxt "#467"
 msgid "Type"
-msgstr "Type"
+msgstr "Tipo"
 
-#, fuzzy
 msgctxt "#468"
 msgid "Move the bar to change the OSD position"
-msgstr "Movi la bar to change la osd position"
+msgstr "Movi la strion por ŝanĝi la pozicion de surekranaj indikiloj"
 
-#, fuzzy
 msgctxt "#469"
 msgid "OSD position"
-msgstr "OSD Position"
+msgstr "Pozicio de surekranaj indikiloj"
 
 msgctxt "#470"
 msgid "Credits"
 msgstr "Dankoj"
 
-#, fuzzy
 msgctxt "#474"
 msgid "Off"
-msgstr "Ne"
+msgstr "Malŝaltita"
 
 msgctxt "#475"
 msgid "Music only"
@@ -1906,16 +1867,15 @@ msgstr "Nur muziko"
 
 msgctxt "#476"
 msgid "Music & video"
-msgstr "Muziko & videaĵoj"
+msgstr "Muziko kaj videaĵoj"
 
 msgctxt "#477"
 msgid "Unable to load playlist"
-msgstr "Ne povas ŝargi ludliston"
+msgstr "Ne eblas ŝargi ludliston"
 
-#, fuzzy
 msgctxt "#478"
 msgid "OSD"
-msgstr "OSD"
+msgstr "Sur-ekranaj indikiloj"
 
 msgctxt "#479"
 msgid "Skin & language"
@@ -1925,10 +1885,9 @@ msgctxt "#480"
 msgid "Appearance"
 msgstr "Aspekto"
 
-#, fuzzy
 msgctxt "#481"
 msgid "Audio options"
-msgstr "Audio Options"
+msgstr "Sonaj opcioj"
 
 msgctxt "#482"
 msgid "About Kodi"
@@ -1958,19 +1917,18 @@ msgctxt "#491"
 msgid "- Use big icons"
 msgstr "- Uzi grandajn piktogramojn"
 
-#, fuzzy
 msgctxt "#492"
 msgid "Resize VobSubs"
-msgstr "Reamplekso Vobsubs"
+msgstr "Aligrandigi VobSubs-subtekstojn"
 
 msgctxt "#493"
 msgid "Advanced options (experts only!)"
-msgstr ""
+msgstr "Altnivelaj opcioj (nur por spertuloj!)"
 
 #, fuzzy
 msgctxt "#494"
 msgid "Overall audio headroom"
-msgstr "Overĉiom Audio Headroom"
+msgstr "Overall audio headroom"
 
 msgctxt "#495"
 msgid "Upscale videos to GUI resolution"
@@ -1980,25 +1938,21 @@ msgctxt "#496"
 msgid "Calibration"
 msgstr "Alĝustigo"
 
-#, fuzzy
 msgctxt "#497"
 msgid "Show file extensions"
-msgstr "Hide Media Extensions"
+msgstr "Montri dosiersufiksojn"
 
-#, fuzzy
 msgctxt "#498"
 msgid "Sort by: Type"
-msgstr "ordigi je: Type"
+msgstr "Ordigi laŭ: Tipo"
 
-#, fuzzy
 msgctxt "#499"
 msgid "Unable to connect to online lookup service"
-msgstr "Unable to connect to www.ĉiommuziko.com"
+msgstr "Ne eblas konekti al surreta elserĉa servo"
 
-#, fuzzy
 msgctxt "#500"
 msgid "Downloading album information failed"
-msgstr "Downloading albumo info failed"
+msgstr "Elŝuto de albumaj informoj malsukcesis"
 
 #, fuzzy
 msgctxt "#501"
@@ -2020,12 +1974,12 @@ msgstr "Malplena"
 #. label for library update progress bar when scanning media files
 msgctxt "#505"
 msgid "Loading media information from files..."
-msgstr ""
+msgstr "Ŝargado de informoj pri aŭdvidaĵoj el dosieroj..."
 
 #. label for library update progress bar when checking for new or changed media files
 msgctxt "#506"
 msgid "Checking media files..."
-msgstr ""
+msgstr "Kontrolado de aŭdvidaĵaj dosieroj..."
 
 msgctxt "#507"
 msgid "Sort by: Usage"
@@ -2034,12 +1988,11 @@ msgstr "Ordigi laŭ: Uzo"
 # empty strings from id 508 to 509
 msgctxt "#510"
 msgid "Enable visualisations"
-msgstr ""
+msgstr "Ŝalti sonbildigojn"
 
-#, fuzzy
 msgctxt "#511"
 msgid "Enable video mode switching"
-msgstr "Ŝalti ŝanĝon de videomodo"
+msgstr "Ebligi ŝanĝado de videa reĝimo"
 
 msgctxt "#512"
 msgid "Startup window"
@@ -2051,7 +2004,7 @@ msgstr "Hejma fenestro"
 
 msgctxt "#514"
 msgid "Manual settings"
-msgstr "Manaj agordoj"
+msgstr "Permanaj agordoj"
 
 msgctxt "#515"
 msgid "Genre"
@@ -2070,10 +2023,9 @@ msgid "Launch in..."
 msgstr "Lanĉi en..."
 
 #. Node title for compilation albums, plural of #204
-#, fuzzy
 msgctxt "#521"
 msgid "Compilations"
-msgstr "Compilations"
+msgstr "Kompiloj"
 
 msgctxt "#522"
 msgid "Remove source"
@@ -2081,7 +2033,7 @@ msgstr "Forigi fonton"
 
 msgctxt "#523"
 msgid "Switch media"
-msgstr "Ŝanĝi plurmediojn"
+msgstr "Ŝanĝi aŭdvidaĵojn"
 
 msgctxt "#524"
 msgid "Select playlist"
@@ -2097,7 +2049,7 @@ msgstr "Aldoni al ludlisto"
 
 msgctxt "#527"
 msgid "Manually add to library"
-msgstr "Mane aldoni al biblioteko"
+msgstr "Permane aldoni al biblioteko"
 
 msgctxt "#528"
 msgid "Enter title"
@@ -2109,7 +2061,7 @@ msgstr "Eraro: Duobla titolo"
 
 msgctxt "#530"
 msgid "Select genre"
-msgstr "Elekti ĝenron"
+msgstr "Elektu ĝenron"
 
 msgctxt "#531"
 msgid "New genre"
@@ -2117,7 +2069,7 @@ msgstr "Nova ĝenro"
 
 msgctxt "#532"
 msgid "Manual addition"
-msgstr "Mana aldono"
+msgstr "Permana aldono"
 
 msgctxt "#533"
 msgid "Enter genre"
@@ -2165,11 +2117,11 @@ msgstr "DVD"
 
 msgctxt "#544"
 msgid "Media info"
-msgstr "Pri plurmedioj"
+msgstr "Pri aŭdvidaĵoj"
 
 msgctxt "#545"
 msgid "Audio output device"
-msgstr "Aŭdia eligilo"
+msgstr "Sona eliga aparato"
 
 msgctxt "#546"
 msgid "Passthrough output device"
@@ -2177,7 +2129,7 @@ msgstr ""
 
 msgctxt "#547"
 msgid "No biography for this artist"
-msgstr ""
+msgstr "Neniu biografio por tiu artisto"
 
 msgctxt "#548"
 msgid "Downmix multichannel audio to stereo"
@@ -19590,6 +19542,11 @@ msgstr ""
 msgctxt "#39125"
 msgid "Enable tag reading in file view"
 msgstr "Ŝalti etikeda legado en dosiera vido"
+
+#. Label for component level debug logging setting
+msgctxt "#39126"
+msgid "Verbose logging for the [B]Bluray[/B] component"
+msgstr ""
 
 # empty string with id 39126
 msgctxt "#39127"
