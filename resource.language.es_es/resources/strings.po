@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-07 11:14+0000\n"
+"PO-Revision-Date: 2025-12-01 13:31+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -19508,6 +19508,16 @@ msgstr "Usar decodificador Starfish"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
 msgstr "Starfish es un decodificador de vídeo para WebOS de LG. Desactívese para resolución de problemas o pruebas."
+
+#. Title of Dolby Vision level 5 metadata zero override setting
+msgctxt "#39209"
+msgid "Dolby Vision: Override level 5 metadata to zero"
+msgstr "Dolby Vision: Sobreescribir metadata de nivel 5 a ceros"
+
+#. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
+msgctxt "#39210"
+msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
+msgstr "Si se activa, los archivos Dolby Vision tendrán una metada de nivel 5 (área activa) sobreescrita a ceros. Actívalo si tu pantalla tiene problemas con el recorte de imágenes en la reproducción de Dolby Vision."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
