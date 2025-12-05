@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-07 11:14+0000\n"
+"PO-Revision-Date: 2025-12-01 00:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1269,7 +1269,7 @@ msgstr "Fel vid sparande av ändringar"
 
 msgctxt "#330"
 msgid "This may take some time..."
-msgstr "Detta kan ta ett tag..."
+msgstr "Detta kan ta en stund..."
 
 msgctxt "#331"
 msgid "Compressing database..."
@@ -11615,7 +11615,7 @@ msgstr "Version {0:s}"
 
 msgctxt "#21340"
 msgid "Auto-update"
-msgstr "Autouppdatera"
+msgstr "Automatisk uppdatering"
 
 msgctxt "#21341"
 msgid "No updates available"
@@ -12966,7 +12966,7 @@ msgstr "Aktiverade tillägg"
 
 msgctxt "#24063"
 msgid "Auto update"
-msgstr "Autouppdatera"
+msgstr "Automatisk uppdatering"
 
 #. Used as an event log description for add-ons that have been installed/enabled
 msgctxt "#24064"
@@ -19510,6 +19510,16 @@ msgstr "Använd Starfish-avkodaren"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
 msgstr "Starfish är hårdvaruvideoavkodaren för LG:s webOS. Inaktivera den för felsökning eller testning."
+
+#. Title of Dolby Vision level 5 metadata zero override setting
+msgctxt "#39209"
+msgid "Dolby Vision: Override level 5 metadata to zero"
+msgstr "Dolby Vision: Åsidosätt metadata på nivå 5 till noll"
+
+#. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
+msgctxt "#39210"
+msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
+msgstr "Om denna funktion är aktiverad kommer metadata för nivå 5 (aktivt område) i Dolby Vision-filer att ersättas med nollförskjutningar. Aktivera denna funktion om din skärm har problem med felaktigt beskärda bilder vid uppspelning av Dolby Vision."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

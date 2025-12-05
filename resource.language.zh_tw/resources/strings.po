@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-20 07:11+0000\n"
+"PO-Revision-Date: 2025-11-24 10:13+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Traditional Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hant/>\n"
 "Language: zh_tw\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -19133,7 +19133,7 @@ msgstr "在檔案檢視模式中開啟標籤讀取"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "[B]藍光[/B]設備的詳細日誌"
 
 # empty string with id 39126
 msgctxt "#39127"
@@ -19518,6 +19518,16 @@ msgstr "使用 Starfish 解碼器"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
 msgstr "Starfish 是適用於 LG webOS 系統的硬體影像解碼器。在需要疑難排解或測試時，請將其關閉。"
+
+#. Title of Dolby Vision level 5 metadata zero override setting
+msgctxt "#39209"
+msgid "Dolby Vision: Override level 5 metadata to zero"
+msgstr ""
+
+#. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
+msgctxt "#39210"
+msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
+msgstr ""
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
