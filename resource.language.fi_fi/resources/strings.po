@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-05-29 14:27+0000\n"
+"PO-Revision-Date: 2025-12-11 17:13+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main-matrix/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -32,7 +32,7 @@ msgstr "Videot"
 
 msgctxt "#4"
 msgid "TV guide"
-msgstr "Ohjelmaopas"
+msgstr "Television ohjelmaopas"
 
 msgctxt "#5"
 msgid "Settings"
@@ -5980,7 +5980,7 @@ msgstr "Upotetut kuvat"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
-msgstr "Upotettu fanitaide"
+msgstr "Upotettu fanart"
 
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
@@ -10740,11 +10740,11 @@ msgstr "Piilota kausinäkymä"
 
 msgctxt "#20413"
 msgid "Get fanart"
-msgstr "Fanitaide"
+msgstr "Nouda fanart-kuvia"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
-msgstr "Näytä fanitaide video- ja musiikkikirjastoissa"
+msgstr "Näytä fanart-kuvat video- ja musiikkikirjastoissa"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
@@ -10789,7 +10789,7 @@ msgstr "Ei"
 
 msgctxt "#20425"
 msgid "Fanart slideshow"
-msgstr "Fanikuvien kuvaesitys"
+msgstr "Fanart-kuvaesitys"
 
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20426"
@@ -10813,7 +10813,7 @@ msgstr "Erillisinä"
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20430"
 msgid "Export thumbnails and fanart?"
-msgstr "Tallennetaanko pienoiskuvat ja fanitaide?"
+msgstr "Viedäänkö pienois- ja fanart-kuvat?"
 
 msgctxt "#20431"
 msgid "Overwrite old files?"
@@ -10846,19 +10846,19 @@ msgstr "Valitse fanart-kuva"
 
 msgctxt "#20438"
 msgid "Local fanart"
-msgstr "Paikallinen fanitaide"
+msgstr "Paikallinen fanart"
 
 msgctxt "#20439"
 msgid "No fanart"
-msgstr "Ei fanitaidetta"
+msgstr "Ei fanart-kuvaa"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "Nykyinen fanitaide"
+msgstr "Nykyinen fanart"
 
 msgctxt "#20441"
 msgid "Remote fanart"
-msgstr "Ulkoinen fanitaide"
+msgstr "Ulkoinen fanart"
 
 msgctxt "#20442"
 msgid "Change content"
@@ -17623,7 +17623,7 @@ msgstr "Vietävät tietotyypit"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr "Sisällytä mediakuvitukset kuten pienoiskuvat ja fanitaide"
+msgstr "Sisällytä mediakuvitukset, kuten pienois- ja fanart-kuvat"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
