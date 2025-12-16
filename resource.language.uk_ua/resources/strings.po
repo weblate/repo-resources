@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-07 11:14+0000\n"
+"PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4845,6 +4845,11 @@ msgstr "Відтворити з початку"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Продовжити з {0:s}"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr "Відновити з"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11573,6 +11578,11 @@ msgstr "Має кілька версій"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Має додаткові відеоматеріали"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Створити новий профіль в окремому каталозі?"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19536,12 +19546,12 @@ msgstr "Starfish — це апаратний декодер відео для We
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: замінити метадані рівня 5 на нулі"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "Якщо увімкнено, метадані рівня 5 (активна область) в файлах Dolby Vision будуть замінені на нульові зсуви. Увімкніть, якщо на екрані зображення неправильно обрізається під час відтворення Dolby Vision."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

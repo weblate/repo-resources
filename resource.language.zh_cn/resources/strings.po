@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-07 11:14+0000\n"
+"PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4843,6 +4843,11 @@ msgstr "从头播放"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "从 {0:s} 继续播放"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr "从...继续"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11569,6 +11574,11 @@ msgstr "有多个版本"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "有额外的视频"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "是否要在自定义目录中创建新配置文件？"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19512,12 +19522,12 @@ msgstr "Starfish 是适用于 LG webOS 系统的硬件视频解码器。若需�
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "杜比视界：将 L5 元数据强制设为零"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "启用后，杜比视界文件的 L5 (活动区域)元数据将被强制覆盖为零偏移。如果您的显示器在播放杜比视界内容时出现图像裁剪错误问题，请启用此选项。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
