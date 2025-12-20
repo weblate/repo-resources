@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-01 00:51+0000\n"
+"PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4844,6 +4844,11 @@ msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Jatka kohdasta {0:s}"
 
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr "Jatka kohdasta"
+
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
 msgctxt "#12308"
@@ -6324,7 +6329,7 @@ msgstr "Upotettu mediakuvitus"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
-msgstr "Upotettu fanitaide"
+msgstr "Upotettu fanart"
 
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
@@ -11301,7 +11306,7 @@ msgstr "Piilota sarjojen kaudet"
 
 msgctxt "#20413"
 msgid "Get fanart"
-msgstr "Nouda fanart-kuvat"
+msgstr "Nouda fanart-kuvia"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
@@ -11410,7 +11415,7 @@ msgstr "Valitse fanart-kuva"
 
 msgctxt "#20438"
 msgid "Local fanart"
-msgstr "Paikallinen fanart-kuva"
+msgstr "Paikallinen fanart"
 
 msgctxt "#20439"
 msgid "No fanart"
@@ -11418,11 +11423,11 @@ msgstr "Ei fanart-kuvaa"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "Nykyinen fanart-kuva"
+msgstr "Nykyinen fanart"
 
 msgctxt "#20441"
 msgid "Remote fanart"
-msgstr "Etäsijainnin fanart-kuva"
+msgstr "Ulkoinen fanart"
 
 msgctxt "#20442"
 msgid "Change content"
@@ -11569,6 +11574,11 @@ msgstr "Sisältää useita versioita"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Sisältää lisämateriaaleja"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Haluatko luoda uuden profiilin itse valitsemaasi kansioon?"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19512,7 +19522,7 @@ msgstr "Starfish on LG:n webOS-käyttöjärjestelmän laitteistodekooderi. Poist
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Korvaa tason 5 metatiedot nollalla"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"

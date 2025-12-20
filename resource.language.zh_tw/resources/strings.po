@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-24 10:13+0000\n"
+"PO-Revision-Date: 2025-12-06 09:13+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Traditional Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hant/>\n"
 "Language: zh_tw\n"
@@ -4845,6 +4845,11 @@ msgstr "從頭開始播放"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "從 {0:s} 繼續"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr ""
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11571,6 +11576,11 @@ msgstr "有多個版本"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "有額外的影片"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr ""
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19522,12 +19532,12 @@ msgstr "Starfish 是適用於 LG webOS 系統的硬體影像解碼器。在需�
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "杜比視界：強制將Level 5 元數據設為零"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "開啟後，杜比視界檔案的Level 5(活動區域)元數據將會重置為零偏移。若您的顯示器在播放杜比視界影片時出現影像裁切相關問題，請開啟此選項。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

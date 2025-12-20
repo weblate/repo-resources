@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-01 00:51+0000\n"
+"PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4843,6 +4843,11 @@ msgstr "Riproduci dall'inizio"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Riprendi da {0:s}"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr "Riprendi da"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11569,6 +11574,11 @@ msgstr "Ha più versioni"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Ha contenuti video extra"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Vuoi creare il nuovo profilo in una cartella personalizzata?"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"

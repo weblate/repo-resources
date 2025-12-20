@@ -4881,6 +4881,11 @@ msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr ""
 
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr ""
+
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
 msgctxt "#12308"
@@ -11654,6 +11659,11 @@ msgstr ""
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
+msgstr ""
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
 msgstr ""
 
 msgctxt "#21330"

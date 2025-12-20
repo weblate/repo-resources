@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-11 09:29+0000\n"
+"PO-Revision-Date: 2025-12-11 11:13+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ga_ie/>\n"
 "Language: ga_ie\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.13.1\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
 # [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
@@ -4944,6 +4944,11 @@ msgstr "Seinn ón tús"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Aosaigh ó {0:s}"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr ""
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11801,6 +11806,11 @@ msgstr "Tá leaganacha iomadúla ann"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Tá breiseáin físe ann"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Ar mhaith leat an phróifíl nua a chruthú in eolaire saincheaptha?"
 
 # empty strings from id 20475 to 21329
 # up to 21329 is reserved for the video db !! !
@@ -19454,7 +19464,7 @@ msgstr "Cumasaigh léamh clibeanna i radharc comhaid"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "Logáil fholláin don chomhpháirt [B]Bluray[/B]"
 
 # empty string with id 39126
 msgctxt "#39127"
@@ -19844,12 +19854,12 @@ msgstr "Is é Starfish an díchódóir físe crua-earraí do webOS LG. Díchumas
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Sáraigh meiteashonraí leibhéal 5 go náid"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "Má tá sé cumasaithe, déanfar meiteashonraí leibhéal 5 (limistéar gníomhach) a shárú ar chomhaid Dolby Vision go nialas fritháireamh. Cumasaigh má tá fadhbanna ag do thaispeántas le híomhá atá bearrtha go mícheart in athsheinm Dolby Vision."
 
 # empty strings from id 39206 to 39999
 # 40000 to 40800 are reserved for Video Versions feature

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-14 05:58+0000\n"
+"PO-Revision-Date: 2025-12-11 11:13+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4843,6 +4843,11 @@ msgstr "Esita algusest"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Jätka {0:s}-st"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr ""
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11569,6 +11574,11 @@ msgstr "Omab mitut versiooni"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Omab lisamaterjali"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Kas soovid luua uue profiili oma valitud kataloogi?"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19124,7 +19134,7 @@ msgstr "Luba siltide lugemine failihalduris"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "[B]Bluray[/B] komponendi üksikasjalik logimine"
 
 msgctxt "#39127"
 msgid "Use all local image files as artwork"

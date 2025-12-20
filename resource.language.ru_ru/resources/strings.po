@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-09-05 22:23+0000\n"
+"PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: Alexey <signfinder@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.1\n"
+"X-Generator: Weblate 5.15\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -44,7 +44,7 @@ msgstr "Kodi GIT"
 
 msgctxt "#7"
 msgid "File manager"
-msgstr "Файлы"
+msgstr "Менеджер файлов"
 
 msgctxt "#8"
 msgid "Weather"
@@ -2824,7 +2824,7 @@ msgstr "Желтый"
 
 msgctxt "#744"
 msgid "Files"
-msgstr "Файлы"
+msgstr "Менеджер файлов"
 
 msgctxt "#745"
 msgid "Background colour"
@@ -4845,6 +4845,11 @@ msgstr "Воспроизвести с начала"
 msgctxt "#12022"
 msgid "Resume from {0:s}"
 msgstr "Продолжить с {0:s}"
+
+#. Label for resuming playback from a certain part
+msgctxt "#12023"
+msgid "Resume from"
+msgstr "Возобновить с"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -11573,6 +11578,11 @@ msgstr "Имеет несколько версий"
 msgctxt "#20476"
 msgid "Has video extras"
 msgstr "Имеются дополнительные видео"
+
+#. When you create a new profile ask to user if wants to create it in a custom directory
+msgctxt "#20477"
+msgid "Do you want to create the new profile in a custom directory?"
+msgstr "Вы хотите создать новый профиль в пользовательском каталоге?"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -19135,7 +19145,7 @@ msgstr "Включить чтение тегов в режиме просмот�
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "Подробное журналирование компонента [B]Bluray[/B]"
 
 # empty string with id 39126
 msgctxt "#39127"
@@ -19524,12 +19534,12 @@ msgstr "Starfish — это аппаратный видеодекодер для
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Обнуление метаданных 5-го уровня"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "Если включено, метаданные файлов Dolby Vision 5-го уровня (активная область) будут переопределены на нулевые значения. Включайте, если при воспроизведении в формате Dolby Vision возникают проблемы с неправильно обрезанным изображением."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
