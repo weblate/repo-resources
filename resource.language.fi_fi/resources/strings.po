@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-11-08 09:13+0000\n"
+"PO-Revision-Date: 2025-12-11 17:13+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main-nexus/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -6096,7 +6096,7 @@ msgstr "Upotettu mediakuvitus"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
-msgstr "Upotettu fanitaide"
+msgstr "Upotettu fanart"
 
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
@@ -11032,7 +11032,7 @@ msgstr "Piilota sarjojen kaudet"
 
 msgctxt "#20413"
 msgid "Get fanart"
-msgstr "Nouda fanart-kuvat"
+msgstr "Nouda fanart-kuvia"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
@@ -11141,7 +11141,7 @@ msgstr "Valitse fanart-kuva"
 
 msgctxt "#20438"
 msgid "Local fanart"
-msgstr "Paikallinen fanart-kuva"
+msgstr "Paikallinen fanart"
 
 msgctxt "#20439"
 msgid "No fanart"
@@ -11149,11 +11149,11 @@ msgstr "Ei fanart-kuvaa"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "Nykyinen fanart-kuva"
+msgstr "Nykyinen fanart"
 
 msgctxt "#20441"
 msgid "Remote fanart"
-msgstr "Etäsijainnin fanart-kuva"
+msgstr "Ulkoinen fanart"
 
 msgctxt "#20442"
 msgid "Change content"
