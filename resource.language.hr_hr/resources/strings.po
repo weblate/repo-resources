@@ -5387,14 +5387,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Ako nastavite možda nećete biti u mogućnosti više upravljati ovom aplikacijom. Sigurno želite zaustaviti poslužitelj događaja?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Promijeni način rada Apple daljinskog upravljača?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Ako trenutno koristite Apple daljinski upravljač za upravljanje ovom aplikacijom, promjena ovih postavki može utjecati na vašu mogućnost upravljanja. Želite li nastaviti?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Maska podmreže"
@@ -6393,45 +6385,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Odgoda preskoka"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple daljinski upravljač"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Omogući pokretanje Kodija koristeći daljinski upravljač"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Redoslijed vremena kašnjenja"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Onemogućeno"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standardno"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Univerzalni daljinski upravljač"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony daljinski upravljač"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Greška Apple daljinskog upravljanja"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Podrška za Apple daljinsko upravljanje se ne može omogućiti."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17177,21 +17133,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Informacije još nisu dostupne."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Odredite vrstu daljinskog upravljača koji se koristi."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Uvijek pokreni Kodi pomoćnika kako bi se daljinski upravljač koristio za pokretanje Kodija."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Odredite kašnjenje između slijedova tipki na univerzalnom daljinskom upravljaču."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19954,6 +19895,62 @@ msgstr "Potvrdi brisanje datoteke"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ako je omogućeno, prikazat će se dijaloški okvir za potvrdu kada se datoteke trebaju izbrisati. Ako je onemogućeno, datoteke će se izbrisati bez korisničke potvrde."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Promijeni način rada Apple daljinskog upravljača?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Ako trenutno koristite Apple daljinski upravljač za upravljanje ovom aplikacijom, promjena ovih postavki može utjecati na vašu mogućnost upravljanja. Želite li nastaviti?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple daljinski upravljač"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Omogući pokretanje Kodija koristeći daljinski upravljač"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Redoslijed vremena kašnjenja"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Onemogućeno"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standardno"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Univerzalni daljinski upravljač"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony daljinski upravljač"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Greška Apple daljinskog upravljanja"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Podrška za Apple daljinsko upravljanje se ne može omogućiti."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Odredite vrstu daljinskog upravljača koji se koristi."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Uvijek pokreni Kodi pomoćnika kako bi se daljinski upravljač koristio za pokretanje Kodija."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Odredite kašnjenje između slijedova tipki na univerzalnom daljinskom upravljaču."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

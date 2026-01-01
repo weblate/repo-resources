@@ -5385,14 +5385,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Ef þú heldur áfram þá gæti verið að þú getir ekki stjórnað Kodi áfram. Ertu viss um að þú viljir stöðva atriðaþjón?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Breyta ham Apple fjarstýringar?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Ef þú ert að nota Apple fjarstýringu til að stjórna þessu forriti þá gæti breyting á þessari stillingu valdið því að hún hætti að virka. Viltu halda áfram?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Undirnetssía"
@@ -6391,45 +6383,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Bið eftir næsta hoppi"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple fjarstýring"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Leyfa að ræsa Kodi með fjarstýringunni"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Runu biðtími"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Óvirkt"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Venjulegt"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Altæk fjarstýring"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony fjarstýring"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Villa í Apple fjarstýringu"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Ekki var hægt að virkja Apple Remote stuðning."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17170,21 +17126,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Engar upplýsingar tiltækar eins og er."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Skilgreindu gerð fjarstýringar sem notuð er."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Keyra alltaf Kodi-hjálparforrit svo hægt sé að nota fjarstýringu til að ræsa Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Tilgreindu bið á milli í hnapparunu á almennri fjarstýringu."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19948,6 +19889,62 @@ msgstr "Staðfesta eyðingu skráa"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ef þetta er virkt birtist staðfestingargluggi þegar á að eyða skrám. Ef þetta er ekki virkt verður skrám eytt án staðfestingar notandans."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Breyta ham Apple fjarstýringar?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Ef þú ert að nota Apple fjarstýringu til að stjórna þessu forriti þá gæti breyting á þessari stillingu valdið því að hún hætti að virka. Viltu halda áfram?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple fjarstýring"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Leyfa að ræsa Kodi með fjarstýringunni"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Runu biðtími"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Óvirkt"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Venjulegt"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Altæk fjarstýring"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony fjarstýring"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Villa í Apple fjarstýringu"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Ekki var hægt að virkja Apple Remote stuðning."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Skilgreindu gerð fjarstýringar sem notuð er."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Keyra alltaf Kodi-hjálparforrit svo hægt sé að nota fjarstýringu til að ræsa Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Tilgreindu bið á milli í hnapparunu á almennri fjarstýringu."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-11 11:13+0000\n"
+"PO-Revision-Date: 2026-01-01 21:04+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4847,7 +4847,7 @@ msgstr "Jätka {0:s}-st"
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Jätka alates"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -5383,14 +5383,6 @@ msgstr "Tuvastati aktiivsed ühendused!"
 msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Jätkates ei pruugi sa enam juhtida seda programmi. Kas oled kindel, et soovid peatada sündmuste serveri?"
-
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Vaheta Apple'i puldi režiim?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Kui sa kasutad Apple'i pulti selle rakenduse juhtimiseks, siis selle sätte muutmine võib mõjutada sinu võimet seda juhtida. Kas soovid jätkata?"
 
 msgctxt "#13159"
 msgid "Subnet mask"
@@ -6390,45 +6382,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Hüppe viivitus"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple'i pult"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Luba Kodi käivitamine puldiga"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Jada viivitus"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Keelatud"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Normaalne"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Universaalne pult"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony pult"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Apple'i puldi viga"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Apple'i puldi tuge ei saanud lubada."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17168,21 +17124,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Info pole veel saadaval."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Täpsusta kasutatava puldi tüüp."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Käivita alati Kodi abistaja, et pulti saaks kasutada Kodi käivitamiseks."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Määra universaalse kaugjuhtimispuldi nuppude jada viivitus."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19522,12 +19463,12 @@ msgstr "Starfish on LG webOS-i riistvaraline videodekooder. Keela see veaotsingu
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Asenda 5. taseme metaandmed nulliga"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "Kui lubatud, siis Dolby Vision failide 5. taseme (aktiivne ala) metaandmed asendatakse nullnihkega. Luba see, kui Dolby Vision failide taasesitusel on probleeme valesti kärbitud pildiga."
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19942,6 +19883,62 @@ msgstr "Kinnita faili kustutamine"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Kui see on lubatud, kuvatakse failide kustutamisel kinnitusdialoog. Kui see on keelatud, kustutatakse failid ilma kasutaja kinnituseta."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Vaheta Apple'i puldi režiim?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Kui sa kasutad Apple'i pulti selle rakenduse juhtimiseks, siis selle sätte muutmine võib mõjutada sinu võimet seda juhtida. Kas soovid jätkata?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple'i pult"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Luba Kodi käivitamine puldiga"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Jada viivitus"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Keelatud"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Normaalne"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Universaalne pult"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony pult"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Apple'i puldi viga"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Apple'i puldi tuge ei saanud lubada."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Täpsusta kasutatava puldi tüüp."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Käivita alati Kodi abistaja, et pulti saaks kasutada Kodi käivitamiseks."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Määra universaalse kaugjuhtimispuldi nuppude jada viivitus."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

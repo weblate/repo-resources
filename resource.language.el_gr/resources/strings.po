@@ -5386,14 +5386,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Αν συνεχίσετε, μπορεί να μην είστε σε θέση να ελέγχετε την εφαρμογή αυτή πια . Είστε σίγουροι ότι θέλετε να σταματήσετε τον εξυπηρετητή;"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Αλλαγή λειτουργίας του Χειριστηρίου Apple;"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Αν ήδη χρησιμοποιείτε το τηλεχειριστήριο της Apple για τον έλεγχο αυτής της εφαρμογής, αλλάζοντας την ρύθμιση αυτή μπορεί να επηρεάσει την ικανότητά σας να συνεχίσετε την ελέγχετε. Θέλετε να συνεχίσετε;"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Μάσκα Υποδικτύου"
@@ -6393,45 +6385,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Καθυστέρηση μετάβασης"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Χειριστήριο Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr ""
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Έγκριση έναρξης του Kodi μέσω του χειριστηρίου"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Χρόνος καθυστέρησης ακολουθίας"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Ανενεργή"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Τυπική"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Τηλεχειριστήριο γενικής χρήσης"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Τηλεχειριστήριο Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Σφάλμα χειριστηρίου Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Αδυναμία ενεργοποίησης υποστήριξης χειριστηρίου Apple."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17199,21 +17155,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Μη διαθέσιμες πληροφορίες."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Καθορίστε τον τύπο χειριστηρίου που χρησιμοποιείτε."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr ""
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Καθορίστε την καθυστέρηση μεταξύ ακολουθιών πλήκτρων σε τηλεχειριστήρια universal."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19990,6 +19931,58 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Αλλαγή λειτουργίας του Χειριστηρίου Apple;"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Αν ήδη χρησιμοποιείτε το τηλεχειριστήριο της Apple για τον έλεγχο αυτής της εφαρμογής, αλλάζοντας την ρύθμιση αυτή μπορεί να επηρεάσει την ικανότητά σας να συνεχίσετε την ελέγχετε. Θέλετε να συνεχίσετε;"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Χειριστήριο Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Έγκριση έναρξης του Kodi μέσω του χειριστηρίου"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Χρόνος καθυστέρησης ακολουθίας"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Ανενεργή"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Τυπική"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Τηλεχειριστήριο γενικής χρήσης"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Τηλεχειριστήριο Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Σφάλμα χειριστηρίου Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Αδυναμία ενεργοποίησης υποστήριξης χειριστηρίου Apple."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Καθορίστε τον τύπο χειριστηρίου που χρησιμοποιείτε."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Καθορίστε την καθυστέρηση μεταξύ ακολουθιών πλήκτρων σε τηλεχειριστήρια universal."
 
 #~ msgctxt "#13428"
 #~ msgid "Allow hardware acceleration - CrystalHD"

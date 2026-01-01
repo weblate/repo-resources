@@ -5387,14 +5387,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Hvis du fortsætter kan du muligvis ikke styre Kodi mere. Er du sikker på at du vil stoppe eventserveren?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Skift tilstand for Apple-fjernbetjeningen?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Hvis du bruger en Apple fjernbetjening til at styre Kodi, kan denne stoppe med at virke når indstillingen ændres. Ønsker du at fortsætte?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Undernetmaske"
@@ -6393,45 +6385,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Skip forsinkelse"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple fjernbetejning"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Tillad start af Kodi med fjernbetjeningen"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Sekvensforsinkelse"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Deaktiveret"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Universal fjernbetjening"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony fjernbetjening"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Fejl ved Apple-fjernbetjeningen"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Apple fjernbetjening kunne ikke aktiveres."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17179,21 +17135,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Ingen information tilgængelig endnu."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Angiv typen af fjernbetjening der benyttes."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Kør altid Kodi-hjælperen således at fjernbetjening kan benyttes til at starte Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Specificér forsinkelsen mellem tryk-sekvenser på en universal fjernbetjening."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19956,6 +19897,62 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Skift tilstand for Apple-fjernbetjeningen?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Hvis du bruger en Apple fjernbetjening til at styre Kodi, kan denne stoppe med at virke når indstillingen ændres. Ønsker du at fortsætte?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple fjernbetejning"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Tillad start af Kodi med fjernbetjeningen"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Sekvensforsinkelse"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Deaktiveret"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Universal fjernbetjening"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony fjernbetjening"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Fejl ved Apple-fjernbetjeningen"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Apple fjernbetjening kunne ikke aktiveres."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Angiv typen af fjernbetjening der benyttes."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Kør altid Kodi-hjælperen således at fjernbetjening kan benyttes til at starte Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Specificér forsinkelsen mellem tryk-sekvenser på en universal fjernbetjening."
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."

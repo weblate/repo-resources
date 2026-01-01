@@ -5398,14 +5398,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Si continueu, podríeu no ser capaç de controlar més aquesta aplicació. Esteu segur que voleu aturar el servidor d'esdeveniments?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Canviar el mode de l'Apple Remote?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Si esteu utilitzant l'Apple Remote per controlar aquesta aplicació, el canvi d'aquesta opció podria afectar la vostra capacitat de control. Voleu continuar de totes maneres?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Màscara de subxarxa"
@@ -6405,45 +6397,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Retard del salt"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple Remote"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Permet l'inici de Kodi mitjançant el comandament a distància"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Temps de retard de la seqüència"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Inhabilitat"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Estàndard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Comandament universal"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Comandament Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Error de l'Apple Remote"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "No s'ha pogut habilitar la compatibilitat per a l'Apple Remote."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17203,21 +17159,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Encara no hi ha informació disponible."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Especifiqueu el tipus de comandament a distància utilitzat."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Executa sempre un ajudant de Kodi de manera que el comandament a distància es pugui utilitzar per iniciar Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr ""
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19985,6 +19926,58 @@ msgstr "Confirmeu la supressió del fitxer"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si està activat, es mostrarà un quadre de diàleg de confirmació quan s'hagin d'eliminar els fitxers. Si està desactivat, els fitxers s'eliminaran sense la confirmació de l'usuari."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Canviar el mode de l'Apple Remote?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Si esteu utilitzant l'Apple Remote per controlar aquesta aplicació, el canvi d'aquesta opció podria afectar la vostra capacitat de control. Voleu continuar de totes maneres?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple Remote"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Permet l'inici de Kodi mitjançant el comandament a distància"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Temps de retard de la seqüència"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Inhabilitat"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Estàndard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Comandament universal"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Comandament Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Error de l'Apple Remote"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "No s'ha pogut habilitar la compatibilitat per a l'Apple Remote."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Especifiqueu el tipus de comandament a distància utilitzat."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Executa sempre un ajudant de Kodi de manera que el comandament a distància es pugui utilitzar per iniciar Kodi."
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."

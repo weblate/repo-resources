@@ -5461,15 +5461,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr ""
 
-# empty strings from id 13142 to 13143
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr ""
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr ""
-
 # empty strings from id 13146 to 13158
 msgctxt "#13159"
 msgid "Subnet mask"
@@ -6487,46 +6478,8 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr ""
 
-# empty strings from id 13558 to 13599
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr ""
-
 msgctxt "#13601"
 msgid "Apple TV"
-msgstr ""
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr ""
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr ""
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "विकलांग"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "मानक"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr ""
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr ""
-
-# empty strings from id 13614 to 13619
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr ""
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
 msgstr ""
 
 # empty strings from id 13622 to 13999
@@ -17404,21 +17357,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr ""
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr ""
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr ""
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr ""
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -20213,6 +20151,14 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "विकलांग"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "मानक"
 
 #~ msgctxt "#462"
 #~ msgid "Subtitle"

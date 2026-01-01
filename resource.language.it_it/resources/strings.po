@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2025-12-16 17:13+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
@@ -5384,14 +5384,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Se procedi, potresti non essere più in grado di controllare questa applicazione. Sei sicuro di voler fermare il server degli eventi?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Cambiare la modalità Apple Remote?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Se stai attualmente usando Apple Remote per controllare questa applicazione, la modifica di questa impostazione potrebbe influire sulla tua capacità di continuare a controllarla. Vuoi procedere?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Maschera sottorete"
@@ -6390,45 +6382,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Ritardo salto veloce"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Telecomando Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Consenti l'avvio di Kodi usando il telecomando"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Tempo ritardo della sequenza"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Disabilitato"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Telecomando universale"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Telecomando Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Errore telecomando Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Impossibile abilitare il supporto per telecomando Apple."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17168,21 +17124,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Nessuna informazione disponibile."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Specifica il tipo di telecomando usato."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Esegui sempre l'assistente di Kodi per fare in modo che il telecomando possa essere usato per avviare Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Specificare il ritardo tra le sequenze di pulsanti su un telecomando universale."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19942,6 +19883,62 @@ msgstr "Conferma eliminazione file"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Se abilitato, verrà visualizzata una finestra di dialogo di conferma quando i file devono essere eliminati. Se disabilitato, i file saranno eliminati senza la conferma dell'utente."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Cambiare la modalità Apple Remote?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Se stai attualmente usando Apple Remote per controllare questa applicazione, la modifica di questa impostazione potrebbe influire sulla tua capacità di continuare a controllarla. Vuoi procedere?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Telecomando Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Consenti l'avvio di Kodi usando il telecomando"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Tempo ritardo della sequenza"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Disabilitato"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Telecomando universale"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Telecomando Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Errore telecomando Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Impossibile abilitare il supporto per telecomando Apple."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Specifica il tipo di telecomando usato."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Esegui sempre l'assistente di Kodi per fare in modo che il telecomando possa essere usato per avviare Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Specificare il ritardo tra le sequenze di pulsanti su un telecomando universale."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"
