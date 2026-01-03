@@ -5409,14 +5409,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Jeźli kōntynuujesz, mogesz potracić możebności regyrowanio tōm aplikacyjōm. Je żeś zicher, co chcesz zastawić serwer zdarzyń?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Przemiynić tryb pilota Apple?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Jeźli używosz pilota Apple do sterowanio aplikacyjōm, zmiana tego sztalōnku może wpłynōńć na możebność dalszygo sterowanio niōm. Chcesz kōntynuować?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Maska podnecu"
@@ -6417,45 +6409,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Uniyskorzynie skokōw"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Pilot Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr ""
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Zwōl na startowanie Kodi pilotym"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Czas uniyskorzynio sekwyncyje"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Zastawiōny"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Normalny"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Uniwersalny pilot"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Pilot Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Feler pilota Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Niy szło zapuścić zdalnyj pōmocy Apple"
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17217,21 +17173,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Żodne informacyje jeszcze niy sōm dostympne."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Uzdej zorta używanygo pilota."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Dycki sztartuj pōmager Kodi, coby pilot mōg być używany do sztartowanio Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Uzdej uniyskorzyniy miyndzy prziciśniyńciami knefli na uniwersalnym pilocie."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -20001,6 +19942,62 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Przemiynić tryb pilota Apple?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Jeźli używosz pilota Apple do sterowanio aplikacyjōm, zmiana tego sztalōnku może wpłynōńć na możebność dalszygo sterowanio niōm. Chcesz kōntynuować?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Pilot Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Zwōl na startowanie Kodi pilotym"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Czas uniyskorzynio sekwyncyje"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Zastawiōny"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Normalny"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Uniwersalny pilot"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Pilot Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Feler pilota Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Niy szło zapuścić zdalnyj pōmocy Apple"
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Uzdej zorta używanygo pilota."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Dycki sztartuj pōmager Kodi, coby pilot mōg być używany do sztartowanio Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Uzdej uniyskorzyniy miyndzy prziciśniyńciami knefli na uniwersalnym pilocie."
 
 #~ msgctxt "#13428"
 #~ msgid "Allow hardware acceleration - CrystalHD"

@@ -5391,14 +5391,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "המשך עלול לפגוע ביכולת לשלוט על תוכנה זו. האם לעצור את EventServer?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "האם לשנות מצב שלט Apple?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "אם שלט Apple משמש כעת לשליטה בתוכנה זו, שינוי ההגדרה עלול לפגוע ביכולת לשלוט עליה. האם להמשיך?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "מסכת רשת משנה"
@@ -6397,45 +6389,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "השהיית דילוג"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "שלט Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr ""
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "אפשר הפעלת Kodi בעזרת השלט"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "זמן השהיית רצף"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "מנוטרל"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "רגיל"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "שלט אוניברסלי"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "שלט Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "שגיאת שלט Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "נכשל בהפעלת התמיכה בשלט Apple."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17182,21 +17138,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "אין מידע זמין כעת."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "קביעת סוג השלט שבשימוש."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "יש להריץ תכנת עזר שתאפשר הפעלת Kodi מהשלט."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "קביעת משך השהיה של רצפי לחיצות בשלט אוניברסלי."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19962,6 +19903,62 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "האם לשנות מצב שלט Apple?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "אם שלט Apple משמש כעת לשליטה בתוכנה זו, שינוי ההגדרה עלול לפגוע ביכולת לשלוט עליה. האם להמשיך?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "שלט Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "אפשר הפעלת Kodi בעזרת השלט"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "זמן השהיית רצף"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "מנוטרל"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "רגיל"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "שלט אוניברסלי"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "שלט Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "שגיאת שלט Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "נכשל בהפעלת התמיכה בשלט Apple."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "קביעת סוג השלט שבשימוש."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "יש להריץ תכנת עזר שתאפשר הפעלת Kodi מהשלט."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "קביעת משך השהיה של רצפי לחיצות בשלט אוניברסלי."
 
 #~ msgctxt "#16298"
 #~ msgid "Shows the game's pixels without any modifications."

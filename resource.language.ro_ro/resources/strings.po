@@ -5385,14 +5385,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Dacă veți continua, este posibil să nu mai puteți controla această aplicație. Sigur doriți să opriți server-ul de evenimente?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Schimbați modul telecomenzii Apple?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Dacă actualmente folosiți o telecomandă Apple pentru controlul acestei aplicații, schimbarea acestei setări vă poate afecta abilitatea de a continua să o controlați. Doriți să continuați?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Mască de rețea"
@@ -6391,45 +6383,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Întârziere salt"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Telecomandă Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Televizor Apple"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Permite pornirea Kodi folosind telecomanda"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Timp secvență de întârziere"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Dezactivat"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Telecomandă universală"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Telecomandă Harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Eroare telecomandă Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Sprijinul pentru telecomanda Apple nu a putut fi activat."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17172,21 +17128,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Deocamdată nu este disponibilă nicio informație."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Specificați tipul de telecomandă folosit"
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Rulează întotdeauna un program ajtător pentru Kodi pentru ca telecomanda să poată fi folosită pentru a porni Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Specificați întârzierea între apăsările de butoane pe o telecomandă universală."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -19949,6 +19890,62 @@ msgstr "Confirmare ștergere fișier"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Dacă este activată, un dialog de confirmare va fi afișat când se cere ștergerea fișierelor. Dacă este dezactivată, fișierele vor fi șterse fără confirmare din partea utilizatorului."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Schimbați modul telecomenzii Apple?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Dacă actualmente folosiți o telecomandă Apple pentru controlul acestei aplicații, schimbarea acestei setări vă poate afecta abilitatea de a continua să o controlați. Doriți să continuați?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Telecomandă Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Permite pornirea Kodi folosind telecomanda"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Timp secvență de întârziere"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Dezactivat"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Telecomandă universală"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Telecomandă Harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Eroare telecomandă Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Sprijinul pentru telecomanda Apple nu a putut fi activat."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Specificați tipul de telecomandă folosit"
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Rulează întotdeauna un program ajtător pentru Kodi pentru ca telecomanda să poată fi folosită pentru a porni Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Specificați întârzierea între apăsările de butoane pe o telecomandă universală."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

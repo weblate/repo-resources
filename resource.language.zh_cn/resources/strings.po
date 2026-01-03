@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-16 17:13+0000\n"
+"PO-Revision-Date: 2025-12-22 19:13+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2189,7 +2189,7 @@ msgstr "年份"
 
 msgctxt "#563"
 msgid "Rating"
-msgstr "评价"
+msgstr "评分"
 
 msgctxt "#564"
 msgid "Type"
@@ -4168,12 +4168,12 @@ msgstr "下一个播放"
 #. Header label for add-on configuration removal dialog
 msgctxt "#10009"
 msgid "Confirm add-on configuration removal"
-msgstr "确认删除附加组件配置"
+msgstr "确认删除插件配置"
 
 #. Header label for add-on configuration removal selection dialog
 msgctxt "#10010"
 msgid "Select add-on configuration to remove"
-msgstr "选择要删除的附加配置"
+msgstr "选择要删除的插件配置"
 
 msgctxt "#10011"
 msgid "Settings - Videos - Screen calibration"
@@ -4182,22 +4182,22 @@ msgstr "设置 - 视频 - 屏幕校准"
 #. Header label for add-on configuration selection dialog
 msgctxt "#10012"
 msgid "Add-on configurations and settings"
-msgstr "附加配置和设置"
+msgstr "插件配置和设置"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10013"
 msgid "Edit add-on settings"
-msgstr "编辑附加设置"
+msgstr "编辑插件设置"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10014"
 msgid "Add add-on configuration"
-msgstr "添加附加配置"
+msgstr "添加插件配置"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10015"
 msgid "Remove add-on configuration"
-msgstr "删除附加配置"
+msgstr "删除插件配置"
 
 msgctxt "#10016"
 msgid "Settings - System"
@@ -4206,7 +4206,7 @@ msgstr "设置 - 系统"
 #. Settings group label
 msgctxt "#10017"
 msgid "Add-on configuration"
-msgstr "附加配置"
+msgstr "插件配置"
 
 msgctxt "#10018"
 msgid "Settings - Service"
@@ -4215,7 +4215,7 @@ msgstr "设置 - 服务"
 #. Item label for add-on configuration removal dialog
 msgctxt "#10019"
 msgid "Do you want to remove the add-on configuration \"{0:s}\"?"
-msgstr "是否要删除附加配置“{0:s}”？"
+msgstr "是否要删除插件配置“{0:s}”？"
 
 #. Item label used in add-on setup selection dialog
 msgctxt "#10020"
@@ -5384,14 +5384,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "如果继续，你可能将无法控制此应用。确定要停止事件服务器吗？"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "改变苹果遥控器的模式？"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "如果你正使用苹果遥控器控制此应用，改变此设置会影响你对它的持续控制。确定要继续吗？"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "子网掩码"
@@ -5968,7 +5960,7 @@ msgstr "{0:s} 预置"
 
 msgctxt "#13408"
 msgid "(IMDb user rating)"
-msgstr "（IMDb 用户评价）"
+msgstr "（IMDb 用户评分）"
 
 msgctxt "#13409"
 msgid "Top 250"
@@ -6390,45 +6382,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "跳过延迟"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "苹果遥控器"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "允许用遥控器启动 Kodi"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "序列延时"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "禁用"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "标准"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "通用遥控器"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony 遥控器"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "苹果遥控器错误"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "苹果遥控器支持无法激活。"
 
 msgctxt "#14000"
 msgid "Stack"
@@ -9106,7 +9062,7 @@ msgstr "未找到 PVR 插件"
 #. label for 'pvr configuration incomplete' information dialog text
 msgctxt "#19272"
 msgid "To use PVR you need to install, enable and configure a PVR add-on. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "你需要安装并启用PVR加载项才可以使用PVR。请访问 http://kodi.wiki/view/PVR 查阅详情。"
+msgstr "你需要安装并启用 PVR 加载项才可以使用 PVR。请访问 http://kodi.wiki/view/PVR 查阅详情。"
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
@@ -10283,7 +10239,7 @@ msgstr "请确定选择的文件夹是可写入的且新文件夹名是有效的
 
 msgctxt "#20074"
 msgid "MPAA rating"
-msgstr "MPAA 分级"
+msgstr "美国电影协会评分"
 
 msgctxt "#20075"
 msgid "Enter master lock code"
@@ -12897,7 +12853,7 @@ msgstr "安装 {0:d}%"
 #. Used as an event log description for add-ons failed to install from zip
 msgctxt "#24045"
 msgid "Failed to install add-on from zip file"
-msgstr "无法从zip文件安装加载项"
+msgstr "无法从 zip 文件安装加载项"
 
 msgctxt "#24046"
 msgid "{0:s} is used by the following installed add-on(s)"
@@ -13027,7 +12983,7 @@ msgstr "禁用"
 
 msgctxt "#24076"
 msgid "Add-on required"
-msgstr "依赖插件"
+msgstr "插件依赖"
 
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24077"
@@ -13056,7 +13012,7 @@ msgstr "助手插件"
 #. The label in the add-ons manager for add-on libraries
 msgctxt "#24082"
 msgid "Add-on libraries"
-msgstr "插件模块"
+msgstr "插件库"
 
 #. The label in the add-ons manager for information libraries
 msgctxt "#24083"
@@ -13409,22 +13365,22 @@ msgstr "数值越高，平移手势越灵敏"
 #. Header text for yes/no dialog about enable of broken add-on
 msgctxt "#24164"
 msgid "Add-on \"{0:s}\" broken"
-msgstr "加载项“{0:s}”已损坏"
+msgstr "插件“{0:s}”已损坏"
 
 #. Yes/no dialog text with add-on broken string value and to ask for use
 msgctxt "#24165"
 msgid "Add-on marked as broken with following note:[CR][B][I]{0:s}[/I][/B][CR][CR]Do you want to enable?"
-msgstr "加载项被标记为已损坏，并带有以下注释:[CR][B][I]{0:s}[/I][/B][CR][CR]是否要启用？"
+msgstr "插件被标记为已损坏，并带有以下注释:[CR][B][I]{0:s}[/I][/B][CR][CR]是否要启用？"
 
 #. Header text for yes/no dialog about enable of deprecated add-on
 msgctxt "#24166"
 msgid "Add-on \"{0:s}\" deprecated"
-msgstr "加载项“{0:s}”已弃用"
+msgstr "插件“{0:s}”已弃用"
 
 #. Yes/no dialog text with add-on deprecated string value and to ask for use
 msgctxt "#24167"
 msgid "Add-on marked as deprecated with following note:[CR][B][I]{0:s}[/I][/B][CR][CR]Do you want to enable?"
-msgstr "加载项被标记为已弃用，并带有以下注释:[CR][B][I]{0:s}[/I][/B][CR][CR]是否要启用？"
+msgstr "插件被标记为已弃用，并带有以下注释:[CR][B][I]{0:s}[/I][/B][CR][CR]是否要启用？"
 
 #. Notification event to show addon marked as deprecated.
 msgctxt "#24168"
@@ -14295,7 +14251,7 @@ msgstr "关于您的"
 
 msgctxt "#33067"
 msgid "Star rating"
-msgstr "星级"
+msgstr "星级评分"
 
 msgctxt "#33068"
 msgid "Background"
@@ -17168,21 +17124,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "无可用信息。"
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "指定使用的遥控器类型。"
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "始终运行 Kodi helper 使遥控器可用来启动 Kodi。"
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "指定通用遥控器连续按键间隔。"
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -18391,17 +18332,17 @@ msgstr "A 区 - 美洲、东亚和东南亚。B 区 - 非洲、中东、西南�
 #. Used for the viewstate selection
 msgctxt "#38018"
 msgid "My rating"
-msgstr "我的评价"
+msgstr "我的评分"
 
 #. Used for the rating selection
 msgctxt "#38022"
 msgid "No rating"
-msgstr "无评价"
+msgstr "无评分"
 
 #. Used for the rating selection
 msgctxt "#38023"
 msgid "Set my rating"
-msgstr "设置我的评价"
+msgstr "设置我的评分"
 
 msgctxt "#38024"
 msgid "Information provider selection"
@@ -19253,7 +19194,7 @@ msgstr "覆盖字幕样式"
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr "某些字幕格式，如SSA/ASS/webvtt，可以包含字体样式、颜色、大小、对齐、位置等的元数据。您可以覆盖使用自定义样式（请注意，在某些情况下可能会产生副作用）。"
+msgstr "某些字幕格式，如 SSA/ASS/webvtt，可以包含字体样式、颜色、大小、对齐、位置等的元数据。您可以覆盖使用自定义样式（请注意，在某些情况下可能会产生副作用）。"
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
@@ -19348,7 +19289,7 @@ msgstr "模糊"
 #. SystemInfo string for the display's supported HDR types
 msgctxt "#39174"
 msgid "Display supported HDR types"
-msgstr "显示支持的HDR样式"
+msgstr "显示支持的 HDR 样式"
 
 #. Progress text on splash screen, to build the font cache
 msgctxt "#39175"
@@ -19942,6 +19883,62 @@ msgstr "确认删除文件"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "改变苹果遥控器的模式？"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "如果你正使用苹果遥控器控制此应用，改变此设置会影响你对它的持续控制。确定要继续吗？"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "苹果遥控器"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "允许用遥控器启动 Kodi"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "序列延时"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "禁用"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "标准"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "通用遥控器"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony 遥控器"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "苹果遥控器错误"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "苹果遥控器支持无法激活。"
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "指定使用的遥控器类型。"
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "始终运行 Kodi helper 使遥控器可用来启动 Kodi。"
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "指定通用遥控器连续按键间隔。"
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

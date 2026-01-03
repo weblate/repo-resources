@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-16 17:13+0000\n"
+"PO-Revision-Date: 2026-01-01 21:04+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sv_se/>\n"
 "Language: sv_se\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2404,7 +2404,7 @@ msgstr "Alla låtar av"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "Pågående tv-program"
+msgstr "Pågående tv-serier"
 
 msgctxt "#629"
 msgid "View mode"
@@ -5386,14 +5386,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Om du fortsätter riskerar du att inte kunna kontrollera denna applikation längre. Är du säker på att du vill stoppa händelseservern?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Ändra läge för Apple-fjärren?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Om du för närvarande använder Apple-fjärrkontrollen för att kontrollera denna applikation kan ändringar av denna inställning påverka din förmåga att kontrollera applikationen. Vill du fortsätta?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Nätmask"
@@ -5905,7 +5897,7 @@ msgstr "Mata ut/Mata in"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr "Val av ström"
+msgstr "Strömval"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6392,45 +6384,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Hoppa över fördröjning"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Apple fjärrkontroll"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Tillåt att starta Kodi med fjärrkontrollen"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Sekvensfördröjningstid"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Av"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Universell fjärrkontroll"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Harmony fjärrkontroll"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Fel i Apple fjärrkontroll"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Stödet för Apples fjärrkontroll kunde inte aktiveras."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -16048,7 +16004,7 @@ msgstr "Denna kategori innehåller inställingar för hur videofillistor hantera
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Växla mellan [Välj], [Spela upp] (standard), [Visa information] och [Lägg till objekt i kö].[CR][Välj] öppnar en kontextmeny för att välja ett objekt, t.ex. visa information.[CR][Spela upp] spelar upp videor enligt inställningen ”Standardåtgärd för uppspelning”.[CR][Visa information] öppnar videons informationsdialog.[CR][Lägg till objekt i kö] lägger till videon i videospelningslistan."
+msgstr "Växla mellan [Välj], [Spela upp] (standard), [Visa information] och [Lägg till objekt i kö].[CR][Välj] öppnar en snabbmeny för att välja ett objekt, t.ex. visa information.[CR][Spela upp] spelar upp videor enligt inställningen ”Standardåtgärd för uppspelning”.[CR][Visa information] öppnar videons informationsdialog.[CR][Lägg till objekt i kö] lägger till videon i videospelningslistan."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -17169,21 +17125,6 @@ msgstr "Ingen info tillgänglig ännu."
 msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Ingen info tillgänglig ännu."
-
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Specificera typen av fjärrkontroll som används."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Kör alltid Kodi helper så att en fjärrkontroll kan användas för att starta Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Ange tiden mellan knapptryckningar på en universell fjärrkontroll."
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
@@ -19218,7 +19159,7 @@ msgstr "Begränsa filmen och omslag som hämtas lokalt eller tillämpas från sk
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr "Vitlista för omslagstyper för tv-program"
+msgstr "Vitlista för omslagstyper för tv-serier"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
@@ -19944,6 +19885,62 @@ msgstr "Bekräfta borttagning av fil"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Om den är aktiverad visas en bekräftelsedialog när filer ska tas bort. Om den är inaktiverad tas filerna bort utan att användaren bekräftar detta."
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Ändra läge för Apple-fjärren?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Om du för närvarande använder Apple-fjärrkontrollen för att kontrollera denna applikation kan ändringar av denna inställning påverka din förmåga att kontrollera applikationen. Vill du fortsätta?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Apple fjärrkontroll"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Tillåt att starta Kodi med fjärrkontrollen"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Sekvensfördröjningstid"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Av"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Universell fjärrkontroll"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Harmony fjärrkontroll"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Fel i Apple fjärrkontroll"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Stödet för Apples fjärrkontroll kunde inte aktiveras."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Specificera typen av fjärrkontroll som används."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Kör alltid Kodi helper så att en fjärrkontroll kan användas för att starta Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Ange tiden mellan knapptryckningar på en universell fjärrkontroll."
 
 #~ msgctxt "#37003"
 #~ msgid "mono"

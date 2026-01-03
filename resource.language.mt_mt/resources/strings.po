@@ -5415,14 +5415,6 @@ msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
 msgstr "Jekk trid tmexxi, jista' jkun li titlef il-kontrol ta' dan il-programm. Ċert li trid twaqqaf l- event server?"
 
-msgctxt "#13144"
-msgid "Change Apple Remote mode?"
-msgstr "Trid tibdel il-metodu tal- Apple Remote?"
-
-msgctxt "#13145"
-msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
-msgstr "Jekk bħalissa qed tużqa l-Apple Remote biex tikkontrolla dan il-programm, jekk tibdel dan is-setting jista' jkun li ma tkunx tista' tibqa' tikkontrollah. Ċert li trid tmexxi?"
-
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Subnet Mask"
@@ -6424,45 +6416,9 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Aqbeż id-dewmien"
 
-msgctxt "#13600"
-msgid "Apple Remote"
-msgstr "Remote tal- Apple"
-
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr ""
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Ħalli l-Kodi jinxtgħel permezz tar-remote"
-
-msgctxt "#13603"
-msgid "Sequence delay time"
-msgstr "Ħin ta' dewmien għas-sekwenza"
-
-msgctxt "#13610"
-msgid "Disabled"
-msgstr "Mhux attiv"
-
-msgctxt "#13611"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "#13612"
-msgid "Universal remote"
-msgstr "Remote universali"
-
-msgctxt "#13613"
-msgid "Harmony remote"
-msgstr "Remote tal- harmony"
-
-msgctxt "#13620"
-msgid "Apple Remote error"
-msgstr "Żball fir-remote tal- Apple"
-
-msgctxt "#13621"
-msgid "Apple Remote support couldn't be enabled."
-msgstr "Support għar-remote tal-Apple ma setax jiġi attivat."
 
 msgctxt "#14000"
 msgid "Stack"
@@ -17241,21 +17197,6 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Għad m'hemm xinformazzjoni."
 
-#. Description of setting with label #13600 "Apple remote"
-msgctxt "#36416"
-msgid "Specify the type of remote used."
-msgstr "Speċifika t-tip ta' remote li qed jintuża."
-
-#. Description of setting with label #13602 "Allow start of Kodi with remote"
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Dejjem ħaddem assistent tal-Kodi ħalli tkun tista' tuża r-remote biex tixgħel lil Kodi."
-
-#. Description of setting with label #13603 "Sequence delay time"
-msgctxt "#36418"
-msgid "Specify the delay between button sequences on a universal remote."
-msgstr "Kemm hi twil l-pawża bejn sekwenza ta għafsiet ta' buttuna fuq remote universali."
-
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -20044,6 +19985,62 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#13144"
+#~ msgid "Change Apple Remote mode?"
+#~ msgstr "Trid tibdel il-metodu tal- Apple Remote?"
+
+#~ msgctxt "#13145"
+#~ msgid "If you are currently using the Apple Remote to control this application, changing this setting might affect your ability to continue controlling it. Do you want to proceed?"
+#~ msgstr "Jekk bħalissa qed tużqa l-Apple Remote biex tikkontrolla dan il-programm, jekk tibdel dan is-setting jista' jkun li ma tkunx tista' tibqa' tikkontrollah. Ċert li trid tmexxi?"
+
+#~ msgctxt "#13600"
+#~ msgid "Apple Remote"
+#~ msgstr "Remote tal- Apple"
+
+#~ msgctxt "#13602"
+#~ msgid "Allow start of Kodi using the remote"
+#~ msgstr "Ħalli l-Kodi jinxtgħel permezz tar-remote"
+
+#~ msgctxt "#13603"
+#~ msgid "Sequence delay time"
+#~ msgstr "Ħin ta' dewmien għas-sekwenza"
+
+#~ msgctxt "#13610"
+#~ msgid "Disabled"
+#~ msgstr "Mhux attiv"
+
+#~ msgctxt "#13611"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "#13612"
+#~ msgid "Universal remote"
+#~ msgstr "Remote universali"
+
+#~ msgctxt "#13613"
+#~ msgid "Harmony remote"
+#~ msgstr "Remote tal- harmony"
+
+#~ msgctxt "#13620"
+#~ msgid "Apple Remote error"
+#~ msgstr "Żball fir-remote tal- Apple"
+
+#~ msgctxt "#13621"
+#~ msgid "Apple Remote support couldn't be enabled."
+#~ msgstr "Support għar-remote tal-Apple ma setax jiġi attivat."
+
+#~ msgctxt "#36416"
+#~ msgid "Specify the type of remote used."
+#~ msgstr "Speċifika t-tip ta' remote li qed jintuża."
+
+#~ msgctxt "#36417"
+#~ msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+#~ msgstr "Dejjem ħaddem assistent tal-Kodi ħalli tkun tista' tuża r-remote biex tixgħel lil Kodi."
+
+#~ msgctxt "#36418"
+#~ msgid "Specify the delay between button sequences on a universal remote."
+#~ msgstr "Kemm hi twil l-pawża bejn sekwenza ta għafsiet ta' buttuna fuq remote universali."
 
 #~ msgctxt "#13428"
 #~ msgid "Allow hardware acceleration - CrystalHD"
