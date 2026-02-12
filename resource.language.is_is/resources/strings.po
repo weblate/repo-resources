@@ -1122,6 +1122,10 @@ msgctxt "#294"
 msgid "Create bookmark"
 msgstr "Búa til bókamerki"
 
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr ""
+
 msgctxt "#296"
 msgid "Clear bookmarks"
 msgstr "Hreinsa bókamerki"
@@ -11790,6 +11794,10 @@ msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr "Hágæða mynddílaskygging útg2"
 
+msgctxt "#21398"
+msgid "between"
+msgstr ""
+
 msgctxt "#21399"
 msgid "Use tween animations"
 msgstr "Nota skopp-hreyfimyndir"
@@ -17125,6 +17133,14 @@ msgstr "Engar upplýsingar tiltækar eins og er."
 msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Engar upplýsingar tiltækar eins og er."
+
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
+msgstr ""
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
