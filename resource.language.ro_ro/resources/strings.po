@@ -1122,6 +1122,10 @@ msgctxt "#294"
 msgid "Create bookmark"
 msgstr "Creează semn de carte"
 
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr ""
+
 msgctxt "#296"
 msgid "Clear bookmarks"
 msgstr "Elimină semne de carte"
@@ -11790,6 +11794,10 @@ msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr "Nuanțator de pixeli de calitate ridicată v2"
 
+msgctxt "#21398"
+msgid "between"
+msgstr ""
+
 msgctxt "#21399"
 msgid "Use tween animations"
 msgstr "Folosește animații tween"
@@ -17127,6 +17135,14 @@ msgstr "Deocamdată nu este disponibilă nicio informație."
 msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Deocamdată nu este disponibilă nicio informație."
+
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
+msgstr ""
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"

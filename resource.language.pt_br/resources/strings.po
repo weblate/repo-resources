@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-16 17:13+0000\n"
+"PO-Revision-Date: 2026-01-31 02:13+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15\n"
+"X-Generator: Weblate 5.15.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1049,12 +1049,12 @@ msgstr "Mova a seta para modificar o tamanho da tela"
 #. Window screen calibration: calibration of subtitle bar
 msgctxt "#277"
 msgid "Subtitle positioning"
-msgstr "Posição das legendas"
+msgstr "Posicionamento das legendas"
 
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#278"
 msgid "Adjust the bar to change the subtitles position"
-msgstr "Mova a barra para modificar a posição das legendas"
+msgstr "Ajuste a barra para alterar a posição das legendas"
 
 msgctxt "#279"
 msgid "Unable to load settings"
@@ -1087,7 +1087,7 @@ msgstr "Idioma de áudio preferido"
 
 msgctxt "#286"
 msgid "Preferred subtitle language"
-msgstr "Idioma de legenda preferido"
+msgstr "Idioma preferido para legendas"
 
 #. Title of category and group menu subtitles
 msgctxt "#287"
@@ -1116,11 +1116,15 @@ msgstr "Áudio"
 
 msgctxt "#293"
 msgid "Browse for subtitles"
-msgstr "Procurar legendas"
+msgstr "Navegar por legendas"
 
 msgctxt "#294"
 msgid "Create bookmark"
 msgstr "Criar marcador"
+
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr "Modo de baixa latência"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
@@ -1281,7 +1285,7 @@ msgstr "Erro ao compactar o banco de dados"
 
 msgctxt "#333"
 msgid "Do you want to clean the library?"
-msgstr "Deseja limpar a coleção?"
+msgstr "Você quer limpar a biblioteca?"
 
 msgctxt "#334"
 msgid "Clean library..."
@@ -1696,7 +1700,7 @@ msgstr "Nenhum cache"
 
 msgctxt "#432"
 msgid "Remove movie from library"
-msgstr "Excluir filme da coleção"
+msgstr "Remover filme da biblioteca"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
@@ -2042,7 +2046,7 @@ msgstr "Adicionar à lista de reprodução"
 
 msgctxt "#527"
 msgid "Manually add to library"
-msgstr "Adicionar à coleção manualmente"
+msgstr "Adicionar manualmente à biblioteca"
 
 msgctxt "#528"
 msgid "Enter title"
@@ -2480,15 +2484,15 @@ msgstr "É preciso descompactar um arquivo grande. Continuar?"
 
 msgctxt "#646"
 msgid "Remove from library"
-msgstr "Remover da coleção"
+msgstr "Remover da biblioteca"
 
 msgctxt "#647"
 msgid "Export video library"
-msgstr "Exportar coleção de vídeos"
+msgstr "Exportar biblioteca de vídeos"
 
 msgctxt "#648"
 msgid "Import video library"
-msgstr "Importar coleção de vídeos"
+msgstr "Importar biblioteca de vídeos"
 
 #. unused?
 msgctxt "#649"
@@ -2502,7 +2506,7 @@ msgstr "Exportando"
 
 msgctxt "#651"
 msgid "Browse for library"
-msgstr "Procurar coleção"
+msgstr "Navegar na biblioteca"
 
 msgctxt "#652"
 msgid "Years"
@@ -2510,7 +2514,7 @@ msgstr "Anos"
 
 msgctxt "#653"
 msgid "Update library"
-msgstr "Atualizar coleção"
+msgstr "Atualizar biblioteca"
 
 msgctxt "#654"
 msgid "Show debug information"
@@ -2550,7 +2554,7 @@ msgstr "Este arquivo não está mais disponível."
 
 msgctxt "#663"
 msgid "Would you like to remove it from the library?"
-msgstr "Gostaria de remover da coleção?"
+msgstr "Gostaria de remover da biblioteca?"
 
 msgctxt "#664"
 msgid "Browse for script"
@@ -2672,11 +2676,11 @@ msgstr "Definir o tamanho da sombra."
 
 msgctxt "#700"
 msgid "Cleaning up library"
-msgstr "Limpando a coleção"
+msgstr "Limpando a biblioteca"
 
 msgctxt "#701"
 msgid "Removing old songs from the library"
-msgstr "Removendo músicas antigas da coleção"
+msgstr "Removendo músicas antigas da biblioteca"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
@@ -2684,7 +2688,7 @@ msgstr "Este caminho já foi examinado anteriormente"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr "Não posso limpar coleção enquanto rodando tarefas em segundo plano"
+msgstr "Não é possível limpar a biblioteca enquanto tarefas em segundo plano estão em execução"
 
 msgctxt "#705"
 msgid "Network"
@@ -2968,7 +2972,7 @@ msgstr "Acesso internet"
 
 msgctxt "#799"
 msgid "Library update"
-msgstr "Atualizar coleção"
+msgstr "Biblioteca atualizada"
 
 #. Label of progress bar which shows the available/total space of pvr backend
 msgctxt "#802"
@@ -4518,7 +4522,7 @@ msgstr "Filtro de mídia"
 
 msgctxt "#10153"
 msgid "Subtitle search"
-msgstr "Procurar legenda"
+msgstr "Pesquisar por legendas"
 
 msgctxt "#10157"
 msgid "OSD CMS settings"
@@ -4526,7 +4530,7 @@ msgstr "Ajustes OSD CMS"
 
 msgctxt "#10159"
 msgid "Subtitle OSD settings"
-msgstr "Ajustes de Legendas OSD"
+msgstr "Configurações OSD das legendas"
 
 msgctxt "#10210"
 msgid "Looking for subtitles..."
@@ -4594,7 +4598,7 @@ msgstr "Dados do sistema"
 
 msgctxt "#10516"
 msgid "Music - Library"
-msgstr "Músicas - Coleção"
+msgstr "Músicas - Biblioteca"
 
 msgctxt "#10517"
 msgid "Now playing - Music"
@@ -5494,7 +5498,7 @@ msgstr "Buscar legendas em RARs"
 
 msgctxt "#13250"
 msgid "Browse for subtitle..."
-msgstr "Procurar legendas..."
+msgstr "Navegar por legendas..."
 
 msgctxt "#13251"
 msgid "Move item"
@@ -5781,7 +5785,7 @@ msgstr "Informações sobre o álbum"
 
 msgctxt "#13352"
 msgid "Scan item to library"
-msgstr "Examinar item para a coleção"
+msgstr "Escanear o item para a biblioteca"
 
 msgctxt "#13353"
 msgid "Stop scanning"
@@ -5915,7 +5919,7 @@ msgstr "Ajustes de Áudio"
 
 msgctxt "#13397"
 msgid "Enable subtitles"
-msgstr "Ativar legendas"
+msgstr "Habilitar legendas"
 
 msgctxt "#13398"
 msgid "Shortcuts"
@@ -6468,7 +6472,7 @@ msgstr "Mudar área de código 3"
 
 msgctxt "#14022"
 msgid "Library"
-msgstr "Coleção"
+msgstr "Biblioteca"
 
 msgctxt "#14023"
 msgid "No TV"
@@ -6660,7 +6664,7 @@ msgstr "Adicionar aos favoritos"
 
 msgctxt "#14077"
 msgid "Remove from favourites"
-msgstr "Remover de favoritos"
+msgstr "Remover dos favoritos"
 
 msgctxt "#14078"
 msgid "Colours"
@@ -6888,11 +6892,11 @@ msgstr "Ajustes de Reprodução"
 
 msgctxt "#14202"
 msgid "Library"
-msgstr "Coleção"
+msgstr "Biblioteca"
 
 msgctxt "#14203"
 msgid "Library settings"
-msgstr "Ajustes da Coleção"
+msgstr "Configurações da biblioteca"
 
 msgctxt "#14204"
 msgid "PVR & Live TV"
@@ -7008,11 +7012,11 @@ msgstr "Download Serviços"
 
 msgctxt "#14236"
 msgid "Video Library"
-msgstr "Coleção de Vídeos"
+msgstr "Biblioteca de Vídeos"
 
 msgctxt "#14237"
 msgid "Music Library"
-msgstr "Coleção de Músicas"
+msgstr "Biblioteca de Músicas"
 
 msgctxt "#14240"
 msgid "Lists & Views"
@@ -7036,23 +7040,23 @@ msgstr "Imagens..."
 
 msgctxt "#14245"
 msgid "Update library on startup"
-msgstr "Atualizar coleção ao inicializar"
+msgstr "Atualizar biblioteca na inicialização"
 
 msgctxt "#14246"
 msgid "Hide progress of library updates"
-msgstr "Ocultar progresso nas atualizações das coleções"
+msgstr "Ocultar o progresso das atualizações da biblioteca"
 
 msgctxt "#14247"
 msgid "Clean library"
-msgstr "Limpar coleção"
+msgstr "Limpar biblioteca"
 
 msgctxt "#14248"
 msgid "Export library"
-msgstr "Exportar coleção"
+msgstr "Exportar biblioteca"
 
 msgctxt "#14249"
 msgid "Import library"
-msgstr "Importar coleção"
+msgstr "Importar biblioteca"
 
 msgctxt "#14250"
 msgid "Audio Decoder"
@@ -7184,7 +7188,7 @@ msgstr "Fechar"
 
 msgctxt "#15100"
 msgid "Library"
-msgstr "Coleção"
+msgstr "Biblioteca"
 
 msgctxt "#15101"
 msgid "Database"
@@ -7468,7 +7472,7 @@ msgstr "Modo-festa cancelado."
 
 msgctxt "#16031"
 msgid "No matching songs in the library."
-msgstr "Nenhuma música encontrada na coleção."
+msgstr "Não há músicas correspondentes na biblioteca."
 
 msgctxt "#16032"
 msgid "Couldn't initialise database."
@@ -10174,7 +10178,7 @@ msgstr "Ícone Allmusic.com"
 
 msgctxt "#20057"
 msgid "Remove thumbnail"
-msgstr "Remover ícone"
+msgstr "Remover miniatura"
 
 msgctxt "#20058"
 msgid "Add profile..."
@@ -10672,7 +10676,7 @@ msgstr "UPnP / DLNA"
 
 msgctxt "#20188"
 msgid "Announce library updates"
-msgstr "Anunciar atualizações da coleção"
+msgstr "Anunciar atualizações da biblioteca"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
@@ -10704,11 +10708,11 @@ msgstr "Alterar provedor de informação"
 
 msgctxt "#20196"
 msgid "Export music library"
-msgstr "Exportar coleção de música"
+msgstr "Exportar biblioteca de músicas"
 
 msgctxt "#20197"
 msgid "Import music library"
-msgstr "Importar coleção de música"
+msgstr "Importar biblioteca de músicas"
 
 msgctxt "#20198"
 msgid "No artist found!"
@@ -10729,7 +10733,7 @@ msgstr "Com este ajuste ligado, qualquer informação que for transferida para �
 
 msgctxt "#20222"
 msgid "Look for external subtitles"
-msgstr "Procurar por legendas externas - UPNP"
+msgstr "Procurar por legendas externas"
 
 msgctxt "#20223"
 msgid "Artist information folder"
@@ -10774,19 +10778,19 @@ msgstr "Aplicativos Android"
 
 msgctxt "#20245"
 msgid "Windows music library"
-msgstr "Janelas coleção música"
+msgstr "Janelas da biblioteca de música"
 
 msgctxt "#20246"
 msgid "Windows videos library"
-msgstr "Janelas coleção vídeos"
+msgstr "Janelas da biblioteca de vídeos"
 
 msgctxt "#20247"
 msgid "Windows pictures library"
-msgstr "Janelas coleção imagens"
+msgstr "Janelas das bibliotecas de imagens"
 
 msgctxt "#20248"
 msgid "Windows photos library"
-msgstr "Janela coleção fotos"
+msgstr "Janela das bibliotecas de fotos"
 
 msgctxt "#20249"
 msgid "Windows documents"
@@ -10866,7 +10870,7 @@ msgstr "Desconhecido ou onboard (protegido)"
 
 msgctxt "#20314"
 msgid "Videos - Library"
-msgstr "Vídeos - Coleção"
+msgstr "Vídeos - Biblioteca"
 
 msgctxt "#20316"
 msgid "Sort by: ID"
@@ -10970,7 +10974,7 @@ msgstr "Diretor"
 
 msgctxt "#20340"
 msgid "Do you want to remove all items within this path from your library?"
-msgstr "Deseja remover todos os itens presentes neste caminho de sua coleção?"
+msgstr "Deseja remover todos os itens dentro deste caminho da sua biblioteca?"
 
 msgctxt "#20342"
 msgid "Movies"
@@ -11056,11 +11060,11 @@ msgstr "Carregando detalhes do episódio"
 
 msgctxt "#20362"
 msgid "Remove episode from library"
-msgstr "Remover episódio da coleção"
+msgstr "Remover episódio da biblioteca"
 
 msgctxt "#20363"
 msgid "Remove TV show from library"
-msgstr "Remover seriado da coleção"
+msgstr "Remover seriado da biblioteca"
 
 msgctxt "#20364"
 msgid "TV show"
@@ -11178,7 +11182,7 @@ msgstr "Concertos"
 
 msgctxt "#20392"
 msgid "Remove music video from library"
-msgstr "Remover concerto da coleção"
+msgstr "Remover vídeos musicais da biblioteca"
 
 msgctxt "#20393"
 msgid "Music video information"
@@ -11266,7 +11270,7 @@ msgstr "Obter Fanart"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
-msgstr "Exibir Fanart nas coleções de video e música"
+msgstr "Exibir fanart nas bibliotecas de vídeo e música"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
@@ -11347,7 +11351,7 @@ msgstr "Sobrescrever arquivos antigos?"
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20432"
 msgid "Exclude path from library updates"
-msgstr "Excluir caminho da atualização de coleções"
+msgstr "Excluir caminho das atualizações da biblioteca"
 
 msgctxt "#20433"
 msgid "Extract video information from files"
@@ -11395,7 +11399,7 @@ msgstr "Deseja recarregar as informações para todos os itens neste caminho?"
 
 msgctxt "#20444"
 msgid "Add to library"
-msgstr "Adicionar para coleção"
+msgstr "Adicionar à biblioteca"
 
 #. Name of an artwork type
 msgctxt "#20445"
@@ -11409,7 +11413,7 @@ msgstr "Foram encontradas informações armazenadas localmente. Ignorar e atuali
 
 msgctxt "#20447"
 msgid "Do you want to add the media from this source to your library?"
-msgstr "Deseja adicionar conteúdos de mídia desta fonte para sua coleção?"
+msgstr "Deseja adicionar o conteúdo multimídia desta fonte à sua biblioteca?"
 
 msgctxt "#20448"
 msgid "Couldn't download information"
@@ -11637,7 +11641,7 @@ msgstr "Adicionar compartilhamento de mídia..."
 
 msgctxt "#21360"
 msgid "Share my libraries"
-msgstr "Compartilhar minhas coleções"
+msgstr "Compartilhar minhas bibliotecas"
 
 msgctxt "#21361"
 msgid "Look for remote UPnP players"
@@ -11787,6 +11791,10 @@ msgstr "Capítulo"
 msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr "Alta qualidade de pixel shader (V2)"
+
+msgctxt "#21398"
+msgid "between"
+msgstr "entre"
 
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -12140,7 +12148,7 @@ msgstr "Contador de faixas de áudio"
 
 msgctxt "#21482"
 msgid "Subtitle track count"
-msgstr "Contador de faixas de legendas"
+msgstr "Número de faixas de legendas"
 
 #. Label for controls used to view something (e.g. a context menu entry to open read-only timer settings dialog)
 msgctxt "#21483"
@@ -12296,7 +12304,7 @@ msgstr "XP Comentário"
 #. Used in context menu
 msgctxt "#21845"
 msgid "Scan to library"
-msgstr "Escanear para coleção"
+msgstr "Escanear para a biblioteca"
 
 msgctxt "#21857"
 msgid "Sub-location"
@@ -12476,11 +12484,11 @@ msgstr "Nasceu / Formou-se"
 
 msgctxt "#22000"
 msgid "Update library on startup"
-msgstr "Atualizar coleção ao inicializar"
+msgstr "Atualizar biblioteca na inicialização"
 
 msgctxt "#22001"
 msgid "Hide progress of library updates"
-msgstr "Ocultar progresso nas atualizações das coleções"
+msgstr "Ocultar o progresso das atualizações da biblioteca"
 
 msgctxt "#22002"
 msgid "DNS suffix"
@@ -13113,7 +13121,7 @@ msgstr "Add-on é incompatível devido a dependências não satisfeitas."
 
 msgctxt "#24105"
 msgid "Pause when searching for subtitles"
-msgstr "Pausar quando buscar por legendas"
+msgstr "Pausar ao procurar legendas"
 
 #. Description of setting "Videos -> Subtitles -> Save subtitles to movie folder" with label #24115
 msgctxt "#24106"
@@ -13122,7 +13130,7 @@ msgstr "Especifique onde legendas transferidas serão salvas, no mesmo local do 
 
 msgctxt "#24107"
 msgid "Searching for subtitles ..."
-msgstr "Buscando por legendas..."
+msgstr "Pesquisando por legendas..."
 
 msgctxt "#24108"
 msgid "{0:d} subtitles found"
@@ -13134,20 +13142,20 @@ msgstr "Nenhuma legenda encontrada"
 
 msgctxt "#24110"
 msgid "Downloading subtitles ..."
-msgstr "Transferindo legendas..."
+msgstr "Baixando legendas..."
 
 msgctxt "#24111"
 msgid "Languages to download subtitles for"
-msgstr "Idiomas para download de legendas"
+msgstr "Idiomas para baixar legendas"
 
 #. Description of setting "Videos -> Subtitles -> Languages to download subtitles for" with label #24111
 msgctxt "#24112"
 msgid "Set languages to use when searching for subtitles.[CR]Note: Not all subtitle services will use all languages."
-msgstr "Sete o idioma a ser usada na procura por legendas.[CR]Nem todos os serviços de legendas usam todas os idiomas disponíveis."
+msgstr "Defina os idiomas a serem usados ao pesquisar legendas.[CR]Nota: Nem todos os serviços de legenda usarão todos os idiomas."
 
 msgctxt "#24113"
 msgid "Failed to download subtitle"
-msgstr "Falhou ao transferir legenda"
+msgstr "Falha ao baixar a legenda"
 
 msgctxt "#24114"
 msgid "No subtitle services installed"
@@ -13203,12 +13211,12 @@ msgstr "Local personalizado"
 
 msgctxt "#24126"
 msgid "Auto download first subtitle"
-msgstr "Efetuar download automático de legenda sincronizada"
+msgstr "Baixar automaticamente a primeira legenda"
 
 #. Description of setting with label #24126 "Auto download first subtitle"
 msgctxt "#24127"
 msgid "Automatically download first subtitle from the search result list"
-msgstr "Automaticamente efetue download da legenda sincronizada da lista de resultados da busca"
+msgstr "Baixa automaticamente a primeira legenda da lista de resultados de pesquisa"
 
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
@@ -13224,11 +13232,11 @@ msgstr "Deseja trocar para este idioma?"
 
 msgctxt "#24133"
 msgid "Subtitle settings"
-msgstr "Ajustes de legendas"
+msgstr "Configurações de legendas"
 
 msgctxt "#24134"
 msgid "Download subtitle..."
-msgstr "Transferir legendas..."
+msgstr "Baixar legendas..."
 
 msgctxt "#24135"
 msgid "To use this feature you must enable an add-on:"
@@ -13281,12 +13289,12 @@ msgstr "Add-on desinstalado"
 #. Used as an event log title for the video library scanner
 msgctxt "#24145"
 msgid "Video library scanner"
-msgstr "Escanear coleção de vídeo"
+msgstr "Scanner da biblioteca de vídeo"
 
 #. Used as an event log title for the music library scanner
 msgctxt "#24146"
 msgid "Music library scanner"
-msgstr "Escanear coleção de música"
+msgstr "Scanner de biblioteca de música"
 
 #. Used as an event log description for files that failed to be processed by the library scanner
 #. Failed to scan <media type>: <filename>
@@ -14643,7 +14651,7 @@ msgstr "Não use o mapeamento de teclas keymap personalizado para este dispositi
 #. Name of add-ons extending the kodi.peripheral extension point
 msgctxt "#35010"
 msgid "Peripheral libraries"
-msgstr "Coleção de periféricos"
+msgstr "Bibliotecas de periféricos"
 
 #. Title of dialog to ask users if they would like to configure a new controller
 msgctxt "#35011"
@@ -15817,7 +15825,7 @@ msgstr "Seção que contém os ajustes relativos aos vídeos e como eles são ma
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36139"
 msgid "This category contains the settings for how the video library is handled."
-msgstr "Esta categoria contém os ajustes de como a coleção de vídeos é manuseada."
+msgstr "Esta categoria contém as configurações de como a biblioteca de vídeos é gerenciada."
 
 #. Description of setting with label #14105 "Temperature unit"
 msgctxt "#36140"
@@ -15837,7 +15845,7 @@ msgstr "Escolha qual a unidade de velocidade será usada para apresentar velocid
 #. Description of setting with label #20402 "Download actor thumbnails"
 msgctxt "#36143"
 msgid "Downloads thumbnails for actors from online databases when adding media to the library."
-msgstr "Obter miniaturas de pessoas de bancos de dados online quando adicionando mídias para a coleção."
+msgstr "Faz o download de miniaturas de atores a partir de bases de dados online ao adicionar conteúdo à biblioteca."
 
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
@@ -15907,7 +15915,7 @@ msgstr "Ativa a decodificação por hardware VAAPI de arquivos de vídeo, usado 
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
 msgid "When enabled, a \"Movie set\" entry is used even if the movie library contains only a single movie from that set. When disabled, a \"Movie set\" entry is used only if the movie library contains more than one movie from that set."
-msgstr "Quando escaneando items para coleção, filmes únicos e que participem de \"Coletânea de filmes\" podem ser agrupados como pertencente a uma coletânea. Com este ajuste ativo o item vai ser mostrado como coletânea, mesmo contendo somente um filme. Se estiver desabilitado irá somente apresentar coletâneas com múltiplos filmes."
+msgstr "Quando ativada, a entrada \" Coletânea de filmes \" é usada mesmo que a biblioteca de filmes contenha apenas um único filme dessa coletânea. Quando desativada, a entrada \" Coletânea de filmes \" é usada somente se a biblioteca de filmes contiver mais de um filme dessa coletânea."
 
 #. Description of setting with label #13427 "Allow hardware acceleration (DXVA2)"
 msgctxt "#36158"
@@ -15932,7 +15940,7 @@ msgstr "Ativar decodificação por hardware VideoToolBox para arquivos de vídeo
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "Mostrar seriados sem episódios quando navegando na coleção de vídeo."
+msgstr "Mostrar séries com nenhum episódio quando navegar pela biblioteca de vídeo."
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -16017,7 +16025,7 @@ msgstr "Quando um arquivo é analisado e inserido na biblioteca, será exibido o
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36180"
 msgid "Extract thumbnails to display in library mode."
-msgstr "Extrair miniaturas para apresentação em modo coleção."
+msgstr "Extrair miniaturas para exibição no modo biblioteca."
 
 msgctxt "#36181"
 msgid "No info available yet."
@@ -16026,12 +16034,12 @@ msgstr "Sem informações disponíveis ainda."
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
 msgid "Combines multi-part video files, DVD folders or movie folders, down to a single item in non-library views."
-msgstr "Combinar arquivos multi-parte de vídeo, pasta de DVD ou pastas de filmes em um único item em visualizações que não estejam na coleção."
+msgstr "Combina arquivos de vídeo, pastas de DVD ou pastas de filmes de várias partes em um único item em visualizações que não sejam de biblioteca."
 
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
 msgid "Removes the title, genre, etc. nodes from the library view. Selecting a category takes you straight to the title view."
-msgstr "Remova o título, gênero etc da visualização da coleção. Selecionar uma categoria leva você direto para o ponto de visualização do título."
+msgstr "Remove os nós de título, gênero, etc., da visualização da biblioteca. Selecionar uma categoria leva você diretamente para a visualização do título."
 
 #. Description of settings category with label #287 "Subtitles"
 msgctxt "#36184"
@@ -16046,17 +16054,17 @@ msgstr "Defina o tipo de fonte a ser usado para legendas."
 #. Description of setting with label #289 "Size"
 msgctxt "#36186"
 msgid "Set the font size to be used for subtitles."
-msgstr "Setar o tamanho da fonte a ser usada nas legendas."
+msgstr "Defina o tamanho da fonte a ser usada para as legendas."
 
 #. Description of setting with label #736 "Style"
 msgctxt "#36187"
 msgid "Set the font style to be used for subtitles."
-msgstr "Setar o estilo da fonte a ser usada nas legendas."
+msgstr "Defina o estilo de fonte a ser usado para as legendas."
 
 #. Description of setting with label #737 "Colour"
 msgctxt "#36188"
 msgid "Set the font colour to be used for subtitles."
-msgstr "Setar a cor da fonte a ser usado nas legendas."
+msgstr "Defina a cor da fonte a ser usada para as legendas."
 
 #. Description of setting with label #735 "Character set"
 msgctxt "#36189"
@@ -16344,7 +16352,7 @@ msgstr "Quanto ativado, música e artistas do álbum são mostrados. Quando desa
 #. Description of setting with label #20192 "Fetch additional information during updates"
 msgctxt "#36256"
 msgid "Automatically fetch album and artist information from information providers when adding songs to the library."
-msgstr "Buscar automaticamente informações do álbum e do artista dos fornecedores de informação ao adicionar músicas para sua coleção."
+msgstr "Ao adicionar músicas à biblioteca, o sistema busca automaticamente informações sobre álbuns e artistas a partir de provedores de informação."
 
 #. Description of setting with label #20193 "Default provider for album information"
 msgctxt "#36257"
@@ -16373,7 +16381,7 @@ msgstr "Se ativo, tal taxa de frames será usada nos streamings aonde não for p
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
 msgid "Export parts of the music library to an XML file or NFO files. This will optionally overwrite your current NFO and artwork files."
-msgstr "Exporte partes da coleção de música para um arquivo XML ou arquivos NFO. Isso substituirá opcionalmente o NFO atual e os arquivos de artes."
+msgstr "Exportar partes da biblioteca de músicas para um arquivo XML ou arquivos NFO. Isso poderá sobrescrever seus arquivos NFO e de arte da capa atuais."
 
 #. Description of setting with label #20197 "Import music library"
 msgctxt "#36263"
@@ -16458,12 +16466,12 @@ msgstr "Usado para formatar a segunda coluna na lista de reprodução atual."
 #. Description of setting with label #13307 "Track naming template" in musicfiles.librarytrackformat
 msgctxt "#36279"
 msgid "Control the way that the names of songs are displayed in library lists."
-msgstr "Controle a maneira que os nomes das músicas são exibidos em listas de sua coleção."
+msgstr "Controle como os nomes das músicas são exibidos nas listas da biblioteca."
 
 #. unused?
 msgctxt "#36280"
 msgid "Used for formatting the second column in library lists."
-msgstr "Usado para formatar a segunda coluna na lista de suas coleções."
+msgstr "Usado para formatar a segunda coluna em listas de bibliotecas."
 
 #. Description of setting with label #14059 "Search for thumbnails on remote shares"
 msgctxt "#36281"
@@ -16671,7 +16679,7 @@ msgstr "Esta categoria contém os ajustes de como o serviço UPnP é manuseado. 
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
 msgid "Enables the UPnP server. This allows you to stream media in your libraries to a UPnP client."
-msgstr "Ativa o servidor UPnP. Isto permite que você faça stream das mídias disponíveis em sua coleção para um cliente UPnP."
+msgstr "Habilita o servidor UPnP. Isso permite que você transmita conteúdo das suas bibliotecas para um cliente UPnP."
 
 #. Description of setting with label #20188 "Announce library updates"
 msgctxt "#36324"
@@ -17124,6 +17132,16 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Nenhuma informação disponível ainda."
 
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
+msgstr ""
+"Reduz a latência de processamento de áudio. Melhora o início, a retomada e a busca da reprodução (o áudio retorna mais cedo).↵\n"
+"Você pode desativar essa configuração se tiver problemas de áudio."
+
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -17418,7 +17436,7 @@ msgstr "Ativar decodificação por hardware de arquivos de vídeo."
 #. Label of a setting, allowing the user to adjust the visual depths of subtitles when watching stereoscopic 3D videos
 msgctxt "#36545"
 msgid "Stereoscopic 3D depth of subtitles"
-msgstr "Profundidade da Legenda estereoscópica 3D"
+msgstr "Profundidade estereoscópica 3D das legendas"
 
 #. Description of setting with label #36545 "Subtitle stereoscopic depth"
 msgctxt "#36546"
@@ -17667,7 +17685,7 @@ msgstr "Precisão da saída de vídeo em bits para dithering. Use a configuraç�
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
-msgstr "Esta categoria contém os ajustes de como a coleção de músicas será manuseada."
+msgstr "Esta categoria contém as configurações de como a biblioteca de música é gerenciada."
 
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
@@ -18438,7 +18456,7 @@ msgstr "Todos os papéis"
 #. Question when forced rescan of music tags needed after upgrade from previous version of Kodi
 msgctxt "#38060"
 msgid "Music library needs to rescan tags from files. Would you like to scan now?"
-msgstr "Coleção de música necessita reescanear as tags dos arquivos. Deseja escanear agora?"
+msgstr "A biblioteca de música precisa verificar novamente as tags dos arquivos. Deseja verificar agora?"
 
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
@@ -18602,7 +18620,7 @@ msgstr "Esta categoria contém os ajustes de como informação das imagens serã
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
 msgid "This category contains the settings for the library databases"
-msgstr "Esta categoria contém os ajustes para os bancos de dados da coleção"
+msgstr "Esta categoria contém as configurações dos bancos de dados da biblioteca"
 
 #. Description of category #14224 "Other"
 msgctxt "#38111"
@@ -18641,7 +18659,7 @@ msgstr "Resetar posição de retomada"
 #. Dialog header for settings for how to export specific music library data
 msgctxt "#38300"
 msgid "Export Music Library"
-msgstr "Exportar Coleção de Músicas"
+msgstr "Exportar Biblioteca de Músicas"
 
 #. Kind of export output, see #38304
 msgctxt "#38301"
@@ -18656,7 +18674,7 @@ msgstr "Separar arquivos para cada item"
 #. Kind of export output, see #38304
 msgctxt "#38303"
 msgid "To library folders"
-msgstr "Para as pastas da coleção"
+msgstr "Para pastas da biblioteca"
 
 #. Selection of export to a single file, many separate files or the library folder(s)
 msgctxt "#38304"
@@ -18707,7 +18725,7 @@ msgstr "Outros artistas"
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr "Não foi possível exportar para as pastas da coleção pois a configuração da pasta de informações do artista do sistema está vazia"
+msgstr "Não foi possível exportar para pastas da biblioteca, pois a configuração da pasta de informações do artista no sistema está vazia"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
@@ -18827,7 +18845,7 @@ msgstr "Não foi possível ler o arquivo xml"
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
 msgid "This category provides access to the windows for source management and library management facilities"
-msgstr "Essa categoria fornece acesso às janelas para gerenciamento de fonte e recursos de gerenciamento das coleções"
+msgstr "Esta categoria fornece acesso às janelas para gerenciamento de fontes e recursos de gerenciamento de biblioteca."
 
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"
@@ -19051,12 +19069,12 @@ msgstr "Ignorar correspondência de nome de arquivo para faixas de áudio extern
 #. Label for section of settings controling what is shown on the library windows
 msgctxt "#39121"
 msgid "Library Display and Navigation"
-msgstr "Exibição e navegação da coleção"
+msgstr "Exibição e Navegação da Biblioteca"
 
 #. Label for section of settings controling how library is populated
 msgctxt "#39122"
 msgid "Library Information Sources"
-msgstr "Fontes de informação da coleção"
+msgstr "Fontes de Informação da Biblioteca"
 
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
@@ -19189,7 +19207,7 @@ msgstr "Sistema de janelas:"
 #. Override subtitles styles setting list
 msgctxt "#39154"
 msgid "Override subtitles styles"
-msgstr "Substituir estilos de legendas"
+msgstr "Substituir estilos das legendas"
 
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
@@ -19831,7 +19849,7 @@ msgstr "Edição definitiva de colecionador"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40415"
 msgid "Criterion Collection Edition"
-msgstr "Edição da coleção criterion"
+msgstr "Edição Criterion Collection"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40416"

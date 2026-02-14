@@ -1123,6 +1123,10 @@ msgctxt "#294"
 msgid "Create bookmark"
 msgstr "బుక్మార్క్ సృష్టించు"
 
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr ""
+
 msgctxt "#296"
 msgid "Clear bookmarks"
 msgstr "బుక్మార్క్లను క్లియర్ చేయండి"
@@ -12000,6 +12004,10 @@ msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr ""
 
+msgctxt "#21398"
+msgid "between"
+msgstr ""
+
 # empty string with id 21398
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -17398,6 +17406,14 @@ msgstr ""
 
 msgctxt "#36415"
 msgid "No info available yet."
+msgstr ""
+
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
 msgstr ""
 
 #. Description of setting with label #21417 "Settings"

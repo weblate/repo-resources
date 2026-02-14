@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-01-01 21:04+0000\n"
+"PO-Revision-Date: 2026-02-12 12:13+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -216,22 +216,22 @@ msgstr "dets"
 #. Weather token
 msgctxt "#71"
 msgid "N"
-msgstr "Põhja"
+msgstr "Põhi"
 
 #. Weather token
 msgctxt "#72"
 msgid "NNE"
-msgstr "Põhjakirde"
+msgstr "Põhjakirre"
 
 #. Weather token
 msgctxt "#73"
 msgid "NE"
-msgstr "Kirde"
+msgstr "Kirre"
 
 #. Weather token
 msgctxt "#74"
 msgid "ENE"
-msgstr "Idakirde"
+msgstr "Idakirre"
 
 #. Weather token
 msgctxt "#75"
@@ -261,22 +261,22 @@ msgstr "Lõuna"
 #. Weather token
 msgctxt "#80"
 msgid "SSW"
-msgstr "Lõunaedela"
+msgstr "Lõunaedel"
 
 #. Weather token
 msgctxt "#81"
 msgid "SW"
-msgstr "Edela"
+msgstr "Edel"
 
 #. Weather token
 msgctxt "#82"
 msgid "WSW"
-msgstr "Lääneedela"
+msgstr "Lääneedel"
 
 #. Weather token
 msgctxt "#83"
 msgid "W"
-msgstr "Lääne"
+msgstr "Lääs"
 
 #. Weather token
 msgctxt "#84"
@@ -306,7 +306,7 @@ msgstr "Lõuna"
 #. Weather token
 msgctxt "#89"
 msgid "North"
-msgstr "Põhi"
+msgstr "Põhja"
 
 #. Weather token
 msgctxt "#90"
@@ -341,7 +341,7 @@ msgstr "Kuva: Loend"
 
 msgctxt "#102"
 msgid "Scan"
-msgstr "Skaneeri"
+msgstr "Skanni"
 
 msgctxt "#103"
 msgid "Sort by: Name"
@@ -385,11 +385,11 @@ msgstr "Paus"
 
 msgctxt "#113"
 msgid "Update failed"
-msgstr "Uuendamine ebaõnnestus"
+msgstr "Uuendamine nurjus"
 
 msgctxt "#114"
 msgid "Installation failed"
-msgstr "Paigaldamine ebaõnnestus"
+msgstr "Paigaldamine nurjus"
 
 msgctxt "#115"
 msgid "Copy"
@@ -454,7 +454,7 @@ msgstr "Slaidiesitlus"
 #. skin sub-menu
 msgctxt "#130"
 msgid "System info"
-msgstr "Süsteemist"
+msgstr "Süsteemiteave"
 
 msgctxt "#131"
 msgid "Display"
@@ -486,7 +486,7 @@ msgstr "Otsi"
 
 msgctxt "#138"
 msgid "System information"
-msgstr "Süsteemi andmed"
+msgstr "Süsteemiteave"
 
 msgctxt "#139"
 msgid "Temperatures:"
@@ -506,7 +506,7 @@ msgstr "Aeg:"
 
 msgctxt "#143"
 msgid "Current:"
-msgstr "Käibiv:"
+msgstr "Praegune:"
 
 msgctxt "#144"
 msgid "Build:"
@@ -530,11 +530,11 @@ msgstr "DHCP"
 
 msgctxt "#149"
 msgid "MAC address"
-msgstr "MAC aadress"
+msgstr "MAC-aadress"
 
 msgctxt "#150"
 msgid "IP address"
-msgstr "IP aadress"
+msgstr "IP-aadress"
 
 msgctxt "#151"
 msgid "Link:"
@@ -550,7 +550,7 @@ msgstr "Täisdupleks"
 
 msgctxt "#154"
 msgid "Storage"
-msgstr "Salvestusmaht"
+msgstr "Kettaruum"
 
 msgctxt "#155"
 msgid "Drive"
@@ -614,7 +614,7 @@ msgstr "Ekraani värskendussageduse muutmine"
 
 msgctxt "#171"
 msgid "Sort title"
-msgstr "Järjesta pealkiri"
+msgstr "Järjestusnimi"
 
 msgctxt "#172"
 msgid "Release date"
@@ -644,7 +644,7 @@ msgstr "{0:s} käivitati edukalt"
 #. <application name> has been successfully started.
 msgctxt "#178"
 msgid "{0:s} has been successfully started."
-msgstr "{0:s} on edukalt käivitunud."
+msgstr "{0:s} on edukalt käivitatud."
 
 msgctxt "#179"
 msgid "Song"
@@ -689,7 +689,7 @@ msgstr "Vali kõik"
 
 msgctxt "#189"
 msgid "Scanning media information"
-msgstr "Meedia andmete skaneerimine"
+msgstr "Meediateabe skannimine"
 
 msgctxt "#190"
 msgid "Save"
@@ -705,7 +705,7 @@ msgstr "Puhasta"
 
 msgctxt "#193"
 msgid "Scan"
-msgstr "Skaneeri"
+msgstr "Skanni"
 
 #. label for "searching" message box heading
 msgctxt "#194"
@@ -714,7 +714,7 @@ msgstr "Otsimine..."
 
 msgctxt "#195"
 msgid "No information found!"
-msgstr "Infot ei leitud!"
+msgstr "Teavet ei leitud!"
 
 msgctxt "#196"
 msgid "Select movie:"
@@ -746,12 +746,12 @@ msgstr "Juhtlause"
 
 msgctxt "#203"
 msgid "Plot outline"
-msgstr "Sisu ülevaade"
+msgstr "Lühikokkuvõte"
 
 #. label of a smartplaylist filter option to filter for albums on compilations
 msgctxt "#204"
 msgid "Compilation"
-msgstr "Kollektsioon"
+msgstr "Kogumik"
 
 #. label of a smartplaylist filter option to filter for songs or albums on votes for rating
 msgctxt "#205"
@@ -840,7 +840,7 @@ msgstr "Vertikaalne nihe"
 
 msgctxt "#227"
 msgid "Load audio CD information from online service"
-msgstr "Lae audio CD andmed interneti teenusest"
+msgstr "Laadi heliplaadi teave veebiteenusest"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
@@ -957,7 +957,7 @@ msgstr "CDDB"
 
 msgctxt "#256"
 msgid "Fetching CD information"
-msgstr "CD andmete hankimine"
+msgstr "CD teabe hankimine"
 
 #. xbmc/pvr/timers/PVRTimerInfoTag.cpp
 msgctxt "#257"
@@ -966,7 +966,7 @@ msgstr "Viga"
 
 msgctxt "#258"
 msgid "Enable tag reading"
-msgstr "Luba märgendi lugemine"
+msgstr "Luba siltidelt teabe lugemine"
 
 msgctxt "#259"
 msgid "Opening"
@@ -986,7 +986,7 @@ msgstr "Skriptide väljund"
 
 msgctxt "#263"
 msgid "Allow remote control via HTTP"
-msgstr "Luba kaugjuhtimine läbi HTTP"
+msgstr "Luba kaughaldus läbi HTTP"
 
 #. Label for a context menu entry / button to start/schedule a recording
 msgctxt "#264"
@@ -1003,7 +1003,7 @@ msgstr "Järjesta: Lugu"
 
 msgctxt "#267"
 msgid "Sort by: Time"
-msgstr "Järjesta: Kestvus"
+msgstr "Järjesta: Kestus"
 
 msgctxt "#268"
 msgid "Sort by: Title"
@@ -1104,7 +1104,7 @@ msgstr "Suurus"
 
 msgctxt "#290"
 msgid "Dynamic range compression"
-msgstr "Dünaamilise diapasooni kompressioon"
+msgstr "Dünaamilise ulatuse pakkimine"
 
 msgctxt "#291"
 msgid "Video"
@@ -1112,7 +1112,7 @@ msgstr "Video"
 
 msgctxt "#292"
 msgid "Audio"
-msgstr "Audio"
+msgstr "Heli"
 
 msgctxt "#293"
 msgid "Browse for subtitles"
@@ -1122,13 +1122,17 @@ msgctxt "#294"
 msgid "Create bookmark"
 msgstr "Loo järjehoidja"
 
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr "Madal latentsusaeg"
+
 msgctxt "#296"
 msgid "Clear bookmarks"
 msgstr "Kustuta järjehoidjad"
 
 msgctxt "#297"
 msgid "Audio offset"
-msgstr "Audio nihe"
+msgstr "Heli nihe"
 
 msgctxt "#298"
 msgid "Bookmarks"
@@ -1281,7 +1285,7 @@ msgstr "Viga andmebaasi pakkimisel"
 
 msgctxt "#333"
 msgid "Do you want to clean the library?"
-msgstr "Kas soovid meediakogu puhastada?"
+msgstr "Kas puhastada meediakogu?"
 
 msgctxt "#334"
 msgid "Clean library..."
@@ -1506,7 +1510,7 @@ msgstr "tugev"
 #. Weather token
 msgctxt "#385"
 msgid "Fair"
-msgstr "keskmine"
+msgstr "Selge"
 
 #. Weather token
 msgctxt "#386"
@@ -1531,7 +1535,7 @@ msgstr "hoovihm"
 #. Weather token
 msgctxt "#390"
 msgid "Flurries"
-msgstr "puhangud"
+msgstr "Kerge lumesadu"
 
 #. Weather token
 msgctxt "#391"
@@ -1604,11 +1608,11 @@ msgstr "Niiskus"
 
 msgctxt "#407"
 msgid "Hardware keyboard layouts"
-msgstr "Klaviatuuri paigutused"
+msgstr "Riistvaralise klaviatuuri paigutused"
 
 msgctxt "#409"
 msgid "Defaults"
-msgstr "Vaikeväärtused"
+msgstr "Algseaded"
 
 msgctxt "#410"
 msgid "Accessing weather service"
@@ -1644,7 +1648,7 @@ msgstr "Madal"
 
 msgctxt "#419"
 msgid "High"
-msgstr "Max"
+msgstr "Kõrge"
 
 msgctxt "#420"
 msgid "Best match"
@@ -1656,11 +1660,11 @@ msgstr "Hoia heliseade elus"
 
 msgctxt "#422"
 msgid "Delete album information"
-msgstr "Kustuta albumi teave"
+msgstr "Kustuta albumiteave"
 
 msgctxt "#423"
 msgid "Delete CD information"
-msgstr "Kustuta CD andmed"
+msgstr "Kustuta CD-teave"
 
 msgctxt "#424"
 msgid "Select"
@@ -1668,11 +1672,11 @@ msgstr "Vali"
 
 msgctxt "#425"
 msgid "No album information found"
-msgstr "Albumi andmeid ei leitud"
+msgstr "Albumiteavet ei leitud"
 
 msgctxt "#426"
 msgid "No CD information found"
-msgstr "CD andmeid ei leitud"
+msgstr "CD-teavet ei leitud"
 
 msgctxt "#427"
 msgid "Disc"
@@ -1700,12 +1704,12 @@ msgstr "Eemalda film meediakogust"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr "Kas soovid '{0:s}' meediakogust eemaldada?"
+msgstr "Kas eemaldada '{0:s}' meediakogust?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
 msgid "From {0:s} at {1:d} {2:s}"
-msgstr "{0:s} tuul {1:d} {2:s}"
+msgstr "{0:s}tuul kiirusega {1:d} {2:s}"
 
 #. Headline of a dialog that pops up when a user tries to play a video that is located on an optical disc (Blu-ray, DVD) but the current KODI device doesn't have the according drive
 msgctxt "#435"
@@ -1807,7 +1811,7 @@ msgstr "Piira diskreetimissagedust (kHz)"
 
 msgctxt "#459"
 msgid "Subs"
-msgstr "Subt."
+msgstr "Subtiitrid"
 
 msgctxt "#460"
 msgid "Audio stream"
@@ -1923,7 +1927,7 @@ msgstr "Lisavalikud (ainult edasijõudnutele!)"
 
 msgctxt "#494"
 msgid "Overall audio headroom"
-msgstr "Üldine helitugevuse lagi (dB)"
+msgstr "Üldine helivaru (dB)"
 
 msgctxt "#495"
 msgid "Upscale videos to GUI resolution"
@@ -1947,7 +1951,7 @@ msgstr "Andmete küsimiseks internetist ei saa ühendust"
 
 msgctxt "#500"
 msgid "Downloading album information failed"
-msgstr "Albumi teabe allalaadimine ebaõnnestus"
+msgstr "Albumiteabe allalaadimine nurjus"
 
 msgctxt "#501"
 msgid "Looking for album names..."
@@ -1968,7 +1972,7 @@ msgstr "Tühi"
 #. label for library update progress bar when scanning media files
 msgctxt "#505"
 msgid "Loading media information from files..."
-msgstr "Meedia teabe laadimine failidest..."
+msgstr "Meediateabe laadimine failidest..."
 
 #. label for library update progress bar when checking for new or changed media files
 msgctxt "#506"
@@ -2018,7 +2022,7 @@ msgstr "Käivita..."
 #. Node title for compilation albums, plural of #204
 msgctxt "#521"
 msgid "Compilations"
-msgstr "Kollektsioonid"
+msgstr "Kogumikud"
 
 msgctxt "#522"
 msgid "Remove source"
@@ -2026,7 +2030,7 @@ msgstr "Eemalda allikas"
 
 msgctxt "#523"
 msgid "Switch media"
-msgstr "Vaheta meediumit"
+msgstr "Vaheta meediat"
 
 msgctxt "#524"
 msgid "Select playlist"
@@ -2157,7 +2161,7 @@ msgstr "Lugu"
 
 msgctxt "#555"
 msgid "Time"
-msgstr "Kestvus"
+msgstr "Kestus"
 
 msgctxt "#556"
 msgid "Title"
@@ -2332,7 +2336,7 @@ msgstr "Ripi heliplaat"
 
 msgctxt "#601"
 msgid "Medium"
-msgstr "Meedium"
+msgstr "Keskmine"
 
 msgctxt "#602"
 msgid "Standard"
@@ -2356,7 +2360,7 @@ msgstr "Kellele:"
 
 msgctxt "#608"
 msgid "Couldn't rip CD or track because CDDARipPath is not set."
-msgstr "CD või loo rippimine ebaõnnestus sest CDDARipPath ei ole määratud."
+msgstr "CD või loo rippimine nurjus, sest CDDARipPath ei ole määratud."
 
 msgctxt "#610"
 msgid "Rip audio track"
@@ -2460,15 +2464,15 @@ msgstr "Kasuta albumi nivood"
 
 msgctxt "#641"
 msgid "Files with ReplayGain information"
-msgstr "ReplayGain teabega failid"
+msgstr "ReplayGain-teabega failid"
 
 msgctxt "#642"
 msgid "Files without ReplayGain information"
-msgstr "ReplayGain teabeta failid"
+msgstr "ReplayGain-teabeta failid"
 
 msgctxt "#643"
 msgid "Avoid clipping protection on ReplayGained files"
-msgstr "Väldi ReplayGained faili moonutuskaitset"
+msgstr "Väldi helimoonutuste kaitset ReplayGain failidel"
 
 msgctxt "#644"
 msgid "Stretch 16:9 - Nonlinear"
@@ -2514,7 +2518,7 @@ msgstr "Uuenda meediakogu"
 
 msgctxt "#654"
 msgid "Show debug information"
-msgstr "Kuva silumise teave"
+msgstr "Kuva silumisteave"
 
 msgctxt "#655"
 msgid "Browse for executable"
@@ -2530,7 +2534,7 @@ msgstr "Sirvi kausta"
 
 msgctxt "#658"
 msgid "Song information"
-msgstr "Laulu teave"
+msgstr "Lauluteave"
 
 msgctxt "#659"
 msgid "Non-linear stretch"
@@ -2538,7 +2542,7 @@ msgstr "Mittelineaarne venitus"
 
 msgctxt "#660"
 msgid "Volume amplification"
-msgstr "Heli võimendus"
+msgstr "Helitugevuse võimendus"
 
 msgctxt "#661"
 msgid "Choose export folder"
@@ -2550,7 +2554,7 @@ msgstr "See fail pole enam saadaval."
 
 msgctxt "#663"
 msgid "Would you like to remove it from the library?"
-msgstr "Kas soovid selle meediakogust eemaldada?"
+msgstr "Kas eemaldada see meediakogust?"
 
 msgctxt "#664"
 msgid "Browse for script"
@@ -2622,11 +2626,11 @@ msgstr "[B]Andmebaasi[/B] komponendi detailne logimine"
 
 msgctxt "#683"
 msgid "Verbose logging of [B]audio/video timing information[/B]"
-msgstr "[B]Heli ja pildi ajastuse[/B] komponendi detailne logimine"
+msgstr "[B]Heli ja pildi ajastusteabe[/B] üksikasjalik logimine"
 
 msgctxt "#684"
 msgid "Verbose logging of [B]Windowing[/B] component"
-msgstr "[B]Kasutajaliidese[/B] komponendi detailne logimine"
+msgstr "[B]Aknahalduse[/B] komponendi detailne logimine"
 
 msgctxt "#685"
 msgid "Verbose logging of [B]PVR[/B] component"
@@ -2680,7 +2684,7 @@ msgstr "Vanade lugude eemaldamine meediakogust"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
-msgstr "Seda kohta on juba skaneeritud"
+msgstr "Seda kohta on juba skannitud"
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
@@ -2696,7 +2700,7 @@ msgstr "Server"
 
 msgctxt "#708"
 msgid "Use proxy server"
-msgstr "Kasuta puhverserverit"
+msgstr "Kasuta proksiserverit"
 
 msgctxt "#711"
 msgid "Internet Protocol (IP)"
@@ -2708,7 +2712,7 @@ msgstr "Määratud on vigane port. Pordi väärtused on vahemikus 1 kuni 65535."
 
 msgctxt "#713"
 msgid "HTTP proxy"
-msgstr "HTTP puhverserver"
+msgstr "HTTP proksi"
 
 msgctxt "#715"
 msgid "Assignment"
@@ -2844,7 +2848,7 @@ msgstr "Muuda rada"
 
 msgctxt "#749"
 msgid "Mirror image"
-msgstr "Peegelketas"
+msgstr "Peegelpilt"
 
 msgctxt "#750"
 msgid "Are you sure?"
@@ -2916,7 +2920,7 @@ msgstr "Tumehall"
 
 msgctxt "#770"
 msgid "Error {0:d}: share not available"
-msgstr "Viga {0:d}: jagu ei ole saadaval"
+msgstr "Viga {0:d}: jagatud kaust ei ole saadaval"
 
 msgctxt "#772"
 msgid "Audio"
@@ -2936,7 +2940,7 @@ msgstr "Kaugjuhtimine"
 
 msgctxt "#791"
 msgid "Allow remote control by programs on this system"
-msgstr "Luba kaugjuhtimine programmidega selles süsteemis"
+msgstr "Luba kaughaldus selle süsteemi rakendustega"
 
 msgctxt "#792"
 msgid "Port"
@@ -2948,7 +2952,7 @@ msgstr "Pordi vahemik"
 
 msgctxt "#794"
 msgid "Allow remote control by programs on other systems"
-msgstr "Luba teistes süsteemides programmidega kaughaldus"
+msgstr "Luba kaughaldus teiste süsteemide rakendustega"
 
 msgctxt "#795"
 msgid "Initial repeat delay (ms)"
@@ -2960,7 +2964,7 @@ msgstr "Pidev viivitus (ms)"
 
 msgctxt "#797"
 msgid "Maximum number of clients"
-msgstr "Maksimaalne klientide arv"
+msgstr "Suurim klientide arv"
 
 msgctxt "#798"
 msgid "Internet access"
@@ -3025,7 +3029,7 @@ msgstr "Salvestuse grupp"
 #. Label of prevent duplicate episodes list control (if user does not want to record the same episode multiple times) in PVR timer settings dialog
 msgctxt "#812"
 msgid "Prevent duplicate episodes"
-msgstr "Väldi korduvad episoodid"
+msgstr "Väldi korduvaid episoode"
 
 #. Label of start padding time list control in PVR timer settings dialog
 msgctxt "#813"
@@ -3055,7 +3059,7 @@ msgstr "Lõpeta suvalisel ajal"
 #. Label of "MaxRecordings" list in the PVR timer settings dialog
 msgctxt "#818"
 msgid "Max recordings"
-msgstr "Maks. lubatud salvestusi"
+msgstr "Suurim salvestiste arv"
 
 #. Representation of a one-time timer which has been scheduled by a timer rule.
 msgctxt "#819"
@@ -3165,7 +3169,7 @@ msgstr "Otseeeter"
 #. Message in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#840"
 msgid "Do you only want to delete this timer or also the timer rule that has scheduled it?"
-msgstr "Kas soovid kustutada ainult selle taimeri või ka taimeri reegli mis selle planeeris?"
+msgstr "Kas kustutada ainult see taimer või ka taimeri reegel, mis selle planeeris?"
 
 #. Label for No button in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#841"
@@ -3190,12 +3194,12 @@ msgstr "Deaktiveeri"
 #. Message in a dialog when a user wants to delete a timer rule
 msgctxt "#845"
 msgid "Are you sure you want to delete this timer rule and all timers it has scheduled?"
-msgstr "Kas soovid kustutada selle taimeri reegli ja kõik taimerid mis on planeeritud?"
+msgstr "Kas kustutada see taimeri reegel ja kõik selle plaanitud taimerid?"
 
 #. Message in a dialog when a user wants to delete a timer
 msgctxt "#846"
 msgid "Are you sure you want to delete this timer?"
-msgstr "Kas sa soovid kustutada selle taimeri?"
+msgstr "Kas kustutada see taimer?"
 
 #. Heading for a dialog for confirming to stop an active recording
 msgctxt "#847"
@@ -3205,7 +3209,7 @@ msgstr "Kinnita salvestamise peatamine"
 #. Message in a dialog when a user wants to stop an active recording
 msgctxt "#848"
 msgid "Are you sure you want to stop this recording?"
-msgstr "Kas sa soovid peatada lindistamise?"
+msgstr "Kas peatada salvestamine?"
 
 #. Label for a finale of a TV show
 msgctxt "#849"
@@ -3287,7 +3291,7 @@ msgstr "Jah"
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr "Kas soovid selle salvestise kustutada?"
+msgstr "Kas kustutada see salvestis?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
@@ -3340,7 +3344,7 @@ msgstr "Serveri nimi"
 
 msgctxt "#1011"
 msgid "Remote path"
-msgstr "Kaugrada"
+msgstr "Võrgutee"
 
 msgctxt "#1012"
 msgid "Shared folder"
@@ -3389,7 +3393,7 @@ msgstr "Sisesta selle meediaallika nimi."
 
 msgctxt "#1023"
 msgid "Browse for new share"
-msgstr "Sirvi uut jagu"
+msgstr "Sirvi uut jagatud kausta"
 
 msgctxt "#1024"
 msgid "Browse"
@@ -3409,7 +3413,7 @@ msgstr "Muuda allikat"
 
 msgctxt "#1029"
 msgid "Enter the new label"
-msgstr "Lisa uus silt"
+msgstr "Lisa uus nimetus"
 
 msgctxt "#1030"
 msgid "Browse for image"
@@ -3461,7 +3465,7 @@ msgstr "Leiti {0:d} nimetust"
 
 msgctxt "#1042"
 msgid "Retrieved {0:d} of {1:d} items"
-msgstr "Leiti otsiti {0:d} nimetust {1:d}-st"
+msgstr "Leiti {0:d} nimetust {1:d}-st"
 
 msgctxt "#1043"
 msgid "Program add-ons"
@@ -3501,7 +3505,7 @@ msgstr "Vali, kas veebiserver nõuab kasutajanime ja parooli. Need tuleb lubamis
 
 msgctxt "#1180"
 msgid "Proxy type"
-msgstr "Puhverserveri tüüp"
+msgstr "Proksi tüüp"
 
 msgctxt "#1181"
 msgid "HTTP"
@@ -3553,7 +3557,7 @@ msgstr "WINS server"
 
 msgctxt "#1208"
 msgid "Mount SMB shares"
-msgstr "Ühenda SMB jaod"
+msgstr "Haagi SMB jagatud kaustad"
 
 msgctxt "#1210"
 msgid "Remove"
@@ -3742,7 +3746,7 @@ msgstr "Väga"
 #. Weather token
 msgctxt "#1381"
 msgid "Extreme"
-msgstr "Ülim"
+msgstr "Äärmuslik"
 
 #. Weather token
 msgctxt "#1382"
@@ -3757,7 +3761,7 @@ msgstr "Selge taevas"
 #. Weather token
 msgctxt "#1384"
 msgid "Broken"
-msgstr "Vigane"
+msgstr "Vahelduv pilvisus"
 
 #. Weather token
 msgctxt "#1385"
@@ -3782,7 +3786,7 @@ msgstr "Külm"
 #. Weather token
 msgctxt "#1389"
 msgid "Windy"
-msgstr "tuuline"
+msgstr "Tuuline"
 
 #. Weather token
 msgctxt "#1390"
@@ -3792,7 +3796,7 @@ msgstr "Seaded"
 #. Weather token
 msgctxt "#1391"
 msgid "Breeze"
-msgstr "Tuuleiil"
+msgstr "Kerge tuul"
 
 #. Weather token
 msgctxt "#1392"
@@ -3802,7 +3806,7 @@ msgstr "Õrn"
 #. Weather token
 msgctxt "#1393"
 msgid "High wind, near gale"
-msgstr "Tormi lähedal tugev tuul"
+msgstr "Tugev tuul, tormieelne"
 
 #. Weather token
 msgctxt "#1394"
@@ -3817,7 +3821,7 @@ msgstr "Äge"
 #. Weather token
 msgctxt "#1396"
 msgid "Drifting"
-msgstr "triiviv"
+msgstr "Triiviv"
 
 #. Weather token
 msgctxt "#1397"
@@ -3852,12 +3856,12 @@ msgstr "äike"
 #. Weather token
 msgctxt "#1403"
 msgid "Sun"
-msgstr "päikesepaisteline"
+msgstr "Päike"
 
 #. Weather token
 msgctxt "#1404"
 msgid "Heavy"
-msgstr "raske"
+msgstr "Tugev"
 
 #. Weather token
 msgctxt "#1405"
@@ -3872,7 +3876,7 @@ msgstr "tulemas"
 #. Weather token
 msgctxt "#1407"
 msgid "Vicinity"
-msgstr "lähedal"
+msgstr "Lähedal"
 
 #. Weather token
 msgctxt "#1408"
@@ -3882,7 +3886,7 @@ msgstr "jää"
 #. Weather token
 msgctxt "#1409"
 msgid "Crystals"
-msgstr "jäide"
+msgstr "Jääkristallid"
 
 #. Weather token
 msgctxt "#1410"
@@ -3902,7 +3906,7 @@ msgstr "tuuline"
 #. Weather token
 msgctxt "#1413"
 msgid "Patches"
-msgstr "laigud"
+msgstr "Laigud"
 
 #. Weather token
 msgctxt "#1414"
@@ -3922,12 +3926,12 @@ msgstr "udune"
 #. Weather token
 msgctxt "#1417"
 msgid "Grains"
-msgstr "rahe"
+msgstr "Lumekruubid"
 
 #. Weather token
 msgctxt "#1418"
 msgid "Thunderstorms"
-msgstr "pikne"
+msgstr "Äikesevihmad"
 
 #. Weather token
 msgctxt "#1419"
@@ -4002,7 +4006,7 @@ msgstr "Liiv"
 #. Weather token
 msgctxt "#1433"
 msgid "Spray"
-msgstr "Pihustatud"
+msgstr "Udupiisad"
 
 #. Weather token
 msgctxt "#1434"
@@ -4017,7 +4021,7 @@ msgstr "Liivatorm"
 #. Weather token
 msgctxt "#1436"
 msgid "Blowing"
-msgstr "Puhumine"
+msgstr "Tuisk"
 
 #. Weather token
 msgctxt "#1437"
@@ -4077,7 +4081,7 @@ msgstr "Tuulepuhangud"
 #. Weather token
 msgctxt "#1448"
 msgid "Precipitation"
-msgstr "Sadememäär"
+msgstr "Sademed"
 
 #. Weather token
 msgctxt "#1449"
@@ -4102,7 +4106,7 @@ msgstr "Võeti kasutusele peamine loend, sest aktiivne loend tühjendati"
 
 msgctxt "#2101"
 msgid "Newer version needed. Check the log for more information about this message."
-msgstr "Vaja on uut versiooni. Rohkem infot selle sõnumi kohta saab logifailist."
+msgstr "Vajalik on uus versioon. Rohkem teavet selle sõnumi kohta saab logifailist."
 
 #. Notification message indicating an add-on error. "<Add-on name> error".
 msgctxt "#2102"
@@ -4117,7 +4121,7 @@ msgstr "Lisamooduli viga"
 #. Used for add-on error kaitoast.
 msgctxt "#2104"
 msgid "Check the log for more information."
-msgstr "Rohkem infot saab logifailist."
+msgstr "Rohkem teavet saab logifailist."
 
 # empty strings from id 2105 to 2202
 msgctxt "#2203"
@@ -4130,7 +4134,7 @@ msgstr "Vali see suvand, kui soovid DTS-HD vormingute läbiviiku DTS-ina, vastas
 
 msgctxt "#10000"
 msgid "Home"
-msgstr "Peamenüü"
+msgstr "Avakuva"
 
 msgctxt "#10001"
 msgid "Programs"
@@ -4159,7 +4163,7 @@ msgstr "pole saadaval"
 
 msgctxt "#10007"
 msgid "System information"
-msgstr "Süsteemi andmed"
+msgstr "Süsteemiteave"
 
 msgctxt "#10008"
 msgid "Play next"
@@ -4252,7 +4256,7 @@ msgstr "Seaded - Pleier"
 
 msgctxt "#10031"
 msgid "Settings - Media"
-msgstr "Seaded - Meedium"
+msgstr "Seaded - Meedia"
 
 msgctxt "#10032"
 msgid "Settings - Interface"
@@ -4272,7 +4276,7 @@ msgstr "Lihtne"
 
 msgctxt "#10037"
 msgid "Standard"
-msgstr "Normaalne"
+msgstr "Standard"
 
 msgctxt "#10038"
 msgid "Advanced"
@@ -4284,7 +4288,7 @@ msgstr "Ekspert"
 
 msgctxt "#10040"
 msgid "Add-on browser"
-msgstr "Lisamoodulite brauser"
+msgstr "Lisamoodulite sirvija"
 
 msgctxt "#10041"
 msgid "Reset above settings to default"
@@ -4324,7 +4328,7 @@ msgstr "Lisa muusika allikas"
 
 msgctxt "#10050"
 msgid "Event log"
-msgstr "Logimine"
+msgstr "Sündmuste logi"
 
 msgctxt "#10051"
 msgid "Add program source"
@@ -4373,7 +4377,7 @@ msgstr "Jah/Ei dialoog"
 
 msgctxt "#10101"
 msgid "Progress dialog"
-msgstr "Edenemise dialoog"
+msgstr "Edenemisaken"
 
 msgctxt "#10103"
 msgid "Virtual keyboard"
@@ -4474,11 +4478,11 @@ msgstr "Loo info"
 
 msgctxt "#10136"
 msgid "Smart playlist editor"
-msgstr "Nutikas esitlusloendi redaktor"
+msgstr "Nutika esitlusloendi redaktor"
 
 msgctxt "#10137"
 msgid "Smart playlist rule editor"
-msgstr "Nutikas esitlusloendi reeglite redaktor"
+msgstr "Nutika esitlusloendi reeglite redaktor"
 
 msgctxt "#10139"
 msgid "Picture info"
@@ -4506,7 +4510,7 @@ msgstr "Tekstivaatur"
 
 msgctxt "#10150"
 msgid "Peripheral settings"
-msgstr "Välisseaded"
+msgstr "Lisaseadmete sätted"
 
 msgctxt "#10151"
 msgid "Extended progress dialog"
@@ -4558,7 +4562,7 @@ msgstr "Muusika"
 
 msgctxt "#10503"
 msgid "Music playlist editor"
-msgstr "Muusika esitusloendi muutmine"
+msgstr "Muusika esitusloendi redaktor"
 
 msgctxt "#10504"
 msgid "Top 100 songs"
@@ -4606,11 +4610,11 @@ msgstr "Hetkel mängib - Videod"
 
 msgctxt "#10523"
 msgid "Album information"
-msgstr "Albumi andmed"
+msgstr "Albumi teave"
 
 msgctxt "#10524"
 msgid "Movie information"
-msgstr "Filmi andmed"
+msgstr "Filmi teave"
 
 msgctxt "#10550"
 msgid "Teletext"
@@ -4803,11 +4807,11 @@ msgstr "Video täisekraanil"
 
 msgctxt "#12006"
 msgid "Audio visualisation"
-msgstr "Audio visualiseerimine"
+msgstr "Heli visuaalid"
 
 msgctxt "#12007"
 msgid "Audio visualisation"
-msgstr "Audio visualiseerimine"
+msgstr "Heli visuaalid"
 
 #. Does not match window ID description
 msgctxt "#12009"
@@ -4816,7 +4820,7 @@ msgstr "Loo indeks uuesti..."
 
 msgctxt "#12010"
 msgid "Return to music window"
-msgstr "Tagasi muusika menüüsse"
+msgstr "Tagasi muusikaaknasse"
 
 msgctxt "#12011"
 msgid "Return to videos window"
@@ -4828,7 +4832,7 @@ msgstr "Viimati kasutatud"
 
 msgctxt "#12013"
 msgid "Install date"
-msgstr "Installi kuupäev"
+msgstr "Paigaldamise kuupäev"
 
 msgctxt "#12014"
 msgid "Last updated"
@@ -4922,7 +4926,7 @@ msgstr "Sisesta parool"
 
 msgctxt "#12327"
 msgid "Enter master code"
-msgstr "Sisesta juurkasutaja kood"
+msgstr "Sisesta peakood"
 
 msgctxt "#12328"
 msgid "Enter unlock code"
@@ -5079,11 +5083,11 @@ msgstr "Kuu / Päev"
 
 msgctxt "#12389"
 msgid "Privacy policy"
-msgstr "Kasutustingimused"
+msgstr "Privaatsuspoliitika"
 
 msgctxt "#12390"
 msgid "System uptime"
-msgstr "Süsteemi ülalolekuaeg"
+msgstr "Süsteemi tööaeg"
 
 msgctxt "#12391"
 msgid "Minutes"
@@ -5178,7 +5182,7 @@ msgstr "Sulgemisfunktsioon"
 
 msgctxt "#13009"
 msgid "Quit"
-msgstr "Lõpeta"
+msgstr "Sulge"
 
 msgctxt "#13010"
 msgid "Hibernate"
@@ -5202,7 +5206,7 @@ msgstr "Vähenda"
 
 msgctxt "#13015"
 msgid "Power button action"
-msgstr "Toitenupu funktsioon"
+msgstr "Toitenupu toiming"
 
 msgctxt "#13016"
 msgid "Power off system"
@@ -5246,7 +5250,7 @@ msgstr "Võrguühenduse ootamine..."
 
 msgctxt "#13029"
 msgid "Failed to execute Wake-on-LAN!"
-msgstr "Võrgust äratamine ebaõnnestus!"
+msgstr "Võrgust äratamine (WoL) nurjus!"
 
 msgctxt "#13030"
 msgid "Waiting for server to wake up..."
@@ -5394,12 +5398,12 @@ msgstr "Lüüs"
 
 msgctxt "#13161"
 msgid "Primary DNS"
-msgstr "Peamine DNS"
+msgstr "Esimene DNS"
 
 #. unused?
 msgctxt "#13162"
 msgid "Initialise failed"
-msgstr "Algatamine ebaõnnestus"
+msgstr "Algatamine nurjus"
 
 msgctxt "#13170"
 msgid "Never"
@@ -5647,7 +5651,7 @@ msgstr "Taaskäivita"
 
 msgctxt "#13314"
 msgid "Crossfade between songs"
-msgstr "Sulanda lood kokku"
+msgstr "Lugude sulav üleminek"
 
 msgctxt "#13315"
 msgid "Regenerate thumbnails"
@@ -5667,7 +5671,7 @@ msgstr "Rekursiivne slaidiesitlus"
 
 msgctxt "#13319"
 msgid "Randomise"
-msgstr "Juhuslik järjekord"
+msgstr "Juhuesitus"
 
 msgctxt "#13320"
 msgid "Stereo"
@@ -5703,7 +5707,7 @@ msgstr "Viga {0:s}-i avamisel"
 
 msgctxt "#13330"
 msgid "Unable to load {0:s}"
-msgstr "{0:s}-i laadimine ebaõnnestus"
+msgstr "{0:s} laadimine nurjus"
 
 msgctxt "#13331"
 msgid "Error: Out of memory"
@@ -5719,7 +5723,7 @@ msgstr "Liiguta alla"
 
 msgctxt "#13334"
 msgid "Edit label"
-msgstr "Muuda silti"
+msgstr "Muuda nimetust"
 
 msgctxt "#13335"
 msgid "Make default"
@@ -5747,7 +5751,7 @@ msgstr "Punane"
 
 msgctxt "#13344"
 msgid "Cycle"
-msgstr "Vaheta perioodiliselt"
+msgstr "Vaheta"
 
 msgctxt "#13345"
 msgid "Switch LED off on playback"
@@ -5755,7 +5759,7 @@ msgstr "Lülita LED taasesitusel välja"
 
 msgctxt "#13346"
 msgid "Movie information"
-msgstr "Filmi andmed"
+msgstr "Filmiteave"
 
 #. Label for 'queue item' (adds an item to a playlist), used at several places
 msgctxt "#13347"
@@ -5769,23 +5773,23 @@ msgstr "Otsi IMDb-st..."
 #. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
 msgid "Scan for new content"
-msgstr "Skaneeri uut sisu"
+msgstr "Otsi uut sisu"
 
 msgctxt "#13350"
 msgid "Current playlist"
-msgstr "Valitud esitusloend"
+msgstr "Praegune esitusloend"
 
 msgctxt "#13351"
 msgid "Album information"
-msgstr "Albumi andmed"
+msgstr "Albumiteave"
 
 msgctxt "#13352"
 msgid "Scan item to library"
-msgstr "Skaneeri üksus meediakogusse"
+msgstr "Skanni üksus meediakogusse"
 
 msgctxt "#13353"
 msgid "Stop scanning"
-msgstr "Lõpeta skaneerimine"
+msgstr "Lõpeta skannimine"
 
 msgctxt "#13354"
 msgid "Render method"
@@ -5797,7 +5801,7 @@ msgstr "Pixel Shader (madala kvaliteediga)"
 
 msgctxt "#13356"
 msgid "Hardware overlays"
-msgstr "Riistvaralised katted"
+msgstr "Riistvaraline pealistus"
 
 msgctxt "#13357"
 msgid "High quality pixel shader"
@@ -5952,7 +5956,7 @@ msgstr "Hangi pisipilt"
 
 msgctxt "#13406"
 msgid "Picture information"
-msgstr "Pildi andmed"
+msgstr "Pilditeave"
 
 msgctxt "#13407"
 msgid "{0:s} presets"
@@ -6099,7 +6103,7 @@ msgstr "Kasuta MPEG-2 VDPAU'd"
 #. Description of setting with label #13441 "Use MPEG-2 VDPAU"
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr "MPEG-(1 / 2) koodekite riistvaraliseks kiirenduseks luba see suvand. Vastasel korral kasutatakse protsessorit. Lubades suvandi võib vanematel Radeoni kaartidel esineda häireid."
+msgstr "MPEG-(1 / 2) koodekite riistvaraliseks kiirenduseks luba see suvand. Vastasel korral kasutatakse protsessorit. Lubades suvandi võib vanematel Radeoni kaartidel esineda programmi krahhe."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
@@ -6232,7 +6236,7 @@ msgstr "Kasuta AVC VAAPI"
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr "Luba see suvand, et kasutada AVC koodeki jaoks riistvaralist kiirendust. Kui see on keelatud, kasutatakse selle asemel CPU-d."
+msgstr "Luba see suvand, et kasutada AVC koodeki jaoks riistvaralist kiirendust. Kui see on keelatud, kasutatakse selle asemel protsessorit."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
@@ -6288,7 +6292,7 @@ msgstr "Vali pilt"
 
 msgctxt "#13512"
 msgid "Current art"
-msgstr "Valitud pilt"
+msgstr "Praegune pilt"
 
 msgctxt "#13513"
 msgid "Remote art"
@@ -6309,11 +6313,11 @@ msgstr "Lisa pildi liik"
 
 msgctxt "#13517"
 msgid "Threshold for pitch correction"
-msgstr "Helikõrguse lävi"
+msgstr "Helikõrguse korrigeerimise lävi"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr "Kui kiiruse muutus ületab selle läve, rakendatakse helikõrguse korrigeerimise filter. See väldib video kiirendamisest tulenevaid helimoonutisi"
+msgstr "Kui kiiruse muutus ületab selle läve, rakendatakse helikõrguse korrigeerimise filter. See väldib video kiirendamisega kaasnevat nn kileda hääle efekti"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6326,7 +6330,7 @@ msgstr "Manustatud fännipilt"
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
 msgid "Choose art type"
-msgstr "Vali pildi liik"
+msgstr "Vali pildi tüüp"
 
 #. label of a setting that allows splitting of albums into component discs
 msgctxt "#13522"
@@ -6336,7 +6340,7 @@ msgstr "Jaga albumid eraldi plaatideks"
 #. Description of setting with label #13522 "Split albums into individual discs"
 msgctxt "#13523"
 msgid "When enabled, opening a multi-disc album shows the discs as individual items instead of all the songs. Opening a disc then shows the songs on that disc."
-msgstr "Kuvab mitme plaadiga albumis olevad plaadid eraldi üksustena. Kui keelatud, kuvatakse kõik palad koos."
+msgstr "Kui lubatud, kuvatakse mitme plaadiga albumis olevad plaadid eraldi üksustena. Plaadi avamisel kuvatakse sellel olevad lood."
 
 #. Label of a setting that allows original release dates to be used instead of album release date
 msgctxt "#13524"
@@ -6346,11 +6350,11 @@ msgstr "Kasuta aastaks albumi algset ilmumiskuupäeva"
 #. Description of setting with label #13524
 msgctxt "#13525"
 msgid "When enabled, use the original year of release rather than the album release year (if available)."
-msgstr "Kui lubatud, kasutatakse albumi avaldamise aastaarvu asemel (kui on teada) algset avaldamise kuupäeva."
+msgstr "Kui lubatud, kasutatakse albumi väljalaskeaasta asemel algset ilmumisaastat."
 
 msgctxt "#13550"
 msgid "Delay after change of refresh rate"
-msgstr "Viivitus värskendussageduse muutmisel"
+msgstr "Viivitus pärast värskendussageduse muutmist"
 
 msgctxt "#13551"
 msgid "Off"
@@ -6388,11 +6392,11 @@ msgstr "Apple TV"
 
 msgctxt "#14000"
 msgid "Stack"
-msgstr "Saki"
+msgstr "Koonda"
 
 msgctxt "#14001"
 msgid "Unstack"
-msgstr "Eemalda sakk"
+msgstr "Eralda"
 
 msgctxt "#14003"
 msgid "Downloading playlist file..."
@@ -6404,15 +6408,15 @@ msgstr "Voogude loendi allalaadimine..."
 
 msgctxt "#14005"
 msgid "Parsing streams list..."
-msgstr "Voogude loendi sõelumine..."
+msgstr "Voogude loendi töötlemine..."
 
 msgctxt "#14006"
 msgid "Downloading streams list failed"
-msgstr "Voogude loendi allalaadimine ebaõnnestus"
+msgstr "Voogude loendi allalaadimine nurjus"
 
 msgctxt "#14007"
 msgid "Downloading playlist file failed"
-msgstr "Esitusloendi faili allalaadimine ebaõnnestus"
+msgstr "Esitusloendi faili allalaadimine nurjus"
 
 msgctxt "#14009"
 msgid "Games directory"
@@ -6420,7 +6424,7 @@ msgstr "Mängude kaust"
 
 msgctxt "#14010"
 msgid "Auto switch to thumbs based on"
-msgstr "Mine automaatselt üle pisipiltidele, arvestades"
+msgstr "Lülitu automaatselt pisipiltidele põhinedes"
 
 msgctxt "#14011"
 msgid "Enable auto switching to thumbs view"
@@ -6432,7 +6436,7 @@ msgstr "- Kasuta suuri ikoone"
 
 msgctxt "#14013"
 msgid "- Switch based on"
-msgstr "- Lülita arvestades"
+msgstr "- Lülita põhinedes"
 
 msgctxt "#14014"
 msgid "- Percentage"
@@ -6440,7 +6444,7 @@ msgstr "- Protsent"
 
 msgctxt "#14015"
 msgid "No files and at least one thumb"
-msgstr "Ei ole ühtegi faili kuid on vähemalt üks pisipilt"
+msgstr "Faile pole ja on vähemalt üks pisipilt"
 
 msgctxt "#14016"
 msgid "At least one file and thumb"
@@ -6456,15 +6460,15 @@ msgstr "Kuva suvandid"
 
 msgctxt "#14019"
 msgid "Change area code 1"
-msgstr "Muuda asukoha koodi 1"
+msgstr "Muuda piirkonnakoodi 1"
 
 msgctxt "#14020"
 msgid "Change area code 2"
-msgstr "Muuda asukoha koodi 2"
+msgstr "Muuda piirkonnakoodi 2"
 
 msgctxt "#14021"
 msgid "Change area code 3"
-msgstr "Muuda asukoha koodi 3"
+msgstr "Muuda piirkonnakoodi 3"
 
 msgctxt "#14022"
 msgid "Library"
@@ -6476,7 +6480,7 @@ msgstr "TV puudub"
 
 msgctxt "#14024"
 msgid "Enter the nearest large town"
-msgstr "Sisesta lähim suurem linn"
+msgstr "Sisesta lähim suurlinn"
 
 msgctxt "#14025"
 msgid "Video/Audio/DVD cache - Hard disk"
@@ -6524,7 +6528,7 @@ msgstr "DVD vahemälu - kohtvõrk"
 
 msgctxt "#14038"
 msgid "Network settings changed"
-msgstr "Võrguseaded muudetud"
+msgstr "Võrguseadeid on muudetud"
 
 msgctxt "#14039"
 msgid "A restart is required to change your network setup. Would you like to restart now?"
@@ -6584,15 +6588,15 @@ msgstr "{0:2.1f} dB"
 
 msgctxt "#14055"
 msgid "Use background scanning"
-msgstr "Kasuta taustal skaneerimist"
+msgstr "Kasuta taustal skannimist"
 
 msgctxt "#14056"
 msgid "Stop scan"
-msgstr "Lõpeta skaneerimine"
+msgstr "Peata skannimine"
 
 msgctxt "#14057"
 msgid "Not possible while scanning for media information"
-msgstr "Ei ole võimalik meedia andmete skaneerimise ajal"
+msgstr "Pole võimalik meediateabe skannimise ajal"
 
 msgctxt "#14058"
 msgid "Film grain effect"
@@ -6600,7 +6604,7 @@ msgstr "Filmisäbru efekt"
 
 msgctxt "#14059"
 msgid "Search for thumbnails on remote shares"
-msgstr "Otsi pisipilte kaugjagudest"
+msgstr "Otsi pisipilte jagatud kaustadest"
 
 msgctxt "#14060"
 msgid "Unknown type cache - Internet"
@@ -6632,7 +6636,7 @@ msgstr "Sisesta kuupäev vormingus DD/MM/YYYY"
 
 msgctxt "#14068"
 msgid "Enter the IP address"
-msgstr "Sisesta IP aadress"
+msgstr "Sisesta IP-aadress"
 
 msgctxt "#14069"
 msgid "Apply these settings now?"
@@ -6672,7 +6676,7 @@ msgstr "Faililoendid"
 
 msgctxt "#14083"
 msgid "Use fullscreen window"
-msgstr "Kasuta täisekraani akent"
+msgstr "Kasuta täisekraanakent"
 
 msgctxt "#14084"
 msgid "Queue songs on selection"
@@ -6697,7 +6701,7 @@ msgstr "Font"
 
 msgctxt "#14090"
 msgid "International"
-msgstr "Regiooni sätted"
+msgstr "Keel ja regioon"
 
 msgctxt "#14091"
 msgid "Character set"
@@ -6800,7 +6804,7 @@ msgstr "Luba teavitussündmuse logimine"
 #. Label of setting to go into the event log window
 msgctxt "#14114"
 msgid "Show event log"
-msgstr "Kuva sündmuste logifail"
+msgstr "Kuva sündmuste logi"
 
 #. Label for the "Basic" event level
 msgctxt "#14115"
@@ -6859,11 +6863,11 @@ msgstr "Sisend"
 
 msgctxt "#14126"
 msgid "Whitelist"
-msgstr "Valge loend"
+msgstr "Lubatute loend"
 
 msgctxt "#14127"
 msgid "Allow 3:2 pulldown refresh rates"
-msgstr "Luba 3:2 värskendussageduste rippmenüü"
+msgstr "Luba 3:2 kaadrimuundusega värskendussagedused"
 
 msgctxt "#14128"
 msgid "Allow double refresh rates"
@@ -7092,11 +7096,11 @@ msgstr "Rakenduse juhtimine"
 
 msgctxt "#14276"
 msgid "Allow remote control from applications on this system"
-msgstr "Luba kaughaldus rakendustega selles süsteemis"
+msgstr "Luba kaughaldus selle süsteemi rakendustega"
 
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
-msgstr "Luba kaughaldus rakendustega teistes süsteemides"
+msgstr "Luba kaughaldus teiste süsteemide rakendustega"
 
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
@@ -7109,7 +7113,7 @@ msgstr "Puhasta pildi vahemälu"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr "Eemalda vahemälust kasutamata pildid kohe – pildid, mida pole meediakogui üksusega seostatud ega hiljuti vaadatud. Kodi teeb taustal seda aja jooksul."
+msgstr "Eemalda vahemälust kasutamata pildid kohe – pildid, mida pole meediakogu üksusega seostatud ega hiljuti vaadatud. Kodi teeb seda aja jooksul taustal."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7133,7 +7137,7 @@ msgstr "RDS-i raadio"
 
 msgctxt "#15011"
 msgid "{0:d} Items failed to export"
-msgstr "{0:d} üksuse eksport ebaõnnestus"
+msgstr "{0:d} üksuse eksport nurjus"
 
 msgctxt "#15012"
 msgid "Unavailable source"
@@ -7141,7 +7145,7 @@ msgstr "Allikas ei ole saadaval"
 
 msgctxt "#15013"
 msgid "What would you like to do with media items from {0:s}"
-msgstr "Mida sa soovid teha {0:s} meediakirjetega"
+msgstr "Mida teha {0:s} meediakirjetega"
 
 msgctxt "#15014"
 msgid "Keep"
@@ -7306,7 +7310,7 @@ msgstr "Muu / Tundmatu"
 #. genric label for 'provider'
 msgctxt "#15225"
 msgid "Provider"
-msgstr "Teenusepakkuja"
+msgstr "Allikas"
 
 msgctxt "#15300"
 msgid "Path not found or invalid"
@@ -7314,7 +7318,7 @@ msgstr "Rada ei leitud või vigane rada"
 
 msgctxt "#15301"
 msgid "Couldn't connect to network server"
-msgstr "Serveriga ei õnnestunud ühendust saada"
+msgstr "Võrguserveriga ei õnnestunud ühenduda"
 
 msgctxt "#15302"
 msgid "No servers found"
@@ -7423,7 +7427,7 @@ msgstr "Automaatne"
 
 msgctxt "#16020"
 msgid "Deinterlace"
-msgstr "Ülerealaotuse kaotamine"
+msgstr "Ülerealaotuse eemaldamine"
 
 msgctxt "#16021"
 msgid "Bob"
@@ -7447,7 +7451,7 @@ msgstr "Sisesta esitaja nimi"
 
 msgctxt "#16026"
 msgid "Playback failed"
-msgstr "Taasesitus ebaõnnestus"
+msgstr "Taasesitus nurjus"
 
 msgctxt "#16027"
 msgid "One or more items failed to play. Check the log for more information about this message."
@@ -7455,7 +7459,7 @@ msgstr "Ühe või mitme üksuse esitamine nurjus. Rohkem teavet selle sõnumi ko
 
 msgctxt "#16028"
 msgid "Enter value"
-msgstr "Sisesta arv"
+msgstr "Sisesta väärtus"
 
 #. General error messages dialog text.
 msgctxt "#16029"
@@ -7472,15 +7476,15 @@ msgstr "Sobivaid laule meediakogust ei leitud."
 
 msgctxt "#16032"
 msgid "Couldn't initialise database."
-msgstr "Andmebaasi lähtestamine ebaõnnestus."
+msgstr "Andmebaasi lähtestamine nurjus."
 
 msgctxt "#16033"
 msgid "Couldn't open database."
-msgstr "Andmebaasi avamine ebaõnnestus."
+msgstr "Andmebaasi avamine nurjus."
 
 msgctxt "#16034"
 msgid "Couldn't get songs from database."
-msgstr "Laulude hankimine andmebaasist ebaõnnestus."
+msgstr "Laulude hankimine andmebaasist nurjus."
 
 msgctxt "#16035"
 msgid "Party mode playlist"
@@ -7492,7 +7496,7 @@ msgstr "Ülerealaotuse kaotamine (pool)"
 
 msgctxt "#16037"
 msgid "Deinterlace video"
-msgstr "Video ülerealaotuse kaotamine"
+msgstr "Video realaotuse ühtlustamine"
 
 msgctxt "#16038"
 msgid "Deinterlace method"
@@ -7526,7 +7530,7 @@ msgstr "Märgi vaadatuks"
 #. Label for a context menu entry to mark an item as unwatched
 msgctxt "#16104"
 msgid "Mark as unwatched"
-msgstr "Märgi mitte vaadatuks"
+msgstr "Märgi mittevaadatuks"
 
 msgctxt "#16105"
 msgid "Edit title"
@@ -7547,7 +7551,7 @@ msgstr "Tegevus katkestati"
 
 msgctxt "#16201"
 msgid "Copy failed"
-msgstr "Kopeerimine ebaõnnestus"
+msgstr "Kopeerimine nurjus"
 
 msgctxt "#16202"
 msgid "Failed to copy at least one file. Check the log for more information about this message."
@@ -7555,7 +7559,7 @@ msgstr "Vähemalt ühe faili kopeerimine nurjus. Rohkem teavet selle sõnumi koh
 
 msgctxt "#16203"
 msgid "Move failed"
-msgstr "Liigutamine ebaõnnestus"
+msgstr "Liigutamine nurjus"
 
 msgctxt "#16204"
 msgid "Failed to move at least one file. Check the log for more information about this message."
@@ -7563,7 +7567,7 @@ msgstr "Vähemalt ühe faili liigutamine nurjus. Rohkem teavet selle sõnumi koh
 
 msgctxt "#16205"
 msgid "Delete failed"
-msgstr "Kustutamine ebaõnnestus"
+msgstr "Kustutamine nurjus"
 
 msgctxt "#16206"
 msgid "Failed to delete at least one file. Check the log for more information about this message."
@@ -7677,7 +7681,7 @@ msgstr "Spline36 - optimeeritud"
 
 msgctxt "#16324"
 msgid "Software - Blend"
-msgstr "Tarkvara - segatud"
+msgstr "Tarkvaraline - segatud"
 
 msgctxt "#16325"
 msgid "VDPAU - Bob"
@@ -7720,7 +7724,7 @@ msgstr "IMX - täpsem"
 
 msgctxt "#16400"
 msgid "Post-processing"
-msgstr "Pildi järeltöötlus"
+msgstr "Järeltöötlus"
 
 msgctxt "#17500"
 msgid "Display sleep timeout"
@@ -7728,7 +7732,7 @@ msgstr "Aeg ekraani puhkeolekuni"
 
 msgctxt "#17997"
 msgid "{0:d} MByte"
-msgstr "{0:d} MBait"
+msgstr "{0:d} MB"
 
 msgctxt "#17998"
 msgid "{0:d} hours"
@@ -7759,17 +7763,17 @@ msgstr "Leia sarnased"
 #. label for epg import progress control
 msgctxt "#19004"
 msgid "Importing guide from clients"
-msgstr "Klientidelt telekava importimine"
+msgstr "Telekava importimine klientidelt"
 
 #. used by several skins
 msgctxt "#19005"
 msgid "PVR stream information"
-msgstr "PVR voo teave"
+msgstr "PVR-voo teave"
 
 #. label for 'tuner name' in pvr player information dialog
 msgctxt "#19006"
 msgid "Receiving device"
-msgstr "Vastuvõttev seade"
+msgstr "Vastuvõtuseade"
 
 #. label for 'device status' in pvr player information dialog
 msgctxt "#19007"
@@ -7799,7 +7803,7 @@ msgstr "UNC"
 #. label for PVR backend name in system information's PVR section
 msgctxt "#19012"
 msgid "PVR backend"
-msgstr "PVR vastuvõtja"
+msgstr "PVR-taustasüsteem"
 
 #. PVR 'channel encryption system' textual presentation for free to air channels
 msgctxt "#19013"
@@ -7814,12 +7818,12 @@ msgstr "Fikseeritud"
 #. label for 'channel encryption' in pvr player information dialog
 msgctxt "#19015"
 msgid "Encryption"
-msgstr "Kodeering"
+msgstr "Krüpteering"
 
 #. unused?
 msgctxt "#19016"
 msgid "PVR backend {0:d} - {1:s}"
-msgstr "PVR kaugtuuner {0:d} - {1:s}"
+msgstr "PVR-taustasüsteem {0:d} - {1:s}"
 
 #. generic label for pvr recordings used in different places
 msgctxt "#19017"
@@ -7874,12 +7878,12 @@ msgstr "Lisa taimer..."
 #. unused?
 msgctxt "#19027"
 msgid "No search results"
-msgstr "Otsingu tulemused puuduvad"
+msgstr "Otsingutulemusi ei leitud"
 
 #. label used in pvr guide window views to indicate that there are no epg data for the current view (channel, now, next)
 msgctxt "#19028"
 msgid "No guide entries"
-msgstr "Telekava sissekanded puuduvad"
+msgstr "Telekava kirjed puuduvad"
 
 #. generic 'channel' label used in different places
 msgctxt "#19029"
@@ -7928,12 +7932,12 @@ msgstr "Kuva signaali kvaliteet"
 #. message box text stating that a PVR backend does not support a certain functionality.
 msgctxt "#19038"
 msgid "Not supported by the PVR backend."
-msgstr "Puudub PVR'i lõppseadme toetus."
+msgstr "PVR-taustasüsteem ei toeta seda."
 
 #. message box text asking for confirmation to hide a channel.
 msgctxt "#19039"
 msgid "Are you sure you want to hide this channel?"
-msgstr "Kas oled kindel, et soovid seda kanalit peita?"
+msgstr "Kas soovid selle kanali peita?"
 
 msgctxt "#19040"
 msgid "Timers"
@@ -7942,7 +7946,7 @@ msgstr "Taimerid"
 #. Label for button to refresh the channel logos
 msgctxt "#19041"
 msgid "Refresh channel logos"
-msgstr "Värskenda kanalilogod"
+msgstr "Värskenda kanalilogosid"
 
 #. label for PVR backend number of channel groups in system information's PVR section
 msgctxt "#19042"
@@ -7960,7 +7964,7 @@ msgstr "Kontrolli oma seadistust."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr "PVR kliendid pole veel käivitunud. Oota nende käivitumist."
+msgstr "PVR-kliendid pole veel käivitunud. Oota nende käivitumist."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -7969,7 +7973,7 @@ msgstr "Uus kanal"
 #. Label for a context menu entry to open an EPG event information dialog
 msgctxt "#19047"
 msgid "Programme information"
-msgstr "Programmi teave"
+msgstr "Saate teave"
 
 #. pvr settings "group manager" action button label
 #. Label for a context menu entry to open the pvr channel group manager dialog
@@ -8090,7 +8094,7 @@ msgstr "Uuendamise vahemik"
 #. Dialog warning text for invalid timer setting
 msgctxt "#19072"
 msgid "In order to add/update a timer the end date and time must be greater than the start date and time."
-msgstr "Taimeri lisamiseks/värskendamiseks peavad lõppkuupäev ja kellaaeg olema suuremad kui alguskuupäev ja aeg."
+msgstr "Taimeri lisamiseks/värskendamiseks peavad lõppkuupäev ja kellaaeg olema hilisemad kui alguskuupäev ja aeg."
 
 #. pvr settings "delay channel switch" setting label
 msgctxt "#19073"
@@ -8113,7 +8117,7 @@ msgstr "Kaust"
 
 msgctxt "#19077"
 msgid "Hide disabled"
-msgstr "Peitmine keelatud"
+msgstr "Peida keelatud üksused"
 
 #. Label of channel selector list in PVR timer settings dialog
 msgctxt "#19078"
@@ -8134,7 +8138,7 @@ msgstr "Alusta"
 #. used by several skins
 msgctxt "#19081"
 msgid "End"
-msgstr "Lõpeta"
+msgstr "Lõpp"
 
 #. Label of priority spinner in PVR timer settings dialog
 msgctxt "#19082"
@@ -8199,12 +8203,12 @@ msgstr "Kiirsalvestus: {0:s}"
 #. error message displayed in case adding a timer failed because no suitable epg-based timer type could be found.
 msgctxt "#19094"
 msgid "Timer creation failed. Unsupported timer type."
-msgstr "Taimeri loomine ebaõnnestus. Taimeri tüüpi ei toetata."
+msgstr "Taimeri loomine nurjus. Taimeri tüüpi ei toetata."
 
 #. error message displayed in case adding a timer rule failed because no suitable epg-based timer rule type could be found.
 msgctxt "#19095"
 msgid "Timer rule creation failed. Unsupported timer type."
-msgstr "Taimerireegli loomine ebaõnnestus. Taimeri tüüpi ei toetata."
+msgstr "Taimerireegli loomine nurjus. Taimeri tüüpi ei toetata."
 
 #. label of a value for default epg event select action, where the action is choosen depending on whether the event is in the past, now or in the future
 msgctxt "#19096"
@@ -8234,7 +8238,7 @@ msgstr "Mux"
 #. provider label in pvr info dialog
 msgctxt "#19101"
 msgid "Provider"
-msgstr "Teenusepakkuja"
+msgstr "Allikas"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
@@ -8263,12 +8267,12 @@ msgstr "Järgmine salvestus"
 #. part of timer information text (e.g. "Next recording on 10/10/2016 at 9:00 AM")
 msgctxt "#19107"
 msgid "at"
-msgstr " "
+msgstr "kell"
 
 #. label for PVR settings "tv fallback framerate" (in Hz) selector
 msgctxt "#19108"
 msgid "Fallback framerate"
-msgstr "Vaikimisi kaadrisagedus"
+msgstr "Varu-kaadrisagedus"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
@@ -8283,7 +8287,7 @@ msgstr "Taimeri kustutamine nurjus."
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr "PVR taustaprogrammi viga."
+msgstr "PVR-taustasüsteemi viga."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8323,7 +8327,7 @@ msgstr "PVR'i funktsioone ei saa otsimise ajal kasutada."
 #. channel scan backend selection dialog text
 msgctxt "#19119"
 msgid "On which backend do you want to search?"
-msgstr "Millisel kaugtuuneril sooritada otsing?"
+msgstr "Millisel taustasüsteemil otsing sooritada?"
 
 #. label for PVR client number in system information's PVR section
 msgctxt "#19120"
@@ -8389,7 +8393,7 @@ msgstr "Otsisõna"
 
 msgctxt "#19134"
 msgid "Include description"
-msgstr "Hõlma kirjeldus"
+msgstr "Kaasa kirjeldus"
 
 msgctxt "#19135"
 msgid "Case sensitive"
@@ -8422,7 +8426,7 @@ msgstr "Otsing..."
 #. generic PVR channel 'group' label used in different places
 msgctxt "#19141"
 msgid "Group"
-msgstr "Rühm"
+msgstr "Kanalinimekiri"
 
 msgctxt "#19142"
 msgid "Search guide"
@@ -8440,12 +8444,12 @@ msgstr "Lemmiknimekirju ei ole määratletud"
 #. used by several skins
 msgctxt "#19145"
 msgid "Grouped"
-msgstr "Grupeeritud"
+msgstr "Kanalinimekirjades"
 
 #. generic label for pvr channel groups used in different places
 msgctxt "#19146"
 msgid "Groups"
-msgstr "Lemmiknimekirjad"
+msgstr "Kanalinimekirjad"
 
 #. Dialog warning text for lifetime recording setting
 msgctxt "#19147"
@@ -8548,17 +8552,17 @@ msgstr "PVR teave"
 #. pvr settings "scan for missing channel icons" action button label
 msgctxt "#19167"
 msgid "Scan for missing icons"
-msgstr "Skaneeri puuduvaid ikoone"
+msgstr "Otsi puuduvaid ikoone"
 
 #. label for PVR number of deleted recordings in system information's PVR section
 msgctxt "#19168"
 msgid "Deleted and recoverable recordings"
-msgstr "Kustutatud ja taastatavad salvestused"
+msgstr "Kustutatud ja taastatavad salvestised"
 
 #. unused?
 msgctxt "#19169"
 msgid "Hide video information box"
-msgstr "Peida video andmed"
+msgstr "Peida videoteave"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
@@ -8578,22 +8582,22 @@ msgstr "Kiirsalvestuse kestus"
 #. generic label for 'Live TV channel groups' used in different places
 msgctxt "#19173"
 msgid "TV channel groups"
-msgstr "TV lemmiknimekirjad"
+msgstr "TV kanalinimekirjad"
 
 #. generic label for pvr-provided 'Radio channel groups' used in different places
 msgctxt "#19174"
 msgid "Radio channel groups"
-msgstr "Raadio lemmiknimekirjad"
+msgstr "Raadio kanalinimekirjad"
 
 #. pvr settings "default time to add before the start of an event to record (according to its epg data)" setting label
 msgctxt "#19175"
 msgid "Default start padding time"
-msgstr "Algusaja vaikimisi nihe"
+msgstr "Salvestuse alguse varuaeg"
 
 #. pvr settings "default time to add after the end of an event to record (according to epg its data)" setting label
 msgctxt "#19176"
 msgid "Default end padding time"
-msgstr "Lõpuaja vaikimisi nihe"
+msgstr "Salvestuse lõpu varuaeg"
 
 #. pvr settings category and group label
 msgctxt "#19177"
@@ -8603,7 +8607,7 @@ msgstr "Taasesitus"
 #. pvr setting "show channel info while switching channels" value
 msgctxt "#19178"
 msgid "Show channel information when switching channels"
-msgstr "Kuva kanaleid vahetades kanali info"
+msgstr "Kuva kanaleid vahetades kanaliteave"
 
 #. header used in pvr recordings window
 msgctxt "#19179"
@@ -8640,7 +8644,7 @@ msgstr "Kustutatud salvestused"
 #. pvr settings "clear epg data" action button label
 msgctxt "#19185"
 msgid "Clear data"
-msgstr "Puhasta andmed"
+msgstr "Tühjenda andmed"
 
 #. message box text for pvr data reset confirmation
 msgctxt "#19186"
@@ -8650,7 +8654,7 @@ msgstr "Kõik valitud andmed kustutatakse. Osa sellest ei saa hiljem klientidelt
 #. progress dialog text shown while purging pvr data
 msgctxt "#19187"
 msgid "Clearing data."
-msgstr "Andmete eemaldamine."
+msgstr "Andmete tühjendamine."
 
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
@@ -8660,7 +8664,7 @@ msgstr "Kõik telekava andmed kustutatakse. Kas oled kindel?"
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
 msgid "The PVR backend does not allow to record this event."
-msgstr "PVR vastuvõtja ei lase seda saadet salvestada."
+msgstr "PVR-taustasüsteem ei lase seda saadet salvestada."
 
 #. generic "play program" label used in different places
 msgctxt "#19190"
@@ -8669,12 +8673,12 @@ msgstr "Näita saadet"
 
 msgctxt "#19191"
 msgid "PVR service"
-msgstr "PVR'i teenus"
+msgstr "PVR-teenus"
 
 #. info message box text stating that none of the available pvr clients does support channel scanning
 msgctxt "#19192"
 msgid "None of the connected PVR backends supports scanning for channels."
-msgstr "Ükski ühendatud videosalvestaja põhi ei toeta kanalite skaneerimist."
+msgstr "Ükski ühendatud PVR-taustasüsteem ei toeta kanaliotsingut."
 
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
@@ -8754,7 +8758,7 @@ msgstr "Sisesta uue kanali nimi"
 #. unused?
 msgctxt "#19209"
 msgid "Kodi virtual backend"
-msgstr "Kodi virtuaalne põhi"
+msgstr "Kodi virtuaalne taustasüsteem"
 
 #. pvr channel manager "epg source" selector value
 msgctxt "#19210"
@@ -8774,7 +8778,7 @@ msgstr "Loend sisaldab muudatusi"
 #. pvr channel manager "create new channel", backend selector dialog message
 msgctxt "#19213"
 msgid "Select backend"
-msgstr "Vali põhi"
+msgstr "Vali taustasüsteem"
 
 #. @@@ dead code in pvr channel manager, action for a context menu item never added?
 msgctxt "#19214"
@@ -8818,7 +8822,7 @@ msgstr "Telekava"
 #. unused?
 msgctxt "#19223"
 msgid "No PVR add-on could be enabled. Check your settings or the log for more information."
-msgstr "Ühtegi PVR lisamoodulit ei saa lubada. Kontrolli seadeid või logifaili lisainfo saamiseks."
+msgstr "Ühtegi PVR lisamoodulit ei saa lubada. Kontrolli seadeid või logifaili lisateabe saamiseks."
 
 #. Notification text to announce that a recording was aborted
 msgctxt "#19224"
@@ -8853,12 +8857,12 @@ msgstr "Kuvatavad möödunud päevad"
 #. label for PVR settings no epg updates during playback control
 msgctxt "#19230"
 msgid "Prevent updates during playback"
-msgstr "Väldi uuendusi esituse ajal"
+msgstr "Keela uuendused esituse ajal"
 
 #. label for PVR settings use backend channel order control
 msgctxt "#19231"
 msgid "Use channel order from backend(s)"
-msgstr "Kasuta kaugvastuvõtja kanalijärjestust"
+msgstr "Kasuta taustasüsteemi kanalijärjestust"
 
 #. label for pvr epg search window 'clear search results' context menu item
 msgctxt "#19232"
@@ -8873,7 +8877,7 @@ msgstr "Kuva teavitus taimeri uuendamisel"
 #. label for PVR settings use backend channel numbers control
 msgctxt "#19234"
 msgid "Use channel numbers from backend"
-msgstr "Kasuta kaugvastuvõtja kanalinumbreid"
+msgstr "Kasuta taustasüsteemi kanalinumbreid"
 
 #. label 'pvr starting up' for progress dialog text
 msgctxt "#19235"
@@ -8883,17 +8887,17 @@ msgstr "PVR-i haldur käivitub"
 #. label 'loading channels' for progress dialog text
 msgctxt "#19236"
 msgid "Loading channels from clients"
-msgstr "Kliendist kanalite laadimine"
+msgstr "Klientidelt kanalite laadimine"
 
 #. label 'loading timers' for progress dialog text
 msgctxt "#19237"
 msgid "Loading timers from clients"
-msgstr "Kliendist taimerite laadimine"
+msgstr "Klientidelt taimerite laadimine"
 
 #. label 'loading recordings' for progress dialog text
 msgctxt "#19238"
 msgid "Loading recordings from clients"
-msgstr "Kliendist salvestuste laadimine"
+msgstr "Klientidelt salvestiste laadimine"
 
 #. label for PVR client creation progress control
 msgctxt "#19239"
@@ -8903,7 +8907,7 @@ msgstr "PVR klientide loomine"
 #. label for pvr settings client priorities control and client priorities dialog heading.
 msgctxt "#19240"
 msgid "Client priorities"
-msgstr "Kliendi prioriteedid"
+msgstr "Klientide prioriteedid"
 
 #. Label for context menu entry to open settings dialog for a timer (read-only)
 msgctxt "#19241"
@@ -8923,7 +8927,7 @@ msgstr "Muuda taimeri reeglit"
 #. label for PVR settings pvr backend idle time control. if enabled, kodi will be automatically shutdown after the defined amount of pvr backend idle time.
 msgctxt "#19244"
 msgid "Backend idle time"
-msgstr "Taustaprogrammi jõudeaeg"
+msgstr "Taustasüsteemi jõudeaeg"
 
 #. label for PVR settings wakeup command control. if not empty, kodi will execute the given command upon waking up from suspend.
 msgctxt "#19245"
@@ -8958,7 +8962,7 @@ msgstr "Tele- ja raadiokanalid"
 #. label for 'update epg' context menu item and 'update epg' confirmation dialog header
 msgctxt "#19251"
 msgid "Update guide information"
-msgstr "Uuenda telekava infot"
+msgstr "Uuenda telekava teavet"
 
 #. label for 'update channel epg' confirmation dialog text
 msgctxt "#19252"
@@ -8973,7 +8977,7 @@ msgstr "Telekava uuendus on kanalile planeeritud"
 #. label for notification text stating that an epg data update for a given channel failed
 msgctxt "#19254"
 msgid "Guide update failed for channel"
-msgstr "Telekava uuendus kanalile ebaõnnestus"
+msgstr "Telekava uuendus kanalile nurjus"
 
 #. for a timer rule, the number of child timers which are currently scheduled to record. For use in "status" fields.
 msgctxt "#19255"
@@ -9042,12 +9046,12 @@ msgstr "Lapseluku all:"
 #. pvr settings 'hide no info available labels' setting label. Instead of displaying "no information available" text (for example in epg grid for time spans without epg data), show nothing
 msgctxt "#19268"
 msgid "Hide \"No information available\" labels"
-msgstr "Peida \"Info ei ole saadaval\" sildid"
+msgstr "Peida \"Teave puudub\""
 
 #. pvr settings "Preselect playing channel in lists" control label
 msgctxt "#19269"
 msgid "Preselect playing channel in lists"
-msgstr "Vali nimekirjadest töötav kanal"
+msgstr "Vali nimekirjadest aktiivne kanal"
 
 #. Label of the option to switch between a grouped recordings list and a non-grouped recordings list in pvr recordings window.
 msgctxt "#19270"
@@ -9112,7 +9116,7 @@ msgstr "Kinnita kanali vahetus vajutades \"OK\""
 #. Label for a select option or list item, representing an icon graphic (like a TV channel icon)
 msgctxt "#19282"
 msgid "Current icon"
-msgstr "Valitud ikoon"
+msgstr "Praegune ikoon"
 
 #. Label for a select option or list item, representing an icon graphic (like a TV channel icon)
 msgctxt "#19283"
@@ -9267,7 +9271,7 @@ msgstr "PVR meeldetuletus"
 #. pvr settings "reminder auto close delay" setting label
 msgctxt "#19313"
 msgid "Automatically close reminder popup after"
-msgstr "Meeldetuletuse hüpikaken suletakse peale"
+msgstr "Meeldetuletuse aken suletakse automaatselt pärast"
 
 #. pvr settings "schedule recording on reminder auto-close" setting label
 msgctxt "#19314"
@@ -9277,7 +9281,7 @@ msgstr "Meeldetuletuse hüpikakna sulgudes määratakse salvestamise aeg"
 #. generic 'backend order' label
 msgctxt "#19315"
 msgid "Backend order"
-msgstr "Kaugvastuvõtja järjestus"
+msgstr "Taustasüsteemi järjestus"
 
 #. pvr settings "Start all group channel numbers from 1" setting label
 msgctxt "#19316"
@@ -9347,7 +9351,7 @@ msgstr "Kas kustutada kõik vaadatud salvestused selles kaustas?"
 #. label for PVR settings use backend channel numbers always
 msgctxt "#19329"
 msgid "Allow backend channel numbers with more than one PVR add-on"
-msgstr "Luba kaugvastuvõtja enam kui ühel PVR lisamoodulil"
+msgstr "Luba taustasüsteemi kanalinumbrid enam kui ühel PVR lisamoodulil"
 
 #. pvr settings "switch to channel on reminder auto-close" setting label
 msgctxt "#19330"
@@ -9372,7 +9376,7 @@ msgstr "PVR meeldetuletuse tõttu kanalile '{0:s}' kell '{1:s}' toimus kanalivah
 #. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
-msgstr "Teenusepakkujad"
+msgstr "Allikad"
 
 #. label for special PVR search window list item
 msgctxt "#19335"
@@ -9442,7 +9446,7 @@ msgstr "Ükski aktiivne PVR-klient ei paku kliendipõhiseid sätteid."
 #. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
-msgstr "Teenusepakkuja"
+msgstr "Allikas"
 
 #. label for 'by user preference' sort method
 msgctxt "#19349"
@@ -9452,7 +9456,7 @@ msgstr "Kasutaja eelistus"
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
 msgid "Use channel group order from backend(s)"
-msgstr "Kasuta kaugtuuneri kanalinimekirja järjestust"
+msgstr "Kasuta taustasüsteemi kanalinimekirja järjestust"
 
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
@@ -9532,12 +9536,12 @@ msgstr "Romantika"
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19507"
 msgid "Serious / Classical / Religious / Historical movie / drama"
-msgstr "Tõsielu / Klassikaline / Usk / Ajalooline film / Draama"
+msgstr "Tõsine / Klassikaline / Religioosne / Ajalooline film / Draama"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19508"
 msgid "Adult movie / drama"
-msgstr "Täiskasvanute film / Draama"
+msgstr "Erootika / Draama"
 
 #. label for "news/current affairs" epg genre value
 msgctxt "#19516"
@@ -9552,7 +9556,7 @@ msgstr "Uudised / Ilmateade"
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19518"
 msgid "News magazine"
-msgstr "Uudisteajakiri"
+msgstr "Uudistesaade"
 
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19519"
@@ -9647,17 +9651,17 @@ msgstr "Võitluskunstid"
 #. label for "children's/youth programmes" epg genre value
 msgctxt "#19564"
 msgid "Children's / Youth programmes"
-msgstr "Laste / noorte programmid"
+msgstr "Laste- ja noortesaated"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19565"
 msgid "Pre-school children's programmes"
-msgstr "Eelkooliealiste programmid"
+msgstr "Koolieelikute saated"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19566"
 msgid "Entertainment programmes for 6 to 14"
-msgstr "Meelelahutusprogrammid 6- kuni 14-aastastele"
+msgstr "Meelelahutussaated 6- kuni 14-aastastele"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19567"
@@ -9667,7 +9671,7 @@ msgstr "Meelelahutussaated 10- kuni 16-aastastele"
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19568"
 msgid "Informational / Educational / School programme"
-msgstr "Info- / Haridus- / Kooliprogramm"
+msgstr "Teabe- / Haridus- / Kooliprogramm"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19569"
@@ -9687,7 +9691,7 @@ msgstr "Rokk / Popp"
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19582"
 msgid "Serious / Classical music"
-msgstr "Tõsine / Klassikaline muusika"
+msgstr "Süvamuusika / Klassika"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19583"
@@ -9717,7 +9721,7 @@ msgstr "Kunst / Kultuur"
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19597"
 msgid "Performing arts"
-msgstr "Lavakunst"
+msgstr "Etenduskunstid"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19598"
@@ -9732,7 +9736,7 @@ msgstr "Religioon"
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19600"
 msgid "Popular culture / Traditional arts"
-msgstr "Popkultuur / Traditsiooniline kunst"
+msgstr "Popkultuur / Rahvakunst"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19601"
@@ -9782,17 +9786,17 @@ msgstr "Magasinid / Reportaažid / Dokumentaalid"
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19614"
 msgid "Economics / Social advisory"
-msgstr "Majandus- / Sotsiaalnõustamine"
+msgstr "Majandus / Sotsiaalnõustamine"
 
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19615"
 msgid "Remarkable people"
-msgstr "Väljapaistvad inimesed"
+msgstr "Suurkujud"
 
 #. label for "education/science/factual" epg genre value
 msgctxt "#19628"
 msgid "Education / Science / Factual"
-msgstr "Haridus / Teadus / Faktid"
+msgstr "Haridus / Teadus / Tõsielu"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19629"
@@ -9822,7 +9826,7 @@ msgstr "Sotsiaal- / Usuteadus"
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19634"
 msgid "Further education"
-msgstr "Elukestev õpe"
+msgstr "Täiendõpe"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19635"
@@ -9847,12 +9851,12 @@ msgstr "Käsitöö"
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19647"
 msgid "Motoring"
-msgstr "Moto"
+msgstr "Auto-moto"
 
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19648"
 msgid "Fitness & health"
-msgstr "Fitness ja tervis"
+msgstr "Tervis ja vorm"
 
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19649"
@@ -9957,7 +9961,7 @@ msgstr "Esita salvestus"
 #. Text for shutdown confirmation dialog
 msgctxt "#19690"
 msgid "PVR has scheduled a reminder for '{0:s}' on channel '{1:s}' in {2:s}."
-msgstr "PVR on loonud meeldetuletuse {2:s} pärast linastuvale '{1:s}'-e saatele '{0:s}'."
+msgstr "Kanali \"{1:s}\" saatele \"{0:s}\" ({2:s}) on aktiivne meeldetuletus."
 
 #. Text for shutdown confirmation dialog.
 msgctxt "#19691"
@@ -9967,7 +9971,7 @@ msgstr "PVR salvestab saadet '{0:s}' kanalil '{1:s}'."
 #. Text for shutdown confirmation dialog
 msgctxt "#19692"
 msgid "PVR will start recording '{0:s}' on channel '{1:s}' in {2:s}."
-msgstr "PVR hakkab {2:s} pärast salvestama saadet '{0:s}' kanalil '{1:s}'."
+msgstr "PVR alustab saate '{0:s}' salvestamist kanalil '{1:s}' {2:s} pärast."
 
 #. Text for shutdown confirmation dialog
 msgctxt "#19693"
@@ -10003,7 +10007,7 @@ msgstr "Väline DVD-mängija"
 
 msgctxt "#20003"
 msgid "Trainers folder"
-msgstr "Koolitajate kaust"
+msgstr "Trainer-kaust"
 
 msgctxt "#20004"
 msgid "Screenshot folder"
@@ -10023,7 +10027,7 @@ msgstr "Kuvatõmmised"
 
 msgctxt "#20009"
 msgid "Use Kodi"
-msgstr "Kasuta Kodi't"
+msgstr "Kasuta Kodit"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10043,11 +10047,11 @@ msgstr "Järjesta: esitusloend"
 
 msgctxt "#20015"
 msgid "Remote thumb"
-msgstr "Kauge pisipilt"
+msgstr "Võrgu pisipilt"
 
 msgctxt "#20016"
 msgid "Current thumb"
-msgstr "Valitud pisipilt"
+msgstr "Praegune pisipilt"
 
 msgctxt "#20017"
 msgid "Local thumb"
@@ -10077,19 +10081,19 @@ msgstr "Konflikt"
 
 msgctxt "#20024"
 msgid "Scan new"
-msgstr "Skaneeri uus"
+msgstr "Otsi uusi"
 
 msgctxt "#20025"
 msgid "Scan all"
-msgstr "Skaneeri kõik"
+msgstr "Otsi kõiki"
 
 msgctxt "#20026"
 msgid "Region"
-msgstr "Regioon"
+msgstr "Piirkond"
 
 msgctxt "#20035"
 msgid "Regional ({0:s})"
-msgstr "Regionaalne ({0:s})"
+msgstr "Piirkondlik ({0:s})"
 
 #. Used for date/time format settings like "10:00:00 (HH:mm:ss)"
 msgctxt "#20036"
@@ -10126,23 +10130,23 @@ msgstr "Lukusta seaded"
 
 msgctxt "#20044"
 msgid "Start fresh"
-msgstr "Alusta uuesti"
+msgstr "Alusta puhtalt lehelt"
 
 msgctxt "#20045"
 msgid "Enter master mode"
-msgstr "Aktiveeri peakasutaja režiim"
+msgstr "Sisene peakasutaja režiimi"
 
 msgctxt "#20046"
 msgid "Leave master mode"
-msgstr "Lõpeta peakasutaja režiim"
+msgstr "Lahku peakasutaja režiimist"
 
 msgctxt "#20047"
 msgid "Create profile '{0:s}'?"
-msgstr "Loo profiil '{0:s}'?"
+msgstr "Kas luua profiil '{0:s}'?"
 
 msgctxt "#20048"
 msgid "Start with fresh settings or copy from default?"
-msgstr "Alusta uue seadistusega või kopeeri vaikeväärtused?"
+msgstr "Kas alustada uue seadistusega või kopeerida vaikeseaded?"
 
 msgctxt "#20049"
 msgid "Best available"
@@ -10162,7 +10166,7 @@ msgstr "Ettevaatust"
 
 msgctxt "#20053"
 msgid "Left master mode"
-msgstr "Peakasutaja režiim lõpetatud"
+msgstr "Peakasutaja režiim suletud"
 
 msgctxt "#20054"
 msgid "Entered master mode"
@@ -10263,7 +10267,7 @@ msgstr "Luba animatsioonid"
 
 msgctxt "#20080"
 msgid "Disable RSS during music"
-msgstr "Keela muusika kuulamise ajal RSS"
+msgstr "Keela RSS muusika ajal"
 
 msgctxt "#20081"
 msgid "Enable shortcut buttons"
@@ -10271,11 +10275,11 @@ msgstr "Luba otsetee nupud"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
-msgstr "Kuva peamenüüs programmid"
+msgstr "Kuva programmid peamenüüs"
 
 msgctxt "#20083"
 msgid "Show music information"
-msgstr "Kuva muusika teave"
+msgstr "Kuva muusikateave"
 
 msgctxt "#20084"
 msgid "Show weather information"
@@ -10283,7 +10287,7 @@ msgstr "Kuva ilmateade"
 
 msgctxt "#20085"
 msgid "Show system information"
-msgstr "Kuva süsteemi teave"
+msgstr "Kuva süsteemiteave"
 
 msgctxt "#20086"
 msgid "Show available disk space C: E: F:"
@@ -10303,7 +10307,7 @@ msgstr "Vaba kettaruum"
 
 msgctxt "#20090"
 msgid "Enter the name of an existing share"
-msgstr "Sisesta olemasolevale jaole nimi"
+msgstr "Sisesta olemasoleva jagatud kausta nimi"
 
 msgctxt "#20091"
 msgid "Lock code"
@@ -10331,11 +10335,11 @@ msgstr "Logimisekraan"
 
 msgctxt "#20097"
 msgid "Fetching album information"
-msgstr "Albumi andmete hankimine"
+msgstr "Albumiteabe hankimine"
 
 msgctxt "#20098"
 msgid "Fetching information for album"
-msgstr "Albumile andmete hankimine"
+msgstr "Albumiteabe hankimine"
 
 msgctxt "#20099"
 msgid "A CD or track can't be ripped while being played"
@@ -10347,7 +10351,7 @@ msgstr "Pealuku kood ja seaded"
 
 msgctxt "#20101"
 msgid "Entering master lock code always enables master mode"
-msgstr "Sisestades peakoodi aktiveeritakse alati peakasutaja režiim"
+msgstr "Pealuku koodi sisestamine aktiveerib alati peakasutaja režiimi"
 
 msgctxt "#20103"
 msgid "Save changes to profile?"
@@ -10419,7 +10423,7 @@ msgstr "Pidu algab!"
 
 msgctxt "#20122"
 msgid "True"
-msgstr "Nüüd saate lõõgastuda"
+msgstr "Tõsi"
 
 msgctxt "#20123"
 msgid "Mixing drinks"
@@ -10463,7 +10467,7 @@ msgstr "Eemalda võrgu asukoht"
 
 msgctxt "#20135"
 msgid "Do you want to scan the folder?"
-msgstr "Kas soovid kausta skaneerida?"
+msgstr "Kas soovid kausta skannida?"
 
 msgctxt "#20136"
 msgid "Memory unit"
@@ -10471,11 +10475,11 @@ msgstr "Mäluüksus"
 
 msgctxt "#20137"
 msgid "Memory unit mounted"
-msgstr "Mäluüksus liidetud"
+msgstr "Mäluüksus haagitud"
 
 msgctxt "#20138"
 msgid "Unable to mount memory unit"
-msgstr "Mäluüksust ei saa liita"
+msgstr "Mäluüksust ei saa haakida"
 
 msgctxt "#20139"
 msgid "In port {0:d}, slot {1:d}"
@@ -10519,7 +10523,7 @@ msgstr "Seiskamine 60 minuti pärast"
 
 msgctxt "#20149"
 msgid "Shutdown in 120 minutes"
-msgstr "Väljalülitamine 120 minut pärast"
+msgstr "Seiska 120 minut pärast"
 
 msgctxt "#20150"
 msgid "Custom shutdown timer"
@@ -10543,27 +10547,27 @@ msgstr "Ülevaade"
 
 msgctxt "#20155"
 msgid "Storage information"
-msgstr "Talletuse andmed"
+msgstr "Kettaruumi teave"
 
 msgctxt "#20156"
 msgid "Hard disk information"
-msgstr "Kõvaketta andmed"
+msgstr "Kõvaketta teave"
 
 msgctxt "#20157"
 msgid "DVD-ROM information"
-msgstr "DVD-seadme andmed"
+msgstr "DVD-seadme teave"
 
 msgctxt "#20158"
 msgid "Network information"
-msgstr "Võrgu andmed"
+msgstr "Võrgu teave"
 
 msgctxt "#20159"
 msgid "Video information"
-msgstr "Video andmed"
+msgstr "Video teave"
 
 msgctxt "#20160"
 msgid "Hardware information"
-msgstr "Riistvara andmed"
+msgstr "Riistvara teave"
 
 msgctxt "#20161"
 msgid "Total"
@@ -10603,7 +10607,7 @@ msgstr "nädalas"
 
 msgctxt "#20170"
 msgid "Line"
-msgstr ", tootmisliin"
+msgstr "Liin"
 
 msgctxt "#20171"
 msgid "Windows network (SMB)"
@@ -10628,7 +10632,7 @@ msgstr "UPnP server"
 #. Label used for a video info message box
 msgctxt "#20176"
 msgid "Show video information"
-msgstr "Kuva video andmed"
+msgstr "Kuva videoteave"
 
 msgctxt "#20177"
 msgid "Done"
@@ -10676,7 +10680,7 @@ msgstr "Teavita meediakogu uuendustest"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
-msgstr "Luba sisututvustuste ja ülevaadete juures automaatne kerimine"
+msgstr "Luba süžee ja ülevaate automaatne kerimine"
 
 msgctxt "#20190"
 msgid "Custom"
@@ -10688,15 +10692,15 @@ msgstr "Luba silumise logimine"
 
 msgctxt "#20192"
 msgid "Fetch additional information during updates"
-msgstr "Hangi lisainfot koos uuendustega"
+msgstr "Hangi lisateave koos uuendustega"
 
 msgctxt "#20193"
 msgid "Default provider for album information"
-msgstr "Albumi info vaiketarnija"
+msgstr "Albumiteabe vaiketarnija"
 
 msgctxt "#20194"
 msgid "Default provider for artist information"
-msgstr "Esitaja teabe vaiketarnija"
+msgstr "Esitajateabe vaiketarnija"
 
 msgctxt "#20195"
 msgid "Change information provider"
@@ -10716,7 +10720,7 @@ msgstr "Esitajat ei leitud!"
 
 msgctxt "#20199"
 msgid "Downloading artist information failed"
-msgstr "Esitaja andmete allalaadimine ebaõnnestus"
+msgstr "Esitajateabe allalaadimine nurjus"
 
 msgctxt "#20220"
 msgid "Prefer online information"
@@ -10725,7 +10729,7 @@ msgstr "Eelista veebiteavet"
 #. Description of setting with label #20220 "Prefer online information"
 msgctxt "#20221"
 msgid "With this enabled, any information that is downloaded for albums and artists will override anything you have set in your song tags, such as genres, year, song artists etc. Useful if you have MusicBrainz identifiers in your song tags."
-msgstr "Kui lubatud, siis kirjutatakse kõik laulude ning esitajate sildid üle allalaetud infoga. See tuleb kasuks, kui laulud sisaldavad MusicBrainz silte."
+msgstr "Kui lubatud, siis kirjutatakse kõik laulude ning esitajate sildid allalaetud teabega üle. See tuleb kasuks, kui laulud sisaldavad MusicBrainz silte."
 
 msgctxt "#20222"
 msgid "Look for external subtitles"
@@ -10733,7 +10737,7 @@ msgstr "Otsi väliseid subtiitreid"
 
 msgctxt "#20223"
 msgid "Artist information folder"
-msgstr "Esitaja andmete kaust"
+msgstr "Esitajateabe kaust"
 
 msgctxt "#20224"
 msgid "Prefer online album art"
@@ -10746,7 +10750,7 @@ msgstr "Kui kohalikku albumi kaanepilti pole, kasutatakse veebikunsti. Kui kumba
 
 msgctxt "#20226"
 msgid "Movie set information folder"
-msgstr "Filmikogumiku andmete kaust"
+msgstr "Filmikogumiku teabe kaust"
 
 msgctxt "#20228"
 msgid "Use artist sortname when sorting by artist"
@@ -10850,7 +10854,7 @@ msgstr "RSS voog (HTTPS)"
 
 msgctxt "#20307"
 msgid "Secondary DNS"
-msgstr "Teisene DNS"
+msgstr "Teine DNS"
 
 msgctxt "#20308"
 msgid "DHCP server:"
@@ -10874,31 +10878,31 @@ msgstr "Järjesta: ID"
 
 msgctxt "#20317"
 msgid "Scanning movies using {0:s}"
-msgstr "Filmide skaneerimine {0:s} toel"
+msgstr "Filmide skannimine {0:s} toel"
 
 msgctxt "#20318"
 msgid "Scanning music videos using {0:s}"
-msgstr "Muusikavideote skaneerimine {0:s} toel"
+msgstr "Muusikavideote skannimine {0:s} toel"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
-msgstr "Sarjade skaneerimine {0:s} toel"
+msgstr "Sarjade skannimine {0:s} toel"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
-msgstr "Esitajate skaneerimine {0:s} toel"
+msgstr "Esitajate skannimine {0:s} toel"
 
 msgctxt "#20321"
 msgid "Scanning albums using {0:s}"
-msgstr "Albumite skaneerimine {0:s} toel"
+msgstr "Albumite skannimine {0:s} toel"
 
 msgctxt "#20322"
 msgid "Content scanning options"
-msgstr "Sisu skaneerimise suvandid"
+msgstr "Sisu skannimise suvandid"
 
 msgctxt "#20323"
 msgid "Movie plot"
-msgstr "Filmi sisututvustus"
+msgstr "Filmi süžee"
 
 #. Label for context menu entry to start playback of a part of a video stack
 msgctxt "#20324"
@@ -10913,7 +10917,7 @@ msgstr "Kalibreerimise lähtestamine"
 #. Window screen calibration: ask to reset calibration settings
 msgctxt "#20326"
 msgid "Do you want reset the calibration to their defaults for \"{0:s}\" resolution?"
-msgstr "Kas taastada kalibreerimise vaikeväärtused ekraanilahutusele \"{0: s}\"?"
+msgstr "Kas taastada kalibreerimise vaikeväärtused ekraanilahutusele \"{0:s}\"?"
 
 #. Window screen calibration: the current calibration value
 msgctxt "#20327"
@@ -10987,15 +10991,15 @@ msgstr "See kataloog sisaldab"
 
 msgctxt "#20345"
 msgid "Run automated scan"
-msgstr "Käivita automaatne skaneerimine"
+msgstr "Soorita automaatne skannimine"
 
 msgctxt "#20346"
 msgid "Scan recursively"
-msgstr "Skaneeri rekursiivselt"
+msgstr "Skanni ka alamkaustad"
 
 msgctxt "#20347"
 msgid "as"
-msgstr "on"
+msgstr "kui"
 
 msgctxt "#20348"
 msgid "Directors"
@@ -11016,7 +11020,7 @@ msgstr "Sarja teave"
 
 msgctxt "#20352"
 msgid "Episode information"
-msgstr "Episoodi andmed"
+msgstr "Episoodi teave"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
@@ -11028,7 +11032,7 @@ msgstr "Episoodide kava hankimine"
 
 msgctxt "#20355"
 msgid "Loading information for episodes in directory"
-msgstr "Kataloogis olevate episoodide andmete laadimine"
+msgstr "Kataloogis olevate episoodide teabe laadimine"
 
 msgctxt "#20356"
 msgid "Select TV show:"
@@ -11084,7 +11088,7 @@ msgstr "Tootekood"
 
 msgctxt "#20369"
 msgid "Show information for unwatched items"
-msgstr "Kuva vaatamata üksuste andmed"
+msgstr "Kuva vaatamata üksuste teave"
 
 msgctxt "#20370"
 msgid "* Hidden to prevent spoilers *"
@@ -11104,7 +11108,7 @@ msgstr "Hooaeg"
 
 msgctxt "#20374"
 msgid "Downloading movie information"
-msgstr "Filmi andmete allalaadimine"
+msgstr "Filmiteabe allalaadimine"
 
 msgctxt "#20375"
 msgid "Unassign content"
@@ -11117,11 +11121,11 @@ msgstr "Algupärane pealkiri"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
-msgstr "Värskenda sarja andmeid"
+msgstr "Värskenda sarja teavet"
 
 msgctxt "#20378"
 msgid "Refresh information for all episodes?"
-msgstr "Kas värskendada kõigi episoodide andmed?"
+msgstr "Kas värskendada kõigi episoodide teave?"
 
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20379"
@@ -11130,7 +11134,7 @@ msgstr "Valitud kaust sisaldab vaid ühte sarja"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
-msgstr "Välista valitud kausta skaneerimine"
+msgstr "Ära skanni valitud kausta"
 
 msgctxt "#20381"
 msgid "Specials"
@@ -11182,11 +11186,11 @@ msgstr "Eemalda muusikavideo meediakogust"
 
 msgctxt "#20393"
 msgid "Music video information"
-msgstr "Muusikavideo andmed"
+msgstr "Muusikavideo teave"
 
 msgctxt "#20394"
 msgid "Loading music video information"
-msgstr "Muusikavideo andmete laadimine"
+msgstr "Muusikavideo teabe laadimine"
 
 msgctxt "#20395"
 msgid "Mixed"
@@ -11242,11 +11246,11 @@ msgstr "Infotarnija seaded"
 
 msgctxt "#20408"
 msgid "Downloading music video information"
-msgstr "Muusikavideo andmete allalaadimine"
+msgstr "Muusikavideo teabe allalaadimine"
 
 msgctxt "#20409"
 msgid "Downloading TV show information"
-msgstr "Sarja andmete allalaadimine"
+msgstr "Sarja teabe allalaadimine"
 
 msgctxt "#20410"
 msgid "Trailer"
@@ -11270,7 +11274,7 @@ msgstr "Kuva fännipildid video- ja muusikakogudes"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
-msgstr "Uue sisu skaneerimine"
+msgstr "Uue sisu skannimine"
 
 msgctxt "#20416"
 msgid "First aired"
@@ -11351,7 +11355,7 @@ msgstr "Eemalda rada meediakogu uuendustest"
 
 msgctxt "#20433"
 msgid "Extract video information from files"
-msgstr "Eralda failidest videoandmed"
+msgstr "Eralda failidest videoteave"
 
 msgctxt "#20434"
 msgid "Sets"
@@ -11379,7 +11383,7 @@ msgstr "Fännipilt puudub"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "Valitud fännipilt"
+msgstr "Praegune fännipilt"
 
 msgctxt "#20441"
 msgid "Remote fanart"
@@ -11391,7 +11395,7 @@ msgstr "Muuda sisu"
 
 msgctxt "#20443"
 msgid "Do you want to refresh information for all items within this path?"
-msgstr "Kas soovid värskendada andmed kõikidel selle raja üksustel?"
+msgstr "Kas värskendada teavet kõikidel selle raja üksustel?"
 
 msgctxt "#20444"
 msgid "Add to library"
@@ -11405,7 +11409,7 @@ msgstr "Fännipildid"
 #. Ask user when refreshing music or video info if they want to use data from NFO file
 msgctxt "#20446"
 msgid "Locally stored information found. Ignore and refresh from Internet?"
-msgstr "Leiti kohalikud andmed. Kas eirata ja värskendada internetist?"
+msgstr "Leiti kohalik teave. Kas eirata ja värskendada veebist?"
 
 msgctxt "#20447"
 msgid "Do you want to add the media from this source to your library?"
@@ -11413,7 +11417,7 @@ msgstr "Kas soovid lisada sellest allikast meedia oma meediakogusse?"
 
 msgctxt "#20448"
 msgid "Couldn't download information"
-msgstr "Andmeid ei saanud alla laadida"
+msgstr "Teabe allalaadimine nurjus"
 
 msgctxt "#20449"
 msgid "Unable to connect to remote server"
@@ -11421,7 +11425,7 @@ msgstr "Kaugserveriga ei saa ühendust"
 
 msgctxt "#20450"
 msgid "Unable to connect to remote server. Would you like to continue scanning?"
-msgstr "Kaugserveriga ei saa ühendust. Kas soovid jätkata skaneerimist?"
+msgstr "Kaugserveriga ei saa ühendust. Kas soovid jätkata skannimist?"
 
 msgctxt "#20451"
 msgid "Countries"
@@ -11498,7 +11502,7 @@ msgstr "Lisa film uude setti"
 
 msgctxt "#20469"
 msgid "Keep current set ({0:s})"
-msgstr "Säilita valitud sett ({0:s})"
+msgstr "Hoia praeguses kogumikus ({0:s}"
 
 msgctxt "#20470"
 msgid "Include sets containing a single movie"
@@ -11633,7 +11637,7 @@ msgstr "Luba UPnP tugi"
 
 msgctxt "#21359"
 msgid "Add media share..."
-msgstr "Lisa meedia jagu..."
+msgstr "Lisa jagatud kaust..."
 
 msgctxt "#21360"
 msgid "Share my libraries"
@@ -11788,6 +11792,10 @@ msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr "Pixel Shader V2 (kõrge kvaliteediga)"
 
+msgctxt "#21398"
+msgid "between"
+msgstr "vahel"
+
 msgctxt "#21399"
 msgid "Use tween animations"
 msgstr "Kasuta tween-animeerimist"
@@ -11810,11 +11818,11 @@ msgstr "ei ole"
 
 msgctxt "#21404"
 msgid "starts with"
-msgstr "algab koos"
+msgstr "algab väärtusega"
 
 msgctxt "#21405"
 msgid "ends with"
-msgstr "lõppeb koos"
+msgstr "lõpeb väärtusega"
 
 msgctxt "#21406"
 msgid "greater than"
@@ -11846,15 +11854,15 @@ msgstr "Infotarnijad"
 
 msgctxt "#21413"
 msgid "Default provider for movie information"
-msgstr "Filmi andmete vaiketarnija"
+msgstr "Filmiteabe vaiketarnija"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr "Sarjade teabe vaiketarnija"
+msgstr "Sarjateabe vaiketarnija"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
-msgstr "Muusikavideo andmete vaiketarnija"
+msgstr "Muusikavideo teabe vaiketarnija"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
@@ -11946,7 +11954,7 @@ msgstr "Uus nutikas esitusloend..."
 
 msgctxt "#21438"
 msgid "{0:c} Drive"
-msgstr "{0:c} olek"
+msgstr "Ketas {0:c}"
 
 msgctxt "#21439"
 msgid "Edit party mode rules"
@@ -11970,15 +11978,15 @@ msgstr "Videolahutus"
 
 msgctxt "#21444"
 msgid "Audio channels"
-msgstr "Heli kanalid"
+msgstr "Helikanalid"
 
 msgctxt "#21445"
 msgid "Video codec"
-msgstr "Video koodek"
+msgstr "Videokoodek"
 
 msgctxt "#21446"
 msgid "Audio codec"
-msgstr "Heli koodek"
+msgstr "Helikoodek"
 
 msgctxt "#21447"
 msgid "Audio language"
@@ -12100,7 +12108,7 @@ msgstr "Kaasa \"Kõik hooajad\" ja \"Eriepisoodid\""
 #. Description of setting with label #21472 "Include All Seasons and Specials"
 msgctxt "#21473"
 msgid "Whether or not to consider the items from \"All seasons\" and \"Specials\" in the unwatched item selection."
-msgstr "Kas loendite ”Kõik hooajad” ja ”Eriperioodid” üksused märgitakse mitte vaadatuks."
+msgstr "Kas loendite ”Kõik hooajad” ja ”Eriepisoodid” üksusi arvestatakse vaatamata üksuste valikul."
 
 #. One of the values valid for settings #21472 "Include All Seasons and Specials"
 msgctxt "#21474"
@@ -12191,7 +12199,7 @@ msgstr "Kommentaar"
 
 msgctxt "#21807"
 msgid "Colour / B&W"
-msgstr "Värviline / MV"
+msgstr "Värviline / m-v"
 
 msgctxt "#21808"
 msgid "JPEG process"
@@ -12251,7 +12259,7 @@ msgstr "Välk"
 
 msgctxt "#21834"
 msgid "White-balance"
-msgstr "Valguse tasakaal"
+msgstr "Valge tasakaal"
 
 msgctxt "#21835"
 msgid "Light source"
@@ -12296,7 +12304,7 @@ msgstr "XP kommetaar"
 #. Used in context menu
 msgctxt "#21845"
 msgid "Scan to library"
-msgstr "Skaneeri meediakogusse"
+msgstr "Skanni meediakogusse"
 
 msgctxt "#21857"
 msgid "Sub-location"
@@ -12412,11 +12420,11 @@ msgstr "Küsi andmeid kõikide esitajate kohta"
 
 msgctxt "#21885"
 msgid "Downloading album information"
-msgstr "Albumi andmete allalaadimine"
+msgstr "Albumiteabe allalaadimine"
 
 msgctxt "#21886"
 msgid "Downloading artist information"
-msgstr "Esitaja andmete allalaadimine"
+msgstr "Esitajateabe allalaadimine"
 
 msgctxt "#21887"
 msgid "Biography"
@@ -12436,7 +12444,7 @@ msgstr "Vali esitaja"
 
 msgctxt "#21891"
 msgid "Artist information"
-msgstr "Esitaja andmed"
+msgstr "Esitaja teave"
 
 msgctxt "#21892"
 msgid "Instruments"
@@ -12468,7 +12476,7 @@ msgstr "Aktiivne"
 
 msgctxt "#21899"
 msgid "Label"
-msgstr "Leibel"
+msgstr "Nimetus"
 
 msgctxt "#21900"
 msgid "Born / Formed"
@@ -12492,11 +12500,11 @@ msgstr "{0:2.3f}s"
 
 msgctxt "#22004"
 msgid "Delayed by: {0:2.3f}s"
-msgstr "Viivitus: {0:2.3f}it"
+msgstr "Viivitus: {0:2.3f}s"
 
 msgctxt "#22005"
 msgid "Ahead by: {0:2.3f}s"
-msgstr "Ees: {0:2.3f}it"
+msgstr "Ees: {0:2.3f}s"
 
 msgctxt "#22006"
 msgid "Subtitle offset"
@@ -12676,7 +12684,7 @@ msgstr "Lisamooduli suvandid"
 
 msgctxt "#24003"
 msgid "Add-on information"
-msgstr "Lisamooduli andmed"
+msgstr "Lisamooduli teave"
 
 #. Name of menu in the add-on browser
 msgctxt "#24004"
@@ -12694,7 +12702,7 @@ msgstr "Kasutajaliidese helid"
 
 msgctxt "#24007"
 msgid "Movie information"
-msgstr "Filmi andmed"
+msgstr "Filmi teave"
 
 msgctxt "#24008"
 msgid "Screensaver"
@@ -12722,19 +12730,19 @@ msgstr "Sõnad"
 
 msgctxt "#24014"
 msgid "TV information"
-msgstr "TV andmed"
+msgstr "TV teave"
 
 msgctxt "#24015"
 msgid "Music video information"
-msgstr "Muusikavideo andmed"
+msgstr "Muusikavideo teave"
 
 msgctxt "#24016"
 msgid "Album information"
-msgstr "Albumi andmed"
+msgstr "Albumi teave"
 
 msgctxt "#24017"
 msgid "Artist information"
-msgstr "Esitaja andmed"
+msgstr "Esitaja teave"
 
 msgctxt "#24018"
 msgid "Services"
@@ -12786,7 +12794,7 @@ msgstr "Weather.com (standard)"
 
 msgctxt "#24029"
 msgid "Service for weather information"
-msgstr "Ilmaandmete teenus"
+msgstr "Ilmateate teenus"
 
 msgctxt "#24030"
 msgid "This add-on can't be configured"
@@ -12830,7 +12838,7 @@ msgstr "Keelatud lisamoodulid"
 
 msgctxt "#24040"
 msgid "(Clear the current setting)"
-msgstr "(puhasta olemasolevad seaded)"
+msgstr "(Tühjenda praegune säte)"
 
 msgctxt "#24041"
 msgid "Install from zip file"
@@ -12853,7 +12861,7 @@ msgstr "{0:d}% paigaldamine"
 #. Used as an event log description for add-ons failed to install from zip
 msgctxt "#24045"
 msgid "Failed to install add-on from zip file"
-msgstr "Lisamooduli paigaldamine zip-failist ebaõnnestus"
+msgstr "Lisamooduli paigaldamine zip-failist nurjus"
 
 msgctxt "#24046"
 msgid "{0:s} is used by the following installed add-on(s)"
@@ -12947,7 +12955,7 @@ msgstr "Tühista lisamooduli allalaadimine?"
 
 msgctxt "#24067"
 msgid "Currently downloading add-ons"
-msgstr "Hetkel laetakse alla lisamoodulid"
+msgstr "Hetkel allalaaditavad lisamoodulid"
 
 msgctxt "#24068"
 msgid "Update available"
@@ -13026,7 +13034,7 @@ msgstr "Lisamoodul paigaldatud"
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24085"
 msgid "Failed to install a dependency"
-msgstr "Sõltuvuse paigaldamine ebaõnnestus"
+msgstr "Sõltuvuse paigaldamine nurjus"
 
 #. Used as a text in the progress dialog when installing an add-on
 msgctxt "#24086"
@@ -13147,7 +13155,7 @@ msgstr "Määra mis keeltes subtiitreid otsitakse.[CR]Märkus: mitte kõik subti
 
 msgctxt "#24113"
 msgid "Failed to download subtitle"
-msgstr "Subtiitrite allalaadimine ebaõnnestus"
+msgstr "Subtiitri allalaadimine nurjus"
 
 msgctxt "#24114"
 msgid "No subtitle services installed"
@@ -13191,7 +13199,7 @@ msgstr "Paigalda kõik uuendused"
 #. Description of setting with label #24105 "Pause when searching for subtitles"
 msgctxt "#24123"
 msgid "Pause the current video while searching for subtitles and resume once the subtitle is available."
-msgstr "Pausi video subtiitrite otsimise ajaks ja jätka taasesitust, kui subtiitrid on käes."
+msgstr "Peata video subtiitrite otsimise ajaks ja jätka taasesitust, kui subtiitrid on käes."
 
 msgctxt "#24124"
 msgid "Next to the video"
@@ -13216,7 +13224,7 @@ msgstr "Luba vaegkuuljate subtiitrite parsimine"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
-msgstr "Luba vaegkuuljate subtiitrite parsimine videos. Avaldab protsessorile koormust"
+msgstr "Luba vaegkuuljate subtiitrite parsimine videos. Suurendab veidi protsessori koormust"
 
 msgctxt "#24132"
 msgid "Would you like to switch to this language?"
@@ -13271,7 +13279,7 @@ msgstr "Sõltuvus pole täidetud: {0:s}, versioon {1:s}."
 #. Installing the addon from zip file located at <path to zip file> failed due to an invalid structure.
 msgctxt "#24143"
 msgid "Installing the add-on from zip file located at {0:s} failed due to an invalid structure."
-msgstr "Lisamooduli paigaldamine zip-failist asukohas {0:s} ebaõnnestus vale struktuuri tõttu."
+msgstr "Lisamooduli paigaldamine zip-failist asukohas {0:s} nurjus vale struktuuri tõttu."
 
 #. Used as an event log description for add-ons that have been uninstalled
 msgctxt "#24144"
@@ -13292,7 +13300,7 @@ msgstr "Muusikakogu skänner"
 #. Failed to scan <media type>: <filename>
 msgctxt "#24147"
 msgid "Failed to scan {0:s}: {1:s}"
-msgstr "{0:s}: {1:s} skaneerimine ebaõnnestus"
+msgstr "{0:s}: {1:s} skannimine nurjus"
 
 msgctxt "#24148"
 msgid "Incompatible add-ons"
@@ -13300,7 +13308,7 @@ msgstr "Sobimatud lisamoodulid"
 
 msgctxt "#24149"
 msgid "The following add-ons are incompatible with this version of Kodi and have been automatically disabled: {0:s}."
-msgstr "Järgmised lisamoodulid ei ühildu selle Kodi versiooniga ja on automaatselt keelatud: {0:s}."
+msgstr "Järgnevad lisamoodulid ei ühildu selle Kodi versiooniga ja keelati automaatselt: {0:s}."
 
 #. Progress text on splash screen
 msgctxt "#24150"
@@ -13347,7 +13355,7 @@ msgstr "120 sekundit"
 
 msgctxt "#24160"
 msgid "Ignore first tap/swipe/pan of the Siri remote after a period of inactivity"
-msgstr "Eira Siri puldi esimest puudutust/pühkimist/liigutust pärast teatud tegevusetusperioodi"
+msgstr "Eira Siri puldi esimest puudutust/viibet pärast teatud tegevusetusperioodi"
 
 msgctxt "#24161"
 msgid "This prevents you from accidental tap/swipe/pan action when you grab the remote in your hand"
@@ -13406,25 +13414,25 @@ msgstr "Vigane"
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24180"
 msgid "Minimum: {0:s}{3:s}"
-msgstr "Väikseim: {0:s}{3:s}"
+msgstr "Vähemalt: {0:s}{3:s}"
 
 #. The minimum version, plus the version going to be installed
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24181"
 msgid "Minimum: {0:s} => Install: {2:s}{3:s}"
-msgstr "Väikseim: {0:s} => paigalda: {2:s}{3:s}"
+msgstr "Vähemalt: {0:s} => paigalda: {2:s}{3:s}"
 
 #. The minimum version, plus the currently installed version
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24182"
 msgid "Minimum: {0:s} / Installed: {1:s}{3:s}"
-msgstr "Väikseim: {0:s} / paigaldatud: {1:s}{3:s}"
+msgstr "Vähemalt: {0:s} / paigaldatud: {1:s}{3:s}"
 
 #. The minimum version, the currently installed, plus the updated version we're going to install
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24183"
 msgid "Minimum: {0:s} / Installed: {1:s} => Update to: {2:s}{3:s}"
-msgstr "Väikseim: {0:s} / paigaldatud: {1:s} => uuenda versioonile: {2:s}{3:s}"
+msgstr "Vähemalt: {0:s} / paigaldatud: {1:s} => uuenda versioonile: {2:s}{3:s}"
 
 #. used in #24180 - #24183 as {3:s}
 msgctxt "#24184"
@@ -13435,7 +13443,7 @@ msgstr " (valikuline)"
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
-msgstr "Väikseim: {0:s} / pole saadaval{3:s}"
+msgstr "Vähemalt: {0:s} / pole saadaval{3:s}"
 
 #. Progress text on splash screen
 msgctxt "#24186"
@@ -13450,7 +13458,7 @@ msgstr "Andmebaaside lähtestamine nurjus – väljumine {} sekundi pärast."
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
 msgid "Could not connect to repository."
-msgstr "Repositooriumiga ühendamine ebaõnnestus."
+msgstr "Hoidlaga ühendamine nurjus."
 
 msgctxt "#24992"
 msgid "System"
@@ -13522,7 +13530,7 @@ msgstr "Peatükke: {0:d} - kestus: {1:s}"
 
 msgctxt "#25008"
 msgid "Playback of Blu-ray failed"
-msgstr "Blu-ray esitus ebaõnnestus"
+msgstr "Blu-ray esitus nurjus"
 
 msgctxt "#25009"
 msgid "The menu of this Blu-ray is not supported"
@@ -13872,7 +13880,7 @@ msgstr "Lasteprogramm"
 #. Program style name
 msgctxt "#29959"
 msgid "Social Affairs"
-msgstr "Kõmuuudised"
+msgstr "Sotsiaalküsimused"
 
 #. Program style name
 msgctxt "#29960"
@@ -13912,7 +13920,7 @@ msgstr "Rahvusmuusika"
 #. Program style name
 msgctxt "#29967"
 msgid "Oldies Music"
-msgstr "Süldimuusika"
+msgstr "Retro"
 
 #. Program style name
 msgctxt "#29968"
@@ -14114,7 +14122,7 @@ msgstr "Sademed"
 
 msgctxt "#33023"
 msgid "Humid"
-msgstr "Niiskus"
+msgstr "Niiske"
 
 msgctxt "#33024"
 msgid "Feels"
@@ -14166,7 +14174,7 @@ msgstr "Kaardid"
 
 msgctxt "#33036"
 msgid "Hourly"
-msgstr "Igatunnine"
+msgstr "Tunniprognoos"
 
 msgctxt "#33037"
 msgid "Weekend"
@@ -14251,7 +14259,7 @@ msgstr "Teave"
 
 msgctxt "#33067"
 msgid "Star rating"
-msgstr "Hakka hindama"
+msgstr "Tärnid"
 
 msgctxt "#33068"
 msgid "Background"
@@ -14307,7 +14315,7 @@ msgstr "Automaatne sisselogimine"
 
 msgctxt "#33100"
 msgid "Failed to start"
-msgstr "Käivitamine ebaõnnestus"
+msgstr "Käivitamine nurjus"
 
 msgctxt "#33101"
 msgid "Web server"
@@ -14355,7 +14363,7 @@ msgstr "FLAC"
 
 msgctxt "#34006"
 msgid "MPEG-4 audio (FFmpeg M4A AAC)"
-msgstr "MPEG-4 audio (FFmpeg M4A AAC)"
+msgstr "MPEG-4 heli (FFmpeg M4A AAC)"
 
 msgctxt "#34007"
 msgid "Windows media audio 2 (FFmpeg wmav2)"
@@ -14367,7 +14375,7 @@ msgstr "Teksti sisestamisel kuvatakse sisseehitatud tvOS klaviatuuri asemel Kodi
 
 msgctxt "#34009"
 msgid "Siri remote pan gesture horizontal sensitivity"
-msgstr "Siri puldi horisontaalse pan-viipe tundlikkus"
+msgstr "Siri puldi horisontaalse lohistamisviipe tundlikkus"
 
 msgctxt "#34010"
 msgid "Siri remote pan gesture vertical sensitivity"
@@ -14546,7 +14554,7 @@ msgstr "Sees"
 
 msgctxt "#34224"
 msgid "Tone mapping method"
-msgstr "Värvikaardistuse meetod"
+msgstr "Toonikaardistuse meetod"
 
 msgctxt "#34300"
 msgid "Failed to start Zeroconf"
@@ -14554,7 +14562,7 @@ msgstr "Zeroconfi käivitamine nurjus"
 
 msgctxt "#34301"
 msgid "Is Apple's Bonjour service installed? Check the log for more information about this message."
-msgstr "Kas Apple'i Bonjour teenus on paigaldatud? Rohkem infot selle sõnumi kohta saab logifailist."
+msgstr "Kas Apple'i Bonjour teenus on paigaldatud? Rohkem teavet selle sõnumi kohta saab logifailist."
 
 msgctxt "#34302"
 msgid "Failed to start AirPlay as it requires Zeroconf to be enabled."
@@ -14562,7 +14570,7 @@ msgstr "AirPlay käivitamine nurjus, sest Zeroconf on keelatud."
 
 msgctxt "#34303"
 msgid "Unable to stop Zeroconf. AirPlay and AirTunes depend on Zeroconf running."
-msgstr "Zeroconf teenuse peatamine ebaõnnestus. AirPlay ja AirTunes sõltuvad Zeroconfist."
+msgstr "Zeroconf teenuse peatamine nurjus. AirPlay ja AirTunes sõltuvad Zeroconfist."
 
 msgctxt "#34400"
 msgid "Video rendering"
@@ -14574,7 +14582,7 @@ msgstr "Videofiltrite / skaleerijate käivitamine nurjus, kasutatakse bilineaars
 
 msgctxt "#34402"
 msgid "Failed to initialise audio device"
-msgstr "Heliseadme käivitamine ebaõnnestus"
+msgstr "Heliseadme lähtestamine nurjus"
 
 msgctxt "#34403"
 msgid "Check your audio settings"
@@ -14658,7 +14666,7 @@ msgstr "Tuvastati uus juhtseade. Seadistada saab menüüst \"Seaded -> Süsteemi
 #. Help text of the button to fix the bug where buttons are skipped in the controller dialog. {0:s} - list of disabled buttons and axes
 msgctxt "#35014"
 msgid "Some controllers have buttons and axes that interfere with mapping. Press these now to disable them:[CR]{0:s}"
-msgstr "Mõnede juhtseadmete nupud ja teljed segavad seadistamist. Nende keelamiseks vajuta nüüd:[CR]{0:s}"
+msgstr "Mõnede juhtseadmete nupud ja teljed segavad seadistamist. Nende keelamiseks vajuta neid nüüd:[CR]{0:s}"
 
 #. Name of a controller button, e.g. Button 1. {0:d} - button index
 msgctxt "#35015"
@@ -14668,12 +14676,12 @@ msgstr "Nupp {0:d}"
 #. Name of a controller axis, e.g. Axis 2. {0:d} - axis index
 msgctxt "#35016"
 msgid "Axis {0:d}"
-msgstr "Telg {0: d}"
+msgstr "Telg {0:d}"
 
 #. Error dialog title when the controller dialog is opened but peripheral add-ons are disabled
 msgctxt "#35017"
 msgid "Unable to configure controllers"
-msgstr "Juhtseadmete seadistamine ebaõnnestus"
+msgstr "Juhtseadmete seadistamine nurjus"
 
 #. Error dialog text when the controller dialog is opened but peripheral add-ons are disabled
 msgctxt "#35018"
@@ -14698,7 +14706,7 @@ msgstr "Hangi kõik"
 #. Message shown in the controller dialog when there is nothing to map, for example hubs (multitaps) have no buttons
 msgctxt "#35022"
 msgid "Nothing to map"
-msgstr "Pole midagi määrata"
+msgstr "Määratavaid nuppe pole"
 
 #. Name of setting to configure peripheral add-ons
 msgctxt "#35047"
@@ -14728,7 +14736,7 @@ msgstr "Proovi värinat"
 #. Description of setting to test rumble
 msgctxt "#35052"
 msgid "Activate the rumble motors of all controllers."
-msgstr "Aktiveeri värinamootorid kõikidel juhtseadmetel."
+msgstr "Aktiveeri kõigi juhtseadmete värinamootorid."
 
 #. Setting to enable rumble for GUI notifications
 msgctxt "#35053"
@@ -14901,7 +14909,7 @@ msgstr "Nupud"
 #. Label for relative mounters like the mouse pointer. Used in the controller mapping dialog.
 msgctxt "#35104"
 msgid "Pointers"
-msgstr "Pointerid"
+msgstr "Kursorid"
 
 #. Heading for buttons mounted on a light gun. Used in the controller mapping dialog.
 msgctxt "#35105"
@@ -14936,7 +14944,7 @@ msgstr "Pordid"
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#35111"
 msgid "Port Setup"
-msgstr "Pordi seaded"
+msgstr "Portide seadistamine"
 
 #. Label of a port with a numeric identifier. {0:s} is the port ID, e.g. "1" for "Port 1"
 msgctxt "#35112"
@@ -15080,7 +15088,7 @@ msgstr "ALL YOUR BASE ARE BELONG[CR]TO US"
 #. Name of group in "Games -> General" for configuring gameplay
 msgctxt "#35201"
 msgid "Gameplay"
-msgstr "Mängukeskkond"
+msgstr "Mängitavus"
 
 # empty string with id 35202
 msgctxt "#35203"
@@ -15093,11 +15101,11 @@ msgstr "Luba reaalajas mängu tagasikerimine, kui seda toetatakse. Tagasikerimis
 
 msgctxt "#35205"
 msgid "Maximum rewind time"
-msgstr "Maksimaalne tagasikerimise aeg"
+msgstr "Suurim tagasikerimise aeg"
 
 msgctxt "#35206"
 msgid "Maximum time possible to rewind, if supported. Large rewind histories can use a lot of RAM."
-msgstr "Maksimaalne aeg tagasi kerimiseks, kui seda toetatakse. Suured tagasikerimine võivad kasutada palju mälu."
+msgstr "Suurim võimalik tagasikerimise aeg. Suur tagasikerimise ajalugu võib tarbida palju muutmälu."
 
 #. Description of add-on category for emulators
 msgctxt "#35207"
@@ -15136,7 +15144,7 @@ msgstr "Emulaatoril '{0:s}' oli sisemine viga."
 #. Error dialog text when the game can't be played because it's not on a hard drive or partition
 msgctxt "#35214"
 msgid "This game can only be played directly from a hard drive or partition. Compressed files must be extracted."
-msgstr "Seda mängu saab mängida ainult otse kõvakettalt või partitsioonilt. Pakitud failid tuleb välja tõmmata."
+msgstr "Seda mängu saab mängida ainult otse kõvakettalt või partitsioonilt. Pakitud failid tuleb lahti pakkida."
 
 #. Error dialog text when libretro support is disabled
 msgctxt "#35215"
@@ -15151,7 +15159,7 @@ msgstr "Toeta lisamooduleid"
 #. Dialog text asking user to overwrite their savestate file
 msgctxt "#35217"
 msgid "The savestate can only be loaded with \"{0:s}\". Erase savestate and continue?"
-msgstr "Salvestusseisu saab laadida ainult üksusega \"{0:s}”. Kas kustutada salvestatud seis ja jätkata?"
+msgstr "Salvestusseisu saab laadida ainult üksusega \"{0:s}”. Kas kustutada salvestusseis ja jätkata?"
 
 #. Button to erase the savestate
 msgctxt "#35218"
@@ -15166,7 +15174,7 @@ msgstr "Nõutavaid faile ei leitud."
 #. Description of add-on category for game providers
 msgctxt "#35220"
 msgid "Game providers"
-msgstr "Mängupakkujad"
+msgstr "Mänguallikad"
 
 #. Title of the game OSD menu
 msgctxt "#35221"
@@ -15394,7 +15402,7 @@ msgstr "Juurdepääs keelatud."
 #. connection state "connecting" (asynchronous addon start)
 msgctxt "#35509"
 msgid "Connecting to backend."
-msgstr "Ühendamine taustaprogrammiga."
+msgstr "Ühendamine taustasüsteemiga."
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15442,11 +15450,11 @@ msgstr "Ärata seadmed ekraanisäästja sulgemisel"
 
 msgctxt "#36011"
 msgid "Couldn't detect the CEC com port. Please configure it manually."
-msgstr "CEC com-porti ei õnnestunud tuvastada. Seadista see käsitsi."
+msgstr "CEC com-porti ei tuvastatud. Seadista see käsitsi."
 
 msgctxt "#36012"
 msgid "Couldn't initialise the CEC adapter. Please check your settings."
-msgstr "Ei suutnud initsialiseerida CEC adapterit. Palun kontrolli seadeid."
+msgstr "CEC adapteri lähtestamine nurjus. Palun kontrolli seadeid."
 
 #. CEC adapter setting to set the type of device that libCEC reports to the TV (Recording, Playback or Tuner Device)
 msgctxt "#36013"
@@ -15464,7 +15472,7 @@ msgstr "Ühendatud"
 
 msgctxt "#36017"
 msgid "Couldn't initialise the CEC adapter: libCEC was not found on your system."
-msgstr "Ei suutnud initsialiseerida CEC adapterit. Ei suutnud leida masinast libCEC'd."
+msgstr "CEC adapteri lähtestamine nurjus: süsteemist ei leitud libCEC teeki."
 
 msgctxt "#36018"
 msgid "Use the TV's language setting"
@@ -15472,7 +15480,7 @@ msgstr "Kasuta TV keeleseadeid"
 
 msgctxt "#36019"
 msgid "Connected to HDMI device"
-msgstr "Ühendus HDMI seadmesse loodud"
+msgstr "Ühendatud HDMI-seadmega"
 
 msgctxt "#36020"
 msgid "Switch source to this device on startup"
@@ -15488,7 +15496,7 @@ msgstr "Konfiguratsioon uuendatud"
 
 msgctxt "#36024"
 msgid "Failed to set the new configuration. Please check your settings."
-msgstr "Uue konfiguratsiooni seadmine ebaõnnestus. Palun kontrolli oma seaded üle."
+msgstr "Uue konfiguratsiooni määramine nurjus. Palun kontrolli oma seaded üle."
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
@@ -15557,7 +15565,7 @@ msgstr "TV ja AVR seade (määratud)"
 
 msgctxt "#36040"
 msgid "Detected version of libCEC interface ({0:x}) is lower than the supported version {1:x}."
-msgstr "Tuvastatud libCEC-i ({0:x}) liidese versioon on madalam toetatud {1:x} versioonist."
+msgstr "Tuvastatud libCEC-i ({0:x}) liidese versioon on vanem toetatud {1:x} versioonist."
 
 msgctxt "#36041"
 msgid "* Item folder"
@@ -15583,7 +15591,7 @@ msgstr "Pane pausile"
 
 msgctxt "#36046"
 msgid "Force AVR to wake up when Kodi is activated"
-msgstr "Kui Kodi on aktiveeritud ärata AVR jõuga"
+msgstr "Sundärata AVR-seade Kodi aktiveerimisel"
 
 msgctxt "#36047"
 msgid "Remote button press delay before repeating (ms)"
@@ -15636,7 +15644,7 @@ msgstr "Kasuta 10 bit SDR tarbeks"
 
 msgctxt "#36099"
 msgid "Dithering"
-msgstr "Värvi hägustamine"
+msgstr "Müratöötlus"
 
 msgctxt "#36100"
 msgid "Dither depth"
@@ -15700,7 +15708,7 @@ msgstr "Lülita liikuv RSS uudisvoog välja."
 #. Description of setting with label #21450 "Edit"
 msgctxt "#36112"
 msgid "Edit the RSS feeds."
-msgstr "Kohanda RSS vooge."
+msgstr "Muuda RSS vooge."
 
 #. Description of settings category with label #14090 "Regional"
 msgctxt "#36113"
@@ -15720,7 +15728,7 @@ msgstr "Vali temperatuuri, kellaaja ja kuupäeva formaadid. Võimalikud valikud 
 #. Description of setting with label #14091 "Character set"
 msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface. This doesn't change the character set used for subtitles, for that go to Player > Language."
-msgstr "Vali, millist märgistikku kasutatakse kasutajaliideses teksti kuvamiseks. See ei muuda subtiitrite jaoks kasutatavat tähemärki, selleks vali Mängija> Keel."
+msgstr "Vali, millist märgistikku kasutatakse kasutajaliideses teksti kuvamiseks. See ei muuda subtiitrite jaoks kasutatavat märgistikku, selleks vali Pleier > Keel."
 
 #. Description of setting with label #285 "Preferred audio language"
 msgctxt "#36119"
@@ -15735,7 +15743,7 @@ msgstr "Kasutab valitud subtiitrite keelt, kui saadaval on rohkem kui üks keel.
 #. Description of settings with label #16000 "General"
 msgctxt "#36121"
 msgid "This category contains the settings for how media lists are displayed."
-msgstr "See kategooria sisaldab meediumiloendite kuvamise seadeid."
+msgstr "See kategooria sisaldab meedialoendite kuvamise seadeid."
 
 #. Description of setting with label #13306 "Show parent folder items"
 msgctxt "#36122"
@@ -15745,12 +15753,12 @@ msgstr "Näita (..) nimetust emakausta külastamiseks."
 #. Description of setting with label #497 "Show file extensions"
 msgctxt "#36123"
 msgid "Show file extensions on media files, for example \"You Enjoy Myself\" would be shown as \"You Enjoy Myself.mp3\"."
-msgstr "Kuva meediafailide faililaiendid. Näiteks 'You Enjoy Myself.mp3' asemel kuvatakse lihtsalt 'You Enjoy Myself'."
+msgstr "Kuva meediafailide faililaiendid. Näiteks 'You Enjoy Myself' kuvatakse kujul 'You Enjoy Myself.mp3'."
 
 #. Description of setting with label #13399 "Ignore articles when sorting"
 msgctxt "#36124"
 msgid "Ignore certain tokens, e.g. \"The\", during sort operations. \"The Simpsons\" would for example be sorted as \"Simpsons\"."
-msgstr "Eira teatud märke, nt. \"The\", sortimistoimingute ajal. \"The Simpsons\" oleks näiteks sorditud kui \"Simpsons\"."
+msgstr "Eira teatud artikleid, nt. \"The\". Näiteks \"The Simpsons\" sorditakse kui \"Simpsons\"."
 
 #. Description of setting with label #14071 "Allow file renaming and deletion"
 msgctxt "#36125"
@@ -15827,7 +15835,7 @@ msgstr "Vali, millist temperatuuriühikut kasutatakse kasutajaliideses temperatu
 #. Description of setting with label #20369 "Show information for unwatched items"
 msgctxt "#36141"
 msgid "Show information for unwatched media in the video library or hide them if not selected to prevent spoilers. Available options are 'Movie plot', 'Episode plot' and 'Episode thumb'."
-msgstr "Kuva videokogus vaatamata videote teavet või peida see vältimaks sisu liigset avamist. Saadaolevad valikud on „Filmi sisu”, „Episoodi sisu” ja „Episoodi pilt”."
+msgstr "Kuva videokogus vaatamata videote teavet või peida see vältimaks sisu paljastamist. Saadaolevad valikud on „Filmi sisu”, „Episoodi sisu” ja „Episoodi pilt”."
 
 #. Description of setting with label #14106 "Speed unit"
 msgctxt "#36142"
@@ -15837,12 +15845,12 @@ msgstr "Vali, millist kiirusühikut kasutatakse kasutajaliideses kiiruste kuvami
 #. Description of setting with label #20402 "Download actor thumbnails"
 msgctxt "#36143"
 msgid "Downloads thumbnails for actors from online databases when adding media to the library."
-msgstr "Meediumi lisamisel meediakogusse laaditakse veebipõhistest andmebaasidest alla näitlejate pisipildid."
+msgstr "Meedia lisamisel meediakogusse laaditakse veebipõhistest andmebaasidest alla näitlejate pisipildid."
 
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Vali, millistel juhtudel sarjade hooaja infosein peita. Kui see on peidetud, minnakse otse episoodivaatesse."
+msgstr "Vali, milal peita sarjade hooajavaated. Peitmise korral avaneb sarja valimisel kohe episoodide loend."
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15857,7 +15865,7 @@ msgstr "Otsi käivitamisel uusi meediafaile."
 #. Description of setting with label #22001 "Hide progress of library updates"
 msgctxt "#36147"
 msgid "Hide the library scanning progress bar during scans."
-msgstr "Peida meediakogu skaneerimise edenemisriba."
+msgstr "Peida meediakogu skannimise edenemisriba."
 
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
@@ -15942,7 +15950,7 @@ msgstr "Luba muuta kuvari värskendussagedust nii, et see sobiks kõige paremini
 #. Description of setting with label #13550 "Delay after change of refresh rate"
 msgctxt "#36165"
 msgid "Delay of reset event after a change of refresh rate"
-msgstr "Lähtestamise viivitus pärast värskendussageduse muutmist"
+msgstr "Ekraani lähtestamise viivitus pärast värskendussageduse muutmist"
 
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
@@ -16002,7 +16010,7 @@ msgstr "See kategooria sisaldab videofailide loenditega seotud seadeid."
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "[Vali], [Esita] (vaikimisi), [Kuva üksikasjad] ja [Lisa järjekorda]. [CR][Vali] avab hüpikmenüü valikutega. [CR][Esita] esitab videot vastavalt sättele 'Taasesituse vaiketoiming'. [CR][Kuva üksikasjad] avab video lisateabe ekraani. [CR][Lisa järjekorda] lisab video praegusesse videote esitusloendisse."
+msgstr "[Vali], [Esita] (vaikimisi), [Kuva üksikasjad] ja [Lisa järjekorda]. [CR][Vali] avab valikutega hüpikmenüü. [CR][Esita] esitab videot vastavalt sättele 'Taasesituse vaiketoiming'. [CR][Kuva üksikasjad] avab video lisateabe ekraani. [CR][Lisa järjekorda] lisab video praegusesse videote esitusloendisse."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16081,7 +16089,7 @@ msgstr "Subtiitrite asukoht ekraanil. [Video allosas] / [Video ülaosas] Võimal
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr "Selles kategoorias on DVD-, Blu-ray- ja CD-de käsitsemise sätted."
+msgstr "Selles kategoorias on DVD-, Blu-ray- ja CD-de käsitsemise seaded."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 msgctxt "#36194"
@@ -16104,15 +16112,15 @@ msgstr "Info pole veel saadaval."
 
 msgctxt "#36198"
 msgid "Select the default movie information source. See the add-ons manager for options."
-msgstr "Vali vaikimisi filmi info allikas. Vaata võimalikke variante lisamoodulite haldurist."
+msgstr "Vali vaikimisi filmi infotarnija. Vaata võimalikke variante lisamoodulite haldurist."
 
 msgctxt "#36199"
 msgid "Select the default TV show information source. See the add-ons manager for options."
-msgstr "Vali vaikimisi sarjade teabeallikas. Vaata võimalikke variante lisamoodulite haldurist."
+msgstr "Vali vaikimisi sarjade infotarnija. Vaata võimalikke variante lisamoodulite haldurist."
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
-msgstr "Vali vaikimisi muusikavideo info allikas. Vaata võimalikke variante lisamoodulite haldurist."
+msgstr "Vali vaikimisi muusikavideo infotarnija. Vaata võimalikke variante lisamoodulite haldurist."
 
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
@@ -16124,7 +16132,7 @@ msgstr "See kategooria sisaldab PVR ja Otse-TV üldseadeid."
 
 msgctxt "#36203"
 msgid "Enables the \"Personal Video Recorder\" (PVR) features. This requires that at least one PVR add-on is installed."
-msgstr "Lubab funktsioonid \"Personal Video Recorder - Isiklik videosalvesti\" (PVR). Selleks on vaja installida vähemalt üks PVR lisamoodul."
+msgstr "Lubab funktsioonid \"Personal Video Recorder - Isiklik videosalvesti\" (PVR). Selleks tuleb paigaldada vähemalt üks PVR lisamoodul."
 
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
@@ -16133,11 +16141,11 @@ msgstr "[Küsi, kui taasesituse jätkamine on võimalik] (vaikimisi), [Jätka ta
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
-msgstr "Järjesta kanalid kaugvastuvõtja kanalinumbri järgi, kuid kanalite jaoks kasuta kohalikku numeratsiooni."
+msgstr "Järjesta kanalid taustsüsteemi kanalite numeratsiooni alusel, kuid kasuta kanalinumbritena kohalikke numbreid."
 
 msgctxt "#36206"
 msgid "Use the channel numbering from the backend."
-msgstr "Kasuta kaugvastuvõtja kanalinumbreid."
+msgstr "Kasuta taustasüsteemi kanalinumbreid."
 
 msgctxt "#36207"
 msgid "Open the channel manager, which allows modifying the channel order, channel name, icon, etc."
@@ -16145,11 +16153,11 @@ msgstr "Ava kanalihaldur, mis lubab muuta kanalite järjestust, kanali nime, iko
 
 msgctxt "#36208"
 msgid "Instruct the backend to search for channels (if supported)."
-msgstr "Käivita kaugvastuvõtjas kanaliotsing (kui see on toetatud)."
+msgstr "Anna taustasüsteemile märku kanaliotsingu tegemiseks (kui see on toetatud)."
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr "Tühjenda PVR andmete andmebaasid (nt kanalid, lemmiknimekirjad, meeldetuletused ja telekava). Teadmiseks, et kõiki andmeid ei saa tagantjärgi kaugvastuvõtjast taastada."
+msgstr "Tühjenda PVR andmete andmebaasid (nt kanalid, lemmiknimekirjad, meeldetuletused ja telekava). Teadmiseks, et kõiki andmeid ei saa tagantjärgi taustasüsteemist taastada."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -16161,7 +16169,7 @@ msgstr "See kategooria sisaldab PVR kanalite ja lemmiknimekirjade sätteid."
 
 msgctxt "#36212"
 msgid "Display programming information when changing channels, such as the current TV show."
-msgstr "Kuva kanalit vahetades saateinfo, näiteks praegune telesaade."
+msgstr "Kuva kanalit vahetades saateteave, näiteks praegune telesaade."
 
 msgctxt "#36213"
 msgid "Open the group manager, which allows modification of groups and their respective channels"
@@ -16182,7 +16190,7 @@ msgstr "Kaust kus talletatakse kanaliikoonid."
 
 msgctxt "#36217"
 msgid "Scan for missing channel icons."
-msgstr "Skaneeri puuduvaid kanaliikoone."
+msgstr "Otsi puuduvaid kanaliikoone."
 
 msgctxt "#36218"
 msgid "This category contains the electronic programming guide (EPG) settings."
@@ -16190,19 +16198,19 @@ msgstr "See kategooria sisaldab elektroonilise saatekava (EPG) sätteid."
 
 msgctxt "#36219"
 msgid "Number of past days to show in the guide and to import from backends."
-msgstr "Möödunud päevade arv, mida telekavas kuvada ja kaugtuunerist importida."
+msgstr "Möödunud päevade arv, mida telekavas kuvada ja taustasüsteemist importida."
 
 msgctxt "#36220"
 msgid "Number of future days to show in the guide and to import from backends."
-msgstr "Tulevaste päevade arv, mida telekavas kuvada ja kaugtuunerist importida."
+msgstr "Tulevaste päevade arv, mida telekavas kuvada ja taustasüsteemist importida."
 
 msgctxt "#36221"
 msgid "Time between imports of guide data from backends."
-msgstr "Kaugtuuneritest saatekava andmete hankimise ajavahemik."
+msgstr "Taustasüsteemidest saatekava andmete hankimise ajavahemik."
 
 msgctxt "#36222"
 msgid "Don't import the guide data while playing TV to minimise CPU usage."
-msgstr "Protsessori kasutuse vähendamiseks telekanalite vaatamise ajal EPG andmeid ei impordita."
+msgstr "Protsessori kasutuse vähendamiseks taasestuse ajal EPG andmeid ei impordita."
 
 #. Description of setting with label #13438 "Allow Hardware Accelleration with DRM PRIME"
 msgctxt "#36223"
@@ -16211,11 +16219,11 @@ msgstr "Luba videofailide riistvaraline dekodeerimine PRIME abil, kui ffmpeg PRI
 
 msgctxt "#36224"
 msgid "Hide \"No information available\" labels when no guide data is available for a channel."
-msgstr "Peida 'Info pole saadaval', kui kanalitel puudub EPG."
+msgstr "Peida 'Teave puudub', kui kanalitel puudub EPG."
 
 msgctxt "#36225"
 msgid "Delete the cached guide data and reimport it from the backend."
-msgstr "Kustuta vahemällu salvestatud EPG andmed ja impordi need kaugtuunerist uuesti."
+msgstr "Kustuta vahemällu salvestatud EPG andmed ja impordi need taustasüsteemist uuesti."
 
 msgctxt "#36226"
 msgid "This category contains the PVR playback and channel switching settings."
@@ -16232,7 +16240,7 @@ msgstr "Määra subtiitrite tausta jaoks kasutatav värv."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
-msgstr "Kuva koodeki teabe aknas signaali kvaliteet (kui lisamoodul ja kaugtuuner seda toetavad)."
+msgstr "Kuva koodeki teabeaknas signaali kvaliteet (kui lisamoodul ja taustasüsteem seda toetavad)."
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
@@ -16265,19 +16273,19 @@ msgstr "Määrab, mitu sekundit peaks kanalit vaatama, enne kui see viimati vaad
 
 msgctxt "#36237"
 msgid "Additional time to record before the scheduled start time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "Lisaaeg salvestamiseks enne ajastuse algusaega, et võimaldada väiksemaid saatekava muudatusi. Kõik lisamoodulid ja taustaprogrammid ei toeta."
+msgstr "Lisaaeg salvestamiseks enne ajastuse algusaega, et võimaldada väiksemaid saatekava muudatusi. Kõik lisamoodulid ja taustasüsteemid ei toeta."
 
 msgctxt "#36238"
 msgid "Additional time to record after the scheduled end time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "Lisaaeg salvestamiseks pärast ajastuse lõpuaega, et võimaldada väiksemaid saatekava muudatusi. Kõik lisamoodulid ja taustaprogrammid ei toeta."
+msgstr "Lisaaeg salvestamiseks pärast ajastuse lõpuaega, et võimaldada väiksemaid saatekava muudatusi. Kõik lisamoodulid ja taustasüsteemid seda ei toeta."
 
 msgctxt "#36239"
 msgid "Display a notification when timers are added, finished or removed by the backend."
-msgstr "Kuva teavitus, kui kaugvastuvõtja lisab, lõpetab või eemaldab taimereid."
+msgstr "Kuva teavitus, kui taustasüsteem lisab, lõpetab või eemaldab taimereid."
 
 msgctxt "#36240"
 msgid "This category contains the PVR power management settings, such as when to wakeup the PVR backend server."
-msgstr "See kategooria sisaldab PVR toitehalduse seadeid, näiteks millal PVR kaugserver äratada."
+msgstr "See kategooria sisaldab PVR toitehalduse seadeid, näiteks millal PVR-taustasüsteem äratada."
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
@@ -16293,7 +16301,7 @@ msgstr "Täidetav käsk (cmd [timestamp])."
 
 msgctxt "#36244"
 msgid "Time to subtract from the start time of the next scheduled recording."
-msgstr "Aeg, mille võrra varem ajastatud salvestus käivitub."
+msgstr "Aeg, mis lahutatakse järgmise ajastatud salvestuse algusajast."
 
 msgctxt "#36245"
 msgid "Execute the wakeup command every day at the given time."
@@ -16305,7 +16313,7 @@ msgstr "Igapäevase äratuskäskluse käivitamise aeg."
 
 msgctxt "#36247"
 msgid "This category contains the parental control settings, if the PVR backend server supports parental controls."
-msgstr "See kategooria sisaldab lapseluku sätteid, kui kaugtuuner toetab lapselukku."
+msgstr "See kategooria sisaldab lapseluku sätteid, kui taustasüsteem toetab lapselukku."
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
@@ -16321,11 +16329,11 @@ msgstr "Lapseluku all olevate kanalite vaatamisel küsi pärast määratud ajava
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
-msgstr "See kategooria sisaldab konkreetselt PVR kaugtuuneri sätteid, kui PVR lisamoodul ja tuuner seda toetavad."
+msgstr "See kategooria sisaldab konkreetselt PVR kaugtuuneri sätteid, kui PVR lisamoodul ja taustasüsteem seda toetavad."
 
 msgctxt "#36252"
 msgid "This option will bring you to any specific settings for your PVR backend, if supported by the PVR add-on and backend."
-msgstr "See valik viib PVR kaugtuuneri konkreetsete seadistusteni, kui PVR lisamoodul ja tuuner seda toetavad."
+msgstr "See valik viib PVR kaugtuuneri konkreetsete seadistusteni, kui PVR lisamoodul ja taustasüsteem seda toetavad."
 
 #. Description of settings section with label #2 "Music"
 msgctxt "#36253"
@@ -16344,17 +16352,17 @@ msgstr "Kui lubatud, kuvatakse nii loo kui ka albumi esitajaid. Kui keelatud, ku
 #. Description of setting with label #20192 "Fetch additional information during updates"
 msgctxt "#36256"
 msgid "Automatically fetch album and artist information from information providers when adding songs to the library."
-msgstr "Laulude meediakogusse lisamisel too infopakkujatelt automaatselt albumi ja esitaja teave."
+msgstr "Laulude meediakogusse lisamisel too infotarnijatelt automaatselt albumi ja esitaja teave."
 
 #. Description of setting with label #20193 "Default provider for album information"
 msgctxt "#36257"
 msgid "Select the default album information provider."
-msgstr "Vali albumi info vaiketeenus."
+msgstr "Vali albumiteabe vaiketarnija."
 
 #. Description of setting with label #20194 "Default provider for artist information"
 msgctxt "#36258"
 msgid "Select the default artist information provider."
-msgstr "Vali esitaja info vaiketeenus."
+msgstr "Vali esitajateabe vaiketarnija."
 
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36259"
@@ -16398,7 +16406,7 @@ msgstr "Kui laulud on valitud, pannakse need kohe esitamise asemel järjekorda."
 #. Description of setting with label #638 "Volume adjustments"
 msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
-msgstr "Loe helifailidesse kodeeritud ReplayGaini teavet ja normaliseeri helitasemed vastavalt."
+msgstr "Loe helifailidesse kodeeritud ReplayGain-teavet ja normaliseeri helitasemed vastavalt."
 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
@@ -16483,7 +16491,7 @@ msgstr "Käivita sisestatud CD-d automaatselt."
 #. Description of setting with label #227 "Load audio CD information from online service"
 msgctxt "#36284"
 msgid "Read the information belonging to an audio CD, like song title and artist, from the Internet database gnudb.org."
-msgstr "Loe interneti andmebaasist gnudb.org audio-CD-le kuuluvat teavet, näiteks laulu pealkirja ja esitajat."
+msgstr "Loe veebi andmebaasist gnudb.org heli-CD teavet, näiteks laulu pealkirja ja esitajat."
 
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
@@ -16498,7 +16506,7 @@ msgstr "Määra, kuidas salvestatud muusika nimetatakse siltidest. Sildid: [B]%N
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
 msgid "Select which audio encoder to use when ripping."
-msgstr "Vali rippimisel kasutatav audiokoodek."
+msgstr "Vali rippimisel kasutatav helikoodek."
 
 #. Description of setting with label #622 "Quality"
 msgctxt "#36288"
@@ -16508,7 +16516,7 @@ msgstr "Vali rippimise kvaliteet."
 #. Description of setting with label #623 "Bitrate"
 msgctxt "#36289"
 msgid "Select which bitrate to use for the specified audio encoder for audio compression."
-msgstr "Vali audio pakkimiseks kasutatav koodeki bitikiirus."
+msgstr "Vali heli pakkimiseks kasutatav koodeki bitikiirus."
 
 #. Description of setting with label #665 "Compression level"
 msgctxt "#36290"
@@ -16550,7 +16558,7 @@ msgstr "Määra aeg sekundites, mille möödudes PVR meeldetuletuste hüpikaken 
 
 msgctxt "#36298"
 msgid "If enabled, a recording for the programme to remind will be scheduled when auto-closing the reminder popup, if supported by the PVR add-on and backend."
-msgstr "Kui säte on lubatud ja PVR lisamoodul seda toetab, salvestatakse saade automaatselt pärast meeldetuletuse akna sulgumist."
+msgstr "Kui see on lubatud, ajastatakse meeldetuletuse hüpikakna automaatsel sulgemisel saate salvestus meeldetuletuseks, kui PVR-lisandmoodul ja taustasüsteem seda toetavad."
 
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
@@ -16586,7 +16594,7 @@ msgstr "See kategooria sisaldab pildifailide loendite käsitsemise seadeid."
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
-msgstr "Kui ei kasutata kaugvastuvõtja kanalinumbreid, algavad kõigi lemmiknimekirjade kanalid numbriga 1."
+msgstr "Kui ei kasutata taustasüsteemi kanalinumbreid, algavad kõigi lemmiknimekirjade kanalid numbriga 1."
 
 #. Description of setting with label #13360 "Automatically generate thumbnails"
 msgctxt "#36307"
@@ -16671,7 +16679,7 @@ msgstr "See kategooria sisaldab UPnP teenuse käitlemise seadeid. Enamikus olmee
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
 msgid "Enables the UPnP server. This allows you to stream media in your libraries to a UPnP client."
-msgstr "Lubab UPnP-serveri. See võimaldab meediakogudes olevat meediumit voogesitada UPnP kliendile."
+msgstr "Lubab UPnP-serveri. See võimaldab meediakogudes olevat meediat voogesitada UPnP kliendile."
 
 #. Description of setting with label #20188 "Announce library updates"
 msgctxt "#36324"
@@ -16681,12 +16689,12 @@ msgstr "Teavita UPnP kliente automaatsest ja käsitsi meediakogu uuendusest."
 #. Description of setting with label #21881 "Allow playback control via UPnP"
 msgctxt "#36325"
 msgid "Enable the UPnP client. This allows you to stream media from any UPnP server with a control point and control playback from that server."
-msgstr "Luba UPnP klient. See võimaldab voogesitada meediumit igast UPnP juhtpunktiga serverist ja juhtida sealt taasesitust."
+msgstr "Luba UPnP klient. See võimaldab voogesitada meediat igast UPnP juhtpunktiga serverist ja juhtida sealt taasesitust."
 
 #. Description of setting with label #21361 "Look for remote UPnP players"
 msgctxt "#36326"
 msgid "Enable the UPnP control point. This allows you to stream media to any UPnP client and control its playback."
-msgstr "Luba UPnP kontrollpunkt. See võimaldab voogesitada meediumit mis tahes UPnP kliendile ja juhtida selle taasesitust."
+msgstr "Luba UPnP kontrollpunkt. See võimaldab voogesitada meediat igale UPnP kliendile ja juhtida selle taasesitust."
 
 #. Description of settings category with label #20187 "Control"
 msgctxt "#36327"
@@ -16741,7 +16749,7 @@ msgstr "Määra kaugjuhtimise pordi ulatus."
 #. Description of setting with label #797 "Maximum number of clients"
 msgctxt "#36337"
 msgid "Define the maximum number of clients that can connect."
-msgstr "Määra maksimaalne arv kliente, kes saavad ühendust luua."
+msgstr "Määra suurim samaaegselt ühendatud klientide arv."
 
 #. Description of setting with label #794 "Allow remote control from programs on other systems"
 msgctxt "#36338"
@@ -16845,12 +16853,12 @@ msgstr "Kalibreeri kasutajaliides, reguleerides liighälvitust. Kasuta seda tö�
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr "Luba kasutada kanalinumeratsiooni mitmest kaugvastuvõtjast. Selle sätte lubamisel võib loendis 'Kõik kanalid' olla mitu sama numbrit kasutavat kanalit. See tähendab, et kanalivahetus numbrinuppudega ei pruugi loendis 'Kõik kanalid' korralikult töötada."
+msgstr "Luba kasutada kanalinumeratsiooni mitmest taustasüsteemist. Selle sätte lubamisel võib loendis 'Kõik kanalid' olla mitu sama numbrit kasutavat kanalit. See tähendab, et kanalivahetus numbrinuppudega ei pruugi loendis 'Kõik kanalid' korralikult töötada."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
 msgid "Use limited colour range (16-235) instead of full colour range (0-255). Limited range should be used if your display is a regular HDMI TV and doesn't have a PC or other mode to display full range colour, however if your display is a PC monitor then leave this disabled to get proper blacks."
-msgstr "Kasuta täieliku värviruumi (0-255) asemel piiratud värviruumi (16–235). Piiratud värviruumi tuleks kasutada HDMI teleril, mis ei toeta täielikku värviruumi. Kui ekraaniks on arvutimonitor või mõni muu toetatud ekraan, jäta see õige musta värvi saamiseks keelatuks."
+msgstr "Kasuta täieliku värviulatust (0-255) asemel piiratud värviruumi (16–235). Piiratud värviulatust tuleks kasutada tavalise HDMI-teleriga, millel puudub arvuti- või muu režiim täieliku värviulatuse kuvamiseks. Arvutimonitori puhul jäta see seade keelatuks, et tagada sügav must toon."
 
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
@@ -16888,7 +16896,7 @@ msgstr "Vali see suvand, kui vastuvõtja suudab dekodeerida DTS vooge."
 
 msgctxt "#36367"
 msgid "Select the maximum number of audio channels / speakers available for decoded audio. If optical / coax digital outputs are used, this must be set to 2.0"
-msgstr "Vali dekodeeritud heli jaoks maksimaalne saadaolevate helikanalite/kõlarite arv. Kui kasutatakse optilisi/koaksiaalseid digitaalväljundeid, tuleb see seada väärtusele 2.0"
+msgstr "Vali dekodeeritud heli jaoks suurim saadaolevate helikanalite/kõlarite arv. Kui kasutatakse optilisi/koaksiaalseid digitaalväljundeid, tuleb see seada väärtusele 2.0"
 
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
@@ -16953,32 +16961,32 @@ msgstr "See kategooria sisaldab internetiühenduse seadeid. Siin saab valida ka 
 #. Description of setting with label #708 "Use proxy server"
 msgctxt "#36380"
 msgid "If your Internet connection uses a proxy server, configure it here."
-msgstr "Kui internetiühendus kasutab puhverserverit, seadista see siin."
+msgstr "Kui internetiühendus kasutab proksiserverit, seadista see siin."
 
 #. Description of setting with label #1180 "Proxy type"
 msgctxt "#36381"
 msgid "Configure which proxy type is used."
-msgstr "Seadista puhverserveri tüüp."
+msgstr "Määra puhverserveri tüüp."
 
 #. Description of setting with label #706 "Server"
 msgctxt "#36382"
 msgid "Configure the proxy server address."
-msgstr "Määra puhverserveri aadress."
+msgstr "Määra proksiserveri aadress."
 
 #. Description of setting with label #730 "Port"
 msgctxt "#36383"
 msgid "Configure the proxy server port."
-msgstr "Määra puhverserveri port."
+msgstr "Määra proksiserveri port."
 
 #. Description of setting with label #1048 "Username"
 msgctxt "#36384"
 msgid "Configure the proxy server username."
-msgstr "Määra puhverserveri kasutajanimi."
+msgstr "Määra proksiserveri kasutajanimi."
 
 #. Description of setting with label #733 "Password"
 msgctxt "#36385"
 msgid "Configure the proxy server password."
-msgstr "Määra puhverserveri parool."
+msgstr "Määra proksiserveri parool."
 
 #. Description of setting with label #14041 "Internet connection bandwidth limitation"
 msgctxt "#36386"
@@ -17043,7 +17051,7 @@ msgstr "Kui lubatud, on selle rakenduse avamiseks käivitamisel vaja pealuku koo
 #. Description of setting with label #20076 "Max Retries"
 msgctxt "#36398"
 msgid "Define the maximum number of retries before this application is closed down."
-msgstr "Määra uuesti proovimise maksimaalne arv enne selle rakenduse sulgemist."
+msgstr "Määra suurim uuestiproovimiste arv enne selle rakenduse sulgemist."
 
 #. Description of settings category with label #439 "Cache"
 msgctxt "#36399"
@@ -17078,7 +17086,7 @@ msgstr "Kasuta vahemälu heli taasesitamiseks DVD-ROM-ilt."
 #. Description of settings category with label #14031 "Audio cache - Local Network"
 msgctxt "#36405"
 msgid "Enable cache for audio playback from local network."
-msgstr "Kasuta vahemälu heli taasesitamiseks kohalikust võrgust."
+msgstr "Kasuta vahemälu heli taasesitamiseks kohtvõrgust."
 
 #. Description of settings category with label #14032 "Audio cache - Internet"
 msgctxt "#36406"
@@ -17124,10 +17132,20 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Info pole veel saadaval."
 
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
+msgstr ""
+"Vähendab heli töötlemise latentsust. Kiirendab taasesituse alustamist, jätkamist ja otsimist (heli naaseb kiiremini).\n"
+"Keela see säte, kui tekib probleeme heliga."
+
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
-msgstr "Määra ilmastikuteabe hankimiseks kasutatavad asukohad."
+msgstr "Määra ilmateate hankimiseks kasutatavad asukohad."
 
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
@@ -17201,7 +17219,7 @@ msgstr "Kui lubatud, lülitu meeldetuletuse hüpikakna sulgudes saadet edastaval
 
 msgctxt "#36435"
 msgid "Sort channel groups by the order supplied by the backend(s). If enabled, groups cannot be reordered in the Group manager"
-msgstr "Järjesta kanalirühmad taustaprogrammi(de) esitatud järjestuse järgi. Kui see on lubatud, ei saa rühmi rühmahalduris ümber järjestada"
+msgstr "Järjesta kanalirühmad taustasüsteemi(de) esitatud järjestuse järgi. Kui see on lubatud, ei saa rühmi rühmahalduris ümber järjestada"
 
 # empty string with id 36435
 #. Description for setting #407: "Hardware keyboard layouts"
@@ -17224,7 +17242,7 @@ msgstr "Kõik hoidlad"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr "Luba järgmise saate automaatne esitamine, kui vaatad möödunud saateid (järelvaatamine) või tellitud video (VOD) kanaleid. Järelvaatamine ja VOD töötavad ainult siis, kui kanali pakkuja seda toetab."
+msgstr "Luba järgmise saate automaatne esitamine, kui vaatad möödunud saateid (järelvaatamine) või tellitud video (VOD) kanaleid. Järelvaatamine ja VOD töötavad ainult siis, kui kanalitarnija seda toetab."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17234,17 +17252,17 @@ msgstr "Määra helitaseme astmete arv."
 #. Description of setting with label #14126 "Whitelist"
 msgctxt "#36443"
 msgid "Whitelisted modes give the user the control to choose which display modes are allowed or not allowed to be used"
-msgstr "Valges loendis olevad režiimid võimaldavad kasutajal valida, millised kuvarežiimid on lubatud või mitte"
+msgstr "Lubatud režiimide loend võimaldab kasutajal valida, millised kuvarežiimid on lubatud või mitte"
 
 #. Description of setting with label #14127 "Whitelist"
 msgctxt "#36444"
 msgid "Select this option to allow using 3:2 pulldown refresh rates (playing 23.976 FPS video on a 59.94 Hz monitor or playing 24 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 23.976 Hz or 24 Hz mode."
-msgstr "Vali see suvand, et lubada 3:2 rippmenüü värskendussagedus (23,976 k/s video esitamine 59,94 Hz monitoril või 24 k/s video esitamine 60 Hz monitoril). Võid soovida seda valikut kasutada, kui monitoril pole 23,976 Hz või 24 Hz režiimi."
+msgstr "Vali see suvand, et lubada 3:2 värskendussageduste ühtlustamine (23,976 k/s video esitamine 59,94 Hz monitoril või 24 k/s video esitamine 60 Hz monitoril). Võid soovida seda valikut kasutada, kui monitoril pole 23,976 Hz või 24 Hz režiimi."
 
 #. Description of setting with label #14128 "Whitelist"
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
-msgstr "Vali see suvand, et lubada kasutada topeltvärskendussagedust (23,976 k/s video esitamine 59,94 Hz monitoril või 30 k/s video esitamine 60 Hz monitoril). Võid soovida seda valikut kasutada, kui monitoril pole 23,976 Hz või 30 Hz režiimi."
+msgstr "Vali see suvand, et lubada kasutada topeltvärskendussagedust (29.97 k/s video esitamine 59,94 Hz monitoril või 30 k/s video esitamine 60 Hz monitoril). Võid soovida seda valikut kasutada, kui monitoril pole 29.97 Hz või 30 Hz režiimi."
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -17269,12 +17287,12 @@ msgstr "Stereoskoopiline 3D"
 #. name of a stereoscopic mode
 msgctxt "#36502"
 msgid "Disabled"
-msgstr "Ei kasutata"
+msgstr "Keelatud"
 
 #. name of a stereoscopic mode
 msgctxt "#36503"
 msgid "Over / Under"
-msgstr "Ülal / all"
+msgstr "Ülestikku"
 
 #. name of a stereoscopic mode
 msgctxt "#36504"
@@ -17284,7 +17302,7 @@ msgstr "Kõrvuti"
 #. name of a stereoscopic mode
 msgctxt "#36505"
 msgid "Anaglyph red / cyan"
-msgstr "Anaglüüf punane / tsüaan"
+msgstr "Anaglüüf punane / siniroheline"
 
 #. name of a stereoscopic mode
 msgctxt "#36506"
@@ -17314,7 +17332,7 @@ msgstr "Anaglüüf kollane / sinine"
 #. name of a stereoscopic mode
 msgctxt "#36511"
 msgid "Checkerboard"
-msgstr "Malelaud"
+msgstr "Ruudustik"
 
 #. Name of a setting, asking the user for the default playback mode (2D, 3D, ask) of stereoscopic videos
 msgctxt "#36520"
@@ -17374,7 +17392,7 @@ msgstr "Vali, kuidas heli taandatakse, nt. 5.1 > 2.0.[CR][Lubatud] Säilitab alg
 #. Description of setting with label #668 "Component-specific logging..."
 msgctxt "#36534"
 msgid "Specify additional libraries whose verbose messages are to be included in the debug log."
-msgstr "Määra täiendavad meediakogud, mille üksikasjalikud sõnumid lisatakse silumislogisse."
+msgstr "Määra täiendavad teegid, mille üksikasjalikud sõnumid lisatakse silumislogisse."
 
 #. label of a setting, allowing to specify the stereoscopic 3D mode of a video
 msgctxt "#36535"
@@ -17384,7 +17402,7 @@ msgstr "Stereoskoopiline 3D video režiim"
 #. label of a toggle option that allows to invert the stereoscopic 3d mode
 msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
-msgstr "Pööratud stereoskoopiline 3D režiim (silmade pööramine)"
+msgstr "Pööratud stereoskoopiline 3D režiim (silmade vahetus)"
 
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
@@ -17428,7 +17446,7 @@ msgstr "Määrab stereoskoopiliste 3D videote subtiitrite visuaalse sügavuse. M
 #. Description of setting with label #36097 "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36547"
 msgid "Sets the peak luminance level for GUI elements while the display is in HDR PQ mode. This affects all OSD, subtitles and graphics that are SDR in origin."
-msgstr "Määrab GUI elementide heleduse tipptaseme, kui ekraan on HDR PQ režiimis. See mõjutab ekraanigraafikat, subtiitreid ja algselt SDR päritolu taustapilte."
+msgstr "Määrab GUI elementide heleduse tipptaseme, kui ekraan on HDR PQ režiimis. See mõjutab ekraanigraafikat, subtiitreid ja SDR-tasemel graafilisi objekte."
 
 #. Description of setting with label #37021 "Set GUI resolution limit"
 msgctxt "#36548"
@@ -17438,7 +17456,7 @@ msgstr "Piirab kasutajaliidese eraldusvõimet mälu säästmiseks. Ei mõjuta vi
 #. Description of setting with label #1268 "iOS 8 compatibility mode"
 msgctxt "#36549"
 msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
-msgstr "Võimaldab videote ja piltide esitamise AirPlay kaudu. See tuleb keelata, kui kasutada AirPlay kaudu muusika voogesituseks iOS 9 või uuema versiooni kliente. Videote ja piltide esitus on toetatud ainult iOS 8.x ja vanemat versiooni kasutavatel klientidel."
+msgstr "Võimaldab videote ja piltide esitamise AirPlay kaudu. See tuleb keelata, kui kasutada AirPlay kaudu muusika voogesituseks iOS 9 või uuema versiooni seadmeid. Videote ja piltide esitus on toetatud ainult iOS 8.x ja vanemat versiooni kasutavatel seadmetel."
 
 #. Name of a setting
 msgctxt "#36550"
@@ -17458,7 +17476,7 @@ msgstr "Määrab graafikadraiveri kasutatavate esitluspuhvrite arvu. Vali 2, kui
 #. label of a setting, allowing to specify tonemap method
 msgctxt "#36553"
 msgid "Tone mapping"
-msgstr "Värvikaardistus"
+msgstr "Toonikaardistus"
 
 #. label of a setting, tone mapping method
 msgctxt "#36554"
@@ -17473,7 +17491,7 @@ msgstr "Reinhard"
 #. label of a setting, allowing to specify tone mapping parameter
 msgctxt "#36556"
 msgid "Tone mapping parameter"
-msgstr "Värvikaardistuse parameeter"
+msgstr "Toonikaardistuse parameeter"
 
 #. label of a setting, tone mapping method
 msgctxt "#36557"
@@ -17492,7 +17510,7 @@ msgstr "Värvihaldus"
 #. Description of setting "System -> Video output -> Colour management" with label #36560
 msgctxt "#36561"
 msgid "Reproduce video colours accurately using a display profile or a 3D lookup table."
-msgstr "Kasuta värvide võimalikult täpseks kuvamiseks ekraani profiili või 3D häälestustabelit."
+msgstr "Kasuta värvide võimalikult täpseks kuvamiseks ekraani profiili või 3D-otsingutabelit (LUT)."
 
 msgctxt "#36562"
 msgid "Colour management mode"
@@ -17528,7 +17546,7 @@ msgstr "Valgepunkt"
 #. Description of setting "System -> Video output -> Whitepoint" with label #36568
 msgctxt "#36569"
 msgid "Changing video whitepoint to D93 is mainly useful for older Japanese NTSC material which looks too red when played back on a D65 display. Adjust video brightness setting down to avoid clipping to display native whitepoint."
-msgstr "Video valgepunkti muutmine D93-ks on kasulik vana Jaapani NTSC-materjali puhul, kuna see paistab D65 ekraanil vaadates punakas. Seadista video heledust madalamaks, et eredamad toonid esile tuleksid."
+msgstr "Video valgepunkti muutmine D93-ks on kasulik vana Jaapani NTSC-materjali puhul, kuna see paistab D65 ekraanil vaadates punakas. Seadista video heledust madalamaks, et vältida pildi kärpimist."
 
 msgctxt "#36570"
 msgid "Primaries"
@@ -17546,7 +17564,7 @@ msgstr "Gamma režiim"
 #. Description of setting "System -> Video output -> Gamma mode" with label #36572
 msgctxt "#36573"
 msgid "Select the gamma curve formula. Use BT.1886 for gamma curve that accounts for display black and white levels and avoids perceptual clipping. Use input offset for a similar curve with a manually specified effective gamma. Output offset allows for perceptual clipping, but can be used to compensate for incorrect mastering monitor settings that lead to too bright dark details. Absolute gamma does not account for display black at all and will clip the lowest levels to display black on any display with higher than zero black level."
-msgstr "Vali gammakõvera valem. Kasuta BT.1886 gammakõverale, mis arvestab ekraani musta ja valge tasemeid ja väldib tajutavat kärpimist. Kasuta sisendi nihet sarnasele kõverale, mille efektiivne gamma on käsitsi määratud. Väljundi nihutamine võimaldab tajutavat kärpimist, kuid seda saab kasutada monitoride vale masterdamisseadistuse kompenseerimiseks, mis toob kaasa liiga heledad tumedad detailid. Absoluutne gamma ei võta üldse arvesse ekraani musta ja kärbib madalaimad tasemed, et kuvada musta mis tahes ekraanil, mille musta tase on suurem kui null."
+msgstr "Vali gammakõvera valem. Kasuta gammakõvera jaoks BT.1886, mis arvestab ekraani musta ja valge tasemeid ning väldib tajutavat kärpimist. Kasuta sarnase kõvera jaoks sisendi nihet käsitsi määratud efektiivse gammaga. Väljundnihe võimaldab tajutavat kärpimist, kuid seda saab kasutada valede monitori sätete kompenseerimiseks, mis viivad liiga heledate ja tumedate detailideni. Absoluutne gamma ei arvesta üldse ekraani musta ja kärbib madalaimaid tasemeid, et kuvada musta mis tahes ekraanil, mille musta tase on kõrgem kui null."
 
 msgctxt "#36574"
 msgid "Gamma"
@@ -17662,7 +17680,7 @@ msgstr "Eemaldab RGB taseme muundamise või muu töötlemise põhjustatud värvi
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Video värvihägustuse täpsus bittides. Kasuta kõrgeimat seadet, kus ei paista ribasid. Enamasti on vaikeväärtuseks 8. Kui videokaart skaleerib RGB tasemeid või kui kasutad sülearvuti ekraani, võivad 7 või 6 bitti töötada paremini. Alumised sätted on mõeldud vaid testimiseks, et oleks selgelt näha, kas hägustamine töötab ja kas müra pikslisuurus vastab ekraani eraldusvõimele."
+msgstr "Video müratöötluse täpsus bittides. Kasuta kõrgeimat seadet, kus ei paista ribasid. Enamasti on vaikeväärtuseks 8. Kui videokaart skaleerib RGB tasemeid või kui kasutad sülearvuti ekraani, võivad 7 või 6 bitti töötada paremini. Alumised sätted on mõeldud vaid testimiseks, et oleks selgelt näha, kas hägustamine töötab ja kas müra pikslisuurus vastab ekraani eraldusvõimele."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -17825,7 +17843,7 @@ msgstr "Igaüks, kellel on juurdepääs veebiliidesele, saab seda rakendust ja s
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control from applications on other systems"
 msgctxt "#36633"
 msgid "These services offer neither authentication nor encryption. Anyone who can connect to them will be able to completely control this application and, therefore, this device, so they should never be exposed to the Internet. Proceed?"
-msgstr "Need teenused ei paku autentimist ega krüpteerimist. Kõik, kes saavad nendega ühendust luua, saavad seda rakendust ja seega ka seadet täielikult juhtida, nii neid ei tohiks kunagi internatis paljastada. Kas jätkata?"
+msgstr "Need teenused ei paku autentimist ega krüpteerimist. Kõik, kes saavad nendega ühendust luua, saavad seda rakendust ja seega ka seadet täielikult juhtida, seega ei tohiks neid kunagi internetis paljastada. Kas jätkata?"
 
 #. Text in confirm dialog when disabling setting "Services -> Control -> Require authentication"
 msgctxt "#36634"
@@ -17924,7 +17942,7 @@ msgstr "Määra"
 
 msgctxt "#36911"
 msgid "sets"
-msgstr "Setid"
+msgstr "kogumikku"
 
 msgctxt "#36912"
 msgid "video"
@@ -17985,7 +18003,7 @@ msgstr "Viimati kasutatud profiil"
 #. Label used in different places to denote the function to open a folder to list its content
 msgctxt "#37015"
 msgid "Browse into"
-msgstr "Sirvi"
+msgstr "Ava kaust"
 
 #. Description of setting with label #448 "Dolby Digital Plus (E-AC3) capable receiver"
 msgctxt "#37016"
@@ -18051,7 +18069,7 @@ msgstr "Eelista vaegnägijate heliriba"
 #. Description of setting #37034 Accessibility
 msgctxt "#37035"
 msgid "Prefer the audio stream for the visually impaired to other audio streams of the same language"
-msgstr "Eelista vaegnägijate helivoogu teistele sama keelega helivoogudele"
+msgstr "Eelista vaegnägijate heliriba teistele sama keelega heliribadele"
 
 #. Setting #37036 Settings -> Video -> Accessibility
 msgctxt "#37036"
@@ -18061,7 +18079,7 @@ msgstr "Eelista vaegkuuljate heliriba"
 #. Description of setting #37036 Accessibility
 msgctxt "#37037"
 msgid "Prefer the audio stream for the hearing impaired to other audio streams of the same language"
-msgstr "Eelista vaegkuuljate helivoogu teistele sama keelega helivoogudele"
+msgstr "Eelista vaegkuuljate heliriba teistele sama keelega heliribadele"
 
 #. Setting #37038 Accessibility
 msgctxt "#37038"
@@ -18081,12 +18099,12 @@ msgstr "Eelista vaikimisi heliriba"
 #. Description of setting #37040 Playback
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr "Kui lubatud, eelistatakse vaikeväärtusena märgistatud (ja eelistatud keelele vastavaid) helivooge kõrgema kvaliteediga voogudele (kanalite arv, koodekid...)."
+msgstr "Kui lubatud, eelistatakse vaikeväärtusena märgistatud (ja eelistatud keelele vastavat) heliriba kõrgema kvaliteediga heliribadele (kanalite arv, koodekid...)."
 
 #. Description of setting Skip steps
 msgctxt "#37042"
 msgid "Defines which step sizes to use when pressing the skip buttons. If more steps are selected for a skip direction, these can be applied by subsequent presses on the skip button within the defined skip delay. Forward (positive) and backward (negative) steps can be defined independently."
-msgstr "Määrab, milliseid sammude suurusi hüppenuppude vajutamisel kasutada. Kui hüppe suuna jaoks on valitud rohkem samme, saab neid vahele jätta, kui vajutada hüppenuppu määratletud viivitusega. Edasi (positiivseid) ja tagasi (negatiivseid) samme saab määratleda eraldi."
+msgstr "Määrab hüppenuppude sammu pikkuse. Kui valitud on mitu sammu, rakenduvad need korduvate vajutustega määratud viivituse jooksul. Edasi- (positiivne) ja tagasihüppeid (negatiivne) saab seadistada eraldi."
 
 #. Description of setting Skip delay
 msgctxt "#37043"
@@ -18170,7 +18188,7 @@ msgstr "Puhverdamine"
 #. Description of category #37101 "Caching"
 msgctxt "#37102"
 msgid "This category contains settings that configure caching of local and network files, and internet streams."
-msgstr "See kategooria sisaldab sätteid, mis seadistavad kohalike ja võrgufailide ning netivoogude vahemällu salvestamist."
+msgstr "See kategooria sisaldab sätteid, mis seadistavad kohalike ja võrgufailide ning veebivoogude vahemällu salvestamist."
 
 #. Setting #37103 "Buffer Mode"
 msgctxt "#37103"
@@ -18215,7 +18233,7 @@ msgstr "Puhvrita"
 #. Value of setting - TRUE INTERNET
 msgctxt "#37111"
 msgid "Only buffer true internet streams: HTTP, HTTPS, etc."
-msgstr "Puhverda ainult tõelisi netivooge: HTTP, HTTPS jne."
+msgstr "Puhverda ainult ehtsaid veebivooge: HTTP, HTTPS jne."
 
 #. Value of setting - INTERNET
 msgctxt "#37112"
@@ -18277,22 +18295,22 @@ msgstr "{0:d} sekundit"
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr "Heli/video järjekorra kestus"
+msgstr "Heli/videojärjekorra kestus"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr "Heli/video järjekordade kestus sekundites. Kestus määrab mällu salvestatud andmete hulga."
+msgstr "Heli/videojärjekordade kestus sekundites. Kestus määrab mällu salvestatud andmete hulga."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr "Video järjekorra maksimaalne suurus"
+msgstr "Videojärjekorra maksimaalne suurus"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr "Piirab video järjekorra maksimaalset mälukasutust. Kasutatava mälu maht sõltub video bitikiirusest ja järjekorra pikkusest. Kui mälulimiit on täis, lühendatakse järjekorra aega vastavalt vajadusele."
+msgstr "Piirab videojärjekorra maksimaalset mälukasutust. Kasutatava mälu maht sõltub video bitikiirusest ja järjekorra pikkusest. Kui mälulimiit on täis, lühendatakse järjekorra aega vastavalt vajadusele."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18307,7 +18325,7 @@ msgstr "Kuva kataloogis kirje \"Kõik üksused\", nt. \"Kõik albumid\" või \"K
 #. Label of a setting to limit the number of fps used for updating the GUI while playing videos. This is useful for slow systems that have problems rendering GUI and video at the same time in full speed.
 msgctxt "#38013"
 msgid "Limit GUI updates during playback"
-msgstr "Väldi kasutajaliidese uuendusi esituse ajal"
+msgstr "Piira kasutajaliidese uuendusi esituse ajal"
 
 #. Description for the setting with label #38013 "Limit GUI updates when playing video"
 msgctxt "#38014"
@@ -18346,7 +18364,7 @@ msgstr "Määra oma hinne"
 
 msgctxt "#38024"
 msgid "Information provider selection"
-msgstr "Infotarnija valimine"
+msgstr "Infotarnija valik"
 
 msgctxt "#38025"
 msgid "Choose information provider"
@@ -18354,7 +18372,7 @@ msgstr "Vali infotarnija"
 
 msgctxt "#38026"
 msgid "Appearances"
-msgstr "Esinemisi"
+msgstr "Rollid"
 
 #. Label for an option to select the video stream to play if current video has more than one video stream
 msgctxt "#38031"
@@ -18383,7 +18401,7 @@ msgstr "Laulusõnade autor"
 #. Remixer of the song (if present)
 msgctxt "#38036"
 msgid "Remixer"
-msgstr "Ümbermiksija"
+msgstr "Remiksija"
 
 #. Arranger of the song (if present)
 msgctxt "#38037"
@@ -18393,7 +18411,7 @@ msgstr "Arranžeerija"
 #. Engineer of the song (if present)
 msgctxt "#38038"
 msgid "Engineer"
-msgstr "Tehnik"
+msgstr "Helirežissöör"
 
 #. Producer of the song (if present)
 msgctxt "#38039"
@@ -18428,7 +18446,7 @@ msgstr "Laulu ja albumi esitajad"
 #. Title all contributors node (any role e.g. composer, piano, producer, engineer)
 msgctxt "#38045"
 msgid "All contributors"
-msgstr "Kõik osalejad"
+msgstr "Kõik kaasautorid"
 
 #. Title all roles node
 msgctxt "#38046"
@@ -18438,7 +18456,7 @@ msgstr "Kõik rollid"
 #. Question when forced rescan of music tags needed after upgrade from previous version of Kodi
 msgctxt "#38060"
 msgid "Music library needs to rescan tags from files. Would you like to scan now?"
-msgstr "Muusikakogu peab failidest sildid uuesti skaneerima. Kas teha seda kohe?"
+msgstr "Muusikakogu peab sildid failidest uuesti skannima. Kas teha seda kohe?"
 
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
@@ -18448,12 +18466,12 @@ msgstr "Kas hankida lisateavet albumite ja esitajate kohta? See võib võtta aeg
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
 msgid "Do full tag scan even when music files are unchanged?"
-msgstr "Kas teha täielik siltide skaneering ka siis, kui failid on muutmata?"
+msgstr "Kas skannida kõik sildid uuesti ka siis, kui muusikafailid on muutmata?"
 
 #. Item in selection list #38338. Settings will change the default addon used to fetch artist or album information, related to #20195, #20193 and #20194
 msgctxt "#38063"
 msgid "Set default information provider"
-msgstr "Määra infole vaiketeenus"
+msgstr "Määra vaikimisi infotarnija"
 
 #. Item in selection list #38338 to change the information provider for a specific artist, related to #20195
 msgctxt "#38064"
@@ -18478,22 +18496,22 @@ msgstr "Sea kõigile kuvatud albumitele"
 #. Dialog message asking for confirmation of change the information provider for all artists shown in node, after #38065
 msgctxt "#38068"
 msgid "Use this information provider for all the artists shown here?"
-msgstr "Kas kasutada seda teabepakkujat kõigi siin kuvatud esitajate jaoks?"
+msgstr "Kas kasutada seda infotarnijat kõigi siin kuvatud esitajate jaoks?"
 
 #. Dialog message asking for confirmation of change the information provider for all albums shown in node, after #38067
 msgctxt "#38069"
 msgid "Use this information provider for all the albums shown here?"
-msgstr "Kas kasutada seda teabepakkujat kõigi siin kuvatud albumite jaoks?"
+msgstr "Kas kasutada seda infotarnijat kõigi siin kuvatud albumite jaoks?"
 
 #. Dialog message asking for confirmation of change to the default artist information provider, after #38063
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr "Kas kasutada seda teabepakkujat kõigi esitajate jaoks, kustutades konkreetsete esitajate varasemad seaded?"
+msgstr "Kas kasutada seda infotarnijat kõigi esitajate jaoks, kustutades konkreetsete esitajate varasemad seaded?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 msgctxt "#38071"
 msgid "Use this information provider for all albums, clearing any previous settings for specific albums?"
-msgstr "Kas kasutada seda teabepakkujat kõigi albumite jaoks, kustutades konkreetsete albumite varasemad seaded?"
+msgstr "Kas kasutada seda infotarnijat kõigi albumite jaoks, kustutades konkreetsete albumite varasemad seaded?"
 
 #. Dialog message asking for confirmation to get additional info for all the artists or albums in the node immediately
 msgctxt "#38072"
@@ -18507,7 +18525,7 @@ msgstr "Kas soovid selle üksuse teavet nüüd värskendada?"
 
 msgctxt "#38074"
 msgid "Boxsets"
-msgstr "Kogumikud"
+msgstr "Plaadiogumikud"
 
 msgctxt "#38075"
 msgid "* All discs"
@@ -18557,7 +18575,7 @@ msgstr "Jaotis, mis sisaldab meedia taasesituse sätteid"
 #. Description of section #14201 "Media"
 msgctxt "#38101"
 msgid "Section that contains the settings for sources and how media information is collected, stored, shown and navigated"
-msgstr "Jaotis, mis sisaldab allikate sätteid ja meediainfo kogumise, salvestamise, kuvamise ja navigeerimise viisi"
+msgstr "Jaotis, mis sisaldab allikate sätteid ja meediateabe kogumise, salvestamise, kuvamise ja navigeerimise viisi"
 
 #. Description of section #14203 "Customise"
 msgctxt "#38102"
@@ -18587,17 +18605,17 @@ msgstr "See kategooria sisaldab heli ja subtiitrite keele ning juurdepääsetavu
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr "See kategooria sisaldab sätteid, kuidas videote kohta teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
+msgstr "See kategooria sisaldab sätteid, kuidas videote teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr "See kategooria sisaldab sätteid, kuidas muusika kohta teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
+msgstr "See kategooria sisaldab sätteid, kuidas muusika teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr "See kategooria sisaldab sätteid, kuidas piltide kohta teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
+msgstr "See kategooria sisaldab sätteid, kuidas piltide teavet kogutakse, salvestatakse, kuvatakse ja navigeeritakse"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
@@ -18612,7 +18630,7 @@ msgstr "See kategooria sisaldab muid kasutajaliidese seadeid"
 #. Description of setting with label #12381 "Switch to visualisation on playback"
 msgctxt "#38112"
 msgid "Automatically go to the visualisation window when audio playback starts"
-msgstr "Heli taasesituse alustamisel ava automaatselt visualiseerimisaken"
+msgstr "Heli taasesituse alustamisel käivita automaatselt visuaalid"
 
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
@@ -18626,12 +18644,12 @@ msgstr "Eralda pisipildid videofailidest"
 #. Description of setting "Pictures -> Show EXIF picture information" with label #38207
 msgctxt "#38207"
 msgid "Show EXIF picture information"
-msgstr "Näita pildi EXIF andmeid"
+msgstr "Näita pildi EXIF-teavet"
 
 #. Help text of setting "Pictures -> Show EXIF picture information" with label #38208
 msgctxt "#38208"
 msgid "If EXIF information exists (date, time, camera used, etc.), it will be displayed."
-msgstr "Kui EXIF info on olemas (kuupäev, kellaaeg, kaamera jne.), siis seda näidatakse."
+msgstr "Kui EXIF-teave on olemas (kuupäev, kellaaeg, kaamera jne.), siis seda näidatakse."
 
 #. Contextmenu entry to remove the resume point of the currently selected item
 msgctxt "#38209"
@@ -18656,12 +18674,12 @@ msgstr "Igale üksusele eraldi failid"
 #. Kind of export output, see #38304
 msgctxt "#38303"
 msgid "To library folders"
-msgstr "Meediakogu kaustad"
+msgstr "Meediakogu kaustadesse"
 
 #. Selection of export to a single file, many separate files or the library folder(s)
 msgctxt "#38304"
 msgid "Choose kind of export output"
-msgstr "Vali ekspordi väljund"
+msgstr "Vali ekspordimeetod"
 
 #. Folder path for export output file or files
 msgctxt "#38305"
@@ -18679,16 +18697,16 @@ msgstr "Kaasa pildid nagu pisipildid ja fännipildid"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
-msgstr "Kaasa ka puudulikud andmed (NFO-mallifailide loomiseks)"
+msgstr "Kaasa ka tuvastamata üksused (NFO-mallifailide loomiseks)"
 
 msgctxt "#38309"
 msgid "Output information to NFO files"
-msgstr "Väljundinfo NFO-failidesse"
+msgstr "Ekspordi teave NFO-failidesse"
 
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr "NFO-failide väljundteave (praegu eksporditakse ainult esitaja kaustad)"
+msgstr "Ekspordi teave NFO-failidesse (praegu eksporditakse ainult esitaja kaustad)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
@@ -18707,7 +18725,7 @@ msgstr "Teised esitajad"
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr "Meediakogu kaustade eksportimine pole võimalik, kuna esitaja teabekaust pole määratud"
+msgstr "Meediakogu kaustadesse eksportimine pole võimalik, kuna esitajateabe kaust on määramata"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
@@ -18732,7 +18750,7 @@ msgstr "Ainult esitaja kataloogid"
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr "Esitaja andmekausta eksporditud esitajad ja muusikakausta eksporditud albumid"
+msgstr "Esitajad eksporditi esitajateabe kausta ja albumid muusikakaustadesse"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 msgctxt "#38323"
@@ -18742,52 +18760,52 @@ msgstr "Muusikakausta eksporditud albumid"
 #. Explanation of what export to library folders means see #38303 when only artists selected
 msgctxt "#38324"
 msgid "Artists exported to Artist Information Folder"
-msgstr "Esitaja andmekausta eksporditud esitajad"
+msgstr "Artistid eksporditi esitajateabe kausta"
 
 #. Explanation of what export artist folders only means see #38304
 msgctxt "#38325"
 msgid "Artist subfolders created in Artist Information Folder"
-msgstr "Esitaja andmekausta loodud esitaja alamkaustad"
+msgstr "Esitajateabe kausta loodi esitaja alamkaustad"
 
 #. Dialog heading when editing default settings for fetching additional music information
 msgctxt "#38330"
 msgid "Set Music Information Providers"
-msgstr "Määra muusikainfo tarnija"
+msgstr "Määra muusikateabe tarnija"
 
 #. Dialog heading when editing album information provider
 msgctxt "#38331"
 msgid "Set Album Information Provider"
-msgstr "Määra albumiinfo tarnija"
+msgstr "Määra albumiteabe tarnija"
 
 #. Dialog heading when editing artist information provider
 msgctxt "#38332"
 msgid "Set Artist Information Provider"
-msgstr "Määra esitaja andmete tarnija"
+msgstr "Määra esitajateabe tarnija"
 
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
 msgid "Fetch additional information and art during scan"
-msgstr "Skaneerimisel hangi lisainfo ja pildid"
+msgstr "Hangi skannimisel lisateavet ja meediapilte"
 
 #. Scraper to use for additional album information. See #20193
 msgctxt "#38334"
 msgid "Album information provider"
-msgstr "Albumiinfo tarnija"
+msgstr "Albumiteabe tarnija"
 
 #. Scraper to use for additional artist information. See #20194
 msgctxt "#38335"
 msgid "Artist information provider"
-msgstr "Esitaja andmete tarnija"
+msgstr "Esitajateabe tarnija"
 
 #. Location of folder where local art and nfo files can be found for artists. See #20223
 msgctxt "#38336"
 msgid "Local artist information folder"
-msgstr "Kohalik esitaja andmekaust"
+msgstr "Kohalik esitaja teabekaust"
 
 #. Group header describing the settings
 msgctxt "#38337"
 msgid "Options for fetching additional information"
-msgstr "Lisainfo hankimise suvandid"
+msgstr "Lisateabe hankimise suvandid"
 
 #. Selecting what items the settings will be used for, selecting from #38064 to 38067
 msgctxt "#38338"
@@ -18797,7 +18815,7 @@ msgstr "Vali kuidas rakendada seaded"
 #. Heading when selecting from list for #38338
 msgctxt "#38339"
 msgid "How to apply information provider settings"
-msgstr "Kuidas rakendada infotarnija seaded"
+msgstr "Kuidas infotarnija seadeid rakendada"
 
 #. Progress statement when importing music library is processing song playback history data
 msgctxt "#38350"
@@ -18858,12 +18876,12 @@ msgstr "Vali järjestusviis"
 
 msgctxt "#39011"
 msgid "Maximum wait time for network"
-msgstr "Maksimaalne võrgu ooteaeg"
+msgstr "Suurim võrgu ooteaeg"
 
 #. Description of setting with label #39011 "Maximum wait time for network"
 msgctxt "#39012"
 msgid "Set the maximum time to wait for the network to come up after starting or waking up. When time has passed before network is up startup will continue."
-msgstr "Määra maksimaalne aeg, mille jooksul võrk pärast käivitamist või ärkamist üles tuleb. Kui see aeg on möödas jätkub käivitumine igal juhul."
+msgstr "Määra suurim aeg võrgu üles tulemiseks pärast käivitamist või ärkamist. Kui see aeg on möödas jätkub käivitumine igal juhul."
 
 msgctxt "#39013"
 msgid "Virtual filesystems"
@@ -18880,12 +18898,12 @@ msgstr "Kujutise dekooder"
 
 msgctxt "#39016"
 msgid "Resume audiobook"
-msgstr "Jätka audioraamatu kasutamist"
+msgstr "Jätka audioraamatut"
 
 #. Description of setting with label #21358 "Share my libraries"
 msgctxt "#39017"
 msgid "Enables UPnP. This allows you to stream media in your libraries to a UPnP client and to detect remote UPnP servers."
-msgstr "Lubab UPnP serveri. See võimaldab meediakogudes olevat meediumit voogesitada UPnP kliendile ja tuvastada UPnP kaugserverid."
+msgstr "Lubab UPnP serveri. See võimaldab meediakogudes olevat meediat voogesitada UPnP kliendile ja tuvastada UPnP kaugserverid."
 
 msgctxt "#39018"
 msgid "optional"
@@ -18923,7 +18941,7 @@ msgstr "Sugu"
 #. Brief comment to distinguish artists with the same name e.g "former bassist with Journey"
 msgctxt "#39026"
 msgid "Disambiguation"
-msgstr "Ühestus"
+msgstr "Täpsustus"
 
 #. Sort name of artist (e.g. Jackson, Michael)
 msgctxt "#39027"
@@ -18943,7 +18961,7 @@ msgstr "Käsitsi paigaldatud"
 #. Media source, a filter and smart playlist rule option
 msgctxt "#39030"
 msgid "Source"
-msgstr "Algne pilditootja"
+msgstr "Allikas"
 
 #. Node title, plural of #39030
 msgctxt "#39031"
@@ -18984,12 +19002,12 @@ msgstr "sunnitud"
 #. audio/video/subtitle flag - FLAG_HEARING_IMPAIRED
 msgctxt "#39107"
 msgid "captions"
-msgstr "tiitrid"
+msgstr "kirjeldustõlge"
 
 #. audio/video/subtitle flag - FLAG_VISUAL_IMPAIRED
 msgctxt "#39108"
 msgid "audio description"
-msgstr "audio kirjeldus"
+msgstr "kirjeldustõlge"
 
 msgctxt "#39109"
 msgid "Select Program"
@@ -19023,7 +19041,7 @@ msgstr "Episoodi pisipilt"
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39115"
 msgid "Movie plot"
-msgstr "Filmi sisututvustus"
+msgstr "Filmi süžee"
 
 #. Label for "show information for unwatched items" setting option
 msgctxt "#39116"
@@ -19056,7 +19074,7 @@ msgstr "Meediakogu kuvamine ja navigeerimine"
 #. Label for section of settings controling how library is populated
 msgctxt "#39122"
 msgid "Library Information Sources"
-msgstr "Meediakogu andmeallikad"
+msgstr "Meediakogu infotarnijad"
 
 #. Label for section of settings, label for artwork file browse dialog
 msgctxt "#39123"
@@ -19079,12 +19097,12 @@ msgstr "[B]Bluray[/B] komponendi üksikasjalik logimine"
 
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
-msgstr "Kasuta kohalikku pilti taustana"
+msgstr "Kasuta kõiki kohalikke pildifaile kujundusena"
 
 #. Description of setting with label #39127 "Use all local image files as artwork"
 msgctxt "#39128"
 msgid "All image files located alongside the media files are picked up as artwork during library scan, with the file name as the art type."
-msgstr "Kõik meediafailide kõrval asuvad pildifailid kaasatakse meediakogu skaneerimisel taustapildina, kusjuures faili nimi on pildi liik."
+msgstr "Kõik meediafailide kõrval asuvad pildifailid kaasatakse meediakogu skannimisel taustapildina, kusjuures faili nimi on pildi liik."
 
 msgctxt "#39129"
 msgid "Use all remote artwork fetched by scrapers"
@@ -19097,21 +19115,21 @@ msgstr "Kasuta igast kaabitsa hangitud pilditüübist esimest, et täita kohalik
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr "Esitaja taustapiltide valge loend"
+msgstr "Esitajatele lubatud meediapildid"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta esitaja taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta esitaja taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
-msgstr "Albumi taustapiltide valge loend"
+msgstr "Albumitele lubatud meediapildid"
 
 #. Description of setting with label #39133 "Album art types whitelist"
 msgctxt "#39134"
 msgid "Limit the album artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta albumi taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta albumi taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39135"
 msgid "Thumbnail image files"
@@ -19134,7 +19152,7 @@ msgstr "Automaatselt valitud taustapiltide hulk - [Suurim] kõik kohalikud pildi
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
 msgid "Maximum"
-msgstr "Maksimaalne"
+msgstr "Suurim"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39141"
@@ -19148,39 +19166,39 @@ msgstr "Kohandatud"
 
 msgctxt "#39143"
 msgid "Movie art types whitelist"
-msgstr "Filmi taustapiltide valge loend"
+msgstr "Filmdele lubatud meediapildid"
 
 #. Description of setting with label #39150 "Movie art types whitelist"
 msgctxt "#39144"
 msgid "Limit the movie and movie set artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta filmi ja filmikomplekti taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta filmi ja filmikomplekti taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr "Sarja taustapiltide valge loend"
+msgstr "Sarjadele lubatud meediapildid"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta sarja taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta sarja taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
-msgstr "Episoodi taustapiltide valge loend"
+msgstr "Episoodidele lubatud meediapildid"
 
 #. Description of setting with label #39154 "Episode art types whitelist"
 msgctxt "#39148"
 msgid "Limit the episode artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta episoodi taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta episoodi taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39149"
 msgid "Music video art types whitelist"
-msgstr "Muusikavideo taustapiltide valge loend"
+msgstr "Muusikavideotele lubatud meediapildid"
 
 #. Description of setting with label #39156 "Music video art types whitelist"
 msgctxt "#39150"
 msgid "Limit the music video artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Kasuta muusikavideo taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatud valges loendis"
+msgstr "Kasuta muusikavideo taustapiltideks ainult kohalikke või kaabitsa toodud pilditüüpe, mis on lubatute loendis"
 
 msgctxt "#39153"
 msgid "Windowing system:"
@@ -19189,7 +19207,7 @@ msgstr "Aknahaldus:"
 #. Override subtitles styles setting list
 msgctxt "#39154"
 msgid "Override subtitles styles"
-msgstr "Alista subtiitrite stiilid"
+msgstr "Eira subtiitrite stiile"
 
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
@@ -19354,7 +19372,7 @@ msgstr "Tekstipõhiste subtiitrite stiilid"
 #. Title of group menu subtitles
 msgctxt "#39187"
 msgid "Closed caption subtitles"
-msgstr "Kirjeldavad subtiitrid (CC)"
+msgstr "Vaegkuuljate subtiitrid (CC)"
 
 #. Item list value of setting with label #39166 "Background type"
 msgctxt "#39188"
@@ -19369,7 +19387,7 @@ msgstr "Võimalik ainult subtiitrite asukoha käsitsi määramisel"
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
 msgid "[ON] The brightness of the GUI in HDR mode follows the system's setting. This affects all OSD, subtitles and graphics that are SDR in origin.[CR][OFF] Set the max brightness manually."
-msgstr "[SEES] Kasutajaliidese heledus HDR režiimis järgib süsteemi seadistusi. See mõjutab kogu kasutajaliidest, subtiitreid ja taustapilte, mis on SDR sisuga. [CR] [VÄLJAS] Seadista maksimaalne heledus käsitsi."
+msgstr "[SEES] Kasutajaliidese heledus HDR režiimis järgib süsteemi seadistusi. See mõjutab kogu kasutajaliidest, subtiitreid ja taustapilte, mis on SDR sisuga. [CR] [VÄLJAS] Määra suurim heledus käsitsi."
 
 #. System / Display "HDR" settings group label
 msgctxt "#39191"
@@ -19504,7 +19522,7 @@ msgstr "Toiming ei ole toetatud"
 #. Warning dialog text
 msgctxt "#40006"
 msgid "The selected movie has multiple versions, preventing its conversion into a version of another movie. Remove the versions from the movie, rescan the libray and convert them individually."
-msgstr "Valitud filmil on mitu versiooni, mis takistab selle teisendamist mõne teise filmi versiooniks. Eemalda filmist versioonid, skaneeri meediakogu uuesti ja teisenda need ükshaaval."
+msgstr "Valitud filmil on mitu versiooni, mis takistab selle teisendamist mõne teise filmi versiooniks. Eemalda filmist versioonid, skanni meediakogu uuesti ja teisenda need eraldi."
 
 #. Warning dialog text
 msgctxt "#40007"
@@ -19549,7 +19567,7 @@ msgstr "Lisa versioon"
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr "Lisa lisamatrjal"
+msgstr "Lisa lisamaterjal"
 
 #. Add video version dialog text.
 msgctxt "#40016"
@@ -19649,7 +19667,7 @@ msgstr "Mitme versiooniga filmi vaikeversiooni ei saa lisada teise filmi lisamat
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr "Oled teisendamas filmi lisamaterjali filmi versiooniks. Oled sa kindel?"
+msgstr "Oled teisendamas filmi lisamaterjali filmi versiooniks. Kas oled kindel?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
@@ -19684,28 +19702,28 @@ msgstr "Kas määrata esitusloendisse filmi praegune versioon?"
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
-msgstr "Eira skaneerimisel erinevaid video versioone"
+msgstr "Eira skannimisel erinevaid video versioone"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Vali tegevus skaneerimisel leitud erinevate video versioonide jaoks.[CR][Lubatud] Lisab video erinevad versioonid küsimata.[CR][Keelatud] Küsib, kas teisendada erinevad versioonid originaali täiendavateks versioonideks."
+msgstr "Vali tegevus skannimisel leitud erinevate video versioonide jaoks.[CR][Lubatud] Lisab video erinevad versioonid küsimata.[CR][Keelatud] Küsib, kas teisendada erinevad versioonid originaali täiendavateks versioonideks."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr "Eira skaneerimisel video lisamaterjale"
+msgstr "Eira skannimisel video lisamaterjale"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr "Vali lisamaterjalide skaneerimistoiming kaustas \"extras\".[CR][Lubatud] Skaneeri lisamaterjalid tavalise videona.[CR][Keelatud] Lisa need seotud video lisamaterjalina."
+msgstr "Vali lisamaterjalide skannimistoiming kaustas \"extras\".[CR][Lubatud] Skanni lisamaterjalid tavalise videona.[CR][Keelatud] Lisa need seotud video lisamaterjalina."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr "Vahendid"
+msgstr "Meediafailid"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19771,7 +19789,7 @@ msgstr "Laiendatud versioon"
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40402"
 msgid "Unrated Version"
-msgstr "Hinnanguta versioon"
+msgstr "Tsenseerimata versioon"
 
 #. Name of a video version, like "Director's Cut"
 msgctxt "#40403"

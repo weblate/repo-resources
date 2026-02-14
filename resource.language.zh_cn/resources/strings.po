@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-22 19:13+0000\n"
+"PO-Revision-Date: 2026-01-31 02:13+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1121,6 +1121,10 @@ msgstr "浏览字幕"
 msgctxt "#294"
 msgid "Create bookmark"
 msgstr "创建书签"
+
+msgctxt "#295"
+msgid "Low latency mode"
+msgstr "低延迟模式"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
@@ -2239,7 +2243,7 @@ msgstr "国家"
 
 msgctxt "#575"
 msgid "In progress"
-msgstr "进行中"
+msgstr "正在观看"
 
 msgctxt "#576"
 msgid "Times played"
@@ -2404,7 +2408,7 @@ msgstr "所有歌曲"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "在观看剧集"
+msgstr "正在观看的电视剧"
 
 msgctxt "#629"
 msgid "View mode"
@@ -3040,7 +3044,7 @@ msgstr "尾部填充时间"
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#815"
 msgid "Record all episodes"
-msgstr "录制所有分集"
+msgstr "录制所有剧集"
 
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#816"
@@ -10660,7 +10664,7 @@ msgstr "重载皮肤"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "使用海报视图模式显示剧集"
+msgstr "使用海报视图模式显示电视剧"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -10882,7 +10886,7 @@ msgstr "以 {0:s} 扫描音乐电视"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
-msgstr "以 {0:s} 扫描剧集"
+msgstr "以 {0:s} 扫描电视剧"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
@@ -10978,7 +10982,7 @@ msgstr "电影"
 
 msgctxt "#20343"
 msgid "TV shows"
-msgstr "剧集"
+msgstr "电视剧"
 
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20344"
@@ -11012,31 +11016,31 @@ msgstr "{0:s}（{1:s} 票）"
 
 msgctxt "#20351"
 msgid "TV show information"
-msgstr "剧集信息"
+msgstr "电视剧信息"
 
 msgctxt "#20352"
 msgid "Episode information"
-msgstr "分集信息"
+msgstr "剧集信息"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
-msgstr "载入剧集详细资料"
+msgstr "载入电视剧详细资料"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
-msgstr "获取分集介绍"
+msgstr "获取剧集介绍"
 
 msgctxt "#20355"
 msgid "Loading information for episodes in directory"
-msgstr "载入目录中分集的信息"
+msgstr "载入目录中剧集的信息"
 
 msgctxt "#20356"
 msgid "Select TV show:"
-msgstr "选择剧集："
+msgstr "选择电视剧："
 
 msgctxt "#20357"
 msgid "Enter the TV show name"
-msgstr "输入剧集名"
+msgstr "输入电视剧名"
 
 msgctxt "#20358"
 msgid "Season {0:d}"
@@ -11044,31 +11048,31 @@ msgstr "第 {0:d} 季"
 
 msgctxt "#20359"
 msgid "Episode"
-msgstr "集"
+msgstr "剧集"
 
 msgctxt "#20360"
 msgid "Episodes"
-msgstr "集"
+msgstr "剧集"
 
 msgctxt "#20361"
 msgid "Loading episode details"
-msgstr "载入分集详细资料"
+msgstr "载入剧集详细资料"
 
 msgctxt "#20362"
 msgid "Remove episode from library"
-msgstr "从资料库移除分集"
+msgstr "从资料库移除剧集"
 
 msgctxt "#20363"
 msgid "Remove TV show from library"
-msgstr "从资料库移除剧集"
+msgstr "从资料库移除电视剧"
 
 msgctxt "#20364"
 msgid "TV show"
-msgstr "剧集"
+msgstr "电视剧"
 
 msgctxt "#20365"
 msgid "Episode plot"
-msgstr "分集剧情"
+msgstr "单集剧情梗概"
 
 msgctxt "#20366"
 msgid "* All seasons"
@@ -11117,16 +11121,16 @@ msgstr "原始片名"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
-msgstr "刷新剧集信息"
+msgstr "刷新电视剧信息"
 
 msgctxt "#20378"
 msgid "Refresh information for all episodes?"
-msgstr "刷新所有分集信息？"
+msgstr "刷新所有剧集信息？"
 
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20379"
 msgid "Selected folder contains a single TV show"
-msgstr "选定文件夹包含单个剧集"
+msgstr "选定文件夹包含单个电视剧"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
@@ -11146,11 +11150,11 @@ msgstr "选定文件夹包含单个视频"
 
 msgctxt "#20384"
 msgid "Link to TV show"
-msgstr "链接到剧集"
+msgstr "链接到电视剧"
 
 msgctxt "#20385"
 msgid "Remove link to TV show"
-msgstr "移除到剧集的链接"
+msgstr "移除到电视剧的链接"
 
 msgctxt "#20386"
 msgid "Recently added movies"
@@ -11230,11 +11234,11 @@ msgstr "移除书签"
 
 msgctxt "#20405"
 msgid "Remove episode bookmark"
-msgstr "移除分集书签"
+msgstr "移除单集书签"
 
 msgctxt "#20406"
 msgid "Set episode bookmark"
-msgstr "设置分集书签"
+msgstr "设置单集书签"
 
 msgctxt "#20407"
 msgid "Information provider settings"
@@ -11246,7 +11250,7 @@ msgstr "下载音乐电视信息"
 
 msgctxt "#20409"
 msgid "Downloading TV show information"
-msgstr "下载剧集信息"
+msgstr "下载电视剧信息"
 
 msgctxt "#20410"
 msgid "Trailer"
@@ -11258,7 +11262,7 @@ msgstr "简捷查看"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "不显示剧集季目录"
+msgstr "不显示电视剧季目录"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -11429,11 +11433,11 @@ msgstr "国家"
 
 msgctxt "#20452"
 msgid "episode"
-msgstr "集"
+msgstr "单集"
 
 msgctxt "#20453"
 msgid "episodes"
-msgstr "集"
+msgstr "单集"
 
 msgctxt "#20454"
 msgid "Listener"
@@ -11506,7 +11510,7 @@ msgstr "包括只有单部电影的电影集"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
-msgstr "显示空剧集"
+msgstr "显示空电视剧"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
@@ -11649,7 +11653,7 @@ msgstr "书签已建立"
 
 msgctxt "#21363"
 msgid "Episode bookmark created"
-msgstr "分集书签已建立"
+msgstr "单集书签已建立"
 
 msgctxt "#21364"
 msgid "Edit media share"
@@ -11788,6 +11792,10 @@ msgctxt "#21397"
 msgid "High quality pixel shader v2"
 msgstr "高品质像素着色器 V2"
 
+msgctxt "#21398"
+msgid "between"
+msgstr "在…… 之间"
+
 msgctxt "#21399"
 msgid "Use tween animations"
 msgstr "使用 Tween 动画效果"
@@ -11850,7 +11858,7 @@ msgstr "默认电影信息提供者"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr "默认剧集信息提供者"
+msgstr "默认电视剧信息提供者"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
@@ -11858,7 +11866,7 @@ msgstr "默认音乐电视信息提供者"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
-msgstr "选择首个未观看剧集季/集"
+msgstr "选择首个未观看电视剧季/集"
 
 msgctxt "#21417"
 msgid "Settings"
@@ -11962,7 +11970,7 @@ msgstr "观看次数"
 
 msgctxt "#21442"
 msgid "Episode title"
-msgstr "集标题"
+msgstr "单集标题"
 
 msgctxt "#21443"
 msgid "Video resolution"
@@ -12066,7 +12074,7 @@ msgstr "屏幕顶部"
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
 msgid "When entering a TV show season or episode view automatically select the first unwatched season or episode.[CR][On first entry] The first unwatched item will be selected only when a view is entered for the first time.[CR][Always] The first unwatched item will be selected every time a view is entered."
-msgstr "进入剧集季或集视图自动选择首个未观看季或集。[CR][首次进入] 首次进入一视图时首个未观看项目被选择。[CR][总是] 每次进入视图时首个未观看项目都被选择。"
+msgstr "进入电视剧季或集视图自动选择首个未观看季或集。[CR][首次进入] 首次进入一视图时首个未观看项目被选择。[CR][总是] 每次进入视图时首个未观看项目都被选择。"
 
 #. Filter (media data) from float value to float value
 msgctxt "#21467"
@@ -13159,12 +13167,12 @@ msgstr "字幕存储位置"
 
 msgctxt "#24116"
 msgid "Default TV show service"
-msgstr "默认剧集服务"
+msgstr "默认电视剧服务"
 
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
 msgid "Select the service that will be used as default to search for TV show subtitles."
-msgstr "选择用于搜索剧集字幕的默认服务。"
+msgstr "选择用于搜索电视剧字幕的默认服务。"
 
 msgctxt "#24118"
 msgid "Default movie service"
@@ -13553,7 +13561,7 @@ msgstr "手动"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr "所选播放列表已在使用中。是否改为与此剧集关联？"
+msgstr "所选播放列表已被占用。是否改为关联至该单集？"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
@@ -13563,7 +13571,7 @@ msgstr "未找到有效的电影播放列表。"
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr "未找到有效的剧集播放列表。"
+msgstr "未找到有效的单集播放列表。"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15842,7 +15850,7 @@ msgstr "当添加媒体到资料库时从在线数据库下载演员缩略图。
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "选择什么情况下隐藏剧集的季结点。隐藏时，选择一个剧集将直接跳到集视图。"
+msgstr "选择什么情况下隐藏电视节目的季结点。隐藏时，选择一个电视剧将直接跳到剧集视图。"
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15932,7 +15940,7 @@ msgstr "启用视频文件 VideoToolbox 硬件解码。"
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "浏览视频资料库时显示无分集的剧集。"
+msgstr "浏览视频资料库时显示无分集的电视剧。"
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -16108,7 +16116,7 @@ msgstr "选择默认电影信息来源。选项见插件管理。"
 
 msgctxt "#36199"
 msgid "Select the default TV show information source. See the add-ons manager for options."
-msgstr "选择默认剧集信息来源。选项见插件管理。"
+msgstr "选择默认电视剧信息来源。选项见插件管理。"
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
@@ -16161,7 +16169,7 @@ msgstr "此类别包含 PVR 频道和频道组的设置。"
 
 msgctxt "#36212"
 msgid "Display programming information when changing channels, such as the current TV show."
-msgstr "变更频道时显示节目信息，如当前剧集。"
+msgstr "变更频道时显示节目信息，如当前电视剧。"
 
 msgctxt "#36213"
 msgid "Open the group manager, which allows modification of groups and their respective channels"
@@ -17124,6 +17132,16 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "无可用信息。"
 
+# empty strings from id 36416 to 36417
+#. Description of setting with label #295 "Low latency mode"
+msgctxt "#36418"
+msgid ""
+"Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
+"You can disable this setting if you experience audio issues."
+msgstr ""
+"减少了音频处理的延迟。提升了音频的播放启动速度、暂停后的继续播放速度以及音轨定位速度（音频内容会更快地被播放出来）。↵\n"
+"如果遇到音频相关问题，你可以禁用此设置。"
+
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
 msgid "Define locations used for retrieving weather information."
@@ -17888,11 +17906,11 @@ msgstr "电影"
 
 msgctxt "#36902"
 msgid "TV show"
-msgstr "剧集"
+msgstr "电视剧"
 
 msgctxt "#36903"
 msgid "TV shows"
-msgstr "剧集"
+msgstr "电视剧"
 
 msgctxt "#36904"
 msgid "season"
@@ -19157,12 +19175,12 @@ msgstr "将本地或通过刮削器远程获取的电影艺术图片，限制在
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr "剧集艺术图片类型白名单"
+msgstr "电视剧艺术图片类型白名单"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "将本地或通过刮削器远程获取的剧集和季艺术图片，限制在白名单中的艺术图片类型"
+msgstr "将本地或通过刮削器远程获取的电视剧和季艺术图片，限制在白名单中的艺术图片类型"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"
