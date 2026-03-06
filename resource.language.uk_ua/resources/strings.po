@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-01-31 02:13+0000\n"
+"PO-Revision-Date: 2026-02-20 02:17+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -661,7 +661,7 @@ msgstr "Оберіть альбом"
 
 msgctxt "#182"
 msgid "Tracks"
-msgstr "Треки"
+msgstr "Доріжки"
 
 msgctxt "#183"
 msgid "Review"
@@ -2364,7 +2364,7 @@ msgstr "Не вдалося захопити CD чи доріжку, бо не �
 
 msgctxt "#610"
 msgid "Rip audio track"
-msgstr "Оцифрувати аудіотрек"
+msgstr "Оцифрувати звукову доріжку"
 
 msgctxt "#611"
 msgid "Enter number"
@@ -2400,7 +2400,7 @@ msgstr "Бітрейт"
 
 msgctxt "#624"
 msgid "Include track number"
-msgstr "Додати номер треку"
+msgstr "Додати номер доріжки"
 
 msgctxt "#625"
 msgid "All songs of"
@@ -2456,7 +2456,7 @@ msgstr "Регулювання гучності"
 
 msgctxt "#639"
 msgid "Use track levels"
-msgstr "За рівнями треку"
+msgstr "За рівнями доріжки"
 
 msgctxt "#640"
 msgid "Use album levels"
@@ -5630,7 +5630,7 @@ msgstr "Показувати значок батьківської папки"
 
 msgctxt "#13307"
 msgid "Track naming template"
-msgstr "Шаблон для імені треку"
+msgstr "Шаблон для назви доріжки"
 
 msgctxt "#13308"
 msgid "Do you wish to reboot your system instead of just this application?"
@@ -5942,7 +5942,7 @@ msgstr "Знайти {0:s}"
 
 msgctxt "#13402"
 msgid "Show track position"
-msgstr "Показати позицію треку"
+msgstr "Показати позицію доріжки"
 
 msgctxt "#13403"
 msgid "Clear default"
@@ -6683,7 +6683,7 @@ msgstr "Відео на весь екран"
 
 msgctxt "#14084"
 msgid "Queue songs on selection"
-msgstr "Додавати треки до черги при виборі"
+msgstr "Додавати доріжки до черги при виборі"
 
 msgctxt "#14086"
 msgid "Playback"
@@ -10347,7 +10347,7 @@ msgstr "Запит даних для альбому"
 
 msgctxt "#20099"
 msgid "A CD or track can't be ripped while being played"
-msgstr "Неможливо одночасно захоплювати дані CD або треку та відтворювати їх"
+msgstr "Неможливо одночасно захоплювати дані CD або доріжки та відтворювати їх"
 
 msgctxt "#20100"
 msgid "Master lock code and settings"
@@ -16435,12 +16435,12 @@ msgstr "Відтворювати файл на нижчій гучності, щ
 #. Description of setting with label #13314 "Crossfade between songs"
 msgctxt "#36271"
 msgid "Smoothly fade from one audio track to the next. You can set the amount of overlap from 1-15 seconds."
-msgstr "Плавний перехід між аудіотреками. Тривалість переходу можна налаштувати в діапазоні 1—15 с."
+msgstr "Плавний перехід між звуковими доріжками. Тривалість переходу можна налаштувати в діапазоні 1—15 с."
 
 #. Description of setting with label #13400 "Crossfade between songs on the same album"
 msgctxt "#36272"
 msgid "Allow crossfading to occur when both tracks are from the same album."
-msgstr "Плавний перехід між треками, що належать до одного альбому."
+msgstr "Плавний перехід між доріжками, що належать до одного альбому."
 
 #. Description of setting with label #250 "Visualisation"
 msgctxt "#36273"
@@ -16505,7 +16505,7 @@ msgstr "Отримувати інформацію про музичний CD, н
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
 msgid "Select the location on your hard drive where ripped tracks will be saved to."
-msgstr "Вибрати папку для збереження оцифрованих треків."
+msgstr "Вибрати теку для збереження оцифрованих доріжок."
 
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
@@ -16520,12 +16520,12 @@ msgstr "Вибрати кодувальник звуку, що використ�
 #. Description of setting with label #622 "Quality"
 msgctxt "#36288"
 msgid "Select which quality you want to rip your files."
-msgstr "Вибрати якість оцифровування аудіотреків."
+msgstr "Вибрати якість оцифровування звукових доріжок."
 
 #. Description of setting with label #623 "Bitrate"
 msgctxt "#36289"
 msgid "Select which bitrate to use for the specified audio encoder for audio compression."
-msgstr "Вибрати бітрейт, що використовується вибраним кодувальником при оцифровуванні аудіотреків."
+msgstr "Вибрати бітрейт, що використовується вибраним кодувальником при оцифровуванні звукових доріжкок."
 
 #. Description of setting with label #665 "Compression level"
 msgctxt "#36290"
