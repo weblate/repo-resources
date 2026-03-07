@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-03-20 12:47+0000\n"
+"PO-Revision-Date: 2026-03-06 16:13+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/is_is/>\n"
 "Language: is_is\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.10.3\n"
+"X-Generator: Weblate 5.16.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3381,7 +3381,7 @@ msgstr "Settu inn notandanafnið"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Setja inn slóð..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -4851,7 +4851,7 @@ msgstr "Halda áfram frá {0:s}"
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Halda áfram frá"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -9462,7 +9462,7 @@ msgstr "Nota röðun rásahópa frá bakenda (bakendum)"
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr "Fyrri dagskrárliðir (Catchup) / Myndbandaleiga ( VOD"
+msgstr "Fyrri dagskrárliðir / Leiga - VOD"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
@@ -11621,17 +11621,17 @@ msgstr "MIME-tegund: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Sérefni {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Þáttur {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Sérefni"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -11796,7 +11796,7 @@ msgstr "Hágæða mynddílaskygging útg2"
 
 msgctxt "#21398"
 msgid "between"
-msgstr ""
+msgstr "milli"
 
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -13445,17 +13445,17 @@ msgstr " (valkvætt)"
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
 msgctxt "#24185"
 msgid "Minimum: {0:s} / Not available{3:s}"
-msgstr "Lágmark: {0:s} / IEkki tiltækt{3:s}"
+msgstr "Lágmark: {0:s} / Ekki tiltækt{3:s}"
 
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Tengist við gagnagrunn - bíddu aðeins"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Mistókst að frumstilla gagnagrunn - hætti eftir {} sekúndur."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -19727,7 +19727,7 @@ msgstr ""
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Tilföng"
 
 #. Button label for video versions
 msgctxt "#40210"

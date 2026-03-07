@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-11 11:13+0000\n"
+"PO-Revision-Date: 2026-03-06 16:13+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ga_ie/>\n"
 "Language: ga_ie\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.16.2\n"
 
 # [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
 # [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
@@ -1141,7 +1141,7 @@ msgstr "Cruthaigh leabharmharc"
 
 msgctxt "#295"
 msgid "Low latency mode"
-msgstr ""
+msgstr "Mód latency íseal"
 
 # empty string with id 295
 msgctxt "#296"
@@ -1943,7 +1943,7 @@ msgstr "- Úsáid deilbhíní móra"
 
 msgctxt "#492"
 msgid "Resize VobSubs"
-msgstr "Athraigh méid VOBSubs"
+msgstr "Athraigh Méid VobSubs"
 
 msgctxt "#493"
 msgid "Advanced options (experts only!)"
@@ -4952,7 +4952,7 @@ msgstr "Aosaigh ó {0:s}"
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Atosú ó"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -12025,7 +12025,7 @@ msgstr "Scádóir picteilín ardchaighdeáin v2"
 
 msgctxt "#21398"
 msgid "between"
-msgstr ""
+msgstr "idir"
 
 # empty string with id 21398
 msgctxt "#21399"
@@ -16706,12 +16706,12 @@ msgstr "Léigh an fhaisnéis ReplayGain atá ionchódaithe i do chomhaid fuaime 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
 msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Toirt tagartha (leibhéal PreAMP) le húsáid le haghaidh comhaid le faisnéis ionchódaithe ReplayGain. Is é réamhshocraithe 89dB de réir chaighdeáin. Athraigh le cúramach."
+msgstr "Toirt thagartha (leibhéal PreAmp) le húsáid le haghaidh comhad a bhfuil faisnéis ReplayGain ionchódaithe iontu. Is é 89dB an réamhshocrú de réir an chaighdeáin. Athraigh go cúramach."
 
 #. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
 msgctxt "#36269"
 msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Toirt tagartha (leibhéal PreAMP) le húsáid le haghaidh comhaid gan faisnéis ionchódaithe ReplayGain. Is é réamhshocraithe 89dB de réir an chaighdeáin. Athraigh le cúramach."
+msgstr "Toirt thagartha (leibhéal PreAmp) le húsáid le haghaidh comhad gan faisnéis ReplayGain ionchódaithe. Is é 89dB an réamhshocrú de réir an chaighdeáin. Athraigh go cúramach."
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
@@ -17434,6 +17434,8 @@ msgid ""
 "Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
 "You can disable this setting if you experience audio issues."
 msgstr ""
+"Laghdaíonn sé moill próiseála fuaime. Feabhsaíonn sé tús athsheinm, athshocair agus cuardach (tagann an fhuaim ar ais níos luaithe).\n"
+"Is féidir leat an socrú seo a dhíchumasú má bhíonn fadhbanna fuaime agat."
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
