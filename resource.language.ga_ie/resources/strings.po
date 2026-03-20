@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-03-06 16:13+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
@@ -11767,6 +11767,11 @@ msgstr "Tá breiseáin físe ann"
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr "Ar mhaith leat an phróifíl nua a chruthú in eolaire saincheaptha?"
+
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr ""
 
 # empty strings from id 20475 to 21329
 # up to 21329 is reserved for the video db !! !

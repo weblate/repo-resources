@@ -11755,6 +11755,11 @@ msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr ""
 
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr ""
+
 # empty strings from id 20474 to 21329
 # up to 21329 is reserved for the video db !! !
 msgctxt "#21330"
