@@ -11541,6 +11541,11 @@ msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr ""
 
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr ""
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Mostrar ficheiros e pastas ocultas"

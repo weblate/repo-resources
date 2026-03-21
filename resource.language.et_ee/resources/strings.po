@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-02-28 06:03+0000\n"
+"PO-Revision-Date: 2026-03-15 15:53+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1\n"
+"X-Generator: Weblate 5.16.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11540,6 +11540,11 @@ msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr "Kas soovid luua uue profiili oma valitud kataloogi?"
 
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr ""
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Kuva peidetud failid ja kataloogid"
@@ -16321,7 +16326,7 @@ msgstr "Lapselukuga kanalitele juurdepääsuks küsitakse PIN-koodi. Kanaleid sa
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
-msgstr "Sisesta PIN kood lukustatud kanali avamiseks."
+msgstr "Lapseluku all oleva kanali avamiseks sisesta uus PIN-kood."
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-02-07 04:13+0000\n"
 "Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
@@ -11541,6 +11541,11 @@ msgstr "有額外的影片"
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr "您要在自訂資料夾中建立新的設定檔嗎？"
+
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr ""
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"

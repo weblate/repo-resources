@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-02-20 02:17+0000\n"
+"PO-Revision-Date: 2026-03-20 16:13+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5225,7 +5225,7 @@ msgstr "Дозволити відключення при неактивност�
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
-msgstr "Чи активна інша сесія, можливо SSH?"
+msgstr "Можливо активний інший сеанс через ssh?"
 
 msgctxt "#13021"
 msgid "Mounted removable storage device"
@@ -8930,7 +8930,7 @@ msgstr "Змінити правило таймера"
 #. label for PVR settings pvr backend idle time control. if enabled, kodi will be automatically shutdown after the defined amount of pvr backend idle time.
 msgctxt "#19244"
 msgid "Backend idle time"
-msgstr "Час простою ТБ-сервера"
+msgstr "Час простою сервера"
 
 #. label for PVR settings wakeup command control. if not empty, kodi will execute the given command upon waking up from suspend.
 msgctxt "#19245"
@@ -9005,7 +9005,7 @@ msgstr "Розблокувати канал"
 #. pvr settings category label
 msgctxt "#19259"
 msgid "Parental control"
-msgstr "Батьківський[CR]контроль"
+msgstr "Батьківський контроль"
 
 #. pvr settings 'parental control channel unlock duration' setting label
 msgctxt "#19260"
@@ -10555,7 +10555,7 @@ msgstr "Відомості про накопичувачі"
 
 msgctxt "#20156"
 msgid "Hard disk information"
-msgstr "Відомості про ЖД"
+msgstr "Відомості про жорсткий диск"
 
 msgctxt "#20157"
 msgid "DVD-ROM information"
@@ -11544,9 +11544,14 @@ msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
 msgstr "Створити новий профіль в окремому каталозі?"
 
+#. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
+msgctxt "#20478"
+msgid "DV profile"
+msgstr "Профіль DV"
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
-msgstr "Показувати приховані файли та папки"
+msgstr "Показувати приховані файли та теки"
 
 msgctxt "#21331"
 msgid "New media detected"
@@ -12019,7 +12024,7 @@ msgstr "Більше..."
 
 msgctxt "#21453"
 msgid "Root filesystem"
-msgstr "Коренева ФС"
+msgstr "Коренева файлова система"
 
 msgctxt "#21454"
 msgid "Source too slow"
@@ -12416,7 +12421,7 @@ msgstr "Намагатися пропустити вступ перед меню
 
 msgctxt "#21883"
 msgid "Saved music"
-msgstr "Оцифровані аудіо-CD"
+msgstr "Збережена музика"
 
 msgctxt "#21884"
 msgid "Query info for all artists"
@@ -12846,7 +12851,7 @@ msgstr "(Очистити поточні налаштування)"
 
 msgctxt "#24041"
 msgid "Install from zip file"
-msgstr "Встановити з файлу ZIP"
+msgstr "Встановити з zip-файлу"
 
 #. Used to show on addon list the current download process
 msgctxt "#24042"
@@ -12865,7 +12870,7 @@ msgstr "Встановлення {0:d}%"
 #. Used as an event log description for add-ons failed to install from zip
 msgctxt "#24045"
 msgid "Failed to install add-on from zip file"
-msgstr "Не вдалося встановити додаток з файлу ZIP"
+msgstr "Не вдалося встановити додаток із zip-файлу"
 
 msgctxt "#24046"
 msgid "{0:s} is used by the following installed add-on(s)"
@@ -13283,7 +13288,7 @@ msgstr "Неможливо встановити залежність {0:s} ве�
 #. Installing the addon from zip file located at <path to zip file> failed due to an invalid structure.
 msgctxt "#24143"
 msgid "Installing the add-on from zip file located at {0:s} failed due to an invalid structure."
-msgstr "Не вдалося встановити додаток з файлу ZIP, розташованого у {0:s}, через неправильну структуру."
+msgstr "Не вдалося встановити додаток із zip-файлу, розташованого у {0:s}, через неправильну структуру."
 
 #. Used as an event log description for add-ons that have been uninstalled
 msgctxt "#24144"
