@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-20 16:13+0000\n"
+"PO-Revision-Date: 2026-03-27 11:13+0000\n"
 "Last-Translator: Jakub Szafranek13 Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -745,10 +745,9 @@ msgctxt "#202"
 msgid "Tagline"
 msgstr "Frapfrazo"
 
-#, fuzzy
 msgctxt "#203"
 msgid "Plot outline"
-msgstr "Malgranda-komploti:"
+msgstr "Intriga resumo"
 
 #. label of a smartplaylist filter option to filter for albums on compilations
 msgctxt "#204"
@@ -843,7 +842,7 @@ msgstr "Vertikala ŝanĝo"
 # empty string with id 226
 msgctxt "#227"
 msgid "Load audio CD information from online service"
-msgstr "Ŝargi informojn pri Son-KD de interreta servo"
+msgstr "Ŝargi informojn pri sona KD-o de interreta servo"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
@@ -855,7 +854,7 @@ msgstr "Dormetigi fiksitan diskon post"
 
 msgctxt "#230"
 msgid "Video filters"
-msgstr "Videaj filtriloj"
+msgstr "Videofiltriloj"
 
 #. Name of an action to perform on a specific event, like changing the CEC source away from Kodi
 msgctxt "#231"
@@ -1020,10 +1019,9 @@ msgctxt "#270"
 msgid "Sort by: Album"
 msgstr "Ordigi laŭ: Albumo"
 
-#, fuzzy
 msgctxt "#271"
 msgid "Top 100"
-msgstr "100 plejaj"
+msgstr "100 plej bonaj"
 
 #. Window screen calibration: calibration from the rectangle box
 msgctxt "#272"
@@ -1341,13 +1339,12 @@ msgstr "Jaro"
 
 msgctxt "#346"
 msgid "Maintain original volume on downmix"
-msgstr ""
+msgstr "Konservi originan laŭtecon dum mikso suben"
 
 msgctxt "#347"
 msgid "DTS-HD capable receiver"
 msgstr "DTS-HD-kapabla ricevilo"
 
-#, fuzzy
 msgctxt "#348"
 msgid "Allow passthrough"
 msgstr "Permesi trapason"
@@ -1374,7 +1371,7 @@ msgstr "Nigro"
 
 msgctxt "#354"
 msgid "Matrix trails"
-msgstr "Matrix-aj spuroj"
+msgstr "Matrix-spuroj"
 
 #. Label of a setting to configure the idle time until the screensaver kicks in
 msgctxt "#355"
@@ -1415,7 +1412,7 @@ msgstr "Ordigi laŭ: Dosiero"
 
 msgctxt "#364"
 msgid "Dolby Digital (AC3) capable receiver"
-msgstr "Ricevilo kapabla je Dolby Digital (AC3)"
+msgstr "Ricevilo kapabla pri Dolby Digital (AC3)"
 
 msgctxt "#365"
 msgid "Sort by: Name"
@@ -2598,7 +2595,7 @@ msgid "Enable component-specific logging"
 msgstr ""
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
+msgid "Enable Dolby Digital transcoding"
 msgstr ""
 
 msgctxt "#668"
@@ -17576,7 +17573,7 @@ msgstr "Registri"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
 msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
@@ -19447,7 +19444,7 @@ msgstr "originala"
 #. Used for a setting which allows centre channel (voice/speech) volume to be adjusted when downmixing.
 msgctxt "#39112"
 msgid "Downmix: Center Mix Level"
-msgstr "Miksi suben: Nivelo de centra mikso"
+msgstr "Mikso suben: Nivelo de centra mikso"
 
 #. Help text for 39112
 msgctxt "#39113"

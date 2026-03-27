@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-01-31 02:13+0000\n"
-"Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
+"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "启用特定组件日志"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "启用杜比数字（AC3）编码转换"
+msgid "Enable Dolby Digital transcoding"
+msgstr "启用杜比数字转码"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -6325,7 +6325,7 @@ msgstr "嵌入的艺术图片"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
-msgstr "嵌入的同人画"
+msgstr "内嵌背景图"
 
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
@@ -11266,11 +11266,11 @@ msgstr "不显示电视剧季目录"
 
 msgctxt "#20413"
 msgid "Get fanart"
-msgstr "获取同人画"
+msgstr "获取背景图"
 
 msgctxt "#20414"
 msgid "Show fanart in video and music libraries"
-msgstr "在视频和音乐资料库显示同人画"
+msgstr "在视频和音乐资料库显示背景图"
 
 msgctxt "#20415"
 msgid "Scanning for new content"
@@ -11318,7 +11318,7 @@ msgstr "假"
 
 msgctxt "#20425"
 msgid "Fanart slideshow"
-msgstr "幻灯播放同人画"
+msgstr "背景图轮播"
 
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20426"
@@ -11342,7 +11342,7 @@ msgstr "多文件"
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20430"
 msgid "Export thumbnails and fanart?"
-msgstr "导出缩略图和同人画？"
+msgstr "导出缩略图和背景图？"
 
 msgctxt "#20431"
 msgid "Overwrite old files?"
@@ -11371,23 +11371,23 @@ msgstr "导出演员缩略图？"
 
 msgctxt "#20437"
 msgid "Choose fanart"
-msgstr "选择同人画"
+msgstr "选择背景图"
 
 msgctxt "#20438"
 msgid "Local fanart"
-msgstr "本地同人画"
+msgstr "本地背景图"
 
 msgctxt "#20439"
 msgid "No fanart"
-msgstr "无同人画"
+msgstr "无背景图"
 
 msgctxt "#20440"
 msgid "Current fanart"
-msgstr "当前同人画"
+msgstr "当前背景图"
 
 msgctxt "#20441"
 msgid "Remote fanart"
-msgstr "远程同人画"
+msgstr "远程背景图"
 
 msgctxt "#20442"
 msgid "Change content"
@@ -11404,7 +11404,7 @@ msgstr "加入资料库"
 #. Name of an artwork type
 msgctxt "#20445"
 msgid "Fanart"
-msgstr "同人画"
+msgstr "背景图"
 
 #. Ask user when refreshing music or video info if they want to use data from NFO file
 msgctxt "#20446"
@@ -11543,7 +11543,7 @@ msgstr "是否要在自定义目录中创建新配置文件？"
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
-msgstr ""
+msgstr "杜比视界配置文件"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -17193,8 +17193,8 @@ msgstr "录像"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "当类似 SPDIF 这样的音频输出接口仅支持如杜比数字5.1（AC3）多声道音频时选择此项。如果你的系统通过 HDMI 支持 PCM 多声道音频，则禁用此项。"
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr "如果音频输出接口仅支持以杜比数字 5.1（AC-3）格式传输多声道音频（例如 S/PDIF 接口），请勾选此选项。若同时启用了 E-AC3 直通，将使用音质更佳的增强型杜比数字（E-AC3）。如果你的系统通过 HDMI 支持多声道 PCM 音频，请禁用此选项。"
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -18698,7 +18698,7 @@ msgstr "导出的项目"
 
 msgctxt "#38307"
 msgid "Include artwork such as thumbnails and fanart"
-msgstr "包含艺术图片，例如缩略图和同人画"
+msgstr "包含艺术图片，例如缩略图和背景图"
 
 msgctxt "#38308"
 msgid "Include items that have not been scraped (to create template NFO files)"
@@ -19906,6 +19906,14 @@ msgstr "确认删除文件"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "启用杜比数字（AC3）编码转换"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "当类似 SPDIF 这样的音频输出接口仅支持如杜比数字5.1（AC3）多声道音频时选择此项。如果你的系统通过 HDMI 支持 PCM 多声道音频，则禁用此项。"
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

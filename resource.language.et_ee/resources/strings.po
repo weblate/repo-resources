@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-15 15:53+0000\n"
+"PO-Revision-Date: 2026-03-27 11:13+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "Luba komponendipõhine logimine"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Luba Dolby Digital (AC3) transkodeerimine"
+msgid "Enable Dolby Digital transcoding"
+msgstr "Luba Dolby Digital transkoodimine"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -11543,7 +11543,7 @@ msgstr "Kas soovid luua uue profiili oma valitud kataloogi?"
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
-msgstr ""
+msgstr "DV profiil"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -15960,7 +15960,7 @@ msgstr "Ekraani lähtestamise viivitus pärast värskendussageduse muutmist"
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Sünkrooni heli ja pilt kuvari värskendussagedusega. Videopleier ei kasuta sel juhul läbilaskeheli, sest vajalik võib olla ümbersämplimine."
+msgstr "Sünkrooni heli ja pilt kuvari värskendussagedusega. Videopleier ei kasuta sel juhul läbiviiguheli, sest vajalik võib olla ümbersämplimine."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -17193,8 +17193,8 @@ msgstr "Salvesta"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Vali see juhul, kui heli väljundühendus toetab ainult Dolby Digital 5.1 (AC-3) sugust mitmekanalilist heli, näiteks S/PDIF ühendus. Kui süsteem toetab PCM mitmekanalilist heli HDMI kaudu, jäta see keelatuks."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr "Vali see suvand, kui heliväljund toetab mitmekanalilist heli ainult Dolby Digital 5.1 (AC-3) vormingus, näiteks S/PDIF (optilise) ühenduse puhul. Kui sisse on lülitatud ka E-AC3 läbiviik (passthrough), kasutatakse kõrgema kvaliteedi saavutamiseks Dolby Digital Plus (E-AC3) vormingut. Kui su süsteem toetab HDMI kaudu mitmekanalilist PCM-heli, jäta see valik väljalülitatuks."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -17592,7 +17592,7 @@ msgstr "Määra 3D otsingutabeli eraldusvõime. Kiire eelvaate jaoks kasuta mada
 #. Description of setting "System / Display / Use 10 bit for SDR" with label #36098
 msgctxt "#36578"
 msgid "Improves video quality by using 10-bit video surfaces for Standard Dynamic Range (SDR) video.[CR][Auto detect] Enables 10 bit for SDR only if the connected display supports HDR.[CR][Always] Enables 10 bit for SDR even if the connected display doesn't support HDR.[CR][Never] Do not use 10 bit for SDR.[CR]HDR passthrough mode always uses 10-bit regardless of this setting."
-msgstr "Parandab videokvaliteeti, kasutades standardse dünaamilise ulatusega (SDR) video jaoks 10-bitiseid videopindu.[CR][Automaatne tuvastus] Lubab 10-bitise SDR-i ainult siis, kui ühendatud ekraan toetab HDR-i.[CR][Alati] Lubab 10-bitise SDR-i jaoks. isegi kui ühendatud ekraan ei toeta HDR-i.[CR][Mitte kunagi] Ära kasuta SDR-i jaoks 10-bitist.[CR]HDR-i läbipääsurežiim kasutab olenemata sellest sättest alati 10-bitist."
+msgstr "Parandab videokvaliteeti, kasutades standardse dünaamilise ulatusega (SDR) video jaoks 10-bitiseid videopindu.[CR][Automaatne tuvastus] Lubab 10-bitise SDR-i ainult siis, kui ühendatud ekraan toetab HDR-i.[CR][Alati] Lubab 10-bitise SDR-i jaoks, isegi kui ühendatud ekraan ei toeta HDR-i.[CR][Mitte kunagi] Ära kasuta 10-bitist SDR-i jaoks.[CR]HDR-i läbiviigurežiim kasutab olenemata sellest sättest alati 10-bitist."
 
 #. primaries labels
 msgctxt "#36579"
@@ -19906,6 +19906,14 @@ msgstr "Kinnita faili kustutamine"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Kui see on lubatud, kuvatakse failide kustutamisel kinnitusdialoog. Kui see on keelatud, kustutatakse failid ilma kasutaja kinnituseta."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Luba Dolby Digital (AC3) transkodeerimine"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Vali see juhul, kui heli väljundühendus toetab ainult Dolby Digital 5.1 (AC-3) sugust mitmekanalilist heli, näiteks S/PDIF ühendus. Kui süsteem toetab PCM mitmekanalilist heli HDMI kaudu, jäta see keelatuks."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"
