@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "Activar registro específico por componente"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Activar la conversión Dolby Digital (AC3)"
+msgid "Enable Dolby Digital transcoding"
+msgstr ""
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -17191,8 +17191,8 @@ msgstr "Grabar"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Selecciona esta opción si la conexión de salida de audio sólo admite audio multicanal como Dolby Digital 5.1 (AC-3), como una conexión S/PDIF. Si tu sistema admite audio multicanal PCM a través de HDMI, desactiva esta opción."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -19904,6 +19904,14 @@ msgstr "Confirmar eliminación de archivo"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si se habilita, se mostrará un cuadro de diálogo de confirmación cuando se eliminen los archivos. Si se deshabilita, los archivos se eliminarán sin confirmación del usuario."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Activar la conversión Dolby Digital (AC3)"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Selecciona esta opción si la conexión de salida de audio sólo admite audio multicanal como Dolby Digital 5.1 (AC-3), como una conexión S/PDIF. Si tu sistema admite audio multicanal PCM a través de HDMI, desactiva esta opción."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "Virkja atvikaskráningu fyrir ákveðnar einingar"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Virkja Dolby Digital (AC3) umkóðun"
+msgid "Enable Dolby Digital transcoding"
+msgstr ""
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -17193,8 +17193,8 @@ msgstr "Taka upp"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Velja hvort hljóðútgangur styður aðeins fjölrása hljóð eins og Dolby Digital 5.1 (AC-3) eins og SPDIF tenging. Ef að kerfið þitt styður PCM fjölrása hljóð í gegnum HDMI skaltu hafa þetta óvirkt."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -19910,6 +19910,14 @@ msgstr "Staðfesta eyðingu skráa"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ef þetta er virkt birtist staðfestingargluggi þegar á að eyða skrám. Ef þetta er ekki virkt verður skrám eytt án staðfestingar notandans."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Virkja Dolby Digital (AC3) umkóðun"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Velja hvort hljóðútgangur styður aðeins fjölrása hljóð eins og Dolby Digital 5.1 (AC-3) eins og SPDIF tenging. Ef að kerfið þitt styður PCM fjölrása hljóð í gegnum HDMI skaltu hafa þetta óvirkt."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "구성 요소 로그 사용"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "돌비 디지털 (AC3) 트랜스코딩 사용"
+msgid "Enable Dolby Digital transcoding"
+msgstr ""
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -17191,8 +17191,8 @@ msgstr "녹화"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "연결된 오디오 장치가 S/PDIF 연결처럼 돌비 디지털 5.1 (AC-3)만 지원하는 경우 선택합니다. 시스템이 HDMI 를 통한 LPCM 멀티채널을 지원하면 이 옵션을 비활성화 상태로 둡니다."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -19904,6 +19904,14 @@ msgstr "파일 삭제 확인"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "사용하면 파일을 삭제할 때 확인 대화 상자가 표시됩니다. 사용하지 않으면 사용자 확인 없이 파일이 삭제됩니다."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "돌비 디지털 (AC3) 트랜스코딩 사용"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "연결된 오디오 장치가 S/PDIF 연결처럼 돌비 디지털 5.1 (AC-3)만 지원하는 경우 선택합니다. 시스템이 HDMI 를 통한 LPCM 멀티채널을 지원하면 이 옵션을 비활성화 상태로 둡니다."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "Įgalinti specifinių komponentų žurnalo rašymą"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Įjungti Dolby Digital (AC3) perkodavimą"
+msgid "Enable Dolby Digital transcoding"
+msgstr ""
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -17191,8 +17191,8 @@ msgstr "Įrašyti"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Įjunkite šią parinktį, jei garso išvesties jungtis palaiko tik Dolby Digital 5.1 (AC-3) daugiakanalį garsą, pvz.: S/PDIF jungtis. Jei jūsų sistema palaiko PCM daugiakanalį garsą per HDMI, palikite šią parinktį išjungtą."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -19904,6 +19904,14 @@ msgstr ""
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr ""
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Įjungti Dolby Digital (AC3) perkodavimą"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Įjunkite šią parinktį, jei garso išvesties jungtis palaiko tik Dolby Digital 5.1 (AC-3) daugiakanalį garsą, pvz.: S/PDIF jungtis. Jei jūsų sistema palaiko PCM daugiakanalį garsą per HDMI, palikite šią parinktį išjungtą."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

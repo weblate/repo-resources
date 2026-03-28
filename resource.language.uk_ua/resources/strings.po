@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-20 16:13+0000\n"
+"PO-Revision-Date: 2026-03-27 11:13+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -2569,8 +2569,8 @@ msgid "Enable component-specific logging"
 msgstr "Увімкнути журнали окремих компонентів"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Увімкнути конвертування Dolby Digital (AC3)"
+msgid "Enable Dolby Digital transcoding"
+msgstr "Увімкнути перекодування Dolby Digital"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -15969,7 +15969,7 @@ msgstr "Затримка перемикання після зміни часто
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Синхронізувати відео та звук із частотою оновлення екрану. У цьому режимі неможливе пряме виведення звукового потоку, тому що може знадобитися ресемплінґ."
+msgstr "Синхронізувати відео та звук із частотою оновлення екрану. У цьому режимі неможливе пряме виведення звуку, тому що може знадобитися ресемплінґ."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -16167,7 +16167,7 @@ msgstr "Відкрити менеджер каналів, який дозвол�
 
 msgctxt "#36208"
 msgid "Instruct the backend to search for channels (if supported)."
-msgstr "Відправити команду на ТБ-сервер шукати канали (якщо підтримується)."
+msgstr "Відправити команду на сервер шукати канали (якщо підтримується)."
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
@@ -16212,15 +16212,15 @@ msgstr "Налаштування телепрограми (EPG)."
 
 msgctxt "#36219"
 msgid "Number of past days to show in the guide and to import from backends."
-msgstr "Кількість днів, що минули, для показу в телепрограмі та імпорту з ТБ-серверів."
+msgstr "Кількість днів, що минули, для показу в телепрограмі та імпорту з серверів."
 
 msgctxt "#36220"
 msgid "Number of future days to show in the guide and to import from backends."
-msgstr "Кількість днів у майбутньому для показу в телепрограмі та імпорту з ТБ-серверів."
+msgstr "Кількість днів у майбутньому для показу в телепрограмі та імпорту з серверів."
 
 msgctxt "#36221"
 msgid "Time between imports of guide data from backends."
-msgstr "Інтервал між імпортом даних телепрограми з ТБ-серверів."
+msgstr "Інтервал між імпортом даних телепрограми з серверів."
 
 msgctxt "#36222"
 msgid "Don't import the guide data while playing TV to minimise CPU usage."
@@ -16237,7 +16237,7 @@ msgstr "Приховати мітки \"Інформація недоступн�
 
 msgctxt "#36225"
 msgid "Delete the cached guide data and reimport it from the backend."
-msgstr "Видалити збережену телепрограму і повторно завантажити дані з ТБ-серверу."
+msgstr "Видалити збережену телепрограму і повторно завантажити дані з серверу."
 
 msgctxt "#36226"
 msgid "This category contains the PVR playback and channel switching settings."
@@ -16254,7 +16254,7 @@ msgstr "Вибір кольору для тла субтитрів."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
-msgstr "Показувати відомості про якість сигналу у вікні з відомостями про кодек (якщо підтримується додатком і ТБ-сервером)."
+msgstr "Показувати відомості про якість сигналу у вікні з відомостями про кодек (якщо підтримується додатком і сервером)."
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
@@ -16291,11 +16291,11 @@ msgstr "Додатковий час запису до запланованого
 
 msgctxt "#36238"
 msgid "Additional time to record after the scheduled end time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "Додатковий час для запису після встановленого часу закінчення на випадок змін у телепрограмі. Підтримується не всіма додатками і ТБ-серверами."
+msgstr "Додатковий час для запису після встановленого часу закінчення на випадок змін у телепрограмі. Підтримується не всіма додатками і серверами."
 
 msgctxt "#36239"
 msgid "Display a notification when timers are added, finished or removed by the backend."
-msgstr "Показувати повідомлення при додаванні, завершенні або видаленні таймерів на ТБ-сервері."
+msgstr "Показувати повідомлення при додаванні, завершенні або видаленні таймерів на сервері."
 
 msgctxt "#36240"
 msgid "This category contains the PVR power management settings, such as when to wakeup the PVR backend server."
@@ -16540,7 +16540,7 @@ msgstr "Рівень стиснення FLAC. За замовчуванням �
 #. Description of setting with label #14099 "Eject disc when CD ripping is complete"
 msgctxt "#36291"
 msgid "Auto eject disc after rip is complete."
-msgstr "Відкривати лоток CD після закінчення оцифровування."
+msgstr "Відкривати лоток дисководу після закінчення оцифровування."
 
 #. Description of settings category "Interface -> Startup" with label #14224
 msgctxt "#36292"
@@ -16550,7 +16550,7 @@ msgstr "Налаштування запуску Kodi."
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Вибрати папку для збереження відомостей про виконавців (файли NFO та картинки)."
+msgstr "Вибрати теку для збереження відомостей про виконавців (NFO-файли та картинки)."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
@@ -16915,7 +16915,7 @@ msgstr "Виберіть максимальну кількість аудіок�
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "Виберіть, щоб дозволити пряме передавання на відтворення стиснутого аудіо, такого як Dolby Digital (AC3), DTS тощо. Клієнт AudioEngine, наприклад Videoplayer, за певних умов може вирішити декодувати аудіопотік. У випадку з Videoplayer пряме передавання не використовуватиметься для прямих трансляцій і режимі синхронізації відтворення з екраном."
+msgstr "Виберіть, щоб дозволити пряме передавання на відтворення стиснутого аудіо, такого як Dolby Digital (AC3), DTS тощо. Клієнт AudioEngine, наприклад Videoplayer, за певних умов може вирішити декодувати аудіопотік. У випадку з Videoplayer пряме виведення не використовуватиметься для прямих трансляцій і режимі синхронізації відтворення з екраном."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -17060,7 +17060,7 @@ msgstr "Тут можна увімкнути та вимкнути глобал�
 #. Description of setting with label #20076 "Ask for master lock code on startup"
 msgctxt "#36397"
 msgid "If enabled, the master lock code is required to unlock this application on startup."
-msgstr "При увімкненні налаштування при запуску програми потрібно буде ввести PIN-код."
+msgstr "Якщо увімкнено, при запуску програми потрібно буде ввести PIN-код."
 
 #. Description of setting with label #20076 "Max Retries"
 msgctxt "#36398"
@@ -17202,8 +17202,8 @@ msgstr "Запис"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Увімкніть це налаштування, якщо А/В-ресівер підтримує багатоканальний звук лише у форматі Dolby Digital 5.1 (AC-3) через інтерфейс S/PDIF. Якщо ресівер підтримує багатоканальний звук PCM через HDMI, не вмикайте налаштування."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr "Увімкніть цей параметр, якщо аудіовихід підтримує лише багатоканальне аудіо, як-от Dolby Digital 5.1 (AC-3), наприклад з’єднання S/PDIF. Якщо також увімкнено пряме виведення E-AC3, для підвищення якості використовується Dolby Digital Plus (E-AC3). Якщо ваша система підтримує багатоканальне аудіо PCM через HDMI, залиште цей параметр вимкненим."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -19930,6 +19930,14 @@ msgstr "Підтвердить видалення файлу"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Якщо увімкнено, для видалення файлів буде відкриватись діалогове вікно з підтвердженням. Якщо вимкнено, файли будуть видалятись без підтвердження."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Увімкнути конвертування Dolby Digital (AC3)"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Увімкніть це налаштування, якщо А/В-ресівер підтримує багатоканальний звук лише у форматі Dolby Digital 5.1 (AC-3) через інтерфейс S/PDIF. Якщо ресівер підтримує багатоканальний звук PCM через HDMI, не вмикайте налаштування."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"

@@ -2571,8 +2571,8 @@ msgid "Enable component-specific logging"
 msgstr "Omogući zapisivanje podataka specifično za komponentu"
 
 msgctxt "#667"
-msgid "Enable Dolby Digital (AC3) transcoding"
-msgstr "Omogući Dolby Digital (AC3) transkodiranje"
+msgid "Enable Dolby Digital transcoding"
+msgstr ""
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -17325,8 +17325,8 @@ msgstr "Snimi"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
-msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Odaberite ovo ako audio izlaz podržava samo višekanalni zvuk kao Dolby Digital 5.1 (AC-3), kao što je S/PDIF veza. Ako vaš sistem podržava PCM višekanalni zvuk putem HDMI-a, ostavite ovo onemogućeno."
+msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+msgstr ""
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -20073,6 +20073,14 @@ msgstr "Potvrdi brisanje datoteke"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ako je omogućeno, prikazat će se dijalog za potvrdu kada datoteke treba izbrisati. Ako je onemogućeno, datoteke će biti izbrisane bez potvrde korisnika."
+
+#~ msgctxt "#667"
+#~ msgid "Enable Dolby Digital (AC3) transcoding"
+#~ msgstr "Omogući Dolby Digital (AC3) transkodiranje"
+
+#~ msgctxt "#36429"
+#~ msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
+#~ msgstr "Odaberite ovo ako audio izlaz podržava samo višekanalni zvuk kao Dolby Digital 5.1 (AC-3), kao što je S/PDIF veza. Ako vaš sistem podržava PCM višekanalni zvuk putem HDMI-a, ostavite ovo onemogućeno."
 
 #~ msgctxt "#13144"
 #~ msgid "Change Apple Remote mode?"
