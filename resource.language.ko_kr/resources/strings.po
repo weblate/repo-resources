@@ -13578,6 +13578,12 @@ msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr "유효한 에피소드 재생목록을 찾을 수 없습니다."
 
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr ""
+
 msgctxt "#29801"
 msgid "QWERTY keyboard"
 msgstr "쿼티 키보드"

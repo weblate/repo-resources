@@ -13584,6 +13584,12 @@ msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr ""
 
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr ""
+
 msgctxt "#29801"
 msgid "QWERTY keyboard"
 msgstr "QWERTY keyboard"

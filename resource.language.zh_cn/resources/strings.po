@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"PO-Revision-Date: 2026-04-16 05:19+0000\n"
 "Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -991,7 +991,7 @@ msgstr "允许通过 HTTP 远程控制"
 #. Label for a context menu entry / button to start/schedule a recording
 msgctxt "#264"
 msgid "Record"
-msgstr "录音"
+msgstr "录制"
 
 msgctxt "#265"
 msgid "Stop Rec."
@@ -1369,7 +1369,7 @@ msgstr "黑屏"
 
 msgctxt "#354"
 msgid "Matrix trails"
-msgstr "骇客任务"
+msgstr "矩阵轨迹"
 
 #. Label of a setting to configure the idle time until the screensaver kicks in
 msgctxt "#355"
@@ -1855,7 +1855,7 @@ msgstr "OSD 位置"
 
 msgctxt "#470"
 msgid "Credits"
-msgstr "开发者"
+msgstr "制作人员"
 
 msgctxt "#474"
 msgid "Off"
@@ -2239,7 +2239,7 @@ msgstr "路径"
 
 msgctxt "#574"
 msgid "Country"
-msgstr "国家"
+msgstr "国家/地区"
 
 msgctxt "#575"
 msgid "In progress"
@@ -2291,11 +2291,11 @@ msgstr "筛选"
 
 msgctxt "#588"
 msgid "Cancel party mode"
-msgstr "取消舞会模式"
+msgstr "取消派对模式"
 
 msgctxt "#589"
 msgid "Party mode"
-msgstr "舞会模式"
+msgstr "派对模式"
 
 msgctxt "#590"
 msgid "Random"
@@ -2360,7 +2360,7 @@ msgstr "储存到："
 
 msgctxt "#608"
 msgid "Couldn't rip CD or track because CDDARipPath is not set."
-msgstr "无法抓取 CD 或音轨，因 CDDA 抓取目录未设置。"
+msgstr "无法抓取 CD 或音轨，因 CDDA 抓取路径未设置。"
 
 msgctxt "#610"
 msgid "Rip audio track"
@@ -2748,7 +2748,7 @@ msgstr "保存 & 重启"
 
 msgctxt "#724"
 msgid "Invalid address specified. Value must be AAA.BBB.CCC.DDD"
-msgstr "无效地址。正确格式为：AAA.BBB.CCC.DDD"
+msgstr "指定的地址无效。值必须为 AAA.BBB.CCC.DDD 格式"
 
 msgctxt "#725"
 msgid "with numbers between 0 and 255."
@@ -3023,7 +3023,7 @@ msgstr "随时启动"
 #. Part of value of recording group list control in the PVR timer settings dialog (e.g. "Recording Group 1")
 msgctxt "#811"
 msgid "Recording group"
-msgstr "录像组"
+msgstr "录制组"
 
 #. Label for setting TV->Recordings->Prevent duplicate episodes
 #. Label of prevent duplicate episodes list control (if user does not want to record the same episode multiple times) in PVR timer settings dialog
@@ -3059,12 +3059,12 @@ msgstr "随时终止"
 #. Label of "MaxRecordings" list in the PVR timer settings dialog
 msgctxt "#818"
 msgid "Max recordings"
-msgstr "最多录像"
+msgstr "最大录制数"
 
 #. Representation of a one-time timer which has been scheduled by a timer rule.
 msgctxt "#819"
 msgid "One time (Scheduled by timer rule)"
-msgstr "单次（由定时器规则计划）"
+msgstr "单次（由计时器规则计划）"
 
 #. Representation of a one-time timer.
 msgctxt "#820"
@@ -3079,12 +3079,12 @@ msgstr "一次（基于指南）"
 #. Representation of a timer rule
 msgctxt "#822"
 msgid "Timer rule"
-msgstr "定时器规则"
+msgstr "计时器规则"
 
 #. Representation of an epg-based timer rule.
 msgctxt "#823"
 msgid "Timer rule (guide-based)"
-msgstr "定时器规则（基于指南）"
+msgstr "计时器规则（基于指南）"
 
 #. Complete prefixed representation of a reminder timer type.
 msgctxt "#824"
@@ -3094,7 +3094,7 @@ msgstr "提醒：{0:s}"
 #. Complete prefixed representation of a recording timer type.
 msgctxt "#825"
 msgid "Recording: {0:s}"
-msgstr "录像：{0:s}"
+msgstr "录制：{0:s}"
 
 #. Label for buttons to add a PVR reminder timer
 msgctxt "#826"
@@ -3109,7 +3109,7 @@ msgstr "删除提醒"
 #. Text for notification that a timer rule has been deleted
 msgctxt "#828"
 msgid "Timer rule deleted"
-msgstr "定时器规则已删除"
+msgstr "计时器规则已删除"
 
 #. Label for a context menu entry to view a read-only reminder timer
 msgctxt "#829"
@@ -3169,7 +3169,7 @@ msgstr "直播"
 #. Message in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#840"
 msgid "Do you only want to delete this timer or also the timer rule that has scheduled it?"
-msgstr "仅删除此定时器或同时删除相关的定时器规则？"
+msgstr "仅删除此计时器或同时删除相关的计时器规则？"
 
 #. Label for No button in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#841"
@@ -3194,7 +3194,7 @@ msgstr "关闭"
 #. Message in a dialog when a user wants to delete a timer rule
 msgctxt "#845"
 msgid "Are you sure you want to delete this timer rule and all timers it has scheduled?"
-msgstr "确定删除此定时器规则及其预约的所有定时器吗？"
+msgstr "确定删除此计时器规则及其预约的所有计时器吗？"
 
 #. Message in a dialog when a user wants to delete a timer
 msgctxt "#846"
@@ -3204,12 +3204,12 @@ msgstr "确定删除此定时器吗？"
 #. Heading for a dialog for confirming to stop an active recording
 msgctxt "#847"
 msgid "Confirm stop recording"
-msgstr "确定停止录像"
+msgstr "确定停止录制"
 
 #. Message in a dialog when a user wants to stop an active recording
 msgctxt "#848"
 msgid "Are you sure you want to stop this recording?"
-msgstr "确定停止此录像吗？"
+msgstr "确定停止此录制吗？"
 
 #. Label for a finale of a TV show
 msgctxt "#849"
@@ -3389,7 +3389,7 @@ msgstr "输入路径或浏览媒体位置。"
 
 msgctxt "#1022"
 msgid "Enter a name for this media source."
-msgstr "为此媒体源命名。"
+msgstr "输入此媒体源的名称。"
 
 msgctxt "#1023"
 msgid "Browse for new share"
@@ -4626,7 +4626,7 @@ msgstr "PVR 指南信息"
 
 msgctxt "#10601"
 msgid "PVR recording info"
-msgstr "PVR 录像信息"
+msgstr "PVR 录制信息"
 
 msgctxt "#10602"
 msgid "PVR timer setting"
@@ -4666,7 +4666,7 @@ msgstr "PVR 电台 RDS 信息"
 
 msgctxt "#10611"
 msgid "PVR recording setting"
-msgstr "PVR 录像设置"
+msgstr "PVR 录制设置"
 
 msgctxt "#10700"
 msgid "TV channels"
@@ -6284,7 +6284,7 @@ msgstr "极高（慢）"
 
 msgctxt "#13510"
 msgid "Sync playback to display"
-msgstr "同步回放显示"
+msgstr "同步播放与显示"
 
 msgctxt "#13511"
 msgid "Choose art"
@@ -7265,7 +7265,7 @@ msgstr "缩略图视图隐藏文件名"
 
 msgctxt "#15216"
 msgid "Play in party mode"
-msgstr "以舞会模式播放"
+msgstr "以派对模式播放"
 
 #. Label for actions associated with favourites
 msgctxt "#15217"
@@ -7468,7 +7468,7 @@ msgstr "更多相关信息见日志。"
 
 msgctxt "#16030"
 msgid "Party mode aborted."
-msgstr "舞会模式已退出。"
+msgstr "派对模式已退出。"
 
 msgctxt "#16031"
 msgid "No matching songs in the library."
@@ -7488,7 +7488,7 @@ msgstr "无法从数据库获取歌曲。"
 
 msgctxt "#16035"
 msgid "Party mode playlist"
-msgstr "舞会模式播放列表"
+msgstr "派对模式播放列表"
 
 msgctxt "#16036"
 msgid "Deinterlace (half)"
@@ -7828,7 +7828,7 @@ msgstr "PVR 后端 {0:d} - {1:s}"
 #. generic label for pvr recordings used in different places
 msgctxt "#19017"
 msgid "Recordings"
-msgstr "录像"
+msgstr "录制"
 
 #. Name of a setting, asking to enter the path to a folder that contains icons for TV channels
 msgctxt "#19018"
@@ -7868,7 +7868,7 @@ msgstr "电台频道"
 #. label for PVR backend number of timers in system information's PVR section
 msgctxt "#19025"
 msgid "Upcoming recordings"
-msgstr "即将完成录像"
+msgstr "即将完成录制"
 
 #. label for "add timer..." list item used in pvr timers / timer rules window
 msgctxt "#19026"
@@ -7956,7 +7956,7 @@ msgstr "频道组"
 #. pvr settings "recording" category label
 msgctxt "#19043"
 msgid "Recording"
-msgstr "录像"
+msgstr "录制"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
@@ -8000,7 +8000,7 @@ msgstr "频道移动到："
 #. Label for a context menu entry to open recording info dialog
 msgctxt "#19053"
 msgid "Recording information"
-msgstr "录像信息"
+msgstr "录制信息"
 
 #. Header label for hide channel confirmation message box and context menu item label
 msgctxt "#19054"
@@ -8030,7 +8030,7 @@ msgstr "启用定时器"
 #. Label for a context menu entry and for a button to stop a recording
 msgctxt "#19059"
 msgid "Stop recording"
-msgstr "停止录像"
+msgstr "停止录制"
 
 #. Label for a context menu entry to delete a timer associated with an epg event and for a button to delete a timer in epg event info dialog
 msgctxt "#19060"
@@ -8074,7 +8074,7 @@ msgstr "此事件已录制。"
 #. Label for recording settings dialog header
 msgctxt "#19068"
 msgid "Recording settings"
-msgstr "录像设置"
+msgstr "录制设置"
 
 #. generic label for the electronic program guide (EPG) used in different places
 msgctxt "#19069"
@@ -8094,7 +8094,7 @@ msgstr "更新间隔"
 #. Dialog warning text for invalid timer setting
 msgctxt "#19072"
 msgid "In order to add/update a timer the end date and time must be greater than the start date and time."
-msgstr "结束时间必需大于开始时间。"
+msgstr "添加或更新定时器时，结束日期和时间必须晚于开始日期和时间。"
 
 #. pvr settings "delay channel switch" setting label
 msgctxt "#19073"
@@ -8163,7 +8163,7 @@ msgstr "未知频道 {0:s}"
 #. Label for "Instant recording action" setting
 msgctxt "#19086"
 msgid "Instant recording action"
-msgstr "即时录像动作"
+msgstr "即时录制动作"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19087"
@@ -8173,7 +8173,7 @@ msgstr "录制当前节目（如果指南数据可用）"
 #. Label for "Instant recording action" settings value
 msgctxt "#19088"
 msgid "Record for a fixed period of time (Instant recording duration)"
-msgstr "录制固定时长（即时录像时长）"
+msgstr "录制固定时长（即时录制时长）"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19089"
@@ -8198,7 +8198,7 @@ msgstr "录制下一节目（{0:s}）"
 #. Instant recording summary. Expands to "Instant recording: <recording start and end times>", for example "Instant recording: 31/05/2016 from 9:00 to 11:00"
 msgctxt "#19093"
 msgid "Instant recording: {0:s}"
-msgstr "即时录像：{0:s}"
+msgstr "即时录制：{0:s}"
 
 #. error message displayed in case adding a timer failed because no suitable epg-based timer type could be found.
 msgctxt "#19094"
@@ -8252,7 +8252,7 @@ msgstr "转到频道"
 #. label of the help text for the recording folder edit field in PVR timer settings dialog
 msgctxt "#19104"
 msgid "Enter the name of the folder for the recording"
-msgstr "输入录像文件夹名称"
+msgstr "输入录制文件夹名称"
 
 #. unused?
 msgctxt "#19105"
@@ -8341,7 +8341,7 @@ msgstr "避免重复"
 #. delete active timer confirmation message box text
 msgctxt "#19122"
 msgid "This timer is still recording. Are you sure you want to delete this timer?"
-msgstr "此定时器仍在录像，确定删除此定时器吗？"
+msgstr "此定时器仍在录制，确定删除此定时器吗？"
 
 msgctxt "#19123"
 msgid "Free to air channels only"
@@ -8353,7 +8353,7 @@ msgstr "忽略当前定时器"
 
 msgctxt "#19125"
 msgid "Ignore present recordings"
-msgstr "忽略当前录像"
+msgstr "忽略当前录制"
 
 #. Label of "Start time" spinner in PVR timer settings dialog
 msgctxt "#19126"
@@ -8454,7 +8454,7 @@ msgstr "组"
 #. Dialog warning text for lifetime recording setting
 msgctxt "#19147"
 msgid "Setting the lifetime of this recording to {0:d} days will immediately expire the recording, which might result in instant deletion of the recording. Proceed anyway?"
-msgstr "将录像的生命周期设置为 {0:d} 天将使录像立即过期，导致录像即时删除。仍要继续吗？"
+msgstr "将录制的生命周期设置为 {0:d} 天将使录像立即过期，导致录像即时删除。仍要继续吗？"
 
 #. generic PVR 'channel' label used in different places
 msgctxt "#19148"
@@ -8503,11 +8503,11 @@ msgstr "从"
 
 msgctxt "#19157"
 msgid "Next recording"
-msgstr "下一录像"
+msgstr "下一录制"
 
 msgctxt "#19158"
 msgid "Currently recording"
-msgstr "当前录像"
+msgstr "当前录制"
 
 #. part of timer / timer rule textual representation (e.g. "10/10/2016 from 11:00 PM to 10/11/2016 1:00 AM". "Mondays from any time to any time")
 msgctxt "#19159"
@@ -8527,12 +8527,12 @@ msgstr "任何时间"
 #. timer status textual representation
 msgctxt "#19162"
 msgid "Recording active"
-msgstr "录像激活"
+msgstr "录制激活"
 
 #. label for number of PVR recordings in system information's PVR section
 msgctxt "#19163"
 msgid "Recordings"
-msgstr "录像"
+msgstr "录制"
 
 #. error box text stating that recording could not be started
 msgctxt "#19164"
@@ -8577,7 +8577,7 @@ msgstr "切换到全屏"
 #. pvr settings "duration for an instant recording" setting label
 msgctxt "#19172"
 msgid "Instant recording duration"
-msgstr "即时录像时长"
+msgstr "即时录制时长"
 
 #. generic label for 'Live TV channel groups' used in different places
 msgctxt "#19173"
@@ -8703,12 +8703,12 @@ msgstr "PVR 客户端具体动作"
 #. text for "recording started on <pvr client name>" pvr client addon callback notification
 msgctxt "#19197"
 msgid "Recording started on: {0:s}"
-msgstr "录像开始于：{0:s}"
+msgstr "录制开始于：{0:s}"
 
 #. text for "recording finished on <pvr client name>" pvr client addon callback notification
 msgctxt "#19198"
 msgid "Recording finished on: {0:s}"
-msgstr "录像完成于：{0:s}"
+msgstr "录制完成于：{0:s}"
 
 #. pvr settings "channel manager" action button label
 msgctxt "#19199"
@@ -8827,22 +8827,22 @@ msgstr "无可激活的 PVR 插件。检查你的设置或详细日志记录。"
 #. Notification text to announce that a recording was aborted
 msgctxt "#19224"
 msgid "Recording aborted"
-msgstr "录像已中止"
+msgstr "录制已中止"
 
 #. Notification text to announce that a recording was scheduled
 msgctxt "#19225"
 msgid "Recording scheduled"
-msgstr "已预约录像"
+msgstr "已预约录制"
 
 #. Notification text to announce that a recording started
 msgctxt "#19226"
 msgid "Recording started"
-msgstr "录像已开始"
+msgstr "录制已开始"
 
 #. Notification text to announce that a recording completed
 msgctxt "#19227"
 msgid "Recording completed"
-msgstr "录像已完成"
+msgstr "录制已完成"
 
 #. Notification text to announce that a timer was deleted
 msgctxt "#19228"
@@ -8897,7 +8897,7 @@ msgstr "从客户端载入定时器"
 #. label 'loading recordings' for progress dialog text
 msgctxt "#19238"
 msgid "Loading recordings from clients"
-msgstr "从客户端载入录像"
+msgstr "从客户端载入录制"
 
 #. label for PVR client creation progress control
 msgctxt "#19239"
@@ -8937,7 +8937,7 @@ msgstr "唤醒命令"
 #. label for PVR settings wakeup before recording control. if checked, the box where kodi is installed on will be automatically turned on before a recording starts.
 msgctxt "#19246"
 msgid "Wakeup before recording"
-msgstr "录像前唤醒"
+msgstr "录制前唤醒"
 
 #. label for PVR settings daily wakeup control. if checked, the box where kodi is installed on will be automatically turned on at the given time.
 msgctxt "#19247"
@@ -9091,12 +9091,12 @@ msgstr "冲突错误"
 #. Notification text to announce that a recording has a conflict
 msgctxt "#19277"
 msgid "Recording conflict"
-msgstr "录像冲突"
+msgstr "录制冲突"
 
 #. Notification text to announce that a recording has an error
 msgctxt "#19278"
 msgid "Recording error"
-msgstr "录像错误"
+msgstr "录制错误"
 
 #. pvr settings 'PVR clients' group label.
 msgctxt "#19279"
@@ -9171,12 +9171,12 @@ msgstr "永久删除所有的"
 #. "remove deleted recordings from trash" dialog text
 msgctxt "#19293"
 msgid "Remove all deleted recordings from trash? This operation cannot be reverted."
-msgstr "确定要从垃圾桶中移除所有已删除的记录？ 此操作无法恢复。"
+msgstr "是否清空回收站中所有已删除的录制文件？此操作不可撤销。"
 
 #. "remove deleted recording from trash" dialog text
 msgctxt "#19294"
 msgid "Remove this deleted recording from trash? This operation cannot be reverted."
-msgstr "确定要从垃圾桶中移除此已删除的记录？ 此操作无法恢复。"
+msgstr "是否从回收站移除此已删除录制？此操作不可撤销。"
 
 #. Label for context menu entry to delete a timer rule
 msgctxt "#19295"
@@ -9251,17 +9251,17 @@ msgstr "定于 [B]{1:s}[/B] 在频道 [B]{0:s}[/B] 的提醒。"
 #. additional text for reminder announcement dialog, used if a recording can be scheduled
 msgctxt "#19309"
 msgid "(Auto-close of this reminder will schedule a recording...)"
-msgstr "（自动关闭此提醒将安排录像…）"
+msgstr "（自动关闭此提醒将安排录制…）"
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19310"
 msgid "Scheduled recording for auto-closed PVR reminder for '{0:s}' on channel '{1:s}' at '{2:s}'"
-msgstr "为自动关闭定于“{2:s}”在频道“{1:s}”的“{0:s}”的 PVR 提醒安排录像"
+msgstr "为自动关闭定于“{2:s}”在频道“{1:s}”的“{0:s}”的 PVR 提醒安排录制"
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19311"
 msgid "Scheduled recording for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
-msgstr "为自动关闭定于“{1:s}”在频道“{0:s}”的 PVR 提醒安排录像"
+msgstr "为自动关闭定于“{1:s}”在频道“{0:s}”的 PVR 提醒安排录制"
 
 #. heading for pvr reminder notification dialog
 msgctxt "#19312"
@@ -9276,7 +9276,7 @@ msgstr "之后自动关闭提醒弹出窗口"
 #. pvr settings "schedule recording on reminder auto-close" setting label
 msgctxt "#19314"
 msgid "Schedule recording when auto-closing the reminder popup"
-msgstr "自动关闭提醒弹出窗口时安排录像"
+msgstr "自动关闭提醒弹出窗口时安排录制"
 
 #. generic 'backend order' label
 msgctxt "#19315"
@@ -10019,7 +10019,7 @@ msgstr "播放列表目录"
 
 msgctxt "#20007"
 msgid "Recordings"
-msgstr "录像"
+msgstr "录制"
 
 msgctxt "#20008"
 msgid "Screenshots"
@@ -10419,7 +10419,7 @@ msgstr "载入程序信息"
 
 msgctxt "#20121"
 msgid "Party on!"
-msgstr "舞会模式开启！"
+msgstr "派对模式开启！"
 
 msgctxt "#20122"
 msgid "True"
@@ -10798,7 +10798,7 @@ msgstr "窗口文档"
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
-msgstr "舞会模式开启！（视频）"
+msgstr "派对模式开启！（视频）"
 
 msgctxt "#20251"
 msgid "Mixing drinks (videos)"
@@ -11963,7 +11963,7 @@ msgstr "{0:c} 磁盘"
 
 msgctxt "#21439"
 msgid "Edit party mode rules"
-msgstr "编辑舞会模式规则"
+msgstr "编辑派对模式规则"
 
 msgctxt "#21440"
 msgid "Home folder"
@@ -12385,7 +12385,7 @@ msgstr "州"
 
 msgctxt "#21875"
 msgid "Country"
-msgstr "国家"
+msgstr "国家/地区"
 
 msgctxt "#21876"
 msgid "Original TX reference"
@@ -12401,7 +12401,7 @@ msgstr "紧急"
 
 msgctxt "#21879"
 msgid "Country code"
-msgstr "国家代码"
+msgstr "国家/地区代码"
 
 msgctxt "#21880"
 msgid "Reference service"
@@ -12569,7 +12569,7 @@ msgstr "指南"
 
 msgctxt "#22021"
 msgid "Minimise black bars"
-msgstr "最小黑边"
+msgstr "最小化黑边"
 
 msgctxt "#22022"
 msgid "Show video files in listings"
@@ -13577,6 +13577,12 @@ msgstr "未找到有效的电影播放列表。"
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr "未找到有效的单集播放列表。"
+
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr "自动菜单选择"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15617,12 +15623,12 @@ msgstr "在开始时"
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36051"
 msgid "Recording Device"
-msgstr "录音设备"
+msgstr "录制设备"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36052"
 msgid "Playback Device"
-msgstr "回放设备"
+msgstr "播放设备"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36053"
@@ -15645,7 +15651,7 @@ msgstr "HDR PQ 模式下的用户界面峰值亮度"
 #. Label of setting "System / Display / Use 10 bit for SDR"
 msgctxt "#36098"
 msgid "Use 10 bit for SDR"
-msgstr "SDR 使用10位"
+msgstr "SDR 使用 10bit 处理"
 
 msgctxt "#36099"
 msgid "Dithering"
@@ -16262,11 +16268,11 @@ msgstr "当向前后翻频道时，延迟真实频道切换。这使你不用等
 
 msgctxt "#36233"
 msgid "This category contains settings for recordings."
-msgstr "此功能区包含录像相关设置。"
+msgstr "此功能区包含录制相关设置。"
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
-msgstr "按下录像按钮时即时录像的时长。将在“即时录像动作”设置为“录制固定时长”时使用此值"
+msgstr "按下录制按钮时即时录制的时长。将在“即时录制动作”设置为“录制固定时长”时使用此值"
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
@@ -16278,11 +16284,11 @@ msgstr "如果设置为大于零的值，最后一次观看的频道时间，将
 
 msgctxt "#36237"
 msgid "Additional time to record before the scheduled start time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "预约录像开始时间的提前量，以允许播出时间的小误差。并非所有插件和后端都支持。"
+msgstr "预约录制开始时间的提前量，以允许播出时间的小误差。并非所有插件和后端都支持。"
 
 msgctxt "#36238"
 msgid "Additional time to record after the scheduled end time to allow for minor broadcasting changes. Not supported by all add-ons and backends."
-msgstr "预约录像结束时间的滞后量，以允许播出时间的小误差。并非所有插件和后端都支持。"
+msgstr "预约录制结束时间的滞后量，以允许播出时间的小误差。并非所有插件和后端都支持。"
 
 msgctxt "#36239"
 msgid "Display a notification when timers are added, finished or removed by the backend."
@@ -16294,11 +16300,11 @@ msgstr "此功能区包含 PVR 电源管理设置，如何时唤醒 PVR 后端�
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
-msgstr "存在此应用时执行下面的唤醒命令或进入休眠模式。下一个预约录像的时间戳作为参数传送。"
+msgstr "存在此应用时执行下面的唤醒命令或进入休眠模式。下一个预约录制的时间戳作为参数传送。"
 
 msgctxt "#36242"
 msgid "The command will not be executed when a recording will be started within this timeout."
-msgstr "在此超时期限内如有一个录像将启动，则命令不会执行。"
+msgstr "在此超时期限内如有一个录制将启动，则命令不会执行。"
 
 msgctxt "#36243"
 msgid "The command to execute (cmd [timestamp])."
@@ -16306,7 +16312,7 @@ msgstr "要执行的命令（cmd [时间戳]）。"
 
 msgctxt "#36244"
 msgid "Time to subtract from the start time of the next scheduled recording."
-msgstr "时间减去下一个预约录像起始时间。"
+msgstr "时间减去下一个预约录制起始时间。"
 
 msgctxt "#36245"
 msgid "Execute the wakeup command every day at the given time."
@@ -16322,7 +16328,7 @@ msgstr "此功能区包含家长控制设置，如果 PVR 后端支持家长控�
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr "请求 PIN 码以访问家长锁定频道。频道可以在频道编辑器的常规页面标记为锁定。未输入 PIN 码则无法播放和录制家长锁定频道，这些频道的指南信息也将隐藏。"
+msgstr "需输入 PIN 码访问家长锁定频道。可在频道编辑器的常规标签中标记频道为已锁定。未输入 PIN 码时，家长锁定频道无法播放或录制，其节目指南信息也会隐藏。"
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
@@ -16330,7 +16336,7 @@ msgstr "输入一个新的 PIN 码以解锁家长锁定频道。"
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."
-msgstr "当试图访问家长锁定频道且在此时长内未询问PIN码时再次询问PIN码。"
+msgstr "在该时长内，再次访问家长锁定频道时需重新输入 PIN 码。"
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
@@ -16347,7 +16353,7 @@ msgstr "包含与音乐文件及其处理相关设置的区域。"
 
 msgctxt "#36254"
 msgid "Action to perform when pressing the record button. [Record current show] will record the current show from \"now\" to the end of the show. If no TV guide data is currently available a fixed length recording starting \"now\", with the value set for \"Instant recording duration\" will be scheduled. [Record for a fixed period of time] will schedule a fixed length recording starting \"now\", with the value set for \"Instant recording duration\". [Ask what to do] will open a dialogue containing different recording actions to choose from, like \"Record current show\", \"Record next show\" and some fixed duration recordings."
-msgstr "按下录像按钮执行的动作。[录制当前节目] 将录制当前节目，从当前时间到节目结束。如果没有可用的电视指南数据，则从当前时间录制固定时长。固定时长由“即时录像时长”设定。[录制固定时长] 将从当前时间录制固定时长。固定时长由“即时录像时长”设定。[询问操作] 将弹出包括不同录制动作选项的对话框，如“录制当前节目”、“录制下一节目”，以及一些固定录像时长。"
+msgstr "按下录制按钮执行的动作。[录制当前节目] 将录制当前节目，从当前时间到节目结束。如果没有可用的电视指南数据，则从当前时间录制固定时长。固定时长由“即时录制时长”设定。[录制固定时长] 将从当前时间录制固定时长。固定时长由“即时录制时长”设定。[询问操作] 将弹出包括不同录制动作选项的对话框，如“录制当前节目”、“录制下一节目”，以及一些固定录制时长。"
 
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
@@ -16906,7 +16912,7 @@ msgstr "选择解码音频可用的最大声道/扬声器数。如果使用光�
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "选择以允许在播放编码压缩的音频如杜比数字（AC3）、DTS 等时进行直通输出。音频引擎的客户端，如 Videoplayer，在某些条件下会决定解码音频流。对 Videoplayer 来说，直播流和同步显示器播放时不使用直通输出。"
+msgstr "勾选以允许音频直通输出，用于播放 Dolby Digital (AC3)、DTS 等压缩音频。音频引擎客户端，如 Videoplayer，可能会自行解码音频流。对 Videoplayer 来说，直播流以及开启播放与显示同步时，将不使用直通输出。"
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -17173,7 +17179,7 @@ msgstr "默认情况下，将阻止来自官方库的插件从私有库自动更
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item. [\"Smart select\"] The action is choosen dynamically, depending on whether the event is in the past, now or in the future."
-msgstr "设定指南中一个项目被选择时的动作：[显示上下文菜单] 将触发上下文菜单供选择进一步的动作；[切换到频道] 将立即切换到相应频道；[显示信息] 将显示剧情和进一步选项的详细信息；[录像] 将创建选定项目的录像定时器。 [\"智能选择\"] 该动作是动态选择的，具体取决于事件在过去，现在或将来。"
+msgstr "设定指南中一个项目被选择时的动作：[显示上下文菜单] 将触发上下文菜单供选择进一步的动作；[切换到频道] 将立即切换到相应频道；[显示信息] 将显示剧情和进一步选项的详细信息；[录制] 将创建选定项目的录制定时器。 [\"智能选择\"] 该动作是动态选择的，具体取决于事件在过去，现在或将来。"
 
 msgctxt "#36425"
 msgid "Show context menu"
@@ -17189,7 +17195,7 @@ msgstr "显示信息"
 
 msgctxt "#36428"
 msgid "Record"
-msgstr "录像"
+msgstr "录制"
 
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"

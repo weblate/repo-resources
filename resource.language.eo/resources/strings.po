@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"PO-Revision-Date: 2026-04-16 05:18+0000\n"
 "Last-Translator: Jakub Szafranek13 Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -821,7 +821,7 @@ msgstr "Bonvolu enmeti diskon"
 
 msgctxt "#220"
 msgid "Remote share"
-msgstr "Fora kunhavigo"
+msgstr "Fora komuna dosierujo"
 
 msgctxt "#221"
 msgid "Network is not connected"
@@ -1839,6 +1839,7 @@ msgctxt "#465"
 msgid "Contrast"
 msgstr "Kontrasto"
 
+#, fuzzy
 msgctxt "#466"
 msgid "Gamma"
 msgstr "Gamo"
@@ -2166,7 +2167,7 @@ msgstr "Trako"
 
 msgctxt "#555"
 msgid "Time"
-msgstr "Horo"
+msgstr "Tempo"
 
 msgctxt "#556"
 msgid "Title"
@@ -2186,7 +2187,7 @@ msgstr "Ludlisto"
 
 msgctxt "#560"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgctxt "#561"
 msgid "File"
@@ -2200,10 +2201,9 @@ msgctxt "#563"
 msgid "Rating"
 msgstr "Pritakso"
 
-#, fuzzy
 msgctxt "#564"
 msgid "Type"
-msgstr "Type"
+msgstr "Tipo"
 
 msgctxt "#565"
 msgid "Usage"
@@ -2231,10 +2231,9 @@ msgctxt "#570"
 msgid "Date added"
 msgstr "Dato aldonita"
 
-#, fuzzy
 msgctxt "#571"
 msgid "Default"
-msgstr "Default"
+msgstr "Defaŭlto"
 
 msgctxt "#572"
 msgid "Studio"
@@ -2267,11 +2266,11 @@ msgstr "Artisto / Jaro"
 # empty string with id 579
 msgctxt "#580"
 msgid "Sort direction"
-msgstr ""
+msgstr "Ordiga direkto"
 
 msgctxt "#581"
 msgid "Sort method"
-msgstr ""
+msgstr "Ordiga maniero"
 
 msgctxt "#582"
 msgid "View mode"
@@ -2279,7 +2278,7 @@ msgstr "Vida reĝimo"
 
 msgctxt "#583"
 msgid "Remember views for different folders"
-msgstr ""
+msgstr "Memori vidojn por diversaj dosierujoj"
 
 msgctxt "#584"
 msgid "Ascending"
@@ -2297,39 +2296,34 @@ msgctxt "#587"
 msgid "Filter"
 msgstr "Flitrilo"
 
-#, fuzzy
 msgctxt "#588"
 msgid "Cancel party mode"
-msgstr "Cancel Party Mode"
+msgstr "Ĉesigi festan reĝimon"
 
-#, fuzzy
 msgctxt "#589"
 msgid "Party mode"
-msgstr "Party Mode"
+msgstr "Festa reĝimo"
 
 msgctxt "#590"
 msgid "Random"
 msgstr "Hazarde"
 
-#, fuzzy
 msgctxt "#591"
 msgid "Off"
-msgstr "Off"
+msgstr "Malŝaltita"
 
 msgctxt "#592"
 msgid "One"
 msgstr "Unu"
 
 #. Label used for buttons and select options as a reference to match all items or occurrences.
-#, fuzzy
 msgctxt "#593"
 msgid "All"
-msgstr "ĉiom"
+msgstr "Ĉiuj"
 
-#, fuzzy
 msgctxt "#594"
 msgid "Off"
-msgstr "Off"
+msgstr "Malŝaltita"
 
 msgctxt "#595"
 msgid "Repeat: Off"
@@ -2339,40 +2333,33 @@ msgctxt "#596"
 msgid "Repeat: One"
 msgstr "Ripeti: Unu"
 
-#, fuzzy
 msgctxt "#597"
 msgid "Repeat: All"
-msgstr "Repeat: ĉiom"
+msgstr "Ripeti: Ĉiujn"
 
-#, fuzzy
 msgctxt "#600"
 msgid "Rip audio CD"
-msgstr "Rip CD Audio"
+msgstr "Ekstrakti sonan KD-on"
 
-#, fuzzy
 msgctxt "#601"
 msgid "Medium"
-msgstr "Medium"
+msgstr "Meza"
 
-#, fuzzy
 msgctxt "#602"
 msgid "Standard"
-msgstr "Standard"
+msgstr "Norma"
 
-#, fuzzy
 msgctxt "#603"
 msgid "Extreme"
-msgstr "Extreme"
+msgstr "Ekstrema"
 
-#, fuzzy
 msgctxt "#604"
 msgid "Constant bitrate"
-msgstr "Constant Bit Rate"
+msgstr "Konstanta bitrapido"
 
-#, fuzzy
 msgctxt "#605"
 msgid "Ripping..."
-msgstr "Ripping..."
+msgstr "Ekstraktado..."
 
 msgctxt "#607"
 msgid "To:"
@@ -2380,20 +2367,21 @@ msgstr "Al:"
 
 msgctxt "#608"
 msgid "Couldn't rip CD or track because CDDARipPath is not set."
-msgstr ""
+msgstr "Ne eblis ekstrakti KD-on aŭ trakon ĉar CDDARipPath ne estas agordita."
 
 # empty string with id 609
 msgctxt "#610"
 msgid "Rip audio track"
-msgstr ""
+msgstr "Ekstrakti sonan trakon"
 
 msgctxt "#611"
 msgid "Enter number"
 msgstr "Enigu numeron"
 
+#, fuzzy
 msgctxt "#612"
 msgid "Bits/sample"
-msgstr ""
+msgstr "Bitoj/sonpeco"
 
 msgctxt "#613"
 msgid "Sample rate"
@@ -2403,10 +2391,9 @@ msgctxt "#614"
 msgid "Virtual folder"
 msgstr "Virtuala dosierujo"
 
-#, fuzzy
 msgctxt "#620"
 msgid "Audio CDs"
-msgstr "CD Ripping"
+msgstr "Sonaj KD-oj"
 
 msgctxt "#621"
 msgid "Encoder"
@@ -2420,10 +2407,9 @@ msgctxt "#623"
 msgid "Bitrate"
 msgstr "Bitrapido"
 
-#, fuzzy
 msgctxt "#624"
 msgid "Include track number"
-msgstr "Include Track Number"
+msgstr "Inkluzivi trakan numeron"
 
 msgctxt "#625"
 msgid "All songs of"
@@ -2431,21 +2417,20 @@ msgstr "Ĉiuj kantoj de"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr ""
+msgstr "Televidserioj en progreso"
 
 msgctxt "#629"
 msgid "View mode"
 msgstr "Vida reĝimo"
 
 #. Label for stretching the displayed video to its normal size
-#, fuzzy
 msgctxt "#630"
 msgid "Normal"
-msgstr "Normal"
+msgstr "Normala"
 
 msgctxt "#631"
 msgid "Zoom"
-msgstr "Zomi"
+msgstr "Zomo"
 
 #. Label for stretching the displayed video to a 4:3 aspect ratio
 msgctxt "#632"
@@ -2472,29 +2457,27 @@ msgstr "Propra"
 
 msgctxt "#637"
 msgid "ReplayGain"
-msgstr ""
+msgstr "ReplayGain"
 
 msgctxt "#638"
 msgid "Volume adjustments"
-msgstr ""
+msgstr "Laŭteca ĝustigo"
 
-#, fuzzy
 msgctxt "#639"
 msgid "Use track levels"
-msgstr "Use Track Levels"
+msgstr "Uzi trakajn nivelojn"
 
-#, fuzzy
 msgctxt "#640"
 msgid "Use album levels"
-msgstr "Use Albumo Levels"
+msgstr "Uzi albumajn nivelojn"
 
 msgctxt "#641"
 msgid "Files with ReplayGain information"
-msgstr ""
+msgstr "Dosieroj kun ReplayGain-informo"
 
 msgctxt "#642"
 msgid "Files without ReplayGain information"
-msgstr ""
+msgstr "Dosieroj sen ReplayGain-informo"
 
 msgctxt "#643"
 msgid "Avoid clipping protection on ReplayGained files"
@@ -2510,29 +2493,29 @@ msgstr "Bezonas malpaki grandan dosieron. Ĉu daŭrigi?"
 
 msgctxt "#646"
 msgid "Remove from library"
-msgstr "Forviŝi el biblioteko"
+msgstr "Forigi el biblioteko"
 
 msgctxt "#647"
 msgid "Export video library"
-msgstr "Elporti videaĵ-bibliotekon"
+msgstr "Eksporti videaĵan bibliotekon"
 
 msgctxt "#648"
 msgid "Import video library"
-msgstr "Enporti videaĵ-bibliotekon"
+msgstr "Importi videaĵan bibliotekon"
 
 #. unused?
 msgctxt "#649"
 msgid "Importing"
-msgstr "Enportas"
+msgstr "Importado"
 
 #. unused?
 msgctxt "#650"
 msgid "Exporting"
-msgstr "Elportas"
+msgstr "Eksportado"
 
 msgctxt "#651"
 msgid "Browse for library"
-msgstr "Foliumi bibliotekon"
+msgstr "Foliumi por biblioteko"
 
 msgctxt "#652"
 msgid "Years"
@@ -2544,11 +2527,11 @@ msgstr "Ĝisdatigi bibliotekon"
 
 msgctxt "#654"
 msgid "Show debug information"
-msgstr ""
+msgstr "Montri sencimigajn informojn"
 
 msgctxt "#655"
 msgid "Browse for executable"
-msgstr "Foliumi por ruleblaĵo"
+msgstr "Foliumi por plenumeblaĵo"
 
 msgctxt "#656"
 msgid "Browse for playlist"
@@ -2564,7 +2547,7 @@ msgstr "Pri kanto"
 
 msgctxt "#659"
 msgid "Non-linear stretch"
-msgstr "Streĉi nelineare"
+msgstr "Nelineara streĉo"
 
 msgctxt "#660"
 msgid "Volume amplification"
@@ -2572,7 +2555,7 @@ msgstr "Laŭteca amplifo"
 
 msgctxt "#661"
 msgid "Choose export folder"
-msgstr ""
+msgstr "Elektu eksportan dosierujon"
 
 msgctxt "#662"
 msgid "This file is no longer available."
@@ -2580,7 +2563,7 @@ msgstr "Tiu dosiero ne plu disponeblas."
 
 msgctxt "#663"
 msgid "Would you like to remove it from the library?"
-msgstr "Ĉu vi volus forigi ĝin de la biblioteko?"
+msgstr "Ĉu vi volas forigi ĝin el la biblioteko?"
 
 msgctxt "#664"
 msgid "Browse for script"
@@ -2666,7 +2649,7 @@ msgstr ""
 
 msgctxt "#686"
 msgid "Verbose logging of [B]EPG[/B] component"
-msgstr ""
+msgstr "Malkonciza protokolado de komponanto [B]EPG[/B]"
 
 msgctxt "#687"
 msgid "From metadata"
@@ -2675,12 +2658,12 @@ msgstr "De metadatumoj"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr "Agordi borderan grandon."
+msgstr "Agordi la borderan grandon."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr "Agordi borderan koloron."
+msgstr "Agordi la borderan koloron."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
@@ -2704,11 +2687,11 @@ msgstr "Agordi la ombran grandon."
 
 msgctxt "#700"
 msgid "Cleaning up library"
-msgstr "Purigas bibliotekon"
+msgstr "Purigado de biblioteko"
 
 msgctxt "#701"
 msgid "Removing old songs from the library"
-msgstr "Forigas malnovajn kantojn de la biblioteko"
+msgstr "Forigado de malnovaj kantoj el la biblioteko"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
@@ -2716,7 +2699,7 @@ msgstr "Tiu vojo jam estis skanita antaŭe."
 
 msgctxt "#703"
 msgid "Can't clean up library while running background tasks"
-msgstr ""
+msgstr "Ne eblas purigi bibliotekon dum funkciado de fonaj taskoj"
 
 msgctxt "#705"
 msgid "Network"
@@ -2737,7 +2720,7 @@ msgstr "Interreta protokolo (IP)"
 
 msgctxt "#712"
 msgid "Invalid port specified. Value must be between 1 and 65535."
-msgstr "Nevalida pordo difinita. Valoro estu inter 1 kaj 65535."
+msgstr "Nevalida pordo difinita. Valoro devas esti inter 1 kaj 65535."
 
 msgctxt "#713"
 msgid "HTTP proxy"
@@ -2750,11 +2733,11 @@ msgstr "Atribuo"
 
 msgctxt "#716"
 msgid "Automatic (DHCP)"
-msgstr "Aŭtomate (DHCP)"
+msgstr "Aŭtomata (DHCP)"
 
 msgctxt "#717"
 msgid "Manual (static)"
-msgstr "Mane (statika)"
+msgstr "Mana (statika)"
 
 msgctxt "#719"
 msgid "IP address"
@@ -2774,11 +2757,11 @@ msgstr "DNS-servilo"
 
 msgctxt "#723"
 msgid "Save & restart"
-msgstr "Konservi & restartigi"
+msgstr "Konservi kaj restartigi"
 
 msgctxt "#724"
 msgid "Invalid address specified. Value must be AAA.BBB.CCC.DDD"
-msgstr "Nevalida adreso difinita. La valoro estu laŭ AAA.BBB.CCC.DDD"
+msgstr "Nevalida adreso difinita. La valoro devas esti AAA.BBB.CCC.DDD"
 
 msgctxt "#725"
 msgid "with numbers between 0 and 255."
@@ -2786,7 +2769,7 @@ msgstr "kun numeroj inter 0 kaj 255."
 
 msgctxt "#726"
 msgid "Changes not saved. Continue without saving?"
-msgstr "Ŝanĝoj nekonservitaj. Ĉu daŭrigi sen konservo?"
+msgstr "Ŝanĝoj nekonservitaj. Ĉu daŭrigi sen konservi?"
 
 msgctxt "#727"
 msgid "Web server"
@@ -2810,7 +2793,7 @@ msgstr "Nigra"
 
 msgctxt "#732"
 msgid "Save & apply"
-msgstr "Konservi & apliki"
+msgstr "Konservi kaj apliki"
 
 msgctxt "#733"
 msgid "Password"
@@ -2886,7 +2869,7 @@ msgstr "Ĉu vi certas?"
 
 msgctxt "#751"
 msgid "Removing source"
-msgstr "Forigas fonton"
+msgstr "Forigado de fonto"
 
 msgctxt "#752"
 msgid "Opacity"
@@ -2894,7 +2877,7 @@ msgstr "Opakeco"
 
 msgctxt "#754"
 msgid "Add program link"
-msgstr "Aldoni program-ligilon"
+msgstr "Aldoni programan ligilon"
 
 msgctxt "#755"
 msgid "Edit program path"
@@ -2904,10 +2887,9 @@ msgctxt "#756"
 msgid "Edit program name"
 msgstr "Redakti programan nomon"
 
-#, fuzzy
 msgctxt "#757"
 msgid "Edit path depth"
-msgstr "Editii Path Depth"
+msgstr "Redakti vojan profundecon"
 
 msgctxt "#759"
 msgid "View: Big list"
@@ -2953,21 +2935,20 @@ msgstr "Malhele griza"
 # string 769 reserved for more subtitle colours
 msgctxt "#770"
 msgid "Error {0:d}: share not available"
-msgstr ""
+msgstr "Eraro {0:d}: komuna dosierujo ne disponebla"
 
 msgctxt "#772"
 msgid "Audio"
-msgstr "Aŭdio"
+msgstr "Sono"
 
 #, fuzzy
 msgctxt "#773"
 msgid "Seeking"
 msgstr "Seeking"
 
-#, fuzzy
 msgctxt "#774"
 msgid "Slideshow folder"
-msgstr "Slideshow Folder"
+msgstr "Bildoprezenta dosierujo"
 
 # empty strings from id 775 to 789
 msgctxt "#790"
@@ -2976,20 +2957,19 @@ msgstr "Telerego"
 
 msgctxt "#791"
 msgid "Allow remote control by programs on this system"
-msgstr "Permesi teleregon per programoj sur ĉi tiu sistemo"
+msgstr "Permesi teleregon de programoj en ĉi tiu sistemo"
 
 msgctxt "#792"
 msgid "Port"
 msgstr "Pordo"
 
-#, fuzzy
 msgctxt "#793"
 msgid "Port range"
-msgstr "Porda intervalo"
+msgstr "Porda amplekso"
 
 msgctxt "#794"
 msgid "Allow remote control by programs on other systems"
-msgstr "Permesi teleregon per programoj ĉe aliaj sistemoj"
+msgstr "Permesi teleregon per programoj en aliaj sistemoj"
 
 msgctxt "#795"
 msgid "Initial repeat delay (ms)"
@@ -3001,11 +2981,11 @@ msgstr ""
 
 msgctxt "#797"
 msgid "Maximum number of clients"
-msgstr ""
+msgstr "Maksimuma nombro da klientoj"
 
 msgctxt "#798"
 msgid "Internet access"
-msgstr "Interreto"
+msgstr "Interreta aliro"
 
 msgctxt "#799"
 msgid "Library update"
@@ -3018,25 +2998,24 @@ msgid "{0:s} of {1:s} available"
 msgstr "{0:s} el {1:s} disponebla"
 
 #. Label of list control for choosing the timer type (one time, repeating, ...) in PVR timer settings dialog
-#, fuzzy
 msgctxt "#803"
 msgid "Type"
-msgstr "Type"
+msgstr "Speco"
 
 #. Label of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#804"
 msgid "Search guide for"
-msgstr ""
+msgstr "Traserĉi gvidilon por"
 
 #. Help of 'Guide data title search' edit field in PVR timer settings dialog
 msgctxt "#805"
 msgid "Enter the search string to use to lookup matching events in the guide"
-msgstr ""
+msgstr "Entajpu la serĉan ĉenon por uzi serĉante kongruajn eventojn en la gvidilo"
 
 #. Label of "Fulltext search" edit field in PVR timer settings dialog
 msgctxt "#806"
 msgid "Fulltext search (or title search only)"
-msgstr ""
+msgstr "Tutteksta serĉo (aŭ nur en titolo)"
 
 #. special days of week representation value for a timer rule
 msgctxt "#807"
@@ -3056,7 +3035,7 @@ msgstr "Ajna kanalo"
 #. Label of "Start any time" radio button in PVR timer settings dialog
 msgctxt "#810"
 msgid "Start any time"
-msgstr "Komenci ajnam"
+msgstr "Komenci iam ajn"
 
 #. Label of recording group list control in the PVR timer settings dialog
 #. Part of value of recording group list control in the PVR timer settings dialog (e.g. "Recording Group 1")
@@ -3068,17 +3047,17 @@ msgstr ""
 #. Label of prevent duplicate episodes list control (if user does not want to record the same episode multiple times) in PVR timer settings dialog
 msgctxt "#812"
 msgid "Prevent duplicate episodes"
-msgstr ""
+msgstr "Preventi duoblajn epizodojn"
 
 #. Label of start padding time list control in PVR timer settings dialog
 msgctxt "#813"
 msgid "Start padding time"
-msgstr ""
+msgstr "Komenco antaŭ planita tempo"
 
 #. Label of end padding time list control in PVR timer settings dialog
 msgctxt "#814"
 msgid "End padding time"
-msgstr ""
+msgstr "Fino post planita tempo"
 
 #. Value of prevent duplicate episodes list control in PVR timer settings dialog
 msgctxt "#815"
@@ -3093,7 +3072,7 @@ msgstr "Registri nur novajn epizodojn"
 #. Label of "End any time" radio button in PVR timer settings dialog
 msgctxt "#817"
 msgid "End any time"
-msgstr ""
+msgstr "Fini iam ajn"
 
 #. Label of "MaxRecordings" list in the PVR timer settings dialog
 msgctxt "#818"
@@ -3103,7 +3082,7 @@ msgstr "Maksimume registraĵoj"
 #. Representation of a one-time timer which has been scheduled by a timer rule.
 msgctxt "#819"
 msgid "One time (Scheduled by timer rule)"
-msgstr ""
+msgstr "Unufoje (Planita de tempumila regulo)"
 
 #. Representation of a one-time timer.
 msgctxt "#820"
@@ -3113,17 +3092,17 @@ msgstr "Unufoje"
 #. Representation of an epg-based one-time timer.
 msgctxt "#821"
 msgid "One time (guide-based)"
-msgstr ""
+msgstr "Unufoje (laŭ gvidilo)"
 
 #. Representation of a timer rule
 msgctxt "#822"
 msgid "Timer rule"
-msgstr ""
+msgstr "Tempumila regulo"
 
 #. Representation of an epg-based timer rule.
 msgctxt "#823"
 msgid "Timer rule (guide-based)"
-msgstr ""
+msgstr "Tempumila regulo (laŭ gvidilo)"
 
 #. Complete prefixed representation of a reminder timer type.
 msgctxt "#824"
@@ -3133,7 +3112,7 @@ msgstr "Memorigo: {0:s}"
 #. Complete prefixed representation of a recording timer type.
 msgctxt "#825"
 msgid "Recording: {0:s}"
-msgstr ""
+msgstr "Registrado: {0:s}"
 
 #. Label for buttons to add a PVR reminder timer
 msgctxt "#826"
@@ -3148,7 +3127,7 @@ msgstr "Forigi memorigon"
 #. Text for notification that a timer rule has been deleted
 msgctxt "#828"
 msgid "Timer rule deleted"
-msgstr ""
+msgstr "Tempumila regulo forigita"
 
 #. Label for a context menu entry to view a read-only reminder timer
 msgctxt "#829"
@@ -3198,22 +3177,22 @@ msgstr "Dimanĉoj"
 #. Label for a TV show Premiere
 msgctxt "#838"
 msgid "Première"
-msgstr ""
+msgstr "Premiero"
 
 #. Label for a Live TV show
 msgctxt "#839"
 msgid "Live"
-msgstr "Vive"
+msgstr "Tujelsenda"
 
 #. Message in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#840"
 msgid "Do you only want to delete this timer or also the timer rule that has scheduled it?"
-msgstr ""
+msgstr "Ĉu vi volas forigi nur ĉi tiun tempumilon aŭ ankaŭ la tempumilan regulon kiu planis ĝin?"
 
 #. Label for No button in a dialog when a user wants to delete a timer that was scheduled by a timer rule
 msgctxt "#841"
 msgid "Only this"
-msgstr ""
+msgstr "Nur ĉi tiun"
 
 #. Label for a first aired TV show
 msgctxt "#842"
@@ -3223,37 +3202,37 @@ msgstr "Nova"
 #. Label for a context menu entry to activate a currently inactive timer
 msgctxt "#843"
 msgid "Activate"
-msgstr ""
+msgstr "Aktivigi"
 
 #. Label for a context menu entry to deactivate a currently active timer
 msgctxt "#844"
 msgid "Deactivate"
-msgstr ""
+msgstr "Malaktivigi"
 
 #. Message in a dialog when a user wants to delete a timer rule
 msgctxt "#845"
 msgid "Are you sure you want to delete this timer rule and all timers it has scheduled?"
-msgstr ""
+msgstr "Ĉu vi certas ke vi volas forigi ĉi tiun tempumilan regulon kaj ĉiujn tempumilojn kiujn ĝi planis?"
 
 #. Message in a dialog when a user wants to delete a timer
 msgctxt "#846"
 msgid "Are you sure you want to delete this timer?"
-msgstr ""
+msgstr "Ĉu vi certas ke vi volas forigi ĉi tiun tempumilon?"
 
 #. Heading for a dialog for confirming to stop an active recording
 msgctxt "#847"
 msgid "Confirm stop recording"
-msgstr ""
+msgstr "Konfirmu registradan halton"
 
 #. Message in a dialog when a user wants to stop an active recording
 msgctxt "#848"
 msgid "Are you sure you want to stop this recording?"
-msgstr "Ĉu vi certas ke vi volas halti ĉi tiun registron?"
+msgstr "Ĉu vi certas ke vi volas halti ĉi tiun registradon?"
 
 #. Label for a finale of a TV show
 msgctxt "#849"
 msgid "Finale"
-msgstr ""
+msgstr "Finalo"
 
 msgctxt "#850"
 msgid "Invalid port number entered"
@@ -3261,21 +3240,21 @@ msgstr "Nevalida porda numero entajpita"
 
 msgctxt "#851"
 msgid "Valid port range is 1-65535"
-msgstr ""
+msgstr "Valida porda amplekso estas 1-65535"
 
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
-msgstr ""
+msgstr "Valida porda amplekso estas 1024-65535"
 
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr "Ajna kanalo de kliento \"{0:s}\""
+msgstr "Iu ajn kanalo de kliento \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr "Ajna kanalo de ajna kliento"
+msgstr "Iu ajn kanalo de iu ajn kliento"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
@@ -3305,12 +3284,12 @@ msgstr "{0:s} [Ĉiuj kanaloj]"
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Forigi post spektado"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Konfiguru ĉu registraĵoj estu forigotaj post spektado de ili."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
@@ -3360,7 +3339,7 @@ msgstr "Neeblas konekti"
 
 msgctxt "#1002"
 msgid "The connection to the network location couldn't be established. This could be due to the network not being connected. Would you like to add it anyway?"
-msgstr ""
+msgstr "La konekto al la reta loko ne eblis esti starigita. Tio eble estas ĉar la reto ne estas konektita. Ĉu vi volas aldoni ĝin malgraŭ tio?"
 
 msgctxt "#1006"
 msgid "IP address"
@@ -3382,15 +3361,13 @@ msgctxt "#1010"
 msgid "Server name"
 msgstr "Servila nomo"
 
-#, fuzzy
 msgctxt "#1011"
 msgid "Remote path"
-msgstr "Remote Path"
+msgstr "Fora vojo"
 
-#, fuzzy
 msgctxt "#1012"
 msgid "Shared folder"
-msgstr "Shared Folder"
+msgstr "Komunigita dosierujo"
 
 msgctxt "#1013"
 msgid "Port"
@@ -3423,29 +3400,27 @@ msgstr "Entajpu la uzantnomon"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Entajpu vojon..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
-msgstr "Entajpu la vojojn aŭ foliumi por la plurmediaj lokoj."
+msgstr "Entajpu la vojojn aŭ foliumi por la aŭdvidaĵaj lokoj."
 
 msgctxt "#1022"
 msgid "Enter a name for this media source."
-msgstr "Entajpu nomo por ĉi tiu plurmedia fonto."
+msgstr "Entajpu nomon por ĉi tiu aŭdvidaĵa fonto."
 
-#, fuzzy
 msgctxt "#1023"
 msgid "Browse for new share"
-msgstr "Foliumilo for new share"
+msgstr "Foliumi por nova komuna dosierujo"
 
 msgctxt "#1024"
 msgid "Browse"
 msgstr "Foliumi"
 
-#, fuzzy
 msgctxt "#1025"
 msgid "Couldn't retrieve directory information. This could be due to the network not being connected. Would you like to add it anyway?"
-msgstr "Ne eblis ricevi informojn pri dosierujo."
+msgstr "Ne eblis ricevi informojn pri dosierujo. Tio eble estas ĉar la reto ne estas konektita. Ĉu vi volas aldoni ĝin malgraŭ tio?"
 
 msgctxt "#1026"
 msgid "Add source"
@@ -3501,7 +3476,7 @@ msgstr "Bildaj aldonaĵoj"
 
 msgctxt "#1040"
 msgid "Loading directory"
-msgstr "Ŝargas dosierujon"
+msgstr "Ŝargado de dosierujo"
 
 msgctxt "#1041"
 msgid "Retrieved {0:d} items"
@@ -3517,12 +3492,12 @@ msgstr "Programaj aldonaĵoj"
 
 msgctxt "#1044"
 msgid "Set plug-in thumb"
-msgstr ""
+msgstr "Agordi aldonaĵan miniaturon"
 
 # empty string with id 1045
 msgctxt "#1046"
 msgid "Access points"
-msgstr ""
+msgstr "Aliraj punktoj"
 
 msgctxt "#1048"
 msgid "Username"
@@ -3542,16 +3517,16 @@ msgstr "Entajpu retan adreson"
 
 msgctxt "#1052"
 msgid "Require authentication"
-msgstr ""
+msgstr "Devigi aŭtentigon"
 
 msgctxt "#1053"
 msgid "Choose whether requests to the web server require a username and a password, which must be set below if enabled. It is recommended to always leave this setting enabled."
-msgstr ""
+msgstr "Elektu ĉu petoj al la reta servilo devigas uzantnomon kaj pasvorton, kiuj devas esti agorditaj sube se ŝaltita. Estas rekomendata ĉiam lasi ĉi tiun agordon ŝaltitan."
 
 # empty strings from id 1054 to 1179
 msgctxt "#1180"
 msgid "Proxy type"
-msgstr ""
+msgstr "Prokurila tipo"
 
 msgctxt "#1181"
 msgid "HTTP"
@@ -3571,7 +3546,7 @@ msgstr "SOCKS5"
 
 msgctxt "#1185"
 msgid "SOCKS5 with remote DNS resolving"
-msgstr ""
+msgstr "SOCKS5 kun fora DNS-adrestrovado"
 
 msgctxt "#1186"
 msgid "HTTPS"
@@ -3585,10 +3560,9 @@ msgctxt "#1201"
 msgid "NFS Client"
 msgstr "NFS-kliento"
 
-#, fuzzy
 msgctxt "#1202"
 msgid "Workgroup"
-msgstr "Workgroup"
+msgstr "Laborgrupo"
 
 msgctxt "#1203"
 msgid "Default username"
@@ -3604,7 +3578,7 @@ msgstr "WINS-servilo"
 
 msgctxt "#1208"
 msgid "Mount SMB shares"
-msgstr ""
+msgstr "Surmeti komunajn dosierujojn de SMB"
 
 msgctxt "#1210"
 msgid "Remove"
@@ -3628,35 +3602,35 @@ msgstr "Dosieroj"
 
 msgctxt "#1215"
 msgid "Music & video "
-msgstr "Muziko & videaĵoj "
+msgstr "Muziko kaj videaĵoj "
 
 msgctxt "#1216"
 msgid "Music & pictures"
-msgstr "Muziko & bildoj"
+msgstr "Muziko kaj bildoj"
 
 msgctxt "#1217"
 msgid "Music & files"
-msgstr "Muziko & dosieroj"
+msgstr "Muziko kaj dosieroj"
 
 msgctxt "#1218"
 msgid "Video & pictures"
-msgstr "Videaĵoj & bildoj"
+msgstr "Videaĵoj kaj bildoj"
 
 msgctxt "#1219"
 msgid "Video & files"
-msgstr "Videaĵoj & dosieroj"
+msgstr "Videaĵoj kaj dosieroj"
 
 msgctxt "#1220"
 msgid "Pictures & files"
-msgstr "Bildoj & dosieroj"
+msgstr "Bildoj kaj dosieroj"
 
 msgctxt "#1221"
 msgid "Music & video & pictures"
-msgstr "Muziko, videaĵoj & bildoj"
+msgstr "Muziko, videaĵoj kaj bildoj"
 
 msgctxt "#1222"
 msgid "Music & video & pictures & files"
-msgstr "Muziko, videaĵoj, bildoj & dosieroj"
+msgstr "Muziko, videaĵoj, bildoj kaj dosieroj"
 
 msgctxt "#1223"
 msgid "Disabled"
@@ -3664,43 +3638,43 @@ msgstr "Malŝaltita"
 
 msgctxt "#1226"
 msgid "Files & music & video"
-msgstr "Dosieroj, muziko & videaĵoj"
+msgstr "Dosieroj, muziko kaj videaĵoj"
 
 msgctxt "#1227"
 msgid "Files & pictures & music"
-msgstr "Dosieroj, bildoj & muziko"
+msgstr "Dosieroj, bildoj kaj muziko"
 
 msgctxt "#1228"
 msgid "Files & pictures & video"
-msgstr "Dosieroj, bildoj & videaĵoj"
+msgstr "Dosieroj, bildoj kaj videaĵoj"
 
 msgctxt "#1229"
 msgid "Music & programs"
-msgstr "Muziko & programoj"
+msgstr "Muziko kaj programoj"
 
 msgctxt "#1230"
 msgid "Video & programs"
-msgstr "Videaĵoj & programoj"
+msgstr "Videaĵoj kaj programoj"
 
 msgctxt "#1231"
 msgid "Pictures & programs"
-msgstr "Bildoj & programoj"
+msgstr "Bildoj kaj programoj"
 
 msgctxt "#1232"
 msgid "Music & video & pictures & programs"
-msgstr "Muziko, videaĵoj, bildoj & programoj"
+msgstr "Muziko, videaĵoj, bildoj kaj programoj"
 
 msgctxt "#1233"
 msgid "Programs & video & music"
-msgstr "Aplikaĵoj, videaĵoj & muziko"
+msgstr "Aplikaĵoj, videaĵoj kaj muziko"
 
 msgctxt "#1234"
 msgid "Programs & pictures & music"
-msgstr "Programoj, bildoj & muziko"
+msgstr "Programoj, bildoj kaj muziko"
 
 msgctxt "#1235"
 msgid "Programs & pictures & video"
-msgstr "Programoj, bildoj & videaĵoj"
+msgstr "Programoj, bildoj kaj videaĵoj"
 
 # empty strings from id 1236 to 1258
 msgctxt "#1259"
@@ -3709,20 +3683,20 @@ msgstr "Zeroconf"
 
 msgctxt "#1260"
 msgid "Announce services to other systems"
-msgstr ""
+msgstr "Anonci servojn al aliaj sistemoj"
 
 # empty strings from id 1261 to 1267
 msgctxt "#1268"
 msgid "Enable AirPlay \"Videos\" and \"Pictures\" support"
-msgstr ""
+msgstr "Ŝalti subtenon por Videaĵoj\" kaj \"Bildoj\" de AirPlay"
 
 msgctxt "#1269"
 msgid "Allow volume control"
-msgstr ""
+msgstr "Permesi laŭtecan regadon"
 
 msgctxt "#1270"
 msgid "Enable AirPlay support"
-msgstr ""
+msgstr "Ŝalti AirPlay-subtenon"
 
 msgctxt "#1271"
 msgid "Device name"
@@ -3748,15 +3722,15 @@ msgstr "Filtrilo {0:s}"
 # empty strings from id 1276 to 1299
 msgctxt "#1300"
 msgid "Custom audio device"
-msgstr "Propra aŭdia aparato"
+msgstr "Propra sona aparato"
 
 msgctxt "#1301"
 msgid "Custom passthrough device"
-msgstr ""
+msgstr "Propra trapasa aparato"
 
 msgctxt "#1302"
 msgid "Volume control steps"
-msgstr ""
+msgstr "Paŝoj de laŭteca regado"
 
 # empty strings from id 1303 to 1373
 # strings from 1350 to 1449 are reserved for weather translation
@@ -3788,7 +3762,7 @@ msgstr "Intenseco"
 #. Weather token
 msgctxt "#1379"
 msgid "Ragged"
-msgstr ""
+msgstr "Disŝiritaj"
 
 #. Weather token
 msgctxt "#1380"
@@ -3796,10 +3770,9 @@ msgid "Very"
 msgstr "Tre"
 
 #. Weather token
-#, fuzzy
 msgctxt "#1381"
 msgid "Extreme"
-msgstr "Extreme"
+msgstr "Ekstrema"
 
 #. Weather token
 msgctxt "#1382"
@@ -3809,7 +3782,7 @@ msgstr "Kirloj"
 #. Weather token
 msgctxt "#1383"
 msgid "Sky is clear"
-msgstr "Ĉielo sennubas"
+msgstr "Ĉielo klaras"
 
 #. Weather token
 msgctxt "#1384"
@@ -3824,7 +3797,7 @@ msgstr "Tornado"
 #. Weather token
 msgctxt "#1386"
 msgid "Tropical"
-msgstr ""
+msgstr "Tropika"
 
 #. Weather token
 msgctxt "#1387"
@@ -3834,7 +3807,7 @@ msgstr "Uragano"
 #. Weather token
 msgctxt "#1388"
 msgid "Cold"
-msgstr ""
+msgstr "Malvarma"
 
 #. Weather token
 msgctxt "#1389"
@@ -3849,17 +3822,17 @@ msgstr "Agordoj"
 #. Weather token
 msgctxt "#1391"
 msgid "Breeze"
-msgstr ""
+msgstr "Brizo"
 
 #. Weather token
 msgctxt "#1392"
 msgid "Gentle"
-msgstr ""
+msgstr "Milda"
 
 #. Weather token
 msgctxt "#1393"
 msgid "High wind, near gale"
-msgstr ""
+msgstr "Forta vento, preskaŭ burasko"
 
 #. Weather token
 msgctxt "#1394"
@@ -3869,7 +3842,7 @@ msgstr ""
 #. Weather token
 msgctxt "#1395"
 msgid "Violent"
-msgstr ""
+msgstr "Violenta"
 
 #. Weather token
 #, fuzzy
@@ -3889,10 +3862,9 @@ msgid "Freezing"
 msgstr "Frostos"
 
 #. Weather token
-#, fuzzy
 msgctxt "#1399"
 msgid "Late"
-msgstr "Late"
+msgstr "Malfrue"
 
 #. Weather token
 msgctxt "#1400"
@@ -3903,13 +3875,12 @@ msgstr "Soligita"
 #, fuzzy
 msgctxt "#1401"
 msgid "Thundershowers"
-msgstr "T-Showers"
+msgstr "Fulmoŝaŭroj"
 
 #. Weather token
-#, fuzzy
 msgctxt "#1402"
 msgid "Thunder"
-msgstr "Tondri"
+msgstr "Tondro"
 
 #. Weather token
 msgctxt "#1403"
@@ -3947,6 +3918,7 @@ msgid "Crystals"
 msgstr "Kristaloj"
 
 #. Weather token
+#, fuzzy
 msgctxt "#1410"
 msgid "Calm"
 msgstr "Kvieto"
@@ -3969,17 +3941,17 @@ msgstr ""
 #. Weather token
 msgctxt "#1414"
 msgid "Thunderstorm"
-msgstr ""
+msgstr "Fulmotondro"
 
 #. Weather token
 msgctxt "#1415"
 msgid "Drizzle"
-msgstr ""
+msgstr "Pluveto"
 
 #. Weather token
 msgctxt "#1416"
 msgid "Foggy"
-msgstr ""
+msgstr "Nebule"
 
 #. Weather token
 msgctxt "#1417"
@@ -4014,33 +3986,32 @@ msgstr "Vente"
 #. Weather token
 msgctxt "#1423"
 msgid "Mist"
-msgstr ""
+msgstr "Brumo"
 
 #. Weather token
 msgctxt "#1424"
 msgid "Overcast"
-msgstr ""
+msgstr "Nuboplene"
 
 #. Weather token
 msgctxt "#1425"
 msgid "Pellets"
-msgstr ""
+msgstr "Grajlo"
 
 #. Weather token
 msgctxt "#1426"
 msgid "Hail"
-msgstr ""
+msgstr "Hajlo"
 
 #. Weather token
-#, fuzzy
 msgctxt "#1427"
 msgid "Smoke"
-msgstr "Dim"
+msgstr "Fumo"
 
 #. Weather token
 msgctxt "#1428"
 msgid "Volcanic"
-msgstr ""
+msgstr "Vulkana"
 
 #. Weather token
 msgctxt "#1429"
@@ -4080,7 +4051,7 @@ msgstr "Sabloŝtormo"
 #. Weather token
 msgctxt "#1436"
 msgid "Blowing"
-msgstr ""
+msgstr "Blovado"
 
 #. Weather token
 msgctxt "#1437"
@@ -4110,7 +4081,7 @@ msgstr "kun"
 #. Weather token
 msgctxt "#1442"
 msgid "Chance"
-msgstr ""
+msgstr "Probableco"
 
 #. Weather token
 msgctxt "#1443"
@@ -4140,17 +4111,17 @@ msgstr "Skualoj"
 #. Weather token
 msgctxt "#1448"
 msgid "Precipitation"
-msgstr ""
+msgstr "Precipitaĵo"
 
 #. Weather token
 msgctxt "#1449"
 msgid "Partial"
-msgstr ""
+msgstr "Parta"
 
 # strings through to 1449 reserved for weather translation
 msgctxt "#1450"
 msgid "Put display to sleep when idle"
-msgstr ""
+msgstr "Dormetigi ekranon dum senokupo"
 
 #, fuzzy
 msgctxt "#2050"
@@ -4164,7 +4135,7 @@ msgstr "Malplena listo"
 
 msgctxt "#2081"
 msgid "Went back to parent list because the active list has been emptied"
-msgstr ""
+msgstr "Revenis al patra listo ĉar la aktiva listo estis malplenigita"
 
 # empty strings from id 2082 to 2100
 msgctxt "#2101"
@@ -4174,7 +4145,7 @@ msgstr "Pli nova versio bezonata. Kontrolu la protokolon por pliaj informoj pri 
 #. Notification message indicating an add-on error. "<Add-on name> error".
 msgctxt "#2102"
 msgid "{0:s} error"
-msgstr "Eraro kun {0:s}"
+msgstr "Eraro pri {0:s}"
 
 #. Fallback message indicating an add-on error.
 msgctxt "#2103"
@@ -4189,11 +4160,11 @@ msgstr "Kontrolu la protokolon por pliaj informoj."
 # empty strings from id 2105 to 2202
 msgctxt "#2203"
 msgid "Use DTS Core"
-msgstr ""
+msgstr "Uzi DTS-kernon"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr ""
+msgstr "Elektu ĉi tiun opcion se vi volas trapasi DTS-HD-formojn kiel DTS, alikaze DTS-HD-formoj estos ludataj per PCM"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4207,10 +4178,9 @@ msgctxt "#10002"
 msgid "Pictures"
 msgstr "Bildoj"
 
-#, fuzzy
 msgctxt "#10003"
 msgid "File manager"
-msgstr "Dosiermanaĝilo"
+msgstr "Dosiermastrumilo"
 
 msgctxt "#10004"
 msgid "Settings"
@@ -4236,7 +4206,7 @@ msgstr "Ludi sekvan"
 #. Header label for add-on configuration removal dialog
 msgctxt "#10009"
 msgid "Confirm add-on configuration removal"
-msgstr "Konfirmu forigo de aldonaĵa konfiguro"
+msgstr "Konfirmu forigon de aldonaĵa konfiguro"
 
 #. Header label for add-on configuration removal selection dialog
 msgctxt "#10010"
@@ -4256,7 +4226,7 @@ msgstr "Konfiguroj kaj agordoj de aldonaĵo"
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10013"
 msgid "Edit add-on settings"
-msgstr "Redakti agordoj de aldonaĵo"
+msgstr "Redakti agordojn de aldonaĵo"
 
 #. Item label used in add-on configuration selection dialog
 msgctxt "#10014"
@@ -4325,7 +4295,7 @@ msgstr "Agordoj - Ludilo"
 
 msgctxt "#10031"
 msgid "Settings - Media"
-msgstr "Agordoj - Plurmedioj"
+msgstr "Agordoj - Aŭdvidaĵoj"
 
 msgctxt "#10032"
 msgid "Settings - Interface"
@@ -4337,7 +4307,7 @@ msgstr "Agordoj - Profiloj"
 
 msgctxt "#10035"
 msgid "Skin Settings"
-msgstr "Agordoj de haŭto"
+msgstr "Haŭtaj agordoj"
 
 msgctxt "#10036"
 msgid "Basic"
@@ -4361,11 +4331,11 @@ msgstr "Aldonaĵa foliumilo"
 
 msgctxt "#10041"
 msgid "Reset above settings to default"
-msgstr ""
+msgstr "Reagordi suprajn agordojn al defaŭltoj"
 
 msgctxt "#10042"
 msgid "Are you sure you want to reset the settings in this category?"
-msgstr "Ĉu vi certas ke vi volas restarigi la agordojn en ĉi tiu kategorio?"
+msgstr "Ĉu vi certas, ke vi volas restarigi la agordojn en ĉi tiu kategorio?"
 
 msgctxt "#10043"
 msgid "Help"
@@ -4377,7 +4347,7 @@ msgstr "Neniu helpo disponebla"
 
 msgctxt "#10045"
 msgid "Resets all the visible settings to their default values."
-msgstr "Restarigas ĉiujn videblajn agordojn al siaj defaŭltaj valoroj."
+msgstr "Reagordas ĉiujn videblajn agordojn al siaj defaŭltaj valoroj."
 
 msgctxt "#10046"
 msgid "No categories available"
@@ -4397,7 +4367,7 @@ msgstr "Aldoni muzikan fonton"
 
 msgctxt "#10050"
 msgid "Event log"
-msgstr ""
+msgstr "Eventa protokolo"
 
 msgctxt "#10051"
 msgid "Add program source"
@@ -4456,7 +4426,7 @@ msgstr "Virtuala klavaro"
 
 msgctxt "#10104"
 msgid "Volume bar"
-msgstr "Laŭtecostrio"
+msgstr "Laŭteca strio"
 
 # empty string with id 10105
 msgctxt "#10106"
@@ -4491,7 +4461,7 @@ msgstr ""
 
 msgctxt "#10116"
 msgid "Player process info"
-msgstr ""
+msgstr "Informoj pri ludila procezo"
 
 # empty strings from id 10117 to 10119
 msgctxt "#10120"
@@ -4517,7 +4487,7 @@ msgstr "Videaĵaj legosignoj"
 
 msgctxt "#10126"
 msgid "File browser"
-msgstr "Dosieradministrilo"
+msgstr "Dosierfoliumilo"
 
 #. Audio Channel count
 msgctxt "#10127"
@@ -4530,7 +4500,7 @@ msgstr "Reta agordado"
 
 msgctxt "#10129"
 msgid "Media source"
-msgstr "Plurmedia fonto"
+msgstr "Aŭdvidaĵa fonto"
 
 msgctxt "#10130"
 msgid "Profile settings"
@@ -4538,11 +4508,11 @@ msgstr "Profilaj agordoj"
 
 msgctxt "#10131"
 msgid "Lock settings"
-msgstr ""
+msgstr "Ŝlosaj agordoj"
 
 msgctxt "#10132"
 msgid "Content settings"
-msgstr ""
+msgstr "Enhavaj agordoj"
 
 # empty string with id 10133
 msgctxt "#10134"
@@ -4555,11 +4525,11 @@ msgstr "Pri kanto"
 
 msgctxt "#10136"
 msgid "Smart playlist editor"
-msgstr ""
+msgstr "Redaktilo de saĝa ludlisto"
 
 msgctxt "#10137"
 msgid "Smart playlist rule editor"
-msgstr ""
+msgstr "Redaktilo de reguloj de saĝa ludlisto"
 
 # empty string with id 10138
 msgctxt "#10139"
@@ -4578,7 +4548,7 @@ msgstr "Pri plenekrano"
 # empty strings from id 10143 to 10144
 msgctxt "#10145"
 msgid "Slider dialog"
-msgstr ""
+msgstr "Ŝovila dialogo"
 
 msgctxt "#10146"
 msgid "Add-on info"
@@ -4595,11 +4565,11 @@ msgstr "Periferaĵaj agordoj"
 
 msgctxt "#10151"
 msgid "Extended progress dialog"
-msgstr ""
+msgstr "Etendita progresa dialogo"
 
 msgctxt "#10152"
 msgid "Media filter"
-msgstr ""
+msgstr "Aŭdvidaĵa filtrilo"
 
 msgctxt "#10153"
 msgid "Subtitle search"
@@ -4618,23 +4588,23 @@ msgstr ""
 # empty strings from id 10160 to 10209
 msgctxt "#10210"
 msgid "Looking for subtitles..."
-msgstr "Serĉas subtekstojn..."
+msgstr "Serĉado de subtekstoj..."
 
 msgctxt "#10211"
 msgid "Looking for or caching subtitles..."
-msgstr "Serĉas aŭ kaŝmemorigas subtekstojn..."
+msgstr "Serĉado aŭ kaŝmemorigado de subtekstoj..."
 
 msgctxt "#10212"
 msgid "terminating"
-msgstr "finas"
+msgstr "finado"
 
 msgctxt "#10213"
 msgid "buffering"
-msgstr "bufras"
+msgstr "bufrado"
 
 msgctxt "#10214"
 msgid "Opening stream"
-msgstr "Malfermas fluon"
+msgstr "Malfermado de fluo"
 
 # empty strings from id 10215 to 10499
 msgctxt "#10500"
@@ -4665,10 +4635,9 @@ msgctxt "#10507"
 msgid "Configuration"
 msgstr "Konfiguro"
 
-#, fuzzy
 msgctxt "#10508"
 msgid "Weather forecast"
-msgstr "Wealar Forecast"
+msgstr "Veterprognozo"
 
 msgctxt "#10509"
 msgid "Network gaming"
@@ -4676,7 +4645,7 @@ msgstr "Reta ludado"
 
 msgctxt "#10510"
 msgid "Extensions"
-msgstr "Aldonaĵoj"
+msgstr "Etendaĵoj"
 
 msgctxt "#10511"
 msgid "System info"
@@ -4711,35 +4680,35 @@ msgstr "Teleteksto"
 # empty strings from id 10551 to 10599
 msgctxt "#10600"
 msgid "PVR guide info"
-msgstr ""
+msgstr "Pri PVR-gvidilo"
 
 msgctxt "#10601"
 msgid "PVR recording info"
-msgstr ""
+msgstr "Pri PVR-registraĵo"
 
 msgctxt "#10602"
 msgid "PVR timer setting"
-msgstr ""
+msgstr "Agordoj de PVR-tempumilo"
 
 msgctxt "#10603"
 msgid "PVR group manager"
-msgstr ""
+msgstr "Grupa mastrumilo de PVR"
 
 msgctxt "#10604"
 msgid "PVR channel manager"
-msgstr ""
+msgstr "Kanala mastrumilo de PVR"
 
 msgctxt "#10605"
 msgid "PVR guide search"
-msgstr ""
+msgstr "PVR-gvidila serĉo"
 
 msgctxt "#10606"
 msgid "PVR channel scan"
-msgstr ""
+msgstr "Kanala skanado de PVR"
 
 msgctxt "#10607"
 msgid "PVR update progress"
-msgstr ""
+msgstr "PVR-ĝisdatiga progreso"
 
 msgctxt "#10608"
 msgid "PVR OSD channels"
@@ -4755,7 +4724,7 @@ msgstr ""
 
 msgctxt "#10611"
 msgid "PVR recording setting"
-msgstr ""
+msgstr "Agordoj de PVR-registrado"
 
 # empty strings from id 10612 to 10699
 msgctxt "#10700"
@@ -4768,11 +4737,11 @@ msgstr "Televidaj registraĵoj"
 
 msgctxt "#10702"
 msgid "TV guide"
-msgstr ""
+msgstr "Televida gvidilo"
 
 msgctxt "#10703"
 msgid "TV timers"
-msgstr ""
+msgstr "Televidaj tempumiloj"
 
 msgctxt "#10704"
 msgid "TV search"
@@ -4788,11 +4757,11 @@ msgstr "Radiaj registraĵoj"
 
 msgctxt "#10707"
 msgid "Radio guide"
-msgstr ""
+msgstr "Radia gvidilo"
 
 msgctxt "#10708"
 msgid "Radio timers"
-msgstr ""
+msgstr "Radiaj tempumiloj"
 
 msgctxt "#10709"
 msgid "Radio search"
@@ -4800,11 +4769,11 @@ msgstr "Radia serĉo"
 
 msgctxt "#10710"
 msgid "TV timer rules"
-msgstr ""
+msgstr "Reguloj de televidaj tempumiloj"
 
 msgctxt "#10711"
 msgid "Radio timer rules"
-msgstr ""
+msgstr "Reguloj de radiaj tempumiloj"
 
 # empty strings from id 10712 to 10799
 msgctxt "#10800"
@@ -4819,7 +4788,7 @@ msgstr "Plenekrana radio"
 #. Title of controller configuration window
 msgctxt "#10820"
 msgid "Controller Configuration"
-msgstr ""
+msgstr "Regila konfiguro"
 
 #. Title of the "My Games" window
 msgctxt "#10821"
@@ -4854,12 +4823,12 @@ msgstr "Altnivelaj agordoj"
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
 msgid "Video Rotation"
-msgstr ""
+msgstr "Videa turno"
 
 #. Title of the window for setting up controller ports used by the game
 msgctxt "#10828"
 msgid "Port Setup"
-msgstr ""
+msgstr "Porda agordado"
 
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
@@ -4908,16 +4877,15 @@ msgstr ""
 #. Does not match window ID description
 msgctxt "#12009"
 msgid "Rebuild index..."
-msgstr ""
+msgstr "Rekonstrui indekson..."
 
-#, fuzzy
 msgctxt "#12010"
 msgid "Return to music window"
-msgstr "Return to Mia Muziko"
+msgstr "Reveni al muzika fenestro"
 
 msgctxt "#12011"
 msgid "Return to videos window"
-msgstr "Reveni al video-fenestro"
+msgstr "Reveni al videaĵa fenestro"
 
 msgctxt "#12012"
 msgid "Last used"
@@ -4935,17 +4903,17 @@ msgstr "Laste ĝisdatigita"
 #. Label of various controls for starting playback from the beginning
 msgctxt "#12021"
 msgid "Play from beginning"
-msgstr "Ludi de komenco"
+msgstr "Ludi ekde komenco"
 
 #. Label of various controls for resuming playback from a certain point in time
 msgctxt "#12022"
 msgid "Resume from {0:s}"
-msgstr "Daŭrigi de {0:s}"
+msgstr "Daŭrigi ekde {0:s}"
 
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Daŭrigi ekde"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -5018,18 +4986,17 @@ msgctxt "#12326"
 msgid "Enter password"
 msgstr "Entajpu pasvorton"
 
-#, fuzzy
 msgctxt "#12327"
 msgid "Enter master code"
-msgstr "tajpi Master Code"
+msgstr "Entajpu ĉefan kodon"
 
 msgctxt "#12328"
 msgid "Enter unlock code"
-msgstr "tajpi Malŝlosi Code"
+msgstr "Entajpu ĉefan malŝlosan kodon"
 
 msgctxt "#12329"
 msgid "or press \"C\" to cancel"
-msgstr "aŭ premi «C» por nuligi"
+msgstr "aŭ premu \"C\" por nuligi"
 
 #, fuzzy
 msgctxt "#12330"
@@ -5038,7 +5005,7 @@ msgstr "tajpi Gamepad button combo and press Start"
 
 msgctxt "#12331"
 msgid "press \"OK\", or \"Back\" to cancel"
-msgstr "premi «Bone», aŭ «Reen» por nuligi"
+msgstr "premu \"Bone\", aŭ \"Reen\" por nuligi"
 
 msgctxt "#12332"
 msgid "Set lock"
@@ -5048,10 +5015,9 @@ msgctxt "#12333"
 msgid "Unlock"
 msgstr "Malŝlosi"
 
-#, fuzzy
 msgctxt "#12334"
 msgid "Reset lock"
-msgstr "Reset Lock"
+msgstr "Restarigi ŝloson"
 
 msgctxt "#12335"
 msgid "Remove lock"
@@ -5083,16 +5049,15 @@ msgstr "Malĝusta pasvorto,"
 
 msgctxt "#12343"
 msgid "retries left"
-msgstr ""
+msgstr "provoj restas"
 
 msgctxt "#12344"
 msgid "Passwords entered did not match."
 msgstr "Entajpitaj pasvortoj malsamas."
 
-#, fuzzy
 msgctxt "#12345"
 msgid "Access denied"
-msgstr "Access Denied"
+msgstr "Aliro rifuzita"
 
 #, fuzzy
 msgctxt "#12346"
@@ -5101,17 +5066,15 @@ msgstr "pasvorto retry limit exceeded."
 
 msgctxt "#12347"
 msgid "The system will now power down."
-msgstr ""
+msgstr "La sistemo nun elŝaltos."
 
-#, fuzzy
 msgctxt "#12348"
 msgid "Item locked"
-msgstr "Item Locked"
+msgstr "Elemento ŝloŝita"
 
-#, fuzzy
 msgctxt "#12353"
 msgid "Reactivate lock"
-msgstr "Reactivate Lock"
+msgstr "Reaktivigi ŝloson"
 
 msgctxt "#12356"
 msgid "Change lock"
@@ -5121,43 +5084,41 @@ msgctxt "#12357"
 msgid "Source lock"
 msgstr "Fonta ŝloso"
 
-#, fuzzy
 msgctxt "#12358"
 msgid "Password entry was blank. Try again."
-msgstr "pasvorto entry was blank. Try again."
+msgstr "Pasvorta enigo estis malplena. Reprovu."
 
-#, fuzzy
 msgctxt "#12360"
 msgid "Master lock"
-msgstr "Master Lock"
+msgstr "Ĉefa ŝloso"
 
 # empty string with id 12361
 msgctxt "#12362"
 msgid "Shutdown system if number of master lock retries is exceeded"
-msgstr ""
+msgstr "Elŝalti sistemon se nombro da reprovoj de ĉefa ŝloso estas transpasita"
 
 # empty strings from id 12363 to 12366
 msgctxt "#12367"
 msgid "Master code is not valid. Please enter a valid master code."
-msgstr ""
+msgstr "Ĉefa kodo nevalidas. Bonvolu entajpi validan ĉefan kodon."
 
 msgctxt "#12373"
 msgid "Settings & file manager"
-msgstr "Agordoj & dosiermanaĝilo"
+msgstr "Agordoj kaj dosiermastrumilo"
 
 # empty strings from id 12374 to 12375
 msgctxt "#12376"
 msgid "Set as default for all media"
-msgstr ""
-
-msgctxt "#12377"
-msgid "This will reset any previously saved values. Are you sure?"
-msgstr ""
+msgstr "Agordi kiel defaŭlto por ĉiuj aŭdvidaĵoj"
 
 #, fuzzy
+msgctxt "#12377"
+msgid "This will reset any previously saved values. Are you sure?"
+msgstr "Ĉi tio reagordos ĉiujn antaŭe konservitajn valorojn. Ĉu vi certas?"
+
 msgctxt "#12378"
 msgid "Amount of time to display each image"
-msgstr "Show each image for"
+msgstr "Kvanto da tempo por montri ĉiun bildon"
 
 #, fuzzy
 msgctxt "#12379"
@@ -5193,11 +5154,11 @@ msgstr "Monato / Tago"
 # empty strings from id 12387 to 12388
 msgctxt "#12389"
 msgid "Privacy policy"
-msgstr ""
+msgstr "Privateca politiko"
 
 msgctxt "#12390"
 msgid "System uptime"
-msgstr "Sistema daŭro de funkciado"
+msgstr "Daŭro de sistema funkciado"
 
 msgctxt "#12391"
 msgid "Minutes"
@@ -5255,7 +5216,7 @@ msgstr "Plenekrana ludo"
 # empty strings from id 12907 to 12998
 msgctxt "#12999"
 msgid "Startup"
-msgstr ""
+msgstr "Startigo"
 
 msgctxt "#13000"
 msgid "System"
@@ -5315,7 +5276,7 @@ msgstr "Restarti"
 
 msgctxt "#13014"
 msgid "Minimise"
-msgstr ""
+msgstr "Minimumigi"
 
 msgctxt "#13015"
 msgid "Power button action"
@@ -5336,7 +5297,7 @@ msgstr ""
 # empty string with id 13019
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
-msgstr "Ĉu alia seanco aktivas, eble per ssh?"
+msgstr "Ĉu alia seanco estas aktiva, eble per ssh?"
 
 msgctxt "#13021"
 msgid "Mounted removable storage device"
@@ -5344,16 +5305,16 @@ msgstr ""
 
 msgctxt "#13022"
 msgid "Unsafe storage device removal"
-msgstr ""
+msgstr "Nesekura forigo de konservilo"
 
 msgctxt "#13023"
 msgid "Successfully removed storage device"
-msgstr ""
+msgstr "Sukcese forigis konservilon"
 
 # empty strings from id 13024 to 13025
 msgctxt "#13026"
 msgid "Try to wakeup remote servers on access"
-msgstr ""
+msgstr "Provi veki forajn servilojn antaŭ ol atingi ilin"
 
 msgctxt "#13027"
 msgid "Wake-on-LAN ({0:s})"
@@ -5361,7 +5322,7 @@ msgstr ""
 
 msgctxt "#13028"
 msgid "Waiting for network to connect..."
-msgstr "Atendas por reta konekto..."
+msgstr "Atendado por reta konekto..."
 
 msgctxt "#13029"
 msgid "Failed to execute Wake-on-LAN!"
@@ -5385,29 +5346,28 @@ msgstr ""
 
 msgctxt "#13034"
 msgid "Updated for {0:s}"
-msgstr ""
+msgstr "Ĝisdatigita por {0:s}"
 
 msgctxt "#13035"
 msgid "Found for {0:s}"
-msgstr ""
+msgstr "Trovita por {0:s}"
 
 msgctxt "#13036"
 msgid "Failed for {0:s}"
-msgstr ""
+msgstr "Fiaskis por {0:s}"
 
 # empty strings from id 13037 to 13049
 msgctxt "#13050"
 msgid "Running low on battery"
 msgstr ""
 
-#, fuzzy
 msgctxt "#13100"
 msgid "Flicker filter"
-msgstr "Flicker Filter"
+msgstr "Flagra filtrilo"
 
 msgctxt "#13101"
 msgid "Let driver choose (requires restart)"
-msgstr ""
+msgstr "Lasi pelilon elekti (bezonas restartigon)"
 
 #. generic "disabled" label used in different places
 msgctxt "#13106"
@@ -5416,7 +5376,7 @@ msgstr "Malŝaltita"
 
 msgctxt "#13107"
 msgid "Enabled during video playback"
-msgstr ""
+msgstr "Ŝaltita dum  videaĵa ludado"
 
 msgctxt "#13108"
 msgid "Always enabled"
@@ -5425,7 +5385,7 @@ msgstr "Ĉiam ŝaltita"
 #. unused?
 msgctxt "#13109"
 msgid "Test & apply the resolution"
-msgstr "Testi & apliki la distingivon"
+msgstr "Testi kaj apliki la distingivon"
 
 msgctxt "#13110"
 msgid "Save this resolution?"
@@ -5433,12 +5393,12 @@ msgstr "Ĉu konservi tiun distingivon?"
 
 msgctxt "#13111"
 msgid "Would you like to keep this change?"
-msgstr ""
+msgstr "Ĉu vi volas konservi tiun ŝanĝon?"
 
 #. unused?
 msgctxt "#13112"
 msgid "High quality upscaling"
-msgstr ""
+msgstr "Altkvalita skalado"
 
 #. used by several skins
 msgctxt "#13113"
@@ -5448,7 +5408,7 @@ msgstr "Malŝaltita"
 #. unused?
 msgctxt "#13114"
 msgid "Enabled for SD content"
-msgstr ""
+msgstr "Ŝaltita por SD-enhavo"
 
 #. unused?
 msgctxt "#13115"
@@ -5458,22 +5418,22 @@ msgstr "Ĉiam ŝaltita"
 #. unused?
 msgctxt "#13116"
 msgid "Upscaling method"
-msgstr ""
+msgstr "Skalada metodo"
 
 #. unused?
 msgctxt "#13117"
 msgid "Bicubic"
-msgstr ""
+msgstr "Bikuba"
 
 #. unused?
 msgctxt "#13118"
 msgid "Lanczos"
-msgstr ""
+msgstr "Lanczos"
 
 #. unused?
 msgctxt "#13119"
 msgid "Sinc"
-msgstr ""
+msgstr "Sinc"
 
 msgctxt "#13120"
 msgid "VDPAU"
@@ -5487,7 +5447,7 @@ msgstr "Ĉu konservi haŭton?"
 # empty strings from id 13124 to 13129
 msgctxt "#13130"
 msgid "Blank other displays"
-msgstr ""
+msgstr "Mallumigi aliajn ekranojn"
 
 #. unused?
 msgctxt "#13131"
@@ -5497,7 +5457,7 @@ msgstr "Malŝaltita"
 #. unused?
 msgctxt "#13132"
 msgid "Blank displays"
-msgstr ""
+msgstr "Mallumigi ekranojn"
 
 # empty strings from id 13133 to 13139
 msgctxt "#13140"
@@ -5506,26 +5466,24 @@ msgstr "Aktivaj konektoj detektitaj!"
 
 msgctxt "#13141"
 msgid "If you proceed, you might not be able to control this application any longer. Are you sure you want to stop the event server?"
-msgstr ""
+msgstr "Se vi daŭrigos, vi eble ne plu povos kontroli ĉi tiun aplikaĵon. Ĉu vi certas, ke vi volas haltigi la eventan servilon?"
 
 msgctxt "#13159"
 msgid "Subnet mask"
 msgstr "Subreta masko"
 
-#, fuzzy
 msgctxt "#13160"
 msgid "Gateway"
-msgstr "Gateway:"
+msgstr "Kluzo"
 
-#, fuzzy
 msgctxt "#13161"
 msgid "Primary DNS"
-msgstr "DNS"
+msgstr "Ĉefa DNS"
 
 #. unused?
 msgctxt "#13162"
 msgid "Initialise failed"
-msgstr ""
+msgstr "Pravalorizo fiaskis"
 
 msgctxt "#13170"
 msgid "Never"
@@ -5562,13 +5520,12 @@ msgstr "Ĉu forigi profilon '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Ĉu reŝargi profilon '{0:s}'?"
 
 #. used by several skins
-#, fuzzy
 msgctxt "#13204"
 msgid "Last loaded profile:"
-msgstr "Last loaded provico:"
+msgstr "Laste ŝargita profilo:"
 
 #. generic "unknown" label used in different places
 msgctxt "#13205"
@@ -5583,7 +5540,7 @@ msgstr "Anstataŭigi"
 #. Subtitle selection to only use forced subtitles
 msgctxt "#13207"
 msgid "Forced only"
-msgstr ""
+msgstr "Nur devigitaj"
 
 msgctxt "#13208"
 msgid "Alarm clock"
@@ -5615,10 +5572,9 @@ msgctxt "#13214"
 msgid "{0:2.0f}s"
 msgstr "{0:2.0f}s"
 
-#, fuzzy
 msgctxt "#13249"
 msgid "Search for subtitles in RARs"
-msgstr "Search for Subtitles in RARs"
+msgstr "Serĉi por subtekstoj en RAR-oj"
 
 msgctxt "#13250"
 msgid "Browse for subtitle..."
@@ -5626,12 +5582,11 @@ msgstr "Foliumi por subtekstoj..."
 
 msgctxt "#13251"
 msgid "Move item"
-msgstr "Movi eron"
+msgstr "Movi elementon"
 
-#, fuzzy
 msgctxt "#13252"
 msgid "Move item here"
-msgstr "Movi Item Here"
+msgstr "Movi elementon ĉi tien"
 
 msgctxt "#13253"
 msgid "Cancel move"
@@ -5643,7 +5598,7 @@ msgstr "Aparataro:"
 
 msgctxt "#13271"
 msgid "System CPU usage:"
-msgstr ""
+msgstr "Sistema CPU-uzado:"
 
 msgctxt "#13274"
 msgid "Connected, but no DNS is available."
@@ -5681,10 +5636,9 @@ msgctxt "#13283"
 msgid "Operating system:"
 msgstr "Operacia sistemo:"
 
-#, fuzzy
 msgctxt "#13284"
 msgid "CPU speed:"
-msgstr "CPU Speed:"
+msgstr "CPU-rapido:"
 
 msgctxt "#13286"
 msgid "Video encoder:"
@@ -5694,10 +5648,9 @@ msgctxt "#13287"
 msgid "Screen resolution:"
 msgstr "Ekrana distingivo:"
 
-#, fuzzy
 msgctxt "#13292"
 msgid "A/V cable:"
-msgstr "A/V Cable:"
+msgstr "A/V-kablo:"
 
 msgctxt "#13294"
 msgid "DVD region:"
@@ -5728,63 +5681,55 @@ msgctxt "#13300"
 msgid "Fan speed"
 msgstr "Ventumila rapido"
 
-#, fuzzy
 msgctxt "#13301"
 msgid "Auto temperature control"
-msgstr "Auto Temperature Control"
+msgstr "Aŭtomata temperatura regado"
 
 #, fuzzy
 msgctxt "#13302"
 msgid "Fan speed override"
-msgstr "Fan Speed Override"
+msgstr "Override de ventumila rapido"
 
 msgctxt "#13303"
 msgid "Fonts"
 msgstr "Tiparoj"
 
-#, fuzzy
 msgctxt "#13304"
 msgid "Enable flipping bi-directional strings"
-msgstr "Enable Flipping Bi-Directional Strings"
+msgstr "Ebligi inversigon de ambaŭdirektaj ĉenoj"
 
-#, fuzzy
 msgctxt "#13305"
 msgid "Show RSS news feeds"
-msgstr "Enable RSS Feeds"
+msgstr "Montri RRS-novaĵfluojn"
 
-#, fuzzy
 msgctxt "#13306"
 msgid "Show parent folder items"
-msgstr "Hide Parent Folder Items"
+msgstr "Montri elementon de patra dosierujo (..)"
 
-#, fuzzy
 msgctxt "#13307"
 msgid "Track naming template"
-msgstr "Track Naming Template"
+msgstr "Ŝablono de traka nomado"
 
 msgctxt "#13308"
 msgid "Do you wish to reboot your system instead of just this application?"
-msgstr ""
+msgstr "Ĉu vi volas restartigi vian sistemon anstataŭ nur ĉi tiun aplikaĵon?"
 
-#, fuzzy
 msgctxt "#13310"
 msgid "Zoom effect"
-msgstr "Zoom Effect"
+msgstr "Zoma efekto"
 
 #, fuzzy
 msgctxt "#13311"
 msgid "Float effect"
 msgstr "Float Effect"
 
-#, fuzzy
 msgctxt "#13312"
 msgid "Black bar reduction"
-msgstr "Black Bar Reduction"
+msgstr "Redukto de nigraj strioj"
 
-#, fuzzy
 msgctxt "#13313"
 msgid "Restart"
-msgstr "Restarti"
+msgstr "Restartigi"
 
 #, fuzzy
 msgctxt "#13314"
@@ -5795,20 +5740,17 @@ msgctxt "#13315"
 msgid "Regenerate thumbnails"
 msgstr "Regeneri miniaturojn"
 
-#, fuzzy
 msgctxt "#13316"
 msgid "Recursive thumbnails"
-msgstr "Recursive Thumbnails"
+msgstr "Rikuraj miniaturoj"
 
-#, fuzzy
 msgctxt "#13317"
 msgid "View slideshow"
-msgstr "Vido Slideshow"
+msgstr "Vidi bildoprezenton"
 
-#, fuzzy
 msgctxt "#13318"
 msgid "Recursive slideshow"
-msgstr "Recursive Slideshow"
+msgstr "Rikura bildoprezento"
 
 msgctxt "#13319"
 msgid "Randomise"
@@ -5826,19 +5768,17 @@ msgctxt "#13322"
 msgid "Right only"
 msgstr "Nur dekstra"
 
-#, fuzzy
 msgctxt "#13324"
 msgid "Background transparency"
-msgstr "Background Transparency"
+msgstr "Fona travidebleco"
 
-#, fuzzy
 msgctxt "#13325"
 msgid "Foreground transparency"
-msgstr "Foreground Transparency"
+msgstr "Malfona travidebleco"
 
 msgctxt "#13326"
 msgid "A/V delay"
-msgstr "A/V malfruiĝo"
+msgstr "A/V-malfruiĝo"
 
 # empty string with id 13327
 msgctxt "#13328"
@@ -5847,44 +5787,39 @@ msgstr "{0:s} ne trovita"
 
 msgctxt "#13329"
 msgid "Error opening {0:s}"
-msgstr "Eraro malfermante {0:s}"
+msgstr "Eraris malfermante {0:s}"
 
 msgctxt "#13330"
 msgid "Unable to load {0:s}"
-msgstr ""
+msgstr "Ne eblas ŝargi {0:s}"
 
 msgctxt "#13331"
 msgid "Error: Out of memory"
 msgstr "Eraro: Memormanko"
 
-#, fuzzy
 msgctxt "#13332"
 msgid "Move up"
-msgstr "Movi Up"
+msgstr "Movi supren"
 
-#, fuzzy
 msgctxt "#13333"
 msgid "Move down"
-msgstr "Movi Down"
+msgstr "Movi suben"
 
 msgctxt "#13334"
 msgid "Edit label"
 msgstr "Redakti etikedon"
 
-#, fuzzy
 msgctxt "#13335"
 msgid "Make default"
-msgstr "Make Default"
+msgstr "Defaŭltigi"
 
-#, fuzzy
 msgctxt "#13336"
 msgid "Remove button"
-msgstr "ReMovi Button"
+msgstr "Forigi-butono"
 
-#, fuzzy
 msgctxt "#13340"
 msgid "Leave as is"
-msgstr "Leave As Is"
+msgstr "Lasi neŝanĝite"
 
 msgctxt "#13341"
 msgid "Green"
@@ -5898,29 +5833,26 @@ msgctxt "#13343"
 msgid "Red"
 msgstr "Ruĝa"
 
-#, fuzzy
 msgctxt "#13344"
 msgid "Cycle"
-msgstr "Cycle"
+msgstr "Cikla"
 
-#, fuzzy
 msgctxt "#13345"
 msgid "Switch LED off on playback"
-msgstr "Switch LED off on Playback"
+msgstr "Malŝalti LED-on dum ludado"
 
 msgctxt "#13346"
 msgid "Movie information"
 msgstr "Pri filmo"
 
 #. Label for 'queue item' (adds an item to a playlist), used at several places
-#, fuzzy
 msgctxt "#13347"
 msgid "Queue item"
-msgstr "Queue Item"
+msgstr "Envicigi elementon"
 
 msgctxt "#13348"
 msgid "Search IMDb..."
-msgstr "Skani IMDb-on..."
+msgstr "Serĉi ĉe IMDb..."
 
 #. Label for context menu item entries for scanning new items to the video library, e.g. new episodes of a TV show.
 msgctxt "#13349"
@@ -5929,66 +5861,57 @@ msgstr "Serĉi novan enhavon"
 
 msgctxt "#13350"
 msgid "Current playlist"
-msgstr ""
+msgstr "Nuna ludlisto"
 
 msgctxt "#13351"
 msgid "Album information"
 msgstr "Pri albumo"
 
-#, fuzzy
 msgctxt "#13352"
 msgid "Scan item to library"
-msgstr "Akiri eron por biblioteko"
+msgstr "Skani elementon al biblioteko"
 
-#, fuzzy
 msgctxt "#13353"
 msgid "Stop scanning"
-msgstr "Stop Scanning"
+msgstr "Ĉesi skani"
 
-#, fuzzy
 msgctxt "#13354"
 msgid "Render method"
-msgstr "Render Method"
+msgstr "Bildiga metodo"
 
-#, fuzzy
 msgctxt "#13355"
 msgid "Low quality pixel shader"
-msgstr "Low Quality Pixel Shader"
+msgstr "Malaltkvalita bildera ombrigilo"
 
 #, fuzzy
 msgctxt "#13356"
 msgid "Hardware overlays"
 msgstr "Hardware Overlays"
 
-#, fuzzy
 msgctxt "#13357"
 msgid "High quality pixel shader"
-msgstr "High Quality Pixel Shader"
+msgstr "Altkvalita bildera ombrigilo"
 
-#, fuzzy
 msgctxt "#13358"
 msgid "Play item"
-msgstr "Play Item"
+msgstr "Ludi elementon"
 
-#, fuzzy
 msgctxt "#13359"
 msgid "Set artist thumb"
-msgstr "Set Artist Thumb"
+msgstr "Agordi artistan miniaturon"
 
-#, fuzzy
 msgctxt "#13360"
 msgid "Automatically generate thumbnails"
-msgstr "Generate Thumbs"
+msgstr "Aŭtomate generi miniaturojn"
 
-#, fuzzy
 msgctxt "#13361"
 msgid "Enable voice"
-msgstr "Enable Voice"
+msgstr "Ebligi voĉon"
 
 #. label for resume context menu item for video folders (like a TV show or a single season of a TV show)
 msgctxt "#13362"
 msgid "Continue watching"
-msgstr ""
+msgstr "Daŭre spekti"
 
 msgctxt "#13375"
 msgid "Enable device"
@@ -5998,20 +5921,17 @@ msgctxt "#13376"
 msgid "Volume"
 msgstr "Laŭteco"
 
-#, fuzzy
 msgctxt "#13377"
 msgid "Default view mode"
-msgstr "Default Vido Mode"
+msgstr "Defaŭlta vida reĝimo"
 
-#, fuzzy
 msgctxt "#13378"
 msgid "Default brightness"
-msgstr "Default Brightness"
+msgstr "Defaŭlta lumeco"
 
-#, fuzzy
 msgctxt "#13379"
 msgid "Default contrast"
-msgstr "Default Contrast"
+msgstr "Defaŭlta kontrasto"
 
 #, fuzzy
 msgctxt "#13380"
@@ -6022,25 +5942,21 @@ msgctxt "#13381"
 msgid "Resume video"
 msgstr "Daŭrigi videaĵon"
 
-#, fuzzy
 msgctxt "#13382"
 msgid "Voice mask - Port 1"
-msgstr "Voice Mpeti - Port 1"
+msgstr "Voĉa masko - Pordo 1"
 
-#, fuzzy
 msgctxt "#13383"
 msgid "Voice mask - Port 2"
-msgstr "Voice Mpeti - Port 2"
+msgstr "Voĉa masko - Pordo 2"
 
-#, fuzzy
 msgctxt "#13384"
 msgid "Voice mask - Port 3"
-msgstr "Voice Mpeti - Port 3"
+msgstr "Voĉa masko - Pordo 3"
 
-#, fuzzy
 msgctxt "#13385"
 msgid "Voice mask - Port 4"
-msgstr "Voice Mpeti - Port 4"
+msgstr "Voĉa masko - Pordo 4"
 
 #, fuzzy
 msgctxt "#13386"
@@ -6048,15 +5964,13 @@ msgid "Use time based seeking"
 msgstr "Use Time Based Seeking"
 
 #. unused?
-#, fuzzy
 msgctxt "#13387"
 msgid "Track naming template - right"
-msgstr "Track Naming Template Right"
+msgstr "Nomada ŝablono de trako - dekstre"
 
-#, fuzzy
 msgctxt "#13388"
 msgid "Preset"
-msgstr "Presets"
+msgstr "Antaŭagordoj"
 
 msgctxt "#13389"
 msgid "There are no presets available for this visualisation"
@@ -6074,15 +5988,13 @@ msgctxt "#13392"
 msgid "Stream selection"
 msgstr "Elekto de fluo"
 
-#, fuzzy
 msgctxt "#13393"
 msgid "Calculate size"
-msgstr "Calculate amplekso"
+msgstr "Kalkuli grandon"
 
-#, fuzzy
 msgctxt "#13394"
 msgid "Calculating folder size"
-msgstr "Calculating folder amplekso"
+msgstr "Kalkulado de dosieruja grando"
 
 msgctxt "#13395"
 msgid "Video settings"
@@ -6090,20 +6002,19 @@ msgstr "Videaj agordoj"
 
 msgctxt "#13396"
 msgid "Audio settings"
-msgstr "Aŭdiaj agordoj"
+msgstr "Sonaj agordoj"
 
 msgctxt "#13397"
 msgid "Enable subtitles"
 msgstr "Ŝalti subtekstojn"
 
-#, fuzzy
 msgctxt "#13398"
 msgid "Shortcuts"
-msgstr "Bookmarks"
+msgstr "Ŝparvojoj"
 
 msgctxt "#13399"
 msgid "Ignore articles when sorting"
-msgstr ""
+msgstr "Ignori artikolojn dum ordigado"
 
 #, fuzzy
 msgctxt "#13400"
@@ -6114,10 +6025,9 @@ msgctxt "#13401"
 msgid "Browse for {0:s}"
 msgstr "Foliumi por {0:s}"
 
-#, fuzzy
 msgctxt "#13402"
 msgid "Show track position"
-msgstr "Show track position"
+msgstr "Montri pozicion de kanto"
 
 #, fuzzy
 msgctxt "#13403"
@@ -6125,15 +6035,13 @@ msgid "Clear default"
 msgstr "Clear Default"
 
 #. Button label used in play disc ask resume dialog
-#, fuzzy
 msgctxt "#13404"
 msgid "Resume"
-msgstr "Resume"
+msgstr "Daŭrigi"
 
-#, fuzzy
 msgctxt "#13405"
 msgid "Get thumb"
-msgstr "Get Thumb"
+msgstr "Havigi miniaturon"
 
 msgctxt "#13406"
 msgid "Picture information"
@@ -6141,11 +6049,11 @@ msgstr "Pri bildo"
 
 msgctxt "#13407"
 msgid "{0:s} presets"
-msgstr ""
+msgstr "{0:s} antaŭagordoj"
 
 msgctxt "#13408"
 msgid "(IMDb user rating)"
-msgstr ""
+msgstr "(pritakso de IMDb-uzantoj)"
 
 msgctxt "#13409"
 msgid "Top 250"
@@ -6157,30 +6065,29 @@ msgstr ""
 
 msgctxt "#13411"
 msgid "Minimum fan speed"
-msgstr ""
+msgstr "Minimuma ventumila rapido"
 
 msgctxt "#13412"
 msgid "Play from here"
-msgstr ""
+msgstr "Ludi de ĉi tie"
 
 msgctxt "#13413"
 msgid "Downloading"
-msgstr "Elŝutas"
+msgstr "Elŝutado"
 
 msgctxt "#13414"
 msgid "Show song and album artists"
 msgstr "Montri artistojn de kantoj kaj albumoj"
 
-#, fuzzy
 msgctxt "#13415"
 msgid "Render method"
-msgstr "Render Method"
+msgstr "Bildiga metodo"
 
 #. Value for setting with label #13415 "Player / Videos / Render method"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
 msgctxt "#13416"
 msgid "Auto detect"
-msgstr ""
+msgstr "Aŭtomate detekti"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
@@ -6189,16 +6096,16 @@ msgstr ""
 #. Setting Player / Video
 msgctxt "#13418"
 msgid "Use high precision processing"
-msgstr ""
+msgstr "Uzi altprecizan traktadon"
 
 # empty strings from id 13417 to 13418
 msgctxt "#13419"
 msgid "Software"
-msgstr ""
+msgstr "Programara"
 
 msgctxt "#13420"
 msgid "Remove safely"
-msgstr ""
+msgstr "Forigi sendanĝere"
 
 msgctxt "#13421"
 msgid "VDPAU"
@@ -6206,11 +6113,11 @@ msgstr "VDPAU"
 
 msgctxt "#13422"
 msgid "Start slideshow here"
-msgstr ""
+msgstr "Komenci bildoprezenton ĉi tie"
 
 msgctxt "#13423"
 msgid "Remember for this path"
-msgstr ""
+msgstr "Memori por ĉi tiu vojo"
 
 #. Shown on context menu when a bluray:// or dvd:// playlist has already been saved
 #. Giving the user a chance to select a new one via the simple menu dialog
@@ -6221,31 +6128,31 @@ msgstr "Elekti ludliston"
 # empty string with id 13424
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - VDPAU"
 
 msgctxt "#13426"
 msgid "Allow hardware acceleration - VAAPI"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - VAAPI"
 
 msgctxt "#13427"
 msgid "Allow hardware acceleration - DXVA2"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - DXVA2"
 
 msgctxt "#13429"
 msgid "Allow hardware acceleration - VTBDecoder"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - VTBDecoder"
 
 msgctxt "#13430"
 msgid "Allow using DRM PRIME decoder"
-msgstr ""
+msgstr "Permesi uzi malkodilon DRM PRIME"
 
 msgctxt "#13431"
 msgid "Pixel shaders"
-msgstr ""
+msgstr "Bilderaj ombrigiloj"
 
 msgctxt "#13432"
 msgid "Allow hardware acceleration - VideoToolbox"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - VideoToolbox"
 
 msgctxt "#13433"
 msgid "Play next video automatically"
@@ -6258,76 +6165,76 @@ msgstr "Ludi nur ĉi tiun"
 
 msgctxt "#13435"
 msgid "Enable HQ scalers for scaling above"
-msgstr ""
+msgstr "Ebligi al HQ-skaliloj skali supere"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
-msgstr ""
+msgstr "Ĝustigi montradon de HDR-reĝimo"
 
 msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
-msgstr ""
+msgstr "Preferi videan miksilon VDPAU"
 
 msgctxt "#13438"
 msgid "Allow hardware acceleration with DRM PRIME"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon per DRM PRIME"
 
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - MediaCodec"
 
 msgctxt "#13440"
 msgid "Allow hardware acceleration - MediaCodec (Surface)"
-msgstr ""
+msgstr "Permesi aparataran plirapidigon - MediaCodec (Surface)"
 
 msgctxt "#13441"
 msgid "Use MPEG-2 VDPAU"
-msgstr ""
+msgstr "Uzi MPEG-2 VDPAU"
 
 #. Description of setting with label #13441 "Use MPEG-2 VDPAU"
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por MPEG-(1 / 2)-kodekoj. Se malŝaltita la CPU estos uzata anstataŭe. Pli malnovaj Radeon-kartoj emas segment-erari, kiam tio ĉi estas ŝaltita."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
-msgstr ""
+msgstr "Uzi MPEG-4 VDPAU"
 
 #. Description of setting with label #13443 "Use MPEG-4 VDPAU"
 msgctxt "#13444"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead. Some ION hardware has problems with this being enabled by default."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la MPEG-4-kodeko. Se malŝaltita la CPU estos uzata anstataŭe. Kelkaj ION-aparataroj havas problemoj, kiam tio ĉi estas ŝaltita kiel defaŭlto."
 
 msgctxt "#13445"
 msgid "Use VC-1 VDPAU"
-msgstr ""
+msgstr "Uzi VC-1 VDPAU"
 
 #. Description of setting with label #13445 "Use VC-1 VDPAU"
 msgctxt "#13446"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. AMD hardware with VDPAU can't decode VC-1 Simple."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por VC-1-bazitaj kodekoj. Se malŝaltita la CPU estos uzata anstataŭe. AMD aparataro kun VDPAU ne eblas malkodi VC-1 Simple."
 
 msgctxt "#13447"
 msgid "Use MPEG-2 VAAPI"
-msgstr ""
+msgstr "Uzi MPEG-2 VAAPI"
 
 #. Description of setting with label #13447 "Use MPEG-2 VAAPI"
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por MPEG-(1 / 2)-kodekoj. Se malŝaltita la CPU estos uzata anstataŭe. Kelkaj MPEG-2-videaĵoj eble havos verdajn"
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
-msgstr ""
+msgstr "Uzi MPEG-4 VAAPI"
 
 #. Description of setting with label #13449 "Use MPEG-4 VAAPI"
 msgctxt "#13450"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la MPEG-4-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 msgctxt "#13451"
 msgid "Use VC-1 VAAPI"
-msgstr ""
+msgstr "Uzi VC-1 VAAPI"
 
 #. Description of setting with label #13451 "Use VC-1 VAAPI"
 msgctxt "#13452"
@@ -6336,61 +6243,61 @@ msgstr ""
 
 msgctxt "#13453"
 msgid "Use VP8 VAAPI"
-msgstr ""
+msgstr "Uzi VP8 VAAPI"
 
 #. Description of setting with label #13453 "Use VP8 VAAPI"
 msgctxt "#13454"
 msgid "Enable this option to use hardware acceleration for the VP8 codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la VP8-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 msgctxt "#13455"
 msgid "Use VP9 VAAPI"
-msgstr ""
+msgstr "Uzi VP9 VAAPI"
 
 #. Description of setting with label #13453 "Use VP9 VAAPI"
 msgctxt "#13456"
 msgid "Enable this option to use hardware acceleration for the VP9 codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la VP9-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 #. Option for video related setting #13454: sw filter
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
-msgstr ""
+msgstr "Preferi bildigan metodon VAAPI"
 
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Uzi malkodilan filtrilon"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Ŝalti/malŝalti la filtrilon kiu blokas certajn programajn malkodilojn de Android. Tiu filtrilo konfigureblas per la dosiero [userdata]/decoderfilter.xml."
 
 # empty strings from id 13458 to 13459
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
-msgstr ""
+msgstr "Uzi HEVC VAAPI"
 
 #. Description of setting with label #13460 "Use HEVC VAAPI"
 msgctxt "#13461"
 msgid "Enable this option to use hardware acceleration for the HEVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la HEVC-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 #. Option for setting the PRIME render method
 msgctxt "#13462"
 msgid "PRIME Render Method"
-msgstr ""
+msgstr "Bildiga metodo PRIME"
 
 #. Description of setting with label #13462 "PRIME Render Method"
 msgctxt "#13463"
 msgid "This option switches between direct-to-plane and EGL rendering methods."
-msgstr ""
+msgstr "La opcio baskulas inter bildigaj metodoj Direct To Plane kaj EGL."
 
 #. String for options 1 of setting with label #13462 "PRIME Render Method"
 msgctxt "#13464"
 msgid "Direct To Plane"
-msgstr ""
+msgstr "Direct To Plane"
 
 #. String for options 2 of setting with label #13462 "PRIME Render Method"
 msgctxt "#13465"
@@ -6407,21 +6314,21 @@ msgstr "Mallimigita / 1080 (>30Hz)"
 
 msgctxt "#13468"
 msgid "Use AV1 VAAPI"
-msgstr ""
+msgstr "Uzi AV1 VAAPI"
 
 #. Description of setting with label #13468 "Use AV1 VAAPI"
 msgctxt "#13469"
 msgid "Enable this option to use hardware acceleration for the AV1 codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la AV1-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Uzi AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Ŝalti ĉi tiun opcion por uzi aparataran plirapidigon por la AVC-kodeko. Se malŝaltita la CPU estos uzata anstataŭe."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
@@ -6448,31 +6355,30 @@ msgid "16 bit per channel"
 msgstr "Po 16-bitoj kanale"
 
 # empty strings from id 13468 to 13504
+#, fuzzy
 msgctxt "#13505"
 msgid "Resample quality"
-msgstr ""
+msgstr "Respecimena kvalito"
 
 msgctxt "#13506"
 msgid "Low (fast)"
-msgstr ""
+msgstr "Malalta (rapida)"
 
-#, fuzzy
 msgctxt "#13507"
 msgid "Medium"
-msgstr "Medium"
+msgstr "Mezalta"
 
-#, fuzzy
 msgctxt "#13508"
 msgid "High"
-msgstr "Nobla"
+msgstr "Alta"
 
 msgctxt "#13509"
 msgid "Really high (slow)"
-msgstr ""
+msgstr "Vere alta (malrapida)"
 
 msgctxt "#13510"
 msgid "Sync playback to display"
-msgstr ""
+msgstr "Sinkronigi ludadon al ekrano"
 
 msgctxt "#13511"
 msgid "Choose art"
@@ -6484,7 +6390,7 @@ msgstr "Nuna grafikaĵo"
 
 msgctxt "#13513"
 msgid "Remote art"
-msgstr ""
+msgstr "Fora grafikaĵo"
 
 msgctxt "#13514"
 msgid "Local art"
@@ -6497,11 +6403,12 @@ msgstr "Sen grafikaĵo"
 #. Button to add a new type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13516"
 msgid "Add art type"
-msgstr ""
+msgstr "Aldoni grafikaĵan tipon"
 
+#, fuzzy
 msgctxt "#13517"
 msgid "Threshold for pitch correction"
-msgstr ""
+msgstr "Sojlo de"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
@@ -6509,7 +6416,7 @@ msgstr ""
 
 msgctxt "#13519"
 msgid "Embedded art"
-msgstr ""
+msgstr "Enkorpigita grafikaĵo"
 
 msgctxt "#13520"
 msgid "Embedded fanart"
@@ -6518,22 +6425,23 @@ msgstr ""
 #. Heading for selection of a type of art e.g. "thumb", "poster", "fanart" etc.
 msgctxt "#13521"
 msgid "Choose art type"
-msgstr ""
+msgstr "Elektu grafikaĵan tipon"
 
 #. label of a setting that allows splitting of albums into component discs
 msgctxt "#13522"
 msgid "Split albums into individual discs"
-msgstr ""
+msgstr "Dividi albumojn en apartajn diskojn"
 
 #. Description of setting with label #13522 "Split albums into individual discs"
 msgctxt "#13523"
 msgid "When enabled, opening a multi-disc album shows the discs as individual items instead of all the songs. Opening a disc then shows the songs on that disc."
-msgstr ""
+msgstr "Kiam ŝaltita, malfermo de plur-diska albumo montras la diskojn kiel apartaj elementoj anstataŭ ĉiuj kantoj. Tiam malfermo de disko montras la kantojn sur tiu disko."
 
 #. Label of a setting that allows original release dates to be used instead of album release date
+#, fuzzy
 msgctxt "#13524"
 msgid "Use original release date of albums for year"
-msgstr ""
+msgstr "Uzi originan eldonan daton de albumoj por jaro"
 
 #. Description of setting with label #13524
 msgctxt "#13525"
@@ -6543,12 +6451,11 @@ msgstr ""
 # empty strings from id 13526 to 13549
 msgctxt "#13550"
 msgid "Delay after change of refresh rate"
-msgstr ""
+msgstr "Prokrasto post ŝanĝo de aktualiga ofteco"
 
-#, fuzzy
 msgctxt "#13551"
 msgid "Off"
-msgstr "Off"
+msgstr "Malŝaltita"
 
 msgctxt "#13552"
 msgid "{0:.1f} second"
@@ -6569,49 +6476,44 @@ msgstr "{0:d} Minutoj"
 #. Label of a setting that allows to select the skip step sizes to use for skipping
 msgctxt "#13556"
 msgid "Skip steps"
-msgstr ""
+msgstr "Preterpasaj paŝoj"
 
 #. Name of a setting to configure the time to wait for subsequent keypresses in order to apply additive skipping
 msgctxt "#13557"
 msgid "Skip delay"
-msgstr ""
+msgstr "Preterpasa prokrasto"
 
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
 
-#, fuzzy
 msgctxt "#14000"
 msgid "Stack"
-msgstr "Stack"
+msgstr "Staki"
 
-#, fuzzy
 msgctxt "#14001"
 msgid "Unstack"
-msgstr "Unstack"
+msgstr "Malstaki"
 
 msgctxt "#14003"
 msgid "Downloading playlist file..."
-msgstr "Elŝutas ludlistan dosieron..."
+msgstr "Elŝutado de ludlista dosiero..."
 
-#, fuzzy
 msgctxt "#14004"
 msgid "Downloading streams list..."
-msgstr "Downloading streams list..."
+msgstr "Elŝutado de elsendflua listo..."
 
-#, fuzzy
 msgctxt "#14005"
 msgid "Parsing streams list..."
-msgstr "Parsing streams list..."
+msgstr "Analizado de elsendflua listo..."
 
-#, fuzzy
 msgctxt "#14006"
 msgid "Downloading streams list failed"
-msgstr "Downloading streams list failed"
+msgstr "Elŝutado de elsendflua listo masukcesis"
 
 msgctxt "#14007"
 msgid "Downloading playlist file failed"
-msgstr "Malsukcesis elŝutante ludlistan dosieron"
+msgstr "Elŝutado de ludlista dosiero malsukcesis"
 
 msgctxt "#14009"
 msgid "Games directory"
@@ -6620,7 +6522,7 @@ msgstr "Luda dosierujo"
 #, fuzzy
 msgctxt "#14010"
 msgid "Auto switch to thumbs based on"
-msgstr "Autoswitch to Thumbs based on"
+msgstr "Aŭtomate ŝanĝi al miniaturoj se"
 
 #, fuzzy
 msgctxt "#14011"
@@ -6640,39 +6542,33 @@ msgctxt "#14014"
 msgid "- Percentage"
 msgstr "- Elcento"
 
-#, fuzzy
 msgctxt "#14015"
 msgid "No files and at least one thumb"
-msgstr "Sen dosieroj kaj almenaŭ unu antaŭvidbildeto"
+msgstr "Sen dosieroj kaj almenaŭ unu miniaturo"
 
-#, fuzzy
 msgctxt "#14016"
 msgid "At least one file and thumb"
-msgstr "At least one vico and Thumb"
+msgstr "Almenaŭ unu dosiero kaj miniaturo"
 
-#, fuzzy
 msgctxt "#14017"
 msgid "Percentage of thumbs"
-msgstr "Percentage of Thumbs"
+msgstr "Elcento de miniaturoj"
 
 msgctxt "#14018"
 msgid "View options"
 msgstr "Vidaj opcioj"
 
-#, fuzzy
 msgctxt "#14019"
 msgid "Change area code 1"
-msgstr "Change Area Code 1"
+msgstr "Ŝanĝi regionkodon 1"
 
-#, fuzzy
 msgctxt "#14020"
 msgid "Change area code 2"
-msgstr "Change Area Code 2"
+msgstr "Ŝanĝi regionkodon 2"
 
-#, fuzzy
 msgctxt "#14021"
 msgid "Change area code 3"
-msgstr "Change Area Code 3"
+msgstr "Ŝanĝi regionkodon 3"
 
 msgctxt "#14022"
 msgid "Library"
@@ -6682,45 +6578,41 @@ msgctxt "#14023"
 msgid "No TV"
 msgstr "Sen TV"
 
-#, fuzzy
 msgctxt "#14024"
 msgid "Enter the nearest large town"
-msgstr "tajpi la nearest large town or US ZIP code"
+msgstr "Entajpu la plej proksiman grandan urbon"
 
 msgctxt "#14025"
 msgid "Video/Audio/DVD cache - Hard disk"
-msgstr ""
+msgstr "Videa/Sona/DVD-a kaŝmemoro - fiksita disko"
 
-#, fuzzy
 msgctxt "#14026"
 msgid "Video cache - DVD-ROM"
-msgstr "Video-kaŝujo - DVD-ROM"
+msgstr "Videa kaŝmemoro - DVD-ROM"
 
 msgctxt "#14027"
 msgid "Video cache - Local network"
-msgstr ""
+msgstr "Videa kaŝmemoro - Loka reto"
 
 msgctxt "#14028"
 msgid "Video cache - Internet"
-msgstr ""
+msgstr "Videa kaŝmemoro - Interreto"
 
-#, fuzzy
 msgctxt "#14030"
 msgid "Audio cache - DVD-ROM"
-msgstr "Audio Cache - DVDRom"
+msgstr "Sona kaŝmemoro - DVD-ROM"
 
 msgctxt "#14031"
 msgid "Audio cache - Local network"
-msgstr ""
+msgstr "Sona kaŝmemoro - Loka reto"
 
 msgctxt "#14032"
 msgid "Audio cache - Internet"
-msgstr ""
+msgstr "Sona kaŝmemoro - Interreto"
 
-#, fuzzy
 msgctxt "#14034"
 msgid "DVD cache - DVD-ROM"
-msgstr "DVD Cache - DVDRom"
+msgstr "DVD-kaŝmemoro - DVD-ROM"
 
 msgctxt "#14035"
 msgid "Local network"
@@ -6732,7 +6624,7 @@ msgstr "Servoj"
 
 msgctxt "#14037"
 msgid "DVD cache - Local network"
-msgstr ""
+msgstr "DVD-kaŝmemoro - Loka reto"
 
 msgctxt "#14038"
 msgid "Network settings changed"
@@ -6740,17 +6632,15 @@ msgstr "Retaj agordoj ŝanĝitaj"
 
 msgctxt "#14039"
 msgid "A restart is required to change your network setup. Would you like to restart now?"
-msgstr ""
+msgstr "Restartigo estas bezonata por ŝanĝi viajn retajn agordojn. Ĉu vi volas restartigi nun?"
 
-#, fuzzy
 msgctxt "#14041"
 msgid "Internet connection bandwidth limitation"
-msgstr "Post Processing"
+msgstr "Kapacita limigado de interreta konekto"
 
-#, fuzzy
 msgctxt "#14043"
 msgid "- Shutdown while playing"
-msgstr "- Shutdown while playing"
+msgstr "- Elŝalti dum ludado"
 
 msgctxt "#14044"
 msgid "{0:d} min"
@@ -6788,51 +6678,46 @@ msgctxt "#14052"
 msgid "Date format"
 msgstr "Data formo"
 
-#, fuzzy
 msgctxt "#14053"
 msgid "GUI filters"
-msgstr "GUI Filters"
+msgstr "GUI-filtriloj"
 
 msgctxt "#14054"
 msgid "{0:2.1f} dB"
 msgstr "{0:2.1f} dB"
 
-#, fuzzy
 msgctxt "#14055"
 msgid "Use background scanning"
-msgstr "Use Background Scanning"
+msgstr "Uzi fonan skanadon"
 
-#, fuzzy
 msgctxt "#14056"
 msgid "Stop scan"
-msgstr "Stop Scan"
+msgstr "Ĉesi skani"
 
 msgctxt "#14057"
 msgid "Not possible while scanning for media information"
-msgstr ""
+msgstr "Neebla dum skanado por aŭdvidaĵaj informoj"
 
 #, fuzzy
 msgctxt "#14058"
 msgid "Film grain effect"
 msgstr "Film Grain Effect"
 
-#, fuzzy
 msgctxt "#14059"
 msgid "Search for thumbnails on remote shares"
-msgstr "Look for custom thumbnails on remote shares"
+msgstr "Serĉi miniaturojn en foraj komunaj dosierujoj"
 
-#, fuzzy
 msgctxt "#14060"
 msgid "Unknown type cache - Internet"
-msgstr "Unknown type Cache - Internet"
+msgstr "Kaŝmemoro de nekonata tipo - Interreto"
 
 msgctxt "#14062"
 msgid "Enter username for"
-msgstr "Entajpu uzantnomon por"
+msgstr "Entajpu uzantnomon de"
 
 msgctxt "#14063"
 msgid "Date & time"
-msgstr "Dato & horo"
+msgstr "Dato kaj horo"
 
 msgctxt "#14064"
 msgid "Set date"
@@ -6844,11 +6729,11 @@ msgstr "Agordi horon"
 
 msgctxt "#14066"
 msgid "Enter the time in 24-hour HH:MM format"
-msgstr "Entajpu la horon per 24-hora formato HH:MM"
+msgstr "Entajpu la horon en 24-hora formo HH:MM"
 
 msgctxt "#14067"
 msgid "Enter the date in DD/MM/YYYY format"
-msgstr "Entajpu la daton per formato TT/MM/JJJJ"
+msgstr "Entajpu la daton en formo TT/MM/JJJJ"
 
 msgctxt "#14068"
 msgid "Enter the IP address"
@@ -6873,7 +6758,7 @@ msgstr "Agordi horzonon"
 
 msgctxt "#14075"
 msgid "Use daylight saving time"
-msgstr ""
+msgstr "Uzi someran tempon"
 
 msgctxt "#14076"
 msgid "Add to favourites"
@@ -6898,7 +6783,7 @@ msgstr "Uzi plenekranan fenestron"
 
 msgctxt "#14084"
 msgid "Queue songs on selection"
-msgstr ""
+msgstr "Envicigi kantojn post elekto"
 
 # empty string with id 14085
 msgctxt "#14086"
@@ -6920,7 +6805,7 @@ msgstr "Tiparo"
 
 msgctxt "#14090"
 msgid "International"
-msgstr ""
+msgstr "Internacia"
 
 msgctxt "#14091"
 msgid "Character set"
@@ -6940,16 +6825,15 @@ msgstr "Aparatoj"
 
 msgctxt "#14095"
 msgid "Power saving"
-msgstr ""
+msgstr "Energiŝparo"
 
-#, fuzzy
 msgctxt "#14096"
 msgid "Rip"
-msgstr "Ĵaŭ"
+msgstr "Ekstrakti"
 
 msgctxt "#14097"
 msgid "Audio CD insert action"
-msgstr ""
+msgstr "Ago post enŝovo de sona KD-o"
 
 msgctxt "#14098"
 msgid "Play"
@@ -6957,16 +6841,16 @@ msgstr "Ludi"
 
 msgctxt "#14099"
 msgid "Eject disc when the CD ripping is complete"
-msgstr ""
+msgstr "Elĵeti diskon post kiam la KD-ekstrakto estas finita"
 
 msgctxt "#14100"
 msgid "Stop ripping CD"
-msgstr ""
+msgstr "Ĉesi KD-ekstrakti"
 
 #. Name of a settings category related to video playback
 msgctxt "#14101"
 msgid "Processing"
-msgstr ""
+msgstr "Traktado"
 
 #. Name of a setting for Blu-ray playback mode
 msgctxt "#14102"
@@ -6981,11 +6865,11 @@ msgstr "Ludi ĉefan filmon"
 #. Playback mode option for Blu-ray
 msgctxt "#14104"
 msgid "Show simplified menu"
-msgstr ""
+msgstr "Montri faciligitan menuon"
 
 msgctxt "#14105"
 msgid "Temperature unit"
-msgstr "Temperaturo unuo"
+msgstr "Temperatura unuo"
 
 msgctxt "#14106"
 msgid "Speed unit"
@@ -7019,7 +6903,7 @@ msgstr "Ŝalti eventan protokoladon"
 #. Label of setting to enable/disable event logging for notifications
 msgctxt "#14113"
 msgid "Enable notification event logging"
-msgstr ""
+msgstr "Ŝalti protokoladon de sciigaj eventoj"
 
 #. Label of setting to go into the event log window
 msgctxt "#14114"
@@ -7034,17 +6918,17 @@ msgstr "Baza"
 #. Label for the "Information" event level
 msgctxt "#14116"
 msgid "Information"
-msgstr "Informoj"
+msgstr "Informo"
 
 #. Label for the "Warning" event level
 msgctxt "#14117"
 msgid "Warning"
-msgstr "Avertoj"
+msgstr "Averto"
 
 #. Label for the "Error" event level
 msgctxt "#14118"
 msgid "Error"
-msgstr "Eraroj"
+msgstr "Eraro"
 
 #. Label to show the currently active/displayed event level in the event log window
 msgctxt "#14119"
@@ -7091,7 +6975,7 @@ msgstr ""
 
 msgctxt "#14128"
 msgid "Allow double refresh rates"
-msgstr ""
+msgstr "Permesi duoblajn aktualigajn oftecojn"
 
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
@@ -7100,7 +6984,7 @@ msgstr "Altnivelaj"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Ludilaj sonaj/videaĵaj vicoj"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7120,19 +7004,19 @@ msgstr "Bibliotekaj agordoj"
 
 msgctxt "#14204"
 msgid "PVR & Live TV"
-msgstr ""
+msgstr "PVR kaj televido"
 
 msgctxt "#14205"
 msgid "PVR & Live TV settings"
-msgstr ""
+msgstr "Agordoj de PVR kaj televido"
 
 msgctxt "#14206"
 msgid "Interface"
-msgstr ""
+msgstr "Interfaco"
 
 msgctxt "#14207"
 msgid "Interface settings"
-msgstr ""
+msgstr "Interfacaj agordoj"
 
 msgctxt "#14208"
 msgid "Service settings"
@@ -7144,15 +7028,15 @@ msgstr "Sistemaj agordoj"
 
 msgctxt "#14210"
 msgid "Profile settings"
-msgstr ""
+msgstr "Profilaj agordoj"
 
 msgctxt "#14211"
 msgid "Media"
-msgstr "Plurmedioj"
+msgstr "Aŭdvidaĵoj"
 
 msgctxt "#14212"
 msgid "Media settings"
-msgstr "Plurmediaj agordoj"
+msgstr "Aŭdvidaĵaj agordoj"
 
 msgctxt "#14215"
 msgid "Videos"
@@ -7180,11 +7064,11 @@ msgstr "Ekrano"
 
 msgctxt "#14221"
 msgid "Audio"
-msgstr "Aŭdio"
+msgstr "Sono"
 
 msgctxt "#14222"
 msgid "Regional"
-msgstr ""
+msgstr "Regiona"
 
 msgctxt "#14223"
 msgid "Control"
@@ -7192,7 +7076,7 @@ msgstr "Regiloj"
 
 msgctxt "#14224"
 msgid "Startup"
-msgstr ""
+msgstr "Startigo"
 
 msgctxt "#14225"
 msgid "Network Control"
@@ -7200,11 +7084,11 @@ msgstr "Retaj regiloj"
 
 msgctxt "#14226"
 msgid "Manage Sources"
-msgstr ""
+msgstr "Administri fontojn"
 
 msgctxt "#14227"
 msgid "Startup Settings"
-msgstr ""
+msgstr "Startigaj agordoj"
 
 # empty strings from id 14228 to 14229
 msgctxt "#14230"
@@ -7213,7 +7097,7 @@ msgstr "Agoj"
 
 msgctxt "#14231"
 msgid "Processing"
-msgstr ""
+msgstr "Traktado"
 
 msgctxt "#14232"
 msgid "Stereoscopic 3D"
@@ -7225,11 +7109,11 @@ msgstr "Teleteksto"
 
 msgctxt "#14234"
 msgid "Blu-ray"
-msgstr ""
+msgstr "Blu-radio"
 
 msgctxt "#14235"
 msgid "Download Services"
-msgstr ""
+msgstr "Elŝutaj servoj"
 
 msgctxt "#14236"
 msgid "Video Library"
@@ -7242,7 +7126,7 @@ msgstr "Muzika biblioteko"
 # empty strings from id 14238 to 14239
 msgctxt "#14240"
 msgid "Lists & Views"
-msgstr "Listoj & Vidoj"
+msgstr "Listoj kaj vidoj"
 
 msgctxt "#14241"
 msgid "Metadata"
@@ -7274,29 +7158,29 @@ msgstr "Klarigi bibliotekon"
 
 msgctxt "#14248"
 msgid "Export library"
-msgstr "Elporti bibliotekon"
+msgstr "Eksporti bibliotekon"
 
 msgctxt "#14249"
 msgid "Import library"
-msgstr "Enporti bibliotekon"
+msgstr "Importi bibliotekon"
 
 msgctxt "#14250"
 msgid "Audio Decoder"
-msgstr "Aŭdia malkodilo"
+msgstr "Sona malkodilo"
 
 # empty string with id 14251
 msgctxt "#14252"
 msgid "Audio Passthrough"
-msgstr ""
+msgstr "Sona trapaso"
 
 # empty strings from id 14253 to 14254
 msgctxt "#14255"
 msgid "Sleep / Shutdown"
-msgstr ""
+msgstr "Dormeto / Sistemfermo"
 
 msgctxt "#14256"
 msgid "Wake"
-msgstr ""
+msgstr "Veko"
 
 # empty strings from id 14257 to 14259
 msgctxt "#14260"
@@ -7314,33 +7198,33 @@ msgstr "Unuo-formoj"
 
 msgctxt "#14271"
 msgid "Region default format"
-msgstr ""
+msgstr "Defaŭlta formo de regiono"
 
 # empty strings from id 14272 to 14274
 msgctxt "#14275"
 msgid "Application control"
-msgstr ""
+msgstr "Aplikaĵa regado"
 
 msgctxt "#14276"
 msgid "Allow remote control from applications on this system"
-msgstr ""
+msgstr "Permesi teleregon de programoj en ĉi tiu sistemo"
 
 msgctxt "#14277"
 msgid "Allow remote control from applications on other systems"
-msgstr ""
+msgstr "Permesi teleregon de programoj en aliaj sistemo"
 
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Funkcitenado"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Purigi bildan kaŝmemoron"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Tuje forigi neuzatajn bildojn el la kaŝmemoro - bildoj ne ligitaj kun elemento en la aŭdvidaĵa biblioteko nek viditaj lastatempe. Kodi faradas tion foje en la fono."
 
 # empty strings from id 14278 to 14300
 #. pvr "channels" settings group label
@@ -7361,12 +7245,12 @@ msgstr "Ĝisdatigoj"
 #. pvr "RDS" settings group label
 msgctxt "#14304"
 msgid "RDS Radio"
-msgstr ""
+msgstr "RDS-radio"
 
 # empty strings from id 14305 to 15010
 msgctxt "#15011"
 msgid "{0:d} Items failed to export"
-msgstr ""
+msgstr "{0:d} elementoj malsukcesis eksporti"
 
 msgctxt "#15012"
 msgid "Unavailable source"
@@ -7374,11 +7258,11 @@ msgstr "Nedisponebla fonto"
 
 msgctxt "#15013"
 msgid "What would you like to do with media items from {0:s}"
-msgstr ""
+msgstr "Kion vi volas fari kun aŭdvidaĵaj elementoj de {0:s}"
 
 msgctxt "#15014"
 msgid "Keep"
-msgstr ""
+msgstr "Konservi"
 
 msgctxt "#15015"
 msgid "Remove"
@@ -7411,7 +7295,7 @@ msgstr "Pasvorto"
 #. Button to disable all enabled modes on current selected type
 msgctxt "#15066"
 msgid "Clear active modes"
-msgstr ""
+msgstr "Viŝi aktivaj reĝimoj"
 
 msgctxt "#15067"
 msgid "Close"
@@ -7445,23 +7329,21 @@ msgctxt "#15106"
 msgid "Skin built-in"
 msgstr ""
 
-#, fuzzy
 msgctxt "#15107"
 msgid "Buffering..."
-msgstr "Buffering..."
+msgstr "Bufrado..."
 
 msgctxt "#15108"
 msgid "GUI Sounds"
-msgstr ""
+msgstr "Sonoj de GUI"
 
-#, fuzzy
 msgctxt "#15109"
 msgid "Skin default"
-msgstr "Skin Default"
+msgstr "Haŭta defaŭlto"
 
 msgctxt "#15110"
 msgid "Larger font size"
-msgstr ""
+msgstr "Pli granda tipara grando"
 
 msgctxt "#15111"
 msgid "Theme"
@@ -7481,7 +7363,7 @@ msgstr "Konektita"
 
 msgctxt "#15208"
 msgid "Not connected"
-msgstr ""
+msgstr "Ne konektita"
 
 #. Label for context menu action to choose a player and play
 msgctxt "#15213"
@@ -7490,16 +7372,15 @@ msgstr "Ludi per..."
 
 msgctxt "#15214"
 msgid "Use smoothed A/V synchronisation"
-msgstr ""
+msgstr "Uzi glatigitan A/V-sinkronigon"
 
-#, fuzzy
 msgctxt "#15215"
 msgid "Hide file names in thumbs view"
-msgstr "Hide vico nomoj in Thumbs Vido"
+msgstr "Kaŝi dosiernomojn en miniatura vido"
 
 msgctxt "#15216"
 msgid "Play in party mode"
-msgstr ""
+msgstr "Ludi en festa reĝimo"
 
 #. Label for actions associated with favourites
 msgctxt "#15217"
@@ -7509,7 +7390,7 @@ msgstr "Ago"
 #. Label for an action associated with a favourite.
 msgctxt "#15218"
 msgid "Play media"
-msgstr "Ludi plurmedion"
+msgstr "Ludi aŭdvidaĵon"
 
 #. Label for an action associated with a favourite
 msgctxt "#15219"
@@ -7519,22 +7400,22 @@ msgstr "Montri bildon"
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
 msgid "Show content in \"{}\""
-msgstr ""
+msgstr "Montri enhavon en \"{}\""
 
 #. Label for an action associated with a favourite
 msgctxt "#15221"
 msgid "Execute script"
-msgstr ""
+msgstr "Plenumi skripton"
 
 #. Label for an action associated with a favourite
 msgctxt "#15222"
 msgid "Execute Android app"
-msgstr ""
+msgstr "Lanĉi Androidan apon"
 
 #. Label for an action associated with a favourite
 msgctxt "#15223"
 msgid "Execute add-on"
-msgstr ""
+msgstr "Lanĉi aldonaĵon"
 
 #. Label for an action associated with a favourite
 msgctxt "#15224"
@@ -7552,7 +7433,7 @@ msgstr "Vojo netrovita aŭ nevalida"
 
 msgctxt "#15301"
 msgid "Couldn't connect to network server"
-msgstr ""
+msgstr "Ne eblis konekti al reta servilo"
 
 msgctxt "#15302"
 msgid "No servers found"
@@ -7564,7 +7445,7 @@ msgstr "Laborgrupo netrovita"
 
 msgctxt "#15310"
 msgid "Opening multi-path source"
-msgstr "Malfermas plur-vojan fonton"
+msgstr "Malfermado de plur-voja fonto"
 
 msgctxt "#15311"
 msgid "Path:"
@@ -7573,12 +7454,12 @@ msgstr "Vojo:"
 #. Game settings category name
 msgctxt "#15312"
 msgid "Achievements"
-msgstr ""
+msgstr "Akiroj"
 
 #. Group label for Achievements category in game settings
 msgctxt "#15313"
 msgid "Login to RetroAchievements"
-msgstr ""
+msgstr "Ensaluti al RetroAchievements"
 
 #. Label for button which creates a new savestate in the in-game savestate manager
 msgctxt "#15314"
@@ -7586,23 +7467,23 @@ msgid "Save"
 msgstr "Konservi"
 
 #. Caption for "Save" button in the in-game savestate manager
+#, fuzzy
 msgctxt "#15315"
 msgid "Save progress to a new save file"
-msgstr ""
+msgstr "Konservi progreson al nova konservo-dosiero"
 
 #. Label for savestates created automatically by "Autosave" function
 msgctxt "#15316"
 msgid "Autosave"
-msgstr ""
+msgstr "Aŭtomate konservi"
 
 msgctxt "#16000"
 msgid "General"
 msgstr "Ĝeneralaj"
 
-#, fuzzy
 msgctxt "#16002"
 msgid "Internet lookup"
-msgstr "CDDB lookup"
+msgstr "Elserĉi interrete"
 
 msgctxt "#16003"
 msgid "Player"
@@ -7610,7 +7491,7 @@ msgstr "Ludilo"
 
 msgctxt "#16004"
 msgid "Play media from disc"
-msgstr "Ludi plurmediojn de disko"
+msgstr "Ludi aŭdvidaĵojn de disko"
 
 # empty strings from id 16005 to 16007
 msgctxt "#16008"
@@ -7619,7 +7500,7 @@ msgstr "Entajpu novan titolon"
 
 msgctxt "#16009"
 msgid "Enter the movie name"
-msgstr "Entajpu la filman titolon"
+msgstr "Entajpu la filman nomon"
 
 msgctxt "#16010"
 msgid "Enter the profile name"
@@ -7643,16 +7524,15 @@ msgstr "Entajpu dosierujan nomon"
 
 msgctxt "#16015"
 msgid "Enter directory"
-msgstr "Entajpu dosierujon"
+msgstr "Iri al dosierujo"
 
 msgctxt "#16016"
 msgid "Available options: %A, %T, %N, %B, %D, %G, %Y, %F, %S"
 msgstr "Disponeblaj opcioj: %A, %T, %N, %B, %D, %G, %Y, %F, %S"
 
-#, fuzzy
 msgctxt "#16017"
 msgid "Enter search string"
-msgstr "Tajpi Search String"
+msgstr "Entajpu serĉan ĉenon"
 
 msgctxt "#16018"
 msgid "None"
@@ -7664,37 +7544,35 @@ msgstr "Aŭtomate elekti"
 
 msgctxt "#16020"
 msgid "Deinterlace"
-msgstr ""
+msgstr "Malinterplekti"
 
-#, fuzzy
 msgctxt "#16021"
 msgid "Bob"
-msgstr "Sync Odd"
+msgstr "Bob"
 
 msgctxt "#16022"
 msgid "Bob - Inverted"
-msgstr ""
+msgstr "Bob - invertita"
 
 msgctxt "#16023"
 msgid "Choose operator"
-msgstr ""
+msgstr "Elektu operatoron"
 
 msgctxt "#16024"
 msgid "Cancelling..."
-msgstr "Nuligas..."
+msgstr "Nuligado..."
 
 msgctxt "#16025"
 msgid "Enter the artist name"
 msgstr "Entajpu la artistan nomon"
 
-#, fuzzy
 msgctxt "#16026"
 msgid "Playback failed"
-msgstr "Playlist playback aborted"
+msgstr "Ludado fiaskis"
 
 msgctxt "#16027"
 msgid "One or more items failed to play. Check the log for more information about this message."
-msgstr ""
+msgstr "Unu aŭ pli elementoj malsukcesis ludi. Kontrolu la protokolon por pliaj informoj pri tiu mesaĝo."
 
 msgctxt "#16028"
 msgid "Enter value"
@@ -7703,12 +7581,11 @@ msgstr "Entajpu valoron"
 #. General error messages dialog text.
 msgctxt "#16029"
 msgid "Check the log for more information about this message."
-msgstr ""
+msgstr "Kontrolu la protokolon por pliaj informoj pri tiu mesaĝo."
 
-#, fuzzy
 msgctxt "#16030"
 msgid "Party mode aborted."
-msgstr "Festo Mode mode aborted."
+msgstr "Festa reĝimo ĉesigita."
 
 msgctxt "#16031"
 msgid "No matching songs in the library."
@@ -7716,41 +7593,40 @@ msgstr "Ne trovis kongruajn kantojn en la biblioteko."
 
 msgctxt "#16032"
 msgid "Couldn't initialise database."
-msgstr ""
+msgstr "Ne eblis pravalorizi datumbazon."
 
 msgctxt "#16033"
 msgid "Couldn't open database."
-msgstr "Nepovis malfermi datumbazon."
+msgstr "Ne eblis malfermi datumbazon."
 
 msgctxt "#16034"
 msgid "Couldn't get songs from database."
-msgstr ""
+msgstr "Ne eblis akiri kantojn de datumbazo."
 
 msgctxt "#16035"
 msgid "Party mode playlist"
-msgstr ""
+msgstr "Ludlisto de festa reĝimo"
 
 msgctxt "#16036"
 msgid "Deinterlace (half)"
-msgstr ""
+msgstr "Malinterplekti (duone)"
 
 msgctxt "#16037"
 msgid "Deinterlace video"
-msgstr ""
+msgstr "Malinterplekti videon"
 
 msgctxt "#16038"
 msgid "Deinterlace method"
-msgstr ""
+msgstr "Malinterplekta metodo"
 
-#, fuzzy
 msgctxt "#16039"
 msgid "Off"
-msgstr "Off"
+msgstr "Malŝaltita"
 
 # empty string with id 16040
 msgctxt "#16041"
 msgid "On"
-msgstr ""
+msgstr "Ŝaltita"
 
 # empty strings from id 16042 to 16099
 msgctxt "#16100"
@@ -7782,7 +7658,7 @@ msgstr "Redakti titolon"
 #. Label for a context menu entry that opens a submenu with further actions for the selected item
 msgctxt "#16106"
 msgid "Manage..."
-msgstr ""
+msgstr "Administri..."
 
 msgctxt "#16107"
 msgid "Edit sort title"
@@ -7791,7 +7667,7 @@ msgstr ""
 # empty strings from id 16108 to 16199
 msgctxt "#16200"
 msgid "Operation was aborted"
-msgstr ""
+msgstr "Operacio estis ĉesigita"
 
 msgctxt "#16201"
 msgid "Copy failed"
@@ -7821,24 +7697,24 @@ msgstr "Malsukcesis forigi almenaŭ unu dosieron. Kontrolu la protokolon por pli
 #. Name of the video filter that uses jagged pixels without smoothing
 msgctxt "#16296"
 msgid "Pixelate"
-msgstr ""
+msgstr "Bilderigi"
 
 #. Name of the video filter that smooths pixels to remove jagged edges
 msgctxt "#16297"
 msgid "Smooth"
-msgstr ""
+msgstr "Glatigi"
 
 msgctxt "#16300"
 msgid "Video scaling method"
-msgstr ""
+msgstr "Metodo de videa skalado"
 
 msgctxt "#16301"
 msgid "Nearest neighbour"
-msgstr ""
+msgstr "Plej proksima najbaro"
 
 msgctxt "#16302"
 msgid "Bilinear"
-msgstr ""
+msgstr "Dulineara"
 
 msgctxt "#16303"
 msgid "Bicubic (B-Spline)"
@@ -7858,15 +7734,15 @@ msgstr "Sinc8"
 
 msgctxt "#16307"
 msgid "Bicubic (software)"
-msgstr ""
+msgstr "Bikuba (programara)"
 
 msgctxt "#16308"
 msgid "Lanczos (software)"
-msgstr ""
+msgstr "Lanczos (programara)"
 
 msgctxt "#16309"
 msgid "Sinc (software)"
-msgstr ""
+msgstr "Sinc (programara)"
 
 msgctxt "#16310"
 msgid "Temporal"
@@ -7878,19 +7754,19 @@ msgstr ""
 
 msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
-msgstr ""
+msgstr "VDPAU - Brua redukto"
 
 msgctxt "#16313"
 msgid "VDPAU - Sharpness"
-msgstr ""
+msgstr "VDPAU - Akreco"
 
 msgctxt "#16314"
 msgid "Bicubic (Mitchell)"
-msgstr ""
+msgstr "Bikuba (Mitchell)"
 
 msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
-msgstr ""
+msgstr "Lanczos3 - Optimumigita"
 
 msgctxt "#16316"
 msgid "Auto"
@@ -7914,7 +7790,7 @@ msgstr "DXVA"
 
 msgctxt "#16321"
 msgid "Bicubic (Catmull-Rom)"
-msgstr ""
+msgstr "Bikuba (Catmull-Rom)"
 
 msgctxt "#16322"
 msgid "Spline36"
@@ -7922,7 +7798,7 @@ msgstr "Spline36"
 
 msgctxt "#16323"
 msgid "Spline36 - Optimised"
-msgstr ""
+msgstr "Spline36 - Optimumigita"
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -7930,15 +7806,15 @@ msgstr ""
 
 msgctxt "#16325"
 msgid "VDPAU - Bob"
-msgstr ""
+msgstr "VDPAU - Bob"
 
 msgctxt "#16326"
 msgid "Bicubic (0,0.75)"
-msgstr ""
+msgstr "Bikuba (0,0.75)"
 
 msgctxt "#16327"
 msgid "VAAPI - Bob"
-msgstr ""
+msgstr "VAAPI - Bob"
 
 msgctxt "#16328"
 msgid "VAAPI - Motion adaptive"
@@ -7950,38 +7826,39 @@ msgstr ""
 
 msgctxt "#16330"
 msgid "Bicubic (0,1.)"
-msgstr ""
+msgstr "Bikuba (0,1.)"
 
 # empty strings from id 16331 to 16333
 #. Description of OSD video settings for deinterlace method with label #16334
 msgctxt "#16334"
 msgid "Bob (half)"
-msgstr ""
+msgstr "Bob (duone)"
 
 #. Description of OSD video settings for deinterlace method with label #16335
 msgctxt "#16335"
 msgid "IMX - Advanced (half)"
-msgstr ""
+msgstr "IMX - Altnivela (duone)"
 
 #. Description of OSD video settings for deinterlace method with label #16336
 msgctxt "#16336"
 msgid "IMX - Advanced"
-msgstr ""
+msgstr "IMX - Altnivela"
 
 # empty strings from id 16337 to 16399
 msgctxt "#16400"
 msgid "Post-processing"
-msgstr ""
+msgstr "Posttraktado"
 
 # empty strings from id 16401 to 17499
+#, fuzzy
 msgctxt "#17500"
 msgid "Display sleep timeout"
-msgstr ""
+msgstr "Montri dormetan tempolimo"
 
 # empty strings from id 17501 to 17996
 msgctxt "#17997"
 msgid "{0:d} MByte"
-msgstr ""
+msgstr "{0:d} Mbajt"
 
 msgctxt "#17998"
 msgid "{0:d} hours"
@@ -7995,35 +7872,35 @@ msgstr "{0:d} tagoj"
 #. Live TV channels 'play' context menu item label
 msgctxt "#19000"
 msgid "Switch to channel"
-msgstr ""
+msgstr "Ŝanĝi al kanalo"
 
 msgctxt "#19001"
 msgid "Separate the search words by using AND, OR and / or NOT."
-msgstr ""
+msgstr "Apartigi la serĉajn vortojn per AND, OR kaj/aŭ NOT."
 
 msgctxt "#19002"
 msgid "or use phrases to find an exact match, like \"The wizard of Oz\"."
-msgstr ""
+msgstr "aŭ uzi frazojn por trovi ekzaktan kongruon ekz. \"La Sorĉisto de Oz\"."
 
 #. Label of a context menu entry to find similar programs (matching a given epg event)
 msgctxt "#19003"
 msgid "Find similar"
-msgstr ""
+msgstr "Trovi similajn"
 
 #. label for epg import progress control
 msgctxt "#19004"
 msgid "Importing guide from clients"
-msgstr ""
+msgstr "Gvidila importado el klientoj"
 
 #. used by several skins
 msgctxt "#19005"
 msgid "PVR stream information"
-msgstr ""
+msgstr "Informo pri PVR-fluo"
 
 #. label for 'tuner name' in pvr player information dialog
 msgctxt "#19006"
 msgid "Receiving device"
-msgstr ""
+msgstr "Riceva aparato"
 
 #. label for 'device status' in pvr player information dialog
 msgctxt "#19007"
@@ -8038,17 +7915,17 @@ msgstr "Signala kvalito"
 #. label for 'signal noise ratio' in pvr player information dialog
 msgctxt "#19009"
 msgid "SNR"
-msgstr ""
+msgstr "SNR"
 
 #. label for 'bit error ratio' in pvr player information dialog
 msgctxt "#19010"
 msgid "BER"
-msgstr ""
+msgstr "BER"
 
 #. label for 'number of uncorrected errors' in pvr player information dialog
 msgctxt "#19011"
 msgid "UNC"
-msgstr ""
+msgstr "UNC"
 
 #. label for PVR backend name in system information's PVR section
 msgctxt "#19012"
@@ -8058,7 +7935,7 @@ msgstr ""
 #. PVR 'channel encryption system' textual presentation for free to air channels
 msgctxt "#19013"
 msgid "Free to air"
-msgstr ""
+msgstr "Senpagaj neĉifritaj"
 
 #. PVR 'channel encryption system' textual presentation for 'fixed' channels
 msgctxt "#19014"
@@ -8068,7 +7945,7 @@ msgstr "Fiksita"
 #. label for 'channel encryption' in pvr player information dialog
 msgctxt "#19015"
 msgid "Encryption"
-msgstr ""
+msgstr "Ĉifrado"
 
 #. unused?
 msgctxt "#19016"
@@ -8118,7 +7995,7 @@ msgstr "Radiokanaloj"
 #. label for PVR backend number of timers in system information's PVR section
 msgctxt "#19025"
 msgid "Upcoming recordings"
-msgstr ""
+msgstr "Baldaŭaj registroj"
 
 #. label for "add timer..." list item used in pvr timers / timer rules window
 msgctxt "#19026"
@@ -8133,7 +8010,7 @@ msgstr "Neniu serĉrezulto"
 #. label used in pvr guide window views to indicate that there are no epg data for the current view (channel, now, next)
 msgctxt "#19028"
 msgid "No guide entries"
-msgstr ""
+msgstr "Neniuj gvidilaj elementoj"
 
 #. generic 'channel' label used in different places
 msgctxt "#19029"
@@ -8153,7 +8030,7 @@ msgstr "Sekva"
 #. 'timeline' label used in pvr guide window
 msgctxt "#19032"
 msgid "Timeline"
-msgstr ""
+msgstr "Kronologio"
 
 #. generic 'information' label used in different places, like labels for message box headers
 msgctxt "#19033"
@@ -8168,16 +8045,16 @@ msgstr ""
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} ne eblas esti ludita."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Ĉi tiu registraĵo ne povas esti ludita."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
 msgid "Show signal quality"
-msgstr ""
+msgstr "Montri signalan kvaliton"
 
 #. message box text stating that a PVR backend does not support a certain functionality.
 msgctxt "#19038"
@@ -8191,12 +8068,12 @@ msgstr "Ĉu vi certas ke vi volas kaŝi ĉi tiun kanalon?"
 
 msgctxt "#19040"
 msgid "Timers"
-msgstr ""
+msgstr "Tempumiloj"
 
 #. Label for button to refresh the channel logos
 msgctxt "#19041"
 msgid "Refresh channel logos"
-msgstr ""
+msgstr "Reŝargi kanalaj logotipoj"
 
 #. label for PVR backend number of channel groups in system information's PVR section
 msgctxt "#19042"
@@ -8211,11 +8088,11 @@ msgstr "Registrado"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Bonvolu kontroli vian konfiguron."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Ankoraŭ neniu PVR-kliento estis lanĉita. Atendu por lanĉo de la PVR-klientoj."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8230,7 +8107,7 @@ msgstr "Pri programo"
 #. Label for a context menu entry to open the pvr channel group manager dialog
 msgctxt "#19048"
 msgid "Group manager"
-msgstr ""
+msgstr "Grupa mastrumilo"
 
 msgctxt "#19049"
 msgid "Show channel"
@@ -8266,17 +8143,17 @@ msgstr "Neniu informo disponebla"
 #. Label for a new timer
 msgctxt "#19056"
 msgid "New timer"
-msgstr ""
+msgstr "Nova tempumilo"
 
 #. Notification text to announce that a timer was disabled
 msgctxt "#19057"
 msgid "Timer disabled"
-msgstr ""
+msgstr "Tempumilo malŝaltita"
 
 #. Notification text to announce that a timer was enabled
 msgctxt "#19058"
 msgid "Timer enabled"
-msgstr ""
+msgstr "Tempumilo ŝaltita"
 
 #. Label for a context menu entry and for a button to stop a recording
 msgctxt "#19059"
@@ -8286,7 +8163,7 @@ msgstr "Halti registradon"
 #. Label for a context menu entry to delete a timer associated with an epg event and for a button to delete a timer in epg event info dialog
 msgctxt "#19060"
 msgid "Delete timer"
-msgstr ""
+msgstr "Forigi tempumilon"
 
 #. Label for a context menu entry to open the timer settings dialog
 msgctxt "#19061"
@@ -8310,7 +8187,7 @@ msgstr "Lasta programo"
 #. Label for timer settings dialog header
 msgctxt "#19065"
 msgid "Timer settings"
-msgstr ""
+msgstr "Tempumilaj agordoj"
 
 #. Name of a shortcut to a custom folder for channel icons
 msgctxt "#19066"
@@ -8320,17 +8197,17 @@ msgstr "Kanalaj piktogramoj"
 #. message box text stating that an epg event is already being recorded
 msgctxt "#19067"
 msgid "This event is already being recorded."
-msgstr ""
+msgstr "La evento jam estas registrata."
 
 #. Label for recording settings dialog header
 msgctxt "#19068"
 msgid "Recording settings"
-msgstr "Registraj agordoj"
+msgstr "Registradaj agordoj"
 
 #. generic label for the electronic program guide (EPG) used in different places
 msgctxt "#19069"
 msgid "Guide"
-msgstr ""
+msgstr "Gvidilo"
 
 #. Label for epg grid window "jump to now" (current programme) context menu entry and epg grid controls dialog help text
 msgctxt "#19070"
@@ -8340,21 +8217,21 @@ msgstr "Nuna programo"
 #. pvr settings "epg update interval" setting label
 msgctxt "#19071"
 msgid "Update interval"
-msgstr ""
+msgstr "Ĝisdatiga intervalo"
 
 #. Dialog warning text for invalid timer setting
 msgctxt "#19072"
 msgid "In order to add/update a timer the end date and time must be greater than the start date and time."
-msgstr ""
+msgstr "Por aldoni/aktualigi tempumilon la fina dato kaj tempo devas esti pli malfrua ol la komenca dato kaj tempo."
 
 #. pvr settings "delay channel switch" setting label
 msgctxt "#19073"
 msgid "Delay channel switch"
-msgstr ""
+msgstr "Prokrasti kanalan ŝanĝon"
 
 msgctxt "#19074"
 msgid "Active"
-msgstr ""
+msgstr "Aktiva"
 
 #. Label of name edit in PVR timer and recording settings dialog
 msgctxt "#19075"
@@ -8368,7 +8245,7 @@ msgstr "Dosierujo"
 
 msgctxt "#19077"
 msgid "Hide disabled"
-msgstr ""
+msgstr "Kaŝi malŝaltitajn"
 
 #. Label of channel selector list in PVR timer settings dialog
 msgctxt "#19078"
@@ -8379,32 +8256,32 @@ msgstr "Kanalo"
 #. Label of days of week button in PVR timer settings dialog
 msgctxt "#19079"
 msgid "Days of week"
-msgstr "Semajnaj tagoj"
+msgstr "Tagoj de semajno"
 
 #. used by several skins
 msgctxt "#19080"
 msgid "Begin"
-msgstr ""
+msgstr "Komenco"
 
 #. used by several skins
 msgctxt "#19081"
 msgid "End"
-msgstr ""
+msgstr "Fino"
 
 #. Label of priority spinner in PVR timer settings dialog
 msgctxt "#19082"
 msgid "Priority"
-msgstr ""
+msgstr "Prioritato"
 
 #. Label of lifetime selector in PVR timer and recording settings dialog
 msgctxt "#19083"
 msgid "Lifetime"
-msgstr ""
+msgstr "Vivodaŭro"
 
 #. Label of first day (dd mm yy) button in PVR timer settings dialog
 msgctxt "#19084"
 msgid "First day"
-msgstr ""
+msgstr "Unua tago"
 
 #. default for channels without a name. place holder will be filled with channel number.
 msgctxt "#19085"
@@ -8414,12 +8291,12 @@ msgstr "Nekonata kanalo {0:s}"
 #. Label for "Instant recording action" setting
 msgctxt "#19086"
 msgid "Instant recording action"
-msgstr ""
+msgstr "Tuja registra ago"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19087"
 msgid "Record current show (if guide data available)"
-msgstr ""
+msgstr "Registri nunan televidaĵon (se gvidilaj datumoj disponeblas)"
 
 #. Label for "Instant recording action" settings value
 msgctxt "#19088"
@@ -8429,7 +8306,7 @@ msgstr ""
 #. Label for "Instant recording action" settings value
 msgctxt "#19089"
 msgid "Ask what to do"
-msgstr ""
+msgstr "Demandi kion fari"
 
 #. Label for "Instant recording action" dialog settings value
 msgctxt "#19090"
@@ -8439,27 +8316,27 @@ msgstr "Registri sekvajn {0:d} minutojn"
 #. Label for "Instant recording action" dialog settings value
 msgctxt "#19091"
 msgid "Record current show ({0:s})"
-msgstr ""
+msgstr "Registri nunan televidaĵon ({0:s})"
 
 #. Label for "Instant recording action" dialog settings value
 msgctxt "#19092"
 msgid "Record next show ({0:s})"
-msgstr ""
+msgstr "Registri sekvan televidaĵon ({0:s})"
 
 #. Instant recording summary. Expands to "Instant recording: <recording start and end times>", for example "Instant recording: 31/05/2016 from 9:00 to 11:00"
 msgctxt "#19093"
 msgid "Instant recording: {0:s}"
-msgstr ""
+msgstr "Tuja registro: {0:s}"
 
 #. error message displayed in case adding a timer failed because no suitable epg-based timer type could be found.
 msgctxt "#19094"
 msgid "Timer creation failed. Unsupported timer type."
-msgstr ""
+msgstr "Tempumila kreo fiaskis. Nesubtenata tempumila tipo."
 
 #. error message displayed in case adding a timer rule failed because no suitable epg-based timer rule type could be found.
 msgctxt "#19095"
 msgid "Timer rule creation failed. Unsupported timer type."
-msgstr ""
+msgstr "Kreo de tempumila regulo fiaskis. Nesubtenata tempumila tipo."
 
 #. label of a value for default epg event select action, where the action is choosen depending on whether the event is in the past, now or in the future
 msgctxt "#19096"
@@ -8469,7 +8346,7 @@ msgstr "\"Saĝa elekto\""
 #. label of the help text for the name edit field in PVR timer and recording settings dialog
 msgctxt "#19097"
 msgid "Enter the name for the timer"
-msgstr ""
+msgstr "Entajpu la nomon por la tempumilo"
 
 #. generic warning label used at several places
 msgctxt "#19098"
@@ -8489,11 +8366,11 @@ msgstr ""
 #. provider label in pvr info dialog
 msgctxt "#19101"
 msgid "Provider"
-msgstr ""
+msgstr "Provizanto"
 
 msgctxt "#19102"
 msgid "Please switch to another channel."
-msgstr ""
+msgstr "Bonvolu ŝanĝi al alia kanalo."
 
 #. Title of numeric dialog for choosing a channel by entering a number
 msgctxt "#19103"
@@ -8503,7 +8380,7 @@ msgstr "Iri al kanalo"
 #. label of the help text for the recording folder edit field in PVR timer settings dialog
 msgctxt "#19104"
 msgid "Enter the name of the folder for the recording"
-msgstr "Entajpu la nomon de la dosierujo por la registraĵoj"
+msgstr "Entajpu la nomon de la dosierujo por la registraĵo"
 
 #. unused?
 msgctxt "#19105"
@@ -8513,7 +8390,7 @@ msgstr "Bonvole elektu kanalon"
 #. part of timer information text (e.g. "Next recording on 10/10/2016 at 9:00 AM")
 msgctxt "#19106"
 msgid "Next recording on"
-msgstr ""
+msgstr "Sekva registro je"
 
 #. part of timer information text (e.g. "Next recording on 10/10/2016 at 9:00 AM")
 msgctxt "#19107"
@@ -8528,12 +8405,12 @@ msgstr ""
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Ne eblis konservi la tempumilon."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Ne eblis forigi la tempumilon."
 
 #. message box text stating that a PVR backend error occurred
 msgctxt "#19111"
@@ -8573,7 +8450,7 @@ msgstr "Serĉi kanalojn"
 #. unused?
 msgctxt "#19118"
 msgid "Can't use PVR functions while searching."
-msgstr ""
+msgstr "Ne povas uzi PVR-funkciojn dum serĉado."
 
 #. channel scan backend selection dialog text
 msgctxt "#19119"
@@ -8592,15 +8469,15 @@ msgstr "Eviti ripetojn"
 #. delete active timer confirmation message box text
 msgctxt "#19122"
 msgid "This timer is still recording. Are you sure you want to delete this timer?"
-msgstr ""
+msgstr "Ĉi tiu tempumilo ankoraŭ registras. Ĉu vi certas, ke vi volas forigi ĉi tiun tempumilon?"
 
 msgctxt "#19123"
 msgid "Free to air channels only"
-msgstr ""
+msgstr "Nur senpagaj neĉifritaj kanaloj"
 
 msgctxt "#19124"
 msgid "Ignore present timers"
-msgstr ""
+msgstr "Ignori ekzistantajn tempumilojn"
 
 msgctxt "#19125"
 msgid "Ignore present recordings"
@@ -8636,15 +8513,15 @@ msgstr "Maksimuma daŭro"
 
 msgctxt "#19132"
 msgid "Include unknown genres"
-msgstr ""
+msgstr "Inkluzivi nekonatajn ĝenrojn"
 
 msgctxt "#19133"
 msgid "Search string"
-msgstr ""
+msgstr "Serĉa ĉeno"
 
 msgctxt "#19134"
 msgid "Include description"
-msgstr ""
+msgstr "Inkluzivi priskribon"
 
 msgctxt "#19135"
 msgid "Case sensitive"
@@ -8657,12 +8534,12 @@ msgstr "Kanalo nedisponebla"
 #. channel group manager dialog error message box text
 msgctxt "#19137"
 msgid "No groups defined. Please create a group first"
-msgstr "Neniu grupo difinita. Bonvole kreu grupon unue"
+msgstr "Neniu grupo difinita. Bonvolu krei grupon unue"
 
 #. Label of timer rules tv/radio home submenu item
 msgctxt "#19138"
 msgid "Timer rules"
-msgstr ""
+msgstr "Tempumilaj reguloj"
 
 #. channel group manager dialog create group / rename group message box text
 msgctxt "#19139"
@@ -8681,11 +8558,11 @@ msgstr "Grupo"
 
 msgctxt "#19142"
 msgid "Search guide"
-msgstr ""
+msgstr "Traserĉi gvidilon"
 
 msgctxt "#19143"
 msgid "Group management"
-msgstr ""
+msgstr "Grupa mastrumado"
 
 #. used by several skins
 msgctxt "#19144"
@@ -8705,7 +8582,7 @@ msgstr "Grupoj"
 #. Dialog warning text for lifetime recording setting
 msgctxt "#19147"
 msgid "Setting the lifetime of this recording to {0:d} days will immediately expire the recording, which might result in instant deletion of the recording. Proceed anyway?"
-msgstr ""
+msgstr "Agordante la vivodaŭron de ĉi tiu registro al {0:d} tagoj tuje eksvalidiĝos la registron, kiu eble kaŭzos tujan forigon de la registro. Ĉu daŭrigi ĉiuokaze?"
 
 #. generic PVR 'channel' label used in different places
 msgctxt "#19148"
@@ -8750,15 +8627,15 @@ msgstr "Di"
 #. unused?
 msgctxt "#19156"
 msgid "from"
-msgstr ""
+msgstr "de"
 
 msgctxt "#19157"
 msgid "Next recording"
-msgstr "Sekva registraĵo"
+msgstr "Sekva registro"
 
 msgctxt "#19158"
 msgid "Currently recording"
-msgstr ""
+msgstr "Nune registras"
 
 #. part of timer / timer rule textual representation (e.g. "10/10/2016 from 11:00 PM to 10/11/2016 1:00 AM". "Mondays from any time to any time")
 msgctxt "#19159"
@@ -8773,12 +8650,12 @@ msgstr "ĝis"
 #. timer rule presentation string. (start-day-date|days-of-week) "from" (start-day-time|"any time") "to" (end-day-time|"any time")
 msgctxt "#19161"
 msgid "any time"
-msgstr "ajnam"
+msgstr "iam ajn"
 
 #. timer status textual representation
 msgctxt "#19162"
 msgid "Recording active"
-msgstr ""
+msgstr "Registro aktiva"
 
 #. label for number of PVR recordings in system information's PVR section
 msgctxt "#19163"
@@ -8793,17 +8670,17 @@ msgstr "Ne povis komenci registron."
 #. Label for "switch to channel" button""
 msgctxt "#19165"
 msgid "Switch"
-msgstr ""
+msgstr "Ŝanĝi"
 
 #. label for header of misc PVR GUI elements
 msgctxt "#19166"
 msgid "PVR information"
-msgstr ""
+msgstr "Informoj pri PVR"
 
 #. pvr settings "scan for missing channel icons" action button label
 msgctxt "#19167"
 msgid "Scan for missing icons"
-msgstr ""
+msgstr "Skani por mankantaj piktogramoj"
 
 #. label for PVR number of deleted recordings in system information's PVR section
 msgctxt "#19168"
@@ -8813,7 +8690,7 @@ msgstr ""
 #. unused?
 msgctxt "#19169"
 msgid "Hide video information box"
-msgstr ""
+msgstr "Kaŝi dialogujon kun informoj pri videaĵo"
 
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
@@ -8823,12 +8700,12 @@ msgstr "Ne povis halti registron."
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
 msgid "Switch to full screen"
-msgstr ""
+msgstr "Ŝanĝi al plenekrano"
 
 #. pvr settings "duration for an instant recording" setting label
 msgctxt "#19172"
 msgid "Instant recording duration"
-msgstr ""
+msgstr "Daŭro de tuja registro"
 
 #. generic label for 'Live TV channel groups' used in different places
 msgctxt "#19173"
@@ -8843,12 +8720,12 @@ msgstr "Grupoj de radiaj kanaloj"
 #. pvr settings "default time to add before the start of an event to record (according to its epg data)" setting label
 msgctxt "#19175"
 msgid "Default start padding time"
-msgstr ""
+msgstr "Defaŭlta komenco antaŭ planita tempo"
 
 #. pvr settings "default time to add after the end of an event to record (according to epg its data)" setting label
 msgctxt "#19176"
 msgid "Default end padding time"
-msgstr ""
+msgstr "Defaŭlta fino post planita tempo"
 
 #. pvr settings category and group label
 msgctxt "#19177"
@@ -8858,7 +8735,7 @@ msgstr "Ludado"
 #. pvr setting "show channel info while switching channels" value
 msgctxt "#19178"
 msgid "Show channel information when switching channels"
-msgstr ""
+msgstr "Montri kanalajn informojn post ŝanĝo de kanalo"
 
 #. header used in pvr recordings window
 msgctxt "#19179"
@@ -8879,7 +8756,7 @@ msgstr ""
 #. pvr settings "future epg days to display" setting value
 msgctxt "#19182"
 msgid "Future days to display"
-msgstr ""
+msgstr "Montrataj estontaj tagoj"
 
 #. Settings -> Interface -> Other -> Startup window value
 #. Settings -> PVR -> Playback -> Switch to fullscreen value
@@ -8895,22 +8772,22 @@ msgstr "Forigitaj registraĵoj"
 #. pvr settings "clear epg data" action button label
 msgctxt "#19185"
 msgid "Clear data"
-msgstr ""
+msgstr "Viŝi datumojn"
 
 #. message box text for pvr data reset confirmation
 msgctxt "#19186"
 msgid "All selected data will be cleared. Some information cannot be restored from the clients afterwards. Proceed anyway?"
-msgstr ""
+msgstr "Ĉiuj elektitaj datumoj estos viŝotaj. Kelkaj informoj ne eblos esti restaŭrotaj de la klientoj poste. Ĉu daŭrigi ĉiuokaze?"
 
 #. progress dialog text shown while purging pvr data
 msgctxt "#19187"
 msgid "Clearing data."
-msgstr ""
+msgstr "Viŝado de datumoj."
 
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
 msgid "All guide data will be cleared. Are you sure?"
-msgstr ""
+msgstr "Ĉiuj gvidilaj datumoj estos viŝotaj. Ĉu vi certas?"
 
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
@@ -8924,7 +8801,7 @@ msgstr "Ludi programon"
 
 msgctxt "#19191"
 msgid "PVR service"
-msgstr ""
+msgstr "PVR-servo"
 
 #. info message box text stating that none of the available pvr clients does support channel scanning
 msgctxt "#19192"
@@ -8934,7 +8811,7 @@ msgstr ""
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "La kanala skanado ne povas esti komencita."
 
 #. unused?
 msgctxt "#19194"
@@ -8944,17 +8821,17 @@ msgstr "Ĉu daŭrigi?"
 #. pvr settings "delay mark last watched" setting label
 msgctxt "#19195"
 msgid "Delay mark last watched"
-msgstr ""
+msgstr "Prokrasti marki lastan kiel spektitan"
 
 #. value for "pvr client specific actions" dialog headers
 msgctxt "#19196"
 msgid "PVR client specific actions"
-msgstr ""
+msgstr "Specifaj agoj de PVR-kliento"
 
 #. text for "recording started on <pvr client name>" pvr client addon callback notification
 msgctxt "#19197"
 msgid "Recording started on: {0:s}"
-msgstr ""
+msgstr "Registro komencita je: {0:s}"
 
 #. text for "recording finished on <pvr client name>" pvr client addon callback notification
 msgctxt "#19198"
@@ -8964,11 +8841,11 @@ msgstr "Registro finita je: {0:s}"
 #. pvr settings "channel manager" action button label
 msgctxt "#19199"
 msgid "Channel manager"
-msgstr ""
+msgstr "Kanala mastrumilo"
 
 msgctxt "#19200"
 msgid "Guide source:"
-msgstr ""
+msgstr "Gvidila fonto:"
 
 msgctxt "#19201"
 msgid "Channel name:"
@@ -8990,11 +8867,11 @@ msgstr "Nova kanalo"
 
 msgctxt "#19205"
 msgid "Group management"
-msgstr ""
+msgstr "Grupa mastrumado"
 
 msgctxt "#19206"
 msgid "Activate guide:"
-msgstr ""
+msgstr "Aktivigi gvidilon:"
 
 #. used by several skins
 msgctxt "#19207"
@@ -9068,12 +8945,12 @@ msgstr "Kanaloj en"
 
 msgctxt "#19222"
 msgid "Guide"
-msgstr ""
+msgstr "Gvidilo"
 
 #. unused?
 msgctxt "#19223"
 msgid "No PVR add-on could be enabled. Check your settings or the log for more information."
-msgstr ""
+msgstr "Neniu PVR-aldonaĵo povis esti ŝaltita. Kontrolu viajn agordojn aŭ la protokolon por pliaj informoj."
 
 #. Notification text to announce that a recording was aborted
 msgctxt "#19224"
@@ -9083,7 +8960,7 @@ msgstr "Registro ĉesita"
 #. Notification text to announce that a recording was scheduled
 msgctxt "#19225"
 msgid "Recording scheduled"
-msgstr ""
+msgstr "Registro planita"
 
 #. Notification text to announce that a recording started
 msgctxt "#19226"
@@ -9098,17 +8975,17 @@ msgstr "Registro plenumita"
 #. Notification text to announce that a timer was deleted
 msgctxt "#19228"
 msgid "Timer deleted"
-msgstr ""
+msgstr "Tempumilo forigita"
 
 #. pvr settings "past epg days to display" setting value
 msgctxt "#19229"
 msgid "Past days to display"
-msgstr ""
+msgstr "Montrataj pasintaj tagoj"
 
 #. label for PVR settings no epg updates during playback control
 msgctxt "#19230"
 msgid "Prevent updates during playback"
-msgstr ""
+msgstr "Preventi ĝisdatigoj dum ludado"
 
 #. label for PVR settings use backend channel order control
 msgctxt "#19231"
@@ -9118,12 +8995,12 @@ msgstr ""
 #. label for pvr epg search window 'clear search results' context menu item
 msgctxt "#19232"
 msgid "Clear search results"
-msgstr ""
+msgstr "Viŝi serĉajn rezultojn"
 
 #. label for PVR settings timer updates notification control
 msgctxt "#19233"
 msgid "Display a notification on timer updates"
-msgstr ""
+msgstr "Montri sciigon je tempumilaj aktualigoj"
 
 #. label for PVR settings use backend channel numbers control
 msgctxt "#19234"
@@ -9133,47 +9010,47 @@ msgstr ""
 #. label 'pvr starting up' for progress dialog text
 msgctxt "#19235"
 msgid "PVR manager is starting up"
-msgstr ""
+msgstr "PVR-mastrumilo lanĉiĝas"
 
 #. label 'loading channels' for progress dialog text
 msgctxt "#19236"
 msgid "Loading channels from clients"
-msgstr ""
+msgstr "Ŝargado de kanaloj el klientoj"
 
 #. label 'loading timers' for progress dialog text
 msgctxt "#19237"
 msgid "Loading timers from clients"
-msgstr ""
+msgstr "Ŝargado de tempumiloj el klientoj"
 
 #. label 'loading recordings' for progress dialog text
 msgctxt "#19238"
 msgid "Loading recordings from clients"
-msgstr ""
+msgstr "Ŝargado de registroj el klientoj"
 
 #. label for PVR client creation progress control
 msgctxt "#19239"
 msgid "Creating PVR clients"
-msgstr ""
+msgstr "Kreado de PVR-klientoj"
 
 #. label for pvr settings client priorities control and client priorities dialog heading.
 msgctxt "#19240"
 msgid "Client priorities"
-msgstr ""
+msgstr "Klientaj prioritatoj"
 
 #. Label for context menu entry to open settings dialog for a timer (read-only)
 msgctxt "#19241"
 msgid "View timer"
-msgstr ""
+msgstr "Vidi tempumilon"
 
 #. Label for context menu entry to open settings dialog for a timer
 msgctxt "#19242"
 msgid "Edit timer"
-msgstr ""
+msgstr "Redakti tempumilon"
 
 #. Label for context menu entry to open settings dialog for a timer rule
 msgctxt "#19243"
 msgid "Edit timer rule"
-msgstr ""
+msgstr "Redakti tempumilan regulon"
 
 #. label for PVR settings pvr backend idle time control. if enabled, kodi will be automatically shutdown after the defined amount of pvr backend idle time.
 msgctxt "#19244"
@@ -9183,22 +9060,22 @@ msgstr ""
 #. label for PVR settings wakeup command control. if not empty, kodi will execute the given command upon waking up from suspend.
 msgctxt "#19245"
 msgid "Wakeup command"
-msgstr ""
+msgstr "Veka komando"
 
 #. label for PVR settings wakeup before recording control. if checked, the box where kodi is installed on will be automatically turned on before a recording starts.
 msgctxt "#19246"
 msgid "Wakeup before recording"
-msgstr ""
+msgstr "Veki antaŭ ol registri"
 
 #. label for PVR settings daily wakeup control. if checked, the box where kodi is installed on will be automatically turned on at the given time.
 msgctxt "#19247"
 msgid "Daily wakeup"
-msgstr ""
+msgstr "Ĉiutage veki"
 
 #. label for PVR settings daily wakeup time control. if checked, the box where kodi is installed on will be automatically turned on at the given time.
 msgctxt "#19248"
 msgid "Daily wakeup time (HH:MM:SS)"
-msgstr ""
+msgstr "Tempo de ĉiutaga veko (HH:MM:SS)"
 
 #. unused?
 msgctxt "#19249"
@@ -9213,27 +9090,27 @@ msgstr "Televidaj kaj radiaj kanaloj"
 #. label for 'update epg' context menu item and 'update epg' confirmation dialog header
 msgctxt "#19251"
 msgid "Update guide information"
-msgstr ""
+msgstr "Ĝisdatigi gvidilajn informojn"
 
 #. label for 'update channel epg' confirmation dialog text
 msgctxt "#19252"
 msgid "Schedule guide update for this channel?"
-msgstr ""
+msgstr "Ĉu plani gvidilan ĝisdatigon por ĉi tiu kanalo?"
 
 #. label for notification text stating that an epg data update for a given channel was started
 msgctxt "#19253"
 msgid "Guide update scheduled for channel"
-msgstr ""
+msgstr "Gvidila ĝisdatigo planita por kanalo"
 
 #. label for notification text stating that an epg data update for a given channel failed
 msgctxt "#19254"
 msgid "Guide update failed for channel"
-msgstr ""
+msgstr "Gvidila ĝisdatigo malsukcesis por kanalo"
 
 #. for a timer rule, the number of child timers which are currently scheduled to record. For use in "status" fields.
 msgctxt "#19255"
 msgid "{0:d} scheduled"
-msgstr ""
+msgstr "{0:d} planita"
 
 #. for a timer rule or timer to indicate this item has completed the intended recordings. For use in "status" fields.
 msgctxt "#19256"
@@ -9253,12 +9130,12 @@ msgstr "Malŝlosi kanalon"
 #. pvr settings category label
 msgctxt "#19259"
 msgid "Parental control"
-msgstr ""
+msgstr "Gepatra enhavlimigo"
 
 #. pvr settings 'parental control channel unlock duration' setting label
 msgctxt "#19260"
 msgid "Unlock duration"
-msgstr ""
+msgstr "Malŝlosa daŭrigo"
 
 #. pvr settings 'parental control change pin' setting label
 msgctxt "#19261"
@@ -9268,12 +9145,12 @@ msgstr "Ŝanĝi PIN-on"
 #. generic 'parental control enter pin' label
 msgctxt "#19262"
 msgid "Parental control. Enter PIN:"
-msgstr ""
+msgstr "Gepatra enhavlimigo. Entajpu PIN-on:"
 
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Ne eblis aktualigi la tempumilon."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9288,11 +9165,11 @@ msgstr "La entajpita PIN-o estis malĝusta."
 #. label to use for epg tag title instead of actual event title if the respective channel is parental locked
 msgctxt "#19266"
 msgid "Parental locked"
-msgstr ""
+msgstr "Gepatre enhavlimiga"
 
 msgctxt "#19267"
 msgid "Parental locked:"
-msgstr ""
+msgstr "Gepatre enhavlimiga:"
 
 #. pvr settings 'hide no info available labels' setting label. Instead of displaying "no information available" text (for example in epg grid for time spans without epg data), show nothing
 msgctxt "#19268"
@@ -9302,32 +9179,32 @@ msgstr "Kaŝi etikedojn \"Neniu informo disponebla\""
 #. pvr settings "Preselect playing channel in lists" control label
 msgctxt "#19269"
 msgid "Preselect playing channel in lists"
-msgstr ""
+msgstr "Antaŭelekti ludatan kanalon en listoj"
 
 #. Label of the option to switch between a grouped recordings list and a non-grouped recordings list in pvr recordings window.
 msgctxt "#19270"
 msgid "Group Items"
-msgstr ""
+msgstr "Grupigi elementojn"
 
 #. unused?
 msgctxt "#19271"
 msgid "No PVR add-ons could be found"
-msgstr ""
+msgstr "Neniu PVR-aldonaĵo povis esti trovita"
 
 #. label for 'pvr configuration incomplete' information dialog text
 msgctxt "#19272"
 msgid "To use PVR you need to install, enable and configure a PVR add-on. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr ""
+msgstr "Por uzi PVR-on vi devas instali, ŝalti kaj konfiguri PVR-aldonaĵon. Bonvolu viziti http://kodi.wiki/view/PVR por ekscii pli."
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19273"
 msgid "TV guide"
-msgstr ""
+msgstr "Televida gvidilo"
 
 #. Settings -> Interface -> Other -> Startup window value
 msgctxt "#19274"
 msgid "Radio guide"
-msgstr ""
+msgstr "Radia gvidilo"
 
 #. timer status textual representation
 msgctxt "#19275"
@@ -9352,17 +9229,17 @@ msgstr "Registra eraro"
 #. pvr settings 'PVR clients' group label.
 msgctxt "#19279"
 msgid "PVR clients"
-msgstr ""
+msgstr "PVR-klientoj"
 
 #. pvr client specific settings 'client specific settings' action control label.
 msgctxt "#19280"
 msgid "Client specific settings"
-msgstr ""
+msgstr "Specifaj agordoj de kliento"
 
 #. pvr settings 'confirm channel switch' setting label.
 msgctxt "#19281"
 msgid "Confirm channel switches by pressing \"OK\""
-msgstr ""
+msgstr "Konfirmi ŝanĝon de kanalo per butono \"Bone\""
 
 #. Label for a select option or list item, representing an icon graphic (like a TV channel icon)
 msgctxt "#19282"
@@ -9387,7 +9264,7 @@ msgstr "Foliumi por piktogramo"
 #. Label for channel icon search progress dialog
 msgctxt "#19286"
 msgid "Searching for channel icons"
-msgstr "Serĉas kanalajn piktogramojn"
+msgstr "Serĉado de kanalaj piktogramoj"
 
 #. Label for the pvr 'all chnanels' 'channel group
 msgctxt "#19287"
@@ -9397,7 +9274,7 @@ msgstr "Ĉiuj kanaloj"
 #. Label for epg grid window "go to date" context menu entry
 msgctxt "#19288"
 msgid "Date selector"
-msgstr ""
+msgstr "Data elektilo"
 
 #. Label for button to hide a group in the group manager
 msgctxt "#19289"
@@ -9407,67 +9284,67 @@ msgstr "Kaŝi grupon"
 #. Label for a context menu entry of a recording to undelete a deleted recording
 msgctxt "#19290"
 msgid "Undelete"
-msgstr ""
+msgstr "Malforigi"
 
 #. Label for a context menu entry of a recording to permanently delete a deleted recording
 msgctxt "#19291"
 msgid "Delete permanently"
-msgstr ""
+msgstr "Forigi porĉiame"
 
 #. "remove deleted recordings from trash" dialog header
 msgctxt "#19292"
 msgid "Delete all permanently"
-msgstr ""
+msgstr "Forigi ĉiujn porĉiame"
 
 #. "remove deleted recordings from trash" dialog text
 msgctxt "#19293"
 msgid "Remove all deleted recordings from trash? This operation cannot be reverted."
-msgstr ""
+msgstr "Ĉu forigi ĉiujn forigitajn registraĵojn el rubujo? Tiu operacio ne eblos esti malfarota."
 
 #. "remove deleted recording from trash" dialog text
 msgctxt "#19294"
 msgid "Remove this deleted recording from trash? This operation cannot be reverted."
-msgstr ""
+msgstr "Ĉu forigi ĉi tiun forigitan registraĵon el rubujo? Tiu operacio ne eblos esti malfarota."
 
 #. Label for context menu entry to delete a timer rule
 msgctxt "#19295"
 msgid "Delete timer rule"
-msgstr ""
+msgstr "Forigi tempumilan regulon"
 
 #. Label if no pvr addons are enabled
 msgctxt "#19296"
 msgid "No PVR add-on enabled"
-msgstr ""
+msgstr "Neniu PVR-aldonaĵo ŝaltita"
 
 #. 'Viewtype' label for vertical channel layout, used in pvr guide window
 msgctxt "#19297"
 msgid "Vertical channels"
-msgstr ""
+msgstr "Vertikalaj kanaloj"
 
 #. 'Viewtype' label for horizontal channel layout, used in pvr guide window
 msgctxt "#19298"
 msgid "Horizontal channels"
-msgstr ""
+msgstr "Horizontalaj kanaloj"
 
 #. generic "expiration" label used in different places
 msgctxt "#19299"
 msgid "Expires"
-msgstr ""
+msgstr "Eksvalidiĝos"
 
 #. 'Viewtype' label for vertical channel layout without channel group selctor, used in pvr guide window
 msgctxt "#19300"
 msgid "Vertical channels, no group selector"
-msgstr ""
+msgstr "Vertikalaj kanaloj, sen grupa elektilo"
 
 #. 'Viewtype' label for horizontal channel layout without channel group selctor, used in pvr guide window
 msgctxt "#19301"
 msgid "Horizontal channels, no group selector"
-msgstr ""
+msgstr "Horizontalaj kanaloj, sen grupa elektilo"
 
 #. text for yes no dialog shown when user selects a future programme in the guide window and default select action is 'smart select'
 msgctxt "#19302"
 msgid "Do you want to record the selected programme or to switch to the current programme?"
-msgstr ""
+msgstr "Ĉu vi volas registri la elektitan programon aŭ ŝanĝi al la nuna programo?"
 
 #. label for PVR settings close channel OSD after channel switch control
 msgctxt "#19303"
@@ -9477,57 +9354,57 @@ msgstr ""
 #. label for context menu entry to open settings dialog for a timer rule (read-only)
 msgctxt "#19304"
 msgid "View timer rule"
-msgstr ""
+msgstr "Vidi tempumilan regulon"
 
 #. text for event log entry for logging auto deleted missed reminders
 msgctxt "#19305"
 msgid "Deleted missed PVR reminder for '{0:s}' on channel '{1:s}' at '{2:s}'"
-msgstr ""
+msgstr "Forigis maltrafitan PVR-memorigon por \"{0:s}\" en kanalo \"{1:s}\" je \"{2:s}\""
 
 #. text for event log entry for logging auto deleted missed reminders
 msgctxt "#19306"
 msgid "Deleted missed PVR reminder for channel '{0:s}' at '{1:s}'"
-msgstr ""
+msgstr "Forigis maltrafitan PVR-memorigon por kanalo \"{0:s}\" je \"{1:s}\""
 
 #. text for reminder announcement dialog
 msgctxt "#19307"
 msgid "Reminder for [B]{0:s}[/B] on channel [B]{1:s}[/B] at [B]{2:s}[/B]."
-msgstr ""
+msgstr "Memorigo por [B]{0:s}[/B] en kanalo [B]{1:s}[/B] je [B]{2:s}[/B]."
 
 #. text for reminder announcement dialog
 msgctxt "#19308"
 msgid "Reminder for channel [B]{0:s}[/B] at [B]{1:s}[/B]."
-msgstr ""
+msgstr "Memorigo por kanalo [B]{0:s}[/B] je [B]{1:s}[/B]."
 
 #. additional text for reminder announcement dialog, used if a recording can be scheduled
 msgctxt "#19309"
 msgid "(Auto-close of this reminder will schedule a recording...)"
-msgstr ""
+msgstr "(Aŭtomata fermo de ĉi tiu memorigo planos registron...)"
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19310"
 msgid "Scheduled recording for auto-closed PVR reminder for '{0:s}' on channel '{1:s}' at '{2:s}'"
-msgstr ""
+msgstr "Planis registron por aŭtomate fermita PVR-memorigo por \"{0:s}\" en kanalo \"{1:s}\" je \"{2:s}\""
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19311"
 msgid "Scheduled recording for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
-msgstr ""
+msgstr "Planis registron por aŭtomate fermita PVR-memorigo por kanalo \"{0:s}\" je \"{1:s}\""
 
 #. heading for pvr reminder notification dialog
 msgctxt "#19312"
 msgid "PVR reminder"
-msgstr ""
+msgstr "PVR-memorigo"
 
 #. pvr settings "reminder auto close delay" setting label
 msgctxt "#19313"
 msgid "Automatically close reminder popup after"
-msgstr ""
+msgstr "Aŭtomate fermi memorigan ŝprucfenestron post"
 
 #. pvr settings "schedule recording on reminder auto-close" setting label
 msgctxt "#19314"
 msgid "Schedule recording when auto-closing the reminder popup"
-msgstr ""
+msgstr "Plani registron dum aŭtomata fermo de la memoriga ŝprucfenestro"
 
 #. generic 'backend order' label
 msgctxt "#19315"
@@ -9537,17 +9414,17 @@ msgstr ""
 #. pvr settings "Start all group channel numbers from 1" setting label
 msgctxt "#19316"
 msgid "Start group channel numbers from 1"
-msgstr ""
+msgstr "Komenci numerojn de grupaj kanaloj de 1"
 
 #. Label for epg grid window "Jump 12 hours back" context menu entry and epg grid controls dialog help text
 msgctxt "#19317"
 msgid "12 hours back"
-msgstr ""
+msgstr "Iri 12 horojn reen"
 
 #. Label for epg grid window "Jump 12 hours forward" context menu entry and epg grid controls dialog help text
 msgctxt "#19318"
 msgid "12 hours forward"
-msgstr ""
+msgstr "Iri 12 horojn antaŭen"
 
 #. Label for epg grid window "Activate previous channel group" context menu entry and epg grid controls dialog help text
 msgctxt "#19319"
@@ -9562,7 +9439,7 @@ msgstr "Sekva grupo"
 #. Label for epg grid window "Activate channel group selector" context menu entry and epg grid controls dialog help text
 msgctxt "#19321"
 msgid "Group selector"
-msgstr ""
+msgstr "Grupa elektilo"
 
 #. Label for epg grid window "Jump to first channel" context menu entry and epg grid controls dialog help text
 msgctxt "#19322"
@@ -9572,7 +9449,7 @@ msgstr "Unua kanalo"
 #. Label for epg grid window "Jump to playing channel" context menu entry and epg grid controls dialog help text
 msgctxt "#19323"
 msgid "Playing channel"
-msgstr "Ludas kanalon"
+msgstr "Ludado de kanalo"
 
 #. Label for epg grid window "Jump to last channel" context menu entry and epg grid controls dialog help text
 msgctxt "#19324"
@@ -9587,7 +9464,7 @@ msgstr "Programo"
 #. Label for epg grid window "Navigate..." context menu entry
 msgctxt "#19326"
 msgid "Navigate..."
-msgstr ""
+msgstr "Navigi..."
 
 #. Label for a context menu entry to delete alle watched recordings contained in a folder
 msgctxt "#19327"
@@ -9597,7 +9474,7 @@ msgstr "Forigi spektitajn"
 #. delete multiple recordings confirmation message box text
 msgctxt "#19328"
 msgid "Delete all watched recordings in this folder?"
-msgstr "Ĉu forigi ĉiujn spektitajn en ĉi tiu dosierujo?"
+msgstr "Ĉu forigi ĉiujn spektitajn registraĵojn en ĉi tiu dosierujo?"
 
 #. label for PVR settings use backend channel numbers always
 msgctxt "#19329"
@@ -9607,27 +9484,27 @@ msgstr ""
 #. pvr settings "switch to channel on reminder auto-close" setting label
 msgctxt "#19330"
 msgid "Switch to channel when auto-closing the reminder popup"
-msgstr ""
+msgstr "Ŝanĝi al kanalo dum aŭtomata fermo de la memoriga ŝprucfenestro"
 
 #. additional text for reminder announcement dialog, used if a recording can be scheduled
 msgctxt "#19331"
 msgid "(Auto-close of this reminder will switch to channel...)"
-msgstr ""
+msgstr "(Aŭtomata fermo de ĉi tiu memorigo ŝanĝos al kanalo...)"
 
 #. text for event log entry for logging auto channel switch for auto-closed reminders
 msgctxt "#19332"
 msgid "Switched to channel for auto-closed PVR reminder for '{0:s}' on channel '{1:s}' at '{2:s}'"
-msgstr ""
+msgstr "Ŝanĝis al kanalo por aŭtomate fermita PVR-memorigo por \"{0:s}\" en kanalo \"{1:s}\" je \"{2:s}\""
 
 #. text for event log entry for logging auto scheduled recordings for auto-closed reminders
 msgctxt "#19333"
 msgid "Switched to channel for auto-closed PVR reminder for channel '{0:s}' at '{1:s}'"
-msgstr ""
+msgstr "Ŝanĝis al kanalo por aŭtomate fermita PVR-memorigo por kanalo \"{0:s}\" je \"{1:s}\""
 
 #. generic label for pvr providers used in different places
 msgctxt "#19334"
 msgid "Providers"
-msgstr ""
+msgstr "Provizantoj"
 
 #. label for special PVR search window list item
 msgctxt "#19335"
@@ -9652,12 +9529,12 @@ msgstr "Ĉu forigi ĉi tiun konservitan serĉon?"
 #. PVR guide search dialog label
 msgctxt "#19339"
 msgid "Ignore finished broadcasts"
-msgstr ""
+msgstr "Ignori finitajn tujelsendojn"
 
 #. PVR guide search dialog label
 msgctxt "#19340"
 msgid "Ignore future broadcasts"
-msgstr ""
+msgstr "Ignori estontaj tujelsendoj"
 
 #. label to ask user to save an EPG search
 msgctxt "#19341"
@@ -9677,32 +9554,32 @@ msgstr "[konservita]"
 #. text for yes no dialog shown when user selects a future programme in the guide window and default select action is 'smart select'
 msgctxt "#19344"
 msgid "Do you want to set a reminder for the selected programme or to switch to the current programme?"
-msgstr ""
+msgstr "Ĉu vi volas agordi memorigon por la elektita programo aŭ ŝanĝi al la nuna programo?"
 
 #. settings label to open add-ons manager window with available PVR client add-ons
 msgctxt "#19345"
 msgid "PVR client add-ons"
-msgstr ""
+msgstr "PVR-klientaj aldonaĵoj"
 
 #. help text for setting to open add-ons manager window with available PVR client add-ons
 msgctxt "#19346"
 msgid "Display and manage available PVR client add-ons."
-msgstr ""
+msgstr "Montri kaj administri disponeblajn PVR-klientajn aldonaĵojn."
 
 #. info message box text stating that none of the available pvr clients does provide client-specific settings
 msgctxt "#19347"
 msgid "None of the active PVR clients provide client-specific settings."
-msgstr ""
+msgstr "Neniu el la aktivaj PVR-klientoj provizas klient-specifajn agordojn."
 
 #. generic label for a pvr provider used in different places
 msgctxt "#19348"
 msgid "Provider"
-msgstr ""
+msgstr "Provizanto"
 
 #. label for 'by user preference' sort method
 msgctxt "#19349"
 msgid "User preference"
-msgstr ""
+msgstr "Uzantpreferoj"
 
 #. label for PVR setting use backend channel group order control
 msgctxt "#19350"
@@ -9722,7 +9599,7 @@ msgstr "Ludi sekvan programon aŭtomate"
 #. Label of a context menu entry to kick catchup / VOD playback, starting with the selected item, auto playing all following programmes
 msgctxt "#19353"
 msgid "Play programmes from here"
-msgstr ""
+msgstr "Ludi programojn ekde ĉi tiam"
 
 #. Label of a context menu entry to kick catchup / VOD playback of only the selected item, not auto playing any following programmes
 msgctxt "#19354"
@@ -9732,17 +9609,17 @@ msgstr "Ludi nur ĉi tiun programon"
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Duobligi"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr "Kopio de '{0:s}'"
+msgstr "Kopio de \"{0:s}\""
 
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Forigi registraĵon"
 
 # empty strings from id 19334 to 19498
 #. label for epg genre value
@@ -9753,22 +9630,22 @@ msgstr "Alia / Nekonata"
 #. label for epg "movie/drama" genre value
 msgctxt "#19500"
 msgid "Movie / Drama"
-msgstr ""
+msgstr "Filmo / Dramo"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19501"
 msgid "Detective / Thriller"
-msgstr ""
+msgstr "Detektiva / Trilero"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19502"
 msgid "Adventure / Western / War"
-msgstr ""
+msgstr "Aventuro / Vakera / Milita"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19503"
 msgid "Science fiction / Fantasy / Horror"
-msgstr ""
+msgstr "Sciencfikcio / Fantaso / Hororo"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19504"
@@ -9778,28 +9655,28 @@ msgstr "Komedio"
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19505"
 msgid "Soap / Melodrama / Folkloric"
-msgstr ""
+msgstr "Sapopero / Melodramo / Folklora"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19506"
 msgid "Romance"
-msgstr ""
+msgstr "Romantika"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19507"
 msgid "Serious / Classical / Religious / Historical movie / drama"
-msgstr ""
+msgstr "Serioza / Klasika / Religia / Historia filmo / dramo"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19508"
 msgid "Adult movie / drama"
-msgstr ""
+msgstr "Poradolta filmo / dramo"
 
 # empty strings from id 19509 to 19515
 #. label for "news/current affairs" epg genre value
 msgctxt "#19516"
 msgid "News / Current affairs"
-msgstr ""
+msgstr "Novaĵoj / Informa programo"
 
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19517"
@@ -9809,38 +9686,38 @@ msgstr "Novaĵoj / Vetera prognozo"
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19518"
 msgid "News magazine"
-msgstr ""
+msgstr "Novaĵa magazino"
 
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19519"
 msgid "Documentary"
-msgstr ""
+msgstr "Dokumenta"
 
 #. label for "news/current affairs" epg subgenre value
 msgctxt "#19520"
 msgid "Discussion / Interview / Debate"
-msgstr ""
+msgstr "Diskuto / Intervjuo / Debato"
 
 # empty strings from id 19521 to 19531
 #. label for "show/game show" epg subgenre value
 msgctxt "#19532"
 msgid "Show / Game show"
-msgstr ""
+msgstr "Distra / Konkursa programo"
 
 #. label for "show/game show" epg subgenre value
 msgctxt "#19533"
 msgid "Game show / Quiz / Contest"
-msgstr ""
+msgstr "Konkurso / Kvizo / Konkurado"
 
 #. label for "show/game show" epg subgenre value
 msgctxt "#19534"
 msgid "Variety show"
-msgstr ""
+msgstr "Varieteo"
 
 #. label for "show/game show" epg subgenre value
 msgctxt "#19535"
 msgid "Talk show"
-msgstr ""
+msgstr "Diskuta programo"
 
 # empty strings from id 19536 to 19547
 #. label for "sports" epg genre value
@@ -9851,12 +9728,12 @@ msgstr "Sportoj"
 #. label for "sports" epg subgenre value
 msgctxt "#19549"
 msgid "Special event"
-msgstr ""
+msgstr "Speciala evento"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19550"
 msgid "Sport magazine"
-msgstr ""
+msgstr "Sporta magazino"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19551"
@@ -9866,7 +9743,7 @@ msgstr "Futbalo"
 #. label for "sports" epg subgenre value
 msgctxt "#19552"
 msgid "Tennis / Squash"
-msgstr ""
+msgstr "Teniso / Skvaŝo"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19553"
@@ -9876,38 +9753,38 @@ msgstr "Teamaj sportoj"
 #. label for "sports" epg subgenre value
 msgctxt "#19554"
 msgid "Athletics"
-msgstr ""
+msgstr "Atletiko"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19555"
 msgid "Motor sport"
-msgstr ""
+msgstr "Motora sporto"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19556"
 msgid "Water sport"
-msgstr ""
+msgstr "Akva sporto"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19557"
 msgid "Winter sports"
-msgstr ""
+msgstr "Vintra sportoj"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19558"
 msgid "Equestrian"
-msgstr ""
+msgstr "Ĉevalrajdado"
 
 #. label for "sports" epg subgenre value
 msgctxt "#19559"
 msgid "Martial sports"
-msgstr ""
+msgstr "Luktosportoj"
 
 # empty strings from id 19560 to 19563
 #. label for "children's/youth programmes" epg genre value
 msgctxt "#19564"
 msgid "Children's / Youth programmes"
-msgstr ""
+msgstr "Infanaj / Junulaj programoj"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19565"
@@ -9915,9 +9792,10 @@ msgid "Pre-school children's programmes"
 msgstr ""
 
 #. label for "children's/youth programmes" epg subgenre value
+#, fuzzy
 msgctxt "#19566"
 msgid "Entertainment programmes for 6 to 14"
-msgstr ""
+msgstr "Distraj programoj por infanoj aĝaj de 6-jaroj ĝis 14-jaroj"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19567"
@@ -9927,33 +9805,33 @@ msgstr ""
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19568"
 msgid "Informational / Educational / School programme"
-msgstr ""
+msgstr "Informa / Eduka / Lerneja programo"
 
 #. label for "children's/youth programmes" epg subgenre value
 msgctxt "#19569"
 msgid "Cartoons / Puppets"
-msgstr ""
+msgstr "Kartunoj / Pupoj"
 
 # empty strings from id 19570 to 19579
 #. label for "music/ballet/dance" epg genre value
 msgctxt "#19580"
 msgid "Music / Ballet / Dance"
-msgstr ""
+msgstr "Muziko / Baleto / Danco"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19581"
 msgid "Rock / Pop"
-msgstr ""
+msgstr "Roko / Popo"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19582"
 msgid "Serious / Classical music"
-msgstr ""
+msgstr "Serioza / Klasika muziko"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19583"
 msgid "Folk / Traditional music"
-msgstr ""
+msgstr "Folka / Tradicia muziko"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19584"
@@ -9963,28 +9841,28 @@ msgstr "Ĵazo"
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19585"
 msgid "Musical / Opera"
-msgstr ""
+msgstr "Muzikalo / Opero"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19586"
 msgid "Ballet"
-msgstr ""
+msgstr "Baleto"
 
 # empty strings from id 19586 to 19595
 #. label for "arts/culture" epg genre value
 msgctxt "#19596"
 msgid "Arts / Culture"
-msgstr ""
+msgstr "Artoj / Kulturo"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19597"
 msgid "Performing arts"
-msgstr ""
+msgstr "Spektaklaj artoj"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19598"
 msgid "Fine arts"
-msgstr ""
+msgstr "Belartoj"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19599"
@@ -9994,12 +9872,12 @@ msgstr "Religio"
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19600"
 msgid "Popular culture / Traditional arts"
-msgstr ""
+msgstr "Popola kulturo / Tradiciaj artoj"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19601"
 msgid "Literature"
-msgstr ""
+msgstr "Literaturo"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19602"
@@ -10009,12 +9887,13 @@ msgstr "Filmo / Kino"
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19603"
 msgid "Experimental film / video"
-msgstr ""
+msgstr "Eksperimenta filmo / videaĵo"
 
 #. label for "arts/culture" epg subgenre value
+#, fuzzy
 msgctxt "#19604"
 msgid "Broadcasting / Press"
-msgstr ""
+msgstr "Dissendo / Gazetara"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19605"
@@ -10024,7 +9903,7 @@ msgstr ""
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19606"
 msgid "Arts / Culture magazines"
-msgstr ""
+msgstr "Artaj / Kulturaj magazinoj"
 
 #. label for "arts/culture" epg subgenre value
 msgctxt "#19607"
@@ -10035,12 +9914,12 @@ msgstr "Modo"
 #. label for "social/political/economics" epg genre value
 msgctxt "#19612"
 msgid "Social / Political / Economics"
-msgstr ""
+msgstr "Socia / Politika / Ekonomiko"
 
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19613"
 msgid "Magazines / Reports / Documentary"
-msgstr ""
+msgstr "Magazinoj / Raportoj / Dokumento"
 
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19614"
@@ -10050,13 +9929,13 @@ msgstr ""
 #. label for "social/political/economics" epg subgenre value
 msgctxt "#19615"
 msgid "Remarkable people"
-msgstr ""
+msgstr "Rimarkindaj homoj"
 
 # empty strings from id 19616 to 19627
 #. label for "education/science/factual" epg genre value
 msgctxt "#19628"
 msgid "Education / Science / Factual"
-msgstr ""
+msgstr "Eduko / Scienco / Fakta"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19629"
@@ -10066,27 +9945,27 @@ msgstr "Naturo / Bestoj / Medio"
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19630"
 msgid "Technology / Natural sciences"
-msgstr ""
+msgstr "Teknologio / Natursciencoj"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19631"
 msgid "Medicine / Physiology / Psychology"
-msgstr ""
+msgstr "Medicino / Fiziologio / Psikologio"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19632"
 msgid "Foreign countries / Expeditions"
-msgstr ""
+msgstr "Fremdaj landoj / Ekspedicioj"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19633"
 msgid "Social / Spiritual sciences"
-msgstr ""
+msgstr "Sociaj / Spiritaj sciencoj"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19634"
 msgid "Further education"
-msgstr ""
+msgstr "Plua edukado"
 
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19635"
@@ -10097,7 +9976,7 @@ msgstr "Lingvoj"
 #. label for "leisure/hobbies" epg genre value
 msgctxt "#19644"
 msgid "Leisure / Hobbies"
-msgstr ""
+msgstr "Libertempo / Hobioj"
 
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19645"
@@ -10107,7 +9986,7 @@ msgstr "Turismo / Vojaĝoj"
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19646"
 msgid "Handicraft"
-msgstr ""
+msgstr "Manfarado"
 
 #. label for "leisure/hobbies" epg subgenre value
 #, fuzzy
@@ -10128,18 +10007,18 @@ msgstr "Kuirado"
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19650"
 msgid "Advertisement / Shopping"
-msgstr ""
+msgstr "Reklamo / Butikomado"
 
 #. label for "leisure/hobbies" epg subgenre value
 msgctxt "#19651"
 msgid "Gardening"
-msgstr ""
+msgstr "Ĝardenado"
 
 # empty strings from id 19652 to 19659
 #. label for "special characteristics" epg genre value
 msgctxt "#19660"
 msgid "Special characteristics"
-msgstr ""
+msgstr "Specialaj karakterizaĵoj"
 
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19661"
@@ -10154,7 +10033,7 @@ msgstr "Nigra-blanka"
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19663"
 msgid "Unpublished"
-msgstr ""
+msgstr "Nepublikigita"
 
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19664"
@@ -10165,7 +10044,7 @@ msgstr ""
 #. label for "user defined" epg subgenre value
 msgctxt "#19676"
 msgid "Drama"
-msgstr ""
+msgstr "Dramo"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19677"
@@ -10195,7 +10074,7 @@ msgstr ""
 #. label for "user defined" epg subgenre value
 msgctxt "#19682"
 msgid "Romance"
-msgstr ""
+msgstr "Romantika"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19683"
@@ -10205,7 +10084,7 @@ msgstr ""
 #. label for "user defined" epg subgenre value
 msgctxt "#19684"
 msgid "Adult"
-msgstr ""
+msgstr "Poradolta"
 
 #. Title for shutdown confirmation dialog
 msgctxt "#19685"
@@ -10374,7 +10253,7 @@ msgstr "{0:s} ({1:s})"
 
 msgctxt "#20037"
 msgid "Summary"
-msgstr ""
+msgstr "Resumo"
 
 msgctxt "#20038"
 msgid "Lock music window"
@@ -10928,7 +10807,7 @@ msgstr ""
 
 msgctxt "#20180"
 msgid "Symbols"
-msgstr ""
+msgstr "Simboloj"
 
 msgctxt "#20181"
 msgid "Backspace"
@@ -10936,7 +10815,7 @@ msgstr ""
 
 msgctxt "#20182"
 msgid "Space"
-msgstr ""
+msgstr "Spaceto"
 
 msgctxt "#20183"
 msgid "Reload skin"
@@ -11432,7 +11311,7 @@ msgstr ""
 
 msgctxt "#20381"
 msgid "Specials"
-msgstr ""
+msgstr "Specialaj epizodoj"
 
 msgctxt "#20382"
 msgid "Recently added"
@@ -11548,7 +11427,7 @@ msgstr ""
 
 msgctxt "#20410"
 msgid "Trailer"
-msgstr ""
+msgstr "Antaŭprezentaĵo"
 
 msgctxt "#20411"
 msgid "Flatten"
@@ -11885,7 +11764,7 @@ msgstr "Versio {0:s}"
 
 msgctxt "#21340"
 msgid "Auto-update"
-msgstr ""
+msgstr "Aŭtomata ĝisdatigo"
 
 msgctxt "#21341"
 msgid "No updates available"
@@ -12056,11 +11935,11 @@ msgstr ""
 
 msgctxt "#21387"
 msgid "Fast"
-msgstr ""
+msgstr "Rapida"
 
 msgctxt "#21388"
 msgid "Quiet"
-msgstr ""
+msgstr "Silenta"
 
 msgctxt "#21389"
 msgid "Enable custom background"
@@ -12346,7 +12225,7 @@ msgstr "Grupigi laŭ"
 
 msgctxt "#21459"
 msgid "mixed"
-msgstr ""
+msgstr "miksita"
 
 #. Subtitle position on screen setting list
 msgctxt "#21460"
@@ -12777,20 +12656,19 @@ msgstr "Etosoj"
 
 msgctxt "#21896"
 msgid "Disbanded"
-msgstr ""
+msgstr "Disiĝo"
 
 msgctxt "#21897"
 msgid "Died"
-msgstr "Mortodato"
+msgstr "Morto"
 
 msgctxt "#21898"
 msgid "Years active"
 msgstr ""
 
-#, fuzzy
 msgctxt "#21899"
 msgid "Label"
-msgstr "Fabriko"
+msgstr "Muzikeldonejo"
 
 msgctxt "#21900"
 msgid "Born / Formed"
@@ -12875,7 +12753,7 @@ msgstr ""
 
 msgctxt "#22020"
 msgid "Guide"
-msgstr ""
+msgstr "Gvidilo"
 
 msgctxt "#22021"
 msgid "Minimise black bars"
@@ -12967,11 +12845,11 @@ msgstr "Bufras {0:d} bajtojn"
 
 msgctxt "#23053"
 msgid "Stopping"
-msgstr "Haltas"
+msgstr "Haltado"
 
 msgctxt "#23054"
 msgid "Running"
-msgstr ""
+msgstr "Funkcianta"
 
 msgctxt "#23055"
 msgid "Scale teletext to 4:3"
@@ -13050,7 +12928,7 @@ msgstr "Subtekstoj"
 
 msgctxt "#24013"
 msgid "Lyrics"
-msgstr ""
+msgstr "Kantoteksto"
 
 msgctxt "#24014"
 msgid "TV information"
@@ -13798,7 +13676,7 @@ msgstr ""
 
 msgctxt "#24994"
 msgid "Running"
-msgstr ""
+msgstr "Funkcianta"
 
 msgctxt "#24995"
 msgid "Orphaned"
@@ -13870,7 +13748,7 @@ msgstr "Ĉapitro {0:d}"
 
 msgctxt "#25011"
 msgid "Commercial"
-msgstr ""
+msgstr "Reklamo"
 
 msgctxt "#25012"
 msgid "Auto-skip off"
@@ -13900,6 +13778,12 @@ msgstr ""
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
+msgstr ""
+
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
 msgstr ""
 
 # empty strings from id 25015 to 29800
@@ -13935,7 +13819,7 @@ msgstr ""
 #. Music band name which make the song (if present)
 msgctxt "#29901"
 msgid "Band"
-msgstr "Bando"
+msgstr "Muzikgrupo"
 
 #. Style of the current playing radio
 msgctxt "#29902"
@@ -13975,7 +13859,7 @@ msgstr "Programo"
 #. Studio name (if present)
 msgctxt "#29909"
 msgid "Studio"
-msgstr ""
+msgstr "Studio"
 
 #. Phone number (if present)
 msgctxt "#29910"
@@ -14030,12 +13914,12 @@ msgstr "Loterio"
 #. Stock information, in list selector (if present)
 msgctxt "#29920"
 msgid "Stock"
-msgstr ""
+msgstr "Akcioj"
 
 #. Other informations, in list selector (if present)
 msgctxt "#29921"
 msgid "Other"
-msgstr ""
+msgstr "Aliaj"
 
 #. Horoscope messages, in list selector (if present)
 msgctxt "#29922"
@@ -14081,7 +13965,7 @@ msgstr "Lingvo"
 #. Program style name
 msgctxt "#29933"
 msgid "College"
-msgstr ""
+msgstr "Universitato"
 
 #. Program style name
 msgctxt "#29934"
@@ -14091,7 +13975,7 @@ msgstr "Personeco"
 #. Program style name
 msgctxt "#29935"
 msgid "Public"
-msgstr ""
+msgstr "Publicista"
 
 #. Program style name
 msgctxt "#29936"
@@ -14111,7 +13995,7 @@ msgstr ""
 #. Program style name
 msgctxt "#29939"
 msgid "Talk"
-msgstr ""
+msgstr "Parolado"
 
 #. Program style name
 msgctxt "#29940"
@@ -14146,7 +14030,7 @@ msgstr "Eduko"
 #. Program style name
 msgctxt "#29946"
 msgid "Drama"
-msgstr ""
+msgstr "Dramo"
 
 #. Program style name
 msgctxt "#29947"
@@ -14161,7 +14045,7 @@ msgstr "Scienco"
 #. Program style name
 msgctxt "#29949"
 msgid "Varied"
-msgstr ""
+msgstr "Diversa"
 
 #. Program style name
 msgctxt "#29950"
@@ -15021,7 +14905,7 @@ msgstr "Nova regilo detektita"
 #. Text of dialog to ask users if they would like to configure a new controller
 msgctxt "#35012"
 msgid "A new controller has been detected. Configuration can be done at any time in \"Settings -> System Settings -> Input\". Would you like to configure it now?"
-msgstr ""
+msgstr "Nova regilo estis detektita. Konfiguro povas esti farita ĉiumomente en \"Agordoj -> Sistemaj agordoj -> Enigo\". Ĉu vi volas konfiguri ĝin nun?"
 
 # empty string with id 35013
 #. Help text of the button to fix the bug where buttons are skipped in the controller dialog. {0:s} - list of disabled buttons and axes
@@ -16137,7 +16021,7 @@ msgstr ""
 #. Description of setting with label #13399 "Ignore articles when sorting"
 msgctxt "#36124"
 msgid "Ignore certain tokens, e.g. \"The\", during sort operations. \"The Simpsons\" would for example be sorted as \"Simpsons\"."
-msgstr ""
+msgstr "Ignori certajn vortojn , ekz. \"La\" dum ordigaj operacioj. Ekzemple \"La Simpsonoj\" estus ordigita kiel \"Simpsonoj\"."
 
 #. Description of setting with label #14071 "Allow file renaming and deletion"
 msgctxt "#36125"
