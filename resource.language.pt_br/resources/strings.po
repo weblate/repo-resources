@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"PO-Revision-Date: 2026-04-16 05:18+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pt_br/>\n"
 "Language: pt_br\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -966,7 +966,7 @@ msgstr "Erro"
 
 msgctxt "#258"
 msgid "Enable tag reading"
-msgstr "Ativar leitura de etiquetas ID3"
+msgstr "Habilitar a leitura de etiquetas"
 
 msgctxt "#259"
 msgid "Opening"
@@ -3493,7 +3493,7 @@ msgstr "Singles"
 
 msgctxt "#1051"
 msgid "Enter web address"
-msgstr "Digite a URL"
+msgstr "Insira o endereço da web"
 
 msgctxt "#1052"
 msgid "Require authentication"
@@ -7763,7 +7763,7 @@ msgstr "Encontrar similar"
 #. label for epg import progress control
 msgctxt "#19004"
 msgid "Importing guide from clients"
-msgstr "Importando EPG - guia de programação eletrônica"
+msgstr "Importando guia de clientes"
 
 #. used by several skins
 msgctxt "#19005"
@@ -7833,7 +7833,7 @@ msgstr "Gravações"
 #. Name of a setting, asking to enter the path to a folder that contains icons for TV channels
 msgctxt "#19018"
 msgid "Folder with channel icons"
-msgstr "Pasta padrão para logos de canais PVR"
+msgstr "Pasta com ícones de canal"
 
 #. generic label for pvr channels used in different places
 msgctxt "#19019"
@@ -8659,7 +8659,7 @@ msgstr "Limpandos dados."
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
 msgid "All guide data will be cleared. Are you sure?"
-msgstr "Todos os dados do EPG serão removidos. Tem certeza?"
+msgstr "Todos os dados do guia serão eliminados. Tem certeza?"
 
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
@@ -9461,7 +9461,7 @@ msgstr "Use a ordem do grupo de canais do(s) back-end(s)"
 #. label for PVR settings category for live tv catchup and video on demand
 msgctxt "#19351"
 msgid "Catchup / Video On Demand"
-msgstr "Catchup / VOD"
+msgstr "Catchup / Vídeo Sob Demanda"
 
 #. label for PVR setting play next programme automatically in catchup / vod mode
 msgctxt "#19352"
@@ -10275,7 +10275,7 @@ msgstr "Ativar botões de atalho"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
-msgstr "Mostrar informações do XLink Kai"
+msgstr "Mostrar programas no menu principal"
 
 msgctxt "#20083"
 msgid "Show music information"
@@ -11182,7 +11182,7 @@ msgstr "Concertos"
 
 msgctxt "#20392"
 msgid "Remove music video from library"
-msgstr "Remover vídeos musicais da biblioteca"
+msgstr "Remover videoclipe da biblioteca"
 
 msgctxt "#20393"
 msgid "Music video information"
@@ -11943,7 +11943,7 @@ msgstr "Nome da lista de reprodução"
 
 msgctxt "#21434"
 msgid "Find items where"
-msgstr "Encontrar itens onde"
+msgstr "Encontre itens onde"
 
 msgctxt "#21435"
 msgid "Edit"
@@ -12847,7 +12847,7 @@ msgstr "(Limpar ajuste atual)"
 
 msgctxt "#24041"
 msgid "Install from zip file"
-msgstr "Instalar a partir de um arquivo ZIP"
+msgstr "Instalar a partir do arquivo zip"
 
 #. Used to show on addon list the current download process
 msgctxt "#24042"
@@ -13577,6 +13577,12 @@ msgstr "Nenhuma lista de reprodução de filmes válida foi encontrada."
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr "Nenhuma lista de reprodução de episódios válida foi encontrada."
+
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr "Seleção automática do menu"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -16270,7 +16276,7 @@ msgstr "Duração da gravação imediata quando pressionar o botão de gravar. E
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
-msgstr "Fechar o OSD após a troca de canais."
+msgstr "Feche os controles na tela após trocar de canal."
 
 msgctxt "#36236"
 msgid "If set to a value greater than zero last watched time of channels will be stored the given amount of time after start of channel playback. Otherwise the last watched time will be stored immediately at start of channel playback."
@@ -16330,7 +16336,7 @@ msgstr "Introduzir um novo código pin para desbloquear os canais com bloqueio p
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."
-msgstr "Perguntar pelo código PIN novamente ao tentar acessar um canal bloqueado e o código não tiver sido solicitado para este período."
+msgstr "Peça o código PIN novamente ao tentar acessar um canal bloqueado pelos pais e o código não foi solicitado nesse período."
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
@@ -16416,12 +16422,12 @@ msgstr "Leia as informações ReplayGain codificados em seus arquivos de áudio 
 #. Description of setting with label #641 "Files with ReplayGain information"
 msgctxt "#36268"
 msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Volume de referência (nível PreAmp) para uso em arquivos com informação codificada ReplayGain. Padrão é 89DB como valor standard. Altere com cautela."
+msgstr "Volume de referência (nível PreAmp) para usar em arquivos com informações codificadas de ReplayGain. O padrão é 89dB, conforme o padrão. Mude com cautela."
 
 #. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
 msgctxt "#36269"
 msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Volume de referência (nível PreAmp) para uso em arquivos sem informação codificada ReplayGain. Padrão é 89DB como valor standard. Altere com cautela."
+msgstr "Volume de referência (nível PreAmp) para usar em arquivos sem informações codificadas de ReplayGain. O padrão é 89dB, conforme o padrão. Mude com cautela."
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
@@ -16541,7 +16547,7 @@ msgstr "Esta categoria contém ajustes de inicialização."
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Selecione a pasta aonde as informações dos artistas (arquivos NFO e imagens) irão ser salvas."
+msgstr "Selecione a pasta onde as informações do artista (arquivos e imagens de NFO) devem ser salvas."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
@@ -18850,7 +18856,7 @@ msgstr "Não foi possível ler o arquivo xml"
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
 msgid "This category provides access to the windows for source management and library management facilities"
-msgstr "Esta categoria fornece acesso às janelas para gerenciamento de fontes e recursos de gerenciamento de biblioteca."
+msgstr "Esta categoria oferece acesso às janelas para gerenciamento de código de fontes e recursos de gestão de bibliotecas"
 
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"

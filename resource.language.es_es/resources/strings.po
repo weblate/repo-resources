@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"PO-Revision-Date: 2026-04-16 05:18+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2408,7 +2408,7 @@ msgstr "Todas las canciones de"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "Series en progreso"
+msgstr "Programas de TV en progreso"
 
 msgctxt "#629"
 msgid "View mode"
@@ -10664,7 +10664,7 @@ msgstr "Recargar skin"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "Usar vista póster para series de TV"
+msgstr "Usar vista póster para programas de TV"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -10886,7 +10886,7 @@ msgstr "Escaneando vídeo musical usando {0:s}"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
-msgstr "Escaneando series de TV usando {0:s}"
+msgstr "Escaneando programas de TV usando {0:s}"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
@@ -10982,7 +10982,7 @@ msgstr "Películas"
 
 msgctxt "#20343"
 msgid "TV shows"
-msgstr "Series"
+msgstr "Programas de TV"
 
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20344"
@@ -11016,7 +11016,7 @@ msgstr "{0:s} ({1:s} votos)"
 
 msgctxt "#20351"
 msgid "TV show information"
-msgstr "Información de serie de TV"
+msgstr "Información del programa de TV"
 
 msgctxt "#20352"
 msgid "Episode information"
@@ -11024,7 +11024,7 @@ msgstr "Información de episodio"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
-msgstr "Cargando detalles de serie de TV"
+msgstr "Cargando detalles del programa de TV"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
@@ -11036,11 +11036,11 @@ msgstr "Cargando información para episodios en el directorio"
 
 msgctxt "#20356"
 msgid "Select TV show:"
-msgstr "Seleccionar serie de TV:"
+msgstr "Seleccionar programa de TV:"
 
 msgctxt "#20357"
 msgid "Enter the TV show name"
-msgstr "Introduzca el nombre de la serie de TV"
+msgstr "Introduzca el nombre del programa de TV"
 
 msgctxt "#20358"
 msgid "Season {0:d}"
@@ -11064,11 +11064,11 @@ msgstr "Borrar episodio de la biblioteca"
 
 msgctxt "#20363"
 msgid "Remove TV show from library"
-msgstr "Borrar serie de TV de la biblioteca"
+msgstr "Borrar programa de TV de la colección"
 
 msgctxt "#20364"
 msgid "TV show"
-msgstr "Serie"
+msgstr "Programa de TV"
 
 msgctxt "#20365"
 msgid "Episode plot"
@@ -11121,7 +11121,7 @@ msgstr "Título original"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
-msgstr "Actualizar información de serie de TV"
+msgstr "Actualizar información de programa de TV"
 
 msgctxt "#20378"
 msgid "Refresh information for all episodes?"
@@ -11130,7 +11130,7 @@ msgstr "¿Actualizar información de todos los episodios?"
 #. xbmc/settings/dialogs/GUIDialogContentSettings.cpp
 msgctxt "#20379"
 msgid "Selected folder contains a single TV show"
-msgstr "La carpeta seleccionada contiene una sola serie de TV"
+msgstr "La carpeta seleccionada contiene un solo programa de TV"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
@@ -11150,11 +11150,11 @@ msgstr "La carpeta seleccionada contiene un solo vídeo"
 
 msgctxt "#20384"
 msgid "Link to TV show"
-msgstr "Enlace a serie de TV"
+msgstr "Enlace a programa de TV"
 
 msgctxt "#20385"
 msgid "Remove link to TV show"
-msgstr "Borrar enlace a serie de TV"
+msgstr "Borrar enlace a programa de TV"
 
 msgctxt "#20386"
 msgid "Recently added movies"
@@ -11250,7 +11250,7 @@ msgstr "Descargando información del vídeo musical"
 
 msgctxt "#20409"
 msgid "Downloading TV show information"
-msgstr "Descargando información de serie de TV"
+msgstr "Descargando información del programa de TV"
 
 msgctxt "#20410"
 msgid "Trailer"
@@ -11262,7 +11262,7 @@ msgstr "Aplanar"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "Aplanar temporadas de series"
+msgstr "Aplanar temporadas de programas de TV"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -11510,7 +11510,7 @@ msgstr "Incluir colecciones que contengan una única película"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
-msgstr "Mostrar series de TV vacías"
+msgstr "Mostrar programas de TV vacíos"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
@@ -11646,7 +11646,7 @@ msgstr "Añadir recurso compartido..."
 
 msgctxt "#21360"
 msgid "Share my libraries"
-msgstr "Compartir mis bibliotecas"
+msgstr "Compartir mis colecciones"
 
 msgctxt "#21361"
 msgid "Look for remote UPnP players"
@@ -11863,7 +11863,7 @@ msgstr "Proveedor por defecto para información de películas"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr "Proveedor por defecto para información de series"
+msgstr "Proveedor por defecto para información de programas de tv"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
@@ -11871,7 +11871,7 @@ msgstr "Proveedores por defecto para información para vídeos musicales"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
-msgstr "Seleccionar primera temporada / episodio no visto de una serie"
+msgstr "Seleccionar primera temporada / episodio no visto de un programa de TV"
 
 msgctxt "#21417"
 msgid "Settings"
@@ -12079,7 +12079,7 @@ msgstr "Parte superior de la pantalla"
 #. Description of setting with label #21416 "Select first unwatched TV show season/episode"
 msgctxt "#21466"
 msgid "When entering a TV show season or episode view automatically select the first unwatched season or episode.[CR][On first entry] The first unwatched item will be selected only when a view is entered for the first time.[CR][Always] The first unwatched item will be selected every time a view is entered."
-msgstr "Al entrar a una temporada o episodio de una serie de TV, se selecciona automáticamente la primera temporada o episodio no visto.[CR][La primera vez] El primer elemento no visto se seleccionará solo cuando se entre a una vista por primera vez.[CR][Siempre] El primer elemento no visto se seleccionará cada vez que se entre a una vista."
+msgstr "Al entrar a una temporada o episodio de un programa de TV, se selecciona automáticamente la primera temporada o episodio no visto.[CR][La primera vez] El primer elemento no visto se seleccionará solo cuando se entre a una vista por primera vez.[CR][Siempre] El primer elemento no visto se seleccionará cada vez que se entre a una vista."
 
 #. Filter (media data) from float value to float value
 msgctxt "#21467"
@@ -13172,7 +13172,7 @@ msgstr "Ubicación de almacenamiento de subtítulos"
 
 msgctxt "#24116"
 msgid "Default TV show service"
-msgstr "Servicio por defecto para serie TV"
+msgstr "Servicio por defecto para el programa de TV"
 
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
@@ -13577,6 +13577,12 @@ msgstr "No se ha encontrado ninguna lista de películas válida."
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr "No se ha encontrado ninguna lista de episodios válida."
+
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr "Selección automática en menú"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15855,7 +15861,7 @@ msgstr "Descarga miniaturas de actores de bases de datos online al agregar conte
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Selecciona en qué casos se oculta la información de temporada en series de TV. Si se ocultan, al seleccionar una serie de TV llevará directamente a la lista de episodios."
+msgstr "Selecciona en qué casos se oculta la información de temporada en programas de TV. Si se ocultan, al seleccionar un programa de TV llevará directamente a la lista de episodios."
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15945,7 +15951,7 @@ msgstr "Activa VideoToolbox para la decodificación por hardware de archivos de 
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "Muestra las series de TV que no contienen ningún episodio cuando se navega por la biblioteca de vídeo."
+msgstr "Muestra los programas de TV que no contienen ningún episodio cuando se navega por la colección de vídeo."
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -16121,7 +16127,7 @@ msgstr "Selecciona la fuente de información por defecto para películas. Consul
 
 msgctxt "#36199"
 msgid "Select the default TV show information source. See the add-ons manager for options."
-msgstr "Selecciona la fuente de información por defecto para series. Consulte el gestor de add-ons para conocer las opciones."
+msgstr "Selecciona la fuente de información por defecto para programas de TV. Consulte el gestor de add-ons para conocer las opciones."
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
@@ -17911,11 +17917,11 @@ msgstr "películas"
 
 msgctxt "#36902"
 msgid "TV show"
-msgstr "serie"
+msgstr "programa de TV"
 
 msgctxt "#36903"
 msgid "TV shows"
-msgstr "series"
+msgstr "Programas de TV"
 
 msgctxt "#36904"
 msgid "season"
@@ -18625,7 +18631,7 @@ msgstr "Esta categoría contiene los ajustes sobre cómo se recopila, almacena, 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
 msgid "This category contains the settings for the library databases"
-msgstr "Esta categoría contiene los ajustes para las bases de datos de las bibliotecas"
+msgstr "Esta categoría contiene los ajustes para las bases de datos de las colecciones"
 
 #. Description of category #14224 "Other"
 msgctxt "#38111"
@@ -18908,7 +18914,7 @@ msgstr "Reanudar audiolibro"
 #. Description of setting with label #21358 "Share my libraries"
 msgctxt "#39017"
 msgid "Enables UPnP. This allows you to stream media in your libraries to a UPnP client and to detect remote UPnP servers."
-msgstr "Activa UPnP. Esto le permite transmitir medios en sus bibliotecas a un cliente UPnP y detectar servidores UPnP remotos."
+msgstr "Activa UPnP. Esto le permite transmitir medios en sus colecciones a un cliente UPnP y detectar servidores UPnP remotos."
 
 msgctxt "#39018"
 msgid "optional"
@@ -19180,12 +19186,12 @@ msgstr "Limita las ilustraciones de películas o colecciones a las obtenidas loc
 
 msgctxt "#39145"
 msgid "TV show art types whitelist"
-msgstr "Lista blanca de tipos de arte de programas TV"
+msgstr "Lista de tipos de arte de programas de TV permitidos"
 
 #. Description of setting with label #39152 "TV show art types whitelist"
 msgctxt "#39146"
 msgid "Limit the TV show and season artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Limita las ilustraciones de programas TV y temporadas a las obtenidas localmente o desde los resultados remotos del raspador solo a los tipos en la lista blanca"
+msgstr "Limita las ilustraciones de programas TV y temporadas a las obtenidas localmente o desde los resultados remotos del scraper solo a los tipos en la lista de permitidos"
 
 msgctxt "#39147"
 msgid "Episode art types whitelist"

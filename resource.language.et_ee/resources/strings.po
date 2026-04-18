@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-27 11:13+0000\n"
+"PO-Revision-Date: 2026-03-30 04:07+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
@@ -13578,6 +13578,12 @@ msgctxt "#25017"
 msgid "No valid episode playlist has been found."
 msgstr "Kehtivat episoodide esitusloendit ei leitud."
 
+#. Automatic menu
+#. Simple menu is shown only if playlist not identified automatically
+msgctxt "#25018"
+msgid "Automatic menu selection"
+msgstr ""
+
 msgctxt "#29801"
 msgid "QWERTY keyboard"
 msgstr "QWERTY klaviatuur"
@@ -16322,11 +16328,11 @@ msgstr "See kategooria sisaldab lapseluku sätteid, kui taustasüsteem toetab la
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr "Lapselukuga kanalitele juurdepääsuks küsitakse PIN-koodi. Kanaleid saab märkida lukustatuks kanaliredaktoris vahekaardil 'Üldine'. Lapselukuga kanaleid ei saa ilma pin-koodi sisestamata vaadata ega salvestada ning nende kanalite teave on peidetud."
+msgstr "Lapselukuga kanalitele juurdepääsuks küsitakse pin-koodi. Kanaleid saab märkida lukustatuks kanaliredaktoris vahekaardil 'Üldine'. Lapselukuga kanaleid ei saa ilma pin-koodi sisestamata vaadata ega salvestada ning nende kanalite teave on peidetud."
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
-msgstr "Lapseluku all oleva kanali avamiseks sisesta uus PIN-kood."
+msgstr "Sisesta uus PIN-kood lapseluku all oleva kanali avamiseks."
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."
