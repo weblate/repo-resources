@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-04-16 05:19+0000\n"
+"PO-Revision-Date: 2026-04-23 03:14+0000\n"
 "Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -3689,7 +3689,7 @@ msgstr "AirPlay"
 
 msgctxt "#1274"
 msgid "AirTunes"
-msgstr "Airtunes"
+msgstr "AirTunes"
 
 #. Filter movies/tvshows/music/episodes/artists/musicvideos/albums/songs
 msgctxt "#1275"
@@ -3731,7 +3731,7 @@ msgstr "临近"
 #. Weather token
 msgctxt "#1378"
 msgid "Intensity"
-msgstr "强"
+msgstr "强度"
 
 #. Weather token
 msgctxt "#1379"
@@ -3746,7 +3746,7 @@ msgstr "非常"
 #. Weather token
 msgctxt "#1381"
 msgid "Extreme"
-msgstr "极好"
+msgstr "极端"
 
 #. Weather token
 msgctxt "#1382"
@@ -3761,7 +3761,7 @@ msgstr "天空晴朗"
 #. Weather token
 msgctxt "#1384"
 msgid "Broken"
-msgstr "已失效"
+msgstr "破碎云"
 
 #. Weather token
 msgctxt "#1385"
@@ -3781,7 +3781,7 @@ msgstr "飓风"
 #. Weather token
 msgctxt "#1388"
 msgid "Cold"
-msgstr "云"
+msgstr "寒冷"
 
 #. Weather token
 msgctxt "#1389"
@@ -3816,7 +3816,7 @@ msgstr "严重"
 #. Weather token
 msgctxt "#1395"
 msgid "Violent"
-msgstr "暴"
+msgstr "猛烈"
 
 #. Weather token
 msgctxt "#1396"
@@ -3886,7 +3886,7 @@ msgstr "冰"
 #. Weather token
 msgctxt "#1409"
 msgid "Crystals"
-msgstr "晶"
+msgstr "冰晶"
 
 #. Weather token
 msgctxt "#1410"
@@ -3926,7 +3926,7 @@ msgstr "雾"
 #. Weather token
 msgctxt "#1417"
 msgid "Grains"
-msgstr "小粒"
+msgstr "粒状"
 
 #. Weather token
 msgctxt "#1418"
@@ -3966,7 +3966,7 @@ msgstr "阴"
 #. Weather token
 msgctxt "#1425"
 msgid "Pellets"
-msgstr "凌"
+msgstr "颗粒"
 
 #. Weather token
 msgctxt "#1426"
@@ -4051,7 +4051,7 @@ msgstr "和"
 #. Weather token
 msgctxt "#1442"
 msgid "Chance"
-msgstr "机会"
+msgstr "可能性"
 
 #. Weather token
 msgctxt "#1443"
@@ -4102,7 +4102,7 @@ msgstr "空列表"
 
 msgctxt "#2081"
 msgid "Went back to parent list because the active list has been emptied"
-msgstr "回到上级列表因活动列表为空"
+msgstr "因活动列表为空，已返回上级列表"
 
 msgctxt "#2101"
 msgid "Newer version needed. Check the log for more information about this message."
@@ -4130,7 +4130,7 @@ msgstr "使用 DTS Core"
 
 msgctxt "#2204"
 msgid "Select this option if you want to passthrough DTS-HD formats as DTS, otherwise, DTS-HD formats will be played via PCM"
-msgstr "若要将 DTS-HD 格式直通为 DTS 则选择此选项，否则将通过 PCM 播放 DTS-HD 格式"
+msgstr "若希望将 DTS-HD 格式以 DTS 格式直通输出，请选择此选项；否则 DTS-HD 格式将通过 PCM 播放"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4296,7 +4296,7 @@ msgstr "将以上设置重置为默认值"
 
 msgctxt "#10042"
 msgid "Are you sure you want to reset the settings in this category?"
-msgstr "你确定要重置此功能模块的所有设置？"
+msgstr "你确定要重置此类别中的所有设置吗？"
 
 msgctxt "#10043"
 msgid "Help"
@@ -4316,7 +4316,7 @@ msgstr "无可用类别"
 
 msgctxt "#10047"
 msgid "Try changing the setting level to see additional categories and settings."
-msgstr "改变设置级别以查看更多的类别和设置。"
+msgstr "尝试改变设置级别以查看更多的类别和设置。"
 
 msgctxt "#10048"
 msgid "Add video source"
@@ -10367,7 +10367,7 @@ msgstr "发现旧媒体源。你要使用吗？"
 
 msgctxt "#20107"
 msgid "Separate (locked)"
-msgstr "分离的（锁定）"
+msgstr "单独显示（锁定）"
 
 msgctxt "#20108"
 msgid "Root"
@@ -11458,7 +11458,7 @@ msgstr "电影集"
 
 msgctxt "#20458"
 msgid "Show movie sets"
-msgstr "显示电影集"
+msgstr "显示电影合集"
 
 msgctxt "#20459"
 msgid "Tags"
@@ -13284,7 +13284,7 @@ msgstr "对版本 {1:s} 的 {0:s} 依赖无法满足。"
 #. Installing the addon from zip file located at <path to zip file> failed due to an invalid structure.
 msgctxt "#24143"
 msgid "Installing the add-on from zip file located at {0:s} failed due to an invalid structure."
-msgstr "由于结构无效，从位于{0:s}的zip文件安装加载项失败。"
+msgstr "由于结构无效，从位于{0:s}的 zip 文件安装加载项失败。"
 
 #. Used as an event log description for add-ons that have been uninstalled
 msgctxt "#24144"
@@ -15270,7 +15270,7 @@ msgstr "此版本仅可使用控制器玩游戏。"
 #. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35237"
 msgid "Normal (1:1 PAR)"
-msgstr "正常（1:1比例）"
+msgstr "正常（1:1 像素宽高比 ）"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15280,7 +15280,7 @@ msgstr "整数"
 #. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
 msgctxt "#35239"
 msgid "Integer (1:1 PAR)"
-msgstr "整数（1:1比例）"
+msgstr "整数（1:1 像素宽高比）"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15861,7 +15861,7 @@ msgstr "当添加媒体到资料库时从在线数据库下载演员缩略图。
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "选择什么情况下隐藏电视节目的季结点。隐藏时，选择一个电视剧将直接跳到剧集视图。"
+msgstr "选择在哪些情况下隐藏电视剧的季节点。若隐藏，选择电视剧后将直接进入剧集视图。"
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15951,7 +15951,7 @@ msgstr "启用视频文件 VideoToolbox 硬件解码。"
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "浏览视频资料库时显示无分集的电视剧。"
+msgstr "浏览视频资料库时显示无剧集的电视剧。"
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -17150,7 +17150,7 @@ msgid ""
 "Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
 "You can disable this setting if you experience audio issues."
 msgstr ""
-"减少了音频处理的延迟。提升了音频的播放启动速度、暂停后的继续播放速度以及音轨定位速度（音频内容会更快地被播放出来）。↵\n"
+"降低了音频处理的延迟。提升了音频的播放启动速度、暂停后的继续播放速度以及音轨定位速度（音频内容会更快地被播放出来）。\n"
 "如果遇到音频相关问题，你可以禁用此设置。"
 
 #. Description of setting with label #21417 "Settings"
@@ -17953,7 +17953,7 @@ msgstr "影片集"
 
 msgctxt "#36911"
 msgid "sets"
-msgstr "影片集"
+msgstr "合集"
 
 msgctxt "#36912"
 msgid "video"
@@ -18536,7 +18536,7 @@ msgstr "现在刷新此项目的信息吗？"
 
 msgctxt "#38074"
 msgid "Boxsets"
-msgstr "套装合辑"
+msgstr "套装合集"
 
 msgctxt "#38075"
 msgid "* All discs"
@@ -19492,12 +19492,12 @@ msgstr "Starfish 是适用于 LG webOS 系统的硬件视频解码器。若需�
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr "杜比视界：将 L5 元数据强制设为零"
+msgstr "杜比视界：将 level 5 元数据强制设为零"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr "启用后，杜比视界文件的 L5 (活动区域)元数据将被强制覆盖为零偏移。如果您的显示器在播放杜比视界内容时出现图像裁剪错误问题，请启用此选项。"
+msgstr "启用后，杜比视界文件的 level 5 (有效显示区域)元数据将被强制覆盖为零偏移。如果您的显示器在播放杜比视界内容时出现图像裁剪错误问题，请启用此选项。"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)

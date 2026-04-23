@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-04-16 05:18+0000\n"
+"PO-Revision-Date: 2026-04-20 01:59+0000\n"
 "Last-Translator: Jakub Szafranek13 Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -1384,7 +1384,7 @@ msgstr "Ekrankurtena reĝimo"
 
 msgctxt "#357"
 msgid "Shutdown function timer"
-msgstr "Prokrastilo de elŝalto"
+msgstr "Prokrastilo de sistemfermo"
 
 msgctxt "#358"
 msgid "All albums"
@@ -10038,7 +10038,7 @@ msgstr "Nepublikigita"
 #. label for "special characteristics" epg subgenre value
 msgctxt "#19664"
 msgid "Live broadcast"
-msgstr ""
+msgstr "Tujelsendo"
 
 # empty strings from id 19665 to 19675
 #. label for "user defined" epg subgenre value
@@ -10049,17 +10049,17 @@ msgstr "Dramo"
 #. label for "user defined" epg subgenre value
 msgctxt "#19677"
 msgid "Detective / Thriller"
-msgstr ""
+msgstr "Detektiva / Trilero"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19678"
 msgid "Adventure / Western / War"
-msgstr ""
+msgstr "Aventura / Vakera / Milita"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19679"
 msgid "Science fiction / Fantasy / Horror"
-msgstr ""
+msgstr "Sciencfikcio / Fantaso / Hororo"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19680"
@@ -10069,7 +10069,7 @@ msgstr "Komedio"
 #. label for "user defined" epg subgenre value
 msgctxt "#19681"
 msgid "Soap / Melodrama / Folkloric"
-msgstr ""
+msgstr "Sapopero / Melodramo / Folklora"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19682"
@@ -10079,7 +10079,7 @@ msgstr "Romantika"
 #. label for "user defined" epg subgenre value
 msgctxt "#19683"
 msgid "Serious / Classical / Religion / Historical"
-msgstr ""
+msgstr "Serioza / Klasika / Religia / Historia"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19684"
@@ -10089,12 +10089,12 @@ msgstr "Poradolta"
 #. Title for shutdown confirmation dialog
 msgctxt "#19685"
 msgid "Confirm shutdown"
-msgstr ""
+msgstr "Konfirmu sistemfermon"
 
 #. Label for buttons to open channel guide dialog
 msgctxt "#19686"
 msgid "Channel guide"
-msgstr ""
+msgstr "Kanala gvidilo"
 
 #. Label for context menu entries, dialog heading, button to start playing a recording
 msgctxt "#19687"
@@ -10105,22 +10105,22 @@ msgstr "Ludi registraĵon"
 #. Text for shutdown confirmation dialog
 msgctxt "#19690"
 msgid "PVR has scheduled a reminder for '{0:s}' on channel '{1:s}' in {2:s}."
-msgstr ""
+msgstr "PVR planis memorigon por \"{0:s}\" en kanalo \"{1:s}\" je {2:s}."
 
 #. Text for shutdown confirmation dialog.
 msgctxt "#19691"
 msgid "PVR is currently recording '{0:s}' on channel '{1:s}'."
-msgstr ""
+msgstr "PVR nune registras \"{0:s}\" en kanalo \"{1:s}\"."
 
 #. Text for shutdown confirmation dialog
 msgctxt "#19692"
 msgid "PVR will start recording '{0:s}' on channel '{1:s}' in {2:s}."
-msgstr ""
+msgstr "PVR komencos registri \"{0:s}\" en kanalo \"{1:s}\" post {2:s}."
 
 #. Text for shutdown confirmation dialog
 msgctxt "#19693"
 msgid "Daily wakeup is due in {0:s}."
-msgstr ""
+msgstr "Ĉiutaga veko okazos post {0:s}."
 
 #. Text for shutdown confirmation dialog
 msgctxt "#19694"
@@ -10135,12 +10135,12 @@ msgstr "ĉirkaŭ minuto"
 #. Yes button label for shutdown confirmation dialog
 msgctxt "#19696"
 msgid "Shutdown anyway"
-msgstr ""
+msgstr "Elŝalti ĉiuokaze"
 
 # empty strings from id 19697 to 19999
 msgctxt "#20000"
 msgid "Saved music folder"
-msgstr ""
+msgstr "Dosierujo de konservita muziko"
 
 msgctxt "#20001"
 msgid "Use external DVD player"
@@ -10152,7 +10152,7 @@ msgstr "Ekstera DVD-ludilo"
 
 msgctxt "#20003"
 msgid "Trainers folder"
-msgstr ""
+msgstr "Dosierujo de trainer-oj"
 
 msgctxt "#20004"
 msgid "Screenshot folder"
@@ -10194,7 +10194,7 @@ msgstr "Ordigi laŭ: Ludlisto"
 
 msgctxt "#20015"
 msgid "Remote thumb"
-msgstr ""
+msgstr "Fora miniaturo"
 
 msgctxt "#20016"
 msgid "Current thumb"
@@ -10230,11 +10230,11 @@ msgstr "Konflikto"
 
 msgctxt "#20024"
 msgid "Scan new"
-msgstr ""
+msgstr "Skani novajn"
 
 msgctxt "#20025"
 msgid "Scan all"
-msgstr ""
+msgstr "Skani ĉiujn"
 
 msgctxt "#20026"
 msgid "Region"
@@ -10244,7 +10244,7 @@ msgstr "Regiono"
 # string id's 20027 thru 20034 are reserved for temperature strings (LocalizeStrings.cpp)
 msgctxt "#20035"
 msgid "Regional ({0:s})"
-msgstr ""
+msgstr "Regiona ({0:s})"
 
 #. Used for date/time format settings like "10:00:00 (HH:mm:ss)"
 msgctxt "#20036"
@@ -10257,23 +10257,23 @@ msgstr "Resumo"
 
 msgctxt "#20038"
 msgid "Lock music window"
-msgstr ""
+msgstr "Ŝlosi muzikan fenestron"
 
 msgctxt "#20039"
 msgid "Lock videos window"
-msgstr ""
+msgstr "Ŝlosi videaĵan fenestron"
 
 msgctxt "#20040"
 msgid "Lock pictures window"
-msgstr ""
+msgstr "Ŝlosi bildan fenestron"
 
 msgctxt "#20041"
 msgid "Lock programs & scripts windows"
-msgstr ""
+msgstr "Ŝlosi fenestron de programoj kaj skriptoj"
 
 msgctxt "#20042"
 msgid "Lock file manager"
-msgstr ""
+msgstr "Ŝlosi dosiermastrumilon"
 
 msgctxt "#20043"
 msgid "Lock settings"
@@ -10281,19 +10281,19 @@ msgstr "Ŝlosi agordojn"
 
 msgctxt "#20044"
 msgid "Start fresh"
-msgstr ""
+msgstr "Rekomenci"
 
 msgctxt "#20045"
 msgid "Enter master mode"
-msgstr ""
+msgstr "Eniri administran reĝimon"
 
 msgctxt "#20046"
 msgid "Leave master mode"
-msgstr ""
+msgstr "Forlasi administran reĝimon"
 
 msgctxt "#20047"
 msgid "Create profile '{0:s}'?"
-msgstr "Ĉu krei profilon '{0:s}'?"
+msgstr "Ĉu krei profilon \"{0:s}\"?"
 
 msgctxt "#20048"
 msgid "Start with fresh settings or copy from default?"
@@ -10301,15 +10301,16 @@ msgstr ""
 
 msgctxt "#20049"
 msgid "Best available"
-msgstr ""
+msgstr "Plej bona disponebla"
 
 msgctxt "#20050"
 msgid "Auto-switch between 16x9 and 4x3"
 msgstr "Aŭtomate ŝanĝi inter 16x9 kaj 4x3"
 
+#, fuzzy
 msgctxt "#20051"
 msgid "Treat stacked files as single file"
-msgstr ""
+msgstr "Trakti partigitajn dosierojn kiel unuopa dosiero"
 
 msgctxt "#20052"
 msgid "Caution"
@@ -10317,15 +10318,15 @@ msgstr "Averto"
 
 msgctxt "#20053"
 msgid "Left master mode"
-msgstr ""
+msgstr "Administra reĝimo forlasita"
 
 msgctxt "#20054"
 msgid "Entered master mode"
-msgstr ""
+msgstr "Administra reĝimo enirita"
 
 msgctxt "#20055"
 msgid "Allmusic.com thumb"
-msgstr ""
+msgstr "Miniaturo de Allmusic.com"
 
 # empty string with id 20056
 msgctxt "#20057"
@@ -10339,11 +10340,11 @@ msgstr "Aldoni profilon..."
 #. Context menu entry
 msgctxt "#20059"
 msgid "Query info for all albums"
-msgstr ""
+msgstr "Akiri informojn pri ĉiuj albumoj"
 
 msgctxt "#20060"
 msgid "Media info"
-msgstr "Pri plurmedioj"
+msgstr "Pri aŭdvidaĵo"
 
 msgctxt "#20061"
 msgid "Separate"
@@ -10375,7 +10376,7 @@ msgstr "Redakti profilon"
 
 msgctxt "#20068"
 msgid "Profile lock"
-msgstr ""
+msgstr "Profila ŝloso"
 
 msgctxt "#20069"
 msgid "Couldn't create folder"
@@ -10396,15 +10397,15 @@ msgstr "Certiĝu ke la elektita dosierujo skribeblas kaj nomo de la nova dosieru
 # empty string with id 20073
 msgctxt "#20074"
 msgid "MPAA rating"
-msgstr ""
+msgstr "MPAA-takso"
 
 msgctxt "#20075"
 msgid "Enter master lock code"
-msgstr ""
+msgstr "Entajpu kodon de ĉefa ŝloso"
 
 msgctxt "#20076"
 msgid "Ask for master lock code on startup"
-msgstr ""
+msgstr "Postuli kodon de ĉefa ŝloso je starto"
 
 msgctxt "#20077"
 msgid "Skin settings"
@@ -10420,15 +10421,15 @@ msgstr "Ŝalti animacioj"
 
 msgctxt "#20080"
 msgid "Disable RSS during music"
-msgstr ""
+msgstr "Malŝalti RRS-on dum muzika ludado"
 
 msgctxt "#20081"
 msgid "Enable shortcut buttons"
-msgstr ""
+msgstr "Ŝalti ŝparvojajn butonojn"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
-msgstr ""
+msgstr "Montri programojn en ĉefa menuo"
 
 msgctxt "#20083"
 msgid "Show music information"
@@ -10444,11 +10445,11 @@ msgstr "Montri sistemajn informojn"
 
 msgctxt "#20086"
 msgid "Show available disk space C: E: F:"
-msgstr ""
+msgstr "Montri disponeblan spacon de diskoj C: E: F:"
 
 msgctxt "#20087"
 msgid "Show available disk space E: F: G:"
-msgstr ""
+msgstr "Montri disponeblan spacon de diskoj E: F: G:"
 
 msgctxt "#20088"
 msgid "Weather information"
@@ -10456,19 +10457,19 @@ msgstr "Pri vetero"
 
 msgctxt "#20089"
 msgid "Drive space free"
-msgstr ""
+msgstr "Diska libera spaco"
 
 msgctxt "#20090"
 msgid "Enter the name of an existing share"
-msgstr ""
+msgstr "Entajpu la nomon de ekzistanta komuna dosierujo"
 
 msgctxt "#20091"
 msgid "Lock code"
-msgstr ""
+msgstr "Ŝlosa kodo"
 
 msgctxt "#20092"
 msgid "Load profile"
-msgstr ""
+msgstr "Ŝargi profilon"
 
 msgctxt "#20093"
 msgid "Profile name"
@@ -10476,11 +10477,11 @@ msgstr "Profila nomo"
 
 msgctxt "#20094"
 msgid "Media sources"
-msgstr "Plurmediaj fontoj"
+msgstr "Aŭdvidaĵaj fontoj"
 
 msgctxt "#20095"
 msgid "Enter profile lock code"
-msgstr ""
+msgstr "Entajpu ŝlosan kodon de profilo"
 
 msgctxt "#20096"
 msgid "Login screen"
@@ -10488,23 +10489,23 @@ msgstr "Ensalutekrano"
 
 msgctxt "#20097"
 msgid "Fetching album information"
-msgstr ""
+msgstr "Akiro de albumaj informoj"
 
 msgctxt "#20098"
 msgid "Fetching information for album"
-msgstr ""
+msgstr "Akiro de informoj por albumo"
 
 msgctxt "#20099"
 msgid "A CD or track can't be ripped while being played"
-msgstr ""
+msgstr "KD-o aŭ trako ne eblas esti ekstraktita dum ĝia ludado"
 
 msgctxt "#20100"
 msgid "Master lock code and settings"
-msgstr ""
+msgstr "Kodo kaj agordoj de ĉefa ŝloso"
 
 msgctxt "#20101"
 msgid "Entering master lock code always enables master mode"
-msgstr ""
+msgstr "Entajpo de ĉefa kodo ĉiam ŝaltas administran reĝimon"
 
 # empty string with id 20102
 msgctxt "#20103"
@@ -10518,7 +10519,7 @@ msgstr "Malnovaj agordoj trovitaj. Ĉu vi volas uzi ilin?"
 # empty string with id 20105
 msgctxt "#20106"
 msgid "Old media sources found. Do you want to use them?"
-msgstr "Malnovaj plurmediaj fontoj trovitaj. Ĉu vi volas uzi ilin?"
+msgstr "Malnovaj aŭdvidaĵaj fontoj trovitaj. Ĉu vi volas uzi ilin?"
 
 msgctxt "#20107"
 msgid "Separate (locked)"
@@ -10538,7 +10539,7 @@ msgstr "UPnP-agordoj"
 
 msgctxt "#20111"
 msgid "Autostart UPnP client"
-msgstr ""
+msgstr "Aŭtomate lanĉi UPnP-klienton"
 
 msgctxt "#20112"
 msgid "Last login: {0:s}"
@@ -10546,7 +10547,7 @@ msgstr "Lasta ensaluto: {0:s}"
 
 msgctxt "#20113"
 msgid "Never logged on"
-msgstr "Neniam ensalutita"
+msgstr "Neniam ensalutinta"
 
 msgctxt "#20114"
 msgid "Profile {0:d} / {1:d}"
@@ -10556,23 +10557,22 @@ msgctxt "#20115"
 msgid "User login / Select a profile"
 msgstr "Ensaluto / Elektu profilon"
 
-#, fuzzy
 msgctxt "#20116"
 msgid "Use lock on login screen"
-msgstr "Ŝlosi ensalutekranon"
+msgstr "Uzi ŝloson en ensalutekrano"
 
 msgctxt "#20117"
 msgid "Invalid lock code."
-msgstr ""
+msgstr "Malĝusta ŝlosa kodo."
 
 msgctxt "#20118"
 msgid "This requires the master lock to be set. Would you like to set it now?"
-msgstr ""
+msgstr "Ĉi tio devigas agordi la ĉefan ŝloson. Ĉu vi volas agordi ĝin nun?"
 
 # empty string with id 20119
 msgctxt "#20120"
 msgid "Loading program information"
-msgstr ""
+msgstr "Ŝargado de programaj informoj"
 
 msgctxt "#20121"
 msgid "Party on!"
@@ -10592,7 +10592,7 @@ msgstr "Plenigas glasojn"
 
 msgctxt "#20125"
 msgid "Logged on as"
-msgstr "Ensalutita kiel"
+msgstr "Ensalutinta kiel"
 
 msgctxt "#20126"
 msgid "Log off"
@@ -10613,7 +10613,7 @@ msgstr ""
 
 msgctxt "#20132"
 msgid "Restart video"
-msgstr ""
+msgstr "Restartigi videaĵon"
 
 msgctxt "#20133"
 msgid "Edit network location"
@@ -10629,7 +10629,7 @@ msgstr "Ĉu vi volas skani la dosierujon?"
 
 msgctxt "#20136"
 msgid "Memory unit"
-msgstr ""
+msgstr "Memora unuo"
 
 msgctxt "#20137"
 msgid "Memory unit mounted"
@@ -10639,10 +10639,9 @@ msgctxt "#20138"
 msgid "Unable to mount memory unit"
 msgstr ""
 
-#, fuzzy
 msgctxt "#20139"
 msgid "In port {0:d}, slot {1:d}"
-msgstr "En pordo {0:d}, slot {1:d}"
+msgstr "En pordo {0:d}, ingo {1:d}"
 
 msgctxt "#20140"
 msgid "Lock screensaver"
@@ -10662,11 +10661,11 @@ msgstr "Entajpu pasvorton por"
 
 msgctxt "#20144"
 msgid "Shutdown timer"
-msgstr ""
+msgstr "Sistemferma tempumpilo"
 
 msgctxt "#20145"
 msgid "Shutdown interval (in minutes)"
-msgstr ""
+msgstr "Sistemferma intervalo (en minutoj)"
 
 msgctxt "#20146"
 msgid "Started, shutdown in {0:d}m"
