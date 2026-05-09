@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-04-20 01:59+0000\n"
+"PO-Revision-Date: 2026-04-28 20:45+0000\n"
 "Last-Translator: Jakub Szafranek13 Fabijan <jakubfabijan@tuta.io>\n"
 "Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/eo/>\n"
 "Language: eo\n"
@@ -11499,7 +11499,7 @@ msgstr ""
 
 msgctxt "#20427"
 msgid "Choose rule type"
-msgstr ""
+msgstr "Elektu regulan tipon"
 
 #. xbmc/interfaces/builtins/LibraryBuiltins.cpp
 msgctxt "#20428"
@@ -11568,7 +11568,7 @@ msgstr "Ŝanĝi enhavon"
 
 msgctxt "#20443"
 msgid "Do you want to refresh information for all items within this path?"
-msgstr ""
+msgstr "Ĉu vi volas aktualigi informojn pri ĉiuj elementoj en ĉi tiu vojo?"
 
 msgctxt "#20444"
 msgid "Add to library"
@@ -11582,23 +11582,23 @@ msgstr ""
 #. Ask user when refreshing music or video info if they want to use data from NFO file
 msgctxt "#20446"
 msgid "Locally stored information found. Ignore and refresh from Internet?"
-msgstr ""
+msgstr "Lokale konservitaj informoj trovitaj. Ĉu ignori ilin kaj aktualigi de interreto?"
 
 msgctxt "#20447"
 msgid "Do you want to add the media from this source to your library?"
-msgstr "Ĉu vi volas aldoni la plurmediojn de tiu fonto al via biblioteko?"
+msgstr "Ĉu vi volas aldoni la aŭdvidaĵojn de tiu fonto al via biblioteko?"
 
 msgctxt "#20448"
 msgid "Couldn't download information"
-msgstr ""
+msgstr "Ne eblis elŝuti informojn"
 
 msgctxt "#20449"
 msgid "Unable to connect to remote server"
-msgstr ""
+msgstr "Ne eblis konekti al fora servilo"
 
 msgctxt "#20450"
 msgid "Unable to connect to remote server. Would you like to continue scanning?"
-msgstr ""
+msgstr "Ne eblis konekti al fora servilo. Ĉu vi volas daŭrigi skanadon?"
 
 msgctxt "#20451"
 msgid "Countries"
@@ -11623,7 +11623,7 @@ msgstr "Aŭskultantoj"
 #. Label of a setting to use a simplified (flattened) hierarchy
 msgctxt "#20456"
 msgid "Flatten hierarchy"
-msgstr ""
+msgstr "Platigi hierarkion"
 
 msgctxt "#20457"
 msgid "Movie set"
@@ -11651,7 +11651,7 @@ msgstr "Nova etikedo..."
 
 msgctxt "#20463"
 msgid "A tag with the name '{0:s}' already exists."
-msgstr "Etikedo kun la nomo '{0:s}' jam ekzistas."
+msgstr "Etikedo kun la nomo \"{0:s}\" jam ekzistas."
 
 msgctxt "#20464"
 msgid "Select {0:s}"
@@ -11659,7 +11659,7 @@ msgstr "Elekti {0:s}"
 
 msgctxt "#20465"
 msgid "Manage movie set"
-msgstr ""
+msgstr "Administri filmserion"
 
 msgctxt "#20466"
 msgid "Select movie set"
@@ -11675,11 +11675,11 @@ msgstr "Aldoni filmon al nova serio"
 
 msgctxt "#20469"
 msgid "Keep current set ({0:s})"
-msgstr ""
+msgstr "Konservi aktualan serion ({0:s})"
 
 msgctxt "#20470"
 msgid "Include sets containing a single movie"
-msgstr ""
+msgstr "Inkluzivi seriojn enhavantajn unuopan filmon"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
@@ -11687,7 +11687,7 @@ msgstr "Montri malplenajn televidseriojn"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
-msgstr ""
+msgstr "Montri ĉiujn artistojn por muzikvideoj"
 
 msgctxt "#20473"
 msgid "Premiered"
@@ -11696,12 +11696,12 @@ msgstr "Premierita"
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20474"
 msgid "HDR type"
-msgstr ""
+msgstr "HDR-tipo"
 
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Havas plurajn versiojn"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
@@ -11711,12 +11711,12 @@ msgstr ""
 #. When you create a new profile ask to user if wants to create it in a custom directory
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
-msgstr ""
+msgstr "Ĉu vi volas krei la novan profilon en propra dosierujo?"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
-msgstr ""
+msgstr "DV-profilo"
 
 # empty strings from id 20474 to 21329
 # up to 21329 is reserved for the video db !! !
@@ -11726,7 +11726,7 @@ msgstr "Montri kaŝitajn dosierojn kaj dosierujojn"
 
 msgctxt "#21331"
 msgid "New media detected"
-msgstr ""
+msgstr "Novaj aŭdvidaĵoj detektitaj"
 
 msgctxt "#21332"
 msgid "Browse videos"
@@ -11746,7 +11746,7 @@ msgstr "Foliumi dosierojn"
 
 msgctxt "#21336"
 msgid "Connecting to: {0:s}"
-msgstr "Konektas al: {0:s}"
+msgstr "Konektado al: {0:s}"
 
 #. Used in the add-on browser under "Last updated" when a repository has never been updated
 msgctxt "#21337"
@@ -11771,15 +11771,16 @@ msgstr "Neniu ĝisdatigo disponebla"
 
 msgctxt "#21342"
 msgid "There are currently no versions available for this add-on."
-msgstr ""
+msgstr "Nune estas neniu versio disponebla por ĉi tiu aldonaĵo."
 
 msgctxt "#21343"
 msgid "Use video tags"
 msgstr "Uzi videaĵajn etikedojn"
 
+#, fuzzy
 msgctxt "#21344"
 msgid "Enable to use embedded tags in mp4 or mkv files for library metadata. Will prevent scrapers from operating correctly."
-msgstr ""
+msgstr "Ŝalti, por uzi enkorpigitajn etikedojn en dosieroj mp4 aŭ mkv por bibliotekaj metadatumoj. Tio preventos skrapiloj"
 
 #. Used in AutoPlayNextItem dialogs for not categorized listItem directories
 msgctxt "#21345"
@@ -11789,7 +11790,7 @@ msgstr "Senkategoriaj"
 #. Used to give heading list entry for an file extension description, e.g. to show as 'Extension: ".mp3"'
 msgctxt "#21346"
 msgid "Extension: \"{0:s}\""
-msgstr ""
+msgstr "Finaĵo: \"{0:s}\""
 
 #. Used to give heading list entry for an mimetype description, e.g. to show as 'MIME type: "audio/mpeg3"'
 msgctxt "#21347"
@@ -11799,17 +11800,17 @@ msgstr "MIME-tipo: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Speciala {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Epizodo {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Speciala"
 
 # empty strings from id 21346 to 21357
 msgctxt "#21358"
@@ -11818,7 +11819,7 @@ msgstr "Ŝalti UPnP-subtenon"
 
 msgctxt "#21359"
 msgid "Add media share..."
-msgstr ""
+msgstr "Aldoni aŭdvidaĵan komunan dosierujon..."
 
 msgctxt "#21360"
 msgid "Share my libraries"
@@ -11826,7 +11827,7 @@ msgstr "Konigi miajn bibliotekojn"
 
 msgctxt "#21361"
 msgid "Look for remote UPnP players"
-msgstr ""
+msgstr "Serĉi por foraj UPnP-ludiloj"
 
 msgctxt "#21362"
 msgid "Bookmark created"
@@ -11838,15 +11839,15 @@ msgstr "Epizoda legosigno kreita"
 
 msgctxt "#21364"
 msgid "Edit media share"
-msgstr ""
+msgstr "Redakti aŭdvidaĵan komunan dosierujon"
 
 msgctxt "#21365"
 msgid "Remove media share"
-msgstr ""
+msgstr "Forigi aŭdvidaĵan komunan dosierujon"
 
 msgctxt "#21366"
 msgid "Custom subtitle folder"
-msgstr "Propra subtitola dosierujo"
+msgstr "Propra subteksta dosierujo"
 
 msgctxt "#21367"
 msgid "Movie & alternate subtitle directory"
@@ -11862,7 +11863,7 @@ msgstr "Ebligi muson kaj tuŝekranan subtenon"
 
 msgctxt "#21370"
 msgid "Play GUI sounds during media playback"
-msgstr ""
+msgstr "Ludi GUI-sonojn dum aŭdvidaĵa ludado"
 
 #. Name of an artwork type
 msgctxt "#21371"
@@ -11871,7 +11872,7 @@ msgstr "Miniaturo"
 
 msgctxt "#21372"
 msgid "Forced DVD player region"
-msgstr ""
+msgstr "Devigi DVD-ludilan regionon"
 
 msgctxt "#21373"
 msgid "Display"
@@ -11879,12 +11880,11 @@ msgstr "Ekrano"
 
 msgctxt "#21374"
 msgid "Video aspect"
-msgstr ""
+msgstr "Videa ekranformato"
 
-#, fuzzy
 msgctxt "#21375"
 msgid "Normal"
-msgstr "Normal"
+msgstr "Normala"
 
 msgctxt "#21376"
 msgid "Letterbox"
@@ -11917,7 +11917,7 @@ msgstr "Montri butonojn \"Aldoni fonton\""
 
 msgctxt "#21383"
 msgid "Enable scrollbars"
-msgstr ""
+msgstr "Ŝalti rulumskalojn"
 
 #, fuzzy
 msgctxt "#21384"
@@ -11966,7 +11966,7 @@ msgstr ""
 
 msgctxt "#21395"
 msgid "Unable to cache files bigger than 4GB"
-msgstr ""
+msgstr "Ne eblas kaŝmemori dosierojn pli grandajn ol 4GB"
 
 msgctxt "#21396"
 msgid "Chapter"
@@ -11978,7 +11978,7 @@ msgstr ""
 
 msgctxt "#21398"
 msgid "between"
-msgstr ""
+msgstr "inter"
 
 # empty string with id 21398
 msgctxt "#21399"
@@ -12011,11 +12011,11 @@ msgstr "finas per"
 
 msgctxt "#21406"
 msgid "greater than"
-msgstr ""
+msgstr "pli granda ol"
 
 msgctxt "#21407"
 msgid "less than"
-msgstr ""
+msgstr "pli malgranda ol"
 
 msgctxt "#21408"
 msgid "after"
@@ -12035,19 +12035,19 @@ msgstr "ne en la lasta"
 
 msgctxt "#21412"
 msgid "Information providers"
-msgstr ""
+msgstr "Informaj provizantoj"
 
 msgctxt "#21413"
 msgid "Default provider for movie information"
-msgstr ""
+msgstr "Defaŭlta provizanto por filmaj informoj"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr ""
+msgstr "Defaŭlta provizanto por televidseriaj informoj"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
-msgstr ""
+msgstr "Defaŭlta provizanto por muzikvideaj informoj"
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
@@ -12063,7 +12063,7 @@ msgstr "Plurlingva"
 
 msgctxt "#21419"
 msgid "No information providers present"
-msgstr ""
+msgstr "Neniu ĉeestanta informa provizanto"
 
 msgctxt "#21420"
 msgid "Value to match"
@@ -15508,9 +15508,9 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr ""
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
+msgid "Square pixels"
 msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
@@ -15518,9 +15518,9 @@ msgctxt "#35238"
 msgid "Integer"
 msgstr ""
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
+msgid "Integer (square pixels)"
 msgstr ""
 
 # empty strings from id 35237 to 35248
@@ -15631,6 +15631,51 @@ msgstr ""
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr ""
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr ""
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr ""
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr ""
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr ""
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr ""
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr ""
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr ""
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr ""
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
 msgstr ""
 
 # empty strings from id 35260 to 35504

@@ -15278,20 +15278,20 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "У овом издању, само контролери могу да се користе за играње игара."
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
-msgstr "Нормално (1:1 PAR)"
+msgid "Square pixels"
+msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
 msgstr "Цео број"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
-msgstr "Цео број (1:1 PAR)"
+msgid "Integer (square pixels)"
+msgstr ""
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15401,6 +15401,51 @@ msgstr "Ваш налог није верификован. Молимо вас �
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr "Ова игра захтева OpenGL подршку за 3D рендеровање. OpenGL подршка је још увек у развоју."
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr ""
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr ""
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr ""
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr ""
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr ""
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr ""
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr ""
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr ""
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr ""
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -19927,6 +19972,14 @@ msgstr "Потврдите брисање датотеке"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ако је омогућено, приказаће се дијалог за потврду када датотеке треба да се обришу. Ако је онемогућено, датотеке ће бити обрисане без потврде корисника."
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "Нормално (1:1 PAR)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "Цео број (1:1 PAR)"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"

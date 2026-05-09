@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-04-16 05:18+0000\n"
+"PO-Revision-Date: 2026-05-05 13:16+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -13318,12 +13318,12 @@ msgstr "I seguenti add-on sono incompatibili con questa versione di Kodi e sono 
 #. Progress text on splash screen
 msgctxt "#24150"
 msgid "Database migration in progress - please wait"
-msgstr "Migrazione database in corso - attendere prego"
+msgstr "Migrazione database in corso: attendere prego"
 
 #. Progress text on splash screen
 msgctxt "#24151"
 msgid "Add-on migration in progress - please wait"
-msgstr "Migrazione add-on in corso - attendere prego"
+msgstr "Migrazione add-on in corso: attendere prego"
 
 #. Inform about not supported addon if tried to enable
 msgctxt "#24152"
@@ -15267,20 +15267,20 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "In questa versione possono essere usati per giocare solo i controller."
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
-msgstr "Normale (PAR 1:1)"
+msgid "Square pixels"
+msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
 msgstr "Intero"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
-msgstr "Intero (PAR 1:1)"
+msgid "Integer (square pixels)"
+msgstr ""
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15389,6 +15389,51 @@ msgstr "Il tuo account non è verificato. Controlla la tua email per completare 
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr "Questo gioco richiede il supporto OpenGL per il rendering 3D. Il supporto OpenGL è ancora in fase di sviluppo."
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr "Menu disco"
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr "Selezione disco"
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr "Nessun disco"
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr "Espelli"
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr "Inserisci"
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr "Riprendi gioco"
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr "Al momento non è possibile espellere il disco."
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr "Al momento non è possibile inserire il disco."
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr "Seleziona disco"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -19912,6 +19957,14 @@ msgstr "Conferma eliminazione file"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Se abilitato, verrà visualizzata una finestra di dialogo di conferma quando i file devono essere eliminati. Se disabilitato, i file saranno eliminati senza la conferma dell'utente."
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "Normale (PAR 1:1)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "Intero (PAR 1:1)"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"

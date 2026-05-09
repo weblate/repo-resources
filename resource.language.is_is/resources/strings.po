@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-03-06 16:13+0000\n"
+"PO-Revision-Date: 2026-05-05 13:16+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/is_is/>\n"
 "Language: is_is\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1124,7 +1124,7 @@ msgstr "Búa til bókamerki"
 
 msgctxt "#295"
 msgid "Low latency mode"
-msgstr ""
+msgstr "Hamur fyrir litla töf"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
@@ -2570,7 +2570,7 @@ msgstr "Virkja atvikaskráningu fyrir ákveðnar einingar"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital transcoding"
-msgstr ""
+msgstr "Virkja Dolby Digital umkóðun"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -5441,7 +5441,7 @@ msgstr "Eyða notandasniðinu '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Endurhlaða notandasniðinu '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -11530,22 +11530,22 @@ msgstr "HDR-tegund"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Er með margar útgáfur"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Er með aukamyndefni"
 
 #. When you create a new profile ask to user if wants to create it in a custom directory
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
-msgstr ""
+msgstr "Viltu útbúa nýtt notandasnið í sérsniðinni möppu?"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
-msgstr ""
+msgstr "DV-notkunarsnið"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -13568,23 +13568,23 @@ msgstr "Handvirkt"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr ""
+msgstr "Valinn spilunarlisti er þegar í notkun. Á að tengja hann frekar við þennan þátt?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr ""
+msgstr "Enginn gildur spilunarlisti myndskeiða fannst."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr ""
+msgstr "Enginn gildur spilunarlisti þátta fannst."
 
 #. Automatic menu
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
-msgstr ""
+msgstr "Sjálfvirkt val valmyndar"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15269,19 +15269,19 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "Í þessari útgáfu er aðeins hægt að nota stýringar til að spila leiki."
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
+msgid "Square pixels"
 msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Heiltala"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
+msgid "Integer (square pixels)"
 msgstr ""
 
 # empty strings from id 35237 to 35248
@@ -15391,6 +15391,51 @@ msgstr "Notandaaðganginn þinn er ekki staðfestur. Athugaðu tölvupóstinn þ
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr "Þessi leikur krefst stuðnings við OpenGL fyrir 3D-myndgerð. OpenGL-stuðningur er enn í þróun."
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr "Diskvalmynd"
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr "Val á diski"
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr "Enginn diskur"
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr "Spýta út"
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr "Setja inn"
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr "Halda áfram með leik"
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr "Disknum er ekki hægt að spýta út í augnablikinu."
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr "Ekki er hægt að setja inn diskinn í augnablikinu."
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr "Veldu disk"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -17543,7 +17588,7 @@ msgstr ""
 
 msgctxt "#36566"
 msgid "ICC display profile"
-msgstr "ICC skjálitasnið"
+msgstr "ICC-skjálitasnið"
 
 #. Description of setting "System -> Video output -> ICC display profile" with label #36566
 msgctxt "#36567"
@@ -17613,7 +17658,7 @@ msgstr "3D LUT-skrá"
 #. Dialog title for ICC display profile file picker
 msgctxt "#36581"
 msgid "ICC Profile"
-msgstr "ICC litasnið"
+msgstr "ICC-litasnið"
 
 #. gamma type labels
 msgctxt "#36582"
@@ -17834,7 +17879,7 @@ msgstr "Lágmarksútgáfa samskiptastaðals"
 #. Description of setting with label #36628 "Minimum protocol version"
 msgctxt "#36629"
 msgid "Set the minimum SMB protocol version to negotiate when making connections. Forcing SMBv2 may be required to prevent SMBv1 use on some systems. Only SMBv2.1 and SMBv3 support Large MTU (chunk size > 64 KB)."
-msgstr ""
+msgstr "Settu lágmarksútgáfu SMB-samskiptastaðals sem nota skal við gerð tenginga. Það gæti þurft að þvinga fram SMBv2 til að koma í veg fyrir að notað sé SMBv1 á sumum stýrikerfum. Einungis SMBv2.1 og SMBv3 styðja Large MTU (bútastærð > 64 KB)."
 
 #. Label of a setting, sets additional config required for some proprietary SMBv1 implementations (mostly routers)
 msgctxt "#36630"
@@ -19107,7 +19152,7 @@ msgstr "Virkja lestur merkja í skráasýn"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "Ítarleg atvikaskráning fyrir [B]Bluray[/B] eininguna"
 
 # empty string with id 39126
 msgctxt "#39127"
@@ -19486,17 +19531,17 @@ msgstr "CC-skjátexti"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Nota Starfish afkóðara"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish er vélbúnaðarafkóðari myndmerkis í webOS-kerfum frá LG. Gerðu þetta óvirkt fyrir villuleit eða prófanir."
 
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Setja lýsigögn á stigi 5 sem núll"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
@@ -19672,7 +19717,7 @@ msgstr "Engar svipaðar kvikmyndir fundust í safninu."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Bæta við annari útgáfu af þessum diski?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19712,7 +19757,7 @@ msgstr "Ertu viss um að þú viljir fjarlægja aukaefnið \"{0:s}\"?"
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Úthluta spilunarlista á fyrirliggjandi útgáfu kvikmyndar?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -19916,6 +19961,14 @@ msgstr "Staðfesta eyðingu skráa"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ef þetta er virkt birtist staðfestingargluggi þegar á að eyða skrám. Ef þetta er ekki virkt verður skrám eytt án staðfestingar notandans."
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "Venjulegt (1:1 PAR)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "Heiltala (1:1 PAR)"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"
