@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-04-22 03:01+0000\n"
-"Last-Translator: Hugoren Martinako <aumpfbahn@gmail.com>\n"
+"PO-Revision-Date: 2026-05-05 13:16+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1054,7 +1054,7 @@ msgstr "Posicionamiento de subtítulos"
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#278"
 msgid "Adjust the bar to change the subtitles position"
-msgstr "Ajusta la barra para cambiar la posición de los subtítulos."
+msgstr "Ajusta la barra para cambiar la posición de los subtítulos"
 
 msgctxt "#279"
 msgid "Unable to load settings"
@@ -2408,7 +2408,7 @@ msgstr "Todas las canciones de"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "Programas de TV en progreso"
+msgstr "Series en progreso"
 
 msgctxt "#629"
 msgid "View mode"
@@ -6057,7 +6057,7 @@ msgstr "Permitir uso de decodificador DRM PRIME"
 
 msgctxt "#13431"
 msgid "Pixel shaders"
-msgstr "Pixel shaders"
+msgstr "Sombra pixelar"
 
 msgctxt "#13432"
 msgid "Allow hardware acceleration - VideoToolbox"
@@ -10664,7 +10664,7 @@ msgstr "Recargar skin"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "Usar vista póster para programas de TV"
+msgstr "Usar vistas de cartel para series de TV"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -10886,7 +10886,7 @@ msgstr "Escaneando vídeo musical usando {0:s}"
 
 msgctxt "#20319"
 msgid "Scanning TV shows using {0:s}"
-msgstr "Escaneando programas de TV usando {0:s}"
+msgstr "Escaneando series de TV usando {0:s}"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
@@ -11182,7 +11182,7 @@ msgstr "Vídeos musicales"
 
 msgctxt "#20392"
 msgid "Remove music video from library"
-msgstr "Borrar vídeo musical de la biblioteca"
+msgstr "Elimina vídeo musical de la biblioteca"
 
 msgctxt "#20393"
 msgid "Music video information"
@@ -11262,7 +11262,7 @@ msgstr "Aplanar"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "Aplanar temporadas de programas de TV"
+msgstr "Aplanar temporadas de series"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -11510,7 +11510,7 @@ msgstr "Incluir colecciones que contengan una única película"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
-msgstr "Mostrar programas de TV vacíos"
+msgstr "Mostrar series de TV vacías"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
@@ -11863,7 +11863,7 @@ msgstr "Proveedor por defecto para información de películas"
 
 msgctxt "#21414"
 msgid "Default provider for TV show information"
-msgstr "Proveedor por defecto para información de programas de tv"
+msgstr "Proveedor por defecto para información de series"
 
 msgctxt "#21415"
 msgid "Default provider for music video information"
@@ -13177,7 +13177,7 @@ msgstr "Servicio por defecto para el programa de TV"
 #. Description of setting with label #24116 "Default TV Service"
 msgctxt "#24117"
 msgid "Select the service that will be used as default to search for TV show subtitles."
-msgstr "Seleccione el servicio que se utilizará por defecto para buscar subtítulos para programas de televisión."
+msgstr "Selecciona el servicio que se usará por defecto para los subtítulos de las series."
 
 msgctxt "#24118"
 msgid "Default movie service"
@@ -13746,7 +13746,7 @@ msgstr "Hip hop"
 #. Program style name
 msgctxt "#29930"
 msgid "Radio Traffic advisory message!"
-msgstr "¡Mensaje de advertencia de tráfico por radio! (TA)"
+msgstr "¡Mensaje de advertencia de tráfico por radio!"
 
 #. Program style name
 msgctxt "#29931"
@@ -15267,20 +15267,20 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "En esta versión, solo se pueden usar mandos para jugar."
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
-msgstr "Normal (1:1 PAR)"
+msgid "Square pixels"
+msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
 msgstr "Entero"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
-msgstr "Entero (1:1 PAR)"
+msgid "Integer (square pixels)"
+msgstr ""
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15389,6 +15389,51 @@ msgstr "Su cuenta no está verificada. Por favor, compruebe su correo electróni
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr "Este juego requiere OpenGL para renderizar en 3D. El soporte OpenGL esta todavía en desarrollo."
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr "Menú de disco"
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr "Elección de disco"
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr "Sin disco"
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr "Extraer"
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr "Insertar"
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr "Reanudar juego"
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr "El disco no se puede extraer ahora mismo."
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr "El disco no se puede insertar ahora mismo."
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr "Elegir disco"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15861,7 +15906,7 @@ msgstr "Descarga miniaturas de actores de bases de datos online al agregar conte
 #. Description of setting with label #20412 "Flatten TV show seasons"
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Selecciona en qué casos se oculta la información de temporada en programas de TV. Si se ocultan, al seleccionar un programa de TV llevará directamente a la lista de episodios."
+msgstr "Selecciona en qué casos se ocultan la información de temporada en series de TV. Si se ocultan, al seleccionar una serie de TV llevará directamente a la lista de episodios."
 
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
@@ -15951,7 +15996,7 @@ msgstr "Activa VideoToolbox para la decodificación por hardware de archivos de 
 #. Description of setting with label #20471 "Show empty TV shows"
 msgctxt "#36163"
 msgid "Show TV shows with no episodes when browsing the video library."
-msgstr "Muestra los programas de TV que no contienen ningún episodio cuando se navega por la colección de vídeo."
+msgstr "Muestra las series de TV que no contienen ningún episodio cuando se navega por la colección de vídeo."
 
 #. Description of setting with label #170 "Adjust display refresh rate"
 msgctxt "#36164"
@@ -16127,7 +16172,7 @@ msgstr "Selecciona la fuente de información por defecto para películas. Consul
 
 msgctxt "#36199"
 msgid "Select the default TV show information source. See the add-ons manager for options."
-msgstr "Selecciona la fuente de información por defecto para programas de TV. Consulte el gestor de add-ons para conocer las opciones."
+msgstr "Selecciona la fuente de información por defecto para las series. Vea el gestor de add-ons para las opciones."
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
@@ -17921,7 +17966,7 @@ msgstr "programa de TV"
 
 msgctxt "#36903"
 msgid "TV shows"
-msgstr "Programas de TV"
+msgstr "Series"
 
 msgctxt "#36904"
 msgid "season"
@@ -19912,6 +19957,14 @@ msgstr "Confirmar eliminación de archivo"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si está activado, se mostrará un cuadro de diálogo de confirmación cuando se eliminen los archivos. Si está desactivado, los archivos se eliminarán sin confirmación del usuario."
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "Normal (1:1 PAR)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "Entero (1:1 PAR)"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"

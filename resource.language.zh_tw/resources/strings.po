@@ -15274,20 +15274,20 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "在此版本中，僅能使用控制器來操作遊戲。"
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
-msgstr "正常 (1:1 比例)"
+msgid "Square pixels"
+msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
 msgstr "整數"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
-msgstr "整數（1:1比例）"
+msgid "Integer (square pixels)"
+msgstr ""
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15396,6 +15396,51 @@ msgstr "您的帳戶尚未被驗證。請查看您的email並完成註冊。"
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
 msgstr "此遊戲要求支援3D渲染的OpenGL。OpenGL支援仍在開發中。"
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr ""
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
+msgstr ""
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr ""
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr ""
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr ""
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr ""
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr ""
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr ""
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr ""
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -19922,6 +19967,14 @@ msgstr "檔案刪除再確認"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "開啟時會在刪除檔案前跳出確認對話框。反之則不提示並逕行刪除。"
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "正常 (1:1 比例)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "整數（1:1比例）"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"

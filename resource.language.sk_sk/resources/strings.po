@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-01-11 12:02+0000\n"
-"Last-Translator: Jose Riha <jose1711@gmail.com>\n"
+"PO-Revision-Date: 2026-05-07 18:47+0000\n"
+"Last-Translator: Patrik Špaňo <patrik.spano@gmail.com>\n"
 "Language-Team: Slovak <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/sk_sk/>\n"
 "Language: sk_sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1124,7 +1124,7 @@ msgstr "Vytvoriť záložku"
 
 msgctxt "#295"
 msgid "Low latency mode"
-msgstr ""
+msgstr "Režim s nízkou latenciou"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
@@ -1823,7 +1823,7 @@ msgstr "[aktívne]"
 
 msgctxt "#462"
 msgid "Subtitle stream"
-msgstr ""
+msgstr "Stream titulkov"
 
 msgctxt "#463"
 msgid "Backlight"
@@ -2348,7 +2348,7 @@ msgstr "Extrémna"
 
 msgctxt "#604"
 msgid "Constant bitrate"
-msgstr "Konštantný dátový tok"
+msgstr "Konštantný bitrate"
 
 msgctxt "#605"
 msgid "Ripping..."
@@ -2396,7 +2396,7 @@ msgstr "Kvalita"
 
 msgctxt "#623"
 msgid "Bitrate"
-msgstr "Dátový tok"
+msgstr "Bitrate"
 
 msgctxt "#624"
 msgid "Include track number"
@@ -2570,7 +2570,7 @@ msgstr "Povoliť protokolovanie špecifických komponentov"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital transcoding"
-msgstr ""
+msgstr "Povoliť prekódovanie Dolby Digital"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -2647,32 +2647,32 @@ msgstr "Z metadát"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr ""
+msgstr "Nastavte veľkosť ohraničenia."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr ""
+msgstr "Nastavte farbu ohraničenia."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
 msgid "Set the blur."
-msgstr ""
+msgstr "Nastavte rozostrenie."
 
 #. Description of setting with label #39171 "Shadow colour"
 msgctxt "#691"
 msgid "Set the shadow colour."
-msgstr ""
+msgstr "Nastavte farbu tieňa."
 
 #. Description of setting with label #39172 "Shadow opacity"
 msgctxt "#692"
 msgid "Set the shadow opacity."
-msgstr ""
+msgstr "Nastavte priehľadnosť tieňa."
 
 #. Description of setting with label #39170 "Shadow size"
 msgctxt "#693"
 msgid "Set the shadow size."
-msgstr ""
+msgstr "Nastavte veľkosť tieňa."
 
 msgctxt "#700"
 msgid "Cleaning up library"
@@ -3231,72 +3231,72 @@ msgstr "Platný rozsah pre port je 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr ""
+msgstr "Ľubovoľný kanál klienta \"{0:s}\""
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
 msgid "Any channel from any client"
-msgstr ""
+msgstr "Akýkoľvek kanál z akéhokoľvek klienta"
 
 #. Label for Estuary 'Recently added channels' 'home screen widget
 msgctxt "#855"
 msgid "Recently added channels"
-msgstr ""
+msgstr "Nedávno pridané kanály"
 
 #. Label for the origin of a channel group (provided by a PVR client add-on).
 msgctxt "#856"
 msgid "Client"
-msgstr ""
+msgstr "Klient"
 
 #. Label for the origin of a channel group (automatically created by Kodi).
 msgctxt "#857"
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 #. Label for the origin of a channel group (manually created by the user).
 msgctxt "#858"
 msgid "User"
-msgstr ""
+msgstr "Používateľ"
 
 #. Label postfix for channel groups containing content from all channels (e.g. "PVR Client 1 [All channels]")
 msgctxt "#859"
 msgid "{0:s} [All channels]"
-msgstr ""
+msgstr "{0:s} [Všetky kanály]"
 
 #. Label for setting 'Delete after watching' and delete confirmation dialog box.
 msgctxt "#860"
 msgid "Delete after watching"
-msgstr ""
+msgstr "Po prehratí zmazať"
 
 #. Help text for setting 'Delete after watching'.
 msgctxt "#861"
 msgid "Configure whether recordings should be deleted after watching."
-msgstr ""
+msgstr "Nastavte, či sa majú nahrávky po prehratí vymazať."
 
 #. Value for setting 'Delete after watching'. Keep after watching.
 msgctxt "#862"
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
 msgctxt "#863"
 msgid "Ask"
-msgstr ""
+msgstr "Opýtať sa"
 
 #. Value for setting 'Delete after watching'. Delete after watching.
 msgctxt "#864"
 msgid "Yes"
-msgstr ""
+msgstr "Áno"
 
 #. Text for delete after watch confirmation dialog box.
 msgctxt "#865"
 msgid "Do you want to delete this recording?"
-msgstr ""
+msgstr "Chcete túto nahrávku vymazať?"
 
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr ""
+msgstr "Zmazaná nahrávka: '{0:s}'"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3381,7 +3381,7 @@ msgstr "Zadajte meno používateľa"
 #. Label for button to enter path in the Add video/music/picture/file source dialogs
 msgctxt "#1020"
 msgid "Enter path..."
-msgstr ""
+msgstr "Zadajte cestu..."
 
 msgctxt "#1021"
 msgid "Enter the paths or browse for the media locations."
@@ -4851,7 +4851,7 @@ msgstr "Pokračovať od {0:s}"
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Pokračovať od"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -5112,12 +5112,12 @@ msgstr "Stav batérie"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr ""
+msgstr "Ďakujeme!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr ""
+msgstr "Kodi vám s láskou prináša Kodi Foundation, nezisková organizácia typu 501(c)(3). Ďakujeme, že používate náš softvér!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
@@ -5440,7 +5440,7 @@ msgstr "Odstrániť profil '{0:s}'?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Znovu načítať profil '{0:s}'?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -5899,7 +5899,7 @@ msgstr "Vysunúť / Zasunúť"
 
 msgctxt "#13392"
 msgid "Stream selection"
-msgstr ""
+msgstr "Výber streamu"
 
 msgctxt "#13393"
 msgid "Calculate size"
@@ -6033,7 +6033,7 @@ msgstr "Zapamätať pre túto cestu"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr ""
+msgstr "Zvolte playlist"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6176,12 +6176,12 @@ msgstr "Preferovaná VAAPI metóda renderovania"
 #. This filter disables certain Android software decoders, leaving only hardware decoders available for video playback.
 msgctxt "#13458"
 msgid "Use Decoder filter"
-msgstr ""
+msgstr "Použiť filter dekodérov"
 
 #. Description of setting with label #13458 "Use Decoder filter"
 msgctxt "#13459"
 msgid "Enable/Disable the filter that blocks certain Android software decoders. This filter is configurable via the [userdata]/decoderfilter.xml file."
-msgstr ""
+msgstr "Povoliť/zakázať filter, ktorý blokuje určité softvérové dekodéry systému Android. Tento filter je možné nakonfigurovať prostredníctvom súboru [userdata]/decoderfilter.xml."
 
 msgctxt "#13460"
 msgid "Use HEVC VAAPI"
@@ -6231,36 +6231,36 @@ msgstr "Zapnite túto voľbu pre použitie hardvérovej akcelerácie pre kodek A
 
 msgctxt "#13470"
 msgid "Use AVC VAAPI"
-msgstr ""
+msgstr "Použiť AVC VAAPI"
 
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr ""
+msgstr "Povolením tejto možnosti aktivujete hardvérovú akceleráciu pre kodek AVC. Ak je táto možnosť vypnutá, namiesto toho sa bude používať CPU."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "Formát mezistupňového HQ upscaleru"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr ""
+msgstr "Nastavuje presnosť mezistupňového škálovacieho bufferu používaného v renderovacej ceste GPU. Presnosť 16 bitov pravdepodobne vyžaduje vyšší výkon. Ak hardvér nedokáže podporovať zvolený formát, Kodi sa vráti k najbližšiemu vhodnému formátu."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
 msgid "8 bit per channel"
-msgstr ""
+msgstr "8 bitov na kanál"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13475"
 msgid "10 bit per channel"
-msgstr ""
+msgstr "10 bitov na kanál"
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13476"
 msgid "16 bit per channel"
-msgstr ""
+msgstr "16 bitov na kanál"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6317,7 +6317,7 @@ msgstr "Prah na korekciu výšky"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr ""
+msgstr "Ak zmena rýchlosti prekročí túto hranicu, použije sa filter na korekciu výšky tónu. Tým sa zabráni vzniku „veveričích hlasov“, ktoré sa zvyčajne objavujú pri zrýchlení videa"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -6876,11 +6876,11 @@ msgstr "Povoliť dvojnásobné obnovovacie frekvencie"
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 msgctxt "#14188"
 msgid "Player audio/video queues"
-msgstr ""
+msgstr "Fronty audio/video prehrávačov"
 
 msgctxt "#14200"
 msgid "Player"
@@ -7105,15 +7105,15 @@ msgstr "Povoliť vzdialené ovládanie z aplikácií v iných systémoch"
 # empty strings from id 14278 to 14279
 msgctxt "#14280"
 msgid "Maintenance"
-msgstr ""
+msgstr "Údržba"
 
 msgctxt "#14281"
 msgid "Clean image cache"
-msgstr ""
+msgstr "Vyčistiť medzipamäť obrázkov"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr ""
+msgstr "Okamžite odstráni z vyrovnávacej pamäte nepoužívané obrázky – obrázky, ktoré nie sú priradené k žiadnej položke v knižnici médií a ani neboli nedávno zobrazené. Kodi to postupne vykonáva na pozadí."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7918,11 +7918,11 @@ msgstr "Pre túto udalosť už je nastavený časovač"
 #. message box text stating that a pvr channel could not be played.
 msgctxt "#19035"
 msgid "{0:s} can't be played."
-msgstr ""
+msgstr "{0:s} sa nedá prehrať."
 
 msgctxt "#19036"
 msgid "This recording can't be played."
-msgstr ""
+msgstr "Táto nahrávka sa nedá prehrať."
 
 #. pvr settings "show signal quality" label
 msgctxt "#19037"
@@ -7960,11 +7960,11 @@ msgstr "Nahrávanie"
 
 msgctxt "#19044"
 msgid "Please check your configuration."
-msgstr ""
+msgstr "Prosím, skontrolujte nastavenia."
 
 msgctxt "#19045"
 msgid "No PVR clients have been started yet. Wait for the PVR clients to start up."
-msgstr ""
+msgstr "Zatiaľ nebol spustený žiaden klient PVR. Počkajte, kým sa klienti PVR spustia."
 
 msgctxt "#19046"
 msgid "New channel"
@@ -8277,17 +8277,18 @@ msgstr "Záložná snímkovacia frekvencia"
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
 msgid "Could not save the timer."
-msgstr ""
+msgstr "Časovač sa nepodarilo uložiť."
 
 #. message box text stating that a timer could not be deleted
 msgctxt "#19110"
 msgid "Could not delete the timer."
-msgstr ""
+msgstr "Časovač sa nepodarilo odstrániť."
 
 #. message box text stating that a PVR backend error occurred
+#, fuzzy
 msgctxt "#19111"
 msgid "PVR backend error."
-msgstr ""
+msgstr "Chyba backendu PVR."
 
 #. delete recordings confirmation message box text
 msgctxt "#19112"
@@ -8537,7 +8538,7 @@ msgstr "Nahrávky"
 #. error box text stating that recording could not be started
 msgctxt "#19164"
 msgid "Could not start recording."
-msgstr ""
+msgstr "Nahrávanie sa nepodarilo spustiť."
 
 #. Label for "switch to channel" button""
 msgctxt "#19165"
@@ -8567,7 +8568,7 @@ msgstr "Skryť panel s informáciami o videu"
 #. error box text stating that recording could not be stopped
 msgctxt "#19170"
 msgid "Could not stop recording."
-msgstr ""
+msgstr "Nahrávanie sa nepodarilo zastaviť."
 
 #. pvr settings "start playback full screen" setting label
 msgctxt "#19171"
@@ -8683,7 +8684,7 @@ msgstr "Žiadny z pripojených PVR backendov nepodporuje vyhľadávanie kanálov
 #. error message box text stating that a given pvr channel could not be played
 msgctxt "#19193"
 msgid "The channel scan can't be started."
-msgstr ""
+msgstr "Vyhľadávanie kanálov sa nedá spustiť."
 
 #. unused?
 msgctxt "#19194"
@@ -9022,7 +9023,7 @@ msgstr "Rodičovská kontrola. Zadajte PIN:"
 #. message box text stating that a timer could not be updated
 msgctxt "#19263"
 msgid "Could not update the timer."
-msgstr ""
+msgstr "Časovač sa nepodarilo aktualizovať."
 
 #. label for 'incorrect pin' error dialog header
 msgctxt "#19264"
@@ -9481,17 +9482,17 @@ msgstr "Prehrať iba tento program"
 #. Label of a context menu entry to create a copy of an EPG saved saerch
 msgctxt "#19355"
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikovať"
 
 #. Initial title of a duplicated EPG saved search.
 msgctxt "#19356"
 msgid "Copy of '{0:s}'"
-msgstr ""
+msgstr "Kópia '{0:s}'"
 
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr ""
+msgstr "Odstrániť nahrávku"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -11529,7 +11530,7 @@ msgstr "Typ HDR"
 #. Used in smart playlists as rule field name to select items that have multiple versions
 msgctxt "#20475"
 msgid "Has multiple versions"
-msgstr ""
+msgstr "Má viac verzii"
 
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
@@ -11539,7 +11540,7 @@ msgstr ""
 #. When you create a new profile ask to user if wants to create it in a custom directory
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
-msgstr ""
+msgstr "Chcete vytvoriť nový profil v vlastnom adresári?"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
@@ -11625,17 +11626,17 @@ msgstr "Typ MIME: \"{0:s}\""
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
 msgid "Special {0:d} - {1:s}"
-msgstr ""
+msgstr "Špeciál {0:d} - {1:s}"
 
 #. Used to show an episode in episode list, eg. 'Episode 4 - The Return'
 msgctxt "#21349"
 msgid "Episode {0:d} - {1:s}"
-msgstr ""
+msgstr "Epizóda {0:d} - {1:s}"
 
 #. Used to show a special in episode list
 msgctxt "#21350"
 msgid "Special"
-msgstr ""
+msgstr "Špeciál"
 
 msgctxt "#21358"
 msgid "Enable UPnP support"
@@ -11800,7 +11801,7 @@ msgstr "Vysoko kvalitý Pixel Shader V2"
 
 msgctxt "#21398"
 msgid "between"
-msgstr ""
+msgstr "medzi"
 
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -13456,12 +13457,12 @@ msgstr "Minimálne: {0:s} / Nedostupné{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr ""
+msgstr "Pripájanie k databáze – čakajte prosím"
 
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr ""
+msgstr "Neúspešná inicializácia databáz – ukončenie za {}s."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -14467,27 +14468,27 @@ msgstr "Aby sme ponechali určité AV prijímače zapnuté, posielame náhodne v
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr ""
+msgstr "Zahrnúť LFE pri downmixingu"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr ""
+msgstr "Ak je táto voľba povolená, zahrnie sa kanál LFE do zmiešavania, ak nie je k dispozícii žiadny vyhradený výstupný kanál LFE. Toto má zmysel iba v prípade reproduktorov s plným frekvenčným rozsahom."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr ""
+msgstr "Vypnuté"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
 msgid "50%"
-msgstr ""
+msgstr "50 %"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34118"
 msgid "100%"
-msgstr ""
+msgstr "100 %"
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -15272,19 +15273,19 @@ msgctxt "#35236"
 msgid "In this release, only controllers can be used to play games."
 msgstr "V tejto verzii je na hranie možné použiť len herný ovládač."
 
-#. Label of thumbnail in the in-game menu for normal size with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
-msgid "Normal (1:1 PAR)"
+msgid "Square pixels"
 msgstr ""
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Celé číslo"
 
-#. Label of thumbnail in the in-game menu for integer underscaling with 1:1 pixel aspect ratio (PAR)
+#. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
-msgid "Integer (1:1 PAR)"
+msgid "Integer (square pixels)"
 msgstr ""
 
 # empty strings from id 35237 to 35248
@@ -15393,7 +15394,52 @@ msgstr "Vaše konto nie je overené. Skontrolujte svoj e-mail a dokončite regis
 #. Error message shown when an OpenGL game is played, as OpenGL is not currently supported
 msgctxt "#35271"
 msgid "This game requires OpenGL support for 3D rendering. OpenGL support is still under development."
+msgstr "Táto hra vyžaduje podporu OpenGL pre 3D vykresľovanie. Podpora OpenGL je stále vo vývoji."
+
+#. Label for the "Disc menu" button to open the Disc Manager when playing a game
+msgctxt "#35272"
+msgid "Disc menu"
+msgstr "Ponuka disku"
+
+#. Label for showing the disc that is inserted in the game's virtual CD drive
+msgctxt "#35273"
+msgid "Disc selection"
 msgstr ""
+
+#. Text shown when a disc is removed from the game's virtual CD drive
+msgctxt "#35274"
+msgid "No disc"
+msgstr "Žiadny disk"
+
+#. Label for the button that ejects the disc for a game's virtual CD drive
+msgctxt "#35275"
+msgid "Eject"
+msgstr "Vysunúť"
+
+#. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
+msgctxt "#35276"
+msgid "Insert"
+msgstr "Vložiť"
+
+#. Label for the button that resumes playing the current game. Called from the in-game menu.
+msgctxt "#35277"
+msgid "Resume game"
+msgstr "Pokračovať v hre"
+
+#. Error message shown when the disc can't be ejected for a game's virtual CD drive
+msgctxt "#35278"
+msgid "The disc can't be ejected right now."
+msgstr "Disk momentálne nie je možné vysunúť."
+
+#. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
+msgctxt "#35279"
+msgid "The disc can't be inserted right now."
+msgstr "Disk momentálne nie je možné vložiť."
+
+#. Title of the dialog to select a new disc image for a game's virtual CD drive
+msgctxt "#35280"
+msgid "Select disc"
+msgstr "Vyberte disk"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16261,7 +16307,7 @@ msgstr "Zobrazovať informácie o kvalite signálu v okne s informáciami o pou�
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
 msgid "Set the subtitle background opacity."
-msgstr ""
+msgstr "Nastavte priehľadnosť pozadia titulkov."
 
 msgctxt "#36231"
 msgid "When flipping through channels using channel up/down buttons, channel switches must be confirmed using the OK button."
@@ -16562,7 +16608,7 @@ msgstr "Pre triedenie hudobných položiek podľa interpreta, použiť triediace
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr ""
+msgstr "Nastavte priehľadnosť titulkov."
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -17155,6 +17201,8 @@ msgid ""
 "Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
 "You can disable this setting if you experience audio issues."
 msgstr ""
+"Znižuje oneskorenie pri spracovaní zvuku. Zlepšuje spustenie prehrávania, obnovenie prehrávania a posúvanie (zvuk sa obnoví skôr).\n"
+"Toto nastavenie môžete vypnúť, ak sa u vás vyskytnú problémy so zvukom."
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
@@ -17203,7 +17251,7 @@ msgstr "Nahrávať"
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr ""
+msgstr "Vyberte túto možnosť, ak výstupný audio konektor podporuje iba viackanálový zvuk ako Dolby Digital 5.1 (AC-3), napríklad konektor S/PDIF. Ak je zároveň povolené preposielanie nespracovaného zvukového signálu E-AC3, pre dosiahnutie vyššej kvality sa použije formát Dolby Digital Plus (E-AC3). Ak váš systém podporuje viackanálový zvuk vo formáte PCM cez rozhranie HDMI, nechajte túto funkciu vypnutú."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -18309,22 +18357,22 @@ msgstr ""
 #. Setting "Audio/video queue time"
 msgctxt "#37130"
 msgid "Audio/video queue time"
-msgstr ""
+msgstr "Dĺžka trvania audio/video fronty"
 
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr ""
+msgstr "Dĺžka trvania audio/video fronty v sekundách. Doba trvania určuje množstvo dát uložených v pamäti."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
 msgid "Video queue maximum size"
-msgstr ""
+msgstr "Maximálna veľkosť video fronty"
 
 #. Description of setting with label #37132 "Video queue maximum size"
 msgctxt "#37133"
 msgid "Limits the maximum memory usage for the video queue. The amount of memory used depends on the video bitrate and the length of the queue. If the memory limit is reached, the queue time is reduced as necessary."
-msgstr ""
+msgstr "Obmedzuje maximálne využitie pamäte pre frontu videí. Množstvo použitej pamäte závisí od prenosovej rýchlosti videa a dĺžky fronty. Ak sa dosiahne limit pamäte, dĺžka fronty sa podľa potreby skráti."
 
 #. Setting #38011 "Show All Items entry"
 msgctxt "#38011"
@@ -18649,7 +18697,7 @@ msgstr "Automatický prechod do okna vizualizácie po spustení prehrávania zvu
 #. Description of category #14187 "Advanced"
 msgctxt "#38113"
 msgid "This category contains the advanced settings for video playback"
-msgstr ""
+msgstr "Táto kategória obsahuje pokročilé nastavenia pre prehrávanie videa"
 
 msgctxt "#38190"
 msgid "Extract thumbnails from video files"
@@ -19109,7 +19157,7 @@ msgstr "Povoliť čítanie tagov v zobrazení súborov"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "Podrobné protokolovanie pre [B]Bluray[/B] komponent"
 
 # empty string with id 39126
 msgctxt "#39127"
@@ -19423,7 +19471,7 @@ msgstr "Ak sa prehráva hudba, šetrič obrazovky sa nikdy neaktivuje"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr ""
+msgstr "Povoľuje pokročilé škálovanie rozlíšenia pomocou technológie DXVA s využitím funkcií „RTX Video Super Resolution“ od spoločnosti NVIDIA alebo „Intel Video Super Resolution“.[CR]Používa sa v prípade, ak má zdroj videa rozlíšenie 2560x1440 alebo nižšie a zdrojové rozlíšenie je nižšie ako rozlíšenie displeja.[CR]K dispozícii len na určitom hardvéri: NVIDIA RTX a Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19463,12 +19511,12 @@ msgstr "HDR10+"
 #. Subtitle line spacing setting
 msgctxt "#39202"
 msgid "Line spacing"
-msgstr ""
+msgstr "Medziriadkové rozostupy"
 
 #. Subtitle line spacing setting help
 msgctxt "#39203"
 msgid "Adjust the space between lines of text. Setting a value too low may cause boxes to overlap when the \"Background type\" setting is used."
-msgstr ""
+msgstr "Prispôsobuje medzeru medzi riadkami textu. Ak nastavíte príliš nízku hodnotu, môže dôjsť k prekrývaniu polí pri použití nastavenia „Typ pozadia“."
 
 #. Setting to make CC subtitles for hearing impaired only
 msgctxt "#39204"
@@ -19481,9 +19529,10 @@ msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; th
 msgstr ""
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
+#, fuzzy
 msgctxt "#39206"
 msgid "CC"
-msgstr ""
+msgstr "Vložené titulky"
 
 # Use Starfish decoder
 msgctxt "#39207"
@@ -19674,7 +19723,7 @@ msgstr "V knižnici sa nenašli žiadne podobné filmy."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Pridať ďalšiu verziu z tohto disku?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
@@ -19912,12 +19961,20 @@ msgstr "Edícia k 50. výročiu"
 #. Confirm file deletion
 msgctxt "#40801"
 msgid "Confirm file deletion"
-msgstr ""
+msgstr "Potvrďte vymazanie súboru"
 
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr ""
+msgstr "Ak je povolené, pri mazaní súborov sa zobrazí potvrdzovacie okno. Ak je vypnuté, súbory sa vymažú bez potvrdenia používateľa."
+
+#~ msgctxt "#35237"
+#~ msgid "Normal (1:1 PAR)"
+#~ msgstr "Normálna (1:1 PAR)"
+
+#~ msgctxt "#35239"
+#~ msgid "Integer (1:1 PAR)"
+#~ msgstr "Celé číslo (1:1 PAR)"
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"
