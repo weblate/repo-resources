@@ -2,10 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-05 13:16+0000\n"
-"Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
+"PO-Revision-Date: 2026-05-14 18:28+0000\n"
+"Last-Translator: flubshi <4031504+flubshi@users.noreply.github.com>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
@@ -15270,7 +15270,7 @@ msgstr "In dieser Version können nur Controller zum Spielen verwendet werden."
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Quadratische Pixel"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15280,7 +15280,7 @@ msgstr "Integer"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Ganzzahlig (Quadratische Pixel)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -16066,7 +16066,7 @@ msgstr "Kategorie mit Einstellungen zur Verarbeitung von Videodateilisten."
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Wahl zwischen [Auswählen], [Wiedergeben[ (Standard), [Informationen anzeigen] und [In Wiedergabeliste einreihen].[CR][Auswählen] wird ein Kontextmenü zum Wählen einer Aktion öffnen, z. B. Informationen anzeigen.[CR][Wiedergeben] wird Videos so behandeln, wie mit der Einstellung ‚Standardwiedergabeaktion‘ festgelegt.[CR][Informationen anzeigen] wird den Videoinformationsdialog öffnen.[CR][In Wiedergabeliste einreihen] wird das Video am Ende der Videowiedergabeliste hinzufügen."
+msgstr "Wahl zwischen [Auswählen], [Wiedergeben] (Standard), [Informationen anzeigen] und [In Wiedergabeliste einreihen].[CR][Auswählen] wird ein Kontextmenü zum Wählen einer Aktion öffnen, z.B. Informationen anzeigen.[CR][Wiedergeben] wird Videos so behandeln, wie mit der Einstellung ‚Standardwiedergabeaktion‘ festgelegt.[CR][Informationen anzeigen] wird den Videoinformationsdialog öffnen.[CR][In Wiedergabeliste einreihen] wird das Video am Ende der Videowiedergabeliste hinzufügen."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
