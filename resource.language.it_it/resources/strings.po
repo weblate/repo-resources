@@ -2,10 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-05 13:16+0000\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
+"PO-Revision-Date: 2026-05-14 19:14+0000\n"
+"Last-Translator: Stefano Gottardo <gottardo.stefano.83@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
@@ -5117,7 +5117,7 @@ msgstr "Grazie!"
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr "Kodi è offerto con amore dalla Kodi Foundation, un'organizzazione non-profit 501(c)(3). Grazie per aver utilizzato il nostro software!"
+msgstr "Kodi è offerto con amore dalla Kodi Foundation, un'organizzazione no-profit 501(c)(3). Grazie per aver utilizzato il nostro software!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
@@ -15270,7 +15270,7 @@ msgstr "In questa versione possono essere usati per giocare solo i controller."
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Pixel quadrati"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15280,7 +15280,7 @@ msgstr "Intero"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Intero (pixel quadrati)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD

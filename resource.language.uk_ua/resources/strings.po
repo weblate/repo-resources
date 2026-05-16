@@ -2,10 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-05 13:16+0000\n"
-"Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
+"PO-Revision-Date: 2026-05-14 20:18+0000\n"
+"Last-Translator: Roman Miroshnychenko <romanvm@kodi.tv>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
 "MIME-Version: 1.0\n"
@@ -12964,7 +12964,7 @@ msgstr "Скасувати завантаження додатків?"
 
 msgctxt "#24067"
 msgid "Currently downloading add-ons"
-msgstr "Завантажувані додатки"
+msgstr "Додатки, що завантажуються"
 
 msgctxt "#24068"
 msgid "Update available"
@@ -14480,7 +14480,7 @@ msgstr "Якщо увімкнено, додає в змішування кана
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr "Вимк."
+msgstr "Вимкн."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
@@ -15279,7 +15279,7 @@ msgstr "У поточній версії для ігор можна викори
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Квадратні пікселі"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15289,7 +15289,7 @@ msgstr "Цілісне"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Ціле число (квадратні пікселі)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -18441,7 +18441,7 @@ msgstr "Оберіть постачальника інформації"
 
 msgctxt "#38026"
 msgid "Appearances"
-msgstr "Зовнішній вигляд"
+msgstr "Поява"
 
 #. Label for an option to select the video stream to play if current video has more than one video stream
 msgctxt "#38031"
