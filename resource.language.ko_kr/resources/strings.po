@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-05-14 19:20+0000\n"
 "Last-Translator: Joe Baek <aalive1@gmail.com>\n"
@@ -6261,6 +6261,41 @@ msgstr "채널당 10비트"
 msgctxt "#13476"
 msgid "16 bit per channel"
 msgstr "채널당 16비트"
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13477"
+msgid "2 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13478"
+msgid "3 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13479"
+msgid "4 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13480"
+msgid "5 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13481"
+msgid "6 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13482"
+msgid "7 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13483"
+msgid "8 bit"
+msgstr ""
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -17733,8 +17768,8 @@ msgstr "사진에 소량의 노이즈를 추가해 RGB 레벨 변환 및 다른 
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
-msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "비디오 디더링 출력 정밀도 비트값. 밴딩이 보이지 않는 최고 설정을 사용하세요. 대부분의 시스템은 기본값 8을 권장합니다. GPU가 출력 RGB 레벨을 스케일하도록 설정되어 있거나 노트북 화면을 사용한다면 7 또는 6 비트 설정이 밴딩을 더 많이 제거할 것 입니다. 더 낮은 설정은 디더링이 적용되는지 디더 노이즈 픽셀 크기가 디스플레이 해상도와 맞는지 쉽게 확인할 수 있게 해주는 테스트 용도에만 사용합니다."
+msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
+msgstr ""
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -19955,6 +19990,10 @@ msgstr "파일 삭제 확인"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "사용하면 파일을 삭제할 때 확인 대화 상자가 표시됩니다. 사용하지 않으면 사용자 확인 없이 파일이 삭제됩니다."
+
+#~ msgctxt "#36599"
+#~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
+#~ msgstr "비디오 디더링 출력 정밀도 비트값. 밴딩이 보이지 않는 최고 설정을 사용하세요. 대부분의 시스템은 기본값 8을 권장합니다. GPU가 출력 RGB 레벨을 스케일하도록 설정되어 있거나 노트북 화면을 사용한다면 7 또는 6 비트 설정이 밴딩을 더 많이 제거할 것 입니다. 더 낮은 설정은 디더링이 적용되는지 디더 노이즈 픽셀 크기가 디스플레이 해상도와 맞는지 쉽게 확인할 수 있게 해주는 테스트 용도에만 사용합니다."
 
 #~ msgctxt "#35237"
 #~ msgid "Normal (1:1 PAR)"

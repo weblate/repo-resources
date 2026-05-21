@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-05-14 19:51+0000\n"
 "Last-Translator: Markus Härer <markus.haerer@gmx.net>\n"
@@ -6262,6 +6262,41 @@ msgstr "10 biți per canal"
 msgctxt "#13476"
 msgid "16 bit per channel"
 msgstr "16 biți per canal"
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13477"
+msgid "2 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13478"
+msgid "3 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13479"
+msgid "4 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13480"
+msgid "5 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13481"
+msgid "6 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13482"
+msgid "7 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13483"
+msgid "8 bit"
+msgstr ""
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -17737,8 +17772,8 @@ msgstr "Elimină banding-ul cauzat de convertirea nivelului RGB sau altă proces
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
-msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Precizia ieșirii oscilării video în biți. Folosiți setarea cea mai mare care nu arată banding-ul. Valoarea implicită 8 este recomandată pentru majoritatea sistemelor. Dacă placa dvs. video are stabilit să scaleze ieșirea nivelelor RGB sau folosiți un ecran de calculator portabil (laptop), O stabilire de 7 sau 6 biți ar putea elimina mai mult din bandire. Stabilirile mai mici sun disponibile în scop de testare doar pentru a face mai ușoară observarea dacă oscilarea este aplicată și că pixelii de zgomot ai oscilării se potrivesc cu rezoluția ecranului."
+msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
+msgstr ""
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -19962,6 +19997,10 @@ msgstr "Confirmare ștergere fișier"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Dacă este activată, un dialog de confirmare va fi afișat când se cere ștergerea fișierelor. Dacă este dezactivată, fișierele vor fi șterse fără confirmare din partea utilizatorului."
+
+#~ msgctxt "#36599"
+#~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
+#~ msgstr "Precizia ieșirii oscilării video în biți. Folosiți setarea cea mai mare care nu arată banding-ul. Valoarea implicită 8 este recomandată pentru majoritatea sistemelor. Dacă placa dvs. video are stabilit să scaleze ieșirea nivelelor RGB sau folosiți un ecran de calculator portabil (laptop), O stabilire de 7 sau 6 biți ar putea elimina mai mult din bandire. Stabilirile mai mici sun disponibile în scop de testare doar pentru a face mai ușoară observarea dacă oscilarea este aplicată și că pixelii de zgomot ai oscilării se potrivesc cu rezoluția ecranului."
 
 #~ msgctxt "#667"
 #~ msgid "Enable Dolby Digital (AC3) transcoding"

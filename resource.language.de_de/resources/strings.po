@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-05-14 18:28+0000\n"
 "Last-Translator: flubshi <4031504+flubshi@users.noreply.github.com>\n"
@@ -6261,6 +6261,41 @@ msgstr "10 Bits pro Kanal"
 msgctxt "#13476"
 msgid "16 bit per channel"
 msgstr "16 Bits pro Kanal"
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13477"
+msgid "2 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13478"
+msgid "3 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13479"
+msgid "4 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13480"
+msgid "5 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13481"
+msgid "6 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13482"
+msgid "7 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13483"
+msgid "8 bit"
+msgstr ""
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -17735,8 +17770,8 @@ msgstr "Die von der RGB-Level-Umwandlung oder anderen Nachbearbeitungen verursac
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
-msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Video-Dithering Ausgabegenauigkeit in Bits. Höchste Einstellung, die kein Banding produziert, verwenden. Der Standardwert 8 ist für die meisten Systeme empfohlen. Wenn die GPU das RGB-Level skaliert oder ein Laptop verwendet wird, kann ein Wert von 6 oder 7 Bit das Banding ggf. besser eliminieren. Niedrigere Werte sind nur dazu da, um zu testen, ob das Dithering angewandt wird und dessen Pixelgröße der des Displays entspricht."
+msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
+msgstr ""
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -19957,6 +19992,10 @@ msgstr "Löschen von Dateien bestätigen"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Wenn altiviert, wird ein Bestätigungsdialog angezeigt, wenn Dateien gelöscht werden sollen. Wenn dektiviert, werden Dateien ohne vorherige Nachfrage gelöscht."
+
+#~ msgctxt "#36599"
+#~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
+#~ msgstr "Video-Dithering Ausgabegenauigkeit in Bits. Höchste Einstellung, die kein Banding produziert, verwenden. Der Standardwert 8 ist für die meisten Systeme empfohlen. Wenn die GPU das RGB-Level skaliert oder ein Laptop verwendet wird, kann ein Wert von 6 oder 7 Bit das Banding ggf. besser eliminieren. Niedrigere Werte sind nur dazu da, um zu testen, ob das Dithering angewandt wird und dessen Pixelgröße der des Displays entspricht."
 
 #~ msgctxt "#35237"
 #~ msgid "Normal (1:1 PAR)"

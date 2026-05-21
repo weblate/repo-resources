@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2026-05-14 20:02+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
@@ -6263,6 +6263,41 @@ msgstr "10 бита по каналу"
 msgctxt "#13476"
 msgid "16 bit per channel"
 msgstr "16 бита по каналу"
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13477"
+msgid "2 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13478"
+msgid "3 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13479"
+msgid "4 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13480"
+msgid "5 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13481"
+msgid "6 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13482"
+msgid "7 bit"
+msgstr ""
+
+#. Value of setting with label #36100 "Dither depth"
+msgctxt "#13483"
+msgid "8 bit"
+msgstr ""
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -17745,8 +17780,8 @@ msgstr "Уклања црте проузроковане конверзијом 
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
-msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Прецизност у битима излаза видео подрхтавања. Користите највише подешавање које не приказује црте. Подразумеваних 8 је препоручено за већину система. Ако је ваш GPU постављен да скалира RGB нивое излаза или користите екран лаптопа, подешавање од 7 или 6 бита може елиминисати више црта. Нижа подешавања су доступна за тестирање само да би се лакше видело да ли је подрхтавање примењено и да се величина пиксела шума подрхтавања подудара са резолуцијом екрана."
+msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
+msgstr ""
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -19972,6 +20007,10 @@ msgstr "Потврдите брисање датотеке"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ако је омогућено, приказаће се дијалог за потврду када датотеке треба да се обришу. Ако је онемогућено, датотеке ће бити обрисане без потврде корисника."
+
+#~ msgctxt "#36599"
+#~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
+#~ msgstr "Прецизност у битима излаза видео подрхтавања. Користите највише подешавање које не приказује црте. Подразумеваних 8 је препоручено за већину система. Ако је ваш GPU постављен да скалира RGB нивое излаза или користите екран лаптопа, подешавање од 7 или 6 бита може елиминисати више црта. Нижа подешавања су доступна за тестирање само да би се лакше видело да ли је подрхтавање примењено и да се величина пиксела шума подрхтавања подудара са резолуцијом екрана."
 
 #~ msgctxt "#35237"
 #~ msgid "Normal (1:1 PAR)"
