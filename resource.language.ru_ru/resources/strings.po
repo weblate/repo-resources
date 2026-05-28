@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-17 15:10+0000\n"
+"PO-Revision-Date: 2026-05-28 23:19+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -610,7 +610,7 @@ msgstr "Разрешение"
 
 msgctxt "#170"
 msgid "Adjust display refresh rate"
-msgstr "Корректировка частоты обновления экрана"
+msgstr "Подстраивать частоту обновления экрана"
 
 msgctxt "#171"
 msgid "Sort title"
@@ -893,7 +893,7 @@ msgstr "Очищать плейлист после воспроизведени�
 
 msgctxt "#240"
 msgid "Display mode"
-msgstr "Режим дисплея"
+msgstr "Режим отображения"
 
 msgctxt "#241"
 msgid "Full screen #{0:d}"
@@ -3533,7 +3533,7 @@ msgstr "HTTPS"
 
 msgctxt "#1200"
 msgid "SMB client"
-msgstr "SMB-клиент"
+msgstr "Клиент SMB"
 
 msgctxt "#1201"
 msgid "NFS Client"
@@ -4310,7 +4310,7 @@ msgstr "Справка недоступна"
 
 msgctxt "#10045"
 msgid "Resets all the visible settings to their default values."
-msgstr "Вернуть настройки по умолчанию для всех видимых."
+msgstr "Сбрасывает все видимые настройки к их значениям по умолчанию."
 
 msgctxt "#10046"
 msgid "No categories available"
@@ -5115,7 +5115,7 @@ msgstr "Уровень батареи"
 #. Label of button in the System Info screen asking for donations. "Thank you!" is used to convey gratitude to the users of our beloved software.
 msgctxt "#12396"
 msgid "Thank you!"
-msgstr "Спасибо!"
+msgstr "Благодарность!"
 
 #. Label of text box asking for donations
 msgctxt "#12397"
@@ -5704,6 +5704,7 @@ msgctxt "#13328"
 msgid "{0:s} not found"
 msgstr "Не удалось найти {0:s}"
 
+#. Label in the notification dialog for when a file or add-on fails to open
 msgctxt "#13329"
 msgid "Error opening {0:s}"
 msgstr "Ошибка открытия {0:s}"
@@ -6268,37 +6269,37 @@ msgstr "16 бит на канал"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 бита"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 бита"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 бита"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 бит"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 бит"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 бит"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 бит"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6396,7 +6397,7 @@ msgstr "Задержка после изменения частоты обнов
 
 msgctxt "#13551"
 msgid "Off"
-msgstr "Выкл."
+msgstr "Откл."
 
 msgctxt "#13552"
 msgid "{0:.1f} second"
@@ -6586,7 +6587,7 @@ msgstr "{0:d} мин"
 
 msgctxt "#14045"
 msgid "{0:d} sec"
-msgstr "{0:d} сек"
+msgstr "{0:d} с"
 
 msgctxt "#14046"
 msgid "{0:d} ms"
@@ -6872,7 +6873,7 @@ msgstr "Уровень: {0:s}"
 #. Label for the option to show/hide higher level events in the event log window
 msgctxt "#14120"
 msgid "Show higher levels"
-msgstr "Показать верхние уровни"
+msgstr "Выводить уровни выше"
 
 #. Name of a setting for Blu-ray region codes
 msgctxt "#14121"
@@ -7126,7 +7127,7 @@ msgstr "Форматы"
 
 msgctxt "#14271"
 msgid "Region default format"
-msgstr "Регион по умочанию"
+msgstr "Региональный формат по умолчанию"
 
 msgctxt "#14275"
 msgid "Application control"
@@ -10157,7 +10158,7 @@ msgstr "Заблокировать «Изображения»"
 
 msgctxt "#20041"
 msgid "Lock programs & scripts windows"
-msgstr "Заблокировать разделы \"Программы\" и \"Скрипты\""
+msgstr "Заблокировать разделы «Программы» и «Скрипты»"
 
 msgctxt "#20042"
 msgid "Lock file manager"
@@ -10274,7 +10275,7 @@ msgstr "Папка профиля"
 
 msgctxt "#20071"
 msgid "Start with fresh media sources or copy from default?"
-msgstr "Запустить с новыми источниками или скопировать настройки по-умолчанию?"
+msgstr "Запустить с новыми источниками или скопировать настройки по умолчанию?"
 
 msgctxt "#20072"
 msgid "Make sure the selected folder is writable and that the new folder name is valid"
@@ -12667,7 +12668,7 @@ msgstr "Показать сведения"
 #. xbmc/favourites/ContextMenus.h
 msgctxt "#22082"
 msgid "More..."
-msgstr "Еще…"
+msgstr "Больше…"
 
 msgctxt "#22083"
 msgid "Play all"
@@ -13499,7 +13500,7 @@ msgstr "Подключение к базе данных - подождите"
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr "Не удалось инициализировать базы данных - выход через {} секунд."
+msgstr "Не удалось инициализировать базы данных — выход через {} секунд."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -14515,7 +14516,7 @@ msgstr "Если эта настройка включена, то при отс�
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr "Выкл."
+msgstr "Откл."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
@@ -15649,7 +15650,7 @@ msgstr "Всегда"
 #. adjust refreshrate
 msgctxt "#36036"
 msgid "On start / stop"
-msgstr "При запуске / остановке"
+msgstr "При запуске/остановке"
 
 msgctxt "#36037"
 msgid "TV"
@@ -15707,7 +15708,7 @@ msgstr "Время нажатия кнопки (мс)"
 
 msgctxt "#36050"
 msgid "On start"
-msgstr "На старте"
+msgstr "При запуске"
 
 #. Item list value of setting with label #36013 "CEC client device mode"
 msgctxt "#36051"
@@ -15868,7 +15869,7 @@ msgstr "Разрешить удаление и переименование фа
 #. Description of setting with label #21382 Show "Add source" buttons in files lists"
 msgctxt "#36126"
 msgid "Show the add source button in root sections of the user interface."
-msgstr "Показывать кнопку \"Добавить источник\" в корневых разделах интерфейса."
+msgstr "Показывать кнопку «Добавить источник» в корневых разделах интерфейса."
 
 #. Description of setting with label #21330 "Show hidden files and directories"
 msgctxt "#36127"
@@ -16220,7 +16221,7 @@ msgstr "Выберите используемый по умолчанию ист
 
 msgctxt "#36200"
 msgid "Select the default music videos information source. See the add-ons manager for options."
-msgstr "Выберите используемый по-умолчанию источник сведений о музыке. Доступные службы см. в менеджере дополнений."
+msgstr "Выберите используемый по умолчанию источник сведений о музыке. Доступные службы см. в менеджере дополнений."
 
 msgctxt "#36201"
 msgid "Settings for PVR & Live TV."
@@ -16754,7 +16755,7 @@ msgstr "Выберите до трех местоположений, для ко
 #. Description of setting with label #24029 "Service for weather information"
 msgctxt "#36318"
 msgid "Specify the default weather information source. See the add-ons manager for options."
-msgstr "Выберите источник прогноза погоды по-умолчанию. Доступные службы см. в менеджере дополнений."
+msgstr "Выберите источник прогноза погоды по умолчанию. Доступные службы см. в менеджере дополнений."
 
 #. Description of settings section with label #14036  "Services"
 msgctxt "#36319"
@@ -17780,7 +17781,7 @@ msgstr "Устраняет полосы, вызванные преобразов
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "Точность вывода при сглаживании видео в битах. «Автоматически» позволяет сглаживать видео только в тех случаях, когда это необходимо (несоответствие в ограниченном / полном диапазоне, уменьшение глубины в битах, уменьшение масштаба или отображение тона HDR), и использует 8- или 10-битную глубину в зависимости от того, что поддерживает дисплей. Более низкие настройки доступны только для целей тестирования."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -18194,7 +18195,7 @@ msgstr "Предпочитать субтитры для слабослышащ�
 #. Setting #37040 Playback
 msgctxt "#37040"
 msgid "Prefer default audio streams"
-msgstr "Предпочитать аудио поток по-умолчанию"
+msgstr "Предпочитать аудиопотоки по умолчанию"
 
 #. Description of setting #37040 Playback
 msgctxt "#37041"
@@ -18400,7 +18401,7 @@ msgstr "Время ожидания аудио/видео"
 #. Description of setting with label #37130 "Audio/video queue time"
 msgctxt "#37131"
 msgid "Duration in seconds of audio/video queues. The duration determines the amount of data stored in memory."
-msgstr "Продолжительность в секундах очередей аудио/видео. Определяет объём данных, хранящихся в памяти."
+msgstr "Длительность в секундах очередей аудио/видео. Определяет объём данных, хранящихся в памяти."
 
 #. Setting "Video queue maximum size"
 msgctxt "#37132"
@@ -18430,7 +18431,7 @@ msgstr "Ограничить обновление интерфейса при в
 #. Description for the setting with label #38013 "Limit GUI updates when playing video"
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr "Ограничить скорость обновления (кадров в сек.) интерфейса при воспроизведении видео. Эта настройка может уменьшить нагрузку на процессор и устранить проблемы при воспроизведения при отображении интерфейса."
+msgstr "Ограничить скорость обновления (кадров/с) интерфейса при воспроизведении видео. Эта настройка может уменьшить нагрузку на процессор и устранить проблемы при воспроизведения при отображении интерфейса."
 
 #. Label of a settings value to indicate the "disabled" state of an otherwise limiting setting (like fps limit, bandwidth limit, etc.)
 msgctxt "#38015"

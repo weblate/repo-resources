@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 20:25+0000\n"
-"Last-Translator: qwerttvv <qwerttaa@protonmail.com>\n"
+"PO-Revision-Date: 2026-05-21 19:17+0000\n"
+"Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5701,6 +5701,7 @@ msgctxt "#13328"
 msgid "{0:s} not found"
 msgstr "{0:s} 未找到"
 
+#. Label in the notification dialog for when a file or add-on fails to open
 msgctxt "#13329"
 msgid "Error opening {0:s}"
 msgstr "打开出错 {0:s}"
@@ -6265,37 +6266,37 @@ msgstr "每通道 16 位"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 bit"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -15305,7 +15306,7 @@ msgstr "此版本仅可使用控制器玩游戏。"
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "方形像素"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15315,7 +15316,7 @@ msgstr "整数"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "整数（方形像素）"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -17771,7 +17772,7 @@ msgstr "增加少量的图像噪点以消除因 RGB 级别转换或其它处理�
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "视频抖动输出位深精度。自动模式仅在必要时开启抖动处理（如有限色域 / 全色域不匹配、位深压缩、画面降分辨率、HDR 色调映射场景），并根据显示设备适配 8 位或 10 位输出精度。更低档位仅作测试使用。"
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"

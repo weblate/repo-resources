@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 19:01+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"PO-Revision-Date: 2026-05-28 23:19+0000\n"
+"Last-Translator: shilonit <mmm_45@walla.com>\n"
 "Language-Team: Hebrew (Israel) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/he_il/>\n"
 "Language: he_il\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5708,6 +5708,7 @@ msgctxt "#13328"
 msgid "{0:s} not found"
 msgstr "{0:s} לא נמצא"
 
+#. Label in the notification dialog for when a file or add-on fails to open
 msgctxt "#13329"
 msgid "Error opening {0:s}"
 msgstr "שגיאה בפתיחה {0:s}"
@@ -6272,37 +6273,37 @@ msgstr "16 סיביות לכל ערוץ"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 סיביות"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 סיביות"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -13628,7 +13629,7 @@ msgstr "לא נמצאה רשימת השמעה תקינה של הפרק."
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
-msgstr ""
+msgstr "בחירה אוטומטית בתפריט"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -15319,7 +15320,7 @@ msgstr "בגרסה זו ניתן לשחק במשחקים באמצעות בקרי
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "פיקסלים ריבועיים"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15329,7 +15330,7 @@ msgstr "מספר שלם"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "אינטגרלי (פיקסלים ריבועיים)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15442,47 +15443,47 @@ msgstr "המשחק דורש תמיכה ב‑OpenGL עבור רינדור תלת�
 #. Label for the "Disc menu" button to open the Disc Manager when playing a game
 msgctxt "#35272"
 msgid "Disc menu"
-msgstr ""
+msgstr "תפריט דיסק"
 
 #. Label for showing the disc that is inserted in the game's virtual CD drive
 msgctxt "#35273"
 msgid "Disc selection"
-msgstr ""
+msgstr "הדיסק הנבחר"
 
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr ""
+msgstr "אין דיסק"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
 msgid "Eject"
-msgstr ""
+msgstr "הוצא"
 
 #. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
 msgctxt "#35276"
 msgid "Insert"
-msgstr ""
+msgstr "הכנס"
 
 #. Label for the button that resumes playing the current game. Called from the in-game menu.
 msgctxt "#35277"
 msgid "Resume game"
-msgstr ""
+msgstr "המשכת משחק"
 
 #. Error message shown when the disc can't be ejected for a game's virtual CD drive
 msgctxt "#35278"
 msgid "The disc can't be ejected right now."
-msgstr ""
+msgstr "\"לא ניתן להוציא את הדיסק כעת."
 
 #. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
 msgctxt "#35279"
 msgid "The disc can't be inserted right now."
-msgstr ""
+msgstr "\"לא ניתן להכניס את הדיסק כעת."
 
 #. Title of the dialog to select a new disc image for a game's virtual CD drive
 msgctxt "#35280"
 msgid "Select disc"
-msgstr ""
+msgstr "בחירת דיסק"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16659,11 +16660,11 @@ msgstr "קטגוריה זו מכילה הגדרות עבור תזכורות."
 
 msgctxt "#36297"
 msgid "Choose a time in seconds after which PVR reminder popups will be automatically closed."
-msgstr ""
+msgstr "בחירת זמן בשניות שלאחריו תזכורות ה‑PVR ייסגרו אוטומטית."
 
 msgctxt "#36298"
 msgid "If enabled, a recording for the programme to remind will be scheduled when auto-closing the reminder popup, if supported by the PVR add-on and backend."
-msgstr ""
+msgstr "אם האפשרות מופעלת, תוזמן הקלטה עבור התוכנית שעליה ניתנה התזכורת בעת סגירה אוטומטית של חלון התזכורת, במידה שה‑PVR והתוסף תומכים בכך."
 
 #. Description of setting with label #13436 "Adjust display HDR mode"
 msgctxt "#36299"
