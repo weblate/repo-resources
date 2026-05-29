@@ -5744,6 +5744,7 @@ msgctxt "#13328"
 msgid "{0:s} not found"
 msgstr "{0:s} غير موجود"
 
+#. Label in the notification dialog for when a file or add-on fails to open
 msgctxt "#13329"
 msgid "Error opening {0:s}"
 msgstr "خطأ في فتح {0:s}"

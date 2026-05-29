@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 18:42+0000\n"
-"Last-Translator: Roman Miroshnychenko <romanvm@kodi.tv>\n"
+"PO-Revision-Date: 2026-05-21 19:17+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5701,6 +5701,7 @@ msgctxt "#13328"
 msgid "{0:s} not found"
 msgstr "{0:s} no encontrado"
 
+#. Label in the notification dialog for when a file or add-on fails to open
 msgctxt "#13329"
 msgid "Error opening {0:s}"
 msgstr "Error al abrir {0:s}"
@@ -6265,37 +6266,37 @@ msgstr "16 bit por canal"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 bit"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -15305,7 +15306,7 @@ msgstr "En esta versión, solo se pueden usar mandos para jugar."
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Píxeles cuadrados"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15315,7 +15316,7 @@ msgstr "Entero"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Entero (píxeles cuadrados)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -17771,7 +17772,7 @@ msgstr "Elimina las bandas causadas por la conversión de nivel RGB u otro proce
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "Precisión del entramado de salida de vídeo en bits. Auto activa el entramado solo cuando es beneficioso (desajuste de rango completo/limitado, reducción de profundidad de bits, reescalado o mapa de tonos HDR) y usa 8- o 10- bit de profundidad según soporte la pantalla. Hay disponibilidad de valores más bajos para pruebas."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
