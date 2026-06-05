@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 18:46+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2026-06-05 01:16+0000\n"
+"Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/et_ee/>\n"
 "Language: et_ee\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -6266,37 +6266,37 @@ msgstr "16 bitti kanali kohta"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 bitti"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 bitti"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -15306,7 +15306,7 @@ msgstr "Selles versioonis saab mängude mängimiseks kasutada ainult kontrollere
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Ruudukujulised pikslid"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15316,7 +15316,7 @@ msgstr "Täisarv"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Täisarv (ruudukujulised pikslid)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15429,47 +15429,47 @@ msgstr "See mäng nõuab 3D-renderdamiseks OpenGL tuge. OpenGL tugi on veel aren
 #. Label for the "Disc menu" button to open the Disc Manager when playing a game
 msgctxt "#35272"
 msgid "Disc menu"
-msgstr ""
+msgstr "Plaadi menüü"
 
 #. Label for showing the disc that is inserted in the game's virtual CD drive
 msgctxt "#35273"
 msgid "Disc selection"
-msgstr ""
+msgstr "Plaadi valik"
 
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr ""
+msgstr "Plaati pole"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
 msgid "Eject"
-msgstr ""
+msgstr "Väljuta"
 
 #. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
 msgctxt "#35276"
 msgid "Insert"
-msgstr ""
+msgstr "Sisesta"
 
 #. Label for the button that resumes playing the current game. Called from the in-game menu.
 msgctxt "#35277"
 msgid "Resume game"
-msgstr ""
+msgstr "Jätka mängu"
 
 #. Error message shown when the disc can't be ejected for a game's virtual CD drive
 msgctxt "#35278"
 msgid "The disc can't be ejected right now."
-msgstr ""
+msgstr "Plaati ei saa praegu väljutada."
 
 #. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
 msgctxt "#35279"
 msgid "The disc can't be inserted right now."
-msgstr ""
+msgstr "Plaati ei saa praegu sisestada."
 
 #. Title of the dialog to select a new disc image for a game's virtual CD drive
 msgctxt "#35280"
 msgid "Select disc"
-msgstr ""
+msgstr "Vali plaat"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -17772,7 +17772,7 @@ msgstr "Eemaldab RGB taseme muundamise või muu töötlemise põhjustatud värvi
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "ideo ditherdamise väljundtäpsus bittides. Valik „Automaatne“ lülitab ditherdamise sisse vaid vajadusel (piiratud/täieliku vahemiku mittevastavus, bitisügavuse vähendamine, pildi vähendamine või HDR-toonide vastavendus) ja kasutab ekraani toest lähtuvalt 8- või 10-bitist sügavust. Madalamad seaded on mõeldud ainult testimiseks."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
