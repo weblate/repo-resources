@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-28 23:19+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 01:16+0000\n"
+"Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.5\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1317,7 +1317,7 @@ msgstr "Различные исполнители"
 
 msgctxt "#341"
 msgid "Play disc"
-msgstr "Играть диск"
+msgstr "Воспроизвести диск"
 
 msgctxt "#342"
 msgid "Movies"
@@ -3231,7 +3231,7 @@ msgstr "Доступный диапазон портов: 1024–65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr "Любой канал от клиента \"{0:s}\""
+msgstr "Любой канал от клиента «{0:s}»"
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
@@ -6356,7 +6356,7 @@ msgstr "Порог коррекции тона"
 
 msgctxt "#13518"
 msgid "When the speed change exceeds this threshold, a pitch-correction filter will be applied. This avoids the \"chipmunk voices\" that normally result from speeding up a video"
-msgstr "Когда изменённая скорость превысит этот порог, будет применён фильтр коррекции высоты тона. Это позволит избежать эффекта \"голос бурундуков\", который обычно возникает при ускорении видео"
+msgstr "Когда изменённая скорость превысит этот порог, будет применён фильтр коррекции высоты тона. Это позволит избежать эффекта «голос бурундуков», который обычно возникает при ускорении видео"
 
 msgctxt "#13519"
 msgid "Embedded art"
@@ -7324,7 +7324,7 @@ msgstr "Показать изображение"
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
 msgid "Show content in \"{}\""
-msgstr "Показать содержимое в \"{}\""
+msgstr "Показать содержимое в «{}»"
 
 #. Label for an action associated with a favourite
 msgctxt "#15221"
@@ -7792,7 +7792,7 @@ msgstr "Разделяйте слова в поисковом запросе с 
 
 msgctxt "#19002"
 msgid "or use phrases to find an exact match, like \"The wizard of Oz\"."
-msgstr "или используйте словосочетания, чтобы найти точное совпадение, например \"Волшебник из страны Оз\"."
+msgstr "или используйте словосочетания, чтобы найти точное совпадение, например «Волшебник из страны Оз»."
 
 #. Label of a context menu entry to find similar programs (matching a given epg event)
 msgctxt "#19003"
@@ -9085,7 +9085,7 @@ msgstr "Родительская блокировка:"
 #. pvr settings 'hide no info available labels' setting label. Instead of displaying "no information available" text (for example in epg grid for time spans without epg data), show nothing
 msgctxt "#19268"
 msgid "Hide \"No information available\" labels"
-msgstr "Не отображать метки \"Сведения недоступны\""
+msgstr "Не отображать метки «Сведения недоступны»"
 
 #. pvr settings "Preselect playing channel in lists" control label
 msgctxt "#19269"
@@ -9150,7 +9150,7 @@ msgstr "Настройки клиента"
 #. pvr settings 'confirm channel switch' setting label.
 msgctxt "#19281"
 msgid "Confirm channel switches by pressing \"OK\""
-msgstr "Подтверждать переключение каналов нажатием \"ОК\""
+msgstr "Подтверждать переключение каналов нажатием «ОК»"
 
 #. Label for a select option or list item, representing an icon graphic (like a TV channel icon)
 msgctxt "#19282"
@@ -10315,7 +10315,7 @@ msgstr "Включить кнопки ярлыков"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
-msgstr "Показывать \"Программы\" в главном меню"
+msgstr "Показывать «Программы» в главном меню"
 
 msgctxt "#20083"
 msgid "Show music information"
@@ -10957,7 +10957,7 @@ msgstr "Сброс калибровки"
 #. Window screen calibration: ask to reset calibration settings
 msgctxt "#20326"
 msgid "Do you want reset the calibration to their defaults for \"{0:s}\" resolution?"
-msgstr "Вы хотите сбросить калибровку на значения по умолчанию для разрешения \"{0:s}\"?"
+msgstr "Вы хотите сбросить калибровку на значения по умолчанию для разрешения «{0:s}»?"
 
 #. Window screen calibration: the current calibration value
 msgctxt "#20327"
@@ -12148,7 +12148,7 @@ msgstr "При первом выборе"
 
 msgctxt "#21472"
 msgid "Include \"All seasons\" and \"Specials\""
-msgstr "Включая \"Все сезоны\" и \"Дополнения\""
+msgstr "Включая «Все сезоны» и «Дополнения»"
 
 #. Description of setting with label #21472 "Include All Seasons and Specials"
 msgctxt "#21473"
@@ -12457,7 +12457,7 @@ msgstr "Пытаться пропустить вступление перед м
 
 msgctxt "#21883"
 msgid "Saved music"
-msgstr "Оцифрованные аудио-CD"
+msgstr "Сохранённая музыка"
 
 msgctxt "#21884"
 msgid "Query info for all artists"
@@ -12709,11 +12709,11 @@ msgstr "Активирован внешний проигрыватель"
 
 msgctxt "#23101"
 msgid "Click \"OK\" to terminate the player"
-msgstr "Нажмите \"ОК\" для закрытия проигрывателя"
+msgstr "Нажмите «ОК» для закрытия проигрывателя"
 
 msgctxt "#23104"
 msgid "Click \"OK\" when playback has ended"
-msgstr "Нажмите \"ОК\" по завершении воспроизведения"
+msgstr "Нажмите «ОК» по завершении воспроизведения"
 
 msgctxt "#24000"
 msgid "Add-on"
@@ -13120,7 +13120,7 @@ msgstr "Проверка {0:s}..."
 
 msgctxt "#24094"
 msgid "Add-on disabled due to being marked broken in repository."
-msgstr "Дополнение отключено, поскольку в репозитории оно отмечено как \"испорченное\"."
+msgstr "Дополнение отключено, поскольку в репозитории оно отмечено как «испорченное»."
 
 msgctxt "#24095"
 msgid "Local package cache"
@@ -13129,7 +13129,7 @@ msgstr "Локальный кеш пакетов"
 #. To show addon as broken over icon
 msgctxt "#24096"
 msgid "Add-on has been marked broken in repository."
-msgstr "Дополнение было отмечено как \"испорченное\" в репозитории."
+msgstr "Дополнение было отмечено как «испорченное» в репозитории."
 
 msgctxt "#24097"
 msgid "Would you like to disable it on your system?"
@@ -14716,7 +14716,7 @@ msgstr "Обнаружен новый контроллер"
 #. Text of dialog to ask users if they would like to configure a new controller
 msgctxt "#35012"
 msgid "A new controller has been detected. Configuration can be done at any time in \"Settings -> System Settings -> Input\". Would you like to configure it now?"
-msgstr "Обнаружен новый контроллер. Его можно настроить в разделе \"Настройки -> Системные настройки -> Ввод\". Настроить сейчас?"
+msgstr "Обнаружен новый контроллер. Его можно настроить в разделе «Настройки -> Системные настройки -> Ввод». Настроить сейчас?"
 
 #. Help text of the button to fix the bug where buttons are skipped in the controller dialog. {0:s} - list of disabled buttons and axes
 msgctxt "#35014"
@@ -15195,7 +15195,7 @@ msgstr "Не найдено совместимых эмуляторов для �
 #. Error dialog text when launching a game and the emulator has an internal error. {0:s} - emulator name
 msgctxt "#35213"
 msgid "The emulator \"{0:s}\" had an internal error."
-msgstr "Ошибка эмулятора \"{0:s}\"."
+msgstr "Ошибка эмулятора «{0:s}»."
 
 #. Error dialog text when the game can't be played because it's not on a hard drive or partition
 msgctxt "#35214"
@@ -15215,7 +15215,7 @@ msgstr "Поддержка дополнений"
 #. Dialog text asking user to overwrite their savestate file
 msgctxt "#35217"
 msgid "The savestate can only be loaded with \"{0:s}\". Erase savestate and continue?"
-msgstr "Сохранение может быть загружено только с \"{0:s}\". Стереть сохранение и продолжить?"
+msgstr "Сохранение может быть загружено только с «{0:s}». Стереть сохранение и продолжить?"
 
 #. Button to erase the savestate
 msgctxt "#35218"
@@ -15523,7 +15523,7 @@ msgstr "Включить дополнительные команды ДУ"
 
 msgctxt "#36004"
 msgid "Press \"user\" button command"
-msgstr "Нажмите настраиваемую кнопку \"user\""
+msgstr "Нажмите настраиваемую кнопку «user»"
 
 msgctxt "#36005"
 msgid "Enable switch side commands"
@@ -15601,7 +15601,7 @@ msgstr "Не удалось применить новую конфигураци
 
 msgctxt "#36025"
 msgid "Send \"Inactive source\" command on shutdown"
-msgstr "Отправлять команду \"источник неактивен\" при выключении"
+msgstr "Отправлять команду «источник неактивен» при выключении"
 
 msgctxt "#36026"
 msgid "Devices to also put in standby mode"
@@ -15854,17 +15854,17 @@ msgstr "Отображать символ папки верхнего уровн
 #. Description of setting with label #497 "Show file extensions"
 msgctxt "#36123"
 msgid "Show file extensions on media files, for example \"You Enjoy Myself\" would be shown as \"You Enjoy Myself.mp3\"."
-msgstr "Показывать расширения файлов. Например, файл \"You Enjoy Myself\" будет показан как \"You Enjoy Myself.mp3\"."
+msgstr "Показывать расширения файлов. Например, файл «You Enjoy Myself» будет показан как «You Enjoy Myself.mp3»."
 
 #. Description of setting with label #13399 "Ignore articles when sorting"
 msgctxt "#36124"
 msgid "Ignore certain tokens, e.g. \"The\", during sort operations. \"The Simpsons\" would for example be sorted as \"Simpsons\"."
-msgstr "Игнорировать артикли, например \"The\", при сортировке. Например, файл \"The Simpsons\" будет отсортирован как \"Simpsons\"."
+msgstr "Игнорировать артикли, например «The», при сортировке. Например, файл «The Simpsons» будет отсортирован как «Simpsons»."
 
 #. Description of setting with label #14071 "Allow file renaming and deletion"
 msgctxt "#36125"
 msgid "Allow files to be deleted and renamed through the user interface, via the context menu, e.g. press \"C\" on a keyboard to bring up this menu."
-msgstr "Разрешить удаление и переименование файлов посредством контекстного меню интерфейса, например клавиша \"С\" на клавиатуре для вызова этого меню."
+msgstr "Разрешить удаление и переименование файлов посредством контекстного меню интерфейса, например клавиша «С» на клавиатуре для вызова этого меню."
 
 #. Description of setting with label #21382 Show "Add source" buttons in files lists"
 msgctxt "#36126"
@@ -15889,7 +15889,7 @@ msgstr "Время бездействия до включения заставк
 #. Description of setting with label #356 "Screensaver mode"
 msgctxt "#36130"
 msgid "Select the screensaver. The \"Dim\" screensaver will be forced when fullscreen video playback is paused or a dialogue box is active."
-msgstr "Выбор заставки. При паузе воспроизведения или при активном диалоговом окне будет отображена заставка \"Dim\"."
+msgstr "Выбор заставки. При паузе воспроизведения или при активном диалоговом окне будет отображена заставка «Dim»."
 
 #. #. Description of setting with label #21417 "Settings"
 msgctxt "#36131"
@@ -15904,7 +15904,7 @@ msgstr "Предварительный просмотр заставки."
 #. Description of setting with label #22014 "Use dim if paused during video playback"
 msgctxt "#36134"
 msgid "Dim the display when media is paused. Not valid for the \"Dim\" screensaver mode."
-msgstr "Затемнять дисплей на паузе. Не применимо к заставке \"Dim\"."
+msgstr "Затемнять дисплей на паузе. Не применимо к заставке «Dim»."
 
 msgctxt "#36135"
 msgid "No info available yet."
@@ -15956,7 +15956,7 @@ msgstr "Выберите, в каких случаях вы хотите скр�
 #. Description of setting with label #20458 "Group movies in sets"
 msgctxt "#36145"
 msgid "When enabled, movies belonging to a \"Movie set\" are grouped together under one entry for the set in the movie library, this entry can then be opened to display the individual movies. When disabled, each movie will have its own entry in the movie library even if it belongs to a set."
-msgstr "Когда включено, фильмы, входящие в коллекцию, группируются вместе в одну запись в видеотеке и её можно открыть для отображения фильмов по отдельности. Когда выключено, каждый фильм будет иметь собственную запись в видеотеке, даже если входит в какую-либо киноколлекцию."
+msgstr "Когда эта функция включена, фильмы, входящие в одну «Киноколлекцию», группируются в библиотеке под единым пунктом, который можно открыть для просмотра отдельных фильмов. Когда она отключена, каждый фильм отображается в библиотеке отдельно, даже если он является частью коллекции."
 
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36146"
@@ -16016,7 +16016,7 @@ msgstr "Включить аппаратное декодирование вид�
 #. Description of setting with label #20470 "Use movie sets for single movies"
 msgctxt "#36157"
 msgid "When enabled, a \"Movie set\" entry is used even if the movie library contains only a single movie from that set. When disabled, a \"Movie set\" entry is used only if the movie library contains more than one movie from that set."
-msgstr "Когда включено, \"Киноколлекция\" используется, даже если фильмотека содержит только один фильм из этой коллекции. При отключении - \"Киноколлекция\" используется, если фильмотека содержит более одного фильма из коллекции."
+msgstr "Когда включено, «Киноколлекция» используется, даже если фильмотека содержит только один фильм из этой коллекции. При отключении - «Киноколлекция» используется, если фильмотека содержит более одного фильма из коллекции."
 
 #. Description of setting with label #13427 "Allow hardware acceleration (DXVA2)"
 msgctxt "#36158"
@@ -16140,7 +16140,7 @@ msgstr "Объединение видеофайлов, состоящих из �
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
 msgid "Removes the title, genre, etc. nodes from the library view. Selecting a category takes you straight to the title view."
-msgstr "Не показывать подразделы \"Название\", \"Жанр\", \"Год\" и т. п. в представлении медиатеки. При выборе разделов стразу открывается список фильмов/сериалов."
+msgstr "Не показывать подразделы «Название», «Жанр», «Год» и т. п. в представлении медиатеки. При выборе разделов стразу открывается список фильмов/сериалов."
 
 #. Description of settings category with label #287 "Subtitles"
 msgctxt "#36184"
@@ -16320,7 +16320,7 @@ msgstr "Включить PRIME аппаратное декодирование �
 
 msgctxt "#36224"
 msgid "Hide \"No information available\" labels when no guide data is available for a channel."
-msgstr "Скрыть метки \"сведения недоступны\", если данные телепрограммы не доступны для канала."
+msgstr "Скрыть метки «сведения недоступны», если данные телепрограммы не доступны для канала."
 
 msgctxt "#36225"
 msgid "Delete the cached guide data and reimport it from the backend."
@@ -16362,7 +16362,7 @@ msgstr "Этот раздел содержит настройки записи."
 
 msgctxt "#36234"
 msgid "Duration of instant recordings when pressing the record button. This value will be taken into account if \"Instant recording action\" is set to \"Record for a fixed period of time\""
-msgstr "Длительность быстрой записи при нажатии на соответствующую кнопку. Эта величина учитывается, если настройка \"Быстрая запись\" имеет значение \"Записывать фиксированный промежуток времени\""
+msgstr "Длительность быстрой записи при нажатии на соответствующую кнопку. Эта величина учитывается, если настройка «Быстрая запись» имеет значение «Записывать фиксированный промежуток времени»"
 
 msgctxt "#36235"
 msgid "Close the on screen display controls after switching channels."
@@ -16390,7 +16390,7 @@ msgstr "Этот раздел содержит настройки управле
 
 msgctxt "#36241"
 msgid "Execute the wakeup command below when exiting this application or going into hibernation mode. The timestamp of the next scheduled recording is passed as parameter."
-msgstr "Выполнять указанную ниже \"команду пробуждения\" при выходе из приложения или переходе в спящий режим. Время следующей запланированной записи передается как параметр."
+msgstr "Выполнять указанную ниже «команду пробуждения» при выходе из приложения или переходе в спящий режим. Время следующей запланированной записи передается как параметр."
 
 msgctxt "#36242"
 msgid "The command will not be executed when a recording will be started within this timeout."
@@ -16443,7 +16443,7 @@ msgstr "Настройки отображения музыкальных фай�
 
 msgctxt "#36254"
 msgid "Action to perform when pressing the record button. [Record current show] will record the current show from \"now\" to the end of the show. If no TV guide data is currently available a fixed length recording starting \"now\", with the value set for \"Instant recording duration\" will be scheduled. [Record for a fixed period of time] will schedule a fixed length recording starting \"now\", with the value set for \"Instant recording duration\". [Ask what to do] will open a dialogue containing different recording actions to choose from, like \"Record current show\", \"Record next show\" and some fixed duration recordings."
-msgstr "Действие при нажатии кнопки записи. \"Записывать текущую передачу\": запись текущей передачи от настоящего момента до конца. Если телепрограмма недоступна, запись будет вестись в течение фиксированного интервала времени, определяемого настройкой \"Длительность быстрой записи\". \"Записывать фиксированный промежуток времени\": записывать в течение фиксированного интервала времени, определяемого настройкой \"Длительность быстрой записи\". \"Спросить, что нужно сделать\": открыть диалог с доступными вариантами, например \"Записывать текущую передачу\", \"Записывать следующую передачу\" или запись в течение фиксированного интервала времени."
+msgstr "Действие при нажатии кнопки записи. «Записывать текущую передачу»: запись текущей передачи от настоящего момента до конца. Если телепрограмма недоступна, запись будет вестись в течение фиксированного интервала времени, определяемого настройкой «Длительность быстрой записи». «Записывать фиксированный промежуток времени»: записывать в течение фиксированного интервала времени, определяемого настройкой «Длительность быстрой записи». «Спросить, что нужно сделать»: открыть диалог с доступными вариантами, например «Записывать текущую передачу», «Записывать следующую передачу» или запись в течение фиксированного интервала времени."
 
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
@@ -16497,7 +16497,7 @@ msgstr "Этот раздел содержит настройки воспрои
 #. Description of setting with label #489 "Play next song automatically"
 msgctxt "#36265"
 msgid "Automatically plays the next item in the current folder, for example in \"Files\" view after a track has been played, the next track in the same folder will automatically play."
-msgstr "Автоматическое воспроизведение следующей позиции в текущей папке. Например, в режиме просмотра файлов после окончания текущего файла, следующий файл в этой же папке будет воспроизведен автоматически."
+msgstr "Автоматическое воспроизведение следующей позиции в текущей папке. Например, в режиме просмотра «Файлы» после окончания текущего файла, следующий файл в этой же папке будет воспроизведен автоматически."
 
 #. Description of setting with label #14084 "Queue songs on selection"
 msgctxt "#36266"
@@ -16542,7 +16542,7 @@ msgstr "Выбрать визуализацию, которая будет ис�
 #. Description of setting with label #39125 "Enable tag reading in file view"
 msgctxt "#36274"
 msgid "When browsing music files in file view read the tags of those not in the music library as you go. This can make large directories slow to display, especially over a network."
-msgstr "При просмотре музыкальных файлов в режиме \"Файлы\" теги тех файлов, которые не находятся в медиатеке музыки, будут считываться по ходу просмотра. Это может замедлить отображение больших каталогов, особенно по сети."
+msgstr "При просмотре музыкальных файлов в режиме «Файлы» теги тех файлов, которые не находятся в медиатеке музыки, будут считываться по ходу просмотра. Это может замедлить отображение больших каталогов, особенно по сети."
 
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
@@ -16557,12 +16557,12 @@ msgstr "Формат отображения второго столбца в с�
 #. Description of setting with label #13307 "Track naming template" in musicfiles.nowplayingtrackformat
 msgctxt "#36277"
 msgid "Control the way that the names of songs are displayed in the now playing list."
-msgstr "Настройка отображения названий песен в списке \"Сейчас проигрывается\"."
+msgstr "Настройка отображения названий песен в списке «Сейчас проигрывается»."
 
 #. unused?
 msgctxt "#36278"
 msgid "Used for formatting the second column in the now playing list."
-msgstr "Формат отображения второго столбца в списке \"Сейчас проигрывается\"."
+msgstr "Формат отображения второго столбца в списке «Сейчас проигрывается»."
 
 #. Description of setting with label #13307 "Track naming template" in musicfiles.librarytrackformat
 msgctxt "#36279"
@@ -16642,7 +16642,7 @@ msgstr "Выберите папку для сохранения информац
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
 msgid "When sorting music items by artist use sortname e.g. Parton, Dolly rather than name."
-msgstr "При включении опции для сортировки музыкальных элементов сначала используется фамилия, например \"Чайковский, Пётр\", а не имя."
+msgstr "При включении опции для сортировки музыкальных элементов сначала используется фамилия, например «Чайковский, Пётр», а не имя."
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
@@ -16954,7 +16954,7 @@ msgstr "Калибровка интерфейса пользователя пу�
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr "Разрешить использование нумерации каналов из нескольких серверов. Обратите внимание, что при использовании этой опции группа \"Все каналы\" может содержать несколько одинаковых номеров каналов. Это означает, что переход к номеру канала может работать некорректно для группы \"Все каналы\"."
+msgstr "Разрешить использование нумерации каналов из нескольких серверов. Обратите внимание, что при использовании этой опции группа «Все каналы» может содержать несколько одинаковых номеров каналов. Это означает, что переход к номеру канала может работать некорректно для группы «Все каналы»."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -17022,7 +17022,7 @@ msgstr "Выберите устройство воспроизведения д�
 #. Description of setting with label #546 "Passthrough output device"
 msgctxt "#36372"
 msgid "Select the device to be used for playback of encoded formats, these are any of the formats below in the capable receiver options."
-msgstr "Выбор устройства воспроизведения кодированных форматов. Доступные форматы выбираются настройками \"Выводить звук в формате…\"."
+msgstr "Выбор устройства воспроизведения кодированных форматов. Доступные форматы выбираются настройками «Выводить звук в формате…»."
 
 #. Description of setting with label #34120 "Play GUI sounds"
 msgctxt "#36373"
@@ -17269,7 +17269,7 @@ msgstr "По умолчанию, дополнения из частных реп
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item. [\"Smart select\"] The action is choosen dynamically, depending on whether the event is in the past, now or in the future."
-msgstr "Действие при выборе элемента телепрограммы. [Показать контекстное меню] вывод контекстного меню для выбора дальнейших действий; [Переключиться на канал] мгновенное переключение на соответствующий канал; [Показать сведения] подробные сведения о сюжете и другие параметры; [Запись] создание таймера записи для выбранного элемента. [\"Умный выбор\"] действие выбирается динамически, в зависимости от того, произошло ли событие в прошлом, происходит сейчас или произойдёт в будущем."
+msgstr "Действие при выборе элемента телепрограммы. [Показать контекстное меню] вывод контекстного меню для выбора дальнейших действий; [Переключиться на канал] мгновенное переключение на соответствующий канал; [Показать сведения] подробные сведения о сюжете и другие параметры; [Запись] создание таймера записи для выбранного элемента. [«Умный выбор»] действие выбирается динамически, в зависимости от того, произошло ли событие в прошлом, происходит сейчас или произойдёт в будущем."
 
 msgctxt "#36425"
 msgid "Show context menu"
@@ -17343,7 +17343,7 @@ msgstr "Любые репозитории"
 #. Description of setting with label #19352 "Play next programme automatically"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
-msgstr "Включите автоматическое воспроизведение следующей программы при воспроизведении прошедших программ (вслед за эфиром) или для каналов \"Видео по запросу\" (ВПЗ). Обратите внимание, что функции \"вслед за эфиром\"и ВПЗ работают только в том случае, если они поддерживаются поставщиком канала."
+msgstr "Включите автоматическое воспроизведение следующей программы при воспроизведении прошедших программ (вслед за эфиром) или для каналов «Видео по запросу» (ВПЗ). Обратите внимание, что функции «вслед за эфиром»и ВПЗ работают только в том случае, если они поддерживаются поставщиком канала."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17353,7 +17353,7 @@ msgstr "Установите количество шагов регулиров�
 #. Description of setting with label #14126 "Whitelist"
 msgctxt "#36443"
 msgid "Whitelisted modes give the user the control to choose which display modes are allowed or not allowed to be used"
-msgstr "Режимы \"белого списка\" дают пользователю возможность выбирать, какие режимы отображения разрешены или запрещены к использованию"
+msgstr "Режимы «белого списка» дают пользователю возможность выбирать, какие режимы отображения разрешены или запрещены к использованию"
 
 #. Description of setting with label #14127 "Whitelist"
 msgctxt "#36444"
@@ -17508,7 +17508,7 @@ msgstr "Инвертировать стереоскопический режим
 #. Description of setting with label #36520 "Playback mode of stereoscopic videos"
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
-msgstr "Выбор режима воспроизведения стереоскопического 3D видео.[CR][Спрашивать]: показывать диалог выбора режима для каждого видео.[CR][Предпочтительный режим]: использовать предпочтительный режим, указанный в разделе \"Система\" -> \"Вывод видео\".[CR][Без стереоскопии / 2D]: проигрывать видео без стереоскопии/2D.[CR][Игнорировать]: отключить обработку и вывод стереоскопии."
+msgstr "Выбор режима воспроизведения стереоскопического 3D видео.[CR][Спрашивать]: показывать диалог выбора режима для каждого видео.[CR][Предпочтительный режим]: использовать предпочтительный режим, указанный в разделе \"Система\" -> «Вывод видео».[CR][Без стереоскопии / 2D]: проигрывать видео без стереоскопии/2D.[CR][Игнорировать]: отключить обработку и вывод стереоскопии."
 
 #. Description of setting with label #36526 Disable stereoscopic mode when playback is stopped
 msgctxt "#36538"
@@ -17557,7 +17557,7 @@ msgstr "Ограничение разрешения графического и�
 #. Description of setting with label #1268 "iOS 8 compatibility mode"
 msgctxt "#36549"
 msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
-msgstr "Включает поддержку получения \"Видео\" и \"Фото\" через AirPlay. Эта опция должна быть отключена при использовании клиентов c iOS версии 9 или выше, для восстановления возможности потокового воспроизведения музыки через AirPlay. \"Видео\" и \"Фото\" поддерживаются только клиентами c iOS 8.x и старше."
+msgstr "Включает поддержку получения «Видео» и «Фото» через AirPlay. Эта опция должна быть отключена при использовании клиентов c iOS версии 9 или выше, для восстановления возможности потокового воспроизведения музыки через AirPlay. «Видео» и «Фото» поддерживаются только клиентами c iOS 8.x и старше."
 
 #. Name of a setting
 msgctxt "#36550"
@@ -19631,7 +19631,7 @@ msgstr "Выбранный фильм имеет несколько версий
 #. Warning dialog text
 msgctxt "#40007"
 msgid "The \"{0:s}\" version already exists!"
-msgstr "Версия \"{0:s}\" уже существует!"
+msgstr "Версия «{0:s}» уже существует!"
 
 #. Different video version found dialog title
 msgctxt "#40008"
@@ -19641,7 +19641,7 @@ msgstr "Найдена другая версия фильма"
 #. Different video version found dialog text
 msgctxt "#40009"
 msgid "Found a different version of the movie \"{0:s}\": {1:s}. Would you like to convert it into an additional version of the original?"
-msgstr "Найдена другая версия фильма \"{0:s}\": {1:s}. Вы хотите преобразовать его в дополнительную версию оригинала?"
+msgstr "Найдена другая версия фильма «{0:s}»: {1:s}. Вы хотите преобразовать его в дополнительную версию оригинала?"
 
 #. "video version" string in singular format
 msgctxt "#40010"
@@ -19676,12 +19676,12 @@ msgstr "Добавить дополнительно"
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr "Выбранное видео уже является версией \"{0:s}\" фильма ."
+msgstr "Выбранное видео уже является версией «{0:s}» фильма ."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr "Выбранное видео - это версия \"{0:s}\" фильма \"{1:s}\". Вы хотите переместить версию в этот фильм?"
+msgstr "Выбранное видео - это версия «{0:s}» фильма «{1:s}». Вы хотите переместить версию в этот фильм?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
@@ -19696,7 +19696,7 @@ msgstr "Версия фильма по умолчанию не может быт
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr "Вы уверены, что нужно удалить версию \"{0:s}\"?"
+msgstr "Вы уверены, что нужно удалить версию «{0:s}»?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
@@ -19726,12 +19726,12 @@ msgstr "Менеджер Экстра: {0:s}"
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr "Выбранное видео уже является \"{0:s}\" дополнительной частью фильма."
+msgstr "Выбранное видео уже является «{0:s}» дополнительной частью фильма."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr "Выбранное видео является \"{0:s}\" дополнительным к фильму \"{1:s}\". Хотите ли вы переместить дополнительное видео в этот фильм?"
+msgstr "Выбранное видео является «{0:s}» дополнительным к фильму «{1:s}». Хотите ли вы переместить дополнительное видео в этот фильм?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19796,7 +19796,7 @@ msgstr "Удалить дополнительное видео"
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr "Подтвердите удаление \"{0:s}\"?"
+msgstr "Подтвердите удаление «{0:s}»?"
 
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
