@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-12-11 17:13+0000\n"
+"PO-Revision-Date: 2026-06-11 01:16+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main-matrix/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -730,7 +730,7 @@ msgstr "Noudetaan elokuvatietoja"
 
 msgctxt "#199"
 msgid "Web interface"
-msgstr "Verkkokäyttöliittymä"
+msgstr "Web-käyttöliittymä"
 
 msgctxt "#200"
 msgid "Audio encoders"
@@ -1283,7 +1283,7 @@ msgstr "Aloita"
 
 msgctxt "#336"
 msgid "Framerate conversion"
-msgstr "Kuvanopeuden muunto"
+msgstr "Kuvataajuuden muunto"
 
 msgctxt "#337"
 msgid "Output configuration"
@@ -1311,7 +1311,7 @@ msgstr "Elokuvat"
 
 msgctxt "#343"
 msgid "Adjust framerate"
-msgstr "Säädä kuvanopeutta"
+msgstr "Säädä kuvataajuutta"
 
 msgctxt "#344"
 msgid "Actors"
@@ -1670,7 +1670,7 @@ msgstr "Aseta oikea CD/DVD-levy"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Aseta seuraava CD/DVD-levy:"
+msgstr "Aseta seuraava levy:"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -4952,7 +4952,7 @@ msgstr "Salli sammutus toimettomana"
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
-msgstr "Onko toinen istunto käynnissä, ehkä ssh:n kautta?"
+msgstr "Onko muita istuntoja aktiivisena (esim. SSH:n välityksellä)?"
 
 msgctxt "#13021"
 msgid "Mounted removable storage device"
@@ -7875,7 +7875,7 @@ msgstr "klo"
 #. label for PVR settings "tv fallback framerate" (in Hz) selector
 msgctxt "#19108"
 msgid "Fallback framerate"
-msgstr "Varmistava kuvanopeus"
+msgstr "Varmistava kuvataajuus"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
@@ -12022,7 +12022,7 @@ msgstr "Teksti-tv ei ole käytettävissä"
 
 msgctxt "#23050"
 msgid "Activate teletext"
-msgstr "Teksti-tv käytössä"
+msgstr "Aktivoi teksti-tv"
 
 msgctxt "#23051"
 msgid "Part {0:d}"
@@ -12042,7 +12042,7 @@ msgstr "Käynnissä"
 
 msgctxt "#23055"
 msgid "Scale teletext to 4:3"
-msgstr "Skaalaa teksti-tv 4:3"
+msgstr "Skaalaa teksti-tv 4:3-kuvasuhteeseen"
 
 msgctxt "#23100"
 msgid "External player active"
@@ -12615,7 +12615,7 @@ msgstr "XBMC:n asetustiedostot on siirretty toiseen kansioon. Lisätietoa osoitt
 
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
-msgstr "Näytä \"closed captions\"-tekstitykset"
+msgstr "Näytä kuvaavat tekstitykset (CC)"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
@@ -14807,7 +14807,7 @@ msgstr "Toiston alkaessa"
 
 msgctxt "#36099"
 msgid "Dithering"
-msgstr "Värin koostaminen"
+msgstr "Sekoitussävytys"
 
 msgctxt "#36100"
 msgid "Dither depth"
@@ -14981,7 +14981,7 @@ msgstr "Näyttää musiikkivisualisointeja näytönsäästäjän sijaan."
 #. Description of setting with label #22014 "Use dim if paused during video playback"
 msgctxt "#36134"
 msgid "Dim the display when media is paused. Not valid for the \"Dim\" screensaver mode."
-msgstr "Himmennä näyttö, kun mediatoisto on tauolla. Ei vaikuta \"DIM\"-näytönsäästäjän toimintaan."
+msgstr "Himmennä näyttö, kun mediatoisto on tauotettu. Ei vaikuta \"DIM\"-näytönsäästäjän toimintaan."
 
 msgctxt "#36135"
 msgid "No info available yet."
@@ -15178,7 +15178,7 @@ msgstr "Valitse sovelluksessa käytettävä päiväyksen lyhyt aikamuoto."
 #. Description of setting with label #23050 "Activate Teletext"
 msgctxt "#36174"
 msgid "Enable teletext when watching a live TV stream."
-msgstr "Näyttää teksti-tv:n tv-lähetyksiä katsottaessa."
+msgstr "Käytä teksti-tv:tä katsottaessa suoraa televisiolähetystä."
 
 #. Description of setting with label #23055 "Scale Teletext to 4:3"
 msgctxt "#36175"
@@ -15422,7 +15422,7 @@ msgstr "Määritä tekstityksen taustan väri."
 
 msgctxt "#36229"
 msgid "Display signal quality information in the codec information window (if supported by the add-on and backend)."
-msgstr "Näytä tv-signaalin laatu- ja voimakkuustiedot kodekkitietojen yhteydessä, jos PVR-lisäosa ja taustaosa tukevat tätä ominaisuutta."
+msgstr "Näytä signaalin laatu- ja voimakkuustiedot koodekkitietojen yhteydessä (jos PVR-lisäosa ja taustajärjestelmä tukevat tätä)."
 
 #. Description of setting with label #746 "Background Opacity"
 msgctxt "#36230"
@@ -15499,15 +15499,15 @@ msgstr "Tämä kategoria sisältää lapsilukon asetukset. Kaikki lisäosat ja t
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr "Pyytää pin-koodia lukituilla kanavilla. Kanavan voi asettaa lukituksi kanavien hallinnan kautta. Lukittuja kanavia ei voi katsoa eikä tallentaa ilman pin-koodia eikä niiden ohjelmatietoja näytetä ohjelmaoppaassa."
+msgstr "Lukittujen kanavien esitykseen vaaditaan PIN-koodi. Kanavia voi merkitä lukituiksi kanavien hallinnan yleisissä asetuksissa. Lapsilukon lukitsemia kanavia ei voida katsoa tai tallentaa syöttämättä PIN-koodia ja niiden ohjelmatiedot piilotetaan ohjelmaoppaasta."
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
-msgstr "Syötä uusi pin-koodi avataksesi lapsilukitut kanavat."
+msgstr "Syötä lapsilukon lukitsemien kanavien uusi PIN-koodi."
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."
-msgstr "Kysyy pin-koodia uudelleen lapsilta lukittua kanavaa avattaessa, jos edellisestä koodin kysymisestä on kulunut asetetun pituinen aika."
+msgstr "Pyydä PIN-koodia uudelleen avattaessa lukittua kanavaa, kun koodin edellisestä syötöstä on kulunut tässä määritetty aika."
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
@@ -15558,7 +15558,7 @@ msgstr "Ei tietoa saatavilla vielä."
 #. Description of setting with label #19108 "Refreshrate"
 msgctxt "#36261"
 msgid "If enabled, this framerate is used for streams we were not able to detect fps."
-msgstr "Tätä virkistystaajuutta käytetään, jos kanavan fps-nopeutta ei pystytä tunnistamaan."
+msgstr "Tätä kuvataajuutta käytetään, jollei median taajuutta tunnisteta automaattisesti."
 
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
@@ -15678,7 +15678,7 @@ msgstr "Nouda CD-levyn tiedot, kuten kappaleiden nimet ja esittäjät, gnudb.org
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
 msgid "Select the location on your hard drive where ripped tracks will be saved to."
-msgstr "Valitse CD-levyltä kopioitavan musiikin tallennuskohde."
+msgstr "Valitse CD-levyltä tuotavien kappaleiden tallennuskohde."
 
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
@@ -15708,7 +15708,7 @@ msgstr "Määritä FLAC:in kompressointitaso, oletus 5."
 #. Description of setting with label #14099 "Eject disc when CD ripping is complete"
 msgctxt "#36291"
 msgid "Auto eject disc after rip is complete."
-msgstr "Poistaa CD-levyn automaattisesti, kun rippaus on valmis."
+msgstr "Poistaa CD-levyn automaattisesti, kun tuonti on valmis."
 
 #. Description of settings category "Interface -> Startup" with label #14224
 msgctxt "#36292"
@@ -16030,7 +16030,7 @@ msgstr "Säädä kuvan kokoa. Käytä tätä työkalua, jos osa kuvasta jää ru
 
 msgctxt "#36358"
 msgid "Allow using channel numbering from multiple backends. Note that the All channels group can contain multiple of the same channel number if using this option. This means that jump to channel number may not work correctly for the All channels group."
-msgstr "Käyttää taustaosien kanavanumerointia, jos käytössä on useita PVR-palveluita samanaikaisesti. Voi johtaa päällekkäisyyksiin kanavanumeroinnissa ja sitä kautta siirtyminen oikealle kanavalle ei välttämättä onnistu."
+msgstr "Käyttää taustaosien kanavanumerointia, jos käytössä on samanaikaisesti useita PVR-palveluita. Voi johtaa päällekkäisyyksiin kanavanumeroinnissa, eikä suora siirtyminen oikealle kanavalle välttämättä toimi oikein Kaikki kanavat -ryhmässä."
 
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
@@ -16093,7 +16093,7 @@ msgstr "Valitse tämä, jos vahvistimesi pystyy purkamaan DTS-HD-sisältöä."
 #. Description of setting with label #545 "Audio output device"
 msgctxt "#36371"
 msgid "Select the device to be used for playback of audio that has been decoded such as mp3."
-msgstr "Valitse purettujen ääniformaattien, kuten mp3-tiedostojen, toistamiseen käytettävä ulostulo."
+msgstr "Valitse dekoodatun äänen, kuten MP3:n, toistoon käytettävä äänilähtö."
 
 #. Description of setting with label #546 "Passthrough output device"
 msgctxt "#36372"
@@ -16639,7 +16639,7 @@ msgstr "Määrittää näytönohjainajurin puskurointitavan. Valitse 2 tai 3, ri
 #. label of a setting, allowing to specify tonemap method
 msgctxt "#36553"
 msgid "Tone mapping"
-msgstr "Sävyn kartoitus"
+msgstr "Sävykartoitus"
 
 #. label of a setting, tone mapping method
 msgctxt "#36554"
@@ -16654,7 +16654,7 @@ msgstr "Reinhard"
 #. label of a setting, allowing to specify tone mapping parameter
 msgctxt "#36556"
 msgid "Tone mapping parameter"
-msgstr "Sävyn kartoituksen parametri"
+msgstr "Sävykartoituksen parametri"
 
 #. label of a setting, tone mapping method
 msgctxt "#36557"
@@ -16838,7 +16838,7 @@ msgstr "Vähentää RGB-muunnoksesta tai muusta käsittelystä johtuvaa värien 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
-msgstr "Värien koostamisen tarkkuus bitteinä. Käytä korkeinta asetusta, joka poistaa värien porrastumisen. Oletusarvo 8 on suositeltu useimmille laitteille. Jos näytönohjaimesi skaalaa RGB-tasoja tai jos käytät kannettavan tietokoneen näyttöä, 7 tai 6 bittiä voi toimia paremmin. Alemmat asetukset ovat tarkoitettu testikäyttöön."
+msgstr "Videon sekoitussävytyksen tarkkuus bitteinä. Käytä korkeinta asetusta, jolla värien porrastuminen ei näy. Oletusarvoa 8 suositellaan useimmille järjestelmille. Jos näytönohjaimesi on määritetty skaalaamaan RGB-tasoja tai käytät kannettavan tietokoneen näyttöä, saattaa 7- tai 6-bittiä poistaa porrastumista paremmin. Heikkolaatuisemmat asetukset on tarkoitettu vain koekäyttöön, jotta voidaan todeta asetuksen toimivan ja pikselikoon vastaavan näytön resoluutiota."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -16996,7 +16996,7 @@ msgstr "Käyttää tieturvaltaan heikkoa SMBv1-protokollaa yhteensopivuuden taka
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control via HTTP"
 msgctxt "#36632"
 msgid "Anyone who has access to the web interface will be able to completely control this application and, therefore, this device, so it should never be exposed on the Internet. A password should be set below. Proceed?"
-msgstr "Kuka tahansa, jolla on pääsy verkkokäyttöliittymään voi hallita täysin tätä sovellusta ja laitetta. Siksi sitä ei tulisi koskaan avata internetiin. Toiminnolle tulisi asettaa salasana. Jatketaanko?"
+msgstr "Kuka tahansa, jolla on pääsy web-käyttöliittymään voi hallita sovellusta ja sitä kautta myös tätä laitetta täysin ja sen vuoksi sitä ei tule koskaan paljastaa Internetiin. Toiminnolle tulisi asettaa salasana alla. Haluatko jatkaa?"
 
 #. Text in confirm dialog when enabling setting "Services -> Control -> Allow remote control from applications on other systems"
 msgctxt "#36633"
@@ -17006,7 +17006,7 @@ msgstr "Nämä palvelut eivät tarjoa tunnistautumista eikä salausta. Kuka taha
 #. Text in confirm dialog when disabling setting "Services -> Control -> Require authentication"
 msgctxt "#36634"
 msgid "Anyone who has access to the web interface will be able to completely control this application and, therefore, this device, so it should be secured by a password. Are you sure you want to disable authentication?"
-msgstr "Kuka tahansa, jolla on pääsy verkkokäyttöliittymään voi hallita täysin tätä sovellusta ja laitetta. Siksi sille tulisi asettaa salasana. Haluatko varmasti poistaa tunnistautumisen?"
+msgstr "Kuka tahansa, jolla on pääsy web-käyttöliittymään voi hallita sovellusta ja sitä kautta myös tätä laitetta täysin ja sen vuoksi toiminnolle tulisi asettaa salasana. Haluatko varmasti poistaa tunnistautumisen käytöstä?"
 
 #. Text in error dialog when trying to enter an invalid web server configuration
 msgctxt "#36635"
@@ -17290,7 +17290,7 @@ msgstr "{0:d} fps"
 #. Description of setting #14111 "Blu-ray region code"
 msgctxt "#38017"
 msgid "Region A - Americas, East Asia and Southeast Asia. Region B - Africa, Middle East, Southwest Asia, Europe, Australia, New Zealand. Region C - Central Asia, mainland China, Mongolia, South Asia, Belarus, Russia, Ukraine, Kazakhstan."
-msgstr "Alue A - Amerikka, Itä- ja Kaakkois-Aasia. Alue B - Afrikka, Lähi-Itä, Lounais-Aasia, Eurooppa, Australia ja Uusi-Seelanti. Alue C - Keski-Aasia, Manner-Kiina, Mongolia, Etelä-Aasia, Valko-Venäjä, Venäjä, Ukraina ja Kazakstan."
+msgstr "A/1 - Amerikat, Itä- ja Kaakkois-Aasia. B/2 - Afrikka, Lähi-Itä, Lounais-Aasia, Eurooppa, Australia ja Uusi-Seelanti. C/3 - Keski-Aasia, Manner-Kiina, Mongolia, Etelä-Aasia, Valko-Venäjä, Venäjä, Ukraina ja Kazakstan. ABC/FREE - Epävirallinen, ns. aluekooditon/maailmanlaajuinen levy."
 
 #. Used for the viewstate selection
 msgctxt "#38018"
@@ -17770,7 +17770,7 @@ msgstr "Tuodaan kappalehistoriaa - {0:d}/{0:d} tuodusta kappaleesta on päivitet
 #. Message when reading the user specified XML for import to library fails
 msgctxt "#38354"
 msgid "Unable to read xml file"
-msgstr "Xml-tiedoston lukeminen epäonnistui"
+msgstr "XML-tiedostoa ei voida lukea"
 
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
