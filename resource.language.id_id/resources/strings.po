@@ -3281,6 +3281,7 @@ msgid "No"
 msgstr "Tidak"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
+#. Value for setting 'Create versions for similar videos'
 msgctxt "#863"
 msgid "Ask"
 msgstr "Tanya"
@@ -6412,6 +6413,7 @@ msgctxt "#13550"
 msgid "Delay after change of refresh rate"
 msgstr "Penundaan setelah perubahan tingkat penyegaran"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
 msgid "Off"
 msgstr "Mati"
@@ -7707,6 +7709,7 @@ msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
 msgstr "Lanczos3 - Teroptimasi"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Auto"
@@ -13655,6 +13658,16 @@ msgstr "Tidak ada daftar putar episode valid yang ditemukan."
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
+msgstr ""
+
+#. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
+msgctxt "#25019"
+msgid "Kb/s"
+msgstr ""
+
+#. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
+msgctxt "#25020"
+msgid "Mb/s"
 msgstr ""
 
 msgctxt "#29801"
@@ -19874,8 +19887,8 @@ msgstr "Abaikan versi video berbeda pada pemindaian"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
-msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Pilih tindakan pemindai untuk versi video lainnya.[CR][Diaktifkan] Tambahkan versi video lainnya ke pustaka secara terpisah tanpa konfirmasi.[CR][Dinonaktifkan] Tanyakan untuk mengubah versi video yang berbeda menjadi versi tambahan dari yang asli."
+msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
+msgstr ""
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19942,6 +19955,12 @@ msgstr "Nama baru..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Nama ekstra baru"
+
+# empty string id 40221 freed in v22
+#. "Create separate versions of the same movie" setting
+msgctxt "#40222"
+msgid "Group the different versions of videos"
+msgstr ""
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20069,6 +20088,10 @@ msgstr "Konfirmasi hapus berkas"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Jika diaktifkan, dialog konfirmasi akan ditampilkan ketika berkas akan dihapus. Jika dinonaktifkan, berkas akan dihapus tanpa konfirmasi pengguna."
+
+#~ msgctxt "#40203"
+#~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
+#~ msgstr "Pilih tindakan pemindai untuk versi video lainnya.[CR][Diaktifkan] Tambahkan versi video lainnya ke pustaka secara terpisah tanpa konfirmasi.[CR][Dinonaktifkan] Tanyakan untuk mengubah versi video yang berbeda menjadi versi tambahan dari yang asli."
 
 #~ msgctxt "#36599"
 #~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."

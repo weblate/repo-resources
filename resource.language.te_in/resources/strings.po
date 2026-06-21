@@ -3308,6 +3308,7 @@ msgid "No"
 msgstr ""
 
 #. Value for setting 'Delete after watching'. Confirm delete.
+#. Value for setting 'Create versions for similar videos'
 msgctxt "#863"
 msgid "Ask"
 msgstr ""
@@ -6520,6 +6521,7 @@ msgctxt "#13550"
 msgid "Delay after change of refresh rate"
 msgstr ""
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
 msgid "Off"
 msgstr ""
@@ -7846,6 +7848,7 @@ msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
 msgstr ""
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
 msgstr ""
@@ -13849,6 +13852,16 @@ msgstr ""
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
+msgstr ""
+
+#. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
+msgctxt "#25019"
+msgid "Kb/s"
+msgstr ""
+
+#. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
+msgctxt "#25020"
+msgid "Mb/s"
 msgstr ""
 
 # empty strings from id 25015 to 29800
@@ -20109,7 +20122,7 @@ msgstr ""
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
-msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
+msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
 msgstr ""
 
 #. Ignore video extras settting
@@ -20176,6 +20189,12 @@ msgstr ""
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
+msgstr ""
+
+# empty string id 40221 freed in v22
+#. "Create separate versions of the same movie" setting
+msgctxt "#40222"
+msgid "Group the different versions of videos"
 msgstr ""
 
 # Video versions
