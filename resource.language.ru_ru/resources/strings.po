@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-06-05 01:16+0000\n"
+"PO-Revision-Date: 2026-06-21 09:22+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -3279,6 +3279,7 @@ msgid "No"
 msgstr "Нет"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
+#. Value for setting 'Create versions for similar videos'
 msgctxt "#863"
 msgid "Ask"
 msgstr "Спрашивать"
@@ -6395,6 +6396,7 @@ msgctxt "#13550"
 msgid "Delay after change of refresh rate"
 msgstr "Задержка после изменения частоты обновления"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
 msgid "Off"
 msgstr "Откл."
@@ -7686,6 +7688,7 @@ msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
 msgstr "Lanczos3 (оптимизир.)"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Авто"
@@ -13625,6 +13628,16 @@ msgstr "Не найден подходящий список воспроизве
 msgctxt "#25018"
 msgid "Automatic menu selection"
 msgstr "Автоматический выбор меню"
+
+#. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
+msgctxt "#25019"
+msgid "Kb/s"
+msgstr "Кбит/с"
+
+#. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
+msgctxt "#25020"
+msgid "Mb/s"
+msgstr "Мбит/с"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -19810,8 +19823,8 @@ msgstr "Игнорировать различные версии видео пр
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
-msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Выберите действие для разных версий видео при сканировании.[CR][Включено] Добавление разных версий видео в библиотеку по отдельности без подтверждения.[CR][Отключено] Запрос на преобразование разных версий видео в дополнительные версии оригинала."
+msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
+msgstr "Выберите действие сканера при обнаружении разных версий видео.[CR][Выкл] Добавлять версии видео в библиотеку как отдельные объекты.[CR][Спрашивать] Спрашивать, добавлять ли разные версии отдельно или группировать с оригиналом.[CR][Авто] Автоматически создавать и группировать дополнительные версии с оригиналом."
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19878,6 +19891,12 @@ msgstr "Новое имя..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Новое имя дополнительного"
+
+# empty string id 40221 freed in v22
+#. "Create separate versions of the same movie" setting
+msgctxt "#40222"
+msgid "Group the different versions of videos"
+msgstr "Группировать различные версии видео"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20005,6 +20024,10 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#~ msgctxt "#40203"
+#~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
+#~ msgstr "Выберите действие для разных версий видео при сканировании.[CR][Включено] Добавление разных версий видео в библиотеку по отдельности без подтверждения.[CR][Отключено] Запрос на преобразование разных версий видео в дополнительные версии оригинала."
 
 #~ msgctxt "#36599"
 #~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."

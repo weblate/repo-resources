@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-21 19:17+0000\n"
+"PO-Revision-Date: 2026-06-20 00:56+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/es_es/>\n"
 "Language: es_es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3279,6 +3279,7 @@ msgid "No"
 msgstr "No"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
+#. Value for setting 'Create versions for similar videos'
 msgctxt "#863"
 msgid "Ask"
 msgstr "Preguntar"
@@ -6392,6 +6393,7 @@ msgctxt "#13550"
 msgid "Delay after change of refresh rate"
 msgstr "Tiempo de espera tras cambio de tasa de refresco"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
 msgid "Off"
 msgstr "Apagado"
@@ -7683,6 +7685,7 @@ msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
 msgstr "Lanczos3 - Optimizado"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Auto"
@@ -13619,6 +13622,16 @@ msgstr "No se ha encontrado ninguna lista de episodios válida."
 msgctxt "#25018"
 msgid "Automatic menu selection"
 msgstr "Selección automática en menú"
+
+#. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
+msgctxt "#25019"
+msgid "Kb/s"
+msgstr "Kb/s"
+
+#. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
+msgctxt "#25020"
+msgid "Mb/s"
+msgstr "Mb/s"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -19798,8 +19811,8 @@ msgstr "Ignorar las diferentes versiones de vídeo en el escaneo"
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
-msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Seleccione la acción del escáner para diferentes versiones de vídeo.[CR][Activado] Añade diferentes versiones de vídeo a la biblioteca por separado sin confirmación.[CR][Desactivado] Solicita la conversión de diferentes versiones de vídeo en versiones adicionales de la original."
+msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
+msgstr ""
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19866,6 +19879,12 @@ msgstr "Nuevo nombre..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Nuevo nombre de extra"
+
+# empty string id 40221 freed in v22
+#. "Create separate versions of the same movie" setting
+msgctxt "#40222"
+msgid "Group the different versions of videos"
+msgstr ""
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19993,6 +20012,10 @@ msgstr "Confirmar eliminación de archivo"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Si está activado, se mostrará un cuadro de diálogo de confirmación cuando se eliminen los archivos. Si está desactivado, los archivos se eliminarán sin confirmación del usuario."
+
+#~ msgctxt "#40203"
+#~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
+#~ msgstr "Seleccione la acción del escáner para diferentes versiones de vídeo.[CR][Activado] Añade diferentes versiones de vídeo a la biblioteca por separado sin confirmación.[CR][Desactivado] Solicita la conversión de diferentes versiones de vídeo en versiones adicionales de la original."
 
 #~ msgctxt "#36599"
 #~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."

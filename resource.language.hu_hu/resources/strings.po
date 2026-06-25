@@ -3279,6 +3279,7 @@ msgid "No"
 msgstr "Nem"
 
 #. Value for setting 'Delete after watching'. Confirm delete.
+#. Value for setting 'Create versions for similar videos'
 msgctxt "#863"
 msgid "Ask"
 msgstr "Kérdez"
@@ -6394,6 +6395,7 @@ msgctxt "#13550"
 msgid "Delay after change of refresh rate"
 msgstr "Késleltetés a képfrissítés cseréje után"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
 msgid "Off"
 msgstr "Kikapcsolva"
@@ -7685,6 +7687,7 @@ msgctxt "#16315"
 msgid "Lanczos3 - Optimised"
 msgstr "Lanczos3 - optimalizált"
 
+#. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Auto"
@@ -13620,6 +13623,16 @@ msgstr "Nem található érvényes epizód lejátszási lista."
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
+msgstr ""
+
+#. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
+msgctxt "#25019"
+msgid "Kb/s"
+msgstr ""
+
+#. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
+msgctxt "#25020"
+msgid "Mb/s"
 msgstr ""
 
 msgctxt "#29801"
@@ -19800,8 +19813,8 @@ msgstr "Figyelmen kívül hagyja a különböző videóverziókat a vizsgálat s
 
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
-msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
-msgstr "Válassza ki a szkennerműveletet a különböző videóverziókhoz.[CR][Engedélyezve] Külön-külön, megerősítés nélkül adja hozzá a különböző videóverziókat a könyvtárhoz.[CR][Letiltva] Kéri, hogy a különböző videóverziókat az eredeti további verzióira konvertálja."
+msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
+msgstr ""
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19868,6 +19881,12 @@ msgstr "Új név..."
 msgctxt "#40220"
 msgid "New extra name"
 msgstr "Új extra név"
+
+# empty string id 40221 freed in v22
+#. "Create separate versions of the same movie" setting
+msgctxt "#40222"
+msgid "Group the different versions of videos"
+msgstr ""
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -19995,6 +20014,10 @@ msgstr "Erősítsd meg a fájl törlését"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Ha engedélyezve van, egy megerősítő párbeszédpanel jelenik meg a fájlok törlésekor. Ha le van tiltva, a fájlok a felhasználó jóváhagyása nélkül törlődnek."
+
+#~ msgctxt "#40203"
+#~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
+#~ msgstr "Válassza ki a szkennerműveletet a különböző videóverziókhoz.[CR][Engedélyezve] Külön-külön, megerősítés nélkül adja hozzá a különböző videóverziókat a könyvtárhoz.[CR][Letiltva] Kéri, hogy a különböző videóverziókat az eredeti további verzióira konvertálja."
 
 #~ msgctxt "#36599"
 #~ msgid "Video dithering output precision in bits. Use the highest setting that doesn't show banding. The default of 8 is recommended for most systems. If your GPU is set to scale the output RGB levels or you use a laptop screen, a 7 or 6 bit setting may eliminate more banding. Lower settings are available for testing purposes only to make it easy to see whether dithering is applied and that the dither noise pixel size matches the display resolution."
