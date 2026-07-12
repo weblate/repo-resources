@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-06-21 09:22+0000\n"
+"PO-Revision-Date: 2026-07-11 18:09+0000\n"
 "Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -2426,7 +2426,7 @@ msgstr "满屏"
 #. Label for stretching the displayed video to a 4:3 aspect ratio
 msgctxt "#632"
 msgid "Stretch 4:3"
-msgstr "拉伸为4:3"
+msgstr "拉伸为 4:3"
 
 msgctxt "#633"
 msgid "Wide zoom"
@@ -2435,7 +2435,7 @@ msgstr "宽屏"
 #. Label for stretching the displayed video to a 16:9 aspect ratio
 msgctxt "#634"
 msgid "Stretch 16:9"
-msgstr "拉伸为16:9"
+msgstr "拉伸为 16:9"
 
 #. Label for stretching the displayed video to the original size of the video stream
 msgctxt "#635"
@@ -2476,7 +2476,7 @@ msgstr "回放增益处理时避免削波失真"
 
 msgctxt "#644"
 msgid "Stretch 16:9 - Nonlinear"
-msgstr "拉伸为16:9 - 非线性"
+msgstr "拉伸为 16:9 - 非线性"
 
 msgctxt "#645"
 msgid "Need to unpack a big file. Continue?"
@@ -7682,8 +7682,8 @@ msgid "Bicubic (Mitchell)"
 msgstr "双三次（Mitchell）"
 
 msgctxt "#16315"
-msgid "Lanczos3 - Optimised"
-msgstr "Lanczos3 - 优化"
+msgid "Lanczos3 - Fast"
+msgstr "Lanczos3 - 快速"
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
@@ -7715,8 +7715,8 @@ msgid "Spline36"
 msgstr "Spline36"
 
 msgctxt "#16323"
-msgid "Spline36 - Optimised"
-msgstr "Spline36 - 优化"
+msgid "Spline36 - Fast"
+msgstr "Spline36 - 快速"
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -7763,7 +7763,7 @@ msgstr "IMX - 高级"
 
 msgctxt "#16400"
 msgid "Post-processing"
-msgstr "后处理"
+msgstr "后期处理"
 
 msgctxt "#17500"
 msgid "Display sleep timeout"
@@ -12209,6 +12209,31 @@ msgctxt "#21485"
 msgid "Supported file extensions and media types"
 msgstr "支持的文件扩展名和媒体类型"
 
+#. Used to show Episodes in Video->Files (eg. Episode n)
+msgctxt "#21486"
+msgid "Episode {0:d}"
+msgstr "第{0:d}集"
+
+#. Used to show Episodes in Video->Files (eg. Episodes m-n)
+msgctxt "#21487"
+msgid "Episodes {0:d}-{1:d}"
+msgstr "第{0:d}–{1:d}集"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episode n)
+msgctxt "#21488"
+msgid "Season {0:d} Episode {1:d}"
+msgstr "第{0:d}季 第{1:d}集"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episodes m-n)
+msgctxt "#21489"
+msgid "Season {0:d} Episodes {1:d}-{2:d}"
+msgstr "第{0:d}季 第{1:d}–{2:d}集"
+
+#. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
+msgctxt "#21490"
+msgid "Specials"
+msgstr "特别"
+
 msgctxt "#21602"
 msgid "(External)"
 msgstr "（外挂）"
@@ -15452,7 +15477,7 @@ msgstr "光盘选择"
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr "无光盘"
+msgstr "无盘"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
@@ -15472,7 +15497,7 @@ msgstr "继续游戏"
 #. Error message shown when the disc can't be ejected for a game's virtual CD drive
 msgctxt "#35278"
 msgid "The disc can't be ejected right now."
-msgstr "当前无法弹出光盘"
+msgstr "当前无法弹出光盘。"
 
 #. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
 msgctxt "#35279"
@@ -16422,15 +16447,15 @@ msgstr "此功能区包含家长控制设置，如果 PVR 后端支持家长控�
 
 msgctxt "#36248"
 msgid "Asks for a pin code to access parental locked channels. Channels can be marked as locked in the channels editor on the general tab. Parental locked channels can't be played or recorded without entering a pin code, and the guide information is hidden for those channels."
-msgstr "需输入 PIN 码访问家长锁定频道。可在频道编辑器的常规标签中标记频道为已锁定。未输入 PIN 码时，家长锁定频道无法播放或录制，其节目指南信息也会隐藏。"
+msgstr "需输入 pin 码访问家长锁定频道。可在频道编辑器的常规标签中标记频道为已锁定。未输入 pin 码时，家长锁定频道无法播放或录制，其节目指南信息也会隐藏。"
 
 msgctxt "#36249"
 msgid "Enter a new pin code to unlock parental locked channels."
-msgstr "输入一个新的 PIN 码以解锁家长锁定频道。"
+msgstr "输入一个新的 pin 码以解锁家长锁定频道。"
 
 msgctxt "#36250"
 msgid "Ask for the pin code again when trying to access a parental locked channel and the code hasn't been asked for this duration."
-msgstr "在该时长内，再次访问家长锁定频道时需重新输入 PIN 码。"
+msgstr "在该时长内，再次访问家长锁定频道时需重新输入 pin 码。"
 
 msgctxt "#36251"
 msgid "This category contains the settings for your PVR backend specifically, if supported by the PVR add-on and backend."
@@ -18945,7 +18970,7 @@ msgstr "导入歌曲历史 - {0:d} 已更新，共 {0:d} 个导入歌曲"
 #. Message when reading the user specified XML for import to library fails
 msgctxt "#38354"
 msgid "Unable to read xml file"
-msgstr "无法读取 XML 文件"
+msgstr "无法读取 xml 文件"
 
 #. Description of category "Library" with label #14202
 msgctxt "#39004"
@@ -19593,6 +19618,47 @@ msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "启用后，杜比视界文件的 level 5 (有效显示区域)元数据将被强制覆盖为零偏移。如果您的显示器在播放杜比视界内容时出现图像裁剪错误问题，请启用此选项。"
 
+# empty strings from id 39211 to 39899
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
+#. STR_LIST_AND_TWO
+msgctxt "#39900"
+msgid "{0} and {1}"
+msgstr "{0} 和 {1}"
+
+#. List formatting: pattern used to join the first item to the rest of a list of three or more items, e.g. "A" + "B, and C" -> "A, B, and C"
+#. Note the "B, and C" is used here as an example - the actual formatting of the last two item(s) of a list of three of more is determined by STR_LIST_AND_END
+#. STR_LIST_AND_START
+msgctxt "#39901"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join an already-combined partial list to the next item, for the interior items of a list of four or more, e.g. "A, B" + "C" -> "A, B, C"
+#. STR_LIST_AND_MIDDLE
+msgctxt "#39902"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, and C"
+#. STR_LIST_AND_END
+msgctxt "#39903"
+msgid "{0}, and {1}"
+msgstr "{0} 和 {1}"
+
+# 39904 to 39909 are reserved for language formatting
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A or B"
+#. STR_LIST_OR_TWO
+msgctxt "#39910"
+msgid "{0} or {1}"
+msgstr "{0} 或 {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, or C"
+#. Note: the "or"-type list uses only TWO and END patterns; the START and MIDDLE joins for lists of three or more still use the AND-type comma pattern 
+#. (STR_LIST_AND_START / STR_LIST_AND_MIDDLE), with only the very last join switching to "or"
+#. STR_LIST_OR_END
+msgctxt "#39911"
+msgid "{0}, or {1}"
+msgstr "{0}, 或 {1}"
+
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
 msgctxt "#40000"
@@ -19812,7 +19878,7 @@ msgstr "扫描时忽略不同的视频版本"
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
-msgstr ""
+msgstr "选择视频多版本的扫描处理规则。[CR][关闭] 将视频各版本作为独立条目添加至媒体库。[CR][询问] 弹窗询问多版本需单独入库还是与原版归为一组。[CR][自动] 自动识别其余版本并与原版整合分组。"
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -19884,7 +19950,7 @@ msgstr "新的额外名称"
 #. "Create separate versions of the same movie" setting
 msgctxt "#40222"
 msgid "Group the different versions of videos"
-msgstr ""
+msgstr "合并归类视频的多版本"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20012,6 +20078,14 @@ msgstr "确认删除文件"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，则无需用户确认即可删除文件。"
+
+#~ msgctxt "#16315"
+#~ msgid "Lanczos3 - Optimised"
+#~ msgstr "Lanczos3 - 优化"
+
+#~ msgctxt "#16323"
+#~ msgid "Spline36 - Optimised"
+#~ msgstr "Spline36 - 优化"
 
 #~ msgctxt "#40203"
 #~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."

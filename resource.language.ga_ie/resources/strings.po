@@ -7864,8 +7864,8 @@ msgid "Bicubic (Mitchell)"
 msgstr "Bicúbach (Mitchell)"
 
 msgctxt "#16315"
-msgid "Lanczos3 - Optimised"
-msgstr "Lanczos3 - Optamaithe"
+msgid "Lanczos3 - Fast"
+msgstr ""
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
@@ -7897,8 +7897,8 @@ msgid "Spline36"
 msgstr "Spline36"
 
 msgctxt "#16323"
-msgid "Spline36 - Optimised"
-msgstr "Spline36 - Optamaithe"
+msgid "Spline36 - Fast"
+msgstr ""
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -12440,6 +12440,31 @@ msgstr "Taispeáin tacaíocht"
 msgctxt "#21485"
 msgid "Supported file extensions and media types"
 msgstr "Síntí comhaid tacaithe agus cineálacha meán"
+
+#. Used to show Episodes in Video->Files (eg. Episode n)
+msgctxt "#21486"
+msgid "Episode {0:d}"
+msgstr ""
+
+#. Used to show Episodes in Video->Files (eg. Episodes m-n)
+msgctxt "#21487"
+msgid "Episodes {0:d}-{1:d}"
+msgstr ""
+
+#. Used to show Episodes in Video->Files (eg. Season x Episode n)
+msgctxt "#21488"
+msgid "Season {0:d} Episode {1:d}"
+msgstr ""
+
+#. Used to show Episodes in Video->Files (eg. Season x Episodes m-n)
+msgctxt "#21489"
+msgid "Season {0:d} Episodes {1:d}-{2:d}"
+msgstr ""
+
+#. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
+msgctxt "#21490"
+msgid "Specials"
+msgstr ""
 
 # empty strings from id 21486 to 21601
 msgctxt "#21602"
@@ -19921,6 +19946,47 @@ msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "Má tá sé cumasaithe, déanfar meiteashonraí leibhéal 5 (limistéar gníomhach) a shárú ar chomhaid Dolby Vision go nialas fritháireamh. Cumasaigh má tá fadhbanna ag do thaispeántas le híomhá atá bearrtha go mícheart in athsheinm Dolby Vision."
 
+# empty strings from id 39211 to 39899
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
+#. STR_LIST_AND_TWO
+msgctxt "#39900"
+msgid "{0} and {1}"
+msgstr ""
+
+#. List formatting: pattern used to join the first item to the rest of a list of three or more items, e.g. "A" + "B, and C" -> "A, B, and C"
+#. Note the "B, and C" is used here as an example - the actual formatting of the last two item(s) of a list of three of more is determined by STR_LIST_AND_END
+#. STR_LIST_AND_START
+msgctxt "#39901"
+msgid "{0}, {1}"
+msgstr ""
+
+#. List formatting: pattern used to join an already-combined partial list to the next item, for the interior items of a list of four or more, e.g. "A, B" + "C" -> "A, B, C"
+#. STR_LIST_AND_MIDDLE
+msgctxt "#39902"
+msgid "{0}, {1}"
+msgstr ""
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, and C"
+#. STR_LIST_AND_END
+msgctxt "#39903"
+msgid "{0}, and {1}"
+msgstr ""
+
+# 39904 to 39909 are reserved for language formatting
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A or B"
+#. STR_LIST_OR_TWO
+msgctxt "#39910"
+msgid "{0} or {1}"
+msgstr ""
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, or C"
+#. Note: the "or"-type list uses only TWO and END patterns; the START and MIDDLE joins for lists of three or more still use the AND-type comma pattern 
+#. (STR_LIST_AND_START / STR_LIST_AND_MIDDLE), with only the very last join switching to "or"
+#. STR_LIST_OR_END
+msgctxt "#39911"
+msgid "{0}, or {1}"
+msgstr ""
+
 # empty strings from id 39206 to 39999
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -20345,6 +20411,14 @@ msgstr "Deimhnigh scriosadh comhad"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Má tá sé cumasaithe, taispeánfar dialóg deimhnithe nuair a scriosfar comhaid. Má dhíchumasaítear iad, scriosfar comhaid gan deimhniú úsáideora."
+
+#~ msgctxt "#16315"
+#~ msgid "Lanczos3 - Optimised"
+#~ msgstr "Lanczos3 - Optamaithe"
+
+#~ msgctxt "#16323"
+#~ msgid "Spline36 - Optimised"
+#~ msgstr "Spline36 - Optamaithe"
 
 #~ msgctxt "#40203"
 #~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."

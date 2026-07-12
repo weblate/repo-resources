@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-06-21 09:22+0000\n"
+"PO-Revision-Date: 2026-07-12 16:52+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -1709,7 +1709,7 @@ msgstr "Вы действительно хотите удалить '{0:s}' из
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
 msgid "From {0:s} at {1:d} {2:s}"
-msgstr "С {0:s} в {1:d} {2:s}"
+msgstr "{0:s}, {1:d} {2:s}"
 
 #. Headline of a dialog that pops up when a user tries to play a video that is located on an optical disc (Blu-ray, DVD) but the current KODI device doesn't have the according drive
 msgctxt "#435"
@@ -7121,7 +7121,7 @@ msgstr "Отладка"
 
 msgctxt "#14261"
 msgid "Configure skin..."
-msgstr "Настроить обложку..."
+msgstr "Настройка обложки..."
 
 msgctxt "#14270"
 msgid "Unit Formats"
@@ -7685,8 +7685,8 @@ msgid "Bicubic (Mitchell)"
 msgstr "Бикубический (Митчелл)"
 
 msgctxt "#16315"
-msgid "Lanczos3 - Optimised"
-msgstr "Lanczos3 (оптимизир.)"
+msgid "Lanczos3 - Fast"
+msgstr "Lanczos3 (быстрый)"
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
@@ -7718,8 +7718,8 @@ msgid "Spline36"
 msgstr "Spline36"
 
 msgctxt "#16323"
-msgid "Spline36 - Optimised"
-msgstr "Spline36 (оптимизир.)"
+msgid "Spline36 - Fast"
+msgstr "Spline36 (быстрый)"
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -7727,7 +7727,7 @@ msgstr "Программный - Blend"
 
 msgctxt "#16325"
 msgid "VDPAU - Bob"
-msgstr "VDPAU Bob"
+msgstr "VDPAU - Bob"
 
 msgctxt "#16326"
 msgid "Bicubic (0,0.75)"
@@ -10606,7 +10606,7 @@ msgstr "Сведения о сети"
 
 msgctxt "#20159"
 msgid "Video information"
-msgstr "Сведения о видеоподсистеме"
+msgstr "Видеосистема"
 
 msgctxt "#20160"
 msgid "Hardware information"
@@ -11123,7 +11123,7 @@ msgstr "* Все сезоны"
 
 msgctxt "#20367"
 msgid "Hide watched"
-msgstr "Скрывать просмотренные"
+msgstr "Без просмотренных"
 
 msgctxt "#20368"
 msgid "Prod code"
@@ -11131,7 +11131,7 @@ msgstr "Код продукта"
 
 msgctxt "#20369"
 msgid "Show information for unwatched items"
-msgstr "Показывать информацию для непросмотренного"
+msgstr "Показывать сведения о непросмотренных объектах"
 
 msgctxt "#20370"
 msgid "* Hidden to prevent spoilers *"
@@ -11549,11 +11549,11 @@ msgstr "Оставить текущую коллекцию ({0:s})"
 
 msgctxt "#20470"
 msgid "Include sets containing a single movie"
-msgstr "Включая коллекции, содержащие единственный фильм"
+msgstr "Показывать киноколлекции из одного фильма"
 
 msgctxt "#20471"
 msgid "Show empty TV shows"
-msgstr "Отображать пустые сериалы"
+msgstr "Показывать сериалы без серий"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
@@ -11914,7 +11914,7 @@ msgstr "Источник сведений по умолчанию для кли�
 
 msgctxt "#21416"
 msgid "Select first unwatched TV show season / episode"
-msgstr "Выбирать первый непросмотренный сезон или серию"
+msgstr "Переходить к первому непросмотренному сезону или серии"
 
 msgctxt "#21417"
 msgid "Settings"
@@ -12213,6 +12213,31 @@ msgctxt "#21485"
 msgid "Supported file extensions and media types"
 msgstr "Поддерживаемые расширения файлов и типы носителей"
 
+#. Used to show Episodes in Video->Files (eg. Episode n)
+msgctxt "#21486"
+msgid "Episode {0:d}"
+msgstr "Серия {0:d}"
+
+#. Used to show Episodes in Video->Files (eg. Episodes m-n)
+msgctxt "#21487"
+msgid "Episodes {0:d}-{1:d}"
+msgstr "Серии {0:d}–{1:d}"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episode n)
+msgctxt "#21488"
+msgid "Season {0:d} Episode {1:d}"
+msgstr "Сезон {0:d}, серия {1:d}"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episodes m-n)
+msgctxt "#21489"
+msgid "Season {0:d} Episodes {1:d}-{2:d}"
+msgstr "Сезон {0:d}, серии {1:d}–{2:d}"
+
+#. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
+msgctxt "#21490"
+msgid "Specials"
+msgstr "Спецвыпуски"
+
 msgctxt "#21602"
 msgid "(External)"
 msgstr "(Внешние)"
@@ -12235,7 +12260,7 @@ msgstr "Дата и время файла"
 
 msgctxt "#21804"
 msgid "Slide index"
-msgstr "№ в слайдшоу"
+msgstr "Номер слайда"
 
 msgctxt "#21805"
 msgid "Resolution"
@@ -12247,7 +12272,7 @@ msgstr "Комментарий"
 
 msgctxt "#21807"
 msgid "Colour / B&W"
-msgstr "Цвет / Черно-белое"
+msgstr "Цветное / Черно-белое"
 
 msgctxt "#21808"
 msgid "JPEG process"
@@ -12263,11 +12288,11 @@ msgstr "Описание"
 
 msgctxt "#21822"
 msgid "Camera make"
-msgstr "Производитель"
+msgstr "Производитель камеры"
 
 msgctxt "#21823"
 msgid "Camera model"
-msgstr "Модель фотоаппарата"
+msgstr "Модель камеры"
 
 msgctxt "#21824"
 msgid "EXIF comment"
@@ -12291,11 +12316,11 @@ msgstr "Экспозиция"
 
 msgctxt "#21830"
 msgid "Exposure time"
-msgstr "Время экспозиции"
+msgstr "Выдержка"
 
 msgctxt "#21831"
 msgid "Exposure bias"
-msgstr "Сдвиг экспозиции"
+msgstr "Коррекция экспозиции"
 
 msgctxt "#21832"
 msgid "Exposure mode"
@@ -12323,11 +12348,11 @@ msgstr "Чувствительность ISO"
 
 msgctxt "#21838"
 msgid "Digital zoom"
-msgstr "Цифровое увеличение"
+msgstr "Цифровой зум"
 
 msgctxt "#21839"
 msgid "CCD width"
-msgstr "Ширина CCD"
+msgstr "Размер матрицы"
 
 msgctxt "#21840"
 msgid "GPS latitude"
@@ -12858,7 +12883,7 @@ msgstr "Все дополнения"
 
 msgctxt "#24033"
 msgid "Install from repository"
-msgstr "Установить из репозитория"
+msgstr "Установка из репозитория"
 
 msgctxt "#24034"
 msgid "Check for updates"
@@ -12890,7 +12915,7 @@ msgstr "(Очистить текущие настройки)"
 
 msgctxt "#24041"
 msgid "Install from zip file"
-msgstr "Установить из zip-файла"
+msgstr "Установка из ZIP"
 
 #. Used to show on addon list the current download process
 msgctxt "#24042"
@@ -12909,7 +12934,7 @@ msgstr "Установка {0:d}%"
 #. Used as an event log description for add-ons failed to install from zip
 msgctxt "#24045"
 msgid "Failed to install add-on from zip file"
-msgstr "Не удалось установить дополнение из zip-файла"
+msgstr "Не удалось установить дополнение из ZIP-файла"
 
 msgctxt "#24046"
 msgid "{0:s} is used by the following installed add-on(s)"
@@ -15748,7 +15773,7 @@ msgstr "Использовать системный баланс яркости 
 #. Label of setting "System / Display / GUI peak luminance in HDR PQ mode"
 msgctxt "#36097"
 msgid "GUI peak luminance in HDR PQ mode"
-msgstr "Максимальная яркость графического интерфейса в режиме HDR PQ"
+msgstr "Пиковая яркость интерфейса в HDR PQ"
 
 # empty strings from id 36051 to 36097
 #. Label of setting "System / Display / Use 10 bit for SDR"
@@ -15984,7 +16009,7 @@ msgstr "Скрывать индикатор сканирования медиа�
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
 msgid "Remove items from your library that can't be found (either renamed, deleted, or on removable storage that is currently unplugged)."
-msgstr "Убрать из медиатеки недоступные объекты: переименованные, удалённые или находящиеся на отключённых носителях."
+msgstr "Удаление из медиатеки объектов, которые не удалось найти (переименованных, удалённых или находящихся на отключённых съёмных носителях)."
 
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"
@@ -16560,7 +16585,7 @@ msgstr "При просмотре музыкальных файлов в реж�
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
 msgid "Control the way that the names of songs are displayed in the user interface. In order to function properly, tag reading needs to be enabled."
-msgstr "Настройка отображения названий песен в интерфейсе пользователя. Для нормальной работы необходимы тэги ID3."
+msgstr "Настройка отображения названий песен в интерфейсе. Для правильной работы необходимо включить чтение тегов."
 
 #. unused?
 msgctxt "#36276"
@@ -16615,7 +16640,7 @@ msgstr "Выбрать место на диске для хранения оци
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
 msgid "Control how saved music is named from the tags. Tags: [B]%N[/B]: TrackNumber, [B]%S[/B]: DiscNumber, [B]%A[/B]: Artist, [B]%T[/B]: Title, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: Year, [B]%F[/B]: FileName, [B]%D[/B]: Duration, [B]%J[/B]: Date, [B]%R[/B]: Rating, [B]%I[/B]: FileSize."
-msgstr "Настройка отображения сведений о музыке из тэгов. Теги: [B]%N[/B]: НомерТрека, [B]%S[/B]: Номер диска, [B]%A[/B]: Исполнитель, [B]%T[/B]: Название, [B]%B[/B]: Альбом, [B]%G[/B]: Жанр, [B]%Y[/B]: Год, [B]%F[/B]: Имя файла, [B]%D[/B]: Длительность, [B]%J[/B]: Дата, [B]%R[/B]: Рейтинг, [B]%I[/B]: Размер файла."
+msgstr "Управление именованием сохранённых треков на основе тегов. Теги: [B]%N[/B]: номер трека, [B]%S[/B]: номер диска, [B]%A[/B]: исполнитель, [B]%T[/B]: название, [B]%B[/B]: альбом, [B]%G[/B]: жанр, [B]%Y[/B]: год, [B]%F[/B]: имя файла, [B]%D[/B]: длительность, [B]%J[/B]: дата, [B]%R[/B]: рейтинг, [B]%I[/B]: размер файла."
 
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
@@ -16650,17 +16675,17 @@ msgstr "Этот раздел содержит настройки запуска
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Выберите папку для сохранения информации об исполнителях (изображений и NFO файлов)."
+msgstr "Выберите папку для сохранения информации об исполнителях (nfo-файлов и изображений)."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
 msgid "When sorting music items by artist use sortname e.g. Parton, Dolly rather than name."
-msgstr "При включении опции для сортировки музыкальных элементов сначала используется фамилия, например «Чайковский, Пётр», а не имя."
+msgstr "Сортировать музыку сначала по фамилии, а затем по имени исполнителя, например (Чайковский, Пётр вместо Пётр Чайковский)."
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
 msgid "Set the subtitle opacity."
-msgstr "Установить непрозрачность субтитров."
+msgstr "Выбор непрозрачности субтитров"
 
 msgctxt "#36296"
 msgid "This category contains settings for reminders."
@@ -19264,7 +19289,7 @@ msgstr "Количество иллюстраций"
 #. Description of setting with label #39137 "Artwork level"
 msgctxt "#39138"
 msgid "The amount of artwork automatically selected - [Maximum] all local images and remote art; [Basic] save space on limited devices or when using a simple skin; [Custom] configured by user for detailed control; [None] no art"
-msgstr "Количество автоматически выбираемых иллюстраций: [Максимальный] все локальные изображения и удалённые иллюстрации; [Базовый] экономия места на небольших по ёмкости устройствах или при использовании простой обложки; [Пользовательский] настраивается пользователем для детального контроля; [Нет] без иллюстраций"
+msgstr "Количество автоматически выбираемых иллюстраций: [Максимальное] — все локальные изображения и удалённые иллюстрации; [Базовое] — экономия места на небольших по ёмкости устройствах или при использовании простой обложки; [Пользовательское] — ручная настройка для детального контроля; [Нет] — без иллюстраций."
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39140"
@@ -19274,12 +19299,12 @@ msgstr "Максимальное"
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39141"
 msgid "Basic"
-msgstr "Базовый"
+msgstr "Базовое"
 
 #. Value of setting with label #39137 "Artwork level"
 msgctxt "#39142"
 msgid "Custom"
-msgstr "Пользовательский"
+msgstr "Пользовательское"
 
 msgctxt "#39143"
 msgid "Movie art types whitelist"
@@ -19578,12 +19603,12 @@ msgstr "Установить субтитры CC только для людей 
 #. Help text for setting of label #39204
 msgctxt "#39205"
 msgid "By enabling it, CC subtitles will be labeled for the hearing impaired; this will affect the automatic selection of subtitles, which unless otherwise specified will not be displayed by default."
-msgstr "При включении субтитры CC будут помечены как подходящие для людей с нарушениями слуха; это повлияет на автоматический выбор субтитров, которые, если не указано иное, не будут отображаться по умолчанию."
+msgstr "Если включено, субтитры CC будут помечены как подходящие для людей с нарушениями слуха; это повлияет на автоматический выбор субтитров, которые по умолчанию не отображаются, если не указано иное."
 
 #. Abbreviation for Closed Caption subtitles (subtitles embedded in videos)
 msgctxt "#39206"
 msgid "CC"
-msgstr "ВС"
+msgstr "CC"
 
 # Use Starfish decoder
 msgctxt "#39207"
@@ -19604,6 +19629,47 @@ msgstr "Dolby Vision: Обнуление метаданных 5-го уровн�
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "Если включено, метаданные файлов Dolby Vision 5-го уровня (активная область) будут переопределены на нулевые значения. Включайте, если при воспроизведении в формате Dolby Vision возникают проблемы с неправильно обрезанным изображением."
+
+# empty strings from id 39211 to 39899
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
+#. STR_LIST_AND_TWO
+msgctxt "#39900"
+msgid "{0} and {1}"
+msgstr "{0} и {1}"
+
+#. List formatting: pattern used to join the first item to the rest of a list of three or more items, e.g. "A" + "B, and C" -> "A, B, and C"
+#. Note the "B, and C" is used here as an example - the actual formatting of the last two item(s) of a list of three of more is determined by STR_LIST_AND_END
+#. STR_LIST_AND_START
+msgctxt "#39901"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join an already-combined partial list to the next item, for the interior items of a list of four or more, e.g. "A, B" + "C" -> "A, B, C"
+#. STR_LIST_AND_MIDDLE
+msgctxt "#39902"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, and C"
+#. STR_LIST_AND_END
+msgctxt "#39903"
+msgid "{0}, and {1}"
+msgstr "{0} и {1}"
+
+# 39904 to 39909 are reserved for language formatting
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A or B"
+#. STR_LIST_OR_TWO
+msgctxt "#39910"
+msgid "{0} or {1}"
+msgstr "{0} или {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, or C"
+#. Note: the "or"-type list uses only TWO and END patterns; the START and MIDDLE joins for lists of three or more still use the AND-type comma pattern 
+#. (STR_LIST_AND_START / STR_LIST_AND_MIDDLE), with only the very last join switching to "or"
+#. STR_LIST_OR_END
+msgctxt "#39911"
+msgid "{0}, or {1}"
+msgstr "{0} или {1}"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -20024,6 +20090,14 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#~ msgctxt "#16315"
+#~ msgid "Lanczos3 - Optimised"
+#~ msgstr "Lanczos3 (оптимизир.)"
+
+#~ msgctxt "#16323"
+#~ msgid "Spline36 - Optimised"
+#~ msgstr "Spline36 (оптимизир.)"
 
 #~ msgctxt "#40203"
 #~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."

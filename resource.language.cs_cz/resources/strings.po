@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 18:22+0000\n"
-"Last-Translator: Patrik Špaňo <patrik.spano@gmail.com>\n"
+"PO-Revision-Date: 2026-07-11 18:09+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -538,7 +538,7 @@ msgstr "IP adresa"
 
 msgctxt "#151"
 msgid "Link:"
-msgstr "Odkaz:"
+msgstr "Připojení:"
 
 msgctxt "#152"
 msgid "Half duplex"
@@ -578,7 +578,7 @@ msgstr "Volné"
 
 msgctxt "#162"
 msgid "Tray open"
-msgstr "Vysunout disk"
+msgstr "Mechanika otevřena"
 
 msgctxt "#163"
 msgid "Reading"
@@ -941,7 +941,7 @@ msgstr "Vyberte cílový adresář"
 
 msgctxt "#252"
 msgid "Stereo upmix"
-msgstr "Rozdělení sterea"
+msgstr "Upmix sterea"
 
 msgctxt "#253"
 msgid "Number of channels"
@@ -1124,7 +1124,7 @@ msgstr "Vytvořit záložku"
 
 msgctxt "#295"
 msgid "Low latency mode"
-msgstr ""
+msgstr "Režim nízké latence"
 
 msgctxt "#296"
 msgid "Clear bookmarks"
@@ -1176,7 +1176,7 @@ msgstr "Neprokládané"
 #. Will prefer the stream marked as "default" if available.
 msgctxt "#307"
 msgid "Media default"
-msgstr "Výchozí média"
+msgstr "Výchozí podle média"
 
 #. Select option for the setting "Preferred audio language".
 #. Will prefer the stream marked as "original" if available.
@@ -1297,7 +1297,7 @@ msgstr "Spustit"
 
 msgctxt "#336"
 msgid "Framerate conversion"
-msgstr "Převod frekvence snímků"
+msgstr "Převod snímkové frekvence"
 
 msgctxt "#337"
 msgid "Output configuration"
@@ -1704,7 +1704,7 @@ msgstr "Odebrat film z knihovny"
 
 msgctxt "#433"
 msgid "Would you really like to remove '{0:s}' from the library?"
-msgstr "Opravdu chcete odstranit '{0:s}' z knihovny?"
+msgstr "Opravdu chcete odebrat „{0:s}“ z knihovny?"
 
 #. From <wind dir.> at <speed> <unit>
 msgctxt "#434"
@@ -2009,7 +2009,7 @@ msgstr "Žánr"
 
 msgctxt "#517"
 msgid "Recently played albums"
-msgstr "Nedávno hraná alba"
+msgstr "Nedávno přehraná alba"
 
 msgctxt "#518"
 msgid "Launch"
@@ -2344,7 +2344,7 @@ msgstr "Standardní"
 
 msgctxt "#603"
 msgid "Extreme"
-msgstr "Vysoká"
+msgstr "Extrémní"
 
 msgctxt "#604"
 msgid "Constant bitrate"
@@ -2570,7 +2570,7 @@ msgstr "Zaznamenávat události v jednotlivých komponentách"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital transcoding"
-msgstr ""
+msgstr "Povolit transkódování do Dolby Digital"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -2647,12 +2647,12 @@ msgstr "Z metadat"
 #. Description of setting with label #39159 "Border size"
 msgctxt "#688"
 msgid "Set the border size."
-msgstr "Nastavte velikost okraje."
+msgstr "Nastavte velikost obrysu."
 
 #. Description of setting with label #39160 "Border colour"
 msgctxt "#689"
 msgid "Set the border colour."
-msgstr "Nastavte barvu okraje."
+msgstr "Nastavte barvu obrysu."
 
 #. Description of setting with label #39173 "Blur"
 msgctxt "#690"
@@ -3231,7 +3231,7 @@ msgstr "Platný rozsah portu je 1024-65535"
 #. Label for denoting any channel for a certain client in timer settings dialog
 msgctxt "#853"
 msgid "Any channel from client \"{0:s}\""
-msgstr "Libovolný kanál z klienta \"{0:s}\""
+msgstr "Libovolný kanál z klienta „{0:s}“"
 
 #. Label for denoting any channel from any available client in timer settings dialog
 msgctxt "#854"
@@ -3297,7 +3297,7 @@ msgstr "Chcete tuto nahrávku smazat?"
 #. Text for auto delete after watch toast message.
 msgctxt "#866"
 msgid "Recording deleted: '{0:s}'"
-msgstr "Nahrávka smazána: '{0:s}'"
+msgstr "Nahrávka smazána: „{0:s}“"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -4220,12 +4220,12 @@ msgstr "Nastavení – Služby"
 #. Item label for add-on configuration removal dialog
 msgctxt "#10019"
 msgid "Do you want to remove the add-on configuration \"{0:s}\"?"
-msgstr "Chcete odstranit nastavení doplňku \"{0:s}\"?"
+msgstr "Chcete odstranit nastavení doplňku „{0:s}“?"
 
 #. Item label used in add-on setup selection dialog
 msgctxt "#10020"
 msgid "Edit \"{0:s}\" [{1:s}]"
-msgstr "Upravit \"{0:s}\" [{1:s}]"
+msgstr "Upravit „{0:s}“ [{1:s}]"
 
 msgctxt "#10021"
 msgid "Settings - TV"
@@ -4691,7 +4691,7 @@ msgstr "Hledání v televizi"
 
 msgctxt "#10705"
 msgid "Radio channels"
-msgstr "Rozhlasové kanály"
+msgstr "Rádiové kanály"
 
 msgctxt "#10706"
 msgid "Radio recordings"
@@ -4699,7 +4699,7 @@ msgstr "Nahrávky z rádia"
 
 msgctxt "#10707"
 msgid "Radio guide"
-msgstr "Program rozhlasu"
+msgstr "Program rádia"
 
 msgctxt "#10708"
 msgid "Radio timers"
@@ -4759,7 +4759,7 @@ msgstr "Hlasitost"
 #. Title of the in-game dialog for advanced emulator settings
 msgctxt "#10826"
 msgid "Advanced Settings"
-msgstr "Pokročilé nástavení"
+msgstr "Pokročilá nastavení"
 
 #. Title of the in-game video rotation selection dialog
 msgctxt "#10827"
@@ -4852,7 +4852,7 @@ msgstr "Pokračovat od {0:s}"
 #. Label for resuming playback from a certain part
 msgctxt "#12023"
 msgid "Resume from"
-msgstr ""
+msgstr "Pokračovat od"
 
 # empty strings from id 12023 to 12307
 #. Label of the show password button in the keyboard dialog
@@ -4935,7 +4935,7 @@ msgstr "Zadejte kód pro odblokování"
 
 msgctxt "#12329"
 msgid "or press \"C\" to cancel"
-msgstr "nebo stiskněte „C“ pro zrušení"
+msgstr "nebo zrušte stisknutím „C“"
 
 msgctxt "#12330"
 msgid "Enter gamepad button combo and"
@@ -4943,7 +4943,7 @@ msgstr "Zadejte kombinaci tlačítek gamepadu a"
 
 msgctxt "#12331"
 msgid "press \"OK\", or \"Back\" to cancel"
-msgstr "stiskněte „OK“, nebo „Zpět“ pro zrušení"
+msgstr "stiskněte „OK“ nebo zrušte stisknutím „Zpět“"
 
 msgctxt "#12332"
 msgid "Set lock"
@@ -5123,7 +5123,7 @@ msgstr "Kodi vám s láskou přináší Nadace Kodi, nezisková organizace dle 5
 #. URL for donations. Do not translate.
 msgctxt "#12398"
 msgid "kodi.tv/donate"
-msgstr ""
+msgstr "kodi.tv/donate"
 
 msgctxt "#12600"
 msgid "Weather"
@@ -5227,7 +5227,7 @@ msgstr "Je aktivní jiná relace, třeba přes ssh?"
 
 msgctxt "#13021"
 msgid "Mounted removable storage device"
-msgstr "Připojené vyměnitelné zařízení úložiště"
+msgstr "Připojené vyměnitelné úložné zařízení"
 
 msgctxt "#13022"
 msgid "Unsafe storage device removal"
@@ -5441,7 +5441,7 @@ msgstr "Odstranit profil ‚{0:s}‘?"
 #. Label for reload profile confirmation dialog
 msgctxt "#13202"
 msgid "Reload profile '{0:s}'?"
-msgstr ""
+msgstr "Znovu načíst profil „{0:s}“?"
 
 #. used by several skins
 msgctxt "#13204"
@@ -5583,7 +5583,7 @@ msgstr "Internet:"
 
 msgctxt "#13296"
 msgid "Connected"
-msgstr "Připojen"
+msgstr "Připojeno"
 
 msgctxt "#13297"
 msgid "Not connected. Check network settings."
@@ -6035,7 +6035,7 @@ msgstr "Zapamatovat pro tuto cestu"
 #. Giving the user a chance to select a new one via the simple menu dialog
 msgctxt "#13424"
 msgid "Choose playlist"
-msgstr "Zvolte playlist"
+msgstr "Vybrat seznam přehrávání"
 
 msgctxt "#13425"
 msgid "Allow hardware acceleration - VDPAU"
@@ -6242,7 +6242,7 @@ msgstr "Povolit tuto možnost pro použití hardwarové akcelerace pro kodek AVC
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
-msgstr ""
+msgstr "Mezilehlý formát HQ škálovače"
 
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
@@ -6267,37 +6267,37 @@ msgstr "16 bitů na kanál"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 bity"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 bity"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 bity"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 bitů"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 bitů"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 bitů"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 bitů"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6305,7 +6305,7 @@ msgstr "Kvalita převzorkování"
 
 msgctxt "#13506"
 msgid "Low (fast)"
-msgstr "Nízká (rychlé)"
+msgstr "Nízká (rychlá)"
 
 msgctxt "#13507"
 msgid "Medium"
@@ -6387,7 +6387,7 @@ msgstr "Použít původní datum vydání alb pro rok"
 #. Description of setting with label #13524
 msgctxt "#13525"
 msgid "When enabled, use the original year of release rather than the album release year (if available)."
-msgstr "Pokud je povoleno, bude použit (pokud je k dispozici) původní rok vydání než rok vydání alba."
+msgstr "Pokud je tato volba povolena, použije se původní rok vydání místo roku vydání alba, pokud je k dispozici."
 
 msgctxt "#13550"
 msgid "Delay after change of refresh rate"
@@ -7323,7 +7323,7 @@ msgstr "Zobrazit obrázek"
 #. Label for an action associated with a favourite. Placeholder will be filled with the name of the window the favourite's content will be displayed in.
 msgctxt "#15220"
 msgid "Show content in \"{}\""
-msgstr "Zobrazit obsah v \"{}\""
+msgstr "Zobrazit obsah v „{}“"
 
 #. Label for an action associated with a favourite
 msgctxt "#15221"
@@ -7542,7 +7542,7 @@ msgstr "Metoda zrušení prokládání"
 
 msgctxt "#16039"
 msgid "Off"
-msgstr "Vypnout"
+msgstr "Vypnuto"
 
 msgctxt "#16041"
 msgid "On"
@@ -7682,8 +7682,8 @@ msgid "Bicubic (Mitchell)"
 msgstr "Bikubická (Mitchell)"
 
 msgctxt "#16315"
-msgid "Lanczos3 - Optimised"
-msgstr "Lanczos3 – Optimalizovaný"
+msgid "Lanczos3 - Fast"
+msgstr "Lanczos3 – rychlá"
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
@@ -7715,8 +7715,8 @@ msgid "Spline36"
 msgstr "Spline36"
 
 msgctxt "#16323"
-msgid "Spline36 - Optimised"
-msgstr "Spline36 – Optimalizovaný"
+msgid "Spline36 - Fast"
+msgstr "Spline36 – rychlá"
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -7902,7 +7902,7 @@ msgstr "Televizní kanály"
 #. generic label for pvr-provided 'Radio channels' used in different places
 msgctxt "#19024"
 msgid "Radio channels"
-msgstr "Rozhlasové stanice"
+msgstr "Rádiové kanály"
 
 #. label for PVR backend number of timers in system information's PVR section
 msgctxt "#19025"
@@ -8311,7 +8311,7 @@ msgstr "v"
 #. label for PVR settings "tv fallback framerate" (in Hz) selector
 msgctxt "#19108"
 msgid "Fallback framerate"
-msgstr "Náhradní frekvence snímků"
+msgstr "Záložní snímková frekvence"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
@@ -8331,12 +8331,12 @@ msgstr "Chyba backendu PVR."
 #. delete recordings confirmation message box text
 msgctxt "#19112"
 msgid "Delete this recording?"
-msgstr "Odstranit tuto nahrávku?"
+msgstr "Smazat tuto nahrávku?"
 
 #. delete multiple recordings confirmation message box text
 msgctxt "#19113"
 msgid "Delete all recordings in this folder?"
-msgstr "Odstranit všechny nahrávky v této složce?"
+msgstr "Smazat všechny nahrávky v této složce?"
 
 #. label for PVR backend version in system information's PVR section
 msgctxt "#19114"
@@ -8673,7 +8673,7 @@ msgstr "Budoucích dnů k zobrazení"
 #. Settings -> PVR -> Playback -> Switch to fullscreen value
 msgctxt "#19183"
 msgid "Radio channels"
-msgstr "Rozhlasové kanály"
+msgstr "Rádiové kanály"
 
 #. label for "deleted recordings" data source in media source window
 msgctxt "#19184"
@@ -8688,7 +8688,7 @@ msgstr "Vymazat data"
 #. message box text for pvr data reset confirmation
 msgctxt "#19186"
 msgid "All selected data will be cleared. Some information cannot be restored from the clients afterwards. Proceed anyway?"
-msgstr "Všechna označená data budou smazána. Některé informace nemohou být později z klientů obnovena. Přesto pokračovat?"
+msgstr "Všechna vybraná data budou vymazána. Některé informace nebude možné později z klientů obnovit. Přesto pokračovat?"
 
 #. progress dialog text shown while purging pvr data
 msgctxt "#19187"
@@ -8698,7 +8698,7 @@ msgstr "Mazání dat."
 #. message box text for epg data reset confirmation
 msgctxt "#19188"
 msgid "All guide data will be cleared. Are you sure?"
-msgstr "Všechna data programu budou vymazána. Jste si jisti?"
+msgstr "Všechna data TV programu budou vymazána. Opravdu to chcete?"
 
 #. message box text stating that the PVR backend forbids to record a given epg event.
 msgctxt "#19189"
@@ -8832,7 +8832,7 @@ msgstr "Připomenutí"
 #. label for 'all channels' value for 'channels' selector control in pvr radio guide search dialog
 msgctxt "#19216"
 msgid "All radio channels"
-msgstr "Všechny rádiové stanice"
+msgstr "Všechny rádiové kanály"
 
 #. label for 'all channels' value for 'channels' selector control in pvr TV guide search dialog
 msgctxt "#19217"
@@ -8861,7 +8861,7 @@ msgstr "Televizní program"
 #. unused?
 msgctxt "#19223"
 msgid "No PVR add-on could be enabled. Check your settings or the log for more information."
-msgstr "Nemohl být povolen žádný doplněk PVR. Zkontrolujte své nastavení nebo protokol pro více informací."
+msgstr "Nepodařilo se povolit žádný doplněk PVR. Další informace najdete v nastavení nebo protokolu."
 
 #. Notification text to announce that a recording was aborted
 msgctxt "#19224"
@@ -8996,7 +8996,7 @@ msgstr "Filtrovat kanály"
 #. Settings -> PVR -> Playback -> Switch to fullscreen value
 msgctxt "#19250"
 msgid "TV and radio channels"
-msgstr "Televizní a rozhlasové kanály"
+msgstr "Televizní a rádiové kanály"
 
 #. label for 'update epg' context menu item and 'update epg' confirmation dialog header
 msgctxt "#19251"
@@ -9380,12 +9380,12 @@ msgstr "Přejdi..."
 #. Label for a context menu entry to delete alle watched recordings contained in a folder
 msgctxt "#19327"
 msgid "Delete watched"
-msgstr "Odstranit zhlédnuté"
+msgstr "Smazat zhlédnuté"
 
 #. delete multiple recordings confirmation message box text
 msgctxt "#19328"
 msgid "Delete all watched recordings in this folder?"
-msgstr "Odstranit všechny zhlédnuté nahrávky v této složce?"
+msgstr "Smazat všechny zhlédnuté nahrávky v této složce?"
 
 #. label for PVR settings use backend channel numbers always
 msgctxt "#19329"
@@ -9530,7 +9530,7 @@ msgstr "Kopie „{0:s}“"
 #. Label of a context menu entry to delete a recording
 msgctxt "#19357"
 msgid "Delete recording"
-msgstr "Odstranit nahrávku"
+msgstr "Smazat nahrávku"
 
 #. label for epg genre value
 msgctxt "#19499"
@@ -9870,7 +9870,7 @@ msgstr "Další vzdělávání"
 #. label for "education/science/factual" epg subgenre value
 msgctxt "#19635"
 msgid "Languages"
-msgstr "Jakyky"
+msgstr "Jazyky"
 
 #. label for "leisure/hobbies" epg genre value
 msgctxt "#19644"
@@ -10382,7 +10382,7 @@ msgstr "Načítání informací pro album"
 
 msgctxt "#20099"
 msgid "A CD or track can't be ripped while being played"
-msgstr "CD nebo stopa nemohou být zkopírovány, když se přehrávají"
+msgstr "CD ani stopu nelze extrahovat během přehrávání"
 
 msgctxt "#20100"
 msgid "Master lock code and settings"
@@ -10861,7 +10861,7 @@ msgstr "První přihlášení, upravte svůj profil"
 
 msgctxt "#20259"
 msgid "Network File System (NFS)"
-msgstr "Souborový systém sítě (NFS)"
+msgstr "Síťový systém souborů (NFS)"
 
 msgctxt "#20260"
 msgid "Secure Shell (SSH / SFTP)"
@@ -11456,7 +11456,7 @@ msgstr "Chcete přidat média z tohoto zdroje do vaší knihovny?"
 
 msgctxt "#20448"
 msgid "Couldn't download information"
-msgstr "Nelze stáhnout informace"
+msgstr "Informace se nepodařilo stáhnout"
 
 msgctxt "#20449"
 msgid "Unable to connect to remote server"
@@ -11553,7 +11553,7 @@ msgstr "Zobrazit prázdné seriály"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
-msgstr "Zobrazovat všechny umělce pro hudební videa"
+msgstr "Zobrazovat všechny interprety hudebních videí"
 
 msgctxt "#20473"
 msgid "Premiered"
@@ -11572,17 +11572,17 @@ msgstr "Má více verzí"
 #. Used in smart playlists as rule field name to select items that have video extras
 msgctxt "#20476"
 msgid "Has video extras"
-msgstr ""
+msgstr "Má bonusová videa"
 
 #. When you create a new profile ask to user if wants to create it in a custom directory
 msgctxt "#20477"
 msgid "Do you want to create the new profile in a custom directory?"
-msgstr ""
+msgstr "Chcete vytvořit nový profil ve vlastním adresáři?"
 
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
-msgstr ""
+msgstr "Profil Dolby Vision"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -11653,12 +11653,12 @@ msgstr "Bez kategorie"
 #. Used to give heading list entry for an file extension description, e.g. to show as 'Extension: ".mp3"'
 msgctxt "#21346"
 msgid "Extension: \"{0:s}\""
-msgstr "Rozšíření: \"{0:s}\""
+msgstr "Přípona: „{0:s}“"
 
 #. Used to give heading list entry for an mimetype description, e.g. to show as 'MIME type: "audio/mpeg3"'
 msgctxt "#21347"
 msgid "MIME type: \"{0:s}\""
-msgstr "Typ MIME: \"{0:s}\""
+msgstr "Typ MIME: „{0:s}“"
 
 #. Used to show a special in episode list, eg. 'Special 33 - The Interview'
 msgctxt "#21348"
@@ -11717,7 +11717,7 @@ msgstr "Film a alternativní adresář s titulky"
 
 msgctxt "#21368"
 msgid "Override subtitles fonts"
-msgstr "Přepsat font titulků"
+msgstr "Přepsat písma titulků"
 
 msgctxt "#21369"
 msgid "Enable mouse and touch screen support"
@@ -11826,7 +11826,7 @@ msgstr "Režim spánku s nižší spotřebou"
 
 msgctxt "#21395"
 msgid "Unable to cache files bigger than 4GB"
-msgstr "Soubory větší než 4 GB nelze načíst do mezipaměti"
+msgstr "Soubory větší než 4 GB nelze uložit do mezipaměti"
 
 msgctxt "#21396"
 msgid "Chapter"
@@ -11838,7 +11838,7 @@ msgstr "Vysoce kvalitní pixel shader v2"
 
 msgctxt "#21398"
 msgid "between"
-msgstr ""
+msgstr "mezi"
 
 msgctxt "#21399"
 msgid "Use tween animations"
@@ -12059,7 +12059,7 @@ msgstr "Získat více…"
 
 msgctxt "#21453"
 msgid "Root filesystem"
-msgstr "Kořenový souborový systém"
+msgstr "Kořenový systém souborů"
 
 msgctxt "#21454"
 msgid "Source too slow"
@@ -12208,6 +12208,31 @@ msgstr "Zobrazit podporované"
 msgctxt "#21485"
 msgid "Supported file extensions and media types"
 msgstr "Podporované přípony souborů a typy médií"
+
+#. Used to show Episodes in Video->Files (eg. Episode n)
+msgctxt "#21486"
+msgid "Episode {0:d}"
+msgstr "Epizoda {0:d}"
+
+#. Used to show Episodes in Video->Files (eg. Episodes m-n)
+msgctxt "#21487"
+msgid "Episodes {0:d}-{1:d}"
+msgstr "Epizody {0:d}-{1:d}"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episode n)
+msgctxt "#21488"
+msgid "Season {0:d} Episode {1:d}"
+msgstr "Sezóna {0:d}, epizoda {1:d}"
+
+#. Used to show Episodes in Video->Files (eg. Season x Episodes m-n)
+msgctxt "#21489"
+msgid "Season {0:d} Episodes {1:d}-{2:d}"
+msgstr "Sezóna {0:d}, epizody {1:d}–{2:d}"
+
+#. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
+msgctxt "#21490"
+msgid "Specials"
+msgstr "Speciály"
 
 msgctxt "#21602"
 msgid "(External)"
@@ -12708,7 +12733,7 @@ msgstr "Externí přehrávač je aktivní"
 
 msgctxt "#23101"
 msgid "Click \"OK\" to terminate the player"
-msgstr "Klikněte na „OK“ pro ukončení přehrávače"
+msgstr "Kliknutím na „OK“ ukončíte přehrávač"
 
 msgctxt "#23104"
 msgid "Click \"OK\" when playback has ended"
@@ -12842,7 +12867,7 @@ msgstr "Služba pro informace o počasí"
 
 msgctxt "#24030"
 msgid "This add-on can't be configured"
-msgstr "Tento doplněk nemůže být konfigurován"
+msgstr "Tento doplněk nelze konfigurovat"
 
 msgctxt "#24031"
 msgid "Error loading settings"
@@ -12913,7 +12938,7 @@ msgstr "{0:s} je používán následujícími nainstalovanými doplňky"
 
 msgctxt "#24047"
 msgid "This add-on can't be uninstalled"
-msgstr "Tento doplněk nemůže být odinstalován"
+msgstr "Tento doplněk nelze odinstalovat"
 
 msgctxt "#24048"
 msgid "VideoPlayer InputStream"
@@ -13105,7 +13130,7 @@ msgstr "Uzamknout správce doplňků"
 
 msgctxt "#24091"
 msgid "This add-on can't be disabled"
-msgstr "Tento doplněk nemůže být zakázán"
+msgstr "Tento doplněk nelze zakázat"
 
 #. Used as title of the progress dialog when checking for add-on updates in add-on browser
 msgctxt "#24092"
@@ -13190,7 +13215,7 @@ msgstr "Stahování titulků…"
 
 msgctxt "#24111"
 msgid "Languages to download subtitles for"
-msgstr "Jazyky, pro které stáhnout titulky"
+msgstr "Jazyky pro stahování titulků"
 
 #. Description of setting "Videos -> Subtitles -> Languages to download subtitles for" with label #24111
 msgctxt "#24112"
@@ -13203,11 +13228,11 @@ msgstr "Nepodařilo se stáhnout titulky"
 
 msgctxt "#24114"
 msgid "No subtitle services installed"
-msgstr "Není nainstalována žádná služba titulků"
+msgstr "Nejsou nainstalovány žádné služby titulků"
 
 msgctxt "#24115"
 msgid "Subtitle storage location"
-msgstr "Umístění úložiště titulků"
+msgstr "Umístění pro ukládání titulků"
 
 msgctxt "#24116"
 msgid "Default TV show service"
@@ -13260,7 +13285,7 @@ msgstr "Automaticky stáhnout první titulky"
 #. Description of setting with label #24126 "Auto download first subtitle"
 msgctxt "#24127"
 msgid "Automatically download first subtitle from the search result list"
-msgstr "Automaticky stáhnou první titulky se seznamu výsledků hledání"
+msgstr "Automaticky stáhnout první titulky ze seznamu výsledků hledání"
 
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
@@ -13452,7 +13477,7 @@ msgstr "Zastaralý"
 #. Lifecycle state name, for broken and not usable addons. Used also on skin to compare and identify related state.
 msgctxt "#24171"
 msgid "Broken"
-msgstr "Protrhaná"
+msgstr "Nefunkční"
 
 #. The minimum version a dependency must meet. This is set in the <requires> tag of the dependee
 #. {3:s} reserved for an empty string or the " (optional)" optional string. see #24184
@@ -13497,7 +13522,7 @@ msgstr "Připojuji databázi - prosím čekejte"
 #. Error text on splash screen
 msgctxt "#24187"
 msgid "Failed to initialise databases - exiting in {} seconds."
-msgstr "Chyba při inicializaci databáze - ukončuji za {} secondy."
+msgstr "Inicializace databází se nezdařila – ukončení za {} sekund."
 
 #. Used as error message in add-on browser when add-on repository data could not be downloaded
 msgctxt "#24991"
@@ -13605,33 +13630,33 @@ msgstr "Ručně"
 #. Used to ask user if they want to use a playlist already assigned to an episode
 msgctxt "#25015"
 msgid "Selected playlist is already in use. Associate with this episode instead?"
-msgstr "Vybraný seznam stop je již používán. Přidružit místo toho tuto epizodu?"
+msgstr "Vybraný seznam přehrávání se už používá. Přidružit jej místo toho k této epizodě?"
 
 #. Inform user that no valid movie playlist has been found on disc
 msgctxt "#25016"
 msgid "No valid movie playlist has been found."
-msgstr "Nebyl nalezen žádný platný seznam filmových stop."
+msgstr "Nebyl nalezen žádný platný seznam přehrávání filmu."
 
 #. Inform user that no valid episode playlist has been found on disc
 msgctxt "#25017"
 msgid "No valid episode playlist has been found."
-msgstr "Nebyl nalezen žádný platný seznam epizod."
+msgstr "Nebyl nalezen žádný platný seznam přehrávání epizody."
 
 #. Automatic menu
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
-msgstr ""
+msgstr "Automatický výběr nabídky"
 
 #. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
 msgctxt "#25019"
 msgid "Kb/s"
-msgstr ""
+msgstr "kb/s"
 
 #. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
 msgctxt "#25020"
 msgid "Mb/s"
-msgstr ""
+msgstr "Mb/s"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -13654,7 +13679,7 @@ msgstr "Při načítání jazyka Java došlo k chybě, takže nabídky BD-J nebu
 #. Body text for the encryption error kaitoast
 msgctxt "#29805"
 msgid "This Blu-ray disc (or file) is encrypted and can't be played."
-msgstr "Tento disk Blu-ray (nebo soubor) je šifrovaný a nemůže být přehrán."
+msgstr "Tento disk Blu-ray (nebo soubor) je šifrovaný a nelze jej přehrát."
 
 # empty strings from id 29806 to 29899
 #. Header string on RDS Radiotext+ Info dialog
@@ -14020,7 +14045,7 @@ msgstr "Nostalgie"
 #. Settings boolean value to enable/disable RDS
 msgctxt "#29980"
 msgid "Enable RDS for radio channels"
-msgstr "Povolit RDS pro rozhlasové kanály"
+msgstr "Povolit RDS pro rádiové kanály"
 
 #. Help text for RDS enable/disable
 msgctxt "#29981"
@@ -14214,7 +14239,7 @@ msgstr "Výhled"
 
 msgctxt "#33031"
 msgid "Coverflow"
-msgstr "Porytí"
+msgstr "Coverflow"
 
 msgctxt "#33032"
 msgid "Translate text"
@@ -14513,17 +14538,17 @@ msgstr "Aby zůstaly určité AV přijímače zapnuté, odesíláme neslyšiteln
 #. Indicates if Audio Engine should include lfe when downmixing
 msgctxt "#34114"
 msgid "Include LFE when downmixing"
-msgstr "Zahrnutí LFE při downmixingu"
+msgstr "Zahrnout LFE při downmixingu"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34115"
 msgid "If enabled, this setting will include lfe channel into the mixing when there is no dedicated LFE output channel available. This only makes sense for full range speakers."
-msgstr "Pokud je toto nastavení povoleno, zahrne se kanál LFE do směšování, pokud není k dispozici vyhrazený výstupní kanál LFE. To má smysl pouze u reproduktorů s plným rozsahem."
+msgstr "Pokud je toto nastavení povoleno, kanál LFE se přimíchá, když není dostupný vyhrazený výstupní kanál LFE. To dává smysl pouze u plnorozsahových reproduktorů."
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34116"
 msgid "Off"
-msgstr "Vypnout"
+msgstr "Vypnuto"
 
 #. Description of setting with label #34114 "Include LFE when downmixing"
 msgctxt "#34117"
@@ -14601,17 +14626,17 @@ msgstr "Nelze najít předchozí položku pro přehrání"
 #. Manual HDR toggle (ACTION_HDR_TOGGLE) - HDR On/Off toast caption
 msgctxt "#34220"
 msgid "HDR status"
-msgstr "HDR stav"
+msgstr "Stav HDR"
 
 #. Manual HDR toggle (ACTION_HDR_TOGGLE) - HDR Off toast message
 msgctxt "#34221"
 msgid "Off"
-msgstr "Vypnout"
+msgstr "Vypnuto"
 
 #. Manual HDR toggle (ACTION_HDR_TOGGLE) - HDR On toast message
 msgctxt "#34222"
 msgid "On"
-msgstr "Zapnout"
+msgstr "Zapnuto"
 
 msgctxt "#34224"
 msgid "Tone mapping method"
@@ -15320,17 +15345,17 @@ msgstr "V tomto vydání mohou být pro hraní her použity pouze ovladače."
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Čtvercové pixely"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
 msgid "Integer"
-msgstr ""
+msgstr "Celočíselné"
 
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Celočíselné (čtvercové pixely)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15443,47 +15468,47 @@ msgstr "Tato hra vyžaduje podporu OpenGL pro 3D rendering. Podpora OpenGL je st
 #. Label for the "Disc menu" button to open the Disc Manager when playing a game
 msgctxt "#35272"
 msgid "Disc menu"
-msgstr ""
+msgstr "Nabídka disků"
 
 #. Label for showing the disc that is inserted in the game's virtual CD drive
 msgctxt "#35273"
 msgid "Disc selection"
-msgstr ""
+msgstr "Výběr disku"
 
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr ""
+msgstr "Žádný disk"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
 msgid "Eject"
-msgstr ""
+msgstr "Vysunout"
 
 #. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
 msgctxt "#35276"
 msgid "Insert"
-msgstr ""
+msgstr "Zasunout"
 
 #. Label for the button that resumes playing the current game. Called from the in-game menu.
 msgctxt "#35277"
 msgid "Resume game"
-msgstr ""
+msgstr "Pokračovat ve hře"
 
 #. Error message shown when the disc can't be ejected for a game's virtual CD drive
 msgctxt "#35278"
 msgid "The disc can't be ejected right now."
-msgstr ""
+msgstr "Disk teď nelze vysunout."
 
 #. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
 msgctxt "#35279"
 msgid "The disc can't be inserted right now."
-msgstr ""
+msgstr "Disk teď nelze zasunout."
 
 #. Title of the dialog to select a new disc image for a game's virtual CD drive
 msgctxt "#35280"
 msgid "Select disc"
-msgstr ""
+msgstr "Vybrat disk"
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15849,7 +15874,7 @@ msgstr "Výchozí nastavení na vybraný jazyk titulků, pokud je dostupný víc
 #. Description of settings with label #16000 "General"
 msgctxt "#36121"
 msgid "This category contains the settings for how media lists are displayed."
-msgstr "Tato kategorie obsahuje nastavení jak jsou seznamy médií zobrazovány."
+msgstr "Tato kategorie obsahuje nastavení způsobu zobrazení seznamů médií."
 
 #. Description of setting with label #13306 "Show parent folder items"
 msgctxt "#36122"
@@ -15884,7 +15909,7 @@ msgstr "Zobrazovat skryté soubory a adresáře při výpisu souborů."
 #. Description of settings category with label #360 "Screensaver"
 msgctxt "#36128"
 msgid "This category contains the settings for how the screensaver add-ons are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se doplňky spořičů obrazovky."
+msgstr "Tato kategorie obsahuje nastavení pro doplňky spořiče obrazovky."
 
 #. Description of setting with label #355 "Wait time"
 msgctxt "#36129"
@@ -15931,7 +15956,7 @@ msgstr "Sekce, která obsahuje nastavení související s videi a jak je s nimi 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36139"
 msgid "This category contains the settings for how the video library is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s knihovnou videí."
+msgstr "Tato kategorie obsahuje nastavení knihovny videí."
 
 #. Description of setting with label #14105 "Temperature unit"
 msgctxt "#36140"
@@ -15941,7 +15966,7 @@ msgstr "Zvolte, která jednotka teploty bude použita pro zobrazení teplot v u�
 #. Description of setting with label #20369 "Show information for unwatched items"
 msgctxt "#36141"
 msgid "Show information for unwatched media in the video library or hide them if not selected to prevent spoilers. Available options are 'Movie plot', 'Episode plot' and 'Episode thumb'."
-msgstr "Zobrazovat informace pro nezhlédnutá média v knihovně videí nebo je skrývat, pokud nejsou vybrány, aby se zabránilo vyzrazení děje. Dostupné možnosti jsou: 'Děj filmu', 'Děj epizody' a 'Náhled epizody'."
+msgstr "Zobrazovat informace o nezhlédnutých médiích v knihovně videí, nebo je skrývat, pokud nejsou vybrány, aby nedošlo k vyzrazení děje. Dostupné možnosti jsou: „Děj filmu“, „Děj epizody“ a „Náhled epizody“."
 
 #. Description of setting with label #14106 "Speed unit"
 msgctxt "#36142"
@@ -15976,7 +16001,7 @@ msgstr "Skrýt indikátor průběhu prohledávání knihovny během prohledává
 #. Description of setting with label #334 "Clean library..."
 msgctxt "#36148"
 msgid "Remove items from your library that can't be found (either renamed, deleted, or on removable storage that is currently unplugged)."
-msgstr "Odebrat z vaší knihovny položky, které nemohou být nalezeny (jsou buď přejmenované, odstraněné nebo na přenosném úložišti, které je aktuálně odpojené)."
+msgstr "Odebrat z knihovny položky, které nelze najít (byly přejmenovány, odstraněny nebo jsou na vyměnitelném úložišti, které je momentálně odpojené)."
 
 #. Description of setting with label #647 "Export video library"
 msgctxt "#36149"
@@ -15991,7 +16016,7 @@ msgstr "Importovat soubor XML do databáze knihovny videí."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36151"
 msgid "This category contains the settings for how video playback is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s přehráváním videa."
+msgstr "Tato kategorie obsahuje nastavení přehrávání videa."
 
 #. Description of setting with label #13433 "Play next video automatically"
 msgctxt "#36152"
@@ -16111,12 +16136,12 @@ msgstr "Škálovat teletext na poměr 4:3."
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36176"
 msgid "This category contains the settings for how video file lists are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se seznamy souborů videí."
+msgstr "Tato kategorie obsahuje nastavení seznamů videosouborů."
 
 #. Description of setting with label #22079 "Default select action"
 msgctxt "#36177"
 msgid "Toggle between [Choose], [Play] (default), [Show information] and [Queue item].[CR][Choose] will open a context menu to select an item, e.g. show information.[CR][Play] will play videos as defined by the setting 'Default play action'.[CR][Show information] will open the video's information dialog.[CR][Queue item] will append the video to the video playlist."
-msgstr "Přepínejte mezi možnostmi [Vybrat], [Přehrát] (výchozí), [Zobrazit informace] a [Položka fronty].[CR][Vybrat] otevře kontextovou nabídku pro výběr položky, např. zobrazit informace.[CR][Přehrát] přehraje videa podle nastavení „Výchozí akce přehrávání“.[CR][Zobrazit informace] otevře dialogové okno s informacemi o videu.[CR][Položka fronty] přidá video do seznamu video stop."
+msgstr "Přepínejte mezi možnostmi [Vybrat], [Přehrát] (výchozí), [Zobrazit informace] a [Zařadit položku do fronty].[CR][Vybrat] otevře kontextovou nabídku pro výběr položky, např. zobrazení informací.[CR][Přehrát] přehraje videa podle nastavení „Výchozí akce přehrávání“.[CR][Zobrazit informace] otevře dialog s informacemi o videu.[CR][Zařadit položku do fronty] přidá video do seznamu stop videí."
 
 #. Description of setting with label #20433 "Extract thumbnails and video information"
 msgctxt "#36178"
@@ -16140,7 +16165,7 @@ msgstr "Zatím nejsou dostupné žádné informace."
 #. Description of setting with label #20435 "Combine split video items"
 msgctxt "#36182"
 msgid "Combines multi-part video files, DVD folders or movie folders, down to a single item in non-library views."
-msgstr "Zombinuje vícedílné soubory videa, složky DVD nebo složky filmů do jedné položky v jiných zobrazeních než knihovny."
+msgstr "Sloučí vícedílné videosoubory, složky DVD nebo složky filmů do jedné položky v zobrazeních mimo knihovnu."
 
 #. Description of setting with label #20456 "Flatten hierarchy"
 msgctxt "#36183"
@@ -16150,7 +16175,7 @@ msgstr "Odebere uzly názvu, žánru atd. ze zobrazení knihovny. Výběr katego
 #. Description of settings category with label #287 "Subtitles"
 msgctxt "#36184"
 msgid "This category contains the settings for how subtitles are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s titulky."
+msgstr "Tato kategorie obsahuje nastavení titulků."
 
 #. Description of setting with label #14089 "Font"
 msgctxt "#36185"
@@ -16180,7 +16205,7 @@ msgstr "Nastavte znakovou sadu písma použitou pro titulky."
 #. Description of setting with label #21368 "Override subtitles fonts"
 msgctxt "#36190"
 msgid "Override subtitles fonts in subtitle formats such as ASS / SSA."
-msgstr "Přepsat font titulků u titulků ve formátech typu ASS / SSA."
+msgstr "Přepsat písma titulků ve formátech jako ASS / SSA."
 
 #. Description of setting with label #21366 "Custom subtitle folder"
 msgctxt "#36191"
@@ -16195,7 +16220,7 @@ msgstr "Pozice titulků na obrazovce. [Vrchní část videa] / [Spodní část v
 #. Description of settings category with label #14087 "DVDs"
 msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s DVD, Blu-ray a CD."
+msgstr "Tato kategorie obsahuje nastavení pro DVD, Blu-ray a CD."
 
 #. Description of setting with label #14088 "Play DVDs automatically"
 msgctxt "#36194"
@@ -16263,7 +16288,7 @@ msgstr "Vyzvat backend, aby vyhledal kanály (pokud je podporováno)."
 
 msgctxt "#36209"
 msgid "Clear the databases for PVR data like channels, groups, reminders and guide. Please note that not all data can be restored from the backend afterwards."
-msgstr "Vymazat databáze s PVR daty jako kanály, skupiny, upozornění a průvodce. Prosím vezměte na vědomí, že ne všechna data mohou být později obnovena z backendu."
+msgstr "Vymazat databáze s PVR daty, jako jsou kanály, skupiny, připomenutí a TV program. Upozorňujeme, že ne všechna data bude možné později obnovit z backendu."
 
 msgctxt "#36210"
 msgid "Open the client priorities dialog which allows modifying the priority for enabled PVR clients according to your personal preferences, for instance to order channels client by client. Higher value means higher priority."
@@ -16482,7 +16507,7 @@ msgstr "Zatím nejsou dostupné žádné informace."
 #. Description of setting with label #19108 "Refreshrate"
 msgctxt "#36261"
 msgid "If enabled, this framerate is used for streams we were not able to detect fps."
-msgstr "Pokud je povoleno, tato frekvence snímků je použita pro datové proudy, kterých nebylo možné rozpoznat počet snímků za sekundu."
+msgstr "Pokud je tato volba povolena, použije se tato snímková frekvence pro streamy, u kterých se nepodařilo zjistit fps."
 
 #. Description of setting with label #20196 "Export music library"
 msgctxt "#36262"
@@ -16497,7 +16522,7 @@ msgstr "Importovat soubor XML do databáze hudební knihovny."
 #. Description of settings category with label #14086 "Playback"
 msgctxt "#36264"
 msgid "This category contains the settings for how music playback is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s přehráváním hudby."
+msgstr "Tato kategorie obsahuje nastavení přehrávání hudby."
 
 #. Description of setting with label #489 "Play next song automatically"
 msgctxt "#36265"
@@ -16587,7 +16612,7 @@ msgstr "Vyhledat náhledy ve vzdálených sdílených složkách a na optických
 #. Description of settings category with label #620 "Audio CDs"
 msgctxt "#36282"
 msgid "This category contains the settings for how CDs are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s CD."
+msgstr "Tato kategorie obsahuje nastavení pro CD."
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36283"
@@ -16696,7 +16721,7 @@ msgstr "Sekce, která obsahuje nastavení související s obrázky a jak je s ni
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36305"
 msgid "This category contains the settings for how picture file lists are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se seznamy souborů obrázků."
+msgstr "Tato kategorie obsahuje nastavení seznamů souborů obrázků."
 
 msgctxt "#36306"
 msgid "If not using backend channel numbers then start all groups channel numbers from 1."
@@ -16710,7 +16735,7 @@ msgstr "Automaticky generovat náhledy obrázků při vstupu do složky obrázk�
 #. Description of setting with label #20472 "Show all performers for music videos"
 msgctxt "#36308"
 msgid "When enabled, shows all performers in the artist list for music videos, not just the main artist"
-msgstr "Když je povoleno, zobrazit všechny umělce v seznamu interpretů pro hudební videa, ne jen hlavního interpreta"
+msgstr "Pokud je tato možnost povolena, zobrazí se v seznamu interpretů hudebních videí všichni interpreti, nejen hlavní interpret"
 
 #. Description of setting with label #22022 "Show video files in listings"
 msgctxt "#36309"
@@ -16725,7 +16750,7 @@ msgstr "Zatím nejsou dostupné žádné informace."
 #. Description of settings category with label #108 "Slideshow"
 msgctxt "#36311"
 msgid "This category contains the settings for how the picture slideshow is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s prezentací obrázků."
+msgstr "Tato kategorie obsahuje nastavení prezentace obrázků."
 
 #. Description of setting with label #12378 "Amount of time to display each image"
 msgctxt "#36312"
@@ -16750,7 +16775,7 @@ msgstr "Sekce, která obsahuje nastavení související s počasím."
 #. Description of settings category with label #16000 "General"
 msgctxt "#36316"
 msgid "This category contains the settings for how the weather service is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou počasí."
+msgstr "Tato kategorie obsahuje nastavení služby počasí."
 
 #. Description of settings category with label #0 "Locations"
 msgctxt "#36317"
@@ -16780,7 +16805,7 @@ msgstr "Název k zobrazení pro toto zařízení při použití různých síťo
 #. Description of settings category with label #20187 "UPnP/DLNA"
 msgctxt "#36322"
 msgid "This category contains the settings for how the UPnP service is handled. UPnP is also called DLNA on most consumer electronics."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou UPnP. U spotřební elektroniky je UPnP také často nazýváno DLNA."
+msgstr "Tato kategorie obsahuje nastavení služby UPnP. Ve spotřební elektronice se UPnP často označuje také jako DLNA."
 
 #. Description of setting with label #21360 "Share my libraries"
 msgctxt "#36323"
@@ -16805,7 +16830,7 @@ msgstr "Povolit řídící bod UPnP. Toto vám umožňuje streamovat média do j
 #. Description of settings category with label #20187 "Control"
 msgctxt "#36327"
 msgid "This category contains the settings for how the web server service and the application control service is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou webového serveru a službou ovládání aplikace."
+msgstr "Tato kategorie obsahuje nastavení služby webového serveru a služby ovládání aplikace."
 
 #. Description of setting with label #263 "Allow remote control via HTTP"
 msgctxt "#36328"
@@ -16835,7 +16860,7 @@ msgstr "Vyberte mezi webovými rozhraními nainstalovanými prostřednictvím sp
 #. Description of settings category with label #790 "Remote Control"
 msgctxt "#36333"
 msgid "This category contains the settings for how the remote control service is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou vzdáleného ovládání."
+msgstr "Tato kategorie obsahuje nastavení služby vzdáleného ovládání."
 
 #. Description of setting with label #791 "Allow remote control from programs on this system"
 msgctxt "#36334"
@@ -16875,7 +16900,7 @@ msgstr "Zpoždění nepřetržitého opakovaní (ms)."
 #. Description of settings category with label #1259 "Zeroconf"
 msgctxt "#36341"
 msgid "This category contains the settings for how the Zeroconf network discovery service is handled, required for AirPlay."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se sítí Zeroconf, která je vyžadována pro AirPlay."
+msgstr "Tato kategorie obsahuje nastavení služby zjišťování v síti Zeroconf, která je vyžadována pro AirPlay."
 
 #. Description of setting with label #1260 "Announce services to other systems"
 msgctxt "#36342"
@@ -16900,7 +16925,7 @@ msgstr "Nastaví heslo AirPlay."
 #. Description of settings category with label #1200 "SMB Client"
 msgctxt "#36346"
 msgid "This category contains the settings for how the SMB client (Samba) service is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou klienta SMB (Samba)."
+msgstr "Tato kategorie obsahuje nastavení klienta SMB (Samba)."
 
 #. Description of setting with label #1207 "WINS server"
 msgctxt "#36347"
@@ -16940,7 +16965,7 @@ msgstr "Změní obnovovací frekvenci, ve které je zobrazeno uživatelské rozh
 #. Description of setting with label #14083 "Use fullscreen window"
 msgctxt "#36354"
 msgid "If enabled, fullscreen mode will be applied by using a window instead of a real fullscreen mode. The main benefit is for multi-screen configurations, so that other applications can be used in parallel more easily. This uses more resources so playback may be less smooth."
-msgstr "Pokud je povoleno, režim na celou obrazovku bude použit použitím okna namísto reálného režimu na celou obrazovku. Hlavní výhoda je pro víceobrazovkové konfigurace, aby mohly být další aplikace jednodušeji použity paralelně. Toto používá více prostředků, takže přehrávání může být méně plynulé."
+msgstr "Pokud je povoleno, režim celé obrazovky se použije v okně místo skutečného režimu celé obrazovky. Hlavní výhodou je použití ve víceobrazovkových konfiguracích, kde lze snáze současně používat další aplikace. Vyžaduje to více prostředků, takže přehrávání může být méně plynulé."
 
 #. Description of setting with label #13130 "Blank other displays"
 msgctxt "#36355"
@@ -16950,7 +16975,7 @@ msgstr "Ve víceobrazovkové konfiguraci jsou obrazovky, které nezobrazují tut
 #. Description of settings category with label #1201 "NFS Client"
 msgctxt "#36356"
 msgid "This category contains the settings for how the NFS client is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s NFS klienty."
+msgstr "Tato kategorie obsahuje nastavení klienta NFS."
 
 #. Description of setting with label #214 "Video calibration..."
 msgctxt "#36357"
@@ -16964,12 +16989,12 @@ msgstr "Povolit použití číslování kanálů z více backendů. Pamatujte, �
 #. Description of setting with label #36042 "Use limited colour range (16-235)"
 msgctxt "#36359"
 msgid "Use limited colour range (16-235) instead of full colour range (0-255). Limited range should be used if your display is a regular HDMI TV and doesn't have a PC or other mode to display full range colour, however if your display is a PC monitor then leave this disabled to get proper blacks."
-msgstr "Použít omezený barevný rozsah (16-235) namísto plného barevného rozsahu (0-255). Omezený rozsah by měl být použit, pokud je vaše obrazovka běžná televize s HDMI, která nemá PC nebo jiný režim pro zobrazení plného barevného rozsahu. Ale pokud je vaše obrazovka počítačový monitor, pak ponechte toto zakázané, abyste získali správnou černou."
+msgstr "Použít omezený barevný rozsah (16-235) místo plného barevného rozsahu (0-255). Omezený rozsah používejte, pokud je vaše zobrazovací zařízení běžná HDMI televize a nemá režim PC ani jiný režim pro zobrazení plného barevného rozsahu. Pokud je vaše zobrazovací zařízení počítačový monitor, ponechte tuto volbu vypnutou, aby se černá zobrazovala správně."
 
 #. Description of settings category with label #772 "Audio"
 msgctxt "#36360"
 msgid "This category contains the settings for how audio output is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se zvukovým výstupem."
+msgstr "Tato kategorie obsahuje nastavení zvukového výstupu."
 
 #. Description of setting with label #337 "Output configuration"
 msgctxt "#36361"
@@ -17007,7 +17032,7 @@ msgstr "Vyberte maximální počet zvukových kanálů nebo reproduktorů dostup
 #. Description of setting with label #348 "Enable passthrough"
 msgctxt "#36368"
 msgid "Select to allow passthrough audio for playback of compressed audio such as Dolby Digital (AC3), DTS, etc. The Client of the AudioEngine, for example Videoplayer, might decide to decode the audio stream under certain conditions. In Videoplayer case, passthrough won't be used for live streams and when you sync playback to display."
-msgstr "Vyberte pro povolení průchodu zvuku pro přehrávání komprimovaného zvuku, jako je Dolby Digital (AC3), DTS atd. Klient AudioEngine, například Videoplayer, se může rozhodnout pro dekódování zvukové stopy za určitých podmínek. V případě Videoplayeru průchod nebude použit pro živé datové proudy a při synchronizaci přehrávání k displeji."
+msgstr "Vyberte pro povolení passthrough zvuku při přehrávání komprimovaného zvuku, jako je Dolby Digital (AC3), DTS atd. Klient AudioEngine, například VideoPlayer, se může za určitých podmínek rozhodnout zvukovou stopu dekódovat. V případě VideoPlayeru se passthrough nepoužije pro živé streamy ani při synchronizaci přehrávání s displejem."
 
 #. Description of setting with label #349 "TrueHD capable receiver"
 msgctxt "#36369"
@@ -17037,7 +17062,7 @@ msgstr "Konfigurujte, jak je zacházeno se zvuky rozhraní, jako jsou navigace v
 #. Description of settings category with label #15087 "Input"
 msgctxt "#36374"
 msgid "This category contains the settings for how input devices are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se vstupními zařízeními."
+msgstr "Tato kategorie obsahuje nastavení vstupních zařízení."
 
 #. Description of setting with label #35000 "Peripherals"
 msgctxt "#36375"
@@ -17062,7 +17087,7 @@ msgstr "Použít herní ovladače pro ovládání rozhraní."
 #. Description of settings category with label #798 Internet access
 msgctxt "#36379"
 msgid "This category contains the settings for how Internet access is handled. The default web interface can also be selected here."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s přístupem k internetu. Také zde může být vybráno výchozí webové rozhraní."
+msgstr "Tato kategorie obsahuje nastavení přístupu k internetu. Zde lze také vybrat výchozí webové rozhraní."
 
 #. Description of setting with label #708 "Use proxy server"
 msgctxt "#36380"
@@ -17142,7 +17167,7 @@ msgstr "Povolí, aby byly v protokolu ladění zahrnuty podrobné zprávy z dal�
 #. Description of settings category with label #12360 "Master lock"
 msgctxt "#36395"
 msgid "This category contains the settings for how the master lock function is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s funkcí hlavního zámku."
+msgstr "Tato kategorie obsahuje nastavení funkce hlavního zámku."
 
 #. Description of setting with label #20100 "Master lock code and settings"
 msgctxt "#36396"
@@ -17162,7 +17187,7 @@ msgstr "Definujte maximální počet pokusů, než bude tato aplikace zavřena."
 #. Description of settings category with label #439 "Cache"
 msgctxt "#36399"
 msgid "This category contains the settings for how the cache function is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s funkcí mezipaměti."
+msgstr "Tato kategorie obsahuje nastavení mezipaměti."
 
 #. Description of settings category with label #14025 "Video/Audio/DVD cache - Hard disk"
 msgctxt "#36400"
@@ -17245,6 +17270,8 @@ msgid ""
 "Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
 "You can disable this setting if you experience audio issues."
 msgstr ""
+"Snižuje latenci zpracování zvuku. Zrychluje spuštění přehrávání, pokračování po pozastavení a posun v přehrávání (zvuk se vrátí dříve).\n"
+"Pokud zaznamenáte potíže se zvukem, můžete toto nastavení vypnout."
 
 #. Description of setting with label #21417 "Settings"
 msgctxt "#36419"
@@ -17254,7 +17281,7 @@ msgstr "Definujte umístění používané pro získávání informací o počas
 #. Description of setting with label #20222 "Look for external subtitles"
 msgctxt "#36420"
 msgid "Look for external subtitles for videos provided by the UPnP server. This can cause extensive CPU, filesystem and network load."
-msgstr "Vyhledat externí titulky pro videa poskytnutá serverem UPnP. Toto může způsobit značné zatížení procesoru, souborového systému a sítě."
+msgstr "Vyhledávat externí titulky k videím poskytovaným serverem UPnP. To může způsobit značné zatížení procesoru, systému souborů a sítě."
 
 #. Description of setting with label #13437 "Prefer VDPAU Video Mixer"
 msgctxt "#36421"
@@ -17293,7 +17320,7 @@ msgstr "Nahrávat"
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr ""
+msgstr "Zapněte toto nastavení, pokud připojení zvukového výstupu podporuje vícekanálový zvuk pouze jako Dolby Digital 5.1 (AC-3), například připojení S/PDIF. Pokud je povolený také passthrough E-AC3, použije se pro vyšší kvalitu Dolby Digital Plus (E-AC3). Pokud váš systém podporuje vícekanálový zvuk PCM přes HDMI, ponechte toto nastavení vypnuté."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -17632,7 +17659,7 @@ msgstr "3D LUT"
 #. Description of setting "System -> Video output -> 3D LUT" with label #36564
 msgctxt "#36565"
 msgid "Select the 3DLUT file to be used by default. If you place multiple 3DLUT files in the same directory, then you can switch between them in the OSD menu during video playback. This allows for multiple display profiles to account for different viewing environments and source materials, for example gamma 2.2 for daytime viewing and 2.4 for nighttime."
-msgstr "Vyberte soubor 3DLUT, který bude použit ve výchozím nastavení. Pokud umístíte více souborů 3DLUT do stejného adresáře, pak mezi nimi můžete během přehrávání videa přepínat v nabídce OSD. To umožňuje více profilů zobrazení na účet pro různá prostředí zobrazení a zdrojové materiály, například gamma 2.2 pro sledování ve dne a 2.4 v noci."
+msgstr "Vyberte soubor 3DLUT, který se má použít jako výchozí. Pokud umístíte více souborů 3DLUT do stejného adresáře, můžete mezi nimi během přehrávání videa přepínat v nabídce OSD. To umožňuje používat více profilů zobrazení pro různá prostředí sledování a zdrojové materiály, například gamma 2.2 pro sledování ve dne a 2.4 v noci."
 
 msgctxt "#36566"
 msgid "ICC display profile"
@@ -17784,22 +17811,22 @@ msgstr "Eliminovat pruhy způsobené převodem úrovně RGB nebo jiným zpracov�
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "Výstupní přesnost ditheringu videa v bitech. Automaticky zapíná dithering jen tehdy, když je přínosný (nesoulad omezeného/plného rozsahu, snížení bitové hloubky, zmenšení měřítka nebo mapování tónů HDR), a podle podpory displeje používá hloubku 8 nebo 10 bitů. Nižší nastavení jsou dostupná pouze pro účely testování."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet s knihovnou hudby."
+msgstr "Tato kategorie obsahuje nastavení knihovny hudby."
 
 #. Description of settings category with label #14081 "File lists"
 msgctxt "#36601"
 msgid "This category contains the settings for how music file lists are handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se seznamy hudebních souborů."
+msgstr "Tato kategorie obsahuje nastavení seznamů hudebních souborů."
 
 #. Description of settings category with label #1273 "AirPlay"
 msgctxt "#36602"
 msgid "This category contains the settings for how the AirPlay service is handled."
-msgstr "Tato kategorie obsahuje nastavení jak zacházet se službou AirPlay."
+msgstr "Tato kategorie obsahuje nastavení služby AirPlay."
 
 #. Description of settings category with label #14220 Display
 msgctxt "#36603"
@@ -18203,7 +18230,7 @@ msgstr "Upřednostňovat výchozí zvukovou stopu"
 #. Description of setting #37040 Playback
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr "Pokud je povoleno, zvukové stopy označené jako výchozí (a odpovídající upřednostňovanému jazyku) jsou upřednostněny před zvukovými stopami s vyšší kvalitou (počet kanálů, kodek, ...)."
+msgstr "Pokud je tato možnost povolena, zvukové stopy označené jako výchozí (a odpovídající upřednostňovanému jazyku) mají přednost před zvukovými stopami s vyšší kvalitou (podle počtu kanálů, kodeku apod.)."
 
 #. Description of setting Skip steps
 msgctxt "#37042"
@@ -18327,7 +18354,7 @@ msgstr "Určuje míru zaplnění vyrovnávací paměti ve smyslu průměrného d
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
 msgid "The data chunk size to use when a filesystem or protocol does not force the value, e.g. NFS will override this with its own value."
-msgstr "Velikost časti dat, která se má použít, pokud souborový systém anebo protokol nevyžaduje tuto hodnotu, např. systém NFS ji přepíše vlastní hodnotou."
+msgstr "Velikost datového bloku, která se má použít, pokud systém souborů nebo protokol neurčí jinou hodnotu, např. NFS ji přepíše vlastní hodnotou."
 
 #. Value of setting - NONE
 msgctxt "#37110"
@@ -18342,17 +18369,17 @@ msgstr "Používat vyrovnávací paměť pouze u skutečných internetových str
 #. Value of setting - INTERNET
 msgctxt "#37112"
 msgid "Buffer all internet filesystems, including: FTP, WebDAV, etc."
-msgstr "Používat vyrovnávací paměť u všech internetových souborových systémů včetně: FTP, WebDAV atd."
+msgstr "Používat vyrovnávací paměť pro všechny internetové systémy souborů, včetně FTP, WebDAV atd."
 
 #. Value of setting - NETWORK
 msgctxt "#37113"
 msgid "Buffer all network filesystems, including: SMB, NFS, etc."
-msgstr "Používat vyrovnávací paměť u všech síťových souborových systémů včetně: SMB, NFS, etc."
+msgstr "Používat vyrovnávací paměť pro všechny síťové systémy souborů, včetně SMB, NFS atd."
 
 #. Value of setting - ALL
 msgctxt "#37114"
 msgid "Buffer all filesystems, including local files"
-msgstr "Používat vyrovnávací paměť u všech souborových systémů včetně lokálních souborů"
+msgstr "Používat vyrovnávací paměť pro všechny systémy souborů včetně místních souborů"
 
 #. Value of setting #37105 "Memory Size"
 msgctxt "#37115"
@@ -18664,12 +18691,12 @@ msgstr "Stav vydání"
 #. Displayed in a toast notification when music items are added to a playlist
 msgctxt "#38082"
 msgid "Added to end of playlist"
-msgstr "Přidáno na konec playlistu"
+msgstr "Přidáno na konec seznamu stop"
 
 #. Displayed in a toast notification when music items are added to a playlist to play next
 msgctxt "#38083"
 msgid "Added to playlist to play next"
-msgstr "Přidáno do playlistu pro následující přehrátí"
+msgstr "Přidáno do seznamu stop jako další k přehrání"
 
 #. Description of section #14200 "Player""
 msgctxt "#38100"
@@ -18709,17 +18736,17 @@ msgstr "Tato kategorie obsahuje nastavení pro jazyk zvuku, titulků a přístup
 #. Description of category #14210 "Videos"
 msgctxt "#38107"
 msgid "This category contains the settings for how information for videos is collected, stored, shown, and navigated"
-msgstr "Tato kategorie obsahuje nastavení jak jsou informace pro videa shromažďovány, ukládány, zobrazovány a jak je v nich navigováno"
+msgstr "Tato kategorie obsahuje nastavení shromažďování, ukládání a zobrazování informací o videích a navigace v nich"
 
 #. Description of category #14211 "Music"
 msgctxt "#38108"
 msgid "This category contains the settings for how information for music is collected, stored, shown, and navigated"
-msgstr "Tato kategorie obsahuje nastavení jak jsou informace pro hudbu shromažďovány, ukládány, zobrazovány a jak je v nich navigováno"
+msgstr "Tato kategorie obsahuje nastavení shromažďování, ukládání a zobrazování informací o hudbě a navigace v nich"
 
 #. Description of category #14212 "Pictures"
 msgctxt "#38109"
 msgid "This category contains the settings for how information for pictures is shown and navigated"
-msgstr "Tato kategorie obsahuje nastavení jak jsou informace pro obrázky zobrazovány a jak je v nich navigováno"
+msgstr "Tato kategorie obsahuje nastavení zobrazování informací o obrázcích a navigace v nich"
 
 #. Description of category #14215 "Databases"
 msgctxt "#38110"
@@ -18844,7 +18871,7 @@ msgstr "Exportovat"
 #. Message when adding music source and setting #20223 is empty
 msgctxt "#38320"
 msgid "Do you have local artist information (NFO) and art files that you want to fetch? Set the location of these artist folders now"
-msgstr "Máte místní soubory informací o interpretech (NFO) a uměleckých děl, které chcete načíst? Nastavte nyní umístění těchto složek interpretů"
+msgstr "Máte místní informace o interpretech (soubory NFO) a soubory grafiky, které chcete načíst? Nastavte nyní umístění těchto složek interpretů"
 
 #. Kind of export output, see #38304
 msgctxt "#38321"
@@ -18889,7 +18916,7 @@ msgstr "Nastavit poskytovatele informací o interpretovi"
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
 msgid "Fetch additional information and art during scan"
-msgstr "Načíst dodatečné informace a umělecká díla během prohledávání"
+msgstr "Načítat doplňující informace a grafiku během prohledávání"
 
 #. Scraper to use for additional album information. See #20193
 msgctxt "#38334"
@@ -18954,17 +18981,17 @@ msgstr "Tato kategorie poskytuje přístup do oken pro správu zdrojů a správu
 #. Description of setting "Videos... with label #14242
 msgctxt "#39005"
 msgid "This provides access to where video sources can be added and otherwise managed."
-msgstr "Toto poskytuje přístup tam, kam mohou být přidány a jinak spravovány zdroje videí."
+msgstr "Zpřístupňuje místo, kde lze přidávat a spravovat zdroje videí."
 
 #. Description of setting "Music... with label #14243
 msgctxt "#39006"
 msgid "This provides access to where music sources can be added and otherwise managed."
-msgstr "Toto poskytuje přístup tam, kam mohou být přidány a jinak spravovány zdroje hudby."
+msgstr "Zpřístupňuje místo, kde lze přidávat a spravovat zdroje hudby."
 
 #. Description of setting "Pictures... with label #14244
 msgctxt "#39007"
 msgid "This provides access to where picture sources can be added and otherwise managed."
-msgstr "Toto poskytuje přístup tam, kam mohou být přidány a jinak spravovány zdroje obrázků."
+msgstr "Zpřístupňuje místo, kde lze přidávat a spravovat zdroje obrázků."
 
 msgctxt "#39008"
 msgid "Zoom - 120% width"
@@ -19060,7 +19087,7 @@ msgstr "Doplněk: {0:s}[CR]Původ: {1:s}[CR]Verze: {2:s}[CR]– bude odinstalov�
 #. Text for yes/no dialog to indicate that an add-on was manually installed
 msgctxt "#39029"
 msgid "Manually installed"
-msgstr "Nainstalováno manuálně"
+msgstr "Nainstalováno ručně"
 
 #. Media source, a filter and smart playlist rule option
 msgctxt "#39030"
@@ -19197,7 +19224,7 @@ msgstr "Povolit čtení štítků v zobrazení souborů"
 #. Label for component level debug logging setting
 msgctxt "#39126"
 msgid "Verbose logging for the [B]Bluray[/B] component"
-msgstr ""
+msgstr "Podrobné protokolování komponenty [B]Bluray[/B]"
 
 msgctxt "#39127"
 msgid "Use all local image files as artwork"
@@ -19242,7 +19269,7 @@ msgstr "Náhledy souborů obrázků"
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr "Názvy souborů obsahujících primární obrázky (náhledy), obvykle čtvercové a používají se jak v plné velikosti, tak ve zmenšené velikosti k vizuální identifikaci složky, umělce, alba nebo skladby"
+msgstr "Názvy souborů obsahujících primární grafiku (miniatury), která je obvykle čtvercová a používá se v plné i zmenšené velikosti k vizuálnímu označení složky, interpreta, alba nebo skladby"
 
 msgctxt "#39137"
 msgid "Artwork level"
@@ -19316,7 +19343,7 @@ msgstr "Přepsat styl titulků"
 #. Description of setting with label #39154 "Override subtitles styles"
 msgctxt "#39155"
 msgid "Some subtitle formats such as SSA / ASS / WebVTT can include metadata like font style, colors, size, alignments, positions, etc. you can override the styles with your customizations (please note that side effects may occur in some cases)."
-msgstr "Některé typy titulků jako SSA / ASS / WebVTT mohou obsahovat metadata jako styl fontů, barvy, velikost, zarovnání, pozice apod. Tyto styly můžete přepsat vlastním nastavením (vezměte prosím na vědomí, že se v některých případech mohou objevit nežádoucí účinky)."
+msgstr "Některé formáty titulků, například SSA / ASS / WebVTT, mohou obsahovat metadata jako styl písma, barvy, velikost, zarovnání, pozice apod. Tyto styly můžete přepsat vlastním nastavením (mějte na paměti, že v některých případech může dojít k nežádoucím dopadům)."
 
 #. Item list value of setting with label #39154 "Override subtitles styles"
 msgctxt "#39156"
@@ -19441,7 +19468,7 @@ msgstr "Poslouchám..."
 #. Dialog text to notify that there has been no matching recognition result
 msgctxt "#39180"
 msgid "No recognition result matched"
-msgstr "Žádný výsledek rozpoznávání"
+msgstr "Nebyl nalezen žádný odpovídající výsledek rozpoznávání"
 
 #. Dialog text to notify that there has been a speech recognition error
 msgctxt "#39181"
@@ -19486,7 +19513,7 @@ msgstr "Žádné pozadí"
 #. Window screen calibration: calibration by using the subtitle bar
 msgctxt "#39189"
 msgid "Available only with manual subtitle position"
-msgstr "Dostupné jen s manuálním umístěním titulků"
+msgstr "Dostupné pouze při ručním umístění titulků"
 
 #. Help text for setting "Use system HDR/SDR brightness balance" of label #36096
 msgctxt "#39190"
@@ -19575,22 +19602,63 @@ msgstr "Vložené titulky"
 # Use Starfish decoder
 msgctxt "#39207"
 msgid "Use Starfish decoder"
-msgstr ""
+msgstr "Používat dekodér Starfish"
 
 #. Description of setting with label #39207 "Use Starfish decoder"
 msgctxt "#39208"
 msgid "Starfish is the hardware video decoder for LG's webOS. Disable it for troubleshooting or testing."
-msgstr ""
+msgstr "Starfish je hardwarový video dekodér pro webOS od LG. Vypněte ho při řešení potíží nebo pro účely testování."
 
 #. Title of Dolby Vision level 5 metadata zero override setting
 msgctxt "#39209"
 msgid "Dolby Vision: Override level 5 metadata to zero"
-msgstr ""
+msgstr "Dolby Vision: Přepsat metadata úrovně 5 na nulu"
 
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
-msgstr ""
+msgstr "Pokud je povoleno, u souborů Dolby Vision se metadata úrovně 5 (aktivní oblast) přepíšou na nulové offsety. Povolte, pokud má váš displej při přehrávání Dolby Vision potíže s nesprávně oříznutým obrazem."
+
+# empty strings from id 39211 to 39899
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
+#. STR_LIST_AND_TWO
+msgctxt "#39900"
+msgid "{0} and {1}"
+msgstr "{0} a {1}"
+
+#. List formatting: pattern used to join the first item to the rest of a list of three or more items, e.g. "A" + "B, and C" -> "A, B, and C"
+#. Note the "B, and C" is used here as an example - the actual formatting of the last two item(s) of a list of three of more is determined by STR_LIST_AND_END
+#. STR_LIST_AND_START
+msgctxt "#39901"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join an already-combined partial list to the next item, for the interior items of a list of four or more, e.g. "A, B" + "C" -> "A, B, C"
+#. STR_LIST_AND_MIDDLE
+msgctxt "#39902"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, and C"
+#. STR_LIST_AND_END
+msgctxt "#39903"
+msgid "{0}, and {1}"
+msgstr "{0} a {1}"
+
+# 39904 to 39909 are reserved for language formatting
+#. List formatting: pattern used to join a list of exactly two items, e.g. "A or B"
+#. STR_LIST_OR_TWO
+msgctxt "#39910"
+msgid "{0} or {1}"
+msgstr "{0} nebo {1}"
+
+#. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, or C"
+#. Note: the "or"-type list uses only TWO and END patterns; the START and MIDDLE joins for lists of three or more still use the AND-type comma pattern 
+#. (STR_LIST_AND_START / STR_LIST_AND_MIDDLE), with only the very last join switching to "or"
+#. STR_LIST_OR_END
+msgctxt "#39911"
+msgid "{0}, or {1}"
+msgstr "{0} nebo {1}"
 
 # 40000 to 40800 are reserved for Video Versions feature
 #. Generic video versions label (plural)
@@ -19671,17 +19739,17 @@ msgstr "Přidat verzi"
 #. Add video extra dialog title
 msgctxt "#40015"
 msgid "Add extra"
-msgstr "Přidat extra"
+msgstr "Přidat bonusové video"
 
 #. Add video version dialog text.
 msgctxt "#40016"
 msgid "The selected video already is the \"{0:s}\" version of the movie."
-msgstr "Vybrané video už je verzí filmu \"{0:s}\"."
+msgstr "Vybrané video už je verzí „{0:s}“ tohoto filmu."
 
 #. Add video version dialog text. Example: The selected video is the "Extended Edition" version of the movie "Movie title". Would you like to move the version to this movie?"
 msgctxt "#40017"
 msgid "The selected video is the \"{0:s}\" version of the movie \"{1:s}\". Would you like to move the version to this movie?"
-msgstr "Vybrané video je \"{0:s}\" verzí filmu \"{1:s}\". Chcete přesunout verzi do tohoto filmu?"
+msgstr "Vybrané video je verzí „{0:s}“ filmu „{1:s}“. Chcete tuto verzi přesunout k tomuto filmu?"
 
 #. Remove video version dialog title
 msgctxt "#40018"
@@ -19691,17 +19759,17 @@ msgstr "Odebrat verzi videa"
 #. Manage versions, remove: removing the default version of a movie is not allowed.
 msgctxt "#40019"
 msgid "The default version of a movie cannot be removed. Set a different default version and try again."
-msgstr "Výchozí verzi filmu není možno odebrat. Nastavte jinou výchozí verzi a zkuste to znovu."
+msgstr "Výchozí verzi filmu nelze odebrat. Nastavte jinou výchozí verzi a zkuste to znovu."
 
 #. Remove video version dialog text
 msgctxt "#40020"
 msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr "Určitě chcete odebrat verzi \"{0:s}\"?"
+msgstr "Opravdu chcete odebrat verzi „{0:s}“?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
 msgid "Would you really like to remove '{0:s}' and all its versions from the library?"
-msgstr "Opravdu chcete odebrat '{0:s}' a všechny jeho verze z knihovny?"
+msgstr "Opravdu chcete z knihovny odebrat položku „{0:s}“ a všechny její verze?"
 
 #. Manage video version dialog title
 msgctxt "#40022"
@@ -19721,17 +19789,17 @@ msgstr "Správce verzí: {0:s}"
 #. Choose/Manage video extra dialog title
 msgctxt "#40025"
 msgid "Extras Manager: {0:s}"
-msgstr "Správce extras: {0:s}"
+msgstr "Správce bonusových videí: {0:s}"
 
 #. Add extra dialog text.
 msgctxt "#40026"
 msgid "The selected video already is the \"{0:s}\" extra of the movie."
-msgstr "Vybrané video je už \"{0:s}\" extra filmu."
+msgstr "Vybrané video už je bonusovým videem „{0:s}“ tohoto filmu."
 
 #. Add video extra dialog text. Example: The selected video is the "Behind the scenes" extra of the movie "Movie title". Would you like to move the extra to this movie?"
 msgctxt "#40027"
 msgid "The selected video is the \"{0:s}\" extra of the movie \"{1:s}\". Would you like to move the extra to this movie?"
-msgstr "Vybrané video už je \"{0:s}\" extra filmu \"{1:s}\". Chcete přesunout extra do tohoto filmu?"
+msgstr "Vybrané video je bonusovým videem „{0:s}“ filmu „{1:s}“. Chcete toto bonusové video přesunout k tomuto filmu?"
 
 #. Browse the computer files for the file to be added as version
 msgctxt "#40028"
@@ -19761,22 +19829,22 @@ msgstr "V knihovně nebyly nalezeny žádné podobné filmy."
 #. Add version: Add another version from this disc - for Blurays
 msgctxt "#40033"
 msgid "Add another version from this disc?"
-msgstr ""
+msgstr "Přidat z tohoto disku další verzi?"
 
 #. Addition of new extra: a movie with multiple versions cannot be turned into an extra of another movie.
 msgctxt "#40034"
 msgid "The default version of a movie with multiple versions cannot be added as an extra to another movie. Please move or remove the other versions first."
-msgstr "Výchozí verzi filmu s více verzemi není možno přidat jako extra k jinému filmu. Prosím, nejdříve přesuňte nebo odeberte ostatní verze."
+msgstr "Výchozí verzi filmu s více verzemi nelze přidat jako bonusové video k jinému filmu. Nejdříve přesuňte nebo odeberte ostatní verze."
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40035"
 msgid "You are about to convert a movie extra into a movie version. Are you sure?"
-msgstr "Chystáte se zkonvertovat filmový extra na verzi filmu. Jste si jistí?"
+msgstr "Chystáte se převést bonusové video filmu na verzi filmu. Opravdu chcete pokračovat?"
 
 #. Addition of new version: the user picked an extra of another movie. Ask for confirmation.
 msgctxt "#40036"
 msgid "You are about to convert a movie version into a movie extra. Are you sure?"
-msgstr "Chystáte se zkonvertovat verzi filmu na filmový extra. Jste si jistí?"
+msgstr "Chystáte se převést verzi filmu na bonusové video filmu. Opravdu chcete pokračovat?"
 
 #. Addition of new version to a movie: the user chose a movie that has multiple versions. Ask for confirmation.
 msgctxt "#40037"
@@ -19791,17 +19859,17 @@ msgstr "Výchozí verzi filmu s více verzemi nelze přidat k jinému filmu. Pro
 #. Remove video extra dialog title
 msgctxt "#40039"
 msgid "Remove video extra"
-msgstr "Odebrat extra video"
+msgstr "Odebrat bonusové video"
 
 #. Remove video extra dialog text
 msgctxt "#40040"
 msgid "Are you sure to remove the extra \"{0:s}\"?"
-msgstr "Jste si jisti odebráním extra \"{0:s}\"?"
+msgstr "Opravdu chcete odebrat bonusové video „{0:s}“?"
 
 #. Prompt to assign playlist to current movie version
 msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
-msgstr ""
+msgstr "Přiřadit seznam přehrávání aktuální verzi filmu?"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -19811,23 +19879,23 @@ msgstr "Ignorovat různé verze videa při prohledávání"
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
-msgstr ""
+msgstr "Vyberte, jakou akci má skener provést u různých verzí videa.[CR][Vypnuto] Přidá verze videa do knihovny jako samostatné položky.[CR][Zeptat se] Zeptá se, zda se mají různé verze přidat samostatně, nebo seskupit s původním videem.[CR][Automaticky] Automaticky vytvoří další verze a seskupí je s původním videem."
 
 #. Ignore video extras settting
 msgctxt "#40204"
 msgid "Ignore video extras on scan"
-msgstr "Ignorovat video extras při prohledávání"
+msgstr "Ignorovat bonusová videa při prohledávání"
 
 #. Help for ignore video extras settting
 msgctxt "#40205"
 msgid "Select scanner action for video extras in \"extras\" folder.[CR][Enabled] Scan video extras like regular videos.[CR][Disabled] Add video extras to library for associated video."
-msgstr "Výběr akce prohledávače pro video extras ve složce \"extras\".[CR][Povoleno] Prohledávání video extras jako běžných videí.[CR][Zakázáno] Přidání video extras do knihovny k videu, ke kterému patří."
+msgstr "Vyberte akci prohledávače pro bonusová videa ve složce „extras“.[CR][Povoleno] Prohledávat bonusová videa jako běžná videa.[CR][Zakázáno] Přidat bonusová videa do knihovny k souvisejícímu videu."
 
 # empty strings from id 40206 to 40208
 #. Button label for video assets
 msgctxt "#40209"
 msgid "Assets"
-msgstr ""
+msgstr "Položky"
 
 #. Button label for video versions
 msgctxt "#40210"
@@ -19837,17 +19905,17 @@ msgstr "Verze"
 #. Button label for video extras
 msgctxt "#40211"
 msgid "Extras"
-msgstr "Extras"
+msgstr "Bonusová videa"
 
 #. UPnP remote player volume level sync setting
 msgctxt "#40212"
 msgid "Synchronize volume level to remote UPnP players"
-msgstr "Synchronizovat úrovně hlasitosti se vzdálenými UPnP přehrávači"
+msgstr "Synchronizovat úroveň hlasitosti se vzdálenými UPnP přehrávači"
 
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr "Pokud je zvoleno, úroveň hlasitosti vzdáleného přehrávače se synchronizuje s hlasitostí této aplikace.[CR]Upozornění: Globální úroveň hlasitosti systému může být jiná než úroveň hlasitosti aplikace - jsou ovládána nezávisle.[CR]To může vést k tomu, že vzdálený přehrávač bude nastavený na úroveň hlasitosti 100%, pokud má aplikace úroveň hlasitosti 100%, ale celková úroveň hlasitosti systému je menší."
+msgstr "Pokud je tato volba vybrána, úroveň hlasitosti vzdáleného přehrávače se synchronizuje s hlasitostí této aplikace.[CR]Upozornění: Celková úroveň hlasitosti systému se může lišit od úrovně hlasitosti aplikace, protože se ovládají nezávisle.[CR]Vzdálený přehrávač tak může být nastaven na 100% hlasitost, pokud má aplikace hlasitost 100 %, ale celková hlasitost systému je nižší."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -19867,7 +19935,7 @@ msgstr "Nový typ verze"
 #. Title of the dialog for extra rename action from Extras Manager
 msgctxt "#40218"
 msgid "Choose extra name"
-msgstr "Vyberte název extra"
+msgstr "Vyberte název bonusového videa"
 
 #. Caption of the button to create a new extra name (Extras Manager > Rename)
 msgctxt "#40219"
@@ -19877,13 +19945,13 @@ msgstr "Nový název…"
 #. Caption of the dialog for keyboard entry of a new extra name
 msgctxt "#40220"
 msgid "New extra name"
-msgstr "Nový název extra"
+msgstr "Nový název bonusového videa"
 
 # empty string id 40221 freed in v22
 #. "Create separate versions of the same movie" setting
 msgctxt "#40222"
 msgid "Group the different versions of videos"
-msgstr ""
+msgstr "Seskupovat různé verze videí"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20011,6 +20079,14 @@ msgstr "Potvrdit smazání souboru"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Pokud je povoleno, bude zobrazen potvrzovací dialog pro smazání souboru. Pokud je zakázáno, soubor bude smazán bez potvrzení."
+
+#~ msgctxt "#16315"
+#~ msgid "Lanczos3 - Optimised"
+#~ msgstr "Lanczos3 – Optimalizovaný"
+
+#~ msgctxt "#16323"
+#~ msgid "Spline36 - Optimised"
+#~ msgstr "Spline36 – Optimalizovaný"
 
 #~ msgctxt "#40203"
 #~ msgid "Select scanner action for different video versions.[CR][Enabled] Add different video versions to library seperately without confirmation.[CR][Disabled] Prompt for converting different video versions into additional versions of the original."
