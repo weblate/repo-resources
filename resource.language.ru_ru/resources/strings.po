@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-07-12 16:52+0000\n"
+"PO-Revision-Date: 2026-08-09 11:00+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7.1\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -3396,6 +3396,9 @@ msgctxt "#1023"
 msgid "Browse for new share"
 msgstr "Выберите новый ресурс"
 
+#. Displays a dialog to select movie title(s) for text matching in a smart rule
+#.
+#. Action on DVD/Bluray physical disc insertion - show a browse dialog
 msgctxt "#1024"
 msgid "Browse"
 msgstr "Обзор"
@@ -4094,6 +4097,10 @@ msgstr "местами"
 msgctxt "#1450"
 msgid "Put display to sleep when idle"
 msgstr "Выключать экран во время простоя"
+
+msgctxt "#1451"
+msgid "Restart playback after waking up"
+msgstr "Возобновлять воспроизведение после выхода из спящего режима"
 
 msgctxt "#2050"
 msgid "Runtime"
@@ -5223,6 +5230,10 @@ msgstr "Запретить отключение по неактивности"
 msgctxt "#13018"
 msgid "Allow idle shutdown"
 msgstr "Разрешить отключение по неактивности"
+
+msgctxt "#13019"
+msgid "Mounted optical disc"
+msgstr ""
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
@@ -6427,6 +6438,16 @@ msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Задержка перемотки"
 
+#. Name of a setting to configure the maximum fast-forward speed with smooth/continuous playback
+msgctxt "#13558"
+msgid "Maximum smooth fast-forward speed"
+msgstr "Максимальная скорость плавной перемотки вперёд"
+
+#. Playback speed unit used to format speeds for display ex. 2x, 4x, ...
+msgctxt "#13559"
+msgid "{0:d}x"
+msgstr "{0:d}x"
+
 msgctxt "#13601"
 msgid "Apple TV"
 msgstr "Apple TV"
@@ -6723,6 +6744,10 @@ msgctxt "#14084"
 msgid "Queue songs on selection"
 msgstr "Добавлять треки в очередь при выборе"
 
+msgctxt "#14085"
+msgid "Video disc insert action"
+msgstr ""
+
 msgctxt "#14086"
 msgid "Playback"
 msgstr "Воспроизведение"
@@ -6730,10 +6755,6 @@ msgstr "Воспроизведение"
 msgctxt "#14087"
 msgid "Discs"
 msgstr "Диски"
-
-msgctxt "#14088"
-msgid "Play DVDs automatically"
-msgstr "Воспроизводить DVD автоматически"
 
 #. Subtitle font selection setting
 msgctxt "#14089"
@@ -6771,10 +6792,6 @@ msgstr "Оцифровать"
 msgctxt "#14097"
 msgid "Audio CD insert action"
 msgstr "Действие при вставке CD"
-
-msgctxt "#14098"
-msgid "Play"
-msgstr "Воспроизвести"
 
 msgctxt "#14099"
 msgid "Eject disc when the CD ripping is complete"
@@ -11588,6 +11605,11 @@ msgctxt "#20478"
 msgid "DV profile"
 msgstr "Профиль DV"
 
+#. Used in the smart playlist editor to define a watched mode
+msgctxt "#20479"
+msgid "Watched Mode"
+msgstr "Режим просмотра"
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Показывать скрытые файлы и папки"
@@ -15763,6 +15785,21 @@ msgctxt "#36053"
 msgid "Tuner Device"
 msgstr "Тюнер"
 
+#. Label of CEC setting double_tap_timeout_ms: a repeated identical button press within this many ms is treated as a duplicate and dropped (double-tap dedup). 0 disables it.
+msgctxt "#36054"
+msgid "Remote button double press timeout (ms) (0 = off)"
+msgstr "Задержка двойного нажатия кнопки пульта (мс) (0 = выкл.)"
+
+#. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
+msgctxt "#36055"
+msgid "Always"
+msgstr ""
+
+#. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
+msgctxt "#36056"
+msgid "Unless media is playing"
+msgstr ""
+
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
 msgctxt "#36096"
@@ -16230,11 +16267,6 @@ msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
 msgstr "Этот раздел содержит настройки для DVD, Blu-ray и CD."
 
-#. Description of setting with label #14088 "Play DVDs automatically"
-msgctxt "#36194"
-msgid "Autorun DVD video when inserted in drive."
-msgstr "Автоматический запуск дисков DVD-видео при вставке их в привод."
-
 #. Description of setting with label #21372 "Forced DVD player region"
 msgctxt "#36195"
 msgid "Force a region for DVD playback."
@@ -16621,11 +16653,6 @@ msgstr "Искать эскизы в сетевых папках и на опт�
 msgctxt "#36282"
 msgid "This category contains the settings for how CDs are handled."
 msgstr "Этот раздел содержит настройки для CD."
-
-#. Description of setting with label #14097 "Audio CD Insert Action"
-msgctxt "#36283"
-msgid "Autorun CDs when inserted in drive."
-msgstr "Автоматический запуск CD-диска при его вставке."
 
 #. Description of setting with label #227 "Load audio CD information from online service"
 msgctxt "#36284"
@@ -17271,6 +17298,11 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Информация пока недоступна."
 
+#. Description of setting with label #1451 "Restart playback after waking up"
+msgctxt "#36416"
+msgid "Restarts playback of the last played file when woken up."
+msgstr "Возобновляет воспроизведение последнего файла после выхода системы из спящего режима."
+
 # empty strings from id 36416 to 36417
 #. Description of setting with label #295 "Low latency mode"
 msgctxt "#36418"
@@ -17382,6 +17414,16 @@ msgstr "Любые репозитории"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
 msgstr "Включите автоматическое воспроизведение следующей программы при воспроизведении прошедших программ (вслед за эфиром) или для каналов «Видео по запросу» (ВПЗ). Обратите внимание, что функции «вслед за эфиром»и ВПЗ работают только в том случае, если они поддерживаются поставщиком канала."
+
+#. Description of setting with label #14085 "Video disc insert action"
+msgctxt "#36440"
+msgid "Action to take when a video disc is inserted."
+msgstr ""
+
+#. Description of setting with label #14097 "Audio CD Insert Action"
+msgctxt "#36441"
+msgid "Action to take when an audio CD is inserted."
+msgstr ""
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -18398,6 +18440,11 @@ msgstr "Кэширует весь файл на дисковом накопит�
 msgctxt "#37116"
 msgid "Adaptive"
 msgstr "Адаптивный"
+
+#. Description of setting #13558 Maximum smooth fast-forward speed
+msgctxt "#37117"
+msgid "Cutoff of the analog fast-forward mode that shows every picture. Some hardware may not be able to keep up with the higher demand of the higher speeds."
+msgstr "Порог отключения режима плавной перемотки вперёд, отображающего каждый кадр. Некоторые устройства могут не справляться с высокой нагрузкой при больших скоростях."
 
 # empty strings from id 37116 to 37119
 #. Value of setting - Byte
@@ -19882,6 +19929,11 @@ msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
 msgstr "Назначить плейлист текущей версии фильма?"
 
+#. Different video version found dialog text for blurays
+msgctxt "#40042"
+msgid "Found a different version of the movie \"{0:s}\" in playlist {1:s} of {2:s} - length {3:s}. Would you like to convert it into an additional version of the original?"
+msgstr "Найдена другая версия фильма «{0:s}» в плейлисте {1:s} из {2:s} (длительность: {3:s}). Хотите сделать её дополнительной версией оригинала?"
+
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -19963,6 +20015,46 @@ msgstr "Новое имя дополнительного"
 msgctxt "#40222"
 msgid "Group the different versions of videos"
 msgstr "Группировать различные версии видео"
+
+#. "The newly scanned versions replace the default versions of movies" setting
+msgctxt "#40223"
+msgid "Make the most recent version the default version"
+msgstr "Назначать последнюю версию версией по умолчанию"
+
+#. Help for setting New versions replace the default versions
+msgctxt "#40224"
+msgid "Make the most recently scanned version of a movie the movie's default version.[CR]Helps identify new movie versions as recently added and locate them when the \"Unwatched\" filter of the library is turned on."
+msgstr "Назначает последнюю найденную версию фильма версией по умолчанию.[CR]Помогает определять новые версии как недавно добавленные и находить их при включённом фильтре «Непросмотренные»."
+
+#. Setting to determine when art is retrieved - during or after scrape
+msgctxt "#40225"
+msgid "Retrieve art"
+msgstr "Загрузка иллюстраций"
+
+#. Help for retrieve art during/after scrape setting
+msgctxt "#40226"
+msgid "Determines whether art is retrieved synchronously during scrape or in the background afterwards.[CR][During scrape] Art is retrieved synchronously during scrape. This significantly extends time taken to scrape.[CR][After scrape][Default] Art is retrieved in the background after scrape. Actor thumbnails may take a while to appear."
+msgstr "Определяет, загружаются ли иллюстрации синхронно во время скрапинга или в фоновом режиме после его завершения.[CR][Во время скрапинга] Иллюстрации загружаются синхронно во время скрапинга. Это значительно увеличивает время сканирования.[CR][После скрапинга][По умолчанию] Иллюстрации загружаются в фоновом режиме после скрапинга. Миниатюры актёров могут появиться не сразу."
+
+#. Option for the retrieve art during/after scrape setting
+msgctxt "#40227"
+msgid "During scrape"
+msgstr "Во время скрапинга"
+
+#. Option for the retrieve art during/after scrape setting
+msgctxt "#40228"
+msgid "After scrape"
+msgstr "После скрапинга"
+
+#. "Flatten movie versions" setting
+msgctxt "#40229"
+msgid "Flatten movie versions"
+msgstr ""
+
+#. Help for setting Flatten movie versions
+msgctxt "#40230"
+msgid "Turn on to show individual versions in the movies view, turn off to group them"
+msgstr ""
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20090,6 +20182,27 @@ msgstr "Подтвердить удаление файла"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Если включено, то при удалении файлов будет отображаться диалог подтверждения. Отключено — файлы будут удаляться без подтверждения пользователя."
+
+#. Description of setting with label #246 "Monitor"
+msgctxt "#40803"
+msgid "Monitor change may require restart."
+msgstr ""
+
+#~ msgctxt "#14088"
+#~ msgid "Play DVDs automatically"
+#~ msgstr "Воспроизводить DVD автоматически"
+
+#~ msgctxt "#14098"
+#~ msgid "Play"
+#~ msgstr "Воспроизвести"
+
+#~ msgctxt "#36194"
+#~ msgid "Autorun DVD video when inserted in drive."
+#~ msgstr "Автоматический запуск дисков DVD-видео при вставке их в привод."
+
+#~ msgctxt "#36283"
+#~ msgid "Autorun CDs when inserted in drive."
+#~ msgstr "Автоматический запуск CD-диска при его вставке."
 
 #~ msgctxt "#16315"
 #~ msgid "Lanczos3 - Optimised"

@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 20:39+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-01 12:40+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ga_ie/>\n"
 "Language: ga_ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 # [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
 # [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
@@ -2603,7 +2603,7 @@ msgstr "Cumasaigh logáil comhpháirtea-shonrach"
 
 msgctxt "#667"
 msgid "Enable Dolby Digital transcoding"
-msgstr ""
+msgstr "Cumasaigh traschódú Dolby Digital"
 
 msgctxt "#668"
 msgid "Specify component-specific logging..."
@@ -3447,6 +3447,9 @@ msgctxt "#1023"
 msgid "Browse for new share"
 msgstr "Brabhsáil le haghaidh scair nua"
 
+#. Displays a dialog to select movie title(s) for text matching in a smart rule
+#.
+#. Action on DVD/Bluray physical disc insertion - show a browse dialog
 msgctxt "#1024"
 msgid "Browse"
 msgstr "Brabhsáil"
@@ -4158,6 +4161,10 @@ msgstr "Páirteach"
 msgctxt "#1450"
 msgid "Put display to sleep when idle"
 msgstr "Cuir taispeáint chun codlata nuair a bhíonn"
+
+msgctxt "#1451"
+msgid "Restart playback after waking up"
+msgstr "Atosaigh an athsheinm tar éis múscailt"
 
 # empty strings from id 1451 to 2049
 # strings through to 1470 reserved for power-saving
@@ -5337,6 +5344,10 @@ msgctxt "#13018"
 msgid "Allow idle shutdown"
 msgstr "Lig múchadh díomhaoin"
 
+msgctxt "#13019"
+msgid "Mounted optical disc"
+msgstr ""
+
 # empty string with id 13019
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
@@ -6408,37 +6419,37 @@ msgstr "16 giotán in aghaidh an chainéil"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr ""
+msgstr "2 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr ""
+msgstr "3 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr ""
+msgstr "4 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr ""
+msgstr "5 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr ""
+msgstr "6 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr ""
+msgstr "7 giotán"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr ""
+msgstr "8 giotán"
 
 # empty strings from id 13477 to 13504
 msgctxt "#13505"
@@ -6566,6 +6577,16 @@ msgstr "Scaipeáil céimeanna"
 msgctxt "#13557"
 msgid "Skip delay"
 msgstr "Moill a scipeáil"
+
+#. Name of a setting to configure the maximum fast-forward speed with smooth/continuous playback
+msgctxt "#13558"
+msgid "Maximum smooth fast-forward speed"
+msgstr ""
+
+#. Playback speed unit used to format speeds for display ex. 2x, 4x, ...
+msgctxt "#13559"
+msgid "{0:d}x"
+msgstr ""
 
 msgctxt "#13601"
 msgid "Apple TV"
@@ -6874,6 +6895,10 @@ msgctxt "#14084"
 msgid "Queue songs on selection"
 msgstr "Amhráin scuaine ar roghnú"
 
+msgctxt "#14085"
+msgid "Video disc insert action"
+msgstr ""
+
 # empty string with id 14085
 msgctxt "#14086"
 msgid "Playback"
@@ -6882,10 +6907,6 @@ msgstr "Athsheinm"
 msgctxt "#14087"
 msgid "Discs"
 msgstr "Dioscaí"
-
-msgctxt "#14088"
-msgid "Play DVDs automatically"
-msgstr "Seinn DVDanna go huathoi"
 
 #. Subtitle font selection setting
 msgctxt "#14089"
@@ -6923,10 +6944,6 @@ msgstr "Rois"
 msgctxt "#14097"
 msgid "Audio CD insert action"
 msgstr "Gníomh iontráil CD fuaime"
-
-msgctxt "#14098"
-msgid "Play"
-msgstr "Seinn"
 
 msgctxt "#14099"
 msgid "Eject disc when the CD ripping is complete"
@@ -7865,7 +7882,7 @@ msgstr "Bicúbach (Mitchell)"
 
 msgctxt "#16315"
 msgid "Lanczos3 - Fast"
-msgstr ""
+msgstr "Lanczos3 - Tapa"
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
@@ -7898,7 +7915,7 @@ msgstr "Spline36"
 
 msgctxt "#16323"
 msgid "Spline36 - Fast"
-msgstr ""
+msgstr "Spline36 - Tapa"
 
 msgctxt "#16324"
 msgid "Software - Blend"
@@ -11810,6 +11827,11 @@ msgstr "Ar mhaith leat an phróifíl nua a chruthú in eolaire saincheaptha?"
 #. Used in smart playlists to select items based on the HDR type (HDR10, HLG, Dolbyvision)
 msgctxt "#20478"
 msgid "DV profile"
+msgstr "Próifíl DV"
+
+#. Used in the smart playlist editor to define a watched mode
+msgctxt "#20479"
+msgid "Watched Mode"
 msgstr ""
 
 # empty strings from id 20475 to 21329
@@ -12444,27 +12466,27 @@ msgstr "Síntí comhaid tacaithe agus cineálacha meán"
 #. Used to show Episodes in Video->Files (eg. Episode n)
 msgctxt "#21486"
 msgid "Episode {0:d}"
-msgstr ""
+msgstr "Eipeasóid {0:d}"
 
 #. Used to show Episodes in Video->Files (eg. Episodes m-n)
 msgctxt "#21487"
 msgid "Episodes {0:d}-{1:d}"
-msgstr ""
+msgstr "Eipeasóidí {0:d}-{1:d}"
 
 #. Used to show Episodes in Video->Files (eg. Season x Episode n)
 msgctxt "#21488"
 msgid "Season {0:d} Episode {1:d}"
-msgstr ""
+msgstr "Séasúr {0:d} Eipeasóid {1:d}"
 
 #. Used to show Episodes in Video->Files (eg. Season x Episodes m-n)
 msgctxt "#21489"
 msgid "Season {0:d} Episodes {1:d}-{2:d}"
-msgstr ""
+msgstr "Séasúr {0:d} Eipeasóid {1:d}-{2:d}"
 
 #. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
 msgctxt "#21490"
 msgid "Specials"
-msgstr ""
+msgstr "Speisialtachtaí"
 
 # empty strings from id 21486 to 21601
 msgctxt "#21602"
@@ -13897,17 +13919,17 @@ msgstr "Ní bhfuarthas aon seinmliosta eipeasóid bhailí."
 #. Simple menu is shown only if playlist not identified automatically
 msgctxt "#25018"
 msgid "Automatic menu selection"
-msgstr ""
+msgstr "Roghnú uathoibríoch roghchláir"
 
 #. Bit rate unit of measure for the audio live bit rate info label (bits per second  / 1024)
 msgctxt "#25019"
 msgid "Kb/s"
-msgstr ""
+msgstr "Kb/s"
 
 #. Bit rate unit of measure for the video live bit rate info label (bits per second  / (1024 * 1024))
 msgctxt "#25020"
 msgid "Mb/s"
-msgstr ""
+msgstr "Mb/s"
 
 # empty strings from id 25015 to 29800
 msgctxt "#29801"
@@ -15632,7 +15654,7 @@ msgstr "Sa scaoileadh seo, ní féidir ach rialaitheoirí a úsáid chun cluich�
 #. Label of thumbnail in the in-game menu for normal size with square pixels
 msgctxt "#35237"
 msgid "Square pixels"
-msgstr ""
+msgstr "Picteilíní cearnacha"
 
 #. Label of thumbnail in the in-game menu for integer underscaling
 msgctxt "#35238"
@@ -15642,7 +15664,7 @@ msgstr "Slánuimhir"
 #. Label of thumbnail in the in-game menu for integer underscaling with square pixels
 msgctxt "#35239"
 msgid "Integer (square pixels)"
-msgstr ""
+msgstr "Slánuimhir (picteilíní cearnacha)"
 
 # empty strings from id 35237 to 35248
 #. Button to open the savestate manager from the game OSD
@@ -15756,47 +15778,47 @@ msgstr "Éilíonn an cluiche seo tacaíocht OpenGL le haghaidh rindreáil 3D. T�
 #. Label for the "Disc menu" button to open the Disc Manager when playing a game
 msgctxt "#35272"
 msgid "Disc menu"
-msgstr ""
+msgstr "Roghchlár diosca"
 
 #. Label for showing the disc that is inserted in the game's virtual CD drive
 msgctxt "#35273"
 msgid "Disc selection"
-msgstr ""
+msgstr "Rogha diosca"
 
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr ""
+msgstr "Gan diosca"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
 msgid "Eject"
-msgstr ""
+msgstr "Díbirt"
 
 #. Label for the button that inserts the disc (closes the disc tray) for a game's virtual CD drive
 msgctxt "#35276"
 msgid "Insert"
-msgstr ""
+msgstr "Cuir isteach"
 
 #. Label for the button that resumes playing the current game. Called from the in-game menu.
 msgctxt "#35277"
 msgid "Resume game"
-msgstr ""
+msgstr "Lean ar aghaidh leis an gcluiche"
 
 #. Error message shown when the disc can't be ejected for a game's virtual CD drive
 msgctxt "#35278"
 msgid "The disc can't be ejected right now."
-msgstr ""
+msgstr "Ní féidir an diosca a dhíbirt faoi láthair."
 
 #. Error message shown when the disc can't be inserted (closing the disc tray) for a game's virtual CD drive
 msgctxt "#35279"
 msgid "The disc can't be inserted right now."
-msgstr ""
+msgstr "Ní féidir an diosca a chur isteach faoi láthair."
 
 #. Title of the dialog to select a new disc image for a game's virtual CD drive
 msgctxt "#35280"
 msgid "Select disc"
-msgstr ""
+msgstr "Roghnaigh diosca"
 
 # empty strings from id 35272 to 35504
 #. connection state "host unreachable"
@@ -16046,6 +16068,21 @@ msgstr "Gléas athsheinm"
 msgctxt "#36053"
 msgid "Tuner Device"
 msgstr "Gléas Tiúnóir"
+
+#. Label of CEC setting double_tap_timeout_ms: a repeated identical button press within this many ms is treated as a duplicate and dropped (double-tap dedup). 0 disables it.
+msgctxt "#36054"
+msgid "Remote button double press timeout (ms) (0 = off)"
+msgstr "Am scoir brú faoi dhó ar an gcnaipe cianda (ms) (0 = múchta)"
+
+#. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
+msgctxt "#36055"
+msgid "Always"
+msgstr ""
+
+#. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
+msgctxt "#36056"
+msgid "Unless media is playing"
+msgstr ""
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -16516,11 +16553,6 @@ msgctxt "#36193"
 msgid "This category contains the settings for how DVD's, Blu-ray, & CD's are handled."
 msgstr "Tá na socruithe sa chatagóir seo don chaoi a láimhseáiltear DVDanna, Blu-ray, & CDanna."
 
-#. Description of setting with label #14088 "Play DVDs automatically"
-msgctxt "#36194"
-msgid "Autorun DVD video when inserted in drive."
-msgstr "Físeán DVD Autorun nuair a chuirtear isteach sa tiomáint."
-
 #. Description of setting with label #21372 "Forced DVD player region"
 msgctxt "#36195"
 msgid "Force a region for DVD playback."
@@ -16907,11 +16939,6 @@ msgstr "Cuardaigh ordaí ar scaireanna iargúlta agus ar na meáin optúla. Is m
 msgctxt "#36282"
 msgid "This category contains the settings for how CDs are handled."
 msgstr "Sa chatagóir seo tá na socruithe don chaoi a láimhseáiltear dlúthdhioscaí."
-
-#. Description of setting with label #14097 "Audio CD Insert Action"
-msgctxt "#36283"
-msgid "Autorun CDs when inserted in drive."
-msgstr "Dlúthdhioscaí Autorun nuair a chuirtear isteach sa tiomántán iad."
 
 #. Description of setting with label #227 "Load audio CD information from online service"
 msgctxt "#36284"
@@ -17557,6 +17584,11 @@ msgctxt "#36415"
 msgid "No info available yet."
 msgstr "Níl aon eolas ar fáil fós."
 
+#. Description of setting with label #1451 "Restart playback after waking up"
+msgctxt "#36416"
+msgid "Restarts playback of the last played file when woken up."
+msgstr "Atosaíonn sé athsheinm an chomhaid dheireanaigh a seinneadh nuair a dhúisítear é."
+
 # empty strings from id 36416 to 36417
 #. Description of setting with label #295 "Low latency mode"
 msgctxt "#36418"
@@ -17614,7 +17646,7 @@ msgstr "Taifead"
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr ""
+msgstr "Roghnaigh é seo mura dtacaíonn an nasc aschuir fuaime ach le fuaim ilchainéil mar Dolby Digital 5.1 (AC-3), amhail nasc S/PDIF. Nuair a bhíonn pas-trí E-AC3 cumasaithe freisin, úsáidtear Dolby Digital Plus (E-AC3) le haghaidh caighdeán níos airde. Má thacaíonn do chóras le fuaim ilchainéil PCM trí HDMI, fág é seo díchumasaithe."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -17667,6 +17699,16 @@ msgstr "Aon stórais"
 msgctxt "#36439"
 msgid "Enable automatic playback of the next programme when playing past programmes (catchup) or for Video On Demand (VOD) channels. Please note that catchup and VOD only work if supported by the channel provider."
 msgstr "Cumasaigh athsheinm uathoibríoch an chéad chláir eile agus tú ag imirt cláir roimhe seo (catchup) nó le haghaidh cainéil Video On Éileamh (VOD). Tabhair faoi deara le do thoil nach n-oibríonn catchup agus VOD ach amháin má thacaíonn soláthraí an chainéil leo."
+
+#. Description of setting with label #14085 "Video disc insert action"
+msgctxt "#36440"
+msgid "Action to take when a video disc is inserted."
+msgstr ""
+
+#. Description of setting with label #14097 "Audio CD Insert Action"
+msgctxt "#36441"
+msgid "Action to take when an audio CD is inserted."
+msgstr ""
 
 # empty strings from id 36440 to 36441
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
@@ -18115,7 +18157,7 @@ msgstr "Deireadh a chur le bandáil de bharr comhshó leibhéal RGB nó próise�
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr ""
+msgstr "Cruinneas aschuir díthering físe i ngiotáin. Cumasaíonn uathoibríoch díthering ach amháin nuair is tairbheach é (mí-oiriúnacht teoranta/raoin iomlán, laghdú doimhneachta giotán, ísliú scála, nó mapáil toin HDR) agus úsáideann sé doimhneacht 8 nó 10 ngiotán bunaithe ar a dtacaíonn an taispeáint leis. Tá socruithe níos ísle ar fáil chun críocha tástála amháin."
 
 # reserved strings 365XX
 #. Description of settings category with label #14022 "Library"
@@ -18700,6 +18742,11 @@ msgstr "Coscann comhad iomlán ar stóráil diosca"
 msgctxt "#37116"
 msgid "Adaptive"
 msgstr "Oiriúnaithe"
+
+#. Description of setting #13558 Maximum smooth fast-forward speed
+msgctxt "#37117"
+msgid "Cutoff of the analog fast-forward mode that shows every picture. Some hardware may not be able to keep up with the higher demand of the higher speeds."
+msgstr ""
 
 # empty strings from id 37117 to 37119
 #. Value of setting - Byte
@@ -19951,33 +19998,33 @@ msgstr "Má tá sé cumasaithe, déanfar meiteashonraí leibhéal 5 (limistéar 
 #. STR_LIST_AND_TWO
 msgctxt "#39900"
 msgid "{0} and {1}"
-msgstr ""
+msgstr "{0} agus {1}"
 
 #. List formatting: pattern used to join the first item to the rest of a list of three or more items, e.g. "A" + "B, and C" -> "A, B, and C"
 #. Note the "B, and C" is used here as an example - the actual formatting of the last two item(s) of a list of three of more is determined by STR_LIST_AND_END
 #. STR_LIST_AND_START
 msgctxt "#39901"
 msgid "{0}, {1}"
-msgstr ""
+msgstr "{0}, {1}"
 
 #. List formatting: pattern used to join an already-combined partial list to the next item, for the interior items of a list of four or more, e.g. "A, B" + "C" -> "A, B, C"
 #. STR_LIST_AND_MIDDLE
 msgctxt "#39902"
 msgid "{0}, {1}"
-msgstr ""
+msgstr "{0}, {1}"
 
 #. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, and C"
 #. STR_LIST_AND_END
 msgctxt "#39903"
 msgid "{0}, and {1}"
-msgstr ""
+msgstr "{0}, agus {1}"
 
 # 39904 to 39909 are reserved for language formatting
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A or B"
 #. STR_LIST_OR_TWO
 msgctxt "#39910"
 msgid "{0} or {1}"
-msgstr ""
+msgstr "{0} nó {1}"
 
 #. List formatting: pattern used to join the already-combined partial list to the final item in a list of three or more items, e.g. "A, B" + "C" -> "A, B, or C"
 #. Note: the "or"-type list uses only TWO and END patterns; the START and MIDDLE joins for lists of three or more still use the AND-type comma pattern 
@@ -19985,7 +20032,7 @@ msgstr ""
 #. STR_LIST_OR_END
 msgctxt "#39911"
 msgid "{0}, or {1}"
-msgstr ""
+msgstr "{0}, nó {1}"
 
 # empty strings from id 39206 to 39999
 # 40000 to 40800 are reserved for Video Versions feature
@@ -20200,6 +20247,11 @@ msgctxt "#40041"
 msgid "Assign playlist to current movie version?"
 msgstr "Sannadh seinmliosta don leagan reatha den scannán?"
 
+#. Different video version found dialog text for blurays
+msgctxt "#40042"
+msgid "Found a different version of the movie \"{0:s}\" in playlist {1:s} of {2:s} - length {3:s}. Would you like to convert it into an additional version of the original?"
+msgstr ""
+
 #. Ignore different video versions settting
 msgctxt "#40202"
 msgid "Ignore different video versions on scan"
@@ -20208,7 +20260,7 @@ msgstr "Déan neamhaird ar leaganacha éagsúla fí"
 #. Help for Ignore different video versions settting
 msgctxt "#40203"
 msgid "Select the scanner action for different versions of a video.[CR][Off] Add versions of a video to the library as separate entries.[CR][Ask] Prompt if different versions should be added separately or grouped with the original.[CR][Auto] Automatically create and group the additional versions with the original."
-msgstr ""
+msgstr "Roghnaigh an gníomh scanóra le haghaidh leaganacha éagsúla de fhíseán.[CR][As] Cuir leaganacha de fhíseán leis an leabharlann mar iontrálacha ar leithligh.[CR][Iarr] Fiafraigh an bhfuil leaganacha éagsúla le cur leis ar leithligh nó le grúpáil leis an mbunleagan.[CR][Uathoibríoch] Cruthaigh agus grúpáil na leaganacha breise leis an mbunleagan go huathoibríoch."
 
 #. Ignore video extras settting
 msgctxt "#40204"
@@ -20280,6 +20332,46 @@ msgstr "Ainm breise nua"
 #. "Create separate versions of the same movie" setting
 msgctxt "#40222"
 msgid "Group the different versions of videos"
+msgstr "Grúpáil na leaganacha éagsúla de fhíseáin"
+
+#. "The newly scanned versions replace the default versions of movies" setting
+msgctxt "#40223"
+msgid "Make the most recent version the default version"
+msgstr ""
+
+#. Help for setting New versions replace the default versions
+msgctxt "#40224"
+msgid "Make the most recently scanned version of a movie the movie's default version.[CR]Helps identify new movie versions as recently added and locate them when the \"Unwatched\" filter of the library is turned on."
+msgstr ""
+
+#. Setting to determine when art is retrieved - during or after scrape
+msgctxt "#40225"
+msgid "Retrieve art"
+msgstr ""
+
+#. Help for retrieve art during/after scrape setting
+msgctxt "#40226"
+msgid "Determines whether art is retrieved synchronously during scrape or in the background afterwards.[CR][During scrape] Art is retrieved synchronously during scrape. This significantly extends time taken to scrape.[CR][After scrape][Default] Art is retrieved in the background after scrape. Actor thumbnails may take a while to appear."
+msgstr ""
+
+#. Option for the retrieve art during/after scrape setting
+msgctxt "#40227"
+msgid "During scrape"
+msgstr ""
+
+#. Option for the retrieve art during/after scrape setting
+msgctxt "#40228"
+msgid "After scrape"
+msgstr ""
+
+#. "Flatten movie versions" setting
+msgctxt "#40229"
+msgid "Flatten movie versions"
+msgstr ""
+
+#. Help for setting Flatten movie versions
+msgctxt "#40230"
+msgid "Turn on to show individual versions in the movies view, turn off to group them"
 msgstr ""
 
 # empty strings from id 40222 to 40399
@@ -20411,6 +20503,27 @@ msgstr "Deimhnigh scriosadh comhad"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
 msgstr "Má tá sé cumasaithe, taispeánfar dialóg deimhnithe nuair a scriosfar comhaid. Má dhíchumasaítear iad, scriosfar comhaid gan deimhniú úsáideora."
+
+#. Description of setting with label #246 "Monitor"
+msgctxt "#40803"
+msgid "Monitor change may require restart."
+msgstr ""
+
+#~ msgctxt "#14088"
+#~ msgid "Play DVDs automatically"
+#~ msgstr "Seinn DVDanna go huathoi"
+
+#~ msgctxt "#14098"
+#~ msgid "Play"
+#~ msgstr "Seinn"
+
+#~ msgctxt "#36194"
+#~ msgid "Autorun DVD video when inserted in drive."
+#~ msgstr "Físeán DVD Autorun nuair a chuirtear isteach sa tiomáint."
+
+#~ msgctxt "#36283"
+#~ msgid "Autorun CDs when inserted in drive."
+#~ msgstr "Dlúthdhioscaí Autorun nuair a chuirtear isteach sa tiomántán iad."
 
 #~ msgctxt "#16315"
 #~ msgid "Lanczos3 - Optimised"
