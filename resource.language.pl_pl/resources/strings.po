@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-11 22:28+0000\n"
+"PO-Revision-Date: 2026-08-13 06:08+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -15792,12 +15792,12 @@ msgstr "Limit czasu dwukrotnego naciśnięcia przycisku pilota (ms) (0 = wyłąc
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Zawsze"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "Chyba że odtwarzane są multimedia"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"

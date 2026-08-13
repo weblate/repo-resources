@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-11 13:44+0000\n"
+"PO-Revision-Date: 2026-08-13 18:09+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -905,7 +905,7 @@ msgstr "Fenster"
 
 msgctxt "#243"
 msgid "Refresh rate"
-msgstr "Bildwiederholrate"
+msgstr "Bildrate"
 
 msgctxt "#244"
 msgid "Full screen"
@@ -1297,7 +1297,7 @@ msgstr "Start"
 
 msgctxt "#336"
 msgid "Framerate conversion"
-msgstr "Bildwiederholrate konvertieren"
+msgstr "Bildratenumwandlung"
 
 msgctxt "#337"
 msgid "Output configuration"
@@ -1325,7 +1325,7 @@ msgstr "Filme"
 
 msgctxt "#343"
 msgid "Adjust framerate"
-msgstr "Bildwiederholrate anpassen"
+msgstr "Bildrate anpassen"
 
 msgctxt "#344"
 msgid "Actors"
@@ -6278,37 +6278,37 @@ msgstr "16 Bits pro Kanal"
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13477"
 msgid "2 bit"
-msgstr "2 bit"
+msgstr "2 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13478"
 msgid "3 bit"
-msgstr "3 bit"
+msgstr "3 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13479"
 msgid "4 bit"
-msgstr "4 bit"
+msgstr "4 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13480"
 msgid "5 bit"
-msgstr "5 bit"
+msgstr "5 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13481"
 msgid "6 bit"
-msgstr "6 bit"
+msgstr "6 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13482"
 msgid "7 bit"
-msgstr "7 bit"
+msgstr "7 Bit"
 
 #. Value of setting with label #36100 "Dither depth"
 msgctxt "#13483"
 msgid "8 bit"
-msgstr "8 bit"
+msgstr "8 Bit"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -6402,7 +6402,7 @@ msgstr "Wenn aktiviert, wird das Jahr des Originalveröffentlichungsdatums anste
 
 msgctxt "#13550"
 msgid "Delay after change of refresh rate"
-msgstr "Verzögerung nach Änderung der Bildwiederholrate"
+msgstr "Verzögerung nach Änderung der Bildrate"
 
 #. value for setting 'Create versions for similar videos'
 msgctxt "#13551"
@@ -6922,11 +6922,11 @@ msgstr "Erlaubte Auflösungen"
 
 msgctxt "#14127"
 msgid "Allow 3:2 pulldown refresh rates"
-msgstr "3:2-Pulldown-Bildwiederholraten erlauben"
+msgstr "3:2-Pulldown-Bildraten erlauben"
 
 msgctxt "#14128"
 msgid "Allow double refresh rates"
-msgstr "Bildwiederholratenverdopplung erlauben"
+msgstr "Bildratenverdopplung erlauben"
 
 # empty strings from id 14129 to 14186
 msgctxt "#14187"
@@ -8328,7 +8328,7 @@ msgstr "um"
 #. label for PVR settings "tv fallback framerate" (in Hz) selector
 msgctxt "#19108"
 msgid "Fallback framerate"
-msgstr "Ersatzbildwiederholrate"
+msgstr "Ersatzbildrate"
 
 #. message box text stating that a timer could not be saved
 msgctxt "#19109"
@@ -9582,7 +9582,7 @@ msgstr "Comedy"
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19505"
 msgid "Soap / Melodrama / Folkloric"
-msgstr "Soap / Melodrama / Folkore"
+msgstr "Soap / Melodrama / Folklore"
 
 #. label for epg "movie/drama" subgenre value
 msgctxt "#19506"
@@ -9737,7 +9737,7 @@ msgstr "Zeichentrick / Puppentheater"
 #. label for "music/ballet/dance" epg genre value
 msgctxt "#19580"
 msgid "Music / Ballet / Dance"
-msgstr "Musik / Ballet / Tanz"
+msgstr "Musik / Ballett / Tanz"
 
 #. label for "music/ballet/dance" epg subgenre value
 msgctxt "#19581"
@@ -9982,7 +9982,7 @@ msgstr "Comedy"
 #. label for "user defined" epg subgenre value
 msgctxt "#19681"
 msgid "Soap / Melodrama / Folkloric"
-msgstr "Soap / Melodrama / Folkore"
+msgstr "Soap / Melodrama / Folklore"
 
 #. label for "user defined" epg subgenre value
 msgctxt "#19682"
@@ -10842,7 +10842,7 @@ msgstr "Windows Videobibliothek"
 
 msgctxt "#20247"
 msgid "Windows pictures library"
-msgstr "Windows Bildberibliothek"
+msgstr "Windows Bildbibliothek"
 
 msgctxt "#20248"
 msgid "Windows photos library"
@@ -13539,7 +13539,7 @@ msgstr "Minimal: {0:s} / Nicht verfügbar{3:s}"
 #. Progress text on splash screen
 msgctxt "#24186"
 msgid "Connecting to database - please wait"
-msgstr "Verbinden zu Dankenbank - bitte warten"
+msgstr "Verbinden zu Datenbank - bitte warten"
 
 #. Error text on splash screen
 msgctxt "#24187"
@@ -15204,7 +15204,7 @@ msgstr "Rücklauf aktivieren (falls unterstützt)"
 
 msgctxt "#35204"
 msgid "Enable real-time rewinding during game play, if supported. Press rewind or manually seek backwards using the seek bar."
-msgstr "Echtzeit-Rückspulen wärend des Spielens aktivieren, falls unterstützt. „Zurück“ drücken oder die Suchleiste verwenden, um manuell zurückzuspulen."
+msgstr "Echtzeit-Rückspulen während des Spielens aktivieren, falls unterstützt. „Zurück“ drücken oder die Suchleiste verwenden, um manuell zurückzuspulen."
 
 msgctxt "#35205"
 msgid "Maximum rewind time"
@@ -15784,12 +15784,12 @@ msgstr "Timeout für doppelten Tastendruck der Fernbedienung (ms) (0 = aus)"
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Immer"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "Wenn keine Medienwiedergabe"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -15807,7 +15807,7 @@ msgstr "Maximale Leuchtdichte der GUI im HDR-PQ-Modus"
 #. Label of setting "System / Display / Use 10 bit for SDR"
 msgctxt "#36098"
 msgid "Use 10 bit for SDR"
-msgstr "10 bit für HDR verwenden"
+msgstr "10 Bit für SDR verwenden"
 
 msgctxt "#36099"
 msgid "Dithering"
@@ -16117,7 +16117,7 @@ msgstr "Erlaubt die Anpassung der Bildwiederholrate des Bildschirms an die Bildw
 #. Description of setting with label #13550 "Delay after change of refresh rate"
 msgctxt "#36165"
 msgid "Delay of reset event after a change of refresh rate"
-msgstr "Verzögerung nach Änderung der Bildwiederholrate"
+msgstr "Verzögerung nach Änderung der Bildrate"
 
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
@@ -16299,7 +16299,7 @@ msgstr "Aktiviert den „Personal Video Recorder“ (PVR). Dafür muss mindesten
 #. Description of setting with label #22076 "Default play action"
 msgctxt "#36204"
 msgid "Toggle between [Ask if resumable] (default), [Resume] and [Play from beginning].[CR][Ask if resumable] will ask whether to play from beginning or to resume (if a resume point is present).[CR][Resume] will automatically resume playback from the last position that you were viewing them. If no resume point is set, playback will automatically start from the beginning.[CR][Play from beginning] will automatically start playback from beginning, ignoring any existing resume positions."
-msgstr "Wahl zwischen [Fragen, wenn fortsetzbar] (Standard), [Fortsetzen] und [Von Anfang an wiedergeben].[CR][Fragen, wenn fortsetzbar] wird nachfragen, ob die Wiedergabe fortgesetzt oder von Anfang an erfolgen soll (wenn eine Wiedergabeposition gespeichert ist).[CR][Fortsetzen] wird die Videowiedergabe automatisch da fortsetzen, wo sie zuletzt beendet wurde. Wenn keine Wiedergabeposition vorhanden ist, wird das Video automatisch von Anfang an widergegeben.[CR][Von Anfang an wiedergeben] wird automatisch die Wiedergabe am Anfang des Videos starten. Existierende Wiedergabepositionen werden dabei ignoriert."
+msgstr "Wahl zwischen [Fragen, wenn fortsetzbar] (Standard), [Fortsetzen] und [Von Anfang an wiedergeben].[CR][Fragen, wenn fortsetzbar] wird nachfragen, ob die Wiedergabe fortgesetzt oder von Anfang an erfolgen soll (wenn eine Wiedergabeposition gespeichert ist).[CR][Fortsetzen] wird die Videowiedergabe automatisch da fortsetzen, wo sie zuletzt beendet wurde. Wenn keine Wiedergabeposition vorhanden ist, wird das Video automatisch von Anfang an wiedergegeben.[CR][Von Anfang an wiedergeben] wird automatisch die Wiedergabe am Anfang des Videos starten. Existierende Wiedergabepositionen werden dabei ignoriert."
 
 msgctxt "#36205"
 msgid "Sort the channels by channel number from the backend, but use local numbering for channels."
@@ -16578,7 +16578,7 @@ msgstr "Referenzlautstärke (PreAmp level) für Dateien mit eingebetteten Replay
 #. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
 msgctxt "#36269"
 msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Referenzlautsärke (PreAmp level) für Dateien ohne eingebettete ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
+msgstr "Referenzlautstärke (PreAmp level) für Dateien ohne eingebettete ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
@@ -16603,7 +16603,7 @@ msgstr "Die Visualisierung festlegen, die während der Musikwiedergabe angezeigt
 #. Description of setting with label #39125 "Enable tag reading in file view"
 msgctxt "#36274"
 msgid "When browsing music files in file view read the tags of those not in the music library as you go. This can make large directories slow to display, especially over a network."
-msgstr "Beim Blättern durch Musikdateilisten in der Dateiansicht, Tags von nicht in der Datenbank befindlichen Dateien lesen. Dies kann die Anzeige von großen Listen verlangsamen, inbesondere über Netzwerk."
+msgstr "Beim Blättern durch Musikdateilisten in der Dateiansicht, Tags von nicht in der Datenbank befindlichen Dateien lesen. Dies kann die Anzeige von großen Listen verlangsamen, insbesondere über Netzwerk."
 
 #. Description of setting with label #13307 "Track naming template" for musicfiles.trackformat
 msgctxt "#36275"
@@ -16851,12 +16851,12 @@ msgstr "Aktiviert den UPnP-Client. Dies ermöglicht, Medien von beliebigen UPnP-
 #. Description of setting with label #21361 "Look for remote UPnP players"
 msgctxt "#36326"
 msgid "Enable the UPnP control point. This allows you to stream media to any UPnP client and control its playback."
-msgstr "Aktiviert den UPnP Control Point. Dies erlaubt, Medien zu beliebigen UPnP-Clients zu streamen und deren Wiedergabe zu steueren."
+msgstr "Aktiviert den UPnP Control Point. Dies erlaubt, Medien zu beliebigen UPnP-Clients zu streamen und deren Wiedergabe zu steuern."
 
 #. Description of settings category with label #20187 "Control"
 msgctxt "#36327"
 msgid "This category contains the settings for how the web server service and the application control service is handled."
-msgstr "Diese Kategorie enthält Einstellungen für den Webserverdienst und den Anwendungsteuerungsdienst."
+msgstr "Diese Kategorie enthält Einstellungen für den Webserverdienst und den Anwendungssteuerungsdienst."
 
 #. Description of setting with label #263 "Allow remote control via HTTP"
 msgctxt "#36328"
@@ -17301,7 +17301,7 @@ msgid ""
 "Reduces audio processing latency. Improves playback start, unpause and seek (the audio returns sooner).\n"
 "You can disable this setting if you experience audio issues."
 msgstr ""
-"Verringert die Latenz für das Verabeiten von Audiodaten. Verbessert Wiedergabestart, Fortsetzen nach Pause und Suchen (die Audiodaten sind früher verfügbar).\n"
+"Verringert die Latenz für das Verarbeiten von Audiodaten. Verbessert Wiedergabestart, Fortsetzen nach Pause und Suchen (die Audiodaten sind früher verfügbar).\n"
 "Deaktivieren, falls Probleme mit dem Ton auftreten."
 
 #. Description of setting with label #21417 "Settings"
@@ -17847,12 +17847,12 @@ msgstr "{0:1.2f}"
 #. Description of setting with label #36099 "Dither"
 msgctxt "#36598"
 msgid "Eliminate banding caused by RGB level conversion or other processing by adding a small amount of noise to the picture. This can be disabled for slower systems, or when Kodi is set to limited range RGB output and no video processing is needed."
-msgstr "Die von der RGB-Level-Umwandlung oder anderen Nachbearbeitungen verursachten Banding-Effekte durch Hinzufügen von etwas Bildrauschen unterdrücken. Dies kann für langsamere Systeme deaktiviert werden oder wenn Kodi auf eingeschränke RGB-Ausgabe eingestellt ist und keine Videonachbearbeitung erfolgen muss."
+msgstr "Die von der RGB-Level-Umwandlung oder anderen Nachbearbeitungen verursachten Banding-Effekte durch Hinzufügen von etwas Bildrauschen unterdrücken. Dies kann für langsamere Systeme deaktiviert werden oder wenn Kodi auf eingeschränkte RGB-Ausgabe eingestellt ist und keine Videonachbearbeitung erfolgen muss."
 
 #. Description of setting with label #36100 "Dither depth"
 msgctxt "#36599"
 msgid "Video dithering output precision in bits. Auto enables dithering only when beneficial (limited- / full-range mismatch, bit depth reduction, downscaling, or HDR tone mapping) and uses 8- or 10-bit depth based on what the display supports. Lower settings are available for testing purposes only."
-msgstr "Präzision der Video-Dithering-Ausgabe in bits. ‚Auto‘ schaltet Dithering nur ein, wenn es Vorteile bringt (Mismatch eingeschränkter/voller Farbraum, Bittiefenreduktion, Downscaling, oder HDR Tone Mapping) und verwendet 8 oder 10 bit Tiefe, basierend auf den Eingeschaften des Bildschirms. Geringere Werte sind nur für Testzwecke verfügbar."
+msgstr "Präzision der Video-Dithering-Ausgabe in Bit. ‚Auto‘ schaltet Dithering nur ein, wenn es Vorteile bringt (Mismatch eingeschränkter/voller Farbraum, Bittiefenreduktion, Downscaling, oder HDR Tone Mapping) und verwendet 8 oder 10 Bit Tiefe, basierend auf den Eigenschaften des Bildschirms. Geringere Werte sind nur für Testzwecke verfügbar."
 
 #. Description of settings category with label #14022 "Library"
 msgctxt "#36600"
@@ -18380,7 +18380,7 @@ msgstr "Speichergröße"
 #. Description of setting #37105 "Memory Size"
 msgctxt "#37106"
 msgid "The size of the memory buffer in Mbytes. Setting zero (0) forces buffering to disk, which is not recommend on flash storage devices (eMMC, SD cards, SSD)."
-msgstr "Größe des Speicherpuffers in Mbytes. Ein Wert von Null (0) erzwingt puffern auf Disk, was für Flash-Speichermedien (eMMC, SD-Karten, SSD) nicht zu empfehlen ist."
+msgstr "Größe des Speicherpuffers in MByte. Ein Wert von Null (0) erzwingt puffern auf Disk, was für Flash-Speichermedien (eMMC, SD-Karten, SSD) nicht zu empfehlen ist."
 
 #. Setting #37107 "Read Factor"
 msgctxt "#37107"
@@ -18390,7 +18390,7 @@ msgstr "Lesefaktor"
 #. Description of setting #37107 "Read Factor"
 msgctxt "#37108"
 msgid "Determines cache fill rate in terms of avg. bitrate of stream x Read Factor. Increasing this multiple, cache fills faster. Large multiples may cause CPU spikes on some devices, saturate the connection and worsen performance.[CR][Adaptive] Uses dynamically calculated Read Factor based on cache level."
-msgstr "Ermittelt die Cache-Füllrate als durchnittliche Streambitrate x Lesefaktor. Erhöhung des Multiplikators führt zu schnellerem Füllen des Caches. Große Multiplikatoren können CPU-Lastspitzen auf einigen Geräten erzeugen, die Netzwerkbandbreite absättigen und die Performance verschlechtern.[CR][Adaptiv] Verwendet einen dynamisch berechneten, auf dem Cache-Füllstand basierenden Lesefaktor."
+msgstr "Ermittelt die Cache-Füllrate als durchschnittliche Streambitrate x Lesefaktor. Erhöhung des Multiplikators führt zu schnellerem Füllen des Caches. Große Multiplikatoren können CPU-Lastspitzen auf einigen Geräten erzeugen, die Netzwerkbandbreite absättigen und die Performance verschlechtern.[CR][Adaptiv] Verwendet einen dynamisch berechneten, auf dem Cache-Füllstand basierenden Lesefaktor."
 
 #. Description of setting "Chunk Size"
 msgctxt "#37109"
@@ -19966,7 +19966,7 @@ msgstr "Lautstärkepegel mit Netzwerk-UPnP-Playern synchronisieren"
 #. Help string for UPnP remote player volume level sync setting
 msgctxt "#40213"
 msgid "If selected the remote player volume level will be synchronized with the volume of this application.[CR]Warning: Global system volume level may be different than the application volume level - they are controlled independently.[CR]This may lead the remote player to be set to 100% volume level if the application has 100% volume level but the overall system volume level is smaller."
-msgstr "Wenn ausgewählt, wird der Laustärkepegel des Netzwerk-Players mit dem Pegel dieser Applikation synchronisiert.[CR]Warnung: Der Laustärkepegel des Systems kann anders sein als der Pegel der Applikation, da sie unabhängig voneinander gesteuert werden.[CR]Das kann dazu führen, dass der Netzwerk-Player auf 100% Lautstärkepegel gesetzt wird, wenn der Pegel der Applikation 100% ist, aber der Systemlautstärkepegel kann geringer sein."
+msgstr "Wenn ausgewählt, wird der Lautstärkepegel des Netzwerk-Players mit dem Pegel dieser Applikation synchronisiert.[CR]Warnung: Der Lautstärkepegel des Systems kann anders sein als der Pegel der Applikation, da sie unabhängig voneinander gesteuert werden.[CR]Das kann dazu führen, dass der Netzwerk-Player auf 100% Lautstärkepegel gesetzt wird, wenn der Pegel der Applikation 100% ist, aber der Systemlautstärkepegel kann geringer sein."
 
 #. Title of the dialog for version rename action from Versions Manager
 msgctxt "#40215"
@@ -20037,12 +20037,12 @@ msgstr "Nach dem Auslesen"
 #. "Flatten movie versions" setting
 msgctxt "#40229"
 msgid "Flatten movie versions"
-msgstr ""
+msgstr "Filmversionen reduzieren"
 
 #. Help for setting Flatten movie versions
 msgctxt "#40230"
 msgid "Turn on to show individual versions in the movies view, turn off to group them"
-msgstr ""
+msgstr "Wenn aktiviert, werden die einzelnen Versionen in der Filmansicht angezeigt. Wenn deaktiviert, werden sie gruppiert."
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20169,12 +20169,12 @@ msgstr "Löschen von Dateien bestätigen"
 #. Description of setting with label #40801 "Confirm file deletion"
 msgctxt "#40802"
 msgid "If enabled, a confirmation dialog will be displayed when files shall be deleted. If disabled, files will be deleted without user confirmation."
-msgstr "Wenn altiviert, wird ein Bestätigungsdialog angezeigt, wenn Dateien gelöscht werden sollen. Wenn dektiviert, werden Dateien ohne vorherige Nachfrage gelöscht."
+msgstr "Wenn aktiviert, wird ein Bestätigungsdialog angezeigt, wenn Dateien gelöscht werden sollen. Wenn deaktiviert, werden Dateien ohne vorherige Nachfrage gelöscht."
 
 #. Description of setting with label #246 "Monitor"
 msgctxt "#40803"
 msgid "Monitor change may require restart."
-msgstr ""
+msgstr "Nach dem Ändern des Bildschirms ist möglicherweise ein Neustart erforderlich."
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"

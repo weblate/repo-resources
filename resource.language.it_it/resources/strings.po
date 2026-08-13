@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-11 13:44+0000\n"
+"PO-Revision-Date: 2026-08-13 06:08+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -15784,12 +15784,12 @@ msgstr "Timeout per doppia pressione del pulsante remoto (ms) (0 = disattivato)"
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Sempre"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "A meno che i media non siano in riproduzione"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -20037,12 +20037,12 @@ msgstr "Dopo lo scraping"
 #. "Flatten movie versions" setting
 msgctxt "#40229"
 msgid "Flatten movie versions"
-msgstr ""
+msgstr "Appiattisci versioni film"
 
 #. Help for setting Flatten movie versions
 msgctxt "#40230"
 msgid "Turn on to show individual versions in the movies view, turn off to group them"
-msgstr ""
+msgstr "Attiva questa opzione per visualizzare le singole versioni nella vista film, disattivala per raggrupparle"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20174,7 +20174,7 @@ msgstr "Se abilitato, verrà visualizzata una finestra di dialogo di conferma qu
 #. Description of setting with label #246 "Monitor"
 msgctxt "#40803"
 msgid "Monitor change may require restart."
-msgstr ""
+msgstr "La modifica del monitor potrebbe richiedere il riavvio."
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"

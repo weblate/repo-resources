@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-11 22:28+0000\n"
+"PO-Revision-Date: 2026-08-13 06:08+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15785,12 +15785,12 @@ msgstr "Časový limit dvojitého stisknutí tlačítka dálkového ovladače (m
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Vždy"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "Pokud se nepřehrává žádné médium"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
