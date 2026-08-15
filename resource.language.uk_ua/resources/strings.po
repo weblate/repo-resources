@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-09 11:00+0000\n"
+"PO-Revision-Date: 2026-08-13 06:08+0000\n"
 "Last-Translator: Pavlo Marianov <acid@jack.kyiv.ua>\n"
 "Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/uk_ua/>\n"
 "Language: uk_ua\n"
@@ -5233,7 +5233,7 @@ msgstr "Дозволити відключення при неактивност�
 
 msgctxt "#13019"
 msgid "Mounted optical disc"
-msgstr ""
+msgstr "Вставлений оптичний диск"
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
@@ -6746,7 +6746,7 @@ msgstr "Додавати доріжки до черги при виборі"
 
 msgctxt "#14085"
 msgid "Video disc insert action"
-msgstr ""
+msgstr "Дія на вставлення відеодиску"
 
 msgctxt "#14086"
 msgid "Playback"
@@ -15793,12 +15793,12 @@ msgstr "Час очікування подвійного натискання к
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Завжди"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "Якщо нічого не відтворюється"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -16131,7 +16131,7 @@ msgstr "Затримка перемикання після зміни часто
 #. Description of setting with label #13510 "Sync playback to display"
 msgctxt "#36166"
 msgid "Synchronise video and audio to the refresh rate of the monitor. VideoPlayer won't use passthrough audio in this case because resampling may be required."
-msgstr "Синхронізувати відео та звук із частотою оновлення екрану. У цьому режимі неможливе пряме виведення звуку, тому що може знадобитися ресемплінґ."
+msgstr "Синхронізувати відео та звук із частотою оновлення монітору. У цьому режимі неможливе пряме виведення звуку, тому що може знадобитися ресемплінґ."
 
 #. Description of setting with label #14107 "Time format"
 msgctxt "#36167"
@@ -17418,12 +17418,12 @@ msgstr "Вмикає автоматичне відтворення наступ�
 #. Description of setting with label #14085 "Video disc insert action"
 msgctxt "#36440"
 msgid "Action to take when a video disc is inserted."
-msgstr ""
+msgstr "Дія, котра має бути виконана коли вставлено відеодиск."
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36441"
 msgid "Action to take when an audio CD is inserted."
-msgstr ""
+msgstr "Дія, котра має бути виконана коли вставлено аудіодиск."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -20061,12 +20061,12 @@ msgstr "Після видобування"
 #. "Flatten movie versions" setting
 msgctxt "#40229"
 msgid "Flatten movie versions"
-msgstr ""
+msgstr "Приховати версії фільмів"
 
 #. Help for setting Flatten movie versions
 msgctxt "#40230"
 msgid "Turn on to show individual versions in the movies view, turn off to group them"
-msgstr ""
+msgstr "Якщо увімкнено, у поданні фільмів будуть показані окремі версії. Якщо вимкнено, фільми будуть згруповані"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20198,7 +20198,7 @@ msgstr "Якщо увімкнено, для видалення файлів бу
 #. Description of setting with label #246 "Monitor"
 msgctxt "#40803"
 msgid "Monitor change may require restart."
-msgstr ""
+msgstr "Для зміни монітору може знадобитись перезапуск."
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"
