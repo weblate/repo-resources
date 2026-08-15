@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-13 06:08+0000\n"
+"PO-Revision-Date: 2026-08-15 17:48+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15793,12 +15793,12 @@ msgstr "Задержка двойного нажатия кнопки пульт
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "Всегда"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "Если ничего не воспроизводится"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17418,12 +17418,12 @@ msgstr "Включите автоматическое воспроизведен
 #. Description of setting with label #14085 "Video disc insert action"
 msgctxt "#36440"
 msgid "Action to take when a video disc is inserted."
-msgstr ""
+msgstr "Действие, выполняемое при вставке видеодиска."
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36441"
 msgid "Action to take when an audio CD is inserted."
-msgstr ""
+msgstr "Действие, выполняемое при вставке аудиодиска."
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -20049,12 +20049,12 @@ msgstr "После скрапинга"
 #. "Flatten movie versions" setting
 msgctxt "#40229"
 msgid "Flatten movie versions"
-msgstr ""
+msgstr "Скрывать версии фильмов"
 
 #. Help for setting Flatten movie versions
 msgctxt "#40230"
 msgid "Turn on to show individual versions in the movies view, turn off to group them"
-msgstr ""
+msgstr "Если включено, в списке фильмов будут отображаться отдельные версии. Если выключено, они будут сгруппированы."
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20186,7 +20186,7 @@ msgstr "Если включено, то при удалении файлов б�
 #. Description of setting with label #246 "Monitor"
 msgctxt "#40803"
 msgid "Monitor change may require restart."
-msgstr ""
+msgstr "Для смены монитора может потребоваться перезапуск."
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"
