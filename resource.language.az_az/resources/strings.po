@@ -11547,6 +11547,7 @@ msgstr ""
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "Həmişə"
@@ -15778,6 +15779,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr ""
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr ""
+
 # empty strings from id 35260 to 35504
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -15802,6 +15809,17 @@ msgstr ""
 #. connection state "connecting" (asynchronous addon start)
 msgctxt "#35509"
 msgid "Connecting to backend."
+msgstr ""
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr ""
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
 msgstr ""
 
 # empty strings from id 35510 to 35999
@@ -16040,6 +16058,16 @@ msgstr ""
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
+msgstr ""
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr ""
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
 msgstr ""
 
 # empty strings from id 36054 to 36095
@@ -17687,6 +17715,21 @@ msgstr ""
 #. Description of setting with label #14128 "Whitelist"
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
+msgstr ""
+
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr ""
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr ""
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
 msgstr ""
 
 # empty strings from id 36446 to 36459
@@ -19952,6 +19995,16 @@ msgstr ""
 #. Help text for setting "Dolby Vision: Override level 5 metadata to zero" of label #39209
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
+msgstr ""
+
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
 msgstr ""
 
 # empty strings from id 39211 to 39899

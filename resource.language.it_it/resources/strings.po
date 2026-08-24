@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-13 06:08+0000\n"
+"PO-Revision-Date: 2026-08-24 06:23+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/it_it/>\n"
 "Language: it_it\n"
@@ -630,7 +630,7 @@ msgstr "Compilata:"
 
 msgctxt "#175"
 msgid "Moods"
-msgstr "Atteggiamenti"
+msgstr "Atmosfere"
 
 msgctxt "#176"
 msgid "Styles"
@@ -4781,12 +4781,12 @@ msgstr "Configurazione porta"
 #. Title of the in-game dialog to select a savestate for the current game
 msgctxt "#10829"
 msgid "Select Savestate"
-msgstr "Seleziona salva stato"
+msgstr "Seleziona stato di salvataggio"
 
 #. Title of the out-of-game dialog to select a savestate for the current game
 msgctxt "#10830"
 msgid "Select Savestate"
-msgstr "Seleziona salva stato"
+msgstr "Seleziona stato di salvataggio"
 
 #. Name of window for viewing and configuring players while playing a game
 msgctxt "#10831"
@@ -5125,7 +5125,7 @@ msgstr "Grazie!"
 #. Label of text box asking for donations
 msgctxt "#12397"
 msgid "Kodi is brought to you with love from the Kodi Foundation, a 501(c)(3) nonprofit organization. Thank you for using our software!"
-msgstr "Kodi è un progetto realizzato con amore dalla Kodi Foundation, un'organizzazione no-profit 501(c)(3). Grazie per aver utilizzato il nostro software!"
+msgstr "Kodi è un progetto realizzato con amore dalla Kodi Foundation, un'organizzazione no-profit 501(c)(3). Grazie per aver usato il nostro software!"
 
 #. URL for donations. Do not translate.
 msgctxt "#12398"
@@ -6011,7 +6011,7 @@ msgstr "Metodo di rendering"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
 msgctxt "#13416"
 msgid "Auto detect"
-msgstr "Automatico"
+msgstr "Rilevamento automatico"
 
 msgctxt "#13417"
 msgid "Allow use DXVA Video Super Resolution"
@@ -7168,7 +7168,7 @@ msgstr "Pulisci cache delle immagini"
 
 msgctxt "#14282"
 msgid "Immediately remove unused images from the cache - images not associated with an item in the media library nor viewed recently. Kodi does this over time in the background."
-msgstr "Rimuovi immediatamente le immagini inutilizzate dalla cache: immagini non associate a un elemento nel catalogo multimediale né visualizzate di recente. Kodi gestisce periodicamente la pulizia della cache in background."
+msgstr "Rimuovi immediatamente le immagini non utilizzate dalla cache: immagini non associate a un elemento nel catalogo multimediale né visualizzate di recente. Kodi gestisce periodicamente la pulizia della cache in background."
 
 #. pvr "channels" settings group label
 msgctxt "#14301"
@@ -7705,7 +7705,7 @@ msgstr "Lanczos3 - Veloce"
 #. value for setting 'Create versions for similar videos'
 msgctxt "#16316"
 msgid "Auto"
-msgstr "Automatico"
+msgstr "Auto"
 
 msgctxt "#16317"
 msgid "Temporal (half)"
@@ -11360,6 +11360,7 @@ msgstr "Se solo una stagione"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "Sempre"
@@ -14545,7 +14546,7 @@ msgstr "7.1"
 #. Description of setting with label #421 "Keep audio device alive"
 msgctxt "#34111"
 msgid "Select the behaviour when no sound is required for either playback or GUI sounds.[CR][Always] Continuous inaudible signal is output, this keeps the receiving audio device alive for any new sounds, however this might also block sound from other applications.[CR][1-10 Minutes] Same as [Always] except that after the selected period of time audio enters a suspended state.[CR][Off] Audio output enters a suspended state. Note: Sounds can be missed if audio enters suspended state."
-msgstr "Seleziona il comportamento quando non sono richiesti suoni né dalla riproduzione né dall'interfaccia.[CR][Sempre] Riproduce un suono inudibile continuo, questo mantiene attivo il dispositivo audio per eventuali nuovi suoni, ma questo potrebbe anche bloccare suoni di altre applicazioni.[CR][1-10 Minuti]Come [Sempre] tranne per il fatto che l'audio si disabilita dopo il periodo di tempo selezionato.[CR][Off]L'uscita audio entra in uno stato di sospensione. Nota: si possono perdere alcuni suoni se l'audio entra in stato di sospensione."
+msgstr "Seleziona il comportamento quando non sono richiesti suoni né dalla riproduzione né dall'interfaccia.[CR][Sempre] Riproduce un suono inudibile continuo, questo mantiene attivo il dispositivo audio per eventuali nuovi suoni, ma questo potrebbe anche bloccare suoni di altre applicazioni.[CR][1-10 Minuti] Come [Sempre] tranne per il fatto che l'audio si disabilita dopo il periodo di tempo selezionato.[CR][Off]L'uscita audio entra in uno stato di sospensione. Nota: si possono perdere alcuni suoni se l'audio entra in stato di sospensione."
 
 #. Indicates if Audio Engine should transmit noise or real silence
 msgctxt "#34112"
@@ -15266,12 +15267,12 @@ msgstr "Add-on di supporto"
 #. Dialog text asking user to overwrite their savestate file
 msgctxt "#35217"
 msgid "The savestate can only be loaded with \"{0:s}\". Erase savestate and continue?"
-msgstr "Il salvataggio di stato può essere caricato solo con \"{0:s}\". Cancellare il salvataggio e continuare?"
+msgstr "Lo stato di salvataggio può essere caricato solo con \"{0:s}\". Cancellare lo stato di salvataggio e continuare?"
 
 #. Button to erase the savestate
 msgctxt "#35218"
 msgid "Erase savestate"
-msgstr "Cancella salvataggio"
+msgstr "Cancella stato di salvataggio"
 
 #. Error dialog text when trying to play a game and the game's files aren't found.
 msgctxt "#35219"
@@ -15427,7 +15428,7 @@ msgstr "Salvato"
 #. Title of the dialog to select a savestate for the current game
 msgctxt "#35260"
 msgid "Select savestate"
-msgstr "Seleziona salva stato"
+msgstr "Seleziona stato di salvataggio"
 
 #. Button for creating a new save state from the select savestate dialog
 msgctxt "#35261"
@@ -15531,6 +15532,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "Seleziona disco"
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr "Questo stato di salvataggio è compresso e non può essere caricato da questa versione di Kodi."
+
 #. connection state "host unreachable"
 msgctxt "#35505"
 msgid "Server is unreachable."
@@ -15555,6 +15562,17 @@ msgstr "Accesso negato."
 msgctxt "#35509"
 msgid "Connecting to backend."
 msgstr "Connessione al backend."
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr "Emulatore predefinito"
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
+msgstr "Attuale"
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15790,6 +15808,16 @@ msgstr "Sempre"
 msgctxt "#36056"
 msgid "Unless media is playing"
 msgstr "A meno che i media non siano in riproduzione"
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr "Invia i comandi di volume tramite CEC"
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
+msgstr "Automatico"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17351,7 +17379,7 @@ msgstr "Registra"
 #. Description of setting with label #667 "Enable Dolby Digital transcoding"
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. When E-AC3 passthrough is also enabled, Dolby Digital Plus (E-AC3) is used for higher quality. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Seleziona questa opzione se la connessione di uscita audio supporta solo l'audio multicanale Dolby Digital 5.1 (AC-3), come ad esempio una connessione S/PDIF. Quando è abilitato anche il passaggio senza conversione E-AC3, viene utilizzato Dolby Digital Plus (E-AC3) per una qualità superiore. Se il sistema supporta l'audio multicanale PCM tramite HDMI, lascia questa opzione disabilitata."
+msgstr "Seleziona questa opzione se la connessione di uscita audio supporta solo l'audio multicanale Dolby Digital 5.1 (AC-3), come ad esempio una connessione S/PDIF. Quando è abilitato anche il passaggio senza conversione E-AC3, viene usato Dolby Digital Plus (E-AC3) per una qualità superiore. Se il sistema supporta l'audio multicanale PCM tramite HDMI, lascia questa opzione disabilitata."
 
 #. Description for setting category #14101: "Video Acceleration"
 msgctxt "#36430"
@@ -17435,6 +17463,21 @@ msgstr "Seleziona questa opzione per consentire l'uso di frequenze di aggiorname
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
 msgstr "Seleziona questa opzione per consentire l'uso di frequenze di aggiornamento raddoppiate (riproduzione di video a 29,97 FPS su un monitor a 59,94 Hz o riproduzione di video a 30 FPS su un monitor a 60 Hz). Potresti voler usare questa opzione se il monitor non supporta una modalità a 29,97 Hz o 30 Hz."
+
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr "Ordinato"
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr "Ordine visualizzazione flusso file video"
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
+msgstr "Solo file video: ordine di visualizzazione nelle finestre di selezione flusso. [Media] ordine dei flussi nel file multimediale, [Ordinato] ordinati in base agli attributi del flusso[CR]"
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -18200,7 +18243,7 @@ msgstr "Configura impostazioni del codificatore audio come qualità e livello di
 
 msgctxt "#37026"
 msgid "Auto"
-msgstr "Automatico"
+msgstr "Auto"
 
 msgctxt "#37027"
 msgid "540"
@@ -19583,7 +19626,7 @@ msgstr "Se viene riprodotta musica, il salvaschermo non verrà mai attivato"
 #. Help text of setting "Allow use DXVA Video Super Resolution" with label #13417
 msgctxt "#39194"
 msgid "Enables advanced DXVA upscaler using NVIDIA \"RTX Video Super Resolution\" or \"Intel Video Super Resolution\".[CR]Used when the video source is 2560x1440 or less and the source resolution is lower than the display resolution.[CR]Only available on specific hardware: NVIDIA RTX and Intel Arc."
-msgstr "Abilita l'upscaler DXVA avanzato utilizzando NVIDIA \"RTX Video Super Resolution\" o \"Intel Video Super Resolution\".[CR]Usato quando la sorgente video è pari o inferiore a 2560x1440 e la risoluzione della sorgente è inferiore alla risoluzione del display.[CR]Disponibile solo su hardware specifici: NVIDIA RTX e Intel Arc."
+msgstr "Abilita l'upscaler DXVA avanzato usando NVIDIA \"RTX Video Super Resolution\" o \"Intel Video Super Resolution\".[CR]Usato quando la sorgente video è pari o inferiore a 2560x1440 e la risoluzione della sorgente è inferiore alla risoluzione del display.[CR]Disponibile solo su hardware specifici: NVIDIA RTX e Intel Arc."
 
 #. Description of setting with label #13418 "Use high precision processing"
 msgctxt "#39195"
@@ -19664,6 +19707,16 @@ msgstr "Dolby Vision: sovrascrivi i metadati di livello 5 a zero"
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "Se abilitato, i metadati di livello 5 (area attiva) dei file Dolby Vision verranno sovrascritti con offset pari a zero. Abilitare questa opzione se il display presenta problemi di ritaglio errato delle immagini durante la riproduzione in Dolby Vision."
+
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
+msgstr ""
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
