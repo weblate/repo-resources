@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-04 09:02+0000\n"
+"PO-Revision-Date: 2026-08-24 06:23+0000\n"
 "Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.8\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -5230,7 +5230,7 @@ msgstr "允许闲置关机"
 
 msgctxt "#13019"
 msgid "Mounted optical disc"
-msgstr ""
+msgstr "已挂载光盘"
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
@@ -6743,7 +6743,7 @@ msgstr "选中歌曲加入播放列表"
 
 msgctxt "#14085"
 msgid "Video disc insert action"
-msgstr ""
+msgstr "插入视频光盘操作"
 
 msgctxt "#14086"
 msgid "Playback"
@@ -11360,6 +11360,7 @@ msgstr "如果只有一季"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "总是"
@@ -11604,7 +11605,7 @@ msgstr "杜比视界配置文件"
 #. Used in the smart playlist editor to define a watched mode
 msgctxt "#20479"
 msgid "Watched Mode"
-msgstr ""
+msgstr "观看状态筛选"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -15531,6 +15532,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "选择光盘"
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr "此即时存档经过压缩，此版本 Kodi 无法加载。"
+
 #. connection state "host unreachable"
 msgctxt "#35505"
 msgid "Server is unreachable."
@@ -15555,6 +15562,17 @@ msgstr "拒绝访问。"
 msgctxt "#35509"
 msgid "Connecting to backend."
 msgstr "正在连接后端。"
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr "默认模拟器"
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
+msgstr "当前"
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15784,12 +15802,22 @@ msgstr "遥控器按键双击超时（毫秒）（0 = 关闭功能）"
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
-msgstr ""
+msgstr "除非正在播放媒体"
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr "通过 CEC 发送音量控制指令"
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
+msgstr "自动"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17409,12 +17437,12 @@ msgstr "当播放过去的节目（追播）或视频点播（VOD）频道时，
 #. Description of setting with label #14085 "Video disc insert action"
 msgctxt "#36440"
 msgid "Action to take when a video disc is inserted."
-msgstr ""
+msgstr "插入视频光盘时执行的操作。"
 
 #. Description of setting with label #14097 "Audio CD Insert Action"
 msgctxt "#36441"
 msgid "Action to take when an audio CD is inserted."
-msgstr ""
+msgstr "插入音频 CD 时执行的操作。"
 
 #. Description of setting "System -> Audio output -> Volume control steps" with label #1302
 msgctxt "#36442"
@@ -17435,6 +17463,21 @@ msgstr "选择此选项可允许使用3:2折刷新率（在59.94 Hz显示器上�
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
 msgstr "选择此选项可允许使用双倍刷新率（在59.94 Hz显示器上播放29.97 FPS视频或在60 Hz显示器上播放30 FPS视频）。如果您的显示器没有29.97 Hz或30 Hz模式，则可能要使用此选项。"
+
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr "排序"
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr "视频文件轨道显示顺序"
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
+msgstr "仅视频文件：轨道选择对话框内的显示顺序。[Media] 遵循媒体内原生轨道顺序，[Sorted] 根据轨道属性排序[CR]"
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -19665,6 +19708,16 @@ msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "启用后，杜比视界文件的 level 5 (有效显示区域)元数据将被强制覆盖为零偏移。如果您的显示器在播放杜比视界内容时出现图像裁剪错误问题，请启用此选项。"
 
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
+msgstr ""
+
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
 #. STR_LIST_AND_TWO
@@ -19920,7 +19973,7 @@ msgstr "将播放列表分配给当前电影版本？"
 #. Different video version found dialog text for blurays
 msgctxt "#40042"
 msgid "Found a different version of the movie \"{0:s}\" in playlist {1:s} of {2:s} - length {3:s}. Would you like to convert it into an additional version of the original?"
-msgstr ""
+msgstr "在 {2:s} 的播放列表 {1:s} 中找到影片「{0:s}」的另一版本，时长 {3:s}。是否将其转换为原影片的附加版本？"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -20017,32 +20070,32 @@ msgstr "将影片最新扫描的版本设为该影片的默认版本。[CR]可�
 #. Setting to determine when art is retrieved - during or after scrape
 msgctxt "#40225"
 msgid "Retrieve art"
-msgstr ""
+msgstr "获取背景图"
 
 #. Help for retrieve art during/after scrape setting
 msgctxt "#40226"
 msgid "Determines whether art is retrieved synchronously during scrape or in the background afterwards.[CR][During scrape] Art is retrieved synchronously during scrape. This significantly extends time taken to scrape.[CR][After scrape][Default] Art is retrieved in the background after scrape. Actor thumbnails may take a while to appear."
-msgstr ""
+msgstr "确定是在刮削期间同步获取艺术图，还是刮削完成后在后台获取。[CR][刮削期间] 在刮削过程中同步获取艺术图，会显著增加刮削耗时。[CR][刮削完成后][默认] 刮削完成后在后台获取艺术图，演员缩略图可能需要一段时间才会显示。"
 
 #. Option for the retrieve art during/after scrape setting
 msgctxt "#40227"
 msgid "During scrape"
-msgstr ""
+msgstr "刮削期间"
 
 #. Option for the retrieve art during/after scrape setting
 msgctxt "#40228"
 msgid "After scrape"
-msgstr ""
+msgstr "刮削完成后"
 
 #. "Flatten movie versions" setting
 msgctxt "#40229"
 msgid "Flatten movie versions"
-msgstr ""
+msgstr "平铺影片版本"
 
 #. Help for setting Flatten movie versions
 msgctxt "#40230"
 msgid "Turn on to show individual versions in the movies view, turn off to group them"
-msgstr ""
+msgstr "启用后在影片视图单独显示各版本，关闭则将各版本分组汇总"
 
 # Video versions
 #. Name of a video version, like "Director's Cut"
@@ -20174,7 +20227,7 @@ msgstr "如果启用，删除文件时将显示确认对话框。如果禁用，
 #. Description of setting with label #246 "Monitor"
 msgctxt "#40803"
 msgid "Monitor change may require restart."
-msgstr ""
+msgstr "更改监控设置可能需要重启生效。"
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"

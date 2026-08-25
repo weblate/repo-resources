@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-15 17:48+0000\n"
+"PO-Revision-Date: 2026-08-24 06:23+0000\n"
 "Last-Translator: Feruk <feruk.v@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -5911,7 +5911,7 @@ msgstr "Нет настроек[CR]для этой визуализации"
 
 msgctxt "#13391"
 msgid "Eject / Load"
-msgstr "Открыть / Закрыть"
+msgstr "Извлечь / загрузить"
 
 msgctxt "#13392"
 msgid "Stream selection"
@@ -6090,7 +6090,7 @@ msgstr "Проигрывать только этот файл"
 
 msgctxt "#13435"
 msgid "Enable HQ scalers for scaling above"
-msgstr "Разрешить высококач. методы при масштабировании свыше"
+msgstr "Разрешить высококачественные методы при увеличении выше"
 
 msgctxt "#13436"
 msgid "Adjust display HDR mode"
@@ -6252,7 +6252,7 @@ msgstr "Использовать AVC VAAPI"
 #. Description of setting with label #13470 "Use AVC VAAPI"
 msgctxt "#13471"
 msgid "Enable this option to use hardware acceleration for the AVC codec. If disabled the CPU will be used instead."
-msgstr "Включите, чтобы использовать аппаратное ускорение для кодека AVC. Если отключено — будет использоваться процессор."
+msgstr "Включите, чтобы использовать аппаратное ускорение для кодека AVC. В противном случае будет использоваться ЦП."
 
 msgctxt "#13472"
 msgid "HQ upscaler intermediate format"
@@ -6261,7 +6261,7 @@ msgstr "Промежуточный формат HQ upscaler"
 #. Description of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13473"
 msgid "Sets the precision of the intermediate scaling buffer used in the GPU rendering path. 16 bit precision likely demands more performance. If the hardware is unable to support the selected format, Kodi will fall back to the next best format."
-msgstr "Устанавливает точность промежуточного буфера масштабирования, используемого при рендеринге GPU. 16-битная точность требует большей производительности. Если оборудование не может поддерживать выбранный формат, Kodi перейдёт к следующему лучшему формату."
+msgstr "Устанавливает точность промежуточного буфера масштабирования, используемого при рендеринге ГП. 16-битная точность требует большей производительности. Если оборудование не может поддерживать выбранный формат, Kodi перейдёт к следующему лучшему формату."
 
 #. Value of setting with label #13472 "HQ upscaler intermediate format"
 msgctxt "#13474"
@@ -11364,6 +11364,7 @@ msgstr "Если один сезон"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "Всегда"
@@ -15540,6 +15541,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "Выберите диск"
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr "Это состояние сохранения сжато и не может быть загружено данной версией Kodi."
+
 #. connection state "host unreachable"
 msgctxt "#35505"
 msgid "Server is unreachable."
@@ -15564,6 +15571,17 @@ msgstr "Доступ запрещен."
 msgctxt "#35509"
 msgid "Connecting to backend."
 msgstr "Соединяемся с сервером."
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr "Эмулятор по умолчанию"
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
+msgstr "Текущий"
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15799,6 +15817,16 @@ msgstr "Всегда"
 msgctxt "#36056"
 msgid "Unless media is playing"
 msgstr "Если ничего не воспроизводится"
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr "Отправить команды регулировки громкости через CEC"
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
+msgstr "Автоматически"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17445,6 +17473,21 @@ msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
 msgstr "Выберите этот параметр, чтобы разрешить использование двойной частоты обновления (воспроизведение видео 29,97 кадр/с на мониторе 59,94 Гц или воспроизведение видео 30 кадр/с на мониторе 60 Гц). Вы можете использовать этот параметр, если ваш монитор не имеет режима 29,97 Гц или 30 Гц."
 
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr "Отсортировано"
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr "Порядок отображения потоков видеофайла"
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
+msgstr "Только для видеофайлов: порядок отображения в диалогах выбора потоков. [Медиа] — порядок потоков в файле, [Отсортировано] — сортировка по атрибутам потоков.[CR]"
+
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
 msgid "Event logging allows to keep track of what has happened."
@@ -17642,7 +17685,7 @@ msgstr "Включает поддержку получения «Видео» и
 #. Name of a setting
 msgctxt "#36550"
 msgid "Stereoscopic 3D effect strength"
-msgstr "Сила стереоскопического 3D эффекта"
+msgstr "Сила стереоскопического 3D-эффекта"
 
 #. Description of setting with label #36550 "Stereoscopic 3D effect strength"
 msgctxt "#36551"
@@ -18245,22 +18288,22 @@ msgstr "В этом разделе содержатся настройки дл�
 #. Setting #37034 Accessibility
 msgctxt "#37034"
 msgid "Prefer audio stream for the visually impaired"
-msgstr "Предпочитать аудио поток для слабовидящих"
+msgstr "Предпочитать аудиопоток для слабовидящих"
 
 #. Description of setting #37034 Accessibility
 msgctxt "#37035"
 msgid "Prefer the audio stream for the visually impaired to other audio streams of the same language"
-msgstr "Предпочитать аудио поток для слабовидящих другим потокам на том же языке"
+msgstr "Предпочитать аудиопоток для слабовидящих другим потокам на том же языке"
 
 #. Setting #37036 Settings -> Video -> Accessibility
 msgctxt "#37036"
 msgid "Prefer audio stream for the hearing impaired"
-msgstr "Предпочитать аудио поток для слабослышащих"
+msgstr "Предпочитать аудиопоток для слабослышащих"
 
 #. Description of setting #37036 Accessibility
 msgctxt "#37037"
 msgid "Prefer the audio stream for the hearing impaired to other audio streams of the same language"
-msgstr "Предпочитать аудио поток для слабослышащих другим потокам на том же языке"
+msgstr "Предпочитать аудиопоток для слабослышащих другим потокам на том же языке"
 
 #. Setting #37038 Accessibility
 msgctxt "#37038"
@@ -19676,6 +19719,16 @@ msgstr "Dolby Vision: Обнуление метаданных 5-го уровн�
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "Если включено, метаданные файлов Dolby Vision 5-го уровня (активная область) будут переопределены на нулевые значения. Включайте, если при воспроизведении в формате Dolby Vision возникают проблемы с неправильно обрезанным изображением."
+
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
+msgstr ""
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"

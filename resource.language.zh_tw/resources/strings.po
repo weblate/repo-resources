@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 20:26+0000\n"
-"Last-Translator: JuenTingShie <t104340042@ntut.org.tw>\n"
+"PO-Revision-Date: 2026-08-19 11:11+0000\n"
+"Last-Translator: Jeremy Chen <jeremy@naviart.idv.tw>\n"
 "Language-Team: Chinese (Traditional Han script) <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/zh_Hant/>\n"
 "Language: zh_tw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11362,6 +11362,7 @@ msgstr "如果只有一季"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "總是"
@@ -12256,7 +12257,7 @@ msgstr ""
 #. Used to show Specials in Video->Files (when there are no episodes) (eg. Specials)
 msgctxt "#21490"
 msgid "Specials"
-msgstr ""
+msgstr "特別節目"
 
 msgctxt "#21602"
 msgid "(External)"
@@ -15506,7 +15507,7 @@ msgstr ""
 #. Text shown when a disc is removed from the game's virtual CD drive
 msgctxt "#35274"
 msgid "No disc"
-msgstr ""
+msgstr "無光碟"
 
 #. Label for the button that ejects the disc for a game's virtual CD drive
 msgctxt "#35275"
@@ -15538,6 +15539,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr ""
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr ""
+
 #. connection state "host unreachable"
 msgctxt "#35505"
 msgid "Server is unreachable."
@@ -15562,6 +15569,17 @@ msgstr "存取遭拒。"
 msgctxt "#35509"
 msgid "Connecting to backend."
 msgstr "連接後端。"
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr ""
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
+msgstr ""
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15791,12 +15809,22 @@ msgstr ""
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36055"
 msgid "Always"
-msgstr ""
+msgstr "總是"
 
 #. Item list value of setting with label #36009 "Put devices in standby mode when activating the screensaver"
 msgctxt "#36056"
 msgid "Unless media is playing"
 msgstr ""
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr ""
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
+msgstr "自動"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17442,6 +17470,21 @@ msgstr "選擇此項以允許使用3:2折刷新率(在59.94 Hz顯示器上播放
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
 msgstr "選擇此項以允許使用雙倍刷新率(在59.94 Hz顯示器上播放29.97 FPS的影片或在60 Hz顯示器上播放30 FPS影片)。如果您的顯示器沒有29.97 Hz或30 Hz模式，則可能要選用此項目。"
+
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr ""
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr ""
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
+msgstr ""
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -19674,6 +19717,16 @@ msgstr "杜比視界：強制將Level 5 元數據設為零"
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "開啟後，杜比視界檔案的Level 5(活動區域)元數據將會重置為零偏移。若您的顯示器在播放杜比視界影片時出現影像裁切相關問題，請開啟此選項。"
+
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
+msgstr ""
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"

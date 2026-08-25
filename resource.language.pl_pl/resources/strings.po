@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-13 06:08+0000\n"
+"PO-Revision-Date: 2026-08-22 17:02+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -11363,6 +11363,7 @@ msgstr "Gdy serial ma jeden sezon"
 
 #. Value for setting with label #170 "Player / Videos / Adjust display refresh rate"
 #. Value for setting with label #36098 "System / Display / Use 10 bit for SDR"
+#. Value for setting with label #36057 "Send volume commands over CEC"
 msgctxt "#20422"
 msgid "Always"
 msgstr "Zawsze"
@@ -15539,6 +15540,12 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "Wybierz dysk"
 
+# empty strings from id 35281 to 35297
+#. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
+msgctxt "#35298"
+msgid "This savestate is compressed and can't be loaded by this version of Kodi."
+msgstr "Ten stan zapisu jest skompresowany i nie można go załadować w tej wersji Kodi."
+
 #. connection state "host unreachable"
 msgctxt "#35505"
 msgid "Server is unreachable."
@@ -15563,6 +15570,17 @@ msgstr "Odmowa dostępu."
 msgctxt "#35509"
 msgid "Connecting to backend."
 msgstr "Łączenie z serwerem."
+
+#. Context menu item, and heading of the dialog it opens, for choosing the
+#. emulator a game or a folder of games is opened with
+msgctxt "#35510"
+msgid "Default emulator"
+msgstr "Emulator domyślny"
+
+#. Marks the emulator already set as the default in the list of emulators
+msgctxt "#35511"
+msgid "Current"
+msgstr "Bieżący"
 
 msgctxt "#36000"
 msgid "Pulse-Eight CEC adapter"
@@ -15798,6 +15816,16 @@ msgstr "Zawsze"
 msgctxt "#36056"
 msgid "Unless media is playing"
 msgstr "Chyba że odtwarzane są multimedia"
+
+#. Label of CEC setting volume_control: whether Kodi's volume keys adjust the volume of the amplifier or TV over CEC instead of Kodi's own mixer
+msgctxt "#36057"
+msgid "Send volume commands over CEC"
+msgstr "Wysyłaj polecenia głośności przez CEC"
+
+#. Item list value of setting with label #36057 "Send volume commands over CEC": send them to an amplifier, or to a TV that reports CEC 2.0
+msgctxt "#36058"
+msgid "Automatic"
+msgstr "Automatycznie"
 
 # empty strings from id 36054 to 36095
 #. Label of setting "System / Display / Use system HDR/SDR brightness balance"
@@ -17443,6 +17471,21 @@ msgstr "Wybierz tę opcję, aby zezwolić na używanie pulldown częstotliwości
 msgctxt "#36445"
 msgid "Select this option to allow using double refresh rates (playing 29.97 FPS video on a 59.94 Hz monitor or playing 30 FPS video on a 60 Hz monitor). You may want to use this option if your monitor doesn't have a 29.97 Hz or 30 Hz mode."
 msgstr "Wybierz tę opcję, aby zezwolić na używanie podwójnych częstotliwości odświeżania (odtwarzanie wideo 29,97 FPS na monitorze 59,94 Hz lub odtwarzanie wideo 30 FPS na monitorze 60 Hz). Możesz chcieć użyć tej opcji, jeśli twój monitor nie ma trybu 29,97 Hz lub 30 Hz."
+
+#. Value of the track order settings #36448 #36450 #36452
+msgctxt "#36446"
+msgid "Sorted"
+msgstr ""
+
+#. Name of the setting of the stream order in the stream selection screen and the OSD for video files
+msgctxt "#36447"
+msgid "Video file stream display order"
+msgstr ""
+
+#. Description of setting with label #36447 "Video file stream display order"
+msgctxt "#36448"
+msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
+msgstr ""
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -19675,6 +19718,16 @@ msgstr "Dolby Vision: zastąp zerem metadane poziomu 5"
 msgctxt "#39210"
 msgid "If enabled, Dolby Vision files will have level 5 (active area) metadata overridden to zero offsets. Enable if your display has issues with incorrectly cropped image in Dolby Vision playback."
 msgstr "Jeśli ta opcja jest włączona, pliki Dolby Vision będą miały metadane poziomu 5 (obszar aktywny) zastąpione zerowymi przesunięciami. Włącz tę opcję, jeśli na ekranie występują problemy z nieprawidłowo przyciętym obrazem podczas odtwarzania Dolby Vision."
+
+#. Title of the setting that skips subtitles whose language matches the audio language
+msgctxt "#39211"
+msgid "Don't show subtitles matching the audio language"
+msgstr ""
+
+#. Help text for setting "Don't show subtitles matching the audio language" of label #39211
+msgctxt "#39212"
+msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
+msgstr ""
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
