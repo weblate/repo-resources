@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-06-11 01:16+0000\n"
+"PO-Revision-Date: 2026-08-26 02:16+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/kodi-main-nexus/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -466,7 +466,7 @@ msgstr "Albumit"
 
 msgctxt "#133"
 msgid "Artists"
-msgstr "Esittäjät"
+msgstr "Artistit"
 
 msgctxt "#134"
 msgid "Songs"
@@ -1010,7 +1010,7 @@ msgstr "Lajitteluperuste: Nimi"
 
 msgctxt "#269"
 msgid "Sort by: Artist"
-msgstr "Lajitteluperuste: Esittäjä"
+msgstr "Lajitteluperuste: Artisti"
 
 msgctxt "#270"
 msgid "Sort by: Album"
@@ -1228,11 +1228,11 @@ msgstr "Virhe kappaleiden siivouksessa"
 
 msgctxt "#320"
 msgid "Cleaning artists..."
-msgstr "Siivotaan esittäjiä..."
+msgstr "Siivotaan artisteja..."
 
 msgctxt "#321"
 msgid "Error cleaning artists"
-msgstr "Virhe esittäjien siivouksessa"
+msgstr "Virhe siivottaessa artisteja"
 
 msgctxt "#322"
 msgid "Cleaning genres, roles etc...."
@@ -1308,7 +1308,7 @@ msgstr "Optimoitu"
 
 msgctxt "#340"
 msgid "Various artists"
-msgstr "Eri esittäjiä"
+msgstr "Useita artisteja"
 
 msgctxt "#341"
 msgid "Play disc"
@@ -2121,7 +2121,7 @@ msgstr "Läpiviennin ulostulolaite"
 
 msgctxt "#547"
 msgid "No biography for this artist"
-msgstr "Esittäjälle ei ole biografiaa"
+msgstr "Artistille ei ole biografiaa"
 
 msgctxt "#548"
 msgid "Downmix multichannel audio to stereo"
@@ -2164,7 +2164,7 @@ msgstr "Nimi"
 
 msgctxt "#557"
 msgid "Artist"
-msgstr "Esittäjä"
+msgstr "Artisti"
 
 msgctxt "#558"
 msgid "Album"
@@ -2200,7 +2200,7 @@ msgstr "Käyttö"
 
 msgctxt "#566"
 msgid "Album artist"
-msgstr "Albumin esittäjä"
+msgstr "Albumin artisti"
 
 #. generic "play count" label used in different places
 msgctxt "#567"
@@ -2250,7 +2250,7 @@ msgstr "Kuvauspäivä"
 
 msgctxt "#578"
 msgid "Artist / Year"
-msgstr "Esittäjä/vuosi"
+msgstr "Artisti/vuosi"
 
 msgctxt "#580"
 msgid "Sort direction"
@@ -2399,7 +2399,7 @@ msgstr "Sisällytä kappaleen numero"
 
 msgctxt "#625"
 msgid "All songs of"
-msgstr "Kaikki kappaleet esittäjältä"
+msgstr "Kaikki kappaleet artistilta"
 
 msgctxt "#626"
 msgid "In progress TV shows"
@@ -5639,7 +5639,7 @@ msgstr "Toista kohde"
 
 msgctxt "#13359"
 msgid "Set artist thumb"
-msgstr "Valitse esittäjän pienoiskuva"
+msgstr "Valitse artistin pienoiskuva"
 
 msgctxt "#13360"
 msgid "Automatically generate thumbnails"
@@ -5813,7 +5813,7 @@ msgstr "Ladataan"
 
 msgctxt "#13414"
 msgid "Show song and album artists"
-msgstr "Näytä kappalekohtaiset esittäjät albumin esittäjien lisäksi"
+msgstr "Näytä kappalekohtaiset artistit albumin artistien lisäksi"
 
 msgctxt "#13415"
 msgid "Render method"
@@ -6993,7 +6993,7 @@ msgstr "* Kaikki albumit"
 
 msgctxt "#15103"
 msgid "* All artists"
-msgstr "* Kaikki esittäjät"
+msgstr "* Kaikki artistit"
 
 msgctxt "#15104"
 msgid "* All songs"
@@ -7239,7 +7239,7 @@ msgstr "Perutaan..."
 
 msgctxt "#16025"
 msgid "Enter the artist name"
-msgstr "Syötä esittäjän nimi"
+msgstr "Syötä artistin nimi"
 
 msgctxt "#16026"
 msgid "Playback failed"
@@ -10467,7 +10467,7 @@ msgstr "Albumien oletustietolähde"
 
 msgctxt "#20194"
 msgid "Default provider for artist information"
-msgstr "Esittäjien oletustietolähde"
+msgstr "Artistien oletustietolähde"
 
 msgctxt "#20195"
 msgid "Change information provider"
@@ -10483,11 +10483,11 @@ msgstr "Tuo musiikkikirjasto"
 
 msgctxt "#20198"
 msgid "No artist found!"
-msgstr "Esittäjää ei löytynyt!"
+msgstr "Artistia ei löytynyt!"
 
 msgctxt "#20199"
 msgid "Downloading artist information failed"
-msgstr "Esittäjän tietojen nouto epäonnistui"
+msgstr "Artistin tietojen nouto epäonnistui"
 
 msgctxt "#20220"
 msgid "Prefer online information"
@@ -10496,7 +10496,7 @@ msgstr "Suosi Internetistä noudettavia tietoja"
 #. Description of setting with label #20220 "Prefer online information"
 msgctxt "#20221"
 msgid "With this enabled, any information that is downloaded for albums and artists will override anything you have set in your song tags, such as genres, year, song artists etc. Useful if you have MusicBrainz identifiers in your song tags."
-msgstr "Korvaa musiikkitiedostojen tagien sisältämät tiedot, kuten lajityyppi, julkaisuvuosi tai esittäjä, Internetistä noudetuilla tiedoilla. Toiminnosta on hyötyä, jos käytät kappaleiden tageissa MusicBrainz-tunnisteita."
+msgstr "Korvaa musiikkitiedostojen tagien sisältämät tiedot, kuten lajityyppi, julkaisuvuosi tai artisti, Internetistä noudetuilla tiedoilla. Toiminnosta on hyötyä, jos käytät kappaleiden tageissa MusicBrainz-tunnisteita."
 
 msgctxt "#20222"
 msgid "Look for external subtitles"
@@ -10504,7 +10504,7 @@ msgstr "Etsi ulkoisia tekstityksiä"
 
 msgctxt "#20223"
 msgid "Artist information folder"
-msgstr "Esittäjien tietojen tallennuskansio"
+msgstr "Artistien tietojen tallennuskansio"
 
 msgctxt "#20224"
 msgid "Prefer online album art"
@@ -10521,7 +10521,7 @@ msgstr "Elokuvakokoelmien tietojen tallennuskansio"
 
 msgctxt "#20228"
 msgid "Use artist sortname when sorting by artist"
-msgstr "Käytä esittäjän lajittelunimeä lajiteltaessa esittäjän perusteella"
+msgstr "Käytä artistin lajittelunimeä lajiteltaessa artistin perusteella"
 
 msgctxt "#20240"
 msgid "Android music"
@@ -10657,7 +10657,7 @@ msgstr "Päivitetään sarjoja tietolähteellä {0:s}"
 
 msgctxt "#20320"
 msgid "Scanning artists using {0:s}"
-msgstr "Päivitetään esittäjiä: {0:s}"
+msgstr "Päivitetään artisteja: {0:s}"
 
 msgctxt "#20321"
 msgid "Scanning albums using {0:s}"
@@ -10964,7 +10964,7 @@ msgstr "Sekoitettu"
 
 msgctxt "#20396"
 msgid "Go to albums by artist"
-msgstr "Siirry esittäjän albumeihin"
+msgstr "Siirry artistin albumeihin"
 
 msgctxt "#20397"
 msgid "Go to album"
@@ -10980,7 +10980,7 @@ msgstr "Siirry albumin musiikkivideoihin"
 
 msgctxt "#20400"
 msgid "Go to music videos by artist"
-msgstr "Siirry esittäjän musiikkivideoihin"
+msgstr "Siirry artistin musiikkivideoihin"
 
 msgctxt "#20401"
 msgid "Play music video"
@@ -11280,7 +11280,7 @@ msgstr "Näytä tyhjät sarjat"
 
 msgctxt "#20472"
 msgid "Show all performers for music videos"
-msgstr "Näytä kaikki musiikkivideoiden esittäjät"
+msgstr "Näytä kaikki musiikkivideoiden artistit"
 
 msgctxt "#20473"
 msgid "Premiered"
@@ -12152,7 +12152,7 @@ msgstr "Tallennettu musiikki"
 
 msgctxt "#21884"
 msgid "Query info for all artists"
-msgstr "Nouda kaikkien esittäjien tiedot"
+msgstr "Nouda kaikkien artistien tiedot"
 
 msgctxt "#21885"
 msgid "Downloading album information"
@@ -12160,7 +12160,7 @@ msgstr "Noudetaan albumin tietoja"
 
 msgctxt "#21886"
 msgid "Downloading artist information"
-msgstr "Noudetaan esittäjän tietoja"
+msgstr "Noudetaan artistin tietoja"
 
 msgctxt "#21887"
 msgid "Biography"
@@ -12172,15 +12172,15 @@ msgstr "Diskografia"
 
 msgctxt "#21889"
 msgid "Searching artist"
-msgstr "Etsitään esittäjää"
+msgstr "Etsitään artistia"
 
 msgctxt "#21890"
 msgid "Select artist"
-msgstr "Valitse esittäjä"
+msgstr "Valitse artisti"
 
 msgctxt "#21891"
 msgid "Artist information"
-msgstr "Esittäjän tiedot"
+msgstr "Artistin tiedot"
 
 msgctxt "#21892"
 msgid "Instruments"
@@ -12458,7 +12458,7 @@ msgstr "Albumien tiedot"
 
 msgctxt "#24017"
 msgid "Artist information"
-msgstr "Esittäjien tiedot"
+msgstr "Artistien tiedot"
 
 msgctxt "#24018"
 msgid "Services"
@@ -13321,7 +13321,7 @@ msgstr "Säveltäjä"
 #. Artists which sing the music (if present)
 msgctxt "#29904"
 msgid "Artist"
-msgstr "Esittäjä"
+msgstr "Artisti"
 
 #. Conductor of the classic music (if present)
 msgctxt "#29905"
@@ -16006,12 +16006,12 @@ msgstr "Tallennuspainikkeesta suoritettava toiminto. [Tallenna nykyinen ohjelma]
 #. Description of setting with label #13414 "Show song and album artists"
 msgctxt "#36255"
 msgid "When enabled, both song and album artists are shown. When disabled, only album artists are shown and artists that appear only on individual songs from an album are excluded."
-msgstr "Kun käytössä, näytetään sekä kappaleen, että albumin esittäjät. Muutoin yksittäisten kappaleiden esittäjiä ei näytetä."
+msgstr "Kun käytössä, näytetään sekä kappaleen, että albumin artistit. Muutoin yksittäisten kappaleiden artisteja ei näytetä."
 
 #. Description of setting with label #20192 "Fetch additional information during updates"
 msgctxt "#36256"
 msgid "Automatically fetch album and artist information from information providers when adding songs to the library."
-msgstr "Nouda albumien ja esittäjien tiedot automaattisesti lisättäessä kappaleita musiikkikirjastoon."
+msgstr "Nouda albumien ja artistien tiedot automaattisesti lisättäessä kappaleita musiikkikirjastoon."
 
 #. Description of setting with label #20193 "Default provider for album information"
 msgctxt "#36257"
@@ -16021,7 +16021,7 @@ msgstr "Valitse albumien oletustietolähde."
 #. Description of setting with label #20194 "Default provider for artist information"
 msgctxt "#36258"
 msgid "Select the default artist information provider."
-msgstr "Valitse esittäjien oletustietolähde."
+msgstr "Valitse artistien oletustietolähde."
 
 #. Description of setting with label #22000 "Update library on startup"
 msgctxt "#36259"
@@ -16150,7 +16150,7 @@ msgstr "Toista CD-levyt automaattisesti, kun ne ladataan asemaan."
 #. Description of setting with label #227 "Load audio CD information from online service"
 msgctxt "#36284"
 msgid "Read the information belonging to an audio CD, like song title and artist, from the Internet database gnudb.org."
-msgstr "Nouda äänilevyn tiedot, kuten kappaleiden nimet ja esittäjät, gnudb.org-tietokannasta."
+msgstr "Nouda äänilevyn tiedot, kuten kappaleiden nimet ja artistit, gnudb.org-tietokannasta."
 
 #. Description of setting label #20000 "Saved music folder"
 msgctxt "#36285"
@@ -16160,7 +16160,7 @@ msgstr "Valitse CD-levyltä tuotavien kappaleiden tallennuskohde."
 #. Description of setting with label #13307 "Track naming template" in audiocds.trackpathformat
 msgctxt "#36286"
 msgid "Control how saved music is named from the tags. Tags: [B]%N[/B]: TrackNumber, [B]%S[/B]: DiscNumber, [B]%A[/B]: Artist, [B]%T[/B]: Title, [B]%B[/B]: Album, [B]%G[/B]: Genre, [B]%Y[/B]: Year, [B]%F[/B]: FileName, [B]%D[/B]: Duration, [B]%J[/B]: Date, [B]%R[/B]: Rating, [B]%I[/B]: FileSize."
-msgstr "Määritä miten musiikkitiedostot nimetään. Tagit: [B]%N[/B]: Kappaleen numero, [B]%S[/B]: Levyn numero, [B]%A[/B]: Esittäjä, [B]%T[/B]: Nimi, [B]%B[/B]: Albumi, [B]%G[/B]: Lajityyppi, [B]%Y[/B]: Vuosi, [B]%F[/B]: Tiedostonimi, [B]%D[/B]: Kesto, [B]%J[/B]: Päiväys, [B]%R[/B]: Arvio, [B]%I[/B]: Tiedostokoko."
+msgstr "Määritä miten musiikkitiedostot nimetään. Tagit: [B]%N[/B]: Kappaleen numero, [B]%S[/B]: Levyn numero, [B]%A[/B]: Artisti, [B]%T[/B]: Nimi, [B]%B[/B]: Albumi, [B]%G[/B]: Lajityyppi, [B]%Y[/B]: Vuosi, [B]%F[/B]: Tiedostonimi, [B]%D[/B]: Kesto, [B]%J[/B]: Päiväys, [B]%R[/B]: Arvio, [B]%I[/B]: Tiedostokoko."
 
 #. Description of setting with label #621 "Encoder"
 msgctxt "#36287"
@@ -16195,12 +16195,12 @@ msgstr "Tämä kategoria sisältää käynnistysasetuksia."
 #. Description of setting with label #20223 "Artist information folder"
 msgctxt "#36293"
 msgid "Select the folder where artist information (nfo files and images) should be saved in."
-msgstr "Valitse esittäjätietojen (nfo-tiedostot ja kuvat) paikallinen tallennuskansio."
+msgstr "Valitse artistitietojen (nfo-tiedostot ja kuvat) paikallinen tallennuskansio."
 
 #. Description of setting with label #20228 "Use artist sortname"
 msgctxt "#36294"
 msgid "When sorting music items by artist use sortname e.g. Parton, Dolly rather than name."
-msgstr "Käytä esittäjän nimen sijaan lajittelunimeä lajiteltaessa esittäjän perusteella, esim. \"Parton, Dolly\"."
+msgstr "Käytä artistin nimen sijaan lajittelunimeä lajiteltaessa artistin perusteella, esim. \"Parton, Dolly\"."
 
 #. Description of setting with label #752 "Opacity"
 msgctxt "#36295"
@@ -16263,7 +16263,7 @@ msgstr "Luo kuvista pienoiskuvat automaattisesti, kun siirrytään kuvakansioon.
 #. Description of setting with label #20472 "Show all performers for music videos"
 msgctxt "#36308"
 msgid "When enabled, shows all performers in the artist list for music videos, not just the main artist"
-msgstr "Kun käytössä, näytetään musiikkivideoiden esittäjätiedoissa pelkän pääesittäjän lisäksi myös kaikki muut esiintyjät."
+msgstr "Kun käytössä, näytetään musiikkivideoiden artistitiedoissa pelkän pääartistin lisäksi myös kaikki muut artistit."
 
 #. Description of setting with label #22022 "Show video files in listings"
 msgctxt "#36309"
@@ -17612,11 +17612,11 @@ msgstr "musiikkia"
 
 msgctxt "#36916"
 msgid "artist"
-msgstr "esittäjä"
+msgstr "artisti"
 
 msgctxt "#36917"
 msgid "artists"
-msgstr "esittäjää"
+msgstr "artistia"
 
 msgctxt "#36918"
 msgid "album"
@@ -17927,12 +17927,12 @@ msgstr "[puuttuu]"
 #. Title album artists node, and music item to export output, see #38306
 msgctxt "#38043"
 msgid "Album artists"
-msgstr "Albumin esittäjät"
+msgstr "Albumin artistit"
 
 #. Title all artists node
 msgctxt "#38044"
 msgid "Song & album artists"
-msgstr "Kappaleen ja albumin esittäjät"
+msgstr "Kappaleen ja albumin artistit"
 
 #. Title all contributors node (any role e.g. composer, piano, producer, engineer)
 msgctxt "#38045"
@@ -17952,7 +17952,7 @@ msgstr "Musiikkirjaston täytyy pävittää tagit tiedostoista. Haluatko päivit
 #. Extra scraping question on upgrade from previous version
 msgctxt "#38061"
 msgid "Fetch additional information for albums and artists? This could take some time so you may prefer to do this later"
-msgstr "Noudetaanko albumeille ja esittäjille laajempia tietoja? Tämä voi kestää jonkin aikaa, jonka vuoksi haluat ehkä tehdä tämä myöhemmin"
+msgstr "Noudetaanko albumeille ja artisteille laajempia tietoja? Tämä voi kestää jonkin aikaa, jonka vuoksi haluat ehkä tehdä sen myöhemmin."
 
 #. Full tag scanning question on library update (by default tags are only scanned when the file has changed since last time)
 msgctxt "#38062"
@@ -17967,12 +17967,12 @@ msgstr "Määritä oletustietolähde"
 #. Item in selection list #38338 to change the information provider for a specific artist, related to #20195
 msgctxt "#38064"
 msgid "Set for this artist"
-msgstr "Määritä tälle esittäjälle"
+msgstr "Määritä tälle artistille"
 
 #. Item in selection list #38338 to change the information provider for all artists in node, related to #20195
 msgctxt "#38065"
 msgid "Set for all artists shown"
-msgstr "Määritä kaikille näytettäville esittäjille"
+msgstr "Määritä kaikille näytettäville artisteille"
 
 #. Item in selection list #38338 to change the information provider for a specific album, related to #20195
 msgctxt "#38066"
@@ -17987,7 +17987,7 @@ msgstr "Määritä kaikille näytettäville albumeille"
 #. Dialog message asking for confirmation of change the information provider for all artists shown in node, after #38065
 msgctxt "#38068"
 msgid "Use this information provider for all the artists shown here?"
-msgstr "Käytetäänkö tietolähdettä kaikille tässä näyttäville esittäjille?"
+msgstr "Käytetäänkö tietolähdettä kaikille tässä näytettäville artisteille?"
 
 #. Dialog message asking for confirmation of change the information provider for all albums shown in node, after #38067
 msgctxt "#38069"
@@ -17997,7 +17997,7 @@ msgstr "Käytetäänkö tietolähdettä kaikille tässä näyttäville albumeill
 #. Dialog message asking for confirmation of change to the default artist information provider, after #38063
 msgctxt "#38070"
 msgid "Use this information provider for all artists, clearing any previous settings for specific artists?"
-msgstr "Käytetäänkö tietolähdettä kaikille esittäjille ja tyhjennetäänkö kaikki aiemmat esittäjäkohtaiset asetukset?"
+msgstr "Käytetäänkö tietolähdettä kaikille artisteille ja tyhjennetäänkö kaikki aiemmat artistikohtaiset asetukset?"
 
 #. Dialog message asking for confirmation of change to the default album information provider, after #38063
 msgctxt "#38071"
@@ -18192,7 +18192,7 @@ msgstr "Vie tiedot NFO-tiedostoihin"
 #. See #38309 when NFO and art export disabled so only artist folders
 msgctxt "#38310"
 msgid "Output information to NFO files (currently exporting artist folders only)"
-msgstr "Vie tiedot NFO-tiedostoihin (nyt viedään vain esittäjäkansiot)"
+msgstr "Vie tiedot NFO-tiedostoihin (nyt viedään vain artistikansiot)"
 
 msgctxt "#38311"
 msgid "Overwrite existing files"
@@ -18201,17 +18201,17 @@ msgstr "Korvaa olemassa olevat tiedostot"
 #. Music item to export output, see #38306
 msgctxt "#38312"
 msgid "Song artists"
-msgstr "Kappaleiden esittäjät"
+msgstr "Kappaleiden artistit"
 
 #. Music item to export output, see #38306
 msgctxt "#38313"
 msgid "Other artists"
-msgstr "Muut esittäjät"
+msgstr "Muut artistit"
 
 #. Message when trying to do a kind #38303 of export and setting #20223 is empty
 msgctxt "#38317"
 msgid "Unable to export to library folders as the system artist information folder setting is empty"
-msgstr "Kirjastokansioihin ei voida viedä, koska järjestelmän esittäjätietojen kansiota ei ole määritetty"
+msgstr "Kirjastokansioihin ei voida viedä, koska järjestelmän artistitietojen kansiota ei ole määritetty"
 
 #. Message when trying to do export and destination folder #38305 does not exist
 msgctxt "#38318"
@@ -18226,17 +18226,17 @@ msgstr "Vie"
 #. Message when adding music source and setting #20223 is empty
 msgctxt "#38320"
 msgid "Do you have local artist information (NFO) and art files that you want to fetch? Set the location of these artist folders now"
-msgstr "Haluatko käyttää paikallisia esittäjätietoja (NFO) ja kuvatiedostoja? Määritä näiden esittäjäkansioiden sijainnit nyt"
+msgstr "Haluatko käyttää paikallisia artistitietoja (NFO) ja kuvatiedostoja? Määritä näiden artistikansioiden sijainnit nyt."
 
 #. Kind of export output, see #38304
 msgctxt "#38321"
 msgid "Artist folders only"
-msgstr "Vain esittäjäkansiot"
+msgstr "Vain artistikansiot"
 
 #. Explanation of what export to library folders means see #38303 when albums and artists selected
 msgctxt "#38322"
 msgid "Artists exported to Artist Information Folder and albums to music folders"
-msgstr "Esittäjät viedään esittäjätietokansioon ja albumit musiikkikansioihin"
+msgstr "Artistit viedään artistitietokansioon ja albumit musiikkikansioihin"
 
 #. Explanation of what export to library folders means see #38303 when only albums selected
 msgctxt "#38323"
@@ -18246,12 +18246,12 @@ msgstr "Albumit viedään musiikkikansioihin"
 #. Explanation of what export to library folders means see #38303 when only artists selected
 msgctxt "#38324"
 msgid "Artists exported to Artist Information Folder"
-msgstr "Esittäjät viedään esittäjätietokansioon"
+msgstr "Artistit viedään artistitietokansioon"
 
 #. Explanation of what export artist folders only means see #38304
 msgctxt "#38325"
 msgid "Artist subfolders created in Artist Information Folder"
-msgstr "Esittäjätietokansioon luodaan esittäjäkohtaiset alikansiot"
+msgstr "Artistitietokansioon luodaan artistikohtaiset alikansiot"
 
 #. Dialog heading when editing default settings for fetching additional music information
 msgctxt "#38330"
@@ -18266,7 +18266,7 @@ msgstr "Määritä albumien tietolähteet"
 #. Dialog heading when editing artist information provider
 msgctxt "#38332"
 msgid "Set Artist Information Provider"
-msgstr "Määritä esittäjien tietolähteet"
+msgstr "Määritä artistien tietolähteet"
 
 #. Use scrapers to fetch additional album and artist information and art during scan
 msgctxt "#38333"
@@ -18281,12 +18281,12 @@ msgstr "Albumien tietolähde"
 #. Scraper to use for additional artist information. See #20194
 msgctxt "#38335"
 msgid "Artist information provider"
-msgstr "Esittäjien tietolähde"
+msgstr "Artistien tietolähde"
 
 #. Location of folder where local art and nfo files can be found for artists. See #20223
 msgctxt "#38336"
 msgid "Local artist information folder"
-msgstr "Paikallinen esittäjätietokansio"
+msgstr "Paikallinen artistitietokansio"
 
 #. Group header describing the settings
 msgctxt "#38337"
@@ -18591,12 +18591,12 @@ msgstr "Täydennä kaikki puuttuvat mediakuvitustyypit tietolähteiden ensimmäi
 
 msgctxt "#39131"
 msgid "Artist art types whitelist"
-msgstr "Esittäjille sallittut mediakuvitukset"
+msgstr "Artisteille sallittut mediakuvitukset"
 
 #. Description of setting with label #39131 "Artist art types whitelist"
 msgctxt "#39132"
 msgid "Limit the artist artwork fetched locally or applied from scraper remote art results to just those art types in the whitelist"
-msgstr "Rajoita esittäjien paikalliset tai Internetistä noudetut mediakuvitukset vain sallittujen listalle lisättyihin tyyppeihin"
+msgstr "Rajoita artistien paikalliset tai Internetistä noudetut mediakuvitukset vain sallittujen listalle lisättyihin tyyppeihin."
 
 msgctxt "#39133"
 msgid "Album art types whitelist"
@@ -18614,7 +18614,7 @@ msgstr "Pienoiskuvien teidostonimet"
 #. Description of setting with label #39135 "Thumbnail image files"
 msgctxt "#39136"
 msgid "The names of files that contain primary artwork (thumbnails), generally square and used both full and in reduced size to visually identify a folder, artist, album or song"
-msgstr "Pääkuvitusten (pienoiskuvien) tiedostonimet. Nämä ovat yleensä neliön muotoisia ja niitä käytetään eri kokoisina kansioiden, esittäjien, albumien ja kappaleiden visuaaliseen tunnistukseen"
+msgstr "Pääkuvitusten (pienoiskuvien) tiedostonimet. Nämä ovat yleensä nelikulmaisia ja niitä käytetään eri kokoisina kansioiden, artistien, albumien ja kappaleiden visuaaliseen tunnistukseen."
 
 msgctxt "#39137"
 msgid "Artwork level"
