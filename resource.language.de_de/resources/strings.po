@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-24 06:23+0000\n"
+"PO-Revision-Date: 2026-08-31 22:09+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/de_de/>\n"
 "Language: de_de\n"
@@ -2463,12 +2463,12 @@ msgid "Use album levels"
 msgstr "Albumlautstärke verwenden"
 
 msgctxt "#641"
-msgid "Files with ReplayGain information"
-msgstr "Dateien mit ReplayGain-Informationen"
+msgid "Preamp for files with ReplayGain information"
+msgstr ""
 
 msgctxt "#642"
-msgid "Files without ReplayGain information"
-msgstr "Dateien ohne ReplayGain-Informationen"
+msgid "Preamp for files without ReplayGain information"
+msgstr ""
 
 msgctxt "#643"
 msgid "Avoid clipping protection on ReplayGained files"
@@ -7394,7 +7394,7 @@ msgstr "Pfad:"
 #. Game settings category name
 msgctxt "#15312"
 msgid "Achievements"
-msgstr "Erfolge"
+msgstr "Errungenschaften"
 
 #. Group label for Achievements category in game settings
 msgctxt "#15313"
@@ -15532,11 +15532,101 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "Disk auswählen"
 
+#. Heading of the notification shown when the player earns an achievement
+msgctxt "#35281"
+msgid "Achievement Unlocked"
+msgstr "Errungenschaft freigeschaltet"
+
+#. Heading of the notification shown when every achievement of a game has been earned in hardcore mode
+msgctxt "#35282"
+msgid "Game mastered"
+msgstr "Spiel gemeistert"
+
+#. Heading of the notification shown when every achievement of a game has been earned
+msgctxt "#35283"
+msgid "Game completed"
+msgstr "Spiel vollendet"
+
+#. Notification shown when a game with achievement support is loaded. {0:d} is the number earned, {1:d} the total
+msgctxt "#35284"
+msgid "{0:d} of {1:d} achievements unlocked"
+msgstr "{0:d} von {1:d} Erfolgen freigeschaltet"
+
+#. Message shown when the achievements dialog is opened without being logged in to RetroAchievements
+msgctxt "#35285"
+msgid "Log in to RetroAchievements in Settings to use this feature."
+msgstr "Bei RetroAchievements in den Einstellungen anmelden, um diese Funktion zu nutzen."
+
+#. Message shown when the achievements dialog is opened for a game that RetroAchievements has no achievement set for
+msgctxt "#35286"
+msgid "This game doesn't support RetroAchievements"
+msgstr "Dieses Spiel unterstützt RetroAchievements nicht"
+
+#. Label for the button that opens the achievements dialog, and heading of that dialog
+msgctxt "#35287"
+msgid "Achievements"
+msgstr "Errungenschaften"
+
+#. Progress through a game's achievements, weighted by point value. {0:d} is a percentage
+msgctxt "#35288"
+msgid "{0:d}% complete"
+msgstr "{0:d} % abgeschlossen"
+
+#. Date an achievement was earned. {0:s} is a localised date
+msgctxt "#35289"
+msgid "Unlocked {0:s}"
+msgstr "Freigeschaltet am {0:s}"
+
+#. Rarity category of an achievement earned by more than half of players
+msgctxt "#35290"
+msgid "Common"
+msgstr "Häufig"
+
+#. Rarity category of an achievement earned by 10% to 50% of players
+msgctxt "#35291"
+msgid "Uncommon"
+msgstr "Ungewöhnlich"
+
+#. Rarity category of an achievement earned by 2% to 10% of players
+msgctxt "#35292"
+msgid "Rare"
+msgstr "Selten"
+
+#. Rarity category of an achievement earned by fewer than 2% of players
+msgctxt "#35293"
+msgid "Ultra rare"
+msgstr "Ultraselten"
+
+#. Point value of an achievement, abbreviated to fit the list. {0:d} is the number of points
+msgctxt "#35294"
+msgid "{0:d} pts"
+msgstr "{0:d} Punkte"
+
+#. Notification shown after signing in to RetroAchievements. {0:s} is the account name
+msgctxt "#35295"
+msgid "Logged in as {0:s}"
+msgstr "Angemeldet als {0:s}"
+
+#. Notification shown when RetroAchievements becomes unreachable during play
+msgctxt "#35296"
+msgid "Unlocks will be submitted when the connection returns."
+msgstr "Freischaltungen werden übermittelt, sobald die Verbindung wiederhergestellt ist."
+
+#. Notification shown when RetroAchievements becomes reachable again
+msgctxt "#35297"
+msgid "Pending unlocks have been submitted."
+msgstr "Ausstehende Freischaltungen wurden übermittelt."
+
 # empty strings from id 35281 to 35297
 #. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
 msgctxt "#35298"
 msgid "This savestate is compressed and can't be loaded by this version of Kodi."
 msgstr "Dieser Spielstand ist komprimiert und kann nicht von dieser Version von Kodi geladen werden."
+
+#. Shown when the achievements dialog is opened before the game has been identified
+msgctxt "#35299"
+msgid "Still looking this game up on RetroAchievements..."
+msgstr "Dieses Spiel wird noch bei RetroAchievements gesucht ..."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16598,15 +16688,15 @@ msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
 msgstr "ReplayGain-Informationen aus Musikdateien auslesen und Lautstärkepegel entsprechend anpassen. Solche Informationen werden von Programmen wie MP3Gain in die Dateien geschrieben."
 
-#. Description of setting with label #641 "Files with ReplayGain information"
+#. Description of setting with label #641 "Preamplification level to use for files with encoded ReplayGain information"
 msgctxt "#36268"
-msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Referenzlautstärke (PreAmp level) für Dateien mit eingebetteten ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
+msgid "Preamplification level to use for files with encoded ReplayGain information."
+msgstr ""
 
-#. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
+#. Description of setting with label #642 "Preamplification level to use for files without encoded ReplayGain information"
 msgctxt "#36269"
-msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Referenzlautstärke (PreAmp level) für Dateien ohne eingebettete ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
+msgid "Preamplification level to use for files without encoded ReplayGain information."
+msgstr ""
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
@@ -19711,12 +19801,12 @@ msgstr "Wenn aktiviert, werden Level-5-Metadaten (aktiver Bereich) in Dolby Visi
 #. Title of the setting that skips subtitles whose language matches the audio language
 msgctxt "#39211"
 msgid "Don't show subtitles matching the audio language"
-msgstr ""
+msgstr "Untertitel für die Audiosprache nicht anzeigen"
 
 #. Help text for setting "Don't show subtitles matching the audio language" of label #39211
 msgctxt "#39212"
 msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
-msgstr ""
+msgstr "Untertitel für die Sprache das gerade wiedergegebenen Tons nicht aktivieren."
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
@@ -19862,8 +19952,8 @@ msgstr "Die Standardversion eines Films kann nicht entfernt werden. Bitte eine a
 
 #. Remove video version dialog text
 msgctxt "#40020"
-msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr "Soll Version „{0:s}“ wirklich entfernt werden?"
+msgid "Are you sure to remove version \"{0:s}\" from the library?"
+msgstr "Soll Version „{0:s}“ wirklich aus der Bibliothek entfernt werden?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
@@ -19974,6 +20064,26 @@ msgstr "Wiedergabeliste der aktuellen Videoversion zuordnen?"
 msgctxt "#40042"
 msgid "Found a different version of the movie \"{0:s}\" in playlist {1:s} of {2:s} - length {3:s}. Would you like to convert it into an additional version of the original?"
 msgstr "Andere Version des Films „{0:s}“ gefunden in Wiedergabeliste {1:s} von {2:s} - Länge {3:s}. Soll sie in eine zusätzliche Version des Originals umgewandelt werden?"
+
+#. Ungroup video version dialog title
+msgctxt "#40043"
+msgid "Ungroup video version"
+msgstr "Videoversion trennen"
+
+#. Manage versions, ungroup: ungrouping the default version of a movie is not allowed.
+msgctxt "#40044"
+msgid "The default version of a movie cannot be ungrouped. Set a different default version and try again."
+msgstr "Die Standardversion eines Films kann nicht getrennt werden. Bitte eine andere Version als Standard setzen und dann nochmal versuchen."
+
+#. Ungroup video version dialog text
+msgctxt "#40045"
+msgid "Are you sure to ungroup version \"{0:s}\"?[CR]It will be turned into a library movie entry."
+msgstr "Soll Version „{0:s}“ wirklich getrennt werden?[CR]Sie wird danach als eigenständiger Film in der Bibliothek geführt."
+
+#. Button name for video version ungroup function of the manage versions dialog
+msgctxt "#40046"
+msgid "Ungroup"
+msgstr "Trennen"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -20228,6 +20338,31 @@ msgstr "Wenn aktiviert, wird ein Bestätigungsdialog angezeigt, wenn Dateien gel
 msgctxt "#40803"
 msgid "Monitor change may require restart."
 msgstr "Nach dem Ändern des Bildschirms ist möglicherweise ein Neustart erforderlich."
+
+# Value formatting for ReplayGain Preamp settings
+msgctxt "#40804"
+msgid "{0:.1f} dB"
+msgstr ""
+
+#~ msgctxt "#641"
+#~ msgid "Files with ReplayGain information"
+#~ msgstr "Dateien mit ReplayGain-Informationen"
+
+#~ msgctxt "#642"
+#~ msgid "Files without ReplayGain information"
+#~ msgstr "Dateien ohne ReplayGain-Informationen"
+
+#~ msgctxt "#36268"
+#~ msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
+#~ msgstr "Referenzlautstärke (PreAmp level) für Dateien mit eingebetteten ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
+
+#~ msgctxt "#36269"
+#~ msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
+#~ msgstr "Referenzlautstärke (PreAmp level) für Dateien ohne eingebettete ReplayGain-Informationen. Voreingestellt ist 89 dB, wie der ReplayGain-Standard es vorsieht. Bitte Vorsicht bei Änderungen."
+
+#~ msgctxt "#40020"
+#~ msgid "Are you sure to remove version \"{0:s}\"?"
+#~ msgstr "Soll Version „{0:s}“ wirklich entfernt werden?"
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"

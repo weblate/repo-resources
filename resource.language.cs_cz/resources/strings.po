@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-08-22 17:02+0000\n"
+"PO-Revision-Date: 2026-08-30 03:04+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-core/kodi-main/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -2463,12 +2463,12 @@ msgid "Use album levels"
 msgstr "Použít úrovně alba"
 
 msgctxt "#641"
-msgid "Files with ReplayGain information"
-msgstr "Soubory s informacemi ReplayGain"
+msgid "Preamp for files with ReplayGain information"
+msgstr ""
 
 msgctxt "#642"
-msgid "Files without ReplayGain information"
-msgstr "Soubory bez informací ReplayGain"
+msgid "Preamp for files without ReplayGain information"
+msgstr ""
 
 msgctxt "#643"
 msgid "Avoid clipping protection on ReplayGained files"
@@ -15533,11 +15533,101 @@ msgctxt "#35280"
 msgid "Select disc"
 msgstr "Vybrat disk"
 
+#. Heading of the notification shown when the player earns an achievement
+msgctxt "#35281"
+msgid "Achievement Unlocked"
+msgstr "Úspěch odemčen"
+
+#. Heading of the notification shown when every achievement of a game has been earned in hardcore mode
+msgctxt "#35282"
+msgid "Game mastered"
+msgstr "Hra zvládnuta"
+
+#. Heading of the notification shown when every achievement of a game has been earned
+msgctxt "#35283"
+msgid "Game completed"
+msgstr "Hra dokončena"
+
+#. Notification shown when a game with achievement support is loaded. {0:d} is the number earned, {1:d} the total
+msgctxt "#35284"
+msgid "{0:d} of {1:d} achievements unlocked"
+msgstr "Odemčeno {0:d} z {1:d} úspěchů"
+
+#. Message shown when the achievements dialog is opened without being logged in to RetroAchievements
+msgctxt "#35285"
+msgid "Log in to RetroAchievements in Settings to use this feature."
+msgstr "Chcete-li tuto funkci používat, přihlaste se v Nastavení do RetroAchievements."
+
+#. Message shown when the achievements dialog is opened for a game that RetroAchievements has no achievement set for
+msgctxt "#35286"
+msgid "This game doesn't support RetroAchievements"
+msgstr "Tato hra nepodporuje RetroAchievements"
+
+#. Label for the button that opens the achievements dialog, and heading of that dialog
+msgctxt "#35287"
+msgid "Achievements"
+msgstr "Úspěchy"
+
+#. Progress through a game's achievements, weighted by point value. {0:d} is a percentage
+msgctxt "#35288"
+msgid "{0:d}% complete"
+msgstr "Splněno: {0:d} %"
+
+#. Date an achievement was earned. {0:s} is a localised date
+msgctxt "#35289"
+msgid "Unlocked {0:s}"
+msgstr "Odemčeno {0:s}"
+
+#. Rarity category of an achievement earned by more than half of players
+msgctxt "#35290"
+msgid "Common"
+msgstr "Běžný"
+
+#. Rarity category of an achievement earned by 10% to 50% of players
+msgctxt "#35291"
+msgid "Uncommon"
+msgstr "Neobvyklý"
+
+#. Rarity category of an achievement earned by 2% to 10% of players
+msgctxt "#35292"
+msgid "Rare"
+msgstr "Vzácný"
+
+#. Rarity category of an achievement earned by fewer than 2% of players
+msgctxt "#35293"
+msgid "Ultra rare"
+msgstr "Mimořádně vzácný"
+
+#. Point value of an achievement, abbreviated to fit the list. {0:d} is the number of points
+msgctxt "#35294"
+msgid "{0:d} pts"
+msgstr "{0:d} b."
+
+#. Notification shown after signing in to RetroAchievements. {0:s} is the account name
+msgctxt "#35295"
+msgid "Logged in as {0:s}"
+msgstr "Přihlášen jako {0:s}"
+
+#. Notification shown when RetroAchievements becomes unreachable during play
+msgctxt "#35296"
+msgid "Unlocks will be submitted when the connection returns."
+msgstr "Odemknuté úspěchy budou odeslány po obnovení připojení."
+
+#. Notification shown when RetroAchievements becomes reachable again
+msgctxt "#35297"
+msgid "Pending unlocks have been submitted."
+msgstr "Čekající odemknuté úspěchy byly odeslány."
+
 # empty strings from id 35281 to 35297
 #. Error message shown when trying to load a compressed savestate in an unsupported version of Kodi
 msgctxt "#35298"
 msgid "This savestate is compressed and can't be loaded by this version of Kodi."
 msgstr "Tento uložený stav je komprimovaný a nelze ho načíst touto verzí Kodi."
+
+#. Shown when the achievements dialog is opened before the game has been identified
+msgctxt "#35299"
+msgid "Still looking this game up on RetroAchievements..."
+msgstr "Tato hra se na RetroAchievements stále vyhledává..."
 
 #. connection state "host unreachable"
 msgctxt "#35505"
@@ -16599,15 +16689,15 @@ msgctxt "#36267"
 msgid "Read the ReplayGain information encoded in your audio files by a program such as MP3Gain and normalise the sound levels accordingly."
 msgstr "Číst informace ReplayGain zakódované do vašich audio souborů programem jako je MP3Gain a odpovídajícím způsobem na základě toho normalizovat úrovně zvuku."
 
-#. Description of setting with label #641 "Files with ReplayGain information"
+#. Description of setting with label #641 "Preamplification level to use for files with encoded ReplayGain information"
 msgctxt "#36268"
-msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Referenční hlasitost (úroveň předzesilovače) použitá pro soubory se zakódovanými informacemi ReplayGain. Výchozí je standardních 89 dB. Měňte opatrně."
+msgid "Preamplification level to use for files with encoded ReplayGain information."
+msgstr ""
 
-#. Description of setting with label #642 "PreAmp Level - Non ReplayGained files"
+#. Description of setting with label #642 "Preamplification level to use for files without encoded ReplayGain information"
 msgctxt "#36269"
-msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
-msgstr "Referenční hlasitost (úroveň předzesilovače) pro soubory bez zakódovaných informací ReplayGain. Výchozí je standardních 89 dB. Měňte opatrně."
+msgid "Preamplification level to use for files without encoded ReplayGain information."
+msgstr ""
 
 #. Description of setting with label #643 "Avoid clipping protection on ReplayGained files"
 msgctxt "#36270"
@@ -17468,17 +17558,17 @@ msgstr "Vyberte pro povolení použití zdvojené obnovovací frekvence (přehr�
 #. Value of the track order settings #36448 #36450 #36452
 msgctxt "#36446"
 msgid "Sorted"
-msgstr ""
+msgstr "Seřazené"
 
 #. Name of the setting of the stream order in the stream selection screen and the OSD for video files
 msgctxt "#36447"
 msgid "Video file stream display order"
-msgstr ""
+msgstr "Pořadí zobrazení streamů ve videosouborech"
 
 #. Description of setting with label #36447 "Video file stream display order"
 msgctxt "#36448"
 msgid "Video files only: display order in the stream selection dialogs. [Media] stream order in the media, [Sorted] sorted using the stream attributes[CR]"
-msgstr ""
+msgstr "Pouze pro videosoubory: pořadí zobrazení v dialogových oknech výběru streamu. [Média] pořadí streamů v médiu, [Seřazené] seřazené podle vlastností streamů[CR]"
 
 #. Description of settings with label #14112 "Enable event logging"
 msgctxt "#36460"
@@ -19712,12 +19802,12 @@ msgstr "Pokud je povoleno, u souborů Dolby Vision se metadata úrovně 5 (aktiv
 #. Title of the setting that skips subtitles whose language matches the audio language
 msgctxt "#39211"
 msgid "Don't show subtitles matching the audio language"
-msgstr ""
+msgstr "Nezobrazovat titulky ve stejném jazyce jako zvuk"
 
 #. Help text for setting "Don't show subtitles matching the audio language" of label #39211
 msgctxt "#39212"
 msgid "Do not turn on subtitles that are in the same language as the audio being played. Forced subtitles are not affected."
-msgstr ""
+msgstr "Nezapínat titulky, které jsou ve stejném jazyce jako přehrávaný zvuk. Vynucené titulky nejsou ovlivněny."
 
 # empty strings from id 39211 to 39899
 #. List formatting: pattern used to join a list of exactly two items, e.g. "A and B"
@@ -19863,8 +19953,8 @@ msgstr "Výchozí verzi filmu nelze odebrat. Nastavte jinou výchozí verzi a zk
 
 #. Remove video version dialog text
 msgctxt "#40020"
-msgid "Are you sure to remove version \"{0:s}\"?"
-msgstr "Opravdu chcete odebrat verzi „{0:s}“?"
+msgid "Are you sure to remove version \"{0:s}\" from the library?"
+msgstr "Opravdu chcete z knihovny odebrat verzi „{0:s}“?"
 
 #. Remove item from library text if item has multiple versions
 msgctxt "#40021"
@@ -19975,6 +20065,26 @@ msgstr "Přiřadit seznam přehrávání aktuální verzi filmu?"
 msgctxt "#40042"
 msgid "Found a different version of the movie \"{0:s}\" in playlist {1:s} of {2:s} - length {3:s}. Would you like to convert it into an additional version of the original?"
 msgstr "V seznamu videí {1:s} z {2:s} byla nalezena jiná verze filmu „{0:s}“ o délce {3:s}. Chcete ji převést na další verzi původního filmu?"
+
+#. Ungroup video version dialog title
+msgctxt "#40043"
+msgid "Ungroup video version"
+msgstr "Vyjmout verzi videa ze seskupení"
+
+#. Manage versions, ungroup: ungrouping the default version of a movie is not allowed.
+msgctxt "#40044"
+msgid "The default version of a movie cannot be ungrouped. Set a different default version and try again."
+msgstr "Výchozí verzi filmu nelze vyjmout ze seskupení. Nastavte jinou výchozí verzi a zkuste to znovu."
+
+#. Ungroup video version dialog text
+msgctxt "#40045"
+msgid "Are you sure to ungroup version \"{0:s}\"?[CR]It will be turned into a library movie entry."
+msgstr "Opravdu chcete vyjmout verzi „{0:s}“ ze seskupení?[CR]Stane se z ní samostatná položka v knihovně."
+
+#. Button name for video version ungroup function of the manage versions dialog
+msgctxt "#40046"
+msgid "Ungroup"
+msgstr "Vyjmout ze seskupení"
 
 #. Ignore different video versions settting
 msgctxt "#40202"
@@ -20229,6 +20339,31 @@ msgstr "Pokud je povoleno, bude zobrazen potvrzovací dialog pro smazání soubo
 msgctxt "#40803"
 msgid "Monitor change may require restart."
 msgstr "Změna monitoru může vyžadovat restart."
+
+# Value formatting for ReplayGain Preamp settings
+msgctxt "#40804"
+msgid "{0:.1f} dB"
+msgstr ""
+
+#~ msgctxt "#641"
+#~ msgid "Files with ReplayGain information"
+#~ msgstr "Soubory s informacemi ReplayGain"
+
+#~ msgctxt "#642"
+#~ msgid "Files without ReplayGain information"
+#~ msgstr "Soubory bez informací ReplayGain"
+
+#~ msgctxt "#36268"
+#~ msgid "Reference volume (PreAmp level) to use for files with encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
+#~ msgstr "Referenční hlasitost (úroveň předzesilovače) použitá pro soubory se zakódovanými informacemi ReplayGain. Výchozí je standardních 89 dB. Měňte opatrně."
+
+#~ msgctxt "#36269"
+#~ msgid "Reference volume (PreAmp level) to use for files without encoded ReplayGain information. Default is 89dB as per standard. Change with caution."
+#~ msgstr "Referenční hlasitost (úroveň předzesilovače) pro soubory bez zakódovaných informací ReplayGain. Výchozí je standardních 89 dB. Měňte opatrně."
+
+#~ msgctxt "#40020"
+#~ msgid "Are you sure to remove version \"{0:s}\"?"
+#~ msgstr "Opravdu chcete odebrat verzi „{0:s}“?"
 
 #~ msgctxt "#14088"
 #~ msgid "Play DVDs automatically"
